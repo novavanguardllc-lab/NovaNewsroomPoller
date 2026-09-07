@@ -1,0 +1,11 @@
+{
+  "name": "nova-newsroom-poller",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "poll": "node poll.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
