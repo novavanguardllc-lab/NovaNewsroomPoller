@@ -9,7 +9,7 @@ on:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
 
