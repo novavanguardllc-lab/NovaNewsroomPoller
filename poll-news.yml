@@ -1,0 +1,33 @@
+# Save as .github/workflows/poll-news.yml in the poller repo
+# Schedule trigger removed now that cron-job.org handles timing via
+# api/poll.js on Vercel — kept here as a manual-only fallback in case
+# you ever want to run the git-commit version by hand.
+name: Poll News
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - name: Run poller
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: npm run poll
+
+      - name: Commit updated state
+        run: |
+          git config user.name "nova-newsroom-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json latest.json
+          git diff --cached --quiet && echo "No changes" || (git commit -m "poll: $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)
