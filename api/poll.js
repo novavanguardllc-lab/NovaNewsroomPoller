@@ -31,7 +31,14 @@ async function githubGetFile(path) {
   if (res.status === 404) return { content: null, sha: null };
   if (!res.ok) throw new Error(`GitHub GET ${path} failed: ${res.status}`);
   const data = await res.json();
-  const content = JSON.parse(Buffer.from(data.content, "base64").toString("utf8"));
+  const raw = Buffer.from(data.content, "base64").toString("utf8").trim();
+  if (!raw) return { content: null, sha: data.sha }; // file exists but is empty — treat like no prior state
+  let content;
+  try {
+    content = JSON.parse(raw);
+  } catch (err) {
+    throw new Error(`GitHub GET ${path} returned invalid JSON: ${err.message}`);
+  }
   return { content, sha: data.sha };
 }
 
