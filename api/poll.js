@@ -42,7 +42,7 @@ async function githubGetFile(path) {
   return { content, sha: data.sha };
 }
 
-async function githubPutFile(path, content, sha) {
+async function githubPutFile(path, content, sha, retriesLeft = 2) {
   const body = {
     message: `poll: ${new Date().toISOString()}`,
     content: Buffer.from(JSON.stringify(content, null, 2)).toString("base64"),
@@ -57,6 +57,15 @@ async function githubPutFile(path, content, sha) {
     },
     body: JSON.stringify(body),
   });
+
+  if (res.status === 409 && retriesLeft > 0) {
+    // Another overlapping run (a manual test hitting the same window as a
+    // scheduled one, most likely) updated this file between our GET and
+    // PUT. Refetch the current sha and retry instead of failing outright.
+    const { sha: freshSha } = await githubGetFile(path);
+    return githubPutFile(path, content, freshSha, retriesLeft - 1);
+  }
+
   if (!res.ok) {
     const text = await res.text();
     throw new Error(`GitHub PUT ${path} failed: ${res.status} ${text}`);
