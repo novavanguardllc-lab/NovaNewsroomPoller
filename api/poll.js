@@ -169,13 +169,20 @@ module.exports = async (req, res) => {
       latestSha
     );
 
-    for (const item of newlyStoredItems) {
-      await pushToNtfy(item);
-    }
-
+    // Parallel rather than sequential — pushing 10+ new items one at a
+    // time could by itself add several seconds, eating into the function's
+    // time budget for no reason since these pushes are independent.
+    await Promise.all(newlyStoredItems.map(pushToNtfy));
     res.status(200).json({ ok: true, newItems: newlyStoredItems.length, total: state.items.length });
   } catch (err) {
     console.error(err);
     res.status(500).json({ error: err.message });
   }
+};
+
+// Vercel Hobby defaults to a 10-second timeout, which fetching ~20 feeds
+// plus a couple of GitHub API round-trips can occasionally exceed on a
+// slow run. 60 is the max Hobby allows without enabling Fluid compute.
+module.exports.config = {
+  maxDuration: 60,
 };
