@@ -1,153 +1,102 @@
 {
-  "updatedAt": "2026-09-17T09:25:05.333Z",
+  "updatedAt": "2026-09-17T09:30:10.248Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.651Z"
+      "lastSuccess": "2026-09-17T09:30:10.332Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.693Z"
+      "lastSuccess": "2026-09-17T09:30:10.743Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.513Z"
+      "lastSuccess": "2026-09-17T09:30:10.309Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.632Z"
+      "lastSuccess": "2026-09-17T09:30:10.721Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.748Z"
+      "lastSuccess": "2026-09-17T09:30:10.486Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.869Z"
+      "lastSuccess": "2026-09-17T09:30:10.371Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.209Z"
+      "lastSuccess": "2026-09-17T09:30:10.468Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.012Z"
+      "lastSuccess": "2026-09-17T09:30:10.427Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.049Z"
+      "lastSuccess": "2026-09-17T09:30:10.430Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.133Z"
+      "lastSuccess": "2026-09-17T09:30:10.534Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.030Z"
+      "online": false,
+      "lastError": "Status code 404",
+      "lastErrorAt": "2026-09-17T09:30:10.510Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.648Z"
+      "lastSuccess": "2026-09-17T09:30:10.492Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.991Z"
+      "lastSuccess": "2026-09-17T09:30:10.376Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.136Z"
+      "lastSuccess": "2026-09-17T09:30:10.548Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.248Z"
+      "lastSuccess": "2026-09-17T09:30:10.978Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.913Z"
+      "lastSuccess": "2026-09-17T09:30:10.417Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.032Z"
+      "lastSuccess": "2026-09-17T09:30:10.713Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:05.937Z"
+      "lastSuccess": "2026-09-17T09:30:10.526Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.276Z"
+      "lastSuccess": "2026-09-17T09:30:10.559Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.409Z"
+      "lastSuccess": "2026-09-17T09:30:10.690Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Unquoted attribute value\nLine: 0\nColumn: 27\nChar: e",
-      "lastErrorAt": "2026-09-17T09:25:06.432Z"
+      "lastErrorAt": "2026-09-17T09:30:10.566Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.428Z"
+      "lastSuccess": "2026-09-17T09:30:10.711Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-09-17T09:25:06.456Z"
+      "lastSuccess": "2026-09-17T09:30:10.577Z"
     }
   },
   "items": [
-    {
-      "id": "story_c54f9800c8021381",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Fed raises interest rates",
-      "snippet": "The Fed chair appointed by President Trump raised interest rates to combat inflation. President Trump said he has confidence in Kevin Warsh and wants him to be independent. NBC News’ Brian Cheung reports.",
-      "link": "https://www.nbcnews.com/nightly-news/video/fed-raises-interest-rates-269999685977",
-      "imageUrl": null,
-      "publishedAt": "2026-09-16T23:16:15.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_3a81b8199532a2db",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump administration again denies visas for Palestinian delegation to attend the UN General Assembly - AP News",
-      "snippet": "Trump administration again denies visas for Palestinian delegation to attend the UN General Assembly  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnQzUVRQdVJQU0VzWC16Q2xSZ2xkMWx2dkZTakJtR1E0MEFCSWZPS0VrQ1RJTEpwcDQ1S0o3ZXoxbHZ5akJac2M5QkN4NmpJTS1nQjQ3RG85eHR5VzlpTVZLSkJDR0IxV3VBN3k5SjVqZFRPZGVQbk0zNjExZUpQVDhmX05xUWIzUEozejJUQWhlV2pRY3lseldNNm8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-09-17T01:21:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_5da8457c3d8f81e3",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Sam Leavitt injury bombshell sends LSU-Ole Miss showdown into chaotic mode, as Kiffin's return looms",
-      "snippet": "Sam Leavitt listed as \"doubtful\" on the SEC availability report days before LSU's showdown at Ole Miss, raising major questions about his status.",
-      "link": "https://www.foxnews.com/outkick-sports/sam-leavitt-injury-bombshell-sends-lsu-ole-miss-showdown-chaotic-mode-kiffin-return-looms",
-      "imageUrl": null,
-      "publishedAt": "2026-09-17T02:56:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c04dd56627759b96",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WATCH: Handcuffed inmate breaks free, punches deputy in wild courthouse escape attempt",
-      "snippet": "Video shows Timothy Reaggle allegedly slipping out of his handcuffs and punching a bailiff in an attempt to escape after his sentencing hearing at the Columbiana County Courthouse.",
-      "link": "https://www.foxnews.com/us/handcuffed-inmate-breaks-free-punches-deputy-wild-courthouse-escape-attempt",
-      "imageUrl": null,
-      "publishedAt": "2026-09-17T03:09:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
     {
       "id": "story_baaa30d12094711f",
       "source": "Reuters",
@@ -2692,6 +2641,58 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZk5YeHNYc0JGZTJGLTdNVmw2NzZXN0hBNlVaOGJlRHlWQkpCZmdyTHNManJ5VExWcjlldGJuNzdzdnJsZXV6U1dGMktwM2htV0JoZ2s3cWJsVzJqTzNqcFZCcTFvV1B0eDUwclB4MG93aHktTTNZSkZ4Rm5rQk9yQWtBa3hrWlQ2TEZCU2N5N3JWY3UtNE1NcGZpRnkweHA5MTExdXNSaWVqR3ZGVkY5dHZ0UTE5ODVBV1VOS095WjBwdw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-09-17T04:21:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d58d3bb655cb9d2f",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Jews once lived lived here: When houses tell stories",
+      "snippet": "Time and again, residents tracing the history of their homes discover the lives of Jewish predecessors who fled or were deported amid stories of suffering and loss.",
+      "link": "https://www.dw.com/en/jews-once-lived-lived-here-when-houses-tell-stories/a-79264813?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-09-17T09:24:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_15c0a7f0b3aa08a7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "How major US stock indexes fared Wednesday 9/16/2026 - AP News",
+      "snippet": "How major US stock indexes fared Wednesday 9/16/2026  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnFMdVd5QVRHdTMzdE1Rb3dSbDZFa1ZOVnl5VWE0ZS14T3NqbEdiOWZ1Szd2OHY4enRlRnpWU1N6N0k0eFBiZk5oUTFmNE1zeTRSZnNIa2NQTmdIZzdYc09yRDVlcjVTQzYtX1NndW55WFZER09fdlMzTzQwa1g1MW5Za2owY3phM0hJUE5lN2J0RXM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-09-16T20:14:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e652e59e2d6eff21",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EU Commission proposes social media ban for children under 13 - Reuters",
+      "snippet": "EU Commission proposes social media ban for children under 13  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRTVvWFhsNXV6V19jalZ3WkNuSndKa1RSS2xrVVJZM3gwa0JuLVEtNFk2Vk9MbTR0Uk90YnR0ZGFFR2lrMldvUTNuMk5fcnJ1THlnY2RIQTZnVFRodVhOSmloMnBGWERUVDJ2djU3enpFOTBUZ1EtWUxPSFo2Mk03cnFRR0Y0M2hvMGV6T0UwY0ROYUNiWW1NbHpMek9teUot?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-09-17T08:29:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_20a02d8467cde71f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "From quarantine boxes to luxury cabins, China's prefab home factories pivot to exports - Reuters",
+      "snippet": "From quarantine boxes to luxury cabins, China's prefab home factories pivot to exports  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjFlTHZzbnlfMGxOLVJEa213eVo2VHpkU19aQmNyVmVMdUoxWlIyLTFkc216eFRTb0lRdndXTks0LU1UWjNWNUh3a3RUSV9OR09XOEZENWNxajgxSlBKUklOWlc0NGJ3VVVsNURmVFBCdG1fM0ZrcGpxRE5Bd3JORGg5aWplZk9YVDhsV3hWZEFoODVGUktJTjVvT2x6d1FTVUpOX19kU2dZRVNkY1J5akNrc2x3ZDZoeUNkTm16a3NLUzZUSENn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-09-17T06:31:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
