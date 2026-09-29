@@ -1,166 +1,102 @@
 {
-  "updatedAt": "2026-09-29T15:55:05.414Z",
+  "updatedAt": "2026-09-29T16:00:12.461Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.540Z"
+      "lastSuccess": "2026-09-29T16:00:12.685Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.582Z"
+      "lastSuccess": "2026-09-29T16:00:12.821Z"
     },
     "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.523Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-09-29T16:00:12.648Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.561Z"
+      "lastSuccess": "2026-09-29T16:00:12.900Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.659Z"
+      "lastSuccess": "2026-09-29T16:00:12.746Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.614Z"
+      "lastSuccess": "2026-09-29T16:00:13.262Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.697Z"
+      "lastSuccess": "2026-09-29T16:00:13.382Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.580Z"
+      "lastSuccess": "2026-09-29T16:00:13.166Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.543Z"
+      "lastSuccess": "2026-09-29T16:00:13.209Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.620Z"
+      "lastSuccess": "2026-09-29T16:00:12.944Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.722Z"
+      "lastSuccess": "2026-09-29T16:00:12.919Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.756Z"
+      "lastSuccess": "2026-09-29T16:00:13.223Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.720Z"
+      "lastSuccess": "2026-09-29T16:00:13.200Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.743Z"
+      "lastSuccess": "2026-09-29T16:00:13.150Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.520Z"
+      "lastSuccess": "2026-09-29T16:00:12.908Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.617Z"
+      "lastSuccess": "2026-09-29T16:00:13.143Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.733Z"
+      "lastSuccess": "2026-09-29T16:00:13.240Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.535Z"
+      "lastSuccess": "2026-09-29T16:00:12.706Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.798Z"
+      "lastSuccess": "2026-09-29T16:00:13.407Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.961Z"
+      "lastSuccess": "2026-09-29T16:00:13.126Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Unquoted attribute value\nLine: 0\nColumn: 27\nChar: e",
-      "lastErrorAt": "2026-09-29T15:55:05.865Z"
+      "lastErrorAt": "2026-09-29T16:00:13.461Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.817Z"
+      "lastSuccess": "2026-09-29T16:00:13.443Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-09-29T15:55:05.905Z"
+      "lastSuccess": "2026-09-29T16:00:14.021Z"
     }
   },
   "items": [
-    {
-      "id": "story_8128a214111529fe",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rahm Emanuel expresses support for Abdul El-Sayed in Michigan Senate race",
-      "snippet": "Former U.S. Ambassador Rahm Emanuel insisted the DSA are a separate party, yet he backed Abdul El-Sayed in Michigan's Senate race.",
-      "link": "https://www.foxnews.com/media/rahm-emanuel-expresses-support-abdul-el-sayed-michigan-senate-race",
-      "imageUrl": null,
-      "publishedAt": "2026-09-29T13:39:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_75135b21020297c9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Deported to Africa: Migrants describe being sent to a place they \"had never heard of\"",
-      "snippet": "CBS News traveled to the West African country of Liberia to speak with a group of Latin American deportees who ICE sent thousands of miles away from their homelands. CBS News immigration correspondent Camilo Montoya-Galvez reports on the Tr",
-      "link": "https://www.cbsnews.com/video/deported-to-africa-migrants-speak-cbs-news/",
-      "imageUrl": null,
-      "publishedAt": "2026-09-29T13:39:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31409496228de795",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "District attorney on Cornell rape case speaks out as probe reopens",
-      "snippet": "Tompkins County District Attorney Matthew Van Houten is speaking out on the investigation into an alleged rape case at Cornell University in 2024 involving at least seven male students and an unidentified woman. CBS News' Lilia Luciano repo",
-      "link": "https://www.cbsnews.com/video/district-attorney-on-cornell-rape-case-speaks-out-as-probe-reopens/",
-      "imageUrl": null,
-      "publishedAt": "2026-09-29T13:38:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6ffdbcccab611f6e",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Country stars band together against AI data centers",
-      "snippet": "Some of country music's biggest stars are speaking out against the surge in development of massive data centers, saying the centers have negative impact on the environment and threaten a quieter way of country living. Brad Paisley, Tanya Tu",
-      "link": "https://www.cbsnews.com/video/country-stars-ban-together-against-ai-data-centers/",
-      "imageUrl": null,
-      "publishedAt": "2026-09-29T13:36:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c4f0d58c4e8df0b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "WATCH LIVE: Trump to launch new federal government AI tool",
-      "snippet": "President Donald Trump is set to announce a new artificial intelligence tool Tuesday at 10 a.m. that the White House says will help people interact with the federal government. The tool will launch on America.gov, a new website that will pr",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4746534/watch-live-trump-launch-new-federal-government-ai-tool/",
-      "imageUrl": null,
-      "publishedAt": "2026-09-29T13:44:38.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
     {
       "id": "story_7fdd7e0aec618039",
       "source": "Wash Examiner",
@@ -2695,6 +2631,71 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_f3b8a17943d7ef8f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump launches AI-powered America.gov website ahead of meeting with big tech leaders",
+      "snippet": "President Trump launched America.gov, a new government website powered by artificial intelligence. This comes as he plans to meet with tech executives over the future of AI. CBS News correspondent Natalie Brand reports.",
+      "link": "https://www.cbsnews.com/video/trump-launches-ai-powered-americagov-website-ahead-of-meeting-with-big-tech-leaders/",
+      "imageUrl": null,
+      "publishedAt": "2026-09-29T15:46:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_b81d5f2b31046701",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "U.S. drones help capture alleged Colombian trafficker",
+      "snippet": "Colombian security forces used U.S.-supplied drones with infrared surveillance technology to track and capture an alleged Gulf Clan cocaine trafficker.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/09/29/latam-colombia-drones-capture-alleged-cocaine-trafficker/8951790696618/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/8951790696618/2026/i/17906972058940/v1.5/US-drones-help-capture-alleged-Colombian-trafficker.jpg",
+      "publishedAt": "2026-09-29T15:56:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c3b3b7112ff03d99",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Dutch police arrest suspected member of group that claimed FBI hack",
+      "snippet": "The suspect, 24, was arrested before the alleged cyber attack took place.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ym18znr0ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-09-29T15:40:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0be501bfe0014aa9",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Hawks or Hawkeyes? Eric Schmitt’s Jack Smith grilling runs into basketball mix-up",
+      "snippet": "Sen. Eric Schmitt’s (R-MO) effort to place former special counsel Jack Smith in Atlanta amid the Fani Willis controversy hit a snag on Tuesday when Smith said the basketball game he remembered attending featured Caitlin Clark in Maryland, n",
+      "link": "https://www.washingtonexaminer.com/news/senate/4746785/atlanta-hawks-iowa-hawkeyes-eric-schmitt-mix-up-jack-smith-hearing/",
+      "imageUrl": null,
+      "publishedAt": "2026-09-29T15:56:53.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_855629d1aa8ccc45",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Eric Schmitt seems to confuse basketball teams in attempt to link Jack Smith, Fani Willis",
+      "snippet": "Apparent confusion over team names derailed a line of questioning as Sen. Eric Schmitt (R-Mo.) grilled former special counsel Jack Smith on Tuesday about his attendance at a basketball game, suggesting the prosecutor may have coordinated wi",
+      "link": "https://thehill.com/homenews/senate/6117781-eric-schmitt-jack-smith-hawks-hawkeyes-fani-willis/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/schmitteric_092926gn01_w.jpg?w=900",
+      "publishedAt": "2026-09-29T15:56:47.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     }
   ]
 }
