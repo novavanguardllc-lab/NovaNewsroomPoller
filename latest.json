@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-03T08:35:04.805Z",
+  "updatedAt": "2026-10-03T08:40:06.238Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.238Z"
+      "lastSuccess": "2026-10-03T08:40:06.355Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.218Z"
+      "lastSuccess": "2026-10-03T08:40:06.418Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.339Z"
+      "lastSuccess": "2026-10-03T08:40:06.455Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.097Z"
+      "lastSuccess": "2026-10-03T08:40:06.478Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.459Z"
+      "lastSuccess": "2026-10-03T08:40:06.534Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.580Z"
+      "lastSuccess": "2026-10-03T08:40:06.520Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.416Z"
+      "lastSuccess": "2026-10-03T08:40:06.474Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.037Z"
+      "lastSuccess": "2026-10-03T08:40:09.354Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.114Z"
+      "lastSuccess": "2026-10-03T08:40:06.536Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.140Z"
+      "lastSuccess": "2026-10-03T08:40:06.516Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.079Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-03T08:40:06.659Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.596Z"
+      "lastSuccess": "2026-10-03T08:40:06.538Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.394Z"
+      "lastSuccess": "2026-10-03T08:40:06.579Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.454Z"
+      "lastSuccess": "2026-10-03T08:40:06.560Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.561Z"
+      "lastSuccess": "2026-10-03T08:40:06.794Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.642Z"
+      "lastSuccess": "2026-10-03T08:40:06.776Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.418Z"
+      "lastSuccess": "2026-10-03T08:40:06.662Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.539Z"
+      "lastSuccess": "2026-10-03T08:40:06.616Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.896Z"
+      "lastSuccess": "2026-10-03T08:40:06.657Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-03T08:35:05.678Z"
+      "lastErrorAt": "2026-10-03T08:40:06.694Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.677Z"
+      "lastSuccess": "2026-10-03T08:40:06.719Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.716Z"
+      "lastSuccess": "2026-10-03T08:40:06.758Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-03T08:35:05.794Z"
+      "lastSuccess": "2026-10-03T08:40:06.813Z"
     }
   },
   "items": [
+    {
+      "id": "story_0aaa7000fc0590ae",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Russia strikes another major bridge in Kyiv, says mayor",
+      "snippet": "The attack on Kyiv's Northern Bridge comes after the Southern Bridge on the Dnipro river was hit multiple times by Russia's drones.",
+      "link": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T08:36:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b99891b13a419c5e",
       "source": "Al Jazeera",
@@ -2682,19 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_abf530b752da7df9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaVcyNklVcFZPdHZUVGRJWmk5V295SHliUEQ3dGlWYlZnLWNNUjFJRDl1VjJEN1F1bHdhQklqVDFIOXlWbnlhMzR0VlNQcVVhT1d1YW1JOHdtcmNSalQyRV82emdqZnlMeWZnTUZTcTFoSkxlZHNSd3QxN1JYMFFGaXN4VnpDeGhkMlVSWVk4RW9IUWljTnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-02T22:26:48.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
