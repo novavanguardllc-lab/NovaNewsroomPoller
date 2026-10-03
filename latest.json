@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-03T12:10:06.787Z",
+  "updatedAt": "2026-10-03T12:15:08.029Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:06.919Z"
+      "lastSuccess": "2026-10-03T12:15:08.180Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.056Z"
+      "lastSuccess": "2026-10-03T12:15:08.321Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:06.900Z"
+      "lastSuccess": "2026-10-03T12:15:08.143Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.085Z"
+      "lastSuccess": "2026-10-03T12:15:08.326Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:06.940Z"
+      "lastSuccess": "2026-10-03T12:15:08.187Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.099Z"
+      "lastSuccess": "2026-10-03T12:15:08.260Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.025Z"
+      "lastSuccess": "2026-10-03T12:15:08.225Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:06.931Z"
+      "lastSuccess": "2026-10-03T12:15:08.345Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.103Z"
+      "lastSuccess": "2026-10-03T12:15:08.286Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.159Z"
+      "lastSuccess": "2026-10-03T12:15:08.331Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "write EPROTO 0029CA9BB87F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:918:SSL alert number 80\n",
-      "lastErrorAt": "2026-10-03T12:10:07.065Z"
+      "online": true,
+      "lastSuccess": "2026-10-03T12:15:08.364Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.113Z"
+      "lastSuccess": "2026-10-03T12:15:08.298Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.150Z"
+      "lastSuccess": "2026-10-03T12:15:08.390Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.137Z"
+      "lastSuccess": "2026-10-03T12:15:08.361Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.003Z"
+      "lastSuccess": "2026-10-03T12:15:08.169Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:06.982Z"
+      "lastSuccess": "2026-10-03T12:15:08.207Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.163Z"
+      "lastSuccess": "2026-10-03T12:15:08.368Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.132Z"
+      "lastSuccess": "2026-10-03T12:15:08.427Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.260Z"
+      "lastSuccess": "2026-10-03T12:15:08.471Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-03T12:10:07.160Z"
+      "lastErrorAt": "2026-10-03T12:15:08.479Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.177Z"
+      "lastSuccess": "2026-10-03T12:15:08.484Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.270Z"
+      "lastSuccess": "2026-10-03T12:15:08.503Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:10:07.281Z"
+      "lastSuccess": "2026-10-03T12:15:08.569Z"
     }
   },
   "items": [
+    {
+      "id": "story_cf785d67ecc2bb0a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views",
+      "snippet": "It was unclear what background checks had been carried out before he was allowed to fly to Israel.",
+      "link": "https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:04:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f1bdc32307ca5a4e",
       "source": "DW",
@@ -111,6 +123,71 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7d6e7077fbd10bc8",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Soaring diesel prices take their toll on US farmers in midwest corn belt",
+      "snippet": "Fuel costs are biting for crop growers, trucking firms and a host of other industries as Iran war stokes record prices\nJoe Hamilton farms corn and soybeans on 2,500 acres in Indiana’s Delaware county. Next week, when his soybean harvest kic",
+      "link": "https://www.theguardian.com/us-news/2026/oct/03/diesel-prices-midwest-farmers",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ad05ed03cf52021d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘He feels more relatable’: Burnham’s conference speech wins praise from drifting Labour voters",
+      "snippet": "The UK prime minister has earned his party a rehearing but the battle of public opinion is not yet won\n“He’s offering what no other politician has offered for a long, long time. He actually feels like he’s one of us,” was how Neil, a geogra",
+      "link": "https://www.theguardian.com/politics/2026/oct/03/andy-burnham-conference-speech-wins-praise-from-drifting-labour-voters",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cac78128dbfc022e",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Nitrite-free bacon sales boom in UK amid fears over curing chemicals",
+      "snippet": "Shoppers are switching from traditional product despite little evidence alternative is safer\nBacon has long been a favourite of carnivores, but there is growing consumer concern about the health risks posed by nitrites, chemicals used to cu",
+      "link": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_02196b7afde44678",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "‘Activist judge’ rules Congress cannot bar noncitizens from voting in federal elections",
+      "snippet": "A Biden-appointed federal judge ruled the law criminalizing noncitizen voting is unconstitutional, dismissing charges against a woman who voted in 2020.",
+      "link": "https://www.foxnews.com/politics/activist-judge-rules-congress-cannot-bar-noncitizens-voting-federal-elections",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_799299d9c4de8337",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UAE may halt UK investments after Manchester City guilty verdict",
+      "snippet": "The Premier League’s actions would ‘have an influence on the bilateral state relationship’, Emirati officials said\nThe United Arab Emirates have reportedly warned the government it could cancel big investments in the UK after Manchester Cit",
+      "link": "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7bda3a0b454cd2ea",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -119,6 +196,19 @@
       "link": "https://www.cbsnews.com/news/sunlight-allergy-erythropoietic-protoporphyria-bitopentin/",
       "imageUrl": null,
       "publishedAt": "2026-10-03T12:00:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f6b8e2aa557a7e65",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dining with someone you love may help the body in surprising ways, new research suggests",
+      "snippet": "A compelling study suggests that eating with a close partner could lead to lower blood sugar spikes, with glucose levels returning to normal more quickly. Fox News Digital spoke to experts.",
+      "link": "https://www.foxnews.com/food-drink/dining-someone-you-love-may-help-body-surprising-ways-research-suggests",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:12.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -215,6 +305,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_58c9fb4b022ecdde",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+      "snippet": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
+      "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T11:59:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_84c6bf6dc2ad6a76",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -223,6 +326,19 @@
       "link": "https://www.nbcnews.com/news/us-news/coast-guard-searching-nantucket-missing-jet-bermuda-boston-rcna601265",
       "imageUrl": null,
       "publishedAt": "2026-10-03T11:51:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c15cb6ee8d98c1f8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
+      "snippet": "Italy's Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
+      "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T11:51:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2579,123 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_4aab89da2b74e6b4",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
-      "snippet": "Northwestern christened the new $875 million Ryan Field with a dominant 34-13 win over Penn State, racking up 413 rushing yards in the Big Ten clash.",
-      "link": "https://www.foxnews.com/outkick-sports/northwestern-wildcats-christen-new-ryan-field-impressive-win-penn-state-nittany-lions",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T04:02:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1a46aaa4d7e97097",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - AP News",
-      "snippet": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV2VFQmhSR1ltcnA1UmM2VFJ6bk5RTWljYjF0QW84MFFYOVE3ZUhGdEpyUVNLellvNGVLd014SzM1ZlY3blgyVDdnZmxjeDdpTnZuc1JzOTBtS19ZWlp5bWJTeHg5X1lqcGl0M08zWlNqS0xwUThybE5qOEZORkJrTTVqdHZYMG1DM1hpYXZLalZjS1M3UmY1SW9iVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T04:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c99dc9fbe2fc7b0b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "FACT FOCUS: What people are alleging in a Cornell University fraternity gang rape case - AP News",
-      "snippet": "FACT FOCUS: What people are alleging in a Cornell University fraternity gang rape case  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSlVQSW1vQkg2U1BBbVhBc1hhM01XOThRUE9FcGRIRk9oWWFYSGxuSm1EcnZZd08zZE9LZ3FiWGxZeDBIN0lDU2NaZnpVTTNuUFYzUHgtNEZzTm5tUlpmRHh6ZTk0SWxXOEdSc2lrQUpSY1Rxek9EZF9uckJBbjBYckx1Sy12T0VCWk5hT1FUYmplS2VQOFFnY1JSU0tJaHNOUkZwRDNuVFY?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T04:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0bea812979ad6632",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
-      "snippet": "Movie about Nazi-collaborating administration strikes chord during what director calls ‘time of great uncertainty’\nIt is the story of how a lowly state administrator unthinkingly becomes a cog in the machine of an authoritarian regime, embr",
-      "link": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T04:00:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bfffca8534fd9b6b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Two Iranians charged over alleged plot targeting Jewish community in UK",
-      "snippet": "Two Iranian men are accused of preparing to commit an act of terrorism in Manchester ahead of Yom Kippur.",
-      "link": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:56:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2f5f51759edebe9e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US judge dismisses DOJ lawsuit that used abortion clinic access law against protesters - Reuters",
-      "snippet": "US judge dismisses DOJ lawsuit that used abortion clinic access law against protesters  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVZsSkJxVTZvUXY4UU84RkFMUDlXLXNMQnc5cWwyNU5hcGt1cUkyUEJPRW0xUHVNb0Fud2NyVFQzSFBqdTduQ3pvUG43WnFFd2luNEllVkYzVEJnc0NHc0xQdUVlRVJrTVgycjRXaEJGVlAwY1E0MElZS3dUU3F4WWMwbXEtc3NtcWlRZUxxVG8tOWhHLVI0ZUNxaFhEY2s2anFxdVVhRVhVRW5nUzJaOGxrazVOcFdiS3RuUjNPbXoyNUZwa2c0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1f42f1fc3a17fdef",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2Z6SjdXNnRfWExuM1pVdVFjX0NXMTNNSVU3REMycHoyRnBreHAzdTFSZ3c2OHY3NGRpcWtJSkNSMWlkTVR1S2dZcllZYllpaFh4T3V0RE9qaG9UdjI1S1FDS0EzSDJ2T3BzVkxzaWE3aFhwc1dUelpCbUtBYUJkYWRnZU4tT002NnZlQTIyMWJxS2h5OHZSNjhwVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:55:02.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79d835a65a58e397",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "G7 nations bow to US pressure and avoid crippling diesel ban",
-      "snippet": "Crude oil prices eased after G7 leaders bowed to US President Donald Trump’s demand to release oil and diesel reserves.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:54:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fc771ea08d4d586f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
-      "snippet": "Associated Press News: Breaking News | Latest News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:54:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
