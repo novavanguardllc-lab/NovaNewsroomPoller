@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-03T12:05:05.057Z",
+  "updatedAt": "2026-10-03T12:10:06.787Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.245Z"
+      "lastSuccess": "2026-10-03T12:10:06.919Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.454Z"
+      "lastSuccess": "2026-10-03T12:10:07.056Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.344Z"
+      "lastSuccess": "2026-10-03T12:10:06.900Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.585Z"
+      "lastSuccess": "2026-10-03T12:10:07.085Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.462Z"
+      "lastSuccess": "2026-10-03T12:10:06.940Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.357Z"
+      "lastSuccess": "2026-10-03T12:10:07.099Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.546Z"
+      "lastSuccess": "2026-10-03T12:10:07.025Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.219Z"
+      "lastSuccess": "2026-10-03T12:10:06.931Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.378Z"
+      "lastSuccess": "2026-10-03T12:10:07.103Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.500Z"
+      "lastSuccess": "2026-10-03T12:10:07.159Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.368Z"
+      "online": false,
+      "lastError": "write EPROTO 0029CA9BB87F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:918:SSL alert number 80\n",
+      "lastErrorAt": "2026-10-03T12:10:07.065Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.578Z"
+      "lastSuccess": "2026-10-03T12:10:07.113Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.619Z"
+      "lastSuccess": "2026-10-03T12:10:07.150Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.570Z"
+      "lastSuccess": "2026-10-03T12:10:07.137Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.660Z"
+      "lastSuccess": "2026-10-03T12:10:07.003Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.775Z"
+      "lastSuccess": "2026-10-03T12:10:06.982Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.622Z"
+      "lastSuccess": "2026-10-03T12:10:07.163Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.531Z"
+      "lastSuccess": "2026-10-03T12:10:07.132Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.757Z"
+      "lastSuccess": "2026-10-03T12:10:07.260Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-03T12:05:05.838Z"
+      "lastErrorAt": "2026-10-03T12:10:07.160Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.837Z"
+      "lastSuccess": "2026-10-03T12:10:07.177Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.863Z"
+      "lastSuccess": "2026-10-03T12:10:07.270Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-03T12:05:05.819Z"
+      "lastSuccess": "2026-10-03T12:10:07.281Z"
     }
   },
   "items": [
@@ -118,6 +119,19 @@
       "link": "https://www.cbsnews.com/news/sunlight-allergy-erythropoietic-protoporphyria-bitopentin/",
       "imageUrl": null,
       "publishedAt": "2026-10-03T12:00:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_41abca426356e806",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "BROADCAST BIAS: From FlyDubai to Benghazi, the media struggle to keep politics out of terrorism",
+      "snippet": "FlyDubai cockpit violence coverage drew criticism as networks worried Trump and Netanyahu might spin the terrorism incident for political gain.",
+      "link": "https://www.foxnews.com/opinion/broadcast-bias-flydubai-benghazi-media-struggle-keep-politics-out-terrorism",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T12:00:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -188,6 +202,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a9c2a7dd4c8cc352",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Boston-bound plane vanishes with 6 on board; Coast Guard launches search off Nantucket coast",
+      "snippet": "A Gulfstream G100 with six people on board vanished en route to Boston from Bermuda on Saturday as search crews deploy off Nantucket to conduct a search.",
+      "link": "https://www.foxnews.com/us/boston-bound-plane-vanishes-6-board-coast-guard-launches-search-nantucket-coast",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T11:59:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_84c6bf6dc2ad6a76",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -235,6 +262,19 @@
       "link": "https://www.foxnews.com/outkick-betting/why-alabama-should-cover-against-mississippi-state-college-football-week-5-prediction",
       "imageUrl": null,
       "publishedAt": "2026-10-03T11:34:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d8fda44509071d4c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "The double standards of a failed execution",
+      "snippet": "Had Christa Pike faced the death penalty in the Middle East, there would be relentless outrage and condemnations.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T11:32:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-03T03:54:43.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d21e403a13913f2e",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Co-pilot on Flydubai flight was banned from flying by Oman",
-      "snippet": "The man who stabbed his fellow pilot, the captain of the Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
-      "link": "https://www.dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:52:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9017a7a2c29b0d43",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Omani co-pilot on Flydubai attempted 'terrorist' act — UAE",
-      "snippet": "The man who stabbed his fellow pilot, the captain of the Israel-bound Flydubai flight, was also reportedly barred from flying in his native Oman over security concerns.",
-      "link": "https://www.dw.com/en/omani-co-pilot-on-flydubai-attempted-terrorist-act-uae/a-79526641?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:52:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_cc4287db616c47f9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump vows Iran war to end \"very quickly\" as more troops head to Mideast",
-      "snippet": "Some 9,000 more U.S. forces are headed for the Middle East as President Trump vows the war will end \"right after the election,\" if not sooner.",
-      "link": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T03:43:36.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
