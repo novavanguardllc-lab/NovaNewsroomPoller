@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-03T19:55:04.600Z",
+  "updatedAt": "2026-10-03T20:00:11.644Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.760Z"
+      "lastSuccess": "2026-10-03T20:00:11.895Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.811Z"
+      "lastSuccess": "2026-10-03T20:00:11.820Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.791Z"
+      "lastSuccess": "2026-10-03T20:00:11.738Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.694Z"
+      "lastSuccess": "2026-10-03T20:00:11.778Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.671Z"
+      "lastSuccess": "2026-10-03T20:00:11.758Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.858Z"
+      "lastSuccess": "2026-10-03T20:00:11.934Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.805Z"
+      "lastSuccess": "2026-10-03T20:00:11.801Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.731Z"
+      "lastSuccess": "2026-10-03T20:00:11.847Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.907Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-03T20:00:11.938Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.819Z"
+      "lastSuccess": "2026-10-03T20:00:11.853Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.832Z"
+      "lastSuccess": "2026-10-03T20:00:11.858Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.938Z"
+      "lastSuccess": "2026-10-03T20:00:11.942Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.874Z"
+      "lastSuccess": "2026-10-03T20:00:12.022Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.817Z"
+      "lastSuccess": "2026-10-03T20:00:11.851Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.893Z"
+      "lastSuccess": "2026-10-03T20:00:11.924Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.916Z"
+      "lastSuccess": "2026-10-03T20:00:12.033Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.903Z"
+      "lastSuccess": "2026-10-03T20:00:12.018Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-03T19:55:04.919Z"
+      "lastErrorAt": "2026-10-03T20:00:12.040Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.936Z"
+      "lastSuccess": "2026-10-03T20:00:12.054Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:05.042Z"
+      "lastSuccess": "2026-10-03T20:00:12.197Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.954Z"
+      "lastSuccess": "2026-10-03T20:00:12.062Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:04.981Z"
+      "lastSuccess": "2026-10-03T20:00:12.133Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-03T19:55:05.077Z"
+      "lastSuccess": "2026-10-03T20:00:12.091Z"
     }
   },
   "items": [
+    {
+      "id": "story_1acd4426f95d040e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump, Cotton tussle over daylight savings after cell phone number leak",
+      "snippet": "President Trump repeatedly berated Sen. Tom Cotton (R-Ark.) on Saturday over his stance on a daylight savings bill after posting the Republican Congress member’s cell phone number on social media.  In a morning Truth Social post, the presid",
+      "link": "https://thehill.com/homenews/administration/6127691-trump-cotton-fued-daylight-savings-posts/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Trump_Cotton.png?w=900",
+      "publishedAt": "2026-10-03T19:53:57.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_55dc4a0e3072b890",
       "source": "PBS",
@@ -103,6 +117,19 @@
       "headline": "A pulse of warm water hitting the Pacific coast could mean erosion and flooding",
       "snippet": "Kelvin waves are not like tsunamis, and they don't curl over and crash on the beach. A better image is water sloshing in the bathtub or a swimming pool during an earthquake. In the ocean, they are bulges of water that lift the sea level as ",
       "link": "https://www.pbs.org/newshour/science/a-pulse-of-warm-water-hitting-the-pacific-coast-could-mean-erosion-and-flooding",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T19:45:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4c023d6ca2fc6597",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "What to know about the Kelvin wave raising the sea level along the West Coast",
+      "snippet": "Kelvin waves are not like tsunamis, and they don't curl over and crash on the beach. A better image is water sloshing in the bathtub or a swimming pool during an earthquake. In the ocean, they are bulges of water that lift the sea level as ",
+      "link": "https://www.pbs.org/newshour/science/what-to-know-about-the-kelvin-wave-raising-the-sea-level-along-the-west-coast",
       "imageUrl": null,
       "publishedAt": "2026-10-03T19:45:08.000Z",
       "tier": "routine",
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-03T13:52:13.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5a1acd8dd3cc7bd",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says - Reuters",
-      "snippet": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0NxeXcwNnV1dXJzdU5xcWdjQm1Udmx5cGVfMGNlSGgtWkJhLU1JLU5uXzVfUFJPNkdYbWNiVFpZY1NtUm9sWHY1YXNSRWxSX1VTUjA0ZW1oMzdfV2Q3Y1Q1YV9GcllMRmlRNV80RHE1OFN1WG5RNjRvYzhPa3BGSzRmcjlJWU9mOXJoZEZZbVg0SHJWcC1WOXZzbFB6cDcxcGlDZmlVblFucVU5Mzd4MmxoRGN5c2lH?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T13:49:07.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_650276e870bbc81c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Prosecutor says 2 Iranian men scouted a UK synagogue for a chlorine bomb plot - AP News",
-      "snippet": "Prosecutor says 2 Iranian men scouted a UK synagogue for a chlorine bomb plot  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDdhRWcyRjlmWHR2dG9yZTNqaFNwS2VneFNudjVHY0pCVURyai13SHBGZlR4a1ZwN25JOWlUNTRUdjIybjZ5dlZ6bFc0WmI2cC0tRmdjSFlha1JnY0lqTGMtNWJfTy16TF9nTXN4M1RFQTl6UTdpZUJFa1R5cFdfb0U1MEgxOEp1VW9uNjdGYjBoYkVwU1BkZVdkYVV0VUNmQm5MNA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T13:49:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
