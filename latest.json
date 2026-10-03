@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-03T13:50:07.699Z",
+  "updatedAt": "2026-10-03T13:55:04.716Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:07.861Z"
+      "lastSuccess": "2026-10-03T13:55:04.767Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.114Z"
+      "online": false,
+      "lastError": "Status code 406",
+      "lastErrorAt": "2026-10-03T13:55:04.809Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:07.998Z"
+      "lastSuccess": "2026-10-03T13:55:04.764Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.056Z"
+      "lastSuccess": "2026-10-03T13:55:04.805Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.073Z"
+      "lastSuccess": "2026-10-03T13:55:04.814Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.034Z"
+      "lastSuccess": "2026-10-03T13:55:04.895Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.185Z"
+      "lastSuccess": "2026-10-03T13:55:04.791Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:07.893Z"
+      "lastSuccess": "2026-10-03T13:55:04.772Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.210Z"
+      "lastSuccess": "2026-10-03T13:55:04.796Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.198Z"
+      "lastSuccess": "2026-10-03T13:55:04.838Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:07.904Z"
+      "lastSuccess": "2026-10-03T13:55:04.866Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.233Z"
+      "lastSuccess": "2026-10-03T13:55:04.893Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.030Z"
+      "lastSuccess": "2026-10-03T13:55:04.830Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.259Z"
+      "lastSuccess": "2026-10-03T13:55:04.922Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.316Z"
+      "lastSuccess": "2026-10-03T13:55:05.208Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:07.957Z"
+      "lastSuccess": "2026-10-03T13:55:05.181Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.218Z"
+      "lastSuccess": "2026-10-03T13:55:05.044Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.172Z"
+      "lastSuccess": "2026-10-03T13:55:04.861Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.512Z"
+      "lastSuccess": "2026-10-03T13:55:05.041Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-03T13:50:08.339Z"
+      "lastErrorAt": "2026-10-03T13:55:04.893Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.337Z"
+      "lastSuccess": "2026-10-03T13:55:04.898Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.360Z"
+      "lastSuccess": "2026-10-03T13:55:04.933Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-03T13:50:08.423Z"
+      "lastSuccess": "2026-10-03T13:55:04.953Z"
     }
   },
   "items": [
+    {
+      "id": "story_db119ef85d73aaba",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "The ladies of Oktoberfest crush draft beers as fall heats up, Ryan Day's message to sick kids & a Strip fight",
+      "snippet": "Screencaps' America's Best Daily Column covers back-to-back country club golf course debuts, from Piqua's diabolical greens to Stone Oak's perks.",
+      "link": "https://www.foxnews.com/outkick-sports/ladies-oktoberfest-crush-draft-beers-fall-heats-up-ryan-days-message-sick-kids-strip-fight",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T13:44:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4aeeb9b2bb169f50",
       "source": "Wash Examiner",
@@ -105,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4753051/democrat-ahead-texas-alaska-ohio-midterm-siena-poll-national-data-center-debate/",
       "imageUrl": null,
       "publishedAt": "2026-10-03T13:40:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2035dd542e001103",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Director of new ‘Narnia’ movie takes heat over casting of Meryl Streep as Christ-like lion Aslan",
+      "snippet": "Petition launched to replace \"Narnia\" director Greta Gerwig over casting of Meryl Streep as Christ-like lion Aslan.",
+      "link": "https://www.foxnews.com/media/director-new-narnia-movie-takes-heat-over-casting-meryl-streep-christ-like-lion-aslan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T13:31:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -144,6 +171,19 @@
       "link": "https://www.theguardian.com/uk-news/2026/oct/03/uk-iran-national-arrested-alleged-bomb-plot-raf-fairford-released-bail",
       "imageUrl": null,
       "publishedAt": "2026-10-03T13:19:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8a4bb553233b1b33",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+      "snippet": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T13:18:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -925,6 +965,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-03T11:32:09.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e29be4c05d783944",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Renault to invest over 10 bln euros in France in EVs, affordable cars, CEO says - Reuters",
+      "snippet": "Renault to invest over 10 bln euros in France in EVs, affordable cars, CEO says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmFPZmFUa2VCS2V3LVd1STlzak4yVHdXd2VoMW9hbGg0T1JsdDd3WUdIQkkxWExLa3RvQ3hZTVdYYXA3T19MOGN0eDlpcU9xbC1VM0tZcF9Idm9IdnVBQkNkaG44S0lWLTV5bU5faDZVR1lhYndvY2lIWE9ZZjJ5eGRveW4xMzRlWklmTkhWZFc4TnowWkNtVkFRalI5d2hxY2d1YnpDNlJFb1dMcWE1aThScw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T11:28:09.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2641,58 +2694,6 @@
       "imageUrl": "https://s.france24.com/media/display/2b485ae4-ba95-11f1-a192-177f79e345bf/w:1024/p:16x9/787e08a5ed82d1cd69d643780a6c7a221e4ec7c1.jpg",
       "publishedAt": "2026-10-03T07:58:45.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_afee9025d863fe54",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Ethiopia's Tigray rebels abandon regional capital of Mekelle as pro-government forces advance",
-      "snippet": "Rebels from the Tigray People's Liberation Front (TPLF) in Ethiopia were abandoning their regional capital of Mekkele in the north of the country on Saturday, a local journalist and residents told AFP. The TPLF has been fighting against fed",
-      "link": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance",
-      "imageUrl": "https://s.france24.com/media/display/c5c37128-bf07-11f1-ba42-1ff0321dbbd3/w:1024/p:16x9/2026-09-24T101038Z-2032759567-RC2KPNA9407F-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
-      "publishedAt": "2026-10-03T07:58:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7a7b26861705a6bf",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
-      "snippet": "Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T07:57:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aa93b8bf7f3ff4e5",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
-      "snippet": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T07:57:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e51c689a5f5a2781",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Lithuania closed Vilnius airport, scrambled NATO jets due to suspected drone - Reuters",
-      "snippet": "Lithuania closed Vilnius airport, scrambled NATO jets due to suspected drone  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFpFODRUM1QybF8weGlSalBrRzZaRFB4aVdKWU41bmEzb2FteEFuYVk3blVFQTZsX3RuU3VQOGVwTXpSc2plMjEtbU1taU5nZFZlZjlUZU5ZeHFidEs1bi14aEl2cFlESEM2RHhtaDJBZVZSaWNZNDVjUUhHVWtVWnhscmVFbzVJMkRpTXRaczkxam5yb0c1M0N3ZEpEMTIwNHlBWmdxSmdWT0d0QmFGanFxWUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T07:56:12.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
