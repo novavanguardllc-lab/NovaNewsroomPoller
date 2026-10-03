@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-03T21:30:09.988Z",
+  "updatedAt": "2026-10-03T21:35:05.223Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.162Z"
+      "lastSuccess": "2026-10-03T21:35:05.461Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:12.835Z"
+      "lastSuccess": "2026-10-03T21:35:05.420Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.102Z"
+      "lastSuccess": "2026-10-03T21:35:05.848Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.061Z"
+      "lastSuccess": "2026-10-03T21:35:05.500Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.076Z"
+      "lastSuccess": "2026-10-03T21:35:05.382Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.177Z"
+      "lastSuccess": "2026-10-03T21:35:05.561Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.114Z"
+      "lastSuccess": "2026-10-03T21:35:05.596Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.207Z"
+      "lastSuccess": "2026-10-03T21:35:05.765Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.274Z"
+      "lastSuccess": "2026-10-03T21:35:05.585Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.264Z"
+      "lastSuccess": "2026-10-03T21:35:05.397Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.267Z"
+      "lastSuccess": "2026-10-03T21:35:05.668Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.291Z"
+      "lastSuccess": "2026-10-03T21:35:05.664Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.279Z"
+      "lastSuccess": "2026-10-03T21:35:05.740Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.285Z"
+      "lastSuccess": "2026-10-03T21:35:05.485Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.227Z"
+      "lastSuccess": "2026-10-03T21:35:05.662Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.289Z"
+      "lastSuccess": "2026-10-03T21:35:05.815Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.190Z"
+      "lastSuccess": "2026-10-03T21:35:05.734Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-03T21:30:10.304Z"
+      "lastErrorAt": "2026-10-03T21:35:05.881Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.303Z"
+      "lastSuccess": "2026-10-03T21:35:05.878Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.403Z"
+      "lastSuccess": "2026-10-03T21:35:05.718Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.349Z"
+      "lastSuccess": "2026-10-03T21:35:05.912Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.332Z"
+      "lastSuccess": "2026-10-03T21:35:05.969Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-03T21:30:10.136Z"
+      "lastSuccess": "2026-10-03T21:35:05.863Z"
     }
   },
   "items": [
+    {
+      "id": "story_7dc6a8367691980d",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Inside the London social club for VIP puppies",
+      "snippet": "The social scene isn't just for people anymore. Pet owners are making sure their four-legged friends get in on it. CBS's Tina Kraus takes us to a hot new hangout for pups.",
+      "link": "https://www.cbsnews.com/video/london-social-club-for-vip-puppies/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T21:29:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_943037af1512fc20",
       "source": "Fox News",
@@ -105,6 +118,19 @@
       "link": "https://www.foxnews.com/outkick-betting/how-bet-ufc-332-caesars-bet365-fanatics",
       "imageUrl": null,
       "publishedAt": "2026-10-03T21:25:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dae7edc5e2657a85",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop",
+      "snippet": "The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.",
+      "link": "https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T21:22:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -209,6 +235,19 @@
       "link": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
       "imageUrl": null,
       "publishedAt": "2026-10-03T21:00:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_30388e2877c434c1",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Head Start fight reaches tipping point as advocates push back against proposed Trump changes",
+      "snippet": "The Trump administration is moving ahead with big changes to Head Start, the federal early childhood education program that serves low-income families, to the outcry of advocates who say the proposals will limit access to the program, curre",
+      "link": "https://thehill.com/homenews/education/6126823-head-start-programs-trump-reforms-hhs/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Head-Start_100326_Lonas-Cochran_AP_Rebecca-Blackwell.jpg?w=900",
+      "publishedAt": "2026-10-03T21:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1657,6 +1696,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5330351710c197bf",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "ATP roundup: Carlos Alcaraz fights off 4 set points in Tokyo - Reuters",
+      "snippet": "ATP roundup: Carlos Alcaraz fights off 4 set points in Tokyo  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSl9JZmVJNjBxekRCU05xSS1PUWFlMWlzcTFTZXdCRDlhODVJMGt4X3dvVUNUamRJR1VzNGJBTzJ6N1V6MEs4a0xiUzNOTXF2LUNhQm5uUDBBT29IaF9VRjN1eW5TWDZETXlXNFhZclkxcmRidVZhd2sxVERxRDh1XzNTdGNZT2hJU2xzUVFtUlpsMjZPOUp2Y2t1V0ViNDNTUWpVS2xVcVlLMzJqUDVaVA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-03T16:24:39.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d409d447a4e7fad4",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2641,58 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-03T15:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e02cc5b2d529c658",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Stop walking 10,000 steps: You’re falling for a 60-year-old Japanese marketing lie",
-      "snippet": "For decades, millions of Americans have strapped on fitness trackers, driven by a singular, obsessive daily goal: hitting 10,000 steps. Missing that metric feels like a failure of personal willpower. Public health campaigns routinely treat ",
-      "link": "https://www.washingtonexaminer.com/op-eds/4752160/10000-steps-myth-walking-pace-health/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T15:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_00b20e55c584fa71",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Deadline to reduce your student loan interest rate extended: What to know",
-      "snippet": "A day before the deadline was set to end, the Education Department extended the window in which student loan borrowers can get a small reduction on their interest rates.",
-      "link": "https://thehill.com/homenews/education/6118288-deadline-to-reduce-your-student-loan-interest-rate-extended-what-to-know/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/GettyImages-888240130-e1697733882732_fafb60.jpg?w=800",
-      "publishedAt": "2026-10-03T15:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7a7cc74faa67b926",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "SCOTUS must show oil companies they aren’t above local accountability",
-      "snippet": "If you think people should be able to hold corporations accountable in court, you should pay attention.",
-      "link": "https://thehill.com/opinion/judiciary/supreme-court/6122644-suncor-v-boulder-county-suit/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/suncor_refinery_colorado_02252023_AP23056853536208-2.jpg?w=900",
-      "publishedAt": "2026-10-03T15:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c27b9934c9df9cb1",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indian police detain several people in Gen Z-led protests against voter roll changes - Reuters",
-      "snippet": "Indian police detain several people in Gen Z-led protests against voter roll changes  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzBOVThKTi1YelVZQllEUDlIWlZVdFdVZElrc204eDhmdVdsVXVBOXhzeGxZUG92Q0hNRloxdjh4UkJ4eGkydDNjQWZQZFB6TjFLNzM0eFhUalBzSmNGaFJteU9tNV9vZkFYZHFZYzFGQVNXNlRFd0QzcHA4Ym02dEZTSU5nREdxbDJfUGRtWklEbVYxZUdWakRrY2hqWFlKR3ZqMWZveDBaeDB2RDBieHdCa1ZiQ0FadU04LTNn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-03T14:58:11.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
