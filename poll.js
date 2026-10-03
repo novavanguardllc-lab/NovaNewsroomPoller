@@ -139,7 +139,13 @@ async function main() {
   // Retention — mirrors the old daily cleanupOldStories function, just
   // folded into every run since state.json is small and this is cheap.
   const cutoff = now.getTime() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
-  state.items = state.items.filter((i) => new Date(i.publishedAt).getTime() >= cutoff);
+  state.items = state.items
+    .filter((i) => new Date(i.publishedAt).getTime() >= cutoff)
+    // Promise.allSettled across 18-19 RSS feeds resolves in whatever order the
+    // network happens to return them, not by story recency — without this sort,
+    // latest.json (and anything that backfills from it) ends up in essentially
+    // random order rather than true publish-time order.
+    .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
   saveState(state);
 
@@ -149,14 +155,17 @@ async function main() {
       {
         updatedAt: now.toISOString(),
         sourceStatus: state.sourceStatus,
-        items: state.items.slice(-LATEST_FEED_SIZE),
+        items: state.items.slice(0, LATEST_FEED_SIZE), // state.items is now sorted newest-first
       },
       null,
       2
     )
   );
 
-  for (const item of newlyStoredItems) {
+  const pushOrder = [...newlyStoredItems].sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  );
+  for (const item of pushOrder) {
     await pushToNtfy(item);
   }
 

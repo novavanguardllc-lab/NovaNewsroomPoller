@@ -170,7 +170,13 @@ module.exports = async (req, res) => {
     }
 
     const cutoff = now.getTime() - RETENTION_DAYS * 24 * 60 * 60 * 1000;
-    state.items = state.items.filter((i) => new Date(i.publishedAt).getTime() >= cutoff);
+    state.items = state.items
+      .filter((i) => new Date(i.publishedAt).getTime() >= cutoff)
+      // Promise.allSettled across ~20 RSS feeds resolves in whatever order the
+      // network returns them, not by story recency — without this sort,
+      // latest.json (and the phone's fallback-sync backfill from it) ends up
+      // in essentially random order instead of true publish-time order.
+      .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
     await githubPutFile("state.json", state, stateSha);
 
@@ -180,7 +186,7 @@ module.exports = async (req, res) => {
       {
         updatedAt: now.toISOString(),
         sourceStatus: state.sourceStatus,
-        items: state.items.slice(-LATEST_FEED_SIZE),
+        items: state.items.slice(0, LATEST_FEED_SIZE), // state.items is now sorted newest-first
       },
       latestSha
     );
