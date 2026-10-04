@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-04T15:55:05.025Z",
+  "updatedAt": "2026-10-04T16:00:11.240Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.180Z"
+      "lastSuccess": "2026-10-04T16:00:11.778Z"
     },
     "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.183Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-04T16:00:21.243Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.208Z"
+      "lastSuccess": "2026-10-04T16:00:11.355Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.158Z"
+      "lastSuccess": "2026-10-04T16:00:11.359Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.305Z"
+      "lastSuccess": "2026-10-04T16:00:11.443Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.295Z"
+      "lastSuccess": "2026-10-04T16:00:11.464Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.143Z"
+      "lastSuccess": "2026-10-04T16:00:11.337Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.257Z"
+      "lastSuccess": "2026-10-04T16:00:11.417Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.236Z"
+      "lastSuccess": "2026-10-04T16:00:11.402Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.278Z"
+      "lastSuccess": "2026-10-04T16:00:11.445Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.282Z"
+      "lastSuccess": "2026-10-04T16:00:11.460Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.315Z"
+      "lastSuccess": "2026-10-04T16:00:11.478Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.329Z"
+      "lastSuccess": "2026-10-04T16:00:11.494Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.259Z"
+      "lastSuccess": "2026-10-04T16:00:11.423Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.205Z"
+      "lastSuccess": "2026-10-04T16:00:11.758Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.350Z"
+      "lastSuccess": "2026-10-04T16:00:11.540Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.397Z"
+      "lastSuccess": "2026-10-04T16:00:11.486Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.322Z"
+      "lastSuccess": "2026-10-04T16:00:11.483Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.471Z"
+      "lastSuccess": "2026-10-04T16:00:11.590Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.416Z"
+      "lastSuccess": "2026-10-04T16:00:11.602Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.366Z"
+      "lastSuccess": "2026-10-04T16:00:11.596Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-04T15:55:05.360Z"
+      "lastErrorAt": "2026-10-04T16:00:11.556Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-04T15:55:05.410Z"
+      "lastSuccess": "2026-10-04T16:00:11.638Z"
     }
   },
   "items": [
+    {
+      "id": "story_8311f99d613b43ab",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Actor Luke Evans bucks political stereotype about being gay, says not everyone needs to be 'woke'",
+      "snippet": "Luke Evans said being gay doesn't mean you have to be woke, rejecting the idea that sexuality should dictate political views or cultural beliefs.",
+      "link": "https://www.foxnews.com/media/actor-luke-evans-bucks-political-stereotype-about-being-gay-says-not-everyone-needs-woke",
+      "imageUrl": null,
+      "publishedAt": "2026-10-04T15:50:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_1c91ba6042b31b0c",
       "source": "UPI",
@@ -147,6 +161,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_a2b5db5eb65c97a2",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Rybakina withdraws from Wuhan with injury after China Open exit - Reuters",
+      "snippet": "Rybakina withdraws from Wuhan with injury after China Open exit  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWJqV0t6T3pYMHVYa0QzTDRCNmxHRUxJNzhXUkd0T0xkTWg1TmR0SnNRQXNINkRUVDYzM1RQYTFZV3RURkFPaURCTlRzRWZZRS00bmdGeVp4RVhRakMwRXVybF9rZjd4WmVqTWZVTlFtREVFTV9KOEVhNkJCWjMwMmQxWmJOX3QxZ1BDNmxLREdJTy1hYndscEVqM21GV0QwNGx6aXMtNFhTS0x3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-04T15:39:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_84fee034b7b7e8e3",
@@ -561,6 +588,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-04T14:53:42.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c5ecaa7e1957560e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Gabriela Ruth Selser - Reuters",
+      "snippet": "Gabriela Ruth Selser  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yU0Q4R0lIZDhGbXFSRUdSWDVHXzBxREZPaHc4cTMza3A1LThrZ0RuQjBPSlBhdG9NbWxUdHQ1Mnc2bnp5Nm1MY3ZrRGljNUtnUDRpTHRfTmpTbUxXTGhuell4QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-04T14:52:45.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-04T11:30:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1cb3716e7f8c7436",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "How to Die",
-      "snippet": "We look at one family’s struggle to navigate a terminal illness.",
-      "link": "https://www.nytimes.com/2026/10/04/briefing/how-to-die.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-04T11:28:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_d92458626c900e6b",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "snippet": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-      "link": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-04T11:28:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4b080b2f9692df15",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump says polls 'don't account for one thing,' as he pledges to defeat communists 'once and for all'",
-      "snippet": "President Donald Trump told a cheering Dayton, Ohio, rally crowd that polls don't account for him campaigning as Republicans face a tough House path.",
-      "link": "https://www.foxnews.com/politics/trump-says-polls-dont-account-one-thing-pledges-defeat-communists-once-all",
-      "imageUrl": null,
-      "publishedAt": "2026-10-04T11:25:22.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
