@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-05T13:15:06.494Z",
+  "updatedAt": "2026-10-05T13:20:07.371Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.664Z"
+      "lastSuccess": "2026-10-05T13:20:07.651Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.680Z"
+      "lastSuccess": "2026-10-05T13:20:07.539Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.578Z"
+      "lastSuccess": "2026-10-05T13:20:07.531Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.724Z"
+      "lastSuccess": "2026-10-05T13:20:07.736Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.683Z"
+      "lastSuccess": "2026-10-05T13:20:07.658Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.689Z"
+      "lastSuccess": "2026-10-05T13:20:07.911Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.928Z"
+      "lastSuccess": "2026-10-05T13:20:07.818Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.746Z"
+      "lastSuccess": "2026-10-05T13:20:07.895Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:07.019Z"
+      "lastSuccess": "2026-10-05T13:20:07.878Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.805Z"
+      "lastSuccess": "2026-10-05T13:20:07.891Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.822Z"
+      "lastSuccess": "2026-10-05T13:20:08.000Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.749Z"
+      "lastSuccess": "2026-10-05T13:20:07.897Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.906Z"
+      "lastSuccess": "2026-10-05T13:20:07.937Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.798Z"
+      "lastSuccess": "2026-10-05T13:20:07.792Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.827Z"
+      "lastSuccess": "2026-10-05T13:20:07.977Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.896Z"
+      "lastSuccess": "2026-10-05T13:20:07.994Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-05T13:15:06.911Z"
+      "lastErrorAt": "2026-10-05T13:20:08.018Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.935Z"
+      "lastSuccess": "2026-10-05T13:20:08.029Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.891Z"
+      "lastSuccess": "2026-10-05T13:20:08.117Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:07.002Z"
+      "lastSuccess": "2026-10-05T13:20:08.145Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:06.954Z"
+      "lastSuccess": "2026-10-05T13:20:08.054Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:07.016Z"
+      "lastSuccess": "2026-10-05T13:20:07.594Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-05T13:15:07.067Z"
+      "lastSuccess": "2026-10-05T13:20:07.959Z"
     }
   },
   "items": [
+    {
+      "id": "story_eb637d1a7d448df1",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+      "snippet": "A dozen B-1 bombers stationed at Gloucestershire base were redeployed to US on Sunday amid concerns over possible threat from Iran\nDowning Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen B-1",
+      "link": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T13:14:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_e28566f137fe0b5e",
       "source": "The Hill",
@@ -105,6 +118,32 @@
       "link": "https://thehill.com/policy/healthcare/6129050-russia-pneumonic-plague-outbreak-monitored/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP25239448870898-e1783427546954.jpg?w=900",
       "publishedAt": "2026-10-05T13:12:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a216149802f86f22",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+      "snippet": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+      "link": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T13:11:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3664f08cbb1754cc",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "U.S. pulls all bombers from U.K. air base after 5 were arrested over security incident",
+      "snippet": "The U.S. has withdrawn all U.S. bombers deployed to RAF Fairford in the United Kingdom following a security incident that led to several arrests. CBS News' Leigh Kiniry reports.",
+      "link": "https://www.cbsnews.com/video/us-pulls-all-bombers-from-uk-air-base-after-5-were-arrested-over-security-incident/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T13:09:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1137,6 +1176,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0312968afaa1cfd3",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "What will Washington do next if US bond yields keep rising? - Reuters",
+      "snippet": "What will Washington do next if US bond yields keep rising?  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnNOaEpMX1dfS3ZXNUV1SFZZcDY5MWI0UW9udWNkN3dJc0wtZU4wc1JFX1laSjlTY1N1MTdkdjRtMVlIMXFRMkhuUmwtcFcwYlQ2UUEyZnBJSEY3VGo5azVGUXJYU1BuZU9aSmRlZEVsQzNGN3FJeTctRUdlR0ItcFJKbkVYODktX2dWRzE4MjY3aFp3RV9KR3BsYlM5RGpTLS03YW9R?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T11:58:19.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c6d8b3535aeb8987",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -1343,6 +1395,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_316fc2cceb6ddcea",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObXk0Qmk5MjJhM1lRTjk5RjRmTjRjS0FqTDlNV0tzVjE5cHI4dFRWUFllUjdkMXVYaTRfc1h1MURRblhSMG1OaW9vclJUbVVheEFkczhrYmF2VkMxRXZ3S0dTdjJyY1BnZDdRbDVhYW0zaWFDbFpXTjBHYThMMnBsd1BoVFFfMVpoSWhMRDdDbnVTNHJHSld6VXdvdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T11:42:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_493c02913d75a281",
@@ -2630,71 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_ae6aa17ebe5ebdc4",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump heads to Nebraska in attempt to shore up GOP’s midterm vote – US politics live",
-      "snippet": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state\nSign up for the Breaking News US email\nHello and welcome to the US politics live blog.\nDonald Trump will be in Nebrask",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T10:06:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c2b5012191edf8b7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Brazil: Investor and analyst reactions to Bolsonaro lead over Lula in election - reuters.com",
-      "snippet": "Brazil: Investor and analyst reactions to Bolsonaro lead over Lula in election  reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzdJUDhEcjRGdGtVNkNOdkpvTFhFcHdDMUkzc1QtaEk4bjVyMW52eEJZSVFtSWQ1NFhwSGp6MTBtZjVPV3VqNUpJbnJ6b0hmcXU3UTVVWUptQWQwS3d4VnZGOERBUWtIY1Zhcmt6cDRhRkRCVFlsd0t3c0owNjBBMUtfYWpVMzhhZW9zMGs2cTRMZTY0RWxCdWZheFFfSHgtTUJqeElRZUdveVI4Mmt2eklZT1p5YVYzMEE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T10:06:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_f6ca7398829b8e88",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "The Republican consensus on Israel is starting to fracture",
-      "snippet": "Christian Zionism made support for Israel a Republican cause. America First Republicans are challenging that consensus.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T10:05:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_edc11cb1c0a60f06",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Nobel Prizes 2026: What to Know",
-      "snippet": "The recipients of the six awards in science, literature, economics and peace work will be announced this week.",
-      "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T10:03:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e06269fd8cfc7ade",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Trump chooses top spy boss to run new AI taskforce",
-      "snippet": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T10:03:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
