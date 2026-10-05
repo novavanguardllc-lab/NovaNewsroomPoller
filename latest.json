@@ -1,101 +1,140 @@
 {
-  "updatedAt": "2026-10-05T17:45:06.785Z",
+  "updatedAt": "2026-10-05T17:50:06.783Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:06.921Z"
+      "lastSuccess": "2026-10-05T17:50:07.026Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:06.937Z"
+      "lastSuccess": "2026-10-05T17:50:06.941Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.069Z"
+      "lastSuccess": "2026-10-05T17:50:07.162Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:06.942Z"
+      "lastSuccess": "2026-10-05T17:50:06.921Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.059Z"
+      "lastSuccess": "2026-10-05T17:50:07.397Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:06.987Z"
+      "lastSuccess": "2026-10-05T17:50:07.321Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:06.945Z"
+      "lastSuccess": "2026-10-05T17:50:07.338Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.090Z"
+      "lastSuccess": "2026-10-05T17:50:07.438Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:06.964Z"
+      "lastSuccess": "2026-10-05T17:50:07.637Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.402Z"
+      "lastSuccess": "2026-10-05T17:50:07.719Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.118Z"
+      "lastSuccess": "2026-10-05T17:50:07.123Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.022Z"
+      "lastSuccess": "2026-10-05T17:50:07.278Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.017Z"
+      "lastSuccess": "2026-10-05T17:50:07.138Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.026Z"
+      "lastSuccess": "2026-10-05T17:50:07.259Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.062Z"
+      "lastSuccess": "2026-10-05T17:50:07.266Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.096Z"
+      "lastSuccess": "2026-10-05T17:50:07.364Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-05T17:45:07.202Z"
+      "lastErrorAt": "2026-10-05T17:50:07.449Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.216Z"
+      "lastSuccess": "2026-10-05T17:50:07.460Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.225Z"
+      "lastSuccess": "2026-10-05T17:50:07.502Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.092Z"
+      "lastSuccess": "2026-10-05T17:50:07.342Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.306Z"
+      "lastSuccess": "2026-10-05T17:50:07.479Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.123Z"
+      "lastSuccess": "2026-10-05T17:50:07.285Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-05T17:45:07.185Z"
+      "lastSuccess": "2026-10-05T17:50:07.567Z"
     }
   },
   "items": [
+    {
+      "id": "story_3366c942fec7f69c",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Denmark: Data of millions compromised in hack",
+      "snippet": "The breach by the hackers was through the legitimate login credentials of a local company, initial findings suggest. The data of some 8.8 million registered people was compromised",
+      "link": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:46:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cb81e256dc972cdc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "JENNIFER GRIFFIN: I covered wars, terror and tragedy for Fox News. What I found was a family",
+      "snippet": "Fox News' Jennifer Griffin recalls covering Vladimir Putin's rise in Moscow, the Kosovo War and the Second Intifada across nearly three decades.",
+      "link": "https://www.foxnews.com/opinion/jennifer-griffin-covered-wars-terror-tragedy-fox-news-found-family",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:45:06.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_3871336bb8c4d38c",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Lula shake-ups campaign as Fl&aacute;vio Bolsonaro reaches for more support ahead of Brazil's runoff",
+      "snippet": "Brazil's President Luiz Inácio Lula da Silva will spend Monday trying to shake-up his campaign after losing the first round of national elections to Flávio Bolsonaro, the son of former President Jair Bolsonaro.",
+      "link": "https://www.pbs.org/newshour/world/lula-shake-ups-campaign-as-flavio-bolsonaro-reaches-for-more-support-ahead-of-brazils-runoff",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:43:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5ec14d3c65ef7fce",
       "source": "The Hill",
@@ -118,6 +157,19 @@
       "link": "https://www.cbsnews.com/news/ole-miss-student-deaths-kratom-charges/",
       "imageUrl": null,
       "publishedAt": "2026-10-05T17:39:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9f849f31a47aa774",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Stephen King is the most banned author as school book removals hit record high",
+      "snippet": "Nearly 12,000 bans took place in public schools over the past year, according to a new study from PEN America, the highest total since the free expression organization began tracking removals five years ago.",
+      "link": "https://www.nbcnews.com/news/us-news/florida-texas-lead-record-12000-school-book-bans-pen-america-report-fi-rcna601684",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:39:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -147,6 +199,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_fcbc040e6aa2772c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "2 people killed, including a student, after Florida school bus rolls over in crash, sheriff says - AP News",
+      "snippet": "2 people killed, including a student, after Florida school bus rolls over in crash, sheriff says  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXBDSWNBaGlSejJLLXpPa3pHSTFDUHlySUg1SEVUclpWd1NQSDdFLU5WZDZhZ0dBbkpOX052d1RWSGlJT3JTTkk2T0wtbTF5YUtuOEhRRW5KbTBYdUlERjVzbjhrSXI3MUxoXzlXX0tSRWRvRGVhSkhsMHdzbGdMMDZhUWpiSWhqeFpMSg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:36:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_6d8502b69e6044df",
@@ -264,6 +329,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_0a91535351201c48",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Spain calls snap election amid housing crisis",
+      "snippet": "Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:27:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a45851b12b0ecc4d",
@@ -394,6 +472,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_f348965476695c86",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Campaign for Ohio’s Next Governor May Be the Ugliest in the Country",
+      "snippet": "The candidates for Ohio governor have significant policy differences, but the campaign ads have been strikingly personal, with exaggerated portrayals of one candidate as a con artist and the other as a drunk.",
+      "link": "https://www.nytimes.com/2026/10/05/us/elections/ohio-governor-election.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:21:18.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_27bba6e4b2e91a86",
@@ -639,6 +730,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-05T17:06:50.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_763b1d9197e5f206",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Former ‘American Idol’ singer Caleb Flynn awaits sentencing for wife’s murder - AP News",
+      "snippet": "Former ‘American Idol’ singer Caleb Flynn awaits sentencing for wife’s murder  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVsb1p3OVRHaEJvU0I5RmMtM21aZzNsaEVTTFFZVTVJMzBDRkFJM3lQWENPNGdMTGtlb19iUk1QUVFXNHFiXzI3Q085Y1ZOX2tmTmR2Q1YxWU5XeG90NkNIMnN0dWFVcGpZR0NOZTNxLURZb2tUci1laWd3cFhqTU0xNl9DbFhqR29wMmdETDFvY1Y2bEJMOG5lTzdocm9vcXF1c0RFdmtwczgwT0xn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T17:06:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -901,6 +1005,32 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5410dfaa7718dbbd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Quebec heads to the polls with focus more on Trump than independence - Reuters",
+      "snippet": "Quebec heads to the polls with focus more on Trump than independence  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpVVnRKUWRpaXI1ZnRkZ1psZWFJT1VKbE9sSVBpN0kyWUppUlh4d2hhUl9kbEdTN0pKRFhFYUJ5SGNlT2owbWFfSVltSnhKMktIWm5oaWx5SXV3M2NjUDhMRklDd3k0aUJ3QVY4REZrN1RFSmk1Xy1vWFBqWDJkVEJPM2dSTUFYTms3cDgzcHZuRUV1aXc3VVhXcEJvRTVPTDJNTWRIM09xWldhWWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T16:45:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_aec320107445879e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Politics - AP News",
+      "snippet": "Politics  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T16:44:34.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_97da39648748837d",
@@ -1267,6 +1397,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_57f682f19155a711",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Artificial intelligence - AP News",
+      "snippet": "Artificial intelligence  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T16:13:46.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9d6d3c8e15b7b9a1",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -1616,6 +1759,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_38dace7d22b5e800",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Science - AP News",
+      "snippet": "Science  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPRlN5MGs2SHpqRnVSTUY2WC1NbUJqV0t2MmdvTUhCWUNiZk1mVklKRGxnQkxJb1pfOHVCZ2o1dw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T15:57:33.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_cf36428e26a5bccb",
@@ -2537,162 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-05T15:01:39.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_523eea8e846fe634",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'I could feel the petrol dripping': The violent attacks that have marred France school protests",
-      "snippet": "Between 400-500 schools across France are expected to stay closed this Monday, as student protests continue. Pupils are calling for smaller class sizes and better equipped classrooms. More than 70 schoolteachers have been injured since the ",
-      "link": "https://www.france24.com/en/video/20261005-i-could-feel-the-petrol-dripping-the-violent-attacks-that-have-marred-france-school-protests",
-      "imageUrl": "https://s.france24.com/media/display/e2763d9e-c0cb-11f1-bf77-13e372f41e70/w:1024/p:16x9/EN-20261005-143209-143415-CS.jpg",
-      "publishedAt": "2026-10-05T15:01:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_80822e5896f7fbc3",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump’s former press secretary Karoline Leavitt to join Fox News",
-      "snippet": "Youngest press secretary in White House history left earlier this year after the birth of her second child\nKaroline Leavitt, who stepped down as White House press secretary in August, is joining her former boss’s favorite network, Fox News,",
-      "link": "https://www.theguardian.com/us-news/2026/oct/05/karoline-leavitt-joins-fox-news",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T15:01:28.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_993abdc2d8737ef9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84 - AP News",
-      "snippet": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamtxRHQ1M2M3TmxrTlVrR29oVTBWdlFzSC1rd2NCd081RWRESWlEOVhZeVJRZDlqZG52Z1gxeWV5dktUNzFGMjNmVHFsTndYMTEzekQ2VGY3SWVFbC1raXJaaEc2aHNJOTlSQkpoMEhNcGdJNDZBMDVnWXNYSFZNcVlsU3Vwcy1Bdl9tZnVsdktoZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T15:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_887b6ca32bf9633c",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Don’t fear the digital price tag ",
-      "snippet": "Just as the notion of manually counting sales and inventory seems antiquated for supermarkets today, the time will come when paper price tags and shelf stickers will seem outdated and unnecessarily costly and wasteful.",
-      "link": "https://thehill.com/opinion/technology/6124326-electronic-shelf-labels-grocery-prices/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2292538434.jpg?w=900",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92e77ddc5b60efc2",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Yemen government forces announce offensive on Houthi-held territory",
-      "snippet": "The internationally recognised Yemeni government announced on Sunday the launch of an offensive ‌to recapture territory held by Houthi rebels, with President Rashad al-Alimi swearing to fight \"until the country is liberated from the grip of",
-      "link": "https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory",
-      "imageUrl": "https://s.france24.com/media/display/07abbf54-c0cb-11f1-949b-69fad0a7cb9f/w:1024/p:16x9/EN-20261005-141904-142040-CS.jpg",
-      "publishedAt": "2026-10-05T14:59:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c353c6f3b3f0020c",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Trump names head of new 'Super Intelligence Force' to oversee AI",
-      "snippet": "US President Donald Trump said on Sunday he had named Director of National Intelligence ​Jay Clayton the ‌administration's AI czar, tasking him with coordinating the federal government's efforts to maintain ⁠US leadership in the technology.",
-      "link": "https://www.france24.com/en/video/20261005-trump-names-head-of-new-super-intelligence-force-to-oversee-ai",
-      "imageUrl": "https://s.france24.com/media/display/1e71762e-c0cc-11f1-8611-dd51fcab6130/w:1024/p:16x9/EN-20261005-144258-144434-CS.jpg",
-      "publishedAt": "2026-10-05T14:59:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92e7ef776ff6c34e",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Israel was prepared to shoot down FlyDubai plane, sources say",
-      "snippet": "Israel was ready to implement a long-practiced protocol after the captain of a FlyDubai plane was attacked in the cockpit, Israeli sources told CBS News.",
-      "link": "https://www.cbsnews.com/news/israel-flydubai-plane-shoot-down-threat/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T14:59:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1a6798d83a23f351",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Latest US military strike on alleged drug boat kills four in Caribbean",
-      "snippet": "UN warns US boat strikes in the Caribbean counter-drug war may violate international law and human rights principles.",
-      "link": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T14:58:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4146e5997a98e97a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "MLB | Latest News, Stats, and Scores - AP News",
-      "snippet": "MLB | Latest News, Stats, and Scores  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T14:56:49.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b7590336af6226d6",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Europe News | Breaking European News Today - AP News",
-      "snippet": "Europe News | Breaking European News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zbFZLTmlvQV92TXBRZ1JoakZqWFA1NGJTWGxTTGVvVmJWNVhnNmItd0VuOGpmb0Z4eUZ5REhnWURuelU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T14:56:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e0aaadc336f3de34",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "In both France and Spain, ruling parties must prove they can give young protesters hope",
-      "snippet": "Demonstrations over housing rights and crumbling schools are a sign the younger generation is withdrawing political consent\n\nEurope live – latest updates\n\nIn Spain, tens of thousands of people in 50 cities have taken to the streets amid mou",
-      "link": "https://www.theguardian.com/world/2026/oct/05/protests-in-france-and-spain-appear-disparate-but-core-issues-are-the-same",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T14:55:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_93ddc79bf500a850",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "‘Grey’s Anatomy’ star Isaiah Washington reveals his wife died more than a year ago",
-      "snippet": "Former “Grey’s Anatomy” star Isaiah Washington revealed in an Instagram post that his wife of 29 years, Jenisa Washington — who also went by Jenisa Garland — died more than a year ago.",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/greys-anatomy-star-isaiah-washington-reveals-wife-died-year-death-rcna601617",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T14:55:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
