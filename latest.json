@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-05T20:45:06.534Z",
+  "updatedAt": "2026-10-05T20:50:06.666Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.831Z"
+      "lastSuccess": "2026-10-05T20:50:06.979Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.632Z"
+      "lastSuccess": "2026-10-05T20:50:06.846Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.793Z"
+      "lastSuccess": "2026-10-05T20:50:07.003Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.771Z"
+      "lastSuccess": "2026-10-05T20:50:06.863Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.852Z"
+      "lastSuccess": "2026-10-05T20:50:07.078Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.734Z"
+      "lastSuccess": "2026-10-05T20:50:06.922Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.774Z"
+      "lastSuccess": "2026-10-05T20:50:06.939Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.953Z"
+      "lastSuccess": "2026-10-05T20:50:07.119Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:07.111Z"
+      "lastSuccess": "2026-10-05T20:50:07.329Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:07.343Z"
+      "lastSuccess": "2026-10-05T20:50:07.480Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.917Z"
+      "lastSuccess": "2026-10-05T20:50:07.189Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.892Z"
+      "lastSuccess": "2026-10-05T20:50:07.150Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.870Z"
+      "lastSuccess": "2026-10-05T20:50:07.201Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.929Z"
+      "lastSuccess": "2026-10-05T20:50:07.148Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.897Z"
+      "lastSuccess": "2026-10-05T20:50:07.022Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.935Z"
+      "lastSuccess": "2026-10-05T20:50:07.262Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-05T20:45:06.970Z"
+      "lastErrorAt": "2026-10-05T20:50:07.489Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.979Z"
+      "lastSuccess": "2026-10-05T20:50:07.459Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:07.074Z"
+      "lastSuccess": "2026-10-05T20:50:07.508Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.960Z"
+      "lastSuccess": "2026-10-05T20:50:07.406Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:07.100Z"
+      "lastSuccess": "2026-10-05T20:50:07.441Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:06.958Z"
+      "lastSuccess": "2026-10-05T20:50:07.226Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-05T20:45:07.070Z"
+      "lastSuccess": "2026-10-05T20:50:07.403Z"
     }
   },
   "items": [
+    {
+      "id": "story_d370c68f800a6742",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Supreme Court begins new term with high-profile look at clean air and federal authority",
+      "snippet": "The Supreme Court heard arguments on whether Boulder County's climate lawsuit against Suncor and ExxonMobil belongs in state or federal court.",
+      "link": "https://www.foxnews.com/politics/supreme-court-begins-new-term-high-profile-look-clean-air-federal-authority",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T20:45:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4ff1d2127c361bec",
       "source": "Wash Examiner",
@@ -105,6 +118,19 @@
       "link": "https://www.washingtonexaminer.com/news/white-house/4754559/trump-republicans-vote-mail-fraud-midterms/",
       "imageUrl": null,
       "publishedAt": "2026-10-05T20:43:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_49447b2387ad6130",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Jeffrey Archer, former Conservative politician and novelist, dies aged 86",
+      "snippet": "Lord Archer died peacefully at home between writing sessions, his publisher said\nThe author and former politician Jeffrey Archer has died aged 86.\nArcher, who was a Conservative MP for five years before serving as the party’s deputy chairma",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T20:42:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -157,6 +183,19 @@
       "link": "https://www.foxnews.com/politics/americas-blue-collar-job-boom-nobody-saw-coming-just-getting-started",
       "imageUrl": null,
       "publishedAt": "2026-10-05T20:34:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dbb7c99ef325fe0d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "London to Chicago BA flight declares emergency after dropping 28,000 feet",
+      "snippet": "British Airways Boeing abruptly lost altitude over Ireland due to ‘technical issue’ and returned to Heathrow\nA flight from London to Chicago declared an emergency after a sudden and steep descent of 28,000 feet over Ireland and was forced t",
+      "link": "https://www.theguardian.com/business/2026/oct/05/london-to-chicago-ba-flight-declares-emergency-after-dropping-28000-feet",
+      "imageUrl": null,
+      "publishedAt": "2026-10-05T20:33:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2653,45 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHVsb1p3OVRHaEJvU0I5RmMtM21aZzNsaEVTTFFZVTVJMzBDRkFJM3lQWENPNGdMTGtlb19iUk1QUVFXNHFiXzI3Q085Y1ZOX2tmTmR2Q1YxWU5XeG90NkNIMnN0dWFVcGpZR0NOZTNxLURZb2tUci1laWd3cFhqTU0xNl9DbFhqR29wMmdETDFvY1Y2bEJMOG5lTzdocm9vcXF1c0RFdmtwczgwT0xn?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-05T17:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f78009b900abd7d8",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
-      "snippet": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T17:05:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fe9dc52c6d66ef14",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "On a remote Greek island, empty classrooms signal a crisis across Europe - AP News",
-      "snippet": "On a remote Greek island, empty classrooms signal a crisis across Europe  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEJRalhPTENhcHlwalp3NkVTTlpSUUtmLXJoOG9ra1ZuNkhDWURoZU1FdHN5THlNc3lDQVZNOEJ3S1pZRUFJd0JlOUItMEo3LVRUVmwzZ2ZCN0pCRzJBTTY0TDBtM0hLaDExTkRUTURjWng5OGFTNHVVdVNRRUtjaWdtQ1RFbFp6a00xeWFJQ0hsaDRGMFQzUENaLUwtSnBwRDhWUA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T17:03:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1bbf39aef7a967d0",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US services sector cools in September, price pressures building - Reuters",
-      "snippet": "US services sector cools in September, price pressures building  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-05T17:03:09.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
