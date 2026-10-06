@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-06T16:10:07.630Z",
+  "updatedAt": "2026-10-06T16:15:06.793Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.710Z"
+      "lastSuccess": "2026-10-06T16:15:06.891Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.750Z"
+      "lastSuccess": "2026-10-06T16:15:06.972Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.744Z"
+      "lastSuccess": "2026-10-06T16:15:07.008Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.867Z"
+      "lastSuccess": "2026-10-06T16:15:06.990Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.708Z"
+      "lastSuccess": "2026-10-06T16:15:06.982Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.793Z"
+      "lastSuccess": "2026-10-06T16:15:07.018Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.850Z"
+      "lastSuccess": "2026-10-06T16:15:06.978Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.845Z"
+      "lastSuccess": "2026-10-06T16:15:06.957Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:08.132Z"
+      "lastSuccess": "2026-10-06T16:15:07.327Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.698Z"
+      "lastSuccess": "2026-10-06T16:15:06.848Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.678Z"
+      "lastSuccess": "2026-10-06T16:15:06.873Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.803Z"
+      "lastSuccess": "2026-10-06T16:15:06.997Z"
     },
     "Wash Examiner": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-06T16:10:17.649Z"
+      "online": true,
+      "lastSuccess": "2026-10-06T16:15:06.887Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.828Z"
+      "lastSuccess": "2026-10-06T16:15:06.985Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.826Z"
+      "lastSuccess": "2026-10-06T16:15:07.044Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.854Z"
+      "lastSuccess": "2026-10-06T16:15:07.015Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:08.225Z"
+      "lastSuccess": "2026-10-06T16:15:07.282Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.878Z"
+      "lastSuccess": "2026-10-06T16:15:07.098Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.865Z"
+      "lastSuccess": "2026-10-06T16:15:07.056Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-06T16:10:07.859Z"
+      "lastErrorAt": "2026-10-06T16:15:07.045Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.887Z"
+      "lastSuccess": "2026-10-06T16:15:07.077Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.905Z"
+      "lastSuccess": "2026-10-06T16:15:07.087Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-06T16:10:07.958Z"
+      "lastSuccess": "2026-10-06T16:15:07.135Z"
     }
   },
   "items": [
+    {
+      "id": "story_1f9173ab01320ca4",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Trump sparks outrage for suggesting that Iran could ‘take out’ Los Angeles and San Diego",
+      "snippet": "California leaders have criticized President Donald Trump after remarks on Monday that were interpreted by his opponents as a suggestion that Iran could “take out” Los Angeles and San Diego. Trump made the remarks at a Republican rally in N",
+      "link": "https://www.washingtonexaminer.com/news/white-house/4755362/california-trump-iran-los-angeles-san-diego-war-cost/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T16:09:49.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_084da90a176926b7",
       "source": "ABC News",
@@ -106,6 +118,19 @@
       "link": "https://abcnews.com/International/kenya-records-1st-ebola-death-after-man-travels/story?id=137032067",
       "imageUrl": null,
       "publishedAt": "2026-10-06T16:08:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b5e43676d2d60ee",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Yankees' Jazz Chisholm Jr makes wild admission about costly error as team faces postseason elimination",
+      "snippet": "Jazz Chisholm Jr. airmailed a costly throw in the New York Yankees' ALDS Game 2 loss and admitted he'd still make the same play all over again.",
+      "link": "https://www.foxnews.com/outkick-sports/yankees-jazz-chisholm-jr-makes-wild-admission-costly-error-team-faces-postseason-elimination",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T16:07:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +149,45 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_648680890b8f9ac4",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Red-dyed diesel: What is it, and can you use the tax-free fuel?",
+      "snippet": "President Trump on Monday signed an order to extend the use of red-dyed diesel, but what is it?",
+      "link": "https://thehill.com/homenews/6131511-red-dyed-diesel-what-is-it-and-can-you-use-the-tax-free-fuel/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26274756029238-e1791301388904.jpg?w=900",
+      "publishedAt": "2026-10-06T16:06:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_da7ff971f5855b23",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dad vanishes on trip with friend to see Cleveland Browns game; police call case 'concerning'",
+      "snippet": "Phoenix Phillips, 24, vanished in downtown Cleveland hours after watching the Pittsburgh Steelers play. Police call the circumstances \"concerning.\"",
+      "link": "https://www.foxnews.com/us/dad-vanishes-trip-friend-cleveland-browns-game-police-call-case-concerning",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T16:05:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e825964e55950975",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Tens of thousands demand better education in demonstrations across France",
+      "snippet": "Tens of thousands of demonstrators took to the streets across France on Tuesday, as unions and teachers joined high school students who for days have been demanding better learning conditions in protests punctuated by violent confrontations",
+      "link": "https://www.france24.com/en/video/20261006-tens-of-thousands-demand-better-education-in-demonstrations-across-france",
+      "imageUrl": "https://s.france24.com/media/display/effbb778-c19d-11f1-a997-ff8cff4603f0/w:1024/p:16x9/EN-20261006-163208-163348-CS.jpg",
+      "publishedAt": "2026-10-06T16:04:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a47d0387edd1a591",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -132,6 +196,45 @@
       "link": "https://www.foxnews.com/world/france-explodes-students-riot-education",
       "imageUrl": null,
       "publishedAt": "2026-10-06T16:04:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d1b873fbccba7146",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Norway eyes temporary ban of smart glasses",
+      "snippet": "Norway's government said Monday it wants a temporary ban on the use of smart glasses in certain public places, citing privacy concerns, notably recording images without the knowledge of those filmed. The ban could apply to parks, beaches, m",
+      "link": "https://www.france24.com/en/video/20261006-norway-eyes-temporary-ban-of-smart-glasses",
+      "imageUrl": "https://s.france24.com/media/display/36bbe676-c19c-11f1-b122-ff8cff4603f0/w:1024/p:16x9/EN-20261006-153429-153610-CS.jpg",
+      "publishedAt": "2026-10-06T16:03:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1e38a8c5ec083abd",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "'Tense' atmosphere as tens of thousands join French student protests",
+      "snippet": "Police fired tear gas at ​protesters blockading French high schools on Tuesday as students, teachers and parents took to the streets on the biggest day of action in a wave of demonstrations against understaffed and dilapidated classrooms. R",
+      "link": "https://www.france24.com/en/video/20261006-tense-atmosphere-as-tens-of-thousands-join-french-student-protests",
+      "imageUrl": "https://s.france24.com/media/display/0f9996be-c19d-11f1-a944-b942c38e4bd7/w:1024/p:16x9/EN-20261006-160224-160607-CS.jpg",
+      "publishedAt": "2026-10-06T16:02:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5a4fb20fdbfec81d",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Ukraine fires nearly 900 drones at Russia, says Moscow",
+      "snippet": "Russian air defenses intercepted nearly 900 Ukrainian drones overnight over multiple regions of the country, as well as the occupied Crimean Peninsula and the Sea of Azov, the Defense Ministry in Moscow said Tuesday. If the figures accurate",
+      "link": "https://www.france24.com/en/video/20261006-ukraine-fires-nearly-900-drones-at-russia-says-moscow",
+      "imageUrl": "https://s.france24.com/media/display/333470fa-c19b-11f1-9d6f-73f176a2394c/w:1024/p:16x9/EN-20261006-152736-153355-CS.jpg",
+      "publishedAt": "2026-10-06T16:01:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -393,6 +496,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-06T15:47:16.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c0ec9c378267bcfe",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Stretch tweed, Nicole Kidman and a flock of birds: Chanel soars as Paris fashion winds down - AP News",
+      "snippet": "Stretch tweed, Nicole Kidman and a flock of birds: Chanel soars as Paris fashion winds down  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLXFGb2xuaWE0N0NZVUE2WWQ5VnpvWEZJQWhxUUpjUjBZMEdfLU1hSy1tR0pCVmlqMVJabHdQLXQ1QVJWLU9ONlVHcmNEM3d1bXBwWWlSQzZsUEJxb1FGdHNCNGM2YklHM1RKWGQyeXlMbVZBN0IyZ3p5RGNCY1UxUnZod01TLVN0VHBiWEI3SlRvRjg0OHdadU9tUWpTcno2?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T15:45:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2577,123 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-06T13:38:24.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0aece9d8b6d368e9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump says he'll start paying for ads after pushback over taxpayer funding",
-      "snippet": "President Trump says he'll start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks, using money from his super PAC instead of taxpayer dollars.",
-      "link": "https://www.cbsnews.com/news/trump-super-pac-maga-inc-taxpayer-funded-ads/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:38:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_52cc34c79f04470c",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump suggests letting Iran \"take out\" LA, San Diego during rally",
-      "snippet": "Gov. Gavin Newsom called President Trump \"deranged and dangerous\" after he suggested letting Iran \"take out\" Los Angeles and San Diego.",
-      "link": "https://www.cbsnews.com/news/trump-suggests-allowing-iran-take-out-la-and-san-diego-during-campaign-rally/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:37:09.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_bbb7bd3eb1f02d47",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "snippet": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:36:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_316a2a7271671d15",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Emmy Awards exit broadcast television for Amazon’s Prime Video",
-      "snippet": "The television industry’s marquee awards show is heading to streaming starting next year.",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/emmy-awards-exit-broadcast-television-amazons-prime-video-rcna601839",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:36:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_272b9992a9680452",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Cornell Faculty Members Signal Deep Anger With University Leaders",
-      "snippet": "The faculty senate plans to vote on a rare resolution of no confidence over administrators’ handling of allegations of sexual assault by fraternity members in 2024.",
-      "link": "https://www.nytimes.com/2026/10/06/nyregion/cornell-faculty-no-confidence.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:34:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dce371237741bc72",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Judge to weigh effort to deport Kilmar Abrego Garcia to Liberia",
-      "snippet": "The fate of Kilmar Abrego Garcia will again be argued in court on Tuesday when his legal team asks a federal judge to block his deportation to Liberia.",
-      "link": "https://www.cbsnews.com/news/kilmar-abrego-garcia-hearing-judge-deportation-liberia/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:34:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1f2120a57d514827",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Watch: How Russia responded to US after plague researcher death",
-      "snippet": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:32:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_684b1b7b93824b0f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US Senator Murphy says Pentagon denied him access to US base in Qatar - Reuters",
-      "snippet": "US Senator Murphy says Pentagon denied him access to US base in Qatar  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkNYTFZmdFZrdzNHWDNNVHZNMmJCWWtHVHc5OHFzbWhLNHNKY19HdXlZUUhwZTRUQ2E3TlVKSjBMV1p5RVRyOTc1OWZ1M2RMMmRrN09GcUgtNUlQQjA1UGV0dUl4UXNSeTdxLTN4eUw0d3lwQ2VqVWg3T0ZSbVVSZUVxR0Z2UVBvU1I1Nm9BTkIxRWlpNzNYQnlfRDBKZ0RTak02YmxZWlVoekFO?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:32:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e20b16a8231cc1eb",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
-      "snippet": "Ethiopia's Prime Minister Abiy Ahmed is consolidating power, but he must contend with a regional alliance opposing him and a Tigray conflict that could spill over into Eritrea.",
-      "link": "https://www.dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T13:32:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
