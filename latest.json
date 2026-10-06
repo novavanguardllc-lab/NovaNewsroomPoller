@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-06T11:45:07.064Z",
+  "updatedAt": "2026-10-06T11:50:07.375Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.142Z"
+      "lastSuccess": "2026-10-06T11:50:07.685Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.154Z"
+      "lastSuccess": "2026-10-06T11:50:07.584Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.190Z"
+      "lastSuccess": "2026-10-06T11:50:07.966Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.176Z"
+      "lastSuccess": "2026-10-06T11:50:07.710Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.208Z"
+      "lastSuccess": "2026-10-06T11:50:07.589Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.212Z"
+      "lastSuccess": "2026-10-06T11:50:07.606Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.151Z"
+      "lastSuccess": "2026-10-06T11:50:07.568Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.217Z"
+      "lastSuccess": "2026-10-06T11:50:07.546Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.255Z"
+      "lastSuccess": "2026-10-06T11:50:07.823Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.293Z"
+      "lastSuccess": "2026-10-06T11:50:07.870Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.225Z"
+      "lastSuccess": "2026-10-06T11:50:07.806Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.206Z"
+      "lastSuccess": "2026-10-06T11:50:08.034Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.220Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 426\nChar: d",
+      "lastErrorAt": "2026-10-06T11:50:07.984Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.296Z"
+      "lastSuccess": "2026-10-06T11:50:08.082Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.264Z"
+      "lastSuccess": "2026-10-06T11:50:08.068Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.280Z"
+      "lastSuccess": "2026-10-06T11:50:07.929Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.387Z"
+      "lastSuccess": "2026-10-06T11:50:08.163Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.245Z"
+      "lastSuccess": "2026-10-06T11:50:07.744Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-06T11:45:07.216Z"
+      "lastErrorAt": "2026-10-06T11:50:08.069Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.305Z"
+      "lastSuccess": "2026-10-06T11:50:08.046Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.325Z"
+      "lastSuccess": "2026-10-06T11:50:08.207Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.404Z"
+      "lastSuccess": "2026-10-06T11:50:08.187Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-06T11:45:07.540Z"
+      "lastSuccess": "2026-10-06T11:50:07.767Z"
     }
   },
   "items": [
+    {
+      "id": "story_d3e5d96a086f95d9",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "Kratom, an opioid-like drug linked to deaths, remains legal in most states",
+      "snippet": "The deaths of two college students have renewed calls to ban the addictive drug.",
+      "link": "https://www.washingtonpost.com/nation/2026/10/06/kratom-an-opioid-like-drug-linked-deaths-remains-legal-most-states/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T11:45:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_af96debcc5580876",
       "source": "NPR",
@@ -129,6 +143,19 @@
       "headline": "Senate puts fate of Daylight Saving Time bill in jeopardy and more top headlines",
       "snippet": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "link": "https://www.foxnews.com/us/senate-takes-action-decide-fate-daylight-savings-bill-more-top-headlines",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T11:37:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_92e3e30644363833",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Senate puts fate of Daylight Saving Time bill in jeopardy and more top headlines",
+      "snippet": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "link": "https://www.foxnews.com/us/senate-action-decide-fate-daylight-savings-bill-more-top-headlines",
       "imageUrl": null,
       "publishedAt": "2026-10-06T11:37:59.000Z",
       "tier": "routine",
@@ -1696,6 +1723,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d279352127073584",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Countries weigh banning smart glasses over privacy concerns - Reuters",
+      "snippet": "Countries weigh banning smart glasses over privacy concerns  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekxUZFZKVTZMa1JObVpjSHV4LWRXaHFoc0pLdXhpTUpfVHZXX2N2ME9jVmZ1WkI0TmJPQmgzT3N3RnVpZ0NpdEJlbE1NN3pib1J2Q2RidGMtLWE1MXpGTFRkd0VIbGNiQUQyM3ZnUXpsQ0FleWQyQzN2WlJxQUt2MGpEWU9ubnF2Z0xBTWx5ZFNnSUtwdVVHbnVMa3JkWk9wY3NMdFdnQlQzVmRRaE5NNDZBckU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T09:29:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_eb0f59eb2a708d33",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2653,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-06T08:29:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44f14c4d36352284",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Yemen war: What’s the latest on the battlefield?",
-      "snippet": "The internationally recognised government retakes territories from the Houthis as fighting rages on the western coast.",
-      "link": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T08:27:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7eea9e2507a4df84",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Badenoch denies ‘British Iron Dome’ plan – after Tories use phrase in press release",
-      "snippet": "Tory leader says proposed ‘Britannia Shield’ will not be comparable to Israeli missile defence system\n\nUK politics live – latest updates\n\nKemi Badenoch has denied she compared a new air defence system proposed by the party to Israel’s Iron ",
-      "link": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T08:27:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bbf05c4c215e9f6e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Two Saudi airports targeted on Monday as fighting with Yemen's Houthis escalates - Reuters",
-      "snippet": "Two Saudi airports targeted on Monday as fighting with Yemen's Houthis escalates  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGFEc1RqT0d3WGh1LV9WMUNxNDhDdElPXzJ1eDRDS21lcHhZWUJwYnNLOElMQmJmWm9ZYnZ5YVhSSmtsZUtGZko3ejNka3B0UUppcHJ1SVdwM0ZGa0VlWU93eWVaREp2dURzVFZmaS05N3VBWTIzcERZTGtfXzFXX1dKMGl4RDlnMENxY3Rjb1gydHl4R3BuYWwwS3NOUE9VMXFGT25JUHpCVVZRQXN6SmpJUHY3eFFQUFpsMXZ0ZGFVZ0dMOHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T08:24:37.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
