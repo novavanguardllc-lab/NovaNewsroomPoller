@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-07T21:35:04.585Z",
+  "updatedAt": "2026-10-07T21:40:06.319Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.727Z"
+      "lastSuccess": "2026-10-07T21:40:06.537Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.649Z"
+      "lastSuccess": "2026-10-07T21:40:06.505Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.787Z"
+      "lastSuccess": "2026-10-07T21:40:06.681Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.895Z"
+      "lastSuccess": "2026-10-07T21:40:06.746Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.916Z"
+      "lastSuccess": "2026-10-07T21:40:06.827Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.818Z"
+      "lastSuccess": "2026-10-07T21:40:06.639Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.825Z"
+      "lastSuccess": "2026-10-07T21:40:06.547Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.920Z"
+      "lastSuccess": "2026-10-07T21:40:06.783Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.821Z"
+      "lastSuccess": "2026-10-07T21:40:06.944Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.852Z"
+      "lastSuccess": "2026-10-07T21:40:06.779Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.689Z"
+      "lastSuccess": "2026-10-07T21:40:06.686Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.919Z"
+      "lastSuccess": "2026-10-07T21:40:06.887Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.930Z"
+      "lastSuccess": "2026-10-07T21:40:06.941Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.958Z"
+      "lastSuccess": "2026-10-07T21:40:06.946Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.934Z"
+      "lastSuccess": "2026-10-07T21:40:06.986Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.685Z"
+      "lastSuccess": "2026-10-07T21:40:06.969Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.946Z"
+      "lastSuccess": "2026-10-07T21:40:06.882Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-07T21:35:04.936Z"
+      "lastErrorAt": "2026-10-07T21:40:06.986Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.953Z"
+      "lastSuccess": "2026-10-07T21:40:07.013Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.739Z"
+      "lastSuccess": "2026-10-07T21:40:06.660Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:05.069Z"
+      "lastSuccess": "2026-10-07T21:40:07.203Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:04.714Z"
+      "lastSuccess": "2026-10-07T21:40:06.868Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-07T21:35:05.008Z"
+      "lastSuccess": "2026-10-07T21:40:07.081Z"
     }
   },
   "items": [
+    {
+      "id": "story_1151c37a97749bc9",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "FBI concerned alleged Chinese agent is serious flight risk, sources say",
+      "snippet": "California realtor Wanying Zhang is facing federal prosecution for allegedly surveilling the Taiwanese president's son in Washington last year at the direction of Chinese government officials.",
+      "link": "https://www.cbsnews.com/news/accused-chinese-agent-wanying-zhang-flight-risk/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T21:34:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a683782e6cd8ecdb",
       "source": "Wash Examiner",
@@ -108,6 +121,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e5f7355b91142f47",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "DNC lawsuit accuses Trump admin of diverting $20M in federal funds for 'propaganda' ads",
+      "snippet": "The Democratic National Committee alleges the Trump administration directed $20 million in taxpayer funds toward ads designed to boost Republicans ahead of 2026 midterms.",
+      "link": "https://www.foxnews.com/politics/dnc-lawsuit-accuses-trump-admin-diverting-20m-federal-funds-propaganda-ads",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T21:29:42.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_7558b0a9299d4f0c",
@@ -1211,6 +1237,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-07T20:27:03.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9b95f78474a5b992",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Workers allegedly exploited while building US consulate in Milan sign deals for record payout - AP News",
+      "snippet": "Workers allegedly exploited while building US consulate in Milan sign deals for record payout  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTVMSXJhX3oxc0k1MU5NMGtqYjN3d2ZOLVpwbm9fU2h5d1MzYldFNFh5b1FRVjIwVzhjTHlVMmFKNkVSYXFnay1sZG9VNlNuOXd6TnpNa1NiX2tNSWFCT0dVRUQyNFV3VWRHNkZ1NndwY2E1Mk4yeEM3S3V5NWloaTNyQzlBdXlRMVFXWU9iV25WaWYzelpUVkJXS08?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T20:27:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2655,45 +2694,6 @@
       "publishedAt": "2026-10-07T18:36:32.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5fb2866d5b3af21e",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "US and China take different approaches to AI agents",
-      "snippet": "OpenAI’s dots and Meta’s Muse are built around the assistant first and then sent out to use other companies’ websites and services.",
-      "link": "https://www.semafor.com/article/10/07/2026/us-and-china-take-different-approaches-to-ai-agents",
-      "imageUrl": "https://img.semafor.com/de6aad929d60c6d368d1fb49cc67d406da36a50b-5500x3667.jpg",
-      "publishedAt": "2026-10-07T18:36:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1b4624b7329a8d1b",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Tropical Storm Isaias tracker: Map and projected storm path",
-      "snippet": "Isaias is the ninth named storm of the Atlantic hurricane season.",
-      "link": "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T18:36:05.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_68b135781e36dba6",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "NFL swallows $15K fine against 49ers Kyle Juszczyk for pretending to chug beer on field",
-      "snippet": "Star San Francisco 49ers fullback Kyle Juszczyk appears to have some serious juice with the NFL.",
-      "link": "https://www.nbcnews.com/sports/nfl/nfl-swallows-15k-fine-49ers-kyle-juszczyk-pretending-chug-beer-field-rcna602090",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T18:35:56.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
