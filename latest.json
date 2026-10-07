@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-07T02:35:05.380Z",
+  "updatedAt": "2026-10-07T02:40:07.216Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.718Z"
+      "lastSuccess": "2026-10-07T02:40:07.294Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.772Z"
+      "lastSuccess": "2026-10-07T02:40:07.343Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.556Z"
+      "lastSuccess": "2026-10-07T02:40:07.438Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.578Z"
+      "lastSuccess": "2026-10-07T02:40:07.433Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.859Z"
+      "lastSuccess": "2026-10-07T02:40:07.440Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.963Z"
+      "lastSuccess": "2026-10-07T02:40:07.573Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.956Z"
+      "lastSuccess": "2026-10-07T02:40:07.595Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.635Z"
+      "lastSuccess": "2026-10-07T02:40:07.623Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.941Z"
+      "lastSuccess": "2026-10-07T02:40:07.559Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.616Z"
+      "lastSuccess": "2026-10-07T02:40:07.565Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.841Z"
+      "lastSuccess": "2026-10-07T02:40:07.535Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.958Z"
+      "lastSuccess": "2026-10-07T02:40:07.620Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.723Z"
+      "lastSuccess": "2026-10-07T02:40:07.600Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.017Z"
+      "lastSuccess": "2026-10-07T02:40:07.617Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.147Z"
+      "lastSuccess": "2026-10-07T02:40:07.710Z"
     },
     "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-10-07T02:35:05.934Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-07T02:40:17.224Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.001Z"
+      "lastSuccess": "2026-10-07T02:40:07.578Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-07T02:35:06.163Z"
+      "lastErrorAt": "2026-10-07T02:40:07.633Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.174Z"
+      "lastSuccess": "2026-10-07T02:40:07.633Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.216Z"
+      "lastSuccess": "2026-10-07T02:40:07.670Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.080Z"
+      "lastSuccess": "2026-10-07T02:40:07.472Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.637Z"
+      "lastSuccess": "2026-10-07T02:40:07.416Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-07T02:35:06.542Z"
+      "lastSuccess": "2026-10-07T02:40:08.044Z"
     }
   },
   "items": [
+    {
+      "id": "story_2e681e328b24c0e3",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Football: Lionel Messi plays final game for Argentina",
+      "snippet": "Argentinian superstar Lionel Messi bowed out of international football with one last goal for his country. For football in Argentina, and indeed across the world, it's the end of an era.",
+      "link": "https://www.dw.com/en/football-lionel-messi-plays-final-game-for-argentina/a-79570608?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T02:35:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_dc6dd54e0195ebb1",
       "source": "Fox News",
@@ -149,6 +163,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_673e27ab1f02ef05",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "10 Great Eva Marie Saint Performances to Stream",
+      "snippet": "From “On the Waterfront” to “North by Northwest,” Saint specialized in complex sympathetic women who did their best to weather domestic and cultural storms.",
+      "link": "https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-streaming.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T02:17:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_03601d49cf9456bb",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -183,6 +210,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/state/4756656/iowa-gubernatorial-debate-dominated-democratic-attack-republican-residency/",
       "imageUrl": null,
       "publishedAt": "2026-10-07T02:13:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6555d6463359b104",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Medical experts on plague risks after reported death of lab worker in Russia",
+      "snippet": "A scientist in Siberia died after possible exposure to the plague bacteria during a lab accident, according to Russian media. Russian officials downplayed the reports, saying she died of a \"pneumonia of unknown origin.\" Health experts spoke",
+      "link": "https://www.cbsnews.com/video/medical-experts-plague-risks-reported-exposure-russia/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T02:12:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1293,6 +1333,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cba6dc6739e749ea",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Dolly Parton’s multifaceted legacy showcased at Nashville museum and hotel - AP News",
+      "snippet": "Dolly Parton’s multifaceted legacy showcased at Nashville museum and hotel  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnpRTjcxYU9wdS01SWFkNGkxU0ZobEZ0NkxZc3pMYlhNWmxpNEdQZjlaV0QzeE5uVTFEU1pFdHgwV0R6YjBnSURpX1dWc0VqUVFHNjZ0WjNINlNGdnIwN09ZVDBlYXdIZUd3dGJmdGNyQlRjdXJpa0xHQjMtZGdlVmdfS0EtYzBQT0NUOU11NS1icWxnNTJqRVd4SQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T23:39:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4f0e349bc68f55ec",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2164,6 +2217,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_58b16a495294583f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "1,200 Israeli flags vandalized outside Texas church ahead of Oct. 7 observance",
+      "snippet": "Heritage Church in McKinney, Texas, says hundreds of Israeli flags honoring victims of the Oct. 7 attack were pulled from the ground overnight Tuesday.",
+      "link": "https://www.cbsnews.com/news/mckinney-church-israeli-flags-vandalized-oct-7-observance-october-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-06T22:34:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_71c690d62c125fbf",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -2628,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-06T22:12:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_75b30c47ef0fabda",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Here are the seats both parties are pulling money from ahead of November",
-      "snippet": "With the election just a month away, Democratic and Republican super PACs are beginning to pull advertising reservations from House races where they either believe their candidates are well-positioned to win or are going to lose. The Congre",
-      "link": "https://www.washingtonexaminer.com/news/house/4756081/here-are-the-seats-both-parties-are-pulling-money-from-ahead-of-november/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T22:11:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dde7adf56c615bd1",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Sally Yates, former acting attorney general who defied Trump, to lead Cornell investigation",
-      "snippet": "A longtime federal prosecutor, she became known in 2017 for refusing to enforce President Trump’s ban on travelers to the U.S. from predominantly Muslim countries.",
-      "link": "https://www.nbcnews.com/news/us-news/sally-yates-former-acting-ag-clashed-trump-leading-cornell-assault-pro-rcna601914",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T22:07:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a414461989d68626",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Fans flood Buenos Aires ahead of Messi’s final international match",
-      "snippet": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T22:07:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_73af366a57a9f30f",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
-      "snippet": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect\nA surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after a",
-      "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T22:06:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_886e8532f1993389",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Transgender Washington state resident accused of fueling deadly Canadian school massacre that killed 8: DOJ",
-      "snippet": "James Cody Bryant allegedly sent money, offered advice and agreed to livestream the Tumbler Ridge school shooting instead of alerting law enforcement.",
-      "link": "https://www.foxnews.com/us/transgender-washington-state-resident-accused-fueling-deadly-canadian-school-massacre-killed-8-doj",
-      "imageUrl": null,
-      "publishedAt": "2026-10-06T22:02:36.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
