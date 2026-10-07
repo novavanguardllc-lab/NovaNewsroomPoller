@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-07T10:10:06.883Z",
+  "updatedAt": "2026-10-07T10:15:07.247Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.039Z"
+      "lastSuccess": "2026-10-07T10:15:07.414Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.014Z"
+      "lastSuccess": "2026-10-07T10:15:07.377Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.093Z"
+      "lastSuccess": "2026-10-07T10:15:07.552Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.076Z"
+      "lastSuccess": "2026-10-07T10:15:07.420Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.127Z"
+      "lastSuccess": "2026-10-07T10:15:07.433Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.217Z"
+      "lastSuccess": "2026-10-07T10:15:07.482Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.223Z"
+      "lastSuccess": "2026-10-07T10:15:07.498Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.120Z"
+      "lastSuccess": "2026-10-07T10:15:07.501Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.214Z"
+      "lastSuccess": "2026-10-07T10:15:07.517Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.254Z"
+      "lastSuccess": "2026-10-07T10:15:07.522Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.153Z"
+      "lastSuccess": "2026-10-07T10:15:07.463Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.279Z"
+      "lastSuccess": "2026-10-07T10:15:07.667Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 438\nChar: d",
-      "lastErrorAt": "2026-10-07T10:10:07.122Z"
+      "online": true,
+      "lastSuccess": "2026-10-07T10:15:07.534Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.181Z"
+      "lastSuccess": "2026-10-07T10:15:07.664Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.342Z"
+      "lastSuccess": "2026-10-07T10:15:07.757Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:10.706Z"
+      "lastSuccess": "2026-10-07T10:15:07.639Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.238Z"
+      "lastSuccess": "2026-10-07T10:15:07.653Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-07T10:10:07.241Z"
+      "lastErrorAt": "2026-10-07T10:15:07.668Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.285Z"
+      "lastSuccess": "2026-10-07T10:15:07.693Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.356Z"
+      "lastSuccess": "2026-10-07T10:15:07.764Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.117Z"
+      "lastSuccess": "2026-10-07T10:15:07.778Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.062Z"
+      "lastSuccess": "2026-10-07T10:15:07.808Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-07T10:10:07.300Z"
+      "lastSuccess": "2026-10-07T10:15:07.800Z"
     }
   },
   "items": [
+    {
+      "id": "story_9df5249f6d3bcc0d",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+      "snippet": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T10:05:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
+    },
     {
       "id": "story_69c4b52acbfb9b67",
       "source": "Guardian",
@@ -171,6 +183,19 @@
       "link": "https://www.foxnews.com/opinion/danny-danon-oct-7-flight-1073-resilience-keeps-israel-standing",
       "imageUrl": null,
       "publishedAt": "2026-10-07T10:00:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_73e3da588aca13f1",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A Wall Street Record, and Why India Cut 130 Million Names From Its Voter Roll",
+      "snippet": "Plus, the cats who taste-test kibble.",
+      "link": "https://www.nytimes.com/2026/10/07/podcasts/the-headlines/a-wall-street-record-and-why-india-cut-130-million-names-from-its-voter-roll.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T10:00:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -692,6 +717,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-07T09:06:03.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0cfba419be666f76",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "NASA rover takes striking image of dawn's early light on Mars - Reuters",
+      "snippet": "NASA rover takes striking image of dawn's early light on Mars  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1BhS3R3enAtWHdaMGpnOG9DRUgzTUE0LTNaUkNUbmdfZFNkY1FXSE5aZjJER1pvdDZ4NllQdWxsLTNpSVpPRUhZV0dlUi0xVXJIU3RranZtMVJrSTdyVWVITWdOYmh0a3VKbWN5MkUtUzZfMnhNczhGT0hhT0V1ZGN1Q3VQaUl4c01OZDhBeDVMZDhiYTV6aENCYW9zTzQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T09:05:47.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1277,6 +1315,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-07T08:30:16.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9f675b8f07267479",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Iraq devalues dinar to 1,520 per US dollar, state news agency says - Reuters",
+      "snippet": "Iraq devalues dinar to 1,520 per US dollar, state news agency says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEpwOEJxamRUYWRiRS1XT1lsUDlTcWx6WnhhblZWODZ1b1NpN1ZRTWJXMjZjbVR1SnplZEMwYmYyNXpQOGRnanRaenFiNUVBdVY2bmZxUURyb1RUdktXUGpLaVdGUThRLUY1Z1BEMXItUEZoVUlWbE04Vy11ZjlpajJsZ3l2QVd3N2NIREJwZWFFZ0RJbThweG8zZjJGeDdtbThuUEJacHVFRnh3QWFNd3hrLXA4QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T08:28:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2641,58 +2692,6 @@
       "link": "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason",
       "imageUrl": null,
       "publishedAt": "2026-10-07T03:50:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_49b4306aab8ded06",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "University of Arizona Suspends Fraternity Activities, Citing Misconduct Reports",
-      "snippet": "The university said it was putting its fraternity chapters on “activities suspension” while it investigated allegations that included assault, drug use and hazing.",
-      "link": "https://www.nytimes.com/2026/10/06/us/arizona-university-fraternities-suspended.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T03:46:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f9972e9c0455c55c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Photos of Messi playing his last game with Argentina - AP News",
-      "snippet": "Photos of Messi playing his last game with Argentina  AP News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjNwQXdxVTdNTkl2THBhVjNrY2N0QUVTdWNCaEF5TEJuSTVYNzNRMDJSUm9uQ092NDNHUUR0TXFlb2V0cXF2WXNlcGJkT3VfNHlmckdoSWJQWUNGSG9HZFVIQjhSOXltQ2JpQTJ6QlJzaWFXZWE4Qk1VZUQ1V1lOQXRZazY4NHlYQTRkbWFPcEp6X2ZyeVNtVXpaSkVzRnp2SlV0UXBaMjVjVmJ0dDcxYg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T03:37:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a31d4d1fbb64c01f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Shares of Japan beer makers fall after raids over cartel suspicion - Reuters",
-      "snippet": "Shares of Japan beer makers fall after raids over cartel suspicion  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhtWHU3RnZyOTdISkJHakFfTUd2WlZuUzNzUlZObWNNYjlkb2JYcUlTekdZZk1wNnJPalF4Y2plX0JkUnhDMURVS3dkQW1ldkxNMVJJbUdZQ1FHUEdwWjVGcGo2MDBUcHUySVNZeG5STEQzbG5Sa181bklGaXdJNUY3YTdmUTl0Z1VzUEFGRG05bHYzSGxybUxKTDc0TjV0bXRoX1NpNEhRdWxCVkQtbUVOVk1OM1hBTG5tag?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T03:30:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8c46805090c79902",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "US stock market hits all-time high as investors bet big on AI",
-      "snippet": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
-      "link": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T03:27:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
