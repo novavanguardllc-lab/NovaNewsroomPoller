@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-07T13:55:04.871Z",
+  "updatedAt": "2026-10-07T14:00:11.668Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:04.952Z"
+      "lastSuccess": "2026-10-07T14:00:11.721Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.052Z"
+      "lastSuccess": "2026-10-07T14:00:11.734Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.026Z"
+      "lastSuccess": "2026-10-07T14:00:11.718Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.136Z"
+      "lastSuccess": "2026-10-07T14:00:11.761Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.133Z"
+      "lastSuccess": "2026-10-07T14:00:11.737Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.170Z"
+      "lastSuccess": "2026-10-07T14:00:11.930Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.194Z"
+      "lastSuccess": "2026-10-07T14:00:11.784Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.157Z"
+      "lastSuccess": "2026-10-07T14:00:11.806Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.164Z"
+      "lastSuccess": "2026-10-07T14:00:11.808Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.128Z"
+      "lastSuccess": "2026-10-07T14:00:11.819Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.073Z"
+      "lastSuccess": "2026-10-07T14:00:12.346Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.200Z"
+      "lastSuccess": "2026-10-07T14:00:11.846Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.210Z"
+      "lastSuccess": "2026-10-07T14:00:11.789Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.213Z"
+      "lastSuccess": "2026-10-07T14:00:11.868Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.497Z"
+      "lastSuccess": "2026-10-07T14:00:11.754Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.339Z"
+      "lastSuccess": "2026-10-07T14:00:11.832Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.227Z"
+      "lastSuccess": "2026-10-07T14:00:11.865Z"
     },
     "France24": {
       "online": false,
-      "lastError": "Status code 404",
-      "lastErrorAt": "2026-10-07T13:55:05.217Z"
+      "lastError": "Attribute without value\nLine: 0\nColumn: 438\nChar: d",
+      "lastErrorAt": "2026-10-07T14:00:11.849Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.234Z"
+      "lastSuccess": "2026-10-07T14:00:11.886Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-07T13:55:05.228Z"
+      "lastErrorAt": "2026-10-07T14:00:11.890Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.280Z"
+      "lastSuccess": "2026-10-07T14:00:11.915Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.332Z"
+      "lastSuccess": "2026-10-07T14:00:12.011Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-07T13:55:05.347Z"
+      "lastSuccess": "2026-10-07T14:00:12.016Z"
     }
   },
   "items": [
+    {
+      "id": "story_9ccae0aa7a50d52c",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+      "snippet": "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T13:53:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5fe6f944ba9cc246",
       "source": "CBS News",
@@ -132,6 +145,19 @@
       "link": "https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html",
       "imageUrl": null,
       "publishedAt": "2026-10-07T13:48:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_84ef43113e380f2d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Memphis City Council devolves into chaos after data center moratorium vote postponed",
+      "snippet": "Memphis City Council delayed a vote on a data center moratorium as protesters chanted, police cleared the chamber and a fight broke out in the lobby.",
+      "link": "https://www.foxnews.com/politics/memphis-city-council-devolves-chaos-data-center-moratorium-vote-postponed",
+      "imageUrl": null,
+      "publishedAt": "2026-10-07T13:48:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2667,32 +2693,6 @@
       "link": "https://www.nytimes.com/2026/10/07/briefing/france-in-crisis.html",
       "imageUrl": null,
       "publishedAt": "2026-10-07T10:32:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_22f574226de7e0f4",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Investors warn of AI bubble as tech stocks reach record highs",
-      "snippet": "Gains for AI firms have overcome declines for financial, healthcare, and consumer-focused companies.",
-      "link": "https://www.semafor.com/article/10/07/2026/investors-warn-of-ai-bubble-as-tech-stocks-reach-record-highs",
-      "imageUrl": "https://img.semafor.com/bdace15c1e0c459912fefd2df20148037d87e312-5322x3548.jpg",
-      "publishedAt": "2026-10-07T10:32:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6177fcc557afe238",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "OpenAI's mathematical breakthroughs roil the field",
-      "snippet": "Experts have argued that AI could be revolutionary for mathematics, but only if it gives the proof for a solution.",
-      "link": "https://www.semafor.com/article/10/07/2026/openais-mathematical-breakthroughs-roil-the-field",
-      "imageUrl": "https://img.semafor.com/3b9e0578ddf333806f0783815b9d3445bab343b2-2048x1368.jpg",
-      "publishedAt": "2026-10-07T10:31:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
