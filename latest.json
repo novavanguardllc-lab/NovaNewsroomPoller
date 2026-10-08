@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-08T08:20:06.507Z",
+  "updatedAt": "2026-10-08T08:25:04.939Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.763Z"
+      "lastSuccess": "2026-10-08T08:25:05.122Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.681Z"
+      "lastSuccess": "2026-10-08T08:25:05.102Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.646Z"
+      "lastSuccess": "2026-10-08T08:25:05.202Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.886Z"
+      "lastSuccess": "2026-10-08T08:25:05.377Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.708Z"
+      "lastSuccess": "2026-10-08T08:25:05.404Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.619Z"
+      "lastSuccess": "2026-10-08T08:25:05.246Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.710Z"
+      "lastSuccess": "2026-10-08T08:25:05.141Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.892Z"
+      "lastSuccess": "2026-10-08T08:25:05.380Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.889Z"
+      "lastSuccess": "2026-10-08T08:25:05.259Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.825Z"
+      "lastSuccess": "2026-10-08T08:25:05.451Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.895Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 432\nChar: d",
+      "lastErrorAt": "2026-10-08T08:25:05.276Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.905Z"
+      "lastSuccess": "2026-10-08T08:25:05.457Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.922Z"
+      "lastSuccess": "2026-10-08T08:25:05.505Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.938Z"
+      "lastSuccess": "2026-10-08T08:25:05.525Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.935Z"
+      "lastSuccess": "2026-10-08T08:25:05.646Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.743Z"
+      "lastSuccess": "2026-10-08T08:25:05.639Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:07.004Z"
+      "lastSuccess": "2026-10-08T08:25:05.465Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-08T08:20:06.908Z"
+      "lastErrorAt": "2026-10-08T08:25:05.696Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.928Z"
+      "lastSuccess": "2026-10-08T08:25:05.724Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.724Z"
+      "lastSuccess": "2026-10-08T08:25:05.577Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:07.145Z"
+      "lastSuccess": "2026-10-08T08:25:05.628Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.778Z"
+      "lastSuccess": "2026-10-08T08:25:05.302Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-08T08:20:06.981Z"
+      "lastSuccess": "2026-10-08T08:25:05.682Z"
     }
   },
   "items": [
+    {
+      "id": "story_256c32f63adebcaf",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
+      "snippet": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T08:13:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_91819acef766690d",
       "source": "Guardian",
@@ -225,6 +239,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_ec3309f4616f50e6",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "UK police charge member of Royal Navy under National Security Act - Reuters",
+      "snippet": "UK police charge member of Royal Navy under National Security Act  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEtBX2hKN1NVWU1ERHhXWGVjWjRrOWxGMmk4YlltRVpKRjdaSklNTGtKbTRzekZPajZnZFFJZlVFRXFrTk9UU0x5SHI1aDR6cXlMTXdrUHdvSjlQZHhsdF9qRUxMYUFVY252MkJ3enVCYWVhZnZ2QU5MWkhmNGFVbHFPc0t1bVI1LVJWU2FhT25xcWRXMkZqX2tIdkotSzJnVnVkenBJRHpNWFU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T06:57:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_9a4370e3aa3e2b0e",
@@ -2666,32 +2693,6 @@
       "link": "https://abcnews.com/Politics/hegseth-greets-uss-abraham-lincoln-end-record-long/story?id=137067054",
       "imageUrl": null,
       "publishedAt": "2026-10-07T23:32:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7eb76f0a440e75eb",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Tropical Storm Isaias intensifies as shoppers stockpile water, food, essentials",
-      "snippet": "Warnings of a hurricane threat are posted from Louisiana to the Florida Panhandle. Although the system is a tropical storm, it's expected to strengthen into a Category 2 hurricane by Friday. It would be the first hurricane of the year. Rob ",
-      "link": "https://www.cbsnews.com/video/tropical-storm-isaias-intensifies-shoppers-stockpile-water-food-essentials/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T23:32:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ee1eadee3f975b78",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "She made India fall in love with women's cricket - now her era as captain is over",
-      "snippet": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T23:31:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
