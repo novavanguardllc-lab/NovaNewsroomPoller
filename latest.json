@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-08T06:55:05.212Z",
+  "updatedAt": "2026-10-08T07:00:12.250Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.549Z"
+      "lastSuccess": "2026-10-08T07:00:12.375Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.702Z"
+      "lastSuccess": "2026-10-08T07:00:12.438Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.531Z"
+      "lastSuccess": "2026-10-08T07:00:12.432Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.678Z"
+      "lastSuccess": "2026-10-08T07:00:12.551Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.471Z"
+      "lastSuccess": "2026-10-08T07:00:12.466Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.654Z"
+      "lastSuccess": "2026-10-08T07:00:12.367Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.396Z"
+      "lastSuccess": "2026-10-08T07:00:12.475Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.709Z"
+      "lastSuccess": "2026-10-08T07:00:12.495Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.750Z"
+      "lastSuccess": "2026-10-08T07:00:12.515Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.735Z"
+      "lastSuccess": "2026-10-08T07:00:12.566Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.712Z"
+      "lastSuccess": "2026-10-08T07:00:12.519Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.715Z"
+      "lastSuccess": "2026-10-08T07:00:12.493Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.770Z"
+      "lastSuccess": "2026-10-08T07:00:12.530Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.888Z"
+      "lastSuccess": "2026-10-08T07:00:12.570Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.909Z"
+      "lastSuccess": "2026-10-08T07:00:12.585Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.899Z"
+      "lastSuccess": "2026-10-08T07:00:12.712Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.878Z"
+      "lastSuccess": "2026-10-08T07:00:12.527Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-08T06:55:05.981Z"
+      "lastErrorAt": "2026-10-08T07:00:12.576Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:06.004Z"
+      "lastSuccess": "2026-10-08T07:00:12.684Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.831Z"
+      "lastSuccess": "2026-10-08T07:00:12.702Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.971Z"
+      "lastSuccess": "2026-10-08T07:00:12.678Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:05.389Z"
+      "lastSuccess": "2026-10-08T07:00:12.508Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-08T06:55:06.052Z"
+      "lastSuccess": "2026-10-08T07:00:12.635Z"
     }
   },
   "items": [
+    {
+      "id": "story_9ed4a8077745cf05",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Former corrections officer accused of killing wife, forcing kids to help",
+      "snippet": "A former corrections officer allegedly strangled his wife and forced some of his children to help during the attack, then hid her body in a dumpster.",
+      "link": "https://www.foxnews.com/us/former-corrections-officer-accused-killing-wife-forcing-kids-help",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T06:49:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_bdfc0ff65e56bc08",
       "source": "NYT",
@@ -2680,19 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-07T22:58:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_620979efdebb79e8",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " WHO officials say unclear how Russia plague lab worker died",
-      "snippet": "The WHO said on Wednesday it does not have enough information from Russian authorities to conduct a full risk assessment after the death of a plague laboratory worker.",
-      "link": "https://abcnews.com/Health/officials-unclear-russia-plague-lab-worker-died-call/story?id=137032253",
-      "imageUrl": null,
-      "publishedAt": "2026-10-07T22:57:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
