@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-10-08T23:15:07.116Z",
+  "updatedAt": "2026-10-08T23:20:06.773Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.206Z"
+      "lastSuccess": "2026-10-08T23:20:06.857Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.310Z"
+      "lastSuccess": "2026-10-08T23:20:07.026Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.212Z"
+      "lastSuccess": "2026-10-08T23:20:06.917Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.269Z"
+      "lastSuccess": "2026-10-08T23:20:06.911Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.173Z"
+      "lastSuccess": "2026-10-08T23:20:07.106Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.341Z"
+      "lastSuccess": "2026-10-08T23:20:07.152Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.235Z"
+      "lastSuccess": "2026-10-08T23:20:07.050Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.407Z"
+      "lastSuccess": "2026-10-08T23:20:07.282Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.286Z"
+      "lastSuccess": "2026-10-08T23:20:07.089Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.319Z"
+      "lastSuccess": "2026-10-08T23:20:07.155Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.358Z"
+      "lastSuccess": "2026-10-08T23:20:07.070Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.275Z"
+      "lastSuccess": "2026-10-08T23:20:07.056Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.325Z"
+      "lastSuccess": "2026-10-08T23:20:07.095Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.314Z"
+      "lastSuccess": "2026-10-08T23:20:07.168Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.563Z"
+      "lastSuccess": "2026-10-08T23:20:07.035Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.345Z"
+      "lastSuccess": "2026-10-08T23:20:07.105Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.612Z"
+      "lastSuccess": "2026-10-08T23:20:06.969Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.401Z"
+      "lastSuccess": "2026-10-08T23:20:07.277Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.430Z"
+      "lastSuccess": "2026-10-08T23:20:07.123Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.488Z"
+      "lastSuccess": "2026-10-08T23:20:07.171Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-08T23:15:07.412Z"
+      "lastErrorAt": "2026-10-08T23:20:07.089Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.472Z"
+      "lastSuccess": "2026-10-08T23:20:07.428Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T23:15:07.514Z"
+      "lastSuccess": "2026-10-08T23:20:07.114Z"
     }
   },
   "items": [
@@ -108,6 +108,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_c05fedd1a1e55e7c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "ICE Agent Shoots Man in New York City",
+      "snippet": "The person who was shot had been taken to a nearby hospital and was conscious and receiving medical attention, according to the New York Police Department, which said it was not involved in the shooting.",
+      "link": "https://www.nytimes.com/2026/10/08/nyregion/ice-shooting-nyc-bronx.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T23:06:23.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_b6600228f09be0d4",
@@ -274,6 +287,19 @@
       "link": "https://www.semafor.com/article/10/08/2026/china-refutes-yuan-manipulation-claims-amidst-trades-tensions-with-eu",
       "imageUrl": "https://img.semafor.com/b1dde214a9e8746f17a7b5b1487373b86f4beff9-6000x4000.jpg",
       "publishedAt": "2026-10-08T22:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_625328ce52ad1adc",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
+      "snippet": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
+      "link": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T22:54:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -669,6 +695,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a7d981b4e9871ff4",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "New documentary traces Elon Musk's rise and embrace of right-wing politics",
+      "snippet": "Elon Musk remains one of the more powerful and controversial figures in business, science, tech and politics. He played a central role in the early days of the second Trump administration. Now, a new documentary is chronicling Musk's rise t",
+      "link": "https://www.pbs.org/newshour/show/new-documentary-traces-elon-musks-rise-and-embrace-of-right-wing-politics",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T22:20:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e8a09ce431ecb498",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -743,6 +782,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/07/AP24109723376833-1-e1720825377149.jpg?w=900",
       "publishedAt": "2026-10-08T22:16:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ae65ab80418fec89",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say - Reuters",
+      "snippet": "EXCLUSIVE: Southwest Airlines weighs Boeing 787 for long-haul international push, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSXhxTExpbjZ2TGxEWFB4SzVMOEZxaXpwQ2ctMkk5bTh6VVFkWG5SNlViM2gzVG1OVUhuUEtxS24xNXI2NmZ6Q09telNRQ09rLVVlX28wWnFGaGxzVEZXLWIyRkhXbVRRSm5leEJmbzNkSWFQamtYR19wRHdCYWZEazhRcDRfTlBCLWE0SmN2ckVXdUZxV1YwZjRLRjYzczJPTzdkSmpyblZ4Qlc0Q01wTmFOd0s3c0VpVE5rM1Jlc1dINUFoNEJDTjVMTzRveTFqdXRHSnEzWQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T22:14:45.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2643,58 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_53a96691b48e4218",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Apple names insider Steve Smith as new M&A chief, memo shows - Reuters",
-      "snippet": "Apple names insider Steve Smith as new M&A chief, memo shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVFMMVdNWVZKM2ExREhPZkJyQnhySHFNTktxYzJFT3dBZjdTTzBEV01LazNJTkdDZExNdFBRS3FtNDRYMXkxWC1EaFotLVI4dkxfXzB4enV0WXNBc3J0bGxtaUF2RUlvLTJzemFWN29ydUtFZWJDR2hGc3pVczhDakMtRTRMWmtKSEVxc0o4ek4tQ3liNUp0RW1EYm0tRGRWZ2FGNmdONGhWeW1jOW16Vg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T19:46:29.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_058d4d6095bf7ba9",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " NFL urges the Supreme Court to rule on regulation of prediction markets",
-      "snippet": "The NFL is urging the Supreme Court to rule on the regulation of prediction markets, arguing in an amicus brief filed that states are better positioned to oversee sports-related contracts “given the current landscape.”",
-      "link": "https://abcnews.com/Sports/wireStory/nfl-urges-supreme-court-rule-regulation-prediction-markets-137105995",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T19:46:26.000Z",
-      "tier": "developing",
-      "topic": "sports",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_a9eb991795bc1f1a",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Rogers and El-Sayed are set for their first debate in Michigan's Senate race after sparring online",
-      "snippet": "Republican Mike Rogers and Democrat Abdul El-Sayed, competing for an open U.S. Senate seat in Michigan, are set for their first campaign debate Thursday after weeks of sparring both online and in advertisements that are flooding the state i",
-      "link": "https://www.pbs.org/newshour/politics/rogers-and-el-sayed-are-set-for-their-first-debate-in-michigans-senate-race-after-sparring-online",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T19:45:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e199c3b0f0122213",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
-      "snippet": "The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war's cost.",
-      "link": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T19:43:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
