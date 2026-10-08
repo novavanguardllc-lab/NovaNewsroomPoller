@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-08T18:00:13.003Z",
+  "updatedAt": "2026-10-08T18:05:05.237Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.260Z"
+      "lastSuccess": "2026-10-08T18:05:05.523Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.326Z"
+      "lastSuccess": "2026-10-08T18:05:05.385Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.342Z"
+      "lastSuccess": "2026-10-08T18:05:05.465Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.186Z"
+      "lastSuccess": "2026-10-08T18:05:05.423Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.444Z"
+      "lastSuccess": "2026-10-08T18:05:05.643Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.527Z"
+      "lastSuccess": "2026-10-08T18:05:05.623Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.420Z"
+      "lastSuccess": "2026-10-08T18:05:05.641Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.435Z"
+      "lastSuccess": "2026-10-08T18:05:05.660Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.299Z"
+      "lastSuccess": "2026-10-08T18:05:05.443Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.386Z"
+      "lastSuccess": "2026-10-08T18:05:05.501Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:17.444Z"
+      "lastSuccess": "2026-10-08T18:05:05.666Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:16.582Z"
+      "lastSuccess": "2026-10-08T18:05:05.681Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.684Z"
+      "lastSuccess": "2026-10-08T18:05:05.786Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-08T18:00:13.413Z"
+      "lastErrorAt": "2026-10-08T18:05:05.681Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.388Z"
+      "lastSuccess": "2026-10-08T18:05:05.880Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.462Z"
+      "lastSuccess": "2026-10-08T18:05:05.571Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.282Z"
+      "lastSuccess": "2026-10-08T18:05:05.603Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.413Z"
+      "lastSuccess": "2026-10-08T18:05:05.720Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.544Z"
+      "lastSuccess": "2026-10-08T18:05:05.875Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 432\nChar: d",
-      "lastErrorAt": "2026-10-08T18:00:13.464Z"
+      "online": true,
+      "lastSuccess": "2026-10-08T18:05:05.685Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.566Z"
+      "lastSuccess": "2026-10-08T18:05:05.820Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.361Z"
+      "lastSuccess": "2026-10-08T18:05:05.831Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-08T18:00:13.122Z"
+      "lastSuccess": "2026-10-08T18:05:05.846Z"
     }
   },
   "items": [
+    {
+      "id": "story_2f0bca4d2bd3f273",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "'Generation COVID' explores the lasting toll of pandemic-era school closures",
+      "snippet": "\"Generation COVID\" follows families across five states over four years, documenting how pandemic school closures still affect children's mental health.",
+      "link": "https://www.foxnews.com/media/generation-covid-explores-lasting-toll-pandemic-era-school-closures",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T18:03:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c88b447d52693525",
       "source": "Wash Examiner",
@@ -2679,19 +2691,6 @@
       "snippet": "There has been a surge of anti-Sharia legislation and commentary over the past two years, even though Sharia law does impact civil government in the United States.",
       "link": "https://www.washingtonpost.com/religion/2026/10/08/anti-sharia-law-bills-punditry-are-spiking-us-post-analysis-found/",
       "imageUrl": null,
-      "publishedAt": "2026-10-08T15:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dd6b5a20ca4cdfcd",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Senate Republicans give it one more last chance",
-      "snippet": "Despite efforts by Senate leadership to pass meaningful legislation before the midterm recess, partisan gridlock resulted in the failure of several key bills, leaving the chamber with little progress beyond minor administrative measures and",
-      "link": "https://thehill.com/opinion/congress-blog/6134140-senate-midterm-legislative-gridlock/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26272746016224.jpg?w=900",
       "publishedAt": "2026-10-08T15:00:00.000Z",
       "tier": "routine",
       "topic": "news",
