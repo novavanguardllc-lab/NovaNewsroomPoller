@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-08T21:05:05.121Z",
+  "updatedAt": "2026-10-08T21:10:07.134Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.264Z"
+      "lastSuccess": "2026-10-08T21:10:07.380Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.193Z"
+      "lastSuccess": "2026-10-08T21:10:07.578Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.267Z"
+      "lastSuccess": "2026-10-08T21:10:07.355Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.353Z"
+      "lastSuccess": "2026-10-08T21:10:07.478Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.325Z"
+      "lastSuccess": "2026-10-08T21:10:07.496Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.436Z"
+      "lastSuccess": "2026-10-08T21:10:07.700Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.313Z"
+      "lastSuccess": "2026-10-08T21:10:07.614Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.371Z"
+      "lastSuccess": "2026-10-08T21:10:07.774Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.373Z"
+      "lastSuccess": "2026-10-08T21:10:07.618Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.404Z"
+      "lastSuccess": "2026-10-08T21:10:07.739Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.605Z"
+      "lastSuccess": "2026-10-08T21:10:07.723Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.285Z"
+      "lastSuccess": "2026-10-08T21:10:07.779Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.387Z"
+      "lastSuccess": "2026-10-08T21:10:07.861Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.393Z"
+      "lastSuccess": "2026-10-08T21:10:07.735Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.704Z"
+      "lastSuccess": "2026-10-08T21:10:07.915Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.442Z"
+      "lastSuccess": "2026-10-08T21:10:07.815Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.583Z"
+      "lastSuccess": "2026-10-08T21:10:07.936Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.531Z"
+      "lastSuccess": "2026-10-08T21:10:08.218Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.463Z"
+      "lastSuccess": "2026-10-08T21:10:07.956Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.444Z"
+      "lastSuccess": "2026-10-08T21:10:07.740Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-08T21:05:05.450Z"
+      "lastErrorAt": "2026-10-08T21:10:07.957Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.558Z"
+      "lastSuccess": "2026-10-08T21:10:08.081Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T21:05:05.567Z"
+      "lastSuccess": "2026-10-08T21:10:07.985Z"
     }
   },
   "items": [
+    {
+      "id": "story_340d24ca512c54f0",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Home at last: USS Abraham Lincoln completes record-setting deployment",
+      "snippet": "The USS Abraham Lincoln carrier strike group returned to its Southern California homeport on Thursday",
+      "link": "https://abcnews.com/US/home-uss-abraham-lincoln-completes-record-setting-deployment/story?id=137099404",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T21:07:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_9b008d5375941a67",
       "source": "Fox News",
@@ -105,6 +118,19 @@
       "link": "https://www.foxnews.com/travel/deadly-crash-kills-two-plane-plunge-ball-flames-near-suburban-golf-course",
       "imageUrl": null,
       "publishedAt": "2026-10-08T21:04:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_561bbfee0ebf1e45",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Mortgage rates hit 7.4 percent for first time since November 2023",
+      "snippet": "Mortgage rates increased again this week, with the average 30-year rate hitting 7.4 percent for the first time since November 2023, Freddie Mac reported Thursday. The average 30-year mortgage rate rose 12 basis points from last week, when i",
+      "link": "https://thehill.com/business/6137377-mortgage-rates-rise-multi-week-high/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26084693991307-e1791493375810.jpg?w=900",
+      "publishedAt": "2026-10-08T21:03:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -131,6 +157,19 @@
       "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-11-2026/",
       "imageUrl": null,
       "publishedAt": "2026-10-08T21:02:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6e73d2a1291e8223",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Polls close in Holborn and St Pancras byelection as Labour hope to retain seat",
+      "snippet": "Contest seen as test of Andy Burnham’s ability to unite Labour voters amid threat from Green party’s Zack Polanski\nPolls have closed in the Holborn and St Pancras byelection, a contest seen as a test of Andy Burnham’s ability to unite Labou",
+      "link": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T21:00:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2656,45 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_06ccbd24b3be08ba",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Former CIA official accused of stealing $40M in gold bars pleads guilty - AP News",
-      "snippet": "Former CIA official accused of stealing $40M in gold bars pleads guilty  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzZ3MmplRE1zbTFTMUVwRW16QzB5LVJDVGhjTEtjWVZtdEh2NEc2bWk3VkxBTmlleEtrUkdxdnRUZWd2aUp0VWx2RmppSVBsLVkwRzlqVnl5ajU2b0tKRHlvdnZzZWMwMWdRZFFrQXRZclRmb3BPQnk3SW01MTRjeVNjdVU4b19yR2R1dVRpWVRKeEJuWEE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T17:34:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ebd6a81c3360ec0e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Two Latvian men arrested at RAF base in Cambridgeshire used by US military",
-      "snippet": "Men aged 32 and 36 detained on suspicion of trespass, causing criminal damage and entering a prohibited place\nTwo Latvian men were arrested in the early hours of Thursday after they were discovered inside the perimeter of RAF Molesworth, a ",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/08/two-latvian-men-arrested-raf-molesworth-cambridgeshire-us-nato",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T17:34:27.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d352a546c962fc51",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US House Speaker Johnson weighs 'next chapter' if Republicans lose majority-Fox News - Reuters",
-      "snippet": "US House Speaker Johnson weighs 'next chapter' if Republicans lose majority-Fox News  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWdqLUJ4MVhnbmRuWUl6NUx5NEhYS0V0d1pKUVBfQ3NvNFg2WU1DTVlVeFdvQ1gtQnIxRVFEd3owNzJGaUZlR0tyemQxMlIzUDJKdDNmRmcxaGFoQU5QOWZ5dkx6WEdvcS1QS3VLdXduN1hwQ250dVYwNFVHRVpVbndSbTd0VFBpUlJnNExINmp3a0YtcG1YdEN5d3dzWjVIWW0zZEY2blFSWTh3YkNrTmtNY3VpNlpyMU45TXk1VWJ4TDZzcmVqb29n?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T17:34:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
