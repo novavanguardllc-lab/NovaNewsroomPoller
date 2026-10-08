@@ -1,105 +1,157 @@
 {
-  "updatedAt": "2026-10-08T14:15:07.459Z",
+  "updatedAt": "2026-10-08T14:20:07.209Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.758Z"
+      "lastSuccess": "2026-10-08T14:20:07.412Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.585Z"
+      "lastSuccess": "2026-10-08T14:20:07.341Z"
     },
     "Al Jazeera": {
       "online": false,
       "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-08T14:15:07.609Z"
+      "lastErrorAt": "2026-10-08T14:20:07.383Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.608Z"
+      "lastSuccess": "2026-10-08T14:20:07.376Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.719Z"
+      "lastSuccess": "2026-10-08T14:20:07.418Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.699Z"
+      "lastSuccess": "2026-10-08T14:20:07.484Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.721Z"
+      "lastSuccess": "2026-10-08T14:20:07.421Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.741Z"
+      "lastSuccess": "2026-10-08T14:20:07.487Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.806Z"
+      "lastSuccess": "2026-10-08T14:20:07.492Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.770Z"
+      "lastSuccess": "2026-10-08T14:20:07.478Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.810Z"
+      "lastSuccess": "2026-10-08T14:20:07.502Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-08T14:15:07.800Z"
+      "lastErrorAt": "2026-10-08T14:20:07.507Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.860Z"
+      "lastSuccess": "2026-10-08T14:20:07.609Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-08T14:15:07.815Z"
+      "lastErrorAt": "2026-10-08T14:20:07.630Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.737Z"
+      "lastSuccess": "2026-10-08T14:20:07.381Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.798Z"
+      "lastSuccess": "2026-10-08T14:20:07.557Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.663Z"
+      "lastSuccess": "2026-10-08T14:20:07.623Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.821Z"
+      "lastSuccess": "2026-10-08T14:20:07.629Z"
     },
     "NBC News": {
       "online": false,
       "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-08T14:15:07.540Z"
+      "lastErrorAt": "2026-10-08T14:20:07.426Z"
     },
     "France24": {
       "online": false,
       "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-08T14:15:07.725Z"
+      "lastErrorAt": "2026-10-08T14:20:07.414Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:07.899Z"
+      "lastSuccess": "2026-10-08T14:20:07.727Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:08.011Z"
+      "lastSuccess": "2026-10-08T14:20:07.713Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-08T14:15:08.039Z"
+      "lastSuccess": "2026-10-08T14:20:07.699Z"
     }
   },
   "items": [
+    {
+      "id": "story_0d47eda14da224ed",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Hillary Clinton issues endorsement in US midterm elections",
+      "snippet": "Former U.S. Sen. Hillary Clinton endorsed Minnesota Lt. Gov. Peggy Flanagan for U.S. Senate as the Democratic candidate runs against Republican Michele Tafoya.",
+      "link": "https://www.foxnews.com/politics/hillary-clinton-endorses-first-us-senate-candidate-midterm-elections",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T14:15:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_70a11f61e16ef205",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Russia's public health watchdog denies a second infection in suspected pneumonic plague case",
+      "snippet": "In Thursday's statement, Rospotrebnadzor rejected reports about a second person falling ill after coming into contact with the lab worker as fake. It didn't offer any new information about the lab worker's illness and death or reasons behin",
+      "link": "https://www.pbs.org/newshour/world/russias-public-health-watchdog-denies-a-second-infection-in-suspected-pneumonic-plague-case",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T14:13:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_871ebfbf7da8e52e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Support for businesses taking public stances on issues drops: Gallup",
+      "snippet": "Americans’ support for businesses taking public stances has dipped, according to a new poll, as many companies have curried favor with President Trump during his second term.  Forty-seven percent of 3,270 respondents to a Gallup survey said",
+      "link": "https://thehill.com/business/6135938-americans-business-public-stance-poll/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trump_donald_zuckerberg_mark_amodei_dario_09302026_AP26272795989274-2.jpg?w=900",
+      "publishedAt": "2026-10-08T14:12:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dcc943f5c18bd876",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "See the moment a police dog found a missing boy in the Maryland woods",
+      "snippet": "A K-9 bloodhound named Beau helped rescue a missing boy in the Maryland woods after an hourslong search. Police body camera shows the storybook ending. Tom Hanson reports.",
+      "link": "https://www.cbsnews.com/video/see-the-moment-a-police-dog-found-a-missing-boy-in-the-maryland-woods/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T14:12:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e3e0fc2c33c46443",
       "source": "The Hill",
@@ -109,6 +161,19 @@
       "link": "https://thehill.com/homenews/senate/6136126-daines-merkley-bipartisan-proposal/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/dainessteve_060226gn01_w.jpg?w=900",
       "publishedAt": "2026-10-08T14:10:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a255c40e7ae4cd22",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Iowa is grappling with Trump's economic policies despite being a reliably Republican state",
+      "snippet": "Iowa voters are dealing with the impact of the current U.S. economy and may cast their votes seeking to distance themselves from President Trump. CBS News' Ed O'Keefe reports.",
+      "link": "https://www.cbsnews.com/video/iowa-is-grappling-with-trumps-economic-policies-despite-being-reliably-republican/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T14:08:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2025,6 +2090,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0e6c53875dabe77a",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Russia denies second case of 'plague' as WHO seeks to verify",
+      "snippet": "Russia has denied that a second case of an infectious disease has emerged where a woman who worked at a laboratory died last week.",
+      "link": "https://news.sky.com/story/russia-denies-second-case-of-infectious-disease-as-who-seeks-to-verify-reports-of-new-plague-contact-13596464",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-plague-yersinia-pestis_7368625.jpg?20261005110731",
+      "publishedAt": "2026-10-08T11:27:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_40f1b217be9d9e52",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2621,84 +2699,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_886d60d83be5395e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "China nominates health official to lead WHO - AP News",
-      "snippet": "China nominates health official to lead WHO  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDFrTnZtTzN0ZDhxQV9Bc1BQVi1FdDZiSWxCSmExcHRQbFp0SkVMU0pyYnBBeHVfV3kwQXhyYXdzV2d6MGtMS0NiNURqMGtibG40LTFpM0tSQnlMUV9vVXZlb0lZeG9qZG9aSGJFaUhETENrUVdoVFJIQlhNZldqazFSVTF1cHdycnhmUkRB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T10:59:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d4fe01966b888912",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
-      "snippet": "Vessel spent over 260 consecutive days at sea without a port call, a US navy record\n\nSign up for the US Breaking News email\n\nWorries around artificial intelligence cross party lines, with the vast majority of Americans saying the US governm",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T10:55:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_631e9e2b977071ba",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " At least 35 killed in Russian attacks on Ukraine, officials say",
-      "snippet": "A passenger bus was struck in Kramatorsk, in the Donetsk region, officials said.",
-      "link": "https://abcnews.com/International/35-killed-russian-attacks-ukraine-officials/story?id=137089920",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T10:55:10.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_d85277e4ab946d09",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "South Korea recalls Ukraine ambassador amid POW dispute",
-      "snippet": "South Korea has said it will recall its ambassador to Ukraine. Seoul is upset about a transfer of North Korean prisoners of war being made public knowledge at the UN and had demanded — but not received — an apology.",
-      "link": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T10:55:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_4e47b69667dd2603",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "At least 30 people feared killed in Russian bus bombing in Ukraine",
-      "snippet": "At least 30 people were killed when a Russian bomb struck two buses in the Ukrainian frontline city of Kramatorsk Thursday, local officials said, as Moscow’s intensifying attacks grow ever more deadly.",
-      "link": "https://www.nbcnews.com/world/europe/30-people-feared-dead-bus-attack-eastern-ukraine-rcna602247",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T10:53:53.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_16c67f2bd64ec614",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-      "snippet": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
-      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T10:52:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
