@@ -1,101 +1,140 @@
 {
-  "updatedAt": "2026-10-09T00:25:05.480Z",
+  "updatedAt": "2026-10-09T00:30:10.423Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.703Z"
+      "lastSuccess": "2026-10-09T00:30:10.639Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.904Z"
+      "lastSuccess": "2026-10-09T00:30:10.598Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.742Z"
+      "lastSuccess": "2026-10-09T00:30:10.500Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.122Z"
+      "lastSuccess": "2026-10-09T00:30:10.697Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.723Z"
+      "lastSuccess": "2026-10-09T00:30:10.620Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.166Z"
+      "lastSuccess": "2026-10-09T00:30:10.778Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.986Z"
+      "lastSuccess": "2026-10-09T00:30:10.824Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.202Z"
+      "lastSuccess": "2026-10-09T00:30:10.862Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.404Z"
+      "lastSuccess": "2026-10-09T00:30:10.865Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.265Z"
+      "lastSuccess": "2026-10-09T00:30:10.804Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.243Z"
+      "lastSuccess": "2026-10-09T00:30:10.841Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.206Z"
+      "lastSuccess": "2026-10-09T00:30:10.808Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.324Z"
+      "lastSuccess": "2026-10-09T00:30:10.801Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.263Z"
+      "lastSuccess": "2026-10-09T00:30:10.861Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.802Z"
+      "lastSuccess": "2026-10-09T00:30:11.022Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.401Z"
+      "lastSuccess": "2026-10-09T00:30:10.847Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:05.827Z"
+      "lastSuccess": "2026-10-09T00:30:11.002Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.680Z"
+      "lastSuccess": "2026-10-09T00:30:10.963Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.440Z"
+      "lastSuccess": "2026-10-09T00:30:10.879Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.442Z"
+      "lastSuccess": "2026-10-09T00:30:10.849Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-09T00:25:06.460Z"
+      "lastErrorAt": "2026-10-09T00:30:10.867Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.760Z"
+      "lastSuccess": "2026-10-09T00:30:13.105Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-09T00:25:06.466Z"
+      "lastSuccess": "2026-10-09T00:30:10.894Z"
     }
   },
   "items": [
+    {
+      "id": "story_b11eab44a8af81ab",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+      "snippet": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T00:25:15.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3c7dcf0a3dba33aa",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Leader of extremist '764' network pleads guilty to sexually exploiting children: DOJ",
+      "snippet": "The leader of the \"764\" network, which seeks to exploit minors online, pleaded guilty Thursday to conspiracy to sexually exploit minors.",
+      "link": "https://abcnews.com/Politics/leader-extremist-764-network-pleads-guilty-sexually-exploiting/story?id=137109641",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T00:24:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_02b9aa6c86281886",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "NFL urges Supreme Court to decide who should regulate prediction markets",
+      "snippet": "The National Football League is now urging the Supreme Court to decide whether states should have the power to regulate prediction markets. Front Office Sports deals reporter Ben Horney joins CBS News to discuss.",
+      "link": "https://www.cbsnews.com/video/nfl-urges-supreme-court-decide-who-should-regulate-prediction-markets/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T00:18:56.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d6d3df58e1fd7d56",
       "source": "CBS News",
@@ -157,6 +196,19 @@
       "link": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
       "imageUrl": null,
       "publishedAt": "2026-10-09T00:14:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_da28e9af67288095",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "A father’s agony after an Israeli air strike hits Gaza apartment",
+      "snippet": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T00:12:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1410,6 +1462,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fd6fc95aaaf99c10",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Christa Pike is walking with help and eating after failed execution attempt, her attorneys say - AP News",
+      "snippet": "Christa Pike is walking with help and eating after failed execution attempt, her attorneys say  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWxwU09RcG1QX2xjbnNKZWc3VEIxMm1zVV90c0w4S1RCMVcyQTZNZkRWRk5iTVJ2NGI1X0VyOWZuR3J6OEpNdC1TSkRUNTE4MGxMX1FxZEprdVdZUTQxUHRXQlJnTDgwLWxZVmR6b3FhdTUxalZVVzFYTm85TjFuNGU2cHdtbmNWYjE3WFFvV0xNYXB2Mm9oOGN5TS16c0ZYRXpGTFZjX09hektVVHhN?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-08T22:30:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_753142abbf53e551",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2627,71 +2692,6 @@
       "link": "https://thehill.com/business/6137377-mortgage-rates-rise-multi-week-high/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26084693991307-e1791493375810.jpg?w=900",
       "publishedAt": "2026-10-08T21:03:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9dafbdea9e77d602",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Book excerpt: \"Ethel Kennedy: The Extraordinary Life and Bold Legacy\"",
-      "snippet": "Kerry Kennedy writes of her mother's inspiring example, from before and after the assassination of her father, Robert F. Kennedy.",
-      "link": "https://www.cbsnews.com/news/book-excerpt-ethel-kennedy-the-extraordinary-life-and-bold-legacy-by-kerry-kennedy/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T21:02:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_426473fbe3debf16",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "This week on \"Sunday Morning\" (Oct. 11)",
-      "snippet": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-      "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-11-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T21:02:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8801c1a6ab2f12b4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate - Reuters",
-      "snippet": "Kremlin: Russia agrees with Rubio that Ukraine conflict is in a stalemate  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmhpZUc5Nk5YX202d21jNmdYb2JNLVVBdm04S3ZJWjlWSl94NmROODVhRlo1ZE9YU05oMkNDaTEzeGt1TG1vQk82ejZRZEhHbmlHOHZfTmNEb2JFc0lBZnBGSk1uU3p2WkZTSVZqNW5WbWk3TVAzNU44Sk5LS0tUSjRfZTBjSnZmSnNhNzNUd3lDLWViaTVic1ZXYjBlbHlvVDc2YjFjclg1OFJ3Y0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T21:01:44.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e73d2a1291e8223",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Polls close in Holborn and St Pancras byelection as Labour hope to retain seat",
-      "snippet": "Contest seen as test of Andy Burnham’s ability to unite Labour voters amid threat from Green party’s Zack Polanski\nPolls have closed in the Holborn and St Pancras byelection, a contest seen as a test of Andy Burnham’s ability to unite Labou",
-      "link": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T21:00:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_00d416e523c105bb",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "10/8: The Takeout with Major Garrett",
-      "snippet": "Donor accuses Kimberly Guilfoyle of $100,000 \"quid pro quo\"; USS Abraham Lincoln returns home after 10-month deployment.",
-      "link": "https://www.cbsnews.com/video/100826-the-takeout-with-major-garrett/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-08T21:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
