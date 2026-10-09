@@ -1,101 +1,140 @@
 {
-  "updatedAt": "2026-10-09T16:00:11.082Z",
+  "updatedAt": "2026-10-09T16:05:05.101Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.192Z"
+      "lastSuccess": "2026-10-09T16:05:05.293Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.210Z"
+      "lastSuccess": "2026-10-09T16:05:05.189Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.249Z"
+      "lastSuccess": "2026-10-09T16:05:05.389Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.293Z"
+      "lastSuccess": "2026-10-09T16:05:05.409Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.319Z"
+      "lastSuccess": "2026-10-09T16:05:05.447Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.333Z"
+      "lastSuccess": "2026-10-09T16:05:05.652Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.351Z"
+      "lastSuccess": "2026-10-09T16:05:05.373Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.393Z"
+      "lastSuccess": "2026-10-09T16:05:05.351Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.396Z"
+      "lastSuccess": "2026-10-09T16:05:05.508Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.412Z"
+      "lastSuccess": "2026-10-09T16:05:05.367Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.416Z"
+      "lastSuccess": "2026-10-09T16:05:05.371Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.476Z"
+      "lastSuccess": "2026-10-09T16:05:05.554Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.494Z"
+      "lastSuccess": "2026-10-09T16:05:05.632Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.551Z"
+      "lastSuccess": "2026-10-09T16:05:05.816Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.561Z"
+      "lastSuccess": "2026-10-09T16:05:05.498Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.573Z"
+      "lastSuccess": "2026-10-09T16:05:05.589Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.599Z"
+      "lastSuccess": "2026-10-09T16:05:05.489Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-09T16:00:11.611Z"
+      "lastErrorAt": "2026-10-09T16:05:05.568Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.629Z"
+      "lastSuccess": "2026-10-09T16:05:05.629Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.632Z"
+      "lastSuccess": "2026-10-09T16:05:05.453Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.640Z"
+      "lastSuccess": "2026-10-09T16:05:05.597Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:11.675Z"
+      "lastSuccess": "2026-10-09T16:05:05.613Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-09T16:00:15.287Z"
+      "lastSuccess": "2026-10-09T16:05:05.550Z"
     }
   },
   "items": [
+    {
+      "id": "story_fe6ba583c3b92413",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Mike Ditka, legendary NFL player and coach, dies at 86",
+      "snippet": "Mike Ditka, the NFL Hall of Famer who coached the Chicago Bears to a Super Bowl victory, has died at 86.",
+      "link": "https://abcnews.com/GMA/Culture/mike-ditka-legendary-nfl-player-coach-dies-86/story?id=116247659",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T16:04:31.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_5b9e15974342e6de",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "How the oil industry is preparing for Hurricane Isaias",
+      "snippet": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T16:03:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6c4d348ee20f5960",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Democrats see ‘hope’ with Obama on the campaign trail as he helps boost cash and energy",
+      "snippet": "Former President Barack Obama has been increasing his involvement in the 2026 elections this week, lending his name to a new effort to boost Democrats‘ chances and endorsing a handful of candidates in battlegrounds. The former president app",
+      "link": "https://www.washingtonexaminer.com/politics/4761007/democrats-see-hope-obama-campaign-trail-2026-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T16:03:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_20d30d8b20f19612",
       "source": "Wash Examiner",
@@ -117,6 +156,45 @@
       "snippet": "In less than a month, voters in hundreds of elections will face a binary choice. Whether free enterprise or “free” stuff is the best way to address their primary concern: the affordability crisis. On Nov. 3, Democratic Socialists of America",
       "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4759281/free-enterprise-vs-socialism-affordability-crisis/",
       "imageUrl": null,
+      "publishedAt": "2026-10-09T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1f68d15100361f99",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Ignore Fetterman: Look at the 250 socialists quietly taking his party",
+      "snippet": "Sen. John Fetterman (D-PA) recently told a Republican convention that he rejects socialism. That a sitting Democratic senator would go out of his way to say so is worth noticing.  The occasion was the Republican National Committee’s first-e",
+      "link": "https://www.washingtonexaminer.com/op-eds/4760604/fetterman-dsa-democratic-party-takeover/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0654adeb097c4a88",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "America is finally firing itself as the world’s policeman",
+      "snippet": "In September 1990, President George H.W. Bush stood before Congress and spoke of a “new world order” — a system in which American power could bring countries together to enforce rules, contain aggression, and expand collective security. Wit",
+      "link": "https://www.washingtonexaminer.com/op-eds/4760573/us-foreign-policy-multipolar-world-alliances/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9c8ea537a2ee1fb7",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "To strengthen child welfare and keep families together, we need structural change",
+      "snippet": "A new framework from United Family Advocates argues that federal child welfare financing requires significant reform to prioritize community-based support over the costly and harmful practice of separating families.",
+      "link": "https://thehill.com/opinion/congress-blog/6137986-federal-child-separation-policy/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP23136001407773-1.jpg?w=900",
       "publishedAt": "2026-10-09T16:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -173,6 +251,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
+    },
+    {
+      "id": "story_595bcc7b037edd3b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Radical anti-Trump language riddles California voter guide on high-stakes ballot measure",
+      "snippet": "California's Prop 39 voter ID ballot guide draws backlash online for its politically charged language, including a reference to \"MAGA billionaires.\"",
+      "link": "https://www.foxnews.com/politics/radical-anti-trump-language-riddles-california-voter-guide-high-stakes-ballot-measure",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T15:56:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_0be1d4538d65e3fc",
@@ -2398,6 +2489,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e861c8c2915d8686",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Peace prize winner Navi Pillay has served as a judge across multiple international courts - AP News",
+      "snippet": "Peace prize winner Navi Pillay has served as a judge across multiple international courts  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2kyUEV2MlVhZ3F4RF8wQXlnRnpZNE4xd2RON280Q1Ixd2doQmo0VzhFaXVTM1NsYWFLM09kTUNtSlp3bEpmbUMzc0RaMTZZWnZ5dmFEYmhmd09MSmZmd2xGVlIwODAwc1RtMjN2RGFsd28zQUl0VlZuNmFsd0p3TWNWVUsxRnIxOTluU25NSkE1WXlXVFluNlZHbFlUMENfVEdQVlRDOXZ3SVEwOE1pVFIwRjdPbnhLNUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T13:52:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
       "id": "story_e93fae0f90f2e9fc",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2588,110 +2692,6 @@
       "link": "https://www.foxnews.com/outkick-sports/mlw-star-donovan-dijak-calls-watermania-event-craziest-thing-hes-ever-done-sport",
       "imageUrl": null,
       "publishedAt": "2026-10-09T13:36:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ab9b316ae6b74df",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "French high school students react to Education Minister’s measures",
-      "snippet": "In response to the massive high school student protests in France, Education Minister Édouard Geffray announced emergency measures on Thursday, October 8. Some students reacted to these measures in interviews with France 24.",
-      "link": "https://www.france24.com/en/video/20261009-french-high-school-students-react-to-education-minister-s-measures",
-      "imageUrl": "https://s.france24.com/media/display/bdc298fc-c3e2-11f1-8df4-53993c5f1f18/w:1024/p:16x9/EN-Reax-annonce-lyc%C3%A9es-10.png",
-      "publishedAt": "2026-10-09T13:35:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0d91d010940296f3",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Inside the Breakup of an American Industrial Giant",
-      "snippet": "After nearly four decades at Honeywell, Vimal Kapur reached the top — and then took on the task of breaking the 140-year-old industrial conglomerate into three companies.",
-      "link": "https://www.semafor.com/article/10/09/2026/honeywell-technologies-ceo-vimal-kapur-ceo-signal",
-      "imageUrl": "https://www.semafor.com/_next/static/media/semafor-og-lg.30379187.png",
-      "publishedAt": "2026-10-09T13:34:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_403adfb6a8f4fe03",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India to deploy thousands of security forces in Delhi for protest over poll chief - Reuters",
-      "snippet": "India to deploy thousands of security forces in Delhi for protest over poll chief  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3Y0OVJCem1ZWlNZeHdtdlBzUzBkOGI3My1pNUsxUmxveW5PS1NHamdnLWg1dUMtaXNXME9pLXR0ZVQ3WnlFY3lpSjBmMklvaV93ZkNlMl9SOUZqNUctTEtOTzRhbGhHOTNrSEdFY1g5cFhYODN0eWF3VUowT2JROW9BU3ppenZVQmtzbVNkaG9MMWFwekZ1Ry1PcHpMUmJpSWN3emt3NUNqb254VlBQdTZUbw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T13:33:42.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9952535994b50418",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WWE star Jacy Jayne has her eyes set on winning Money in the Bank, being 'obnoxious' with the briefcase",
-      "snippet": "Jacy Jayne reveals her bold mindset heading into the Money in the Bank ladder match and vows to be the most obnoxious briefcase holder alive.",
-      "link": "https://www.foxnews.com/outkick-sports/wwe-star-jacy-jayne-eyes-set-winning-money-in-the-bank-obnoxious-briefcase",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T13:33:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_93f3a98509898af4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Humana surges after topping 2027 Medicare star ratings - Reuters",
-      "snippet": "Humana surges after topping 2027 Medicare star ratings  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGVweGxXSVZyT3J4cEE3R0hxZ3JPeHhsWFF6d2JsZzlnSHF0cmNpWjBRTnkxRDU2Y1A2MU1mV3JxRGc3Rm1McC1uOGZDVi1SUzVaWlRnN2JlT2RiVkNERkVzRzF4ajhYSWN2cm9qS0NVVWMweDlyYk5fTG13ckJ1cUxLcDI2ejJpQ0daNW1Dc0kxZzlELXE2N3c1eTNWQmZtT2tVNWt5bkV2b0JSOUhHczY3R3cwSV8wdFB3V3doU1FNdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T13:33:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a8dbd455aac1e961",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Praise pours in for Nobel Peace Prize laureate Navi Pillay even as Israel criticizes selection - AP News",
-      "snippet": "Praise pours in for Nobel Peace Prize laureate Navi Pillay even as Israel criticizes selection  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNGt5T2dWSENldmlfc3BDMXd2QTZoNUtFMVJQei1yX2NjSFNvOVlOOGFqdHlHLVRGbndrM1dhendOQTZLakRPRExkT3pqNkZqSlhwRTNfaXVaWnZ2LXd6UDctWF9uRm5GLU80TExZMVVoY2RZUXRLV1BRak00ODhWZlNNUDZrd2lGaWZV?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T13:33:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_fe7026260662010d",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-      "snippet": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plants\nThe EU is “pulling out all the stops” to fend off an imminent potential trade crisis with China, the industry commissioner,",
-      "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T13:31:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e200633560981bad",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "The economic impact of the AI buildout and surging US bond yields",
-      "snippet": "What is playing out thus far is consistent with the view that the AI investment boom is powering the economy.",
-      "link": "https://thehill.com/opinion/finance/6136928-hyper-scaler-capital-spending-impacts-economy/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/wall_street_nyse_stocks_10082026_AP26281538583008-2.jpg?w=900",
-      "publishedAt": "2026-10-09T13:30:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
