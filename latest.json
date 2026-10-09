@@ -1,101 +1,140 @@
 {
-  "updatedAt": "2026-10-09T19:00:11.825Z",
+  "updatedAt": "2026-10-09T19:05:04.930Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:11.943Z"
+      "lastSuccess": "2026-10-09T19:05:05.033Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:11.953Z"
+      "lastSuccess": "2026-10-09T19:05:05.068Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:11.973Z"
+      "lastSuccess": "2026-10-09T19:05:05.114Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.015Z"
+      "lastSuccess": "2026-10-09T19:05:05.105Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.034Z"
+      "lastSuccess": "2026-10-09T19:05:05.168Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:11.992Z"
+      "lastSuccess": "2026-10-09T19:05:05.134Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.045Z"
+      "lastSuccess": "2026-10-09T19:05:05.252Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.095Z"
+      "lastSuccess": "2026-10-09T19:05:05.226Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.128Z"
+      "lastSuccess": "2026-10-09T19:05:05.249Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.109Z"
+      "lastSuccess": "2026-10-09T19:05:05.187Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.135Z"
+      "lastSuccess": "2026-10-09T19:05:05.256Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.126Z"
+      "lastSuccess": "2026-10-09T19:05:05.248Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.115Z"
+      "lastSuccess": "2026-10-09T19:05:05.195Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.227Z"
+      "lastSuccess": "2026-10-09T19:05:05.391Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.182Z"
+      "lastSuccess": "2026-10-09T19:05:05.286Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.137Z"
+      "lastSuccess": "2026-10-09T19:05:05.276Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.162Z"
+      "lastSuccess": "2026-10-09T19:05:05.270Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-09T19:00:12.147Z"
+      "lastErrorAt": "2026-10-09T19:05:05.297Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.167Z"
+      "lastSuccess": "2026-10-09T19:05:05.294Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.053Z"
+      "lastSuccess": "2026-10-09T19:05:05.179Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.291Z"
+      "lastSuccess": "2026-10-09T19:05:05.411Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:12.266Z"
+      "lastSuccess": "2026-10-09T19:05:05.405Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-09T19:00:16.562Z"
+      "lastSuccess": "2026-10-09T19:05:05.290Z"
     }
   },
   "items": [
+    {
+      "id": "story_7b5880953cad9293",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "A magnitude 7.7 earthquake rocks Panama",
+      "snippet": "An earthquake measuring a 7.7 magnitude shook the southwest coast of Panama on Friday, prompting tsunami warnings for several neighboring companies.",
+      "link": "https://www.nbcnews.com/world/panama/magnitude-77-earthquake-rocks-panama-rcna602557",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T19:01:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 8
+    },
+    {
+      "id": "story_f97518305c1016cc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Fugitive Ryan Hanafin, wanted after mother found dead in kitchen, waives extradition",
+      "snippet": "Ryan Hanafin waived extradition in a brief Vermont hearing, agreeing to return to Massachusetts after his mother Andria Hanafin was found shot dead.",
+      "link": "https://www.foxnews.com/us/fugitive-ryan-hanafin-wanted-mother-found-dead-kitchen-waives-extradition",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T19:00:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6a31ef29b7445ebf",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Top Trump aide's daughter photographed with pro-Russia politician in Bosnia",
+      "snippet": "Katie Wiles, the daughter of White House chief of staff Susie Wiles, recently traveled to Republika Srpska, the Bosnian-controlled territory led by pro-Russian Serb Milorad Dodik. CBS News' Emmett Lyons explains more.",
+      "link": "https://www.cbsnews.com/video/top-trump-aides-daughter-photographed-with-pro-russia-politician-in-bosnia/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T18:58:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f04846cbf16727d1",
       "source": "The Hill",
@@ -108,6 +147,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 9
+    },
+    {
+      "id": "story_58aaf722d6fa8e4f",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump says Putin will release diesel onto global market amid unprecedented price surge",
+      "snippet": "President Donald Trump said Russian President Vladimir Putin would “immediately” release hundreds of thousands of tons of diesel fuel onto the global market.",
+      "link": "https://www.nbcnews.com/business/energy/trump-putin-diesel-prices-rcna602566",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T18:56:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_728cfa4e8ac17f3d",
@@ -160,6 +212,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4f0136687ccc407",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Katie Zacharia ‘offered’ position as White House press secretary",
+      "snippet": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
+      "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T18:49:24.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 11
     },
     {
       "id": "story_f9f2d9a30f0f2fbe",
@@ -287,6 +352,19 @@
       "link": "https://thehill.com/homenews/administration/6139442-vance-rejects-hasan-execution-livestream/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26282627171947-e1791569236768.jpg?w=900",
       "publishedAt": "2026-10-09T18:30:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f08a7964ac7db1df",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
+      "snippet": "Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter's execution by firing squad.",
+      "link": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T18:30:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -495,6 +573,19 @@
       "link": "https://thehill.com/regulation/court-battles/6139406-supreme-court-immigration-policy-texas-doj/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/scotus_100526gn08_w.jpg?w=900",
       "publishedAt": "2026-10-09T18:23:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6807a7e0fd27c393",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
+      "snippet": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-09T18:23:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2604,97 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_ae7ddd79e59d9b38",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "ICE official says officers shot a man in New York because they believed they were in danger",
-      "snippet": "Officers used their vehicles to block the man as he attempted to drive away, but he accelerated toward them, Marcos Charles said during a news conference with U.S. Homeland Security Secretary Markwayne Mullin in Washington.",
-      "link": "https://www.pbs.org/newshour/politics/ice-official-says-officers-shot-a-man-in-new-york-because-they-believed-they-were-in-danger",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T15:47:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_11704ea3660945e9",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "2026 Nobel Peace Prize: Who is Navanethem “Navi” Pillay?",
-      "snippet": "The 2026 Nobel Peace Prize was awarded to South African Navanethem “Navi” Pillay on Friday, October 9, 2026. The 85-year-old South Africa-born served as United Nations High Commissioner for Human Rights and chair of the Independent Internat",
-      "link": "https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay",
-      "imageUrl": "https://s.france24.com/media/display/17759de8-c3f4-11f1-a588-77317c09f325/w:1024/p:16x9/Nobel-Peace-Prize-thumb0.png",
-      "publishedAt": "2026-10-09T15:47:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_55fb694e56d38b0b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "The internet outrage over Josh Pate's power rating system proves people haven't been paying attention",
-      "snippet": "Josh Pate's JP Poll ranked Florida ahead of Missouri despite the Tigers' blowout win, sparking outrage from fans who misunderstand the system.",
-      "link": "https://www.foxnews.com/outkick-sports/internet-outrage-josh-pate-power-rating-system-proves-people-havent-paying-attention",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T15:47:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_08edbffc04f5d60a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Leading Catholic bishop urges Pentagon against livestreaming execution",
-      "snippet": "The president of the U.S. Conference of Catholic Bishops spoke out Friday against the Defense Department’s plan to live stream a firing squad execution next month.  Archbishop Paul Coakley said he felt “shock and sorrow” when he learned of ",
-      "link": "https://thehill.com/policy/defense/6138951-leading-catholic-bishop-urges-pentagon-against-livestreaming-execution/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6ab6bbf4c7e471.33222877-e1790891133661.jpeg?w=900",
-      "publishedAt": "2026-10-09T15:46:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3ef01ded5881e765",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA - Reuters",
-      "snippet": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi11Q0h2dzdNc1k0V0JHbU9lZ2RadENhM3hnM3E1VE1oOHVuYmJmM0d2cEhQUWVfaUFVTndUMGlXZU5XOW54US1OVTc5bm9CdlR2bXlPMmpuX0RfdzNlemItaDVQcGh5MlRDckFFeWtva09WSG9PelJtbTZucFhERjZaWDkzcTFkY2FfYUNmNV9YVGxuZ1ZfcndRRHNwa0VmaW1EX2tTYTF4SlVHNE9Zc0s2UE9fQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T15:45:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6b6e30e33a452784",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Mike Ditka, the quintessential Chicago Bear, dies at 86 - AP News",
-      "snippet": "Mike Ditka, the quintessential Chicago Bear, dies at 86  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVF0bkFNLVZ4Zk1STV9nRHRfN1dqVDZRWVNXWHNxcmRJT0FLUWJmMGFOVml2cnZSVWJqUzZqTkZhQ3NJS095dDFjbF81OFQ3NXNleTVqRWJsUXc0SUhsTnMxendfWXlOVS1GdTFaa2ZlMjBhNW1YV3VZdDRRM0F6RlJIeGFuUHZO?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T15:45:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_6515bc336082c06d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Hurricane Simon strengthens to a Category 2 storm, the National Hurricane Center says - AP News",
-      "snippet": "Hurricane Simon strengthens to a Category 2 storm, the National Hurricane Center says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT3k2RFFoX2ExOTE0Y0VNQ3hlRUVYaDRZOFNzT19YX3hmMzBYak9YUTdjdmVRUWlFSmVGMFB6clY4SkNSbXZUQ3BSZkhkcFdUdUdtRDJxX0RDM3ZpNFF3cXdsRmxScE15b2hqTTRUUjN0VUVMV09xczYzZmNnVExKTE5IQmlvU1FUZ0hEVW9iNmxNYmE2?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T15:44:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
