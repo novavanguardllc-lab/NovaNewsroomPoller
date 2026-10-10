@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-10T15:45:06.698Z",
+  "updatedAt": "2026-10-10T15:50:06.510Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.763Z"
+      "lastSuccess": "2026-10-10T15:50:06.670Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.747Z"
+      "lastSuccess": "2026-10-10T15:50:06.659Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:07.189Z"
+      "lastSuccess": "2026-10-10T15:50:06.647Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.752Z"
+      "lastSuccess": "2026-10-10T15:50:06.666Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.782Z"
+      "lastSuccess": "2026-10-10T15:50:06.744Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.732Z"
+      "lastSuccess": "2026-10-10T15:50:06.641Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.726Z"
+      "lastSuccess": "2026-10-10T15:50:06.569Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.771Z"
+      "lastSuccess": "2026-10-10T15:50:06.729Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.807Z"
+      "lastSuccess": "2026-10-10T15:50:06.710Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.811Z"
+      "lastSuccess": "2026-10-10T15:50:06.702Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.795Z"
+      "lastSuccess": "2026-10-10T15:50:06.721Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.765Z"
+      "lastSuccess": "2026-10-10T15:50:06.688Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.803Z"
+      "lastSuccess": "2026-10-10T15:50:06.771Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.761Z"
+      "lastSuccess": "2026-10-10T15:50:06.814Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.766Z"
+      "lastSuccess": "2026-10-10T15:50:06.779Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.819Z"
+      "lastSuccess": "2026-10-10T15:50:06.773Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.851Z"
+      "lastSuccess": "2026-10-10T15:50:06.852Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.813Z"
+      "lastSuccess": "2026-10-10T15:50:06.748Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.822Z"
+      "lastSuccess": "2026-10-10T15:50:06.860Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-10T15:45:06.814Z"
+      "lastErrorAt": "2026-10-10T15:50:06.861Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:06.827Z"
+      "lastSuccess": "2026-10-10T15:50:06.868Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:08.967Z"
+      "lastSuccess": "2026-10-10T15:50:06.880Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:45:07.144Z"
+      "lastSuccess": "2026-10-10T15:50:06.930Z"
     }
   },
   "items": [
+    {
+      "id": "story_ea24cb5ac914986e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+      "snippet": "Ms. Pike, 50 and convicted of the 1995 murder of a classmate, survived two doses of the drug pentobarbital late last month.",
+      "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T15:41:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
     {
       "id": "story_dfb6feab6a76b987",
       "source": "France24",
@@ -118,6 +131,19 @@
       "link": "https://www.france24.com/en/video/20261010-india-detains-cockroach-movement-leaders-in-bid-to-thwart-election-protest",
       "imageUrl": "https://s.france24.com/media/display/3846bdbe-c4b1-11f1-9652-3774aeac812a/w:1024/p:16x9/EN-20261010-130145-130328-CS.jpg",
       "publishedAt": "2026-10-10T15:37:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c8c7b8139b676752",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "What happened to Amelia Earhart? These archaeologists are on a mission to find out.",
+      "snippet": "Famed aviator Amelia Earhart vanished nearly 90 years ago on her quest to become the first woman to fly around the globe. A team of archaeologists are the latest to try to solve one of history's greatest mysteries.",
+      "link": "https://www.cbsnews.com/video/what-happened-to-amelia-earhart-these-archaeologists-are-on-a-mission-to-find-out/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T15:36:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -695,6 +721,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_99b261566541d1d6",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Rayo-Bilbao match abandoned after fans' protest against club owner - Reuters",
+      "snippet": "Rayo-Bilbao match abandoned after fans' protest against club owner  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmU5dHFQdXBtUndDdjc3ZzYxOXJQSVRMMEZRQ0VrU3c0bWlHenFPdzAtNFZ4UjlTWENxX2Y5SXZhdGFWVTQwTFE0MDl2Mm5xa09WMDlEN0ltOVJVa1RfVFRMcTE0cTMtdWRxcDNwT0hRSFExVUNYVHVpRW5Sa3lKWW5QOTg3TVBuZTNLcWVwNDlJN3dPUXAya2pGdHVWaXF2dnRSdE1VQnNsVzhIa2NGZnhVTnVjZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T14:19:05.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_eee4facbc7c80dbf",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -1081,6 +1120,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-10T13:36:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cb3572c9dd9c60a0",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Spanish lawyer Gonzalez Durantez launches centrist party for November election - Reuters",
+      "snippet": "Spanish lawyer Gonzalez Durantez launches centrist party for November election  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUo1WGgwZll5cENWX1N0Nk81MHI5QnMtY3AtN3NTV2k5SzNiZ09NWS11Yk1YREdNYmdoZExwTkFuMTB3SGdrSC1xRWxwX2puaTFZUnJVUEdlZGxRTmt3Q215NXhoZ0otU3AyNFllS3lIcU1USjZKZlpWd2k1aFFsXzNBNm54S2s2aXFjbG9VX19QSUIyZjZubjhma3dzaHVhZkdlZ1lzMVM0Z0hzbzh1TFR6Q0dQWkU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T13:25:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2638,58 +2690,6 @@
       "headline": "In a federal republic, some problems can’t be tackled by a single state",
       "snippet": "Can one state’s law regulate another state’s natural environment? It’s an issue in the headlines and in the Supreme Court this week, but it’s also a problem practically as old as the rivers. The court can draw on more than a century of the ",
       "link": "https://www.washingtonexaminer.com/restoring-america/4761066/federal-republic-some-problems-single-state/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7365358d5d897a34",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "‘We’re not happy at all’: Beshear faces backlash from Latino Democrats over Texas governor’s race",
-      "snippet": "Gov. Andy Beshear (D-KY) is facing an early test of his 2028 presidential ambitions as prominent Texas Democrats accuse him of shortchanging their gubernatorial nominee and failing to engage Latino voters. Beshear is coming under criticism ",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4761853/beshear-backlash-latino-democrats-texas-governor-race/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4d24eb3a7e87c791",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Abdul el Sayed’s Etch A Sketch campaign gets exposed ",
-      "snippet": "It was a relatively simple question for Michigan Democratic Senate nominee Abdul el Sayed to answer during his debate against Republican Mike Rogers: “Who’s a bigger threat to the U.S., Israel or Iran?” “That’s a ridiculous hypothetical,” e",
-      "link": "https://www.washingtonexaminer.com/in_focus/4761416/abdul-el-sayed-etch-a-sketch-campaign-exposed/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ed1b7bcdde3149da",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Republicans took Hispanics for granted. Now Democrats are using them to flip the House",
-      "snippet": "Hispanic Heritage Month arrives at a decisive moment. We are weeks from an election that will decide control of Congress, and one question will define the outcome more than almost any other: Can Republicans hold the Hispanic voters who deli",
-      "link": "https://www.washingtonexaminer.com/op-eds/4757866/gop-hispanic-voters-midterm-elections-congress/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ad96c384f88a5cf",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Forget your model: The ‘blue wave’ is a fantasy. The Republican ‘firewall’ is a lie",
-      "snippet": "With the midterm elections fast approaching, a familiar story has taken hold of Washington. Driven by falling approval ratings for President Donald Trump and deep public anxiety over inflation, major polling models heavily favor Democrats. ",
-      "link": "https://www.washingtonexaminer.com/op-eds/4756655/2026-midterm-predictions-blue-wave-gop-firewall/",
       "imageUrl": null,
       "publishedAt": "2026-10-10T10:00:00.000Z",
       "tier": "routine",
