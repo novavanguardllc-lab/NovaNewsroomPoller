@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-10T15:55:05.146Z",
+  "updatedAt": "2026-10-10T16:00:10.572Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.266Z"
+      "lastSuccess": "2026-10-10T16:00:10.686Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.443Z"
+      "lastSuccess": "2026-10-10T16:00:10.710Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.748Z"
+      "lastSuccess": "2026-10-10T16:00:11.132Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.422Z"
+      "lastSuccess": "2026-10-10T16:00:10.704Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.522Z"
+      "lastSuccess": "2026-10-10T16:00:10.827Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.387Z"
+      "lastSuccess": "2026-10-10T16:00:10.790Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.348Z"
+      "lastSuccess": "2026-10-10T16:00:10.812Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.607Z"
+      "lastSuccess": "2026-10-10T16:00:10.750Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.474Z"
+      "lastSuccess": "2026-10-10T16:00:10.867Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.571Z"
+      "lastSuccess": "2026-10-10T16:00:10.870Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.585Z"
+      "lastSuccess": "2026-10-10T16:00:10.907Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.526Z"
+      "lastSuccess": "2026-10-10T16:00:10.925Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.651Z"
+      "lastSuccess": "2026-10-10T16:00:10.949Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.469Z"
+      "lastSuccess": "2026-10-10T16:00:10.892Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.564Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 434\nChar: d",
+      "lastErrorAt": "2026-10-10T16:00:10.910Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.657Z"
+      "lastSuccess": "2026-10-10T16:00:10.914Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.871Z"
+      "lastSuccess": "2026-10-10T16:00:11.116Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.671Z"
+      "lastSuccess": "2026-10-10T16:00:10.902Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.784Z"
+      "lastSuccess": "2026-10-10T16:00:10.964Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-10T15:55:05.821Z"
+      "lastErrorAt": "2026-10-10T16:00:10.950Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.906Z"
+      "lastSuccess": "2026-10-10T16:00:10.984Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:07.790Z"
+      "lastSuccess": "2026-10-10T16:00:11.009Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-10T15:55:05.807Z"
+      "lastSuccess": "2026-10-10T16:00:10.652Z"
     }
   },
   "items": [
@@ -110,6 +111,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ddd6d3f68f649080",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Katie Zacharia hits ground running, promises Trump diesel deal delivers cheaper gas for Americans",
+      "snippet": "Katie Zacharia says Trump's diesel deal with Vladimir Putin will lower gas and grocery prices as she prepares to take the White House podium Monday.",
+      "link": "https://www.foxnews.com/media/incoming-press-chief-hits-ground-running-promises-trump-diesel-deal-delivers-cheaper-gas-americans",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T15:53:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3210427d6903c722",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -121,6 +135,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_62f28b6f76d6e4c5",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "India detains thousands of \"Cockroach\" movement youth protesters in crackdown",
+      "snippet": "The scale of the crackdown underscored the authorities' determination to disrupt a fast-growing protest campaign that has mobilized thousands of young people.",
+      "link": "https://www.cbsnews.com/news/india-detains-youth-protesters-new-delhi/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T15:51:52.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_1d24a14cd6131cd0",
@@ -264,6 +291,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_f0a5ca3ed3508370",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Christa Pike, who survived an execution attempt, is discharged from hospital, attorney says - AP News",
+      "snippet": "Christa Pike, who survived an execution attempt, is discharged from hospital, attorney says  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGtEcnkzVGp3RHNxVkRnNnFUbE1zcldsUmZ0VF9sb0ttakV5MVY1VTF5eFU1a05CT2pibTg4aE1yYXdZM0tVT0ZCQ21saGV0MFJpQy15RmxHTllaVXZUMlN1czFiU3h5d0twY1pyYklvd1JHdUNidDBqNWpMQjg2WWRCYzlUS29hOGc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T15:23:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_fd34a71086faa0fe",
@@ -758,6 +798,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_cde0843d0d3bf37d",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Three injured in Poland's third youth stabbing attack in four days - Reuters",
+      "snippet": "Three injured in Poland's third youth stabbing attack in four days  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTElMSVZYbDY4MFVxWG9LaF9IOHpQcEkyaFZNbWF0WEpVZGZsdkhXWG1oWVRhQWlxMkc2THNsdDBiYlNPOFFpY2o4c1VZRFg0YUplaW03YXBuanpsS2w1WnRLaHdxZTNXT0JldG5NRDBzaDdtcklFLUVUM0k1c2JscUxLbG9DUXg1MnYzM2cwQm5fQVJVb2huWUFrQzJ1ZHFFWjRPMVVpRW0wR3Jz?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T14:21:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_f54d6af072fe47bf",
@@ -2640,58 +2693,6 @@
       "link": "https://www.foxnews.com/politics/plague-mystery-revives-concerns-russian-bioweapons-program",
       "imageUrl": null,
       "publishedAt": "2026-10-10T10:00:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_896809442e72357b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "France is devouring itself as school riots reveal a crisis far bigger than broken classrooms",
-      "snippet": "France student protests over crumbling schools expose deep tensions as Jean-Luc Mélenchon's La France Insoumise allegedly exploits the growing unrest.",
-      "link": "https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b0f80d99774e1446",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Ohio dog park shooting over Trump argument could end with two self-defense claims, or none: legal expert",
-      "snippet": "Both men in the Ohio dog park shootout over Donald Trump could claim self-defense or neither could, a legal expert says, creating a rare puzzle.",
-      "link": "https://www.foxnews.com/us/ohio-dog-park-shooting-trump-argument-self-defense-claims-legal-expert",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4e42555df55f903d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Comedians revolt against SiriusXM as 'middle class of comedy' fights corporate royalty cuts",
-      "snippet": "SiriusXM’s Raw Dog rebrand cut 66% of its comedian roster, stripping vital royalty income from working stand-ups as Rich Vos and top comics push back against corporate cuts.",
-      "link": "https://www.foxnews.com/media/comedians-revolt-against-siriusxm-middle-class-comedy-fights-corporate-royalty-cuts",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b47ea9dac1626a97",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "You’d never guess the crazy things cash welfare paid for. Nebraska is shutting that down",
-      "snippet": "Nebraska and Florida are blocking cash welfare spending on alcohol, porn, tattoos and more, following Trump administration guidance on TANF reform.",
-      "link": "https://www.foxnews.com/opinion/youd-never-guess-crazy-things-cash-welfare-paid-nebraska-shutting-down",
-      "imageUrl": null,
-      "publishedAt": "2026-10-10T10:00:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
