@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-10T08:40:06.323Z",
+  "updatedAt": "2026-10-10T08:45:06.846Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.486Z"
+      "lastSuccess": "2026-10-10T08:45:06.921Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.493Z"
+      "lastSuccess": "2026-10-10T08:45:06.994Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.951Z"
+      "lastSuccess": "2026-10-10T08:45:07.016Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.545Z"
+      "lastSuccess": "2026-10-10T08:45:06.976Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.806Z"
+      "lastSuccess": "2026-10-10T08:45:07.025Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.632Z"
+      "lastSuccess": "2026-10-10T08:45:06.960Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.718Z"
+      "lastSuccess": "2026-10-10T08:45:06.946Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.830Z"
+      "lastSuccess": "2026-10-10T08:45:07.039Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.651Z"
+      "lastSuccess": "2026-10-10T08:45:06.991Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.932Z"
+      "lastSuccess": "2026-10-10T08:45:07.099Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.754Z"
+      "lastSuccess": "2026-10-10T08:45:07.064Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.648Z"
+      "lastSuccess": "2026-10-10T08:45:06.979Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.923Z"
+      "lastSuccess": "2026-10-10T08:45:07.084Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.747Z"
+      "lastSuccess": "2026-10-10T08:45:07.058Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.766Z"
+      "lastSuccess": "2026-10-10T08:45:06.982Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.769Z"
+      "lastSuccess": "2026-10-10T08:45:07.068Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:07.241Z"
+      "lastSuccess": "2026-10-10T08:45:07.239Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:11.206Z"
+      "lastSuccess": "2026-10-10T08:45:07.094Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.943Z"
+      "lastSuccess": "2026-10-10T08:45:07.107Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-10T08:40:06.952Z"
+      "lastErrorAt": "2026-10-10T08:45:07.102Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.972Z"
+      "lastSuccess": "2026-10-10T08:45:07.126Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:07.032Z"
+      "lastSuccess": "2026-10-10T08:45:07.177Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-10T08:40:06.566Z"
+      "lastSuccess": "2026-10-10T08:45:07.374Z"
     }
   },
   "items": [
+    {
+      "id": "story_5a0848443cbad3ac",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Isaias weakens after making landfall in US Gulf Coast as hurricane",
+      "snippet": "More than 664,000 customers in Florida and Alabama have been left without power as Isaias downs trees, power lines.",
+      "link": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-10T08:33:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_886cb48003b999c9",
       "source": "NPR",
@@ -2682,19 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_fbcc79ab6279438d",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Backlash to livestream of firing squad execution",
-      "snippet": "There is criticism of the Trump administration’s decision to livestream the firing squad execution of the Fort Hood mass killer. NBC News’ Ryan Chandler reports.",
-      "link": "https://www.nbcnews.com/nightly-news/video/backlash-to-livestream-of-firing-squad-execution-271368773744",
-      "imageUrl": null,
-      "publishedAt": "2026-10-09T22:55:17.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
