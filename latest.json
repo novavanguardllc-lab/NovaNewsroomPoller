@@ -1,102 +1,98 @@
 {
-  "updatedAt": "2026-10-11T17:05:04.870Z",
+  "updatedAt": "2026-10-11T17:10:06.302Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.960Z"
+      "lastSuccess": "2026-10-11T17:10:06.525Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.997Z"
+      "lastSuccess": "2026-10-11T17:10:06.410Z"
     },
     "Al Jazeera": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-11T17:05:04.915Z"
+      "online": true,
+      "lastSuccess": "2026-10-11T17:10:06.438Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.988Z"
+      "lastSuccess": "2026-10-11T17:10:06.562Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.936Z"
+      "lastSuccess": "2026-10-11T17:10:06.504Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.349Z"
+      "lastSuccess": "2026-10-11T17:10:06.898Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.919Z"
+      "lastSuccess": "2026-10-11T17:10:06.425Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.021Z"
+      "lastSuccess": "2026-10-11T17:10:06.472Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.057Z"
+      "lastSuccess": "2026-10-11T17:10:06.584Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.038Z"
+      "lastSuccess": "2026-10-11T17:10:06.648Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.016Z"
+      "lastSuccess": "2026-10-11T17:10:06.598Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.060Z"
+      "lastSuccess": "2026-10-11T17:10:06.644Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-11T17:05:05.014Z"
+      "online": true,
+      "lastSuccess": "2026-10-11T17:10:06.461Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.999Z"
+      "lastSuccess": "2026-10-11T17:10:06.601Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.015Z"
+      "lastSuccess": "2026-10-11T17:10:06.444Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.128Z"
+      "lastSuccess": "2026-10-11T17:10:06.630Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-11T17:05:05.034Z"
+      "online": true,
+      "lastSuccess": "2026-10-11T17:10:06.660Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-11T17:05:05.121Z"
+      "lastErrorAt": "2026-10-11T17:10:06.726Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.197Z"
+      "lastSuccess": "2026-10-11T17:10:06.684Z"
     },
     "NBC News": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-11T17:05:04.995Z"
+      "online": true,
+      "lastSuccess": "2026-10-11T17:10:06.703Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:07.179Z"
+      "lastSuccess": "2026-10-11T17:10:06.724Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:05.120Z"
+      "lastSuccess": "2026-10-11T17:10:06.778Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-11T17:05:04.977Z"
+      "lastSuccess": "2026-10-11T17:10:06.789Z"
     }
   },
   "items": [
@@ -135,6 +131,19 @@
       "link": "https://www.foxnews.com/politics/rescue-expert-warns-flydubai-hijacking-attempt-shows-us-allies-playing-checkers-against-terror-threat",
       "imageUrl": null,
       "publishedAt": "2026-10-11T16:50:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2662906b2027332a",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "What to know about Pope Leo’s lung surgery ",
+      "snippet": "Pope Leo XIV said Sunday he will have surgery this week to remove an early-stage nodule on his lung.",
+      "link": "https://www.nbcnews.com/health/health-news/pope-leo-lung-surgery-nodule-what-to-know-rcna602760",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T16:47:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1321,6 +1330,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_4da074a86076d384",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "10/11: Face The Nation",
+      "snippet": "This week on \"Face the Nation with Margaret Brennan,\" U.S. Secretary of Homeland Security Markwayne Mullin joins, along with Sens. John Barrasso, Chris Murphy and Democratic Senate candidate Rep. Chris Pappas. Plus, Palantir's Chief Technol",
+      "link": "https://www.cbsnews.com/video/101126-face-the-nation/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T14:30:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_349da678770a8aaa",
@@ -2672,32 +2694,6 @@
       "publishedAt": "2026-10-11T12:37:32.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bd9b9a1aee5cec74",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Meet the man helping India’s detained protesters get home",
-      "snippet": "Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T12:36:35.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_6990d68f1e69eb63",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Liv Morgan steals Women's World Championship at Money in the Bank, becomes 4-time winner",
-      "snippet": "Liv Morgan stunned Stephanie Vaquer with Oblivion to capture the Women's World Championship for the fourth time in a chaotic triple-threat match.",
-      "link": "https://www.foxnews.com/outkick-sports/liv-morgan-steals-womens-world-championship-money-in-the-bank-becomes-4-time-winner",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T12:30:54.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
