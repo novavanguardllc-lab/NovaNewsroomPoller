@@ -1,98 +1,102 @@
 {
-  "updatedAt": "2026-10-11T16:50:06.409Z",
+  "updatedAt": "2026-10-11T16:55:05.475Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.629Z"
+      "lastSuccess": "2026-10-11T16:55:05.857Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.667Z"
+      "lastSuccess": "2026-10-11T16:55:05.878Z"
     },
     "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.646Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-11T16:55:05.738Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.808Z"
+      "lastSuccess": "2026-10-11T16:55:06.159Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.771Z"
+      "lastSuccess": "2026-10-11T16:55:05.939Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.974Z"
+      "lastSuccess": "2026-10-11T16:55:06.338Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.528Z"
+      "lastSuccess": "2026-10-11T16:55:05.736Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.651Z"
+      "lastSuccess": "2026-10-11T16:55:05.697Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.725Z"
+      "lastSuccess": "2026-10-11T16:55:06.040Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.751Z"
+      "lastSuccess": "2026-10-11T16:55:06.255Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.749Z"
+      "lastSuccess": "2026-10-11T16:55:06.241Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.814Z"
+      "lastSuccess": "2026-10-11T16:55:06.321Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.816Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-11T16:55:05.859Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.730Z"
+      "lastSuccess": "2026-10-11T16:55:06.138Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.728Z"
+      "lastSuccess": "2026-10-11T16:55:06.060Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.788Z"
+      "lastSuccess": "2026-10-11T16:55:06.134Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.817Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-11T16:55:06.256Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-11T16:50:06.825Z"
+      "lastErrorAt": "2026-10-11T16:55:06.361Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.906Z"
+      "lastSuccess": "2026-10-11T16:55:06.364Z"
     },
     "NBC News": {
-      "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.969Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-11T16:55:05.756Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.950Z"
+      "lastSuccess": "2026-10-11T16:55:06.487Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:06.854Z"
+      "lastSuccess": "2026-10-11T16:55:06.473Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-11T16:50:07.050Z"
+      "lastSuccess": "2026-10-11T16:55:06.238Z"
     }
   },
   "items": [
@@ -238,6 +242,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5693ebdafb44fc59",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Saudi Arabia: Second strike hits Riyadh airport",
+      "snippet": "Sunday's strike came as the King Khalid International Airport remained closed following a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\"",
+      "link": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T16:24:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_c4c46d852d142562",
@@ -2679,19 +2696,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-11T12:23:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4582caf4117ae084",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Abbas delays Palestinian elections again, making more than two decades without vote",
-      "snippet": "Palestinian Authority President Mahmoud Abbas delayed elections to 2027, extending a nearly 20-year wait as Israel and Hamas clash over the blame.",
-      "link": "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T12:22:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
