@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-11T23:55:05.269Z",
+  "updatedAt": "2026-10-12T00:00:12.238Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.607Z"
+      "lastSuccess": "2026-10-12T00:00:12.281Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.529Z"
+      "lastSuccess": "2026-10-12T00:00:12.309Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.449Z"
+      "lastSuccess": "2026-10-12T00:00:12.291Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.535Z"
+      "lastSuccess": "2026-10-12T00:00:12.314Z"
     },
     "BBC": {
-      "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.997Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-12T00:00:22.243Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.689Z"
+      "lastSuccess": "2026-10-12T00:00:12.348Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.989Z"
+      "lastSuccess": "2026-10-12T00:00:12.374Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.658Z"
+      "lastSuccess": "2026-10-12T00:00:12.472Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.852Z"
+      "lastSuccess": "2026-10-12T00:00:12.388Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.673Z"
+      "lastSuccess": "2026-10-12T00:00:12.416Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.786Z"
+      "lastSuccess": "2026-10-12T00:00:12.367Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.833Z"
+      "lastSuccess": "2026-10-12T00:00:12.410Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.436Z"
+      "lastSuccess": "2026-10-12T00:00:12.382Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.937Z"
+      "lastSuccess": "2026-10-12T00:00:12.441Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:10.817Z"
+      "lastSuccess": "2026-10-12T00:00:12.446Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.995Z"
+      "lastSuccess": "2026-10-12T00:00:12.473Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.654Z"
+      "lastSuccess": "2026-10-12T00:00:12.460Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:06.179Z"
+      "lastSuccess": "2026-10-12T00:00:12.611Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-11T23:55:06.019Z"
+      "lastErrorAt": "2026-10-12T00:00:12.423Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:06.025Z"
+      "lastSuccess": "2026-10-12T00:00:12.487Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:05.508Z"
+      "lastSuccess": "2026-10-12T00:00:12.646Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:06.060Z"
+      "lastSuccess": "2026-10-12T00:00:12.498Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-11T23:55:06.197Z"
+      "lastSuccess": "2026-10-12T00:00:12.631Z"
     }
   },
   "items": [
+    {
+      "id": "story_027b36038f296cc9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Should Penn State already regret James Franklin firing after loss to USC in 'White Out' game?",
+      "snippet": "USC-Penn State drew a record 114,419 fans for Beaver Stadium's 'White Out,' but Jayden Maiava's three touchdowns silenced the crowd in a huge road win.",
+      "link": "https://www.foxnews.com/outkick-sports/penn-state-regret-james-franklin-firing-loss-usc-white-out-game",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:50:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_125fe6cb9d00bd30",
       "source": "Guardian",
@@ -118,6 +132,19 @@
       "link": "https://www.upi.com/Top_News/World-News/2026/10/11/tiger-mauled-man-death-wont-be-euthanized-zoo-says/3831791759442/",
       "imageUrl": "https://cdnph.upi.com/ph/st/th/3831791759442/2026/upi/ddffc66e3bb7c835eae4ca1a7d928ae4/v1.5/Tiger-that-mauled-British-man-to-death-wont-be-euthanized-zoo-says.jpg",
       "publishedAt": "2026-10-11T23:42:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c9ead66b1f25fce3",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Christian Yelich not in Brewers' lineup against Dodgers' Tarik Skubal - Reuters",
+      "snippet": "Christian Yelich not in Brewers' lineup against Dodgers' Tarik Skubal  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMV9veExGVi1lY3NxTXQ4UFpMODhqZlhWdzZPV1dtV3ZUUk5sZ05vY3JKc2F6azl6elVLZWYxUVh5RVpodEdZUHEzRDc3OGljcEwzdUxsSlNadnZ0OVlMcDB0bVJjUWdlTG16cTNZWWJ1aEtWeDcyR3gzUnN0ak9Gazk0UDdDeUtOTkE3M0s5U29IcjFPUlNBMWpMRnlSZktBMmczVnZiUFRZWVRVenpJcThn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:37:44.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-11T18:30:39.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a3f228cc82c4f94a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Zelensky ‘awaiting details’ from US on Russia-Ukraine energy ceasefire claimed by Trump",
-      "snippet": "Ukrainian President Volodymyr Zelensky said Sunday that Kyiv is awaiting details from Washington about an energy ceasefire with Russia announced by President Trump, casting uncertainty over an agreement the president claimed had already tak",
-      "link": "https://thehill.com/policy/international/6141551-ukraine-reacts-trump-russia-deal/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Trump_Zelensky_Oct10.png?w=900",
-      "publishedAt": "2026-10-11T18:30:39.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_5d86ad1deaf361b2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Pakistan imposes emergency rule over Imran Khan's provincial government - Reuters",
-      "snippet": "Pakistan imposes emergency rule over Imran Khan's provincial government  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcE1nMTFTTndNQTNVc0pWZXVJNXk2SFBmN0tRNXB3WEpUMEh0QVQ4c2V2WExXczdUYVJza3VJd25ZNFl6Q2xsVzRwWm5jemFfN2Z5Q3Z3aDFHbDY5b3pFNFdPYnJNaWVzamNmQXdqSlRTeHhpTnY2STVENXYyMXZpZ29YQmNGWjlVaHYwcUh3X1huM1VoNVMwRS1ITy1Lcy1PTmFyZEhzQUhmR0xZQkpDclhGUXVoUTl6NUExTDNodGJmV0ZiNDJZRXJXak9pQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T18:29:43.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
