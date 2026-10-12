@@ -1,102 +1,140 @@
 {
-  "updatedAt": "2026-10-12T00:00:12.238Z",
+  "updatedAt": "2026-10-12T00:05:05.371Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.281Z"
+      "lastSuccess": "2026-10-12T00:05:05.458Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.309Z"
+      "lastSuccess": "2026-10-12T00:05:05.674Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.291Z"
+      "lastSuccess": "2026-10-12T00:05:05.591Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.314Z"
+      "lastSuccess": "2026-10-12T00:05:05.492Z"
     },
     "BBC": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-12T00:00:22.243Z"
+      "online": true,
+      "lastSuccess": "2026-10-12T00:05:05.717Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.348Z"
+      "lastSuccess": "2026-10-12T00:05:05.514Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.374Z"
+      "lastSuccess": "2026-10-12T00:05:05.738Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.472Z"
+      "lastSuccess": "2026-10-12T00:05:05.497Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.388Z"
+      "lastSuccess": "2026-10-12T00:05:05.628Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.416Z"
+      "lastSuccess": "2026-10-12T00:05:05.615Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.367Z"
+      "lastSuccess": "2026-10-12T00:05:05.587Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.410Z"
+      "lastSuccess": "2026-10-12T00:05:05.685Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.382Z"
+      "lastSuccess": "2026-10-12T00:05:05.519Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.441Z"
+      "lastSuccess": "2026-10-12T00:05:05.702Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.446Z"
+      "lastSuccess": "2026-10-12T00:05:05.769Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.473Z"
+      "lastSuccess": "2026-10-12T00:05:05.780Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.460Z"
+      "lastSuccess": "2026-10-12T00:05:05.654Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.611Z"
+      "lastSuccess": "2026-10-12T00:05:05.890Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-12T00:00:12.423Z"
+      "lastErrorAt": "2026-10-12T00:05:05.743Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.487Z"
+      "lastSuccess": "2026-10-12T00:05:05.724Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.646Z"
+      "lastSuccess": "2026-10-12T00:05:05.665Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.498Z"
+      "lastSuccess": "2026-10-12T00:05:05.749Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-12T00:00:12.631Z"
+      "lastSuccess": "2026-10-12T00:05:05.800Z"
     }
   },
   "items": [
+    {
+      "id": "story_d5261517ef38aa37",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "A look at Hurricane Isaias damage after unleashing flooding, tornadoes",
+      "snippet": "The first hurricane of the 2026 Atlantic season roared into Florida late Friday, unleashing destructive winds, extensive flooding and spinning up tornadoes across the Southeast. Jason Allen reports on the damage.",
+      "link": "https://www.cbsnews.com/video/look-hurricane-isaias-damage-unleashing-flooding-tornadoes/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:54:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_43da4d3d585d660c",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "snippet": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño.",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:54:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5aa60ae8cbb0f7aa",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Mamdani to Skip Columbus Day Parade. Some Italian Americans Are Glad.",
+      "snippet": "City Hall confirmed that the mayor would not join Monday’s procession up Fifth Avenue, but would host an Italian American heritage reception soon.",
+      "link": "https://www.nytimes.com/2026/10/11/nyregion/mamdani-columbus-day-parade-nyc.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:51:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_027b36038f296cc9",
       "source": "Fox News",
@@ -2657,45 +2695,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_2738f5d126ba57de",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
-      "snippet": "Senior official says president and US secretary of state are ‘extremely pissed off’ by conduct of US envoy to Greece\nDonald Trump and Marco Rubio, the secretary of state, are considering firing US ambassador to Greece Kimberly Guilfoyle aft",
-      "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T18:34:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9bfa096d53e2f0ce",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWjZnV01TWHhMMGJvZG9HX2c0OUdaaERlYzNFeUJqSWRabUNoS1YwX3JpN3ByRXhtQkhvWDZIWTV0SnQyaEswNjEtUW90WWt3cGtkWnJHNnVCclpENk9uSjNrb0dtVHphN0dPc0FVYWllV2FDLXNuaFZZWDhrZkxaOGNsYUJKLVNEZ0hwM2c1THNaYk5oXzcxaGlGR0VRd0ZhNnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T18:30:47.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b38f27406733dfb",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Mullin spurns martyrdom concerns from livestreamed execution: ‘No one has to watch’",
-      "snippet": "Homeland Security Secretary Markwayne Mullin rejected the idea that livestreaming the execution of the Fort Hood mass shooter Nidal Malik Hasan could make him a martyr for his cause, saying those against the idea do not have to watch. Mulli",
-      "link": "https://www.washingtonexaminer.com/policy/national-security/4762580/markwayne-mullin-livestream-execution-nidal-hasan/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T18:30:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
