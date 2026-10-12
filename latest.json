@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-12T11:30:10.337Z",
+  "updatedAt": "2026-10-12T11:35:04.735Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.434Z"
+      "lastSuccess": "2026-10-12T11:35:04.838Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.465Z"
+      "lastSuccess": "2026-10-12T11:35:04.802Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.470Z"
+      "lastSuccess": "2026-10-12T11:35:04.812Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.479Z"
+      "lastSuccess": "2026-10-12T11:35:04.808Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.795Z"
+      "lastSuccess": "2026-10-12T11:35:04.845Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.634Z"
+      "lastSuccess": "2026-10-12T11:35:04.947Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.649Z"
+      "lastSuccess": "2026-10-12T11:35:04.956Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.597Z"
+      "lastSuccess": "2026-10-12T11:35:04.820Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.558Z"
+      "lastSuccess": "2026-10-12T11:35:04.965Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.501Z"
+      "lastSuccess": "2026-10-12T11:35:04.814Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.639Z"
+      "lastSuccess": "2026-10-12T11:35:04.974Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.632Z"
+      "lastSuccess": "2026-10-12T11:35:04.883Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.693Z"
+      "lastSuccess": "2026-10-12T11:35:04.985Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.620Z"
+      "lastSuccess": "2026-10-12T11:35:04.864Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.670Z"
+      "lastSuccess": "2026-10-12T11:35:04.982Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.682Z"
+      "lastSuccess": "2026-10-12T11:35:04.925Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.586Z"
+      "lastSuccess": "2026-10-12T11:35:04.886Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-12T11:30:10.683Z"
+      "lastErrorAt": "2026-10-12T11:35:04.988Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.665Z"
+      "lastSuccess": "2026-10-12T11:35:05.005Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.713Z"
+      "lastSuccess": "2026-10-12T11:35:05.040Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.756Z"
+      "lastSuccess": "2026-10-12T11:35:05.031Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:10.776Z"
+      "lastSuccess": "2026-10-12T11:35:04.878Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-12T11:30:12.498Z"
+      "lastSuccess": "2026-10-12T11:35:05.058Z"
     }
   },
   "items": [
+    {
+      "id": "story_a0a882590262ee35",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Pope Leo is asking the question AI can’t answer",
+      "snippet": "Pope Leo isn’t asking us to reject progress. He is reminding us to define progress correctly.",
+      "link": "https://thehill.com/opinion/technology/6139644-technology-must-serve-humans/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26281584021555.jpg?w=900",
+      "publishedAt": "2026-10-12T11:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0660cd2b690e595a",
       "source": "Guardian",
@@ -747,6 +760,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_60ab016331178844",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Many GOP states have imposed new voting rules this year, some mirroring Trump's midterm proposals - AP News",
+      "snippet": "Many GOP states have imposed new voting rules this year, some mirroring Trump's midterm proposals  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSk13ZVVWcnBJdVJKX0Jsa2xwd3FjM0w3STVsMTZId09IV2xKM19fSlFTSWdid3dhMFo5VTJxRm1tR3dhNm9aMTRwbmw3OExSTzZ5YU1fSVh2SEI4cjRENlRPcmhLN3dVU29lMWxQQmV1SUwyXzBQSm1pUGQ2cl9NQkVJZFNzQm1FalZ2cGNLaUVta1lWc01qX0RGeGhrelJ2VWdJaEhB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T10:45:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3310ff53defa8367",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -821,6 +847,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-12T10:40:30.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_298e1351bc6bd8d1",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "COMMENTARY: Morning Bid: Diesel diplomacy - Reuters",
+      "snippet": "COMMENTARY: Morning Bid: Diesel diplomacy  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWlFKNW91Z1lmelRoSTRGNW9xSHNGVEZCcE55YzB5N1VMZWtyckpMVmNJaTJXZ1ZFWkRMNVN4aWxsZ0dSVU1RTGR6TEZuUzJWUFpLdlZhVmJTTlpxdlhwYU5Fc2c0WkNVRVpneElkZmwzblFINnlxTGVBRlk4SFlsV0Jybk03cGZ1elNlc20zTF92cHV0emlR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T10:36:17.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1111,6 +1150,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a4f4fb890aef3d4a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "French police detain teen pupil suspected in school shooting in France in which two were wounded - AP News",
+      "snippet": "French police detain teen pupil suspected in school shooting in France in which two were wounded  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdEhfVl9sNm1fRlFvbFktWDNqckIzUmY5dUVXOHlUUmVhVHJxM09aVU9pUEtRWWkxWm10Q0JRMnNyMjNDRG5yV0lOWWJNRHNEQk1qemZLUTdvMkhUNHpTWm5QQ21JTW0yZ2dqV3Bwbk5MaVZoYzdSNjVLSzhEdGxDTDJoZDM2eHhEeFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T10:10:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_24dd9d83225f9167",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1159,6 +1211,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-12T10:06:23.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6e228927f2569c40",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Germany faces \"shadow war\" that goes beyond Cold War threats, interior minister warns - Reuters",
+      "snippet": "Germany faces \"shadow war\" that goes beyond Cold War threats, interior minister warns  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEZlMVdVTDN3WFh4cmlSZmsxWjlUNmxCenc1bkZFRUc5a0xGQnQtTHcxVm41T2VBYXpYMjNrZklRV1ZDRlNuS0lOcVZwWjdXa01aTV9iaXVmbUtBQmg5Szh5NklJNm10THpOM1AtN0FaX0R0R2VtNm5iczRaNzBTNEtKbGVBWWZjTlNfRWpaX2kyaVVvVTF2WHI3T3JxSmtON0IwU3pabjFxeXdXX05RYTRuRVVqdl85Rmc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T10:05:20.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2627,71 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0V6MVV3aEtaaWxQX0hLWjAwUDZ3RFZxMnFjTlJLb0RnTzFpNGNBMU0yUTJ0WHJmd1RmbHhWMXZwU3pGVDVuc044cm1BX19WYURpSnV3cnZiQ1Q1Wm1IYmhrU1RTWllwazRaX0lST0ZzQWJwNEctbEgzNFRKSGNqVnc5TVM1UGZjUHZBMHRqUzlHY0Z6Q0JtaEhOaG9SS0RPVTlQR2t6eW9tZXNVUF9sQXVJd2RYaWZLS2NvRUhiRWZHVFoxeDROcVVMRmo?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-12T06:54:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0d50659c8cf56092",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Banks seek RBI relief, clarity on India's latest rupee-defence measures, sources say - Reuters",
-      "snippet": "Banks seek RBI relief, clarity on India's latest rupee-defence measures, sources say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVlGOHdRWi1vekl4dXhmNk9YQ2VTSXN0c1BPeU9naDBMai1LbTI0c3dqR1hzV0J2WHUxelZURFUyejU1eDFhODJEbEF0aDBSOXN5SWVXSng1YlAyNmtycmpPbGYxUWsyWUx0dlBhUkRuNzZhR1pKaU9HTk84VkwxcFBUOUZYUk5Xa3MwUXRoSjc5RXJ6Y3pSc1ByeWlQUW1Fa191WGQ0MlkzbS00N1huRXF6WnF3RkNDbGVZVWJEcm9EZmYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T06:54:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_18d9031b39df14c4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Cricket - AP News",
-      "snippet": "Cricket  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfY1ozNUxwdEpqZFVSUXZlNG5IM3FGMzFJVUg2ZjIwVXpxWmMxNmppaUJDbTNWQS0zR1NPbW5pZTJzTGY3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T06:51:38.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d17d207a527fd269",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China's $7.5 billion EU hybrid boom faces new curbs under China-EU deal - Reuters",
-      "snippet": "China's $7.5 billion EU hybrid boom faces new curbs under China-EU deal  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFFrZExkSUpZRTF3bDlwMXhkX3NZU1FsU09wWktzYi1rTUhVemhqRElxV3cyb1BaNTRXbzR2S0NYcXJmMWxLcVpkZURiZjU0WkF4dXVzQmNXYUpzZDVuNGRzb0tteDFxdWZ0ZWlBblVoa3hWdVVVREJpUHF1M00xYUI3Y09TZFpHNmJEdFNILXA5WHpna3pmNGRaa2FUdG5BN3U2Y2VmSTZrWXY4TER3bzhlNXdQS2xoLVRNY1lmVXkySE9wT1lJVDdEZ1k2RnM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T06:51:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_76ab9429d59d4e5b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Teens at Sydney private religious school made to share beds with teachers, inquiry hears",
-      "snippet": "Former student says nothing untoward happened to her during stays but tells NSW parliamentary inquiry culture of Redeemer Baptist School left much to ‘untangle’ as an adult\n\nGet our breaking news email, free app or daily news podcast\n\nTeens",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/12/teens-made-to-share-beds-with-teachers-redeemer-baptist-school-inquiry-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T06:50:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_696cc5c3ecf76be5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests - AP News",
-      "snippet": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2FsdGE3YUJ5V3VpbjBDWEpDaF9FMk9IbE9ZWFRUZ0l2SEJmQi1pbFZxNzFscG5LVDJiUUxpRzZ3c2dvbzl0R3RWQmlKTTN0TDdwX1FST0IydGp5c0NwY0lpTTFOQklXZU5LZ2piMnBQRl9pcUg2M3VLTTVSU1k1NngwMkdab3BWeVFuUXh2NTBCTld2?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T06:50:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
