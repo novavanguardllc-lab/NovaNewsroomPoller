@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-12T04:35:04.979Z",
+  "updatedAt": "2026-10-12T04:40:06.581Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.022Z"
+      "lastSuccess": "2026-10-12T04:40:06.882Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.058Z"
+      "lastSuccess": "2026-10-12T04:40:06.783Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.027Z"
+      "lastSuccess": "2026-10-12T04:40:06.739Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.083Z"
+      "lastSuccess": "2026-10-12T04:40:06.818Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.136Z"
+      "lastSuccess": "2026-10-12T04:40:07.221Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.109Z"
+      "lastSuccess": "2026-10-12T04:40:07.123Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.133Z"
+      "lastSuccess": "2026-10-12T04:40:07.141Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.195Z"
+      "lastSuccess": "2026-10-12T04:40:07.224Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.100Z"
+      "lastSuccess": "2026-10-12T04:40:06.975Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.152Z"
+      "lastSuccess": "2026-10-12T04:40:07.120Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.037Z"
+      "lastSuccess": "2026-10-12T04:40:06.953Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.093Z"
+      "lastSuccess": "2026-10-12T04:40:07.043Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.077Z"
+      "lastSuccess": "2026-10-12T04:40:06.799Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.187Z"
+      "lastSuccess": "2026-10-12T04:40:07.100Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.192Z"
+      "lastSuccess": "2026-10-12T04:40:07.280Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.255Z"
+      "lastSuccess": "2026-10-12T04:40:07.133Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.129Z"
+      "lastSuccess": "2026-10-12T04:40:07.205Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.247Z"
+      "lastSuccess": "2026-10-12T04:40:07.398Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-12T04:35:05.258Z"
+      "lastErrorAt": "2026-10-12T04:40:07.300Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.254Z"
+      "lastSuccess": "2026-10-12T04:40:07.256Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.073Z"
+      "lastSuccess": "2026-10-12T04:40:06.843Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.277Z"
+      "lastSuccess": "2026-10-12T04:40:07.325Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:35:05.511Z"
+      "lastSuccess": "2026-10-12T04:40:07.420Z"
     }
   },
   "items": [
+    {
+      "id": "story_c87c7ae168a3a6e6",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Three signs that America is on the run",
+      "snippet": "These three events show how vulnerable bases and infrastructure can be to remote attacks.",
+      "link": "https://thehill.com/opinion/national-security/6141464-us-military-vulnerability-threats/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/hegseth_pete_10032026_AP26281718479983-2.jpg?w=900",
+      "publishedAt": "2026-10-12T04:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a3b4ebd015cbc859",
       "source": "Al Jazeera",
@@ -108,6 +121,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_369e404a1cd9bfd5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Backup quarterback Tyler Huntley leads Baltimore Ravens to improbable OT win over Atlanta Falcons",
+      "snippet": "Tyler Huntley scored three touchdowns to rally the Baltimore Ravens past the Atlanta Falcons 30-23 in a dramatic overtime Sunday Night Football win.",
+      "link": "https://www.foxnews.com/outkick-sports/backup-quarterback-tyler-huntley-leads-baltimore-ravens-improbable-ot-win-atlanta-falcons",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T04:22:48.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a089d02123661895",
@@ -1345,6 +1371,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_118483e2da7b57d4",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "snippet": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:48:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_125fe6cb9d00bd30",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -1431,6 +1470,19 @@
       "link": "https://www.foxnews.com/us/pregnant-mom-just-4-days-giving-birth-among-8-killed-pennsylvania-massacre-reports",
       "imageUrl": null,
       "publishedAt": "2026-10-11T23:35:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e4882cb6c1878004",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "snippet": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+      "link": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:33:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1553,6 +1605,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_fc4dcfb7709be1ca",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Trump faces growing backlash over plans to import diesel from Russia",
+      "snippet": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:18:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0a02dab2c2a6df63",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1561,6 +1626,32 @@
       "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-11T23:17:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_09d644374a110cd8",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "snippet": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:13:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_09c43dafb20eb9f4",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "snippet": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-11T23:13:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2601,97 +2692,6 @@
       "link": "https://www.nytimes.com/2026/10/11/us/hurricane-isaias-damage-photos-video.html",
       "imageUrl": null,
       "publishedAt": "2026-10-11T21:14:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8fc810011682801e",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "snippet": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:12:44.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9cb624dbc1588cd2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Quiet part out loud: Anti-Israel mobs want one state called 'Palestine,' erasing Israel",
-      "snippet": "Three pro-Palestinian activists tell Fox News Digital they envision replacing Israel with a single democratic state, with one proposing the name \"1948.\"",
-      "link": "https://www.foxnews.com/politics/quiet-part-out-loud-anti-israel-mobs-want-one-state-called-palestine-erasing-israel",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:12:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a782800b2d7bd62c",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Mystery team in Marvin Harrison trade steps forward, as Texans DeMeco Ryans confirms reunion with CJ Stroud",
-      "snippet": "DeMeco Ryans laughingly confirmed the Houston Texans traded for Marvin Harrison, reuniting the wide receiver with C.J. Stroud from Ohio State.",
-      "link": "https://www.foxnews.com/outkick-sports/mystery-team-marvin-harrison-trade-steps-forward-texans-demeco-ryans-confirms-reunion-cj-stroud",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:10:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dd30bdbe664dc017",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "New York City’s Latest Famous Family Is a Hoot. Yes, They’re Barn Owls.",
-      "snippet": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches.",
-      "link": "https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:07:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ed7fe98deff5f3f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Marseille end five-match losing streak and move out of Ligue 1 relegation zone - Reuters",
-      "snippet": "Marseille end five-match losing streak and move out of Ligue 1 relegation zone  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFhzNmxjVWZMaVp5aFhoaHI1LXR3ZHVVYUI0ZkZQMlUyeFBBUG1pVXl0UHM0ak9UQl9KdHlRbHdCa2Zsa2FhWElDOXhOd0pjQ3F0bE5QLTU5QUg4cFZQYVgxb2hTMm5yYTRJMXZZNGV4N2pNVERmWXktUHBld2tka2cwelQxZ29pellmcE40ekpGVHQxX0d4WFdzV1FSMHVCb1o2NU9HSEpaZFp3MnE3QlJBanh5Q1VxWUFtQU5R?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:06:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36af6d94646dd6d9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Texans acquire WR Marvin Harrison Jr. from Cardinals, hoping to bolster offense - AP News",
-      "snippet": "Texans acquire WR Marvin Harrison Jr. from Cardinals, hoping to bolster offense  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenpHakNqSlFSckJuU05VbjlCVEtlWG4xSlVnQ0tmQVFTNHBkRXlFSGFhay0tanJweXNvbllqN2Y0ejM2Y2Z3UVAxSjRVc1dOTXZITUI4aXBac2N6LXM5SjdvUkIxalZvVTdsNDAzbnBnd2o2RTVsMlRxNGdzTVZCVTAxZi00LVlzNHJBN2NXYmxEYXJEa1E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6b893681dde5c94e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Waves crash into homes as excavators try to protect California properties",
-      "snippet": "Construction crews were seen trying to block waves entering homes along California's coast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:03:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
