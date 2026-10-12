@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-12T18:20:06.490Z",
+  "updatedAt": "2026-10-12T18:25:04.664Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.706Z"
+      "lastSuccess": "2026-10-12T18:25:05.149Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.629Z"
+      "lastSuccess": "2026-10-12T18:25:04.943Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.711Z"
+      "lastSuccess": "2026-10-12T18:25:04.835Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.745Z"
+      "lastSuccess": "2026-10-12T18:25:05.023Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.044Z"
+      "lastSuccess": "2026-10-12T18:25:05.315Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.049Z"
+      "lastSuccess": "2026-10-12T18:25:04.961Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.047Z"
+      "lastSuccess": "2026-10-12T18:25:05.183Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.786Z"
+      "lastSuccess": "2026-10-12T18:25:05.896Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.834Z"
+      "lastSuccess": "2026-10-12T18:25:05.161Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.931Z"
+      "lastSuccess": "2026-10-12T18:25:05.001Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.950Z"
+      "lastSuccess": "2026-10-12T18:25:05.205Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.945Z"
+      "lastSuccess": "2026-10-12T18:25:04.980Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.951Z"
+      "lastSuccess": "2026-10-12T18:25:05.570Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.929Z"
+      "lastSuccess": "2026-10-12T18:25:05.116Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.127Z"
+      "lastSuccess": "2026-10-12T18:25:05.255Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.987Z"
+      "lastSuccess": "2026-10-12T18:25:05.198Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:06.935Z"
+      "lastSuccess": "2026-10-12T18:25:05.175Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-12T18:20:07.070Z"
+      "lastErrorAt": "2026-10-12T18:25:05.316Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.107Z"
+      "lastSuccess": "2026-10-12T18:25:05.393Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.149Z"
+      "lastSuccess": "2026-10-12T18:25:05.428Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.231Z"
+      "lastSuccess": "2026-10-12T18:25:05.381Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.025Z"
+      "lastSuccess": "2026-10-12T18:25:04.885Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-12T18:20:07.253Z"
+      "lastSuccess": "2026-10-12T18:25:05.456Z"
     }
   },
   "items": [
+    {
+      "id": "story_1ac9a058a86d4c20",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Hackers target refrigerators at French supermarkets, overheating them and causing fires",
+      "snippet": "Refrigerators in French supermarkets are being targeted by remote hackers, who are dialing up their temperature to more than 120 degrees. Paris authorities reported Monday that a large-scale cyber-attack is affecting connected refrigerators",
+      "link": "https://www.washingtonexaminer.com/news/world/4763122/hackers-cyber-attack-refrigerators-french-supermarkets-overhating-causing-fires/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T18:20:44.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_b5ac413798d514c7",
       "source": "UPI",
@@ -121,6 +134,32 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_95ab1e18f532f5ee",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Pentagon data breach exposes records of over 3M people",
+      "snippet": "The Pentagon data breach exposed 2.76 million Social Security numbers and military records, raising long-term identity theft concerns for veterans.",
+      "link": "https://www.foxnews.com/tech/pentagon-data-breach-exposes-records-over-3m-people",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T18:15:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_20011aa78897ec9d",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "Mamdani orders review of New York police use-of-force policies",
+      "snippet": "The announcement thrusts the city deeper into the nationwide debate over how law enforcement officials protect themselves and the public.",
+      "link": "https://www.washingtonpost.com/nation/2026/10/12/mamdani-orders-review-new-york-police-use-of-force-policies/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T18:15:28.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_e221967f07133de6",
@@ -157,6 +196,19 @@
       "link": "https://www.washingtonexaminer.com/policy/foreign-policy/4763003/public-policy-solutions-ad-encourages-trump-eu-trade-investigation/",
       "imageUrl": null,
       "publishedAt": "2026-10-12T18:14:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_edaae2122e096f63",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Selma Blair arrested after in-flight incident",
+      "snippet": "Selma Blair, 54, was arrested Sunday in New York after allegedly attacking crew members mid-air on a Delta flight from Los Angeles.",
+      "link": "https://www.foxnews.com/entertainment/selma-blair-arrested-in-flight-incident",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T18:13:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1475,6 +1527,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9730387d6f6e5d49",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Judge blasts Trump's DOJ over 'inexcusable' tree removal at DC golf course - Reuters",
+      "snippet": "Judge blasts Trump's DOJ over 'inexcusable' tree removal at DC golf course  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzlmNS0zRGdkRGM4N3E4WlhJQnR4UW0wX3REdXU2RW9ta1FnUUFMQVhjRnJGbGNVMlZ1czdsVkN3d051LWRKUlhubFhyQzR0RGZGZTc1QzZiZXlGNThUOTFsMk5qME9QVjlBbjQ3OTkxZnU5eEUyTkluSHV1QldWR1pjQ3QxMm9sUl85WlA0VzhsZ0ZzbEJYeWpwT2puV216OGF5MTRwcl9ScGlsSHJtVkRhZTNEVURrOTZMbWFR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T16:04:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8bf34b26fd8bae01",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -2627,71 +2692,6 @@
       "link": "https://www.france24.com/en/video/20261012-five-people-missing-as-fresh-flash-floods-hit-central-nepal",
       "imageUrl": "https://s.france24.com/media/display/5e4303c0-c64a-11f1-ac09-e362370cce2e/w:1024/p:16x9/mininepal-1.jpg",
       "publishedAt": "2026-10-12T14:43:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9a33f6e856d80409",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Josh Brolin calls 'Sicario 3' cast work 'untouchable' as franchise moves forward without Sheridan script",
-      "snippet": "Josh Brolin reveals the third \"Sicario\" film is still in the notes process as he reunites with Benicio Del Toro and Emily Blunt for the sequel.",
-      "link": "https://www.foxnews.com/outkick-culture/josh-brolin-calls-sicario-3-cast-work-untouchable-franchise-moves-forward-without-sheridan-script",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T14:43:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6497de197ee981ee",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Eagles and Commanders make poor decisions that cost them wins during tough week for NFC East - AP News",
-      "snippet": "Eagles and Commanders make poor decisions that cost them wins during tough week for NFC East  AP News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2tybXJaRXprV2RJTGItSU5Ha0VhZjQ1R1h6cmw3TWxaS19ldHVKQWJESlJQMW5UcHlIY2FtTG9ITW5vb3FkZWQ4ZHE3eElCYUx5dGRzLTNNd0tUNTM4cllPLS02b05wcHN1b01FVGNPMGl0MHZMNFloeGpPOVRTVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T14:40:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e31b9c5418566946",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Alex Gibney says Universal ‘wavered’ over releasing Elon Musk documentary",
-      "snippet": "The revelation comes after the four-hour film’s Venice premiere drew a string of criticisms and insults from the founder of SpaceXAI\nAlex Gibney, director of the new four-hour documentary about Elon Musk, said that Universal, owners of the ",
-      "link": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T14:38:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6dd65e4f4776de04",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Oil analyst ‘skeptical’ that Trump’s diesel deal with Russia will lower prices",
-      "snippet": "Oil analyst Patrick De Haan said Monday that President Trump’s deal with Russia to supply the U.S. and global markets with diesel fuel may not lower fuel prices. “On the policy front, the Trump administration’s proposed diesel deal raises m",
-      "link": "https://thehill.com/policy/energy-environment/6142763-diesel-fuel-prices-trump-russia/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/gas_prices_md_100626gn09_w.jpg?w=900",
-      "publishedAt": "2026-10-12T14:38:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1229bb46429fb40",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Most in new poll oppose bets on elections",
-      "snippet": "Most Americans regardless of party oppose betting on election results with prediction markets such as Kalshi or Polymarket, according to a new survey. A Reuters/Ipsos poll, released Monday, found that 60 percent of respondents did not suppo",
-      "link": "https://thehill.com/homenews/campaign/6142613-elections-betting-support-survey-prediction-markets-kalshi-polymarket/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a4e247b608727.13232991-e1791815650637.jpeg?w=900",
-      "publishedAt": "2026-10-12T14:37:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
