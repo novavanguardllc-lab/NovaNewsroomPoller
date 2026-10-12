@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-12T03:35:04.903Z",
+  "updatedAt": "2026-10-12T03:40:07.171Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.104Z"
+      "lastSuccess": "2026-10-12T03:40:07.480Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.443Z"
+      "lastSuccess": "2026-10-12T03:40:07.844Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:04.964Z"
+      "lastSuccess": "2026-10-12T03:40:07.318Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.119Z"
+      "lastSuccess": "2026-10-12T03:40:07.514Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.243Z"
+      "lastSuccess": "2026-10-12T03:40:07.700Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.263Z"
+      "lastSuccess": "2026-10-12T03:40:07.543Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.260Z"
+      "lastSuccess": "2026-10-12T03:40:07.695Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.239Z"
+      "lastSuccess": "2026-10-12T03:40:07.615Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.277Z"
+      "lastSuccess": "2026-10-12T03:40:07.590Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.265Z"
+      "lastSuccess": "2026-10-12T03:40:07.603Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.064Z"
+      "lastSuccess": "2026-10-12T03:40:07.432Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.144Z"
+      "lastSuccess": "2026-10-12T03:40:07.681Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.078Z"
+      "lastSuccess": "2026-10-12T03:40:07.340Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.202Z"
+      "lastSuccess": "2026-10-12T03:40:07.654Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.289Z"
+      "lastSuccess": "2026-10-12T03:40:07.753Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.298Z"
+      "lastSuccess": "2026-10-12T03:40:07.697Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.285Z"
+      "lastSuccess": "2026-10-12T03:40:07.564Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.399Z"
+      "lastSuccess": "2026-10-12T03:40:07.816Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-12T03:35:05.297Z"
+      "lastErrorAt": "2026-10-12T03:40:07.851Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.308Z"
+      "lastSuccess": "2026-10-12T03:40:07.894Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.563Z"
+      "lastSuccess": "2026-10-12T03:40:07.872Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.403Z"
+      "lastSuccess": "2026-10-12T03:40:07.934Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-12T03:35:05.425Z"
+      "lastSuccess": "2026-10-12T03:40:07.976Z"
     }
   },
   "items": [
+    {
+      "id": "story_94b811781f37e5f3",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "North Korea fires multiple ballistic missiles towards the sea",
+      "snippet": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+      "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T03:37:12.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_8563f4058a8d0c89",
       "source": "CBS News",
@@ -2682,19 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_3471c18fd6eda724",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
-      "snippet": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T20:44:17.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
