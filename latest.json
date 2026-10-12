@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-10-12T04:25:05.110Z",
+  "updatedAt": "2026-10-12T04:30:10.478Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.409Z"
+      "lastSuccess": "2026-10-12T04:30:10.604Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.763Z"
+      "lastSuccess": "2026-10-12T04:30:10.967Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.312Z"
+      "lastSuccess": "2026-10-12T04:30:10.728Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.298Z"
+      "lastSuccess": "2026-10-12T04:30:10.693Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.693Z"
+      "lastSuccess": "2026-10-12T04:30:10.752Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.534Z"
+      "lastSuccess": "2026-10-12T04:30:10.743Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.768Z"
+      "lastSuccess": "2026-10-12T04:30:10.763Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.689Z"
+      "lastSuccess": "2026-10-12T04:30:10.755Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.633Z"
+      "lastSuccess": "2026-10-12T04:30:10.707Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.529Z"
+      "lastSuccess": "2026-10-12T04:30:10.712Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.584Z"
+      "lastSuccess": "2026-10-12T04:30:10.666Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.606Z"
+      "lastSuccess": "2026-10-12T04:30:10.804Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.253Z"
+      "lastSuccess": "2026-10-12T04:30:10.672Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.523Z"
+      "lastSuccess": "2026-10-12T04:30:10.862Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.726Z"
+      "lastSuccess": "2026-10-12T04:30:10.874Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.772Z"
+      "lastSuccess": "2026-10-12T04:30:10.769Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.620Z"
+      "lastSuccess": "2026-10-12T04:30:10.926Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.932Z"
+      "lastSuccess": "2026-10-12T04:30:10.848Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-12T04:25:05.793Z"
+      "lastErrorAt": "2026-10-12T04:30:10.866Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.791Z"
+      "lastSuccess": "2026-10-12T04:30:10.885Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.704Z"
+      "lastSuccess": "2026-10-12T04:30:10.951Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.824Z"
+      "lastSuccess": "2026-10-12T04:30:10.974Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-12T04:25:05.869Z"
+      "lastSuccess": "2026-10-12T04:30:11.032Z"
     }
   },
   "items": [
+    {
+      "id": "story_a3b4ebd015cbc859",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "snippet": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+      "link": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-12T04:24:18.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_a089d02123661895",
       "source": "NBC News",
@@ -2679,19 +2692,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-11T21:03:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_54756058c5cc87cf",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Soulja Boy teases 2028 presidential run on Instagram",
-      "snippet": "Rapper Soulja Boy teased a run for president in 2028, saying “the future starts with a conversation.” Although midterm elections are not yet over, voters and politicians have already set their sights on potential candidates for the 2028 pre",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4762610/soulja-boy-teases-2028-presidential-run-on-instagram/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-11T21:02:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
