@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-13T13:05:04.734Z",
+  "updatedAt": "2026-10-13T13:10:07.561Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.821Z"
+      "lastSuccess": "2026-10-13T13:10:07.902Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.974Z"
+      "lastSuccess": "2026-10-13T13:10:07.975Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.852Z"
+      "lastSuccess": "2026-10-13T13:10:07.936Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.189Z"
+      "lastSuccess": "2026-10-13T13:10:07.755Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.801Z"
+      "lastSuccess": "2026-10-13T13:10:07.813Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.877Z"
+      "lastSuccess": "2026-10-13T13:10:07.874Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.892Z"
+      "lastSuccess": "2026-10-13T13:10:07.913Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.976Z"
+      "lastSuccess": "2026-10-13T13:10:08.023Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.834Z"
+      "lastSuccess": "2026-10-13T13:10:07.772Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.993Z"
+      "lastSuccess": "2026-10-13T13:10:07.979Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.995Z"
+      "lastSuccess": "2026-10-13T13:10:08.059Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.924Z"
+      "lastSuccess": "2026-10-13T13:10:08.018Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.917Z"
+      "lastSuccess": "2026-10-13T13:10:07.965Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.004Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T13:10:08.040Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:04.973Z"
+      "lastSuccess": "2026-10-13T13:10:08.038Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.007Z"
+      "lastSuccess": "2026-10-13T13:10:08.070Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T13:05:04.996Z"
+      "lastErrorAt": "2026-10-13T13:10:08.070Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.093Z"
+      "lastSuccess": "2026-10-13T13:10:08.201Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.012Z"
+      "lastSuccess": "2026-10-13T13:10:08.092Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.045Z"
+      "lastSuccess": "2026-10-13T13:10:08.247Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.148Z"
+      "lastSuccess": "2026-10-13T13:10:08.134Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:05.202Z"
+      "lastSuccess": "2026-10-13T13:10:08.218Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T13:05:07.169Z"
+      "lastSuccess": "2026-10-13T13:10:10.287Z"
     }
   },
   "items": [
+    {
+      "id": "story_e7d1746b053b1443",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Saudi attacks shake the confidence of foreign investors",
+      "snippet": "International energy bosses were largely absent from this week’s World Petroleum Council Energy Congress, held in Riyadh, after the Houthi attack.",
+      "link": "https://www.semafor.com/article/10/13/2026/saudi-attacks-shake-the-confidence-of-foreign-investors",
+      "imageUrl": "https://img.semafor.com/83d19c021675c8788a1805ec9d0e61788c567380-1177x811.jpg",
+      "publishedAt": "2026-10-13T13:04:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_be256674229410e7",
       "source": "Semafor",
@@ -118,6 +132,32 @@
       "link": "https://www.cbsnews.com/news/perseverance-mars-rover-driving-record-another-world/",
       "imageUrl": null,
       "publishedAt": "2026-10-13T13:02:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1825a6dcfd059438",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "WWE stars enter The Chat as company teams up with WhatsApp to elevate NFL Sundays for passionate fans",
+      "snippet": "WWE stars Cody Rhodes, Trick Williams, The Miz and more join WhatsApp's \"The Chat\" for live NFL reactions starting with Cowboys vs. Packers.",
+      "link": "https://www.foxnews.com/outkick-sports/wwe-stars-enter-chat-company-teams-whatsapp-elevate-nfl-sundays-passionate-fans",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T13:00:19.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ee9560d7b03ef187",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Fox News Power Rankings: As the House falls, the Senate stays in play",
+      "snippet": "Democrats' generic ballot lead is wider than the 2018 blue wave, pushing the House forecast toward a potential 237-seat Democratic majority.",
+      "link": "https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T13:00:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -173,6 +213,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_1792757e60c5c82d",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump says he's considering firing Kimberly Guilfoyle, shores up Republican support in Ohio",
+      "snippet": "President Trump traveled to Ohio to rally Republicans ahead of the November midterm elections. Meanwhile, Kimberly Guilfoyle's fate as the U.S. ambassador to Greece may be under fire after a Trump donor claimed she tried to get him to pay o",
+      "link": "https://www.cbsnews.com/video/trump-considers-firing-kimberly-guilfoyle-ohio-rally/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T12:56:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_1c84b09c43b48370",
@@ -613,6 +666,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/2__0592.jpeg?w=900",
       "publishedAt": "2026-10-13T12:07:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5d3aada29bda56d8",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: LSEG considers bid for Octus financial data group, sources say - Reuters",
+      "snippet": "EXCLUSIVE: LSEG considers bid for Octus financial data group, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzA3Y3RyQ1FIYWtUcjBRR0tPMlJaY0NGZF8yQlFicHV2aDdtLW5PNGZ6dmhoN2ZBWEN1bTRSc3dBZ3NZR2x4LTUzc2R0RTJNRmoyMkw5cTRQMVZuRko2RDNkMnc4V3JxMlNNUXNONjRuNWN3VUI0bllkSUJvNkM1b0RJdmhXOXA2aUM0ZnE2Qk9RNkVyLXFqeS16TnlrZ3FLWElWMw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T12:06:01.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2627,71 +2693,6 @@
       "link": "https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691",
       "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-waterford-fire_7375735.jpg?20261013104935",
       "publishedAt": "2026-10-13T09:25:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_23c9966f832ed1f0",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Spain’s king visits Ceuta amid tensions with Morocco",
-      "snippet": "King Felipe VI and Queen Letizia are visiting Ceuta months after more than 70,000 migrants arrived from Morocco. While most have returned, thousands remain. The visit has divided residents and risks reigniting diplomatic tensions with Moroc",
-      "link": "https://www.france24.com/en/spain-s-king-visits-ceuta-amid-tensions-with-morocco",
-      "imageUrl": "https://s.france24.com/media/display/bdf9123c-9ca6-11f1-bc45-005056bf30b7/w:1024/p:16x9/2026-08-20T124328Z-1284655205-RC292NADIEOA-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg",
-      "publishedAt": "2026-10-13T09:22:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_52aca8f2bd868482",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Poland blames Starlink sabotage on Russia - AP News",
-      "snippet": "Poland blames Starlink sabotage on Russia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVU3NmFpS3gxR2x3ZHZ4Ulp1Nndmb05nc1dmTXhoTG54X0NQSElwdU9TcHNVdVFpQWNhbmJGYWVVRnc5MnRVWXRENFo0N0xCMDBJb1otZXJIMlA1cVQyZUh5QlA2REt6NHNnZk1mSmI0NG5BOGtJT2hGNHdoMC1KYUJ1akttUWZHSWJYWA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T09:22:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d11be7d728ca3a18",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Air France says it will follow Israeli rule barring crew from some nations",
-      "snippet": "Reported restrictions could put airlines that comply with Israel at odds with anti-discrimination laws in their nations.",
-      "link": "https://www.aljazeera.com/features/2026/10/13/air-france-risks-breaking-the-law-by-adopting-israels-nationality-policy?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T09:21:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0d617045aae6eef2",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Pope Leo XIV admitted to hospital for lung surgery",
-      "snippet": "Pope Leo XIV has been admitted to Rome’s Gemelli hospital for surgery to remove a small lung nodule discovered during recent medical checks. The 71-year-old pontiff said the growth was detected at an early stage. The procedure marks his fir",
-      "link": "https://www.france24.com/en/pope-leo-xiv-admitted-to-hospital-for-lung-surgery",
-      "imageUrl": "https://s.france24.com/media/display/2c428f50-bb58-11f1-a1b9-8f3418d01115/w:1024/p:16x9/2026-09-28T155925Z-496606537-RC2FSNABCLSJ-RTRMADP-3-POPE-FRANCE.jpg",
-      "publishedAt": "2026-10-13T09:20:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1f6eb51ef41b2d7c",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kimberly Guilfoyle faces potential Senate probe over bombshell $100K allegation",
-      "snippet": "Kimberly Guilfoyle faces a likely Senate investigation after allegations she sought to have a Trump donor clear $100,000 in personal credit card debt.",
-      "link": "https://www.foxnews.com/politics/kimberly-guilfoyle-faces-potential-senate-probe-over-bombshell-100k-allegation",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T09:20:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
