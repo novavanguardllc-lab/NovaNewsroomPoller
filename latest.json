@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-10-13T04:50:06.223Z",
+  "updatedAt": "2026-10-13T04:55:04.978Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.347Z"
+      "lastSuccess": "2026-10-13T04:55:05.130Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.330Z"
+      "lastSuccess": "2026-10-13T04:55:05.087Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.309Z"
+      "lastSuccess": "2026-10-13T04:55:05.049Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.334Z"
+      "lastSuccess": "2026-10-13T04:55:05.171Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.720Z"
+      "lastSuccess": "2026-10-13T04:55:05.500Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.382Z"
+      "lastSuccess": "2026-10-13T04:55:05.273Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.706Z"
+      "lastSuccess": "2026-10-13T04:55:05.423Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.398Z"
+      "lastSuccess": "2026-10-13T04:55:05.286Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.368Z"
+      "lastSuccess": "2026-10-13T04:55:05.215Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:12.883Z"
+      "lastSuccess": "2026-10-13T04:55:05.333Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.312Z"
+      "lastSuccess": "2026-10-13T04:55:05.250Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.336Z"
+      "lastSuccess": "2026-10-13T04:55:05.197Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.352Z"
+      "lastSuccess": "2026-10-13T04:55:05.249Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.316Z"
+      "lastSuccess": "2026-10-13T04:55:05.232Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.305Z"
+      "lastSuccess": "2026-10-13T04:55:05.253Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.474Z"
+      "lastSuccess": "2026-10-13T04:55:05.393Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T04:50:06.433Z"
+      "lastErrorAt": "2026-10-13T04:55:05.386Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.296Z"
+      "lastSuccess": "2026-10-13T04:55:05.174Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.385Z"
+      "lastSuccess": "2026-10-13T04:55:05.322Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.433Z"
+      "lastSuccess": "2026-10-13T04:55:05.235Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.483Z"
+      "lastSuccess": "2026-10-13T04:55:05.408Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.464Z"
+      "lastSuccess": "2026-10-13T04:55:05.381Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T04:50:06.816Z"
+      "lastSuccess": "2026-10-13T04:55:05.468Z"
     }
   },
   "items": [
@@ -106,6 +106,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/9841791661192/2026/i/17918525613087/v1.5/Hurricane-Simon-expected-to-turn-toward-northwest.jpg",
       "publishedAt": "2026-10-13T04:47:49.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_88a2d9069c9cbf85",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "AI could self-replicate on home devices within ‘months’, Anthropic says",
+      "snippet": "US tech giant says small AI models may soon be capable of self-replication without access to a data centre.",
+      "link": "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T04:47:00.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2679,19 +2692,6 @@
       "link": "https://www.nytimes.com/2026/10/12/nyregion/blakeman-mamdani-hasidic-jews.html",
       "imageUrl": null,
       "publishedAt": "2026-10-12T21:35:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d39637d98e4b0122",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
-      "snippet": "Prime Minister Mark Carney's Thanksgiving message comes a week ahead of Alberta's referendum to secede.",
-      "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-12T21:33:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
