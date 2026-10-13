@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-13T21:35:04.816Z",
+  "updatedAt": "2026-10-13T21:40:07.375Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.043Z"
+      "lastSuccess": "2026-10-13T21:40:07.713Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.046Z"
+      "lastSuccess": "2026-10-13T21:40:07.617Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:04.944Z"
+      "lastSuccess": "2026-10-13T21:40:07.595Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:04.989Z"
+      "lastSuccess": "2026-10-13T21:40:07.975Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:04.923Z"
+      "lastSuccess": "2026-10-13T21:40:07.777Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.292Z"
+      "lastSuccess": "2026-10-13T21:40:08.117Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.066Z"
+      "lastSuccess": "2026-10-13T21:40:07.855Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.117Z"
+      "lastSuccess": "2026-10-13T21:40:08.032Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.104Z"
+      "lastSuccess": "2026-10-13T21:40:07.995Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.092Z"
+      "lastSuccess": "2026-10-13T21:40:07.980Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.121Z"
+      "lastSuccess": "2026-10-13T21:40:07.978Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.107Z"
+      "lastSuccess": "2026-10-13T21:40:08.003Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.185Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T21:40:08.052Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.112Z"
+      "lastSuccess": "2026-10-13T21:40:08.042Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.172Z"
+      "lastSuccess": "2026-10-13T21:40:08.073Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.125Z"
+      "lastSuccess": "2026-10-13T21:40:07.998Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.181Z"
+      "lastSuccess": "2026-10-13T21:40:08.254Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.270Z"
+      "lastSuccess": "2026-10-13T21:40:07.920Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T21:35:05.125Z"
+      "lastErrorAt": "2026-10-13T21:40:08.156Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.190Z"
+      "lastSuccess": "2026-10-13T21:40:13.209Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.242Z"
+      "lastSuccess": "2026-10-13T21:40:08.278Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.236Z"
+      "lastSuccess": "2026-10-13T21:40:08.237Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:35:05.350Z"
+      "lastSuccess": "2026-10-13T21:40:10.125Z"
     }
   },
   "items": [
+    {
+      "id": "story_1d9faa4d818ef7e2",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "OpenAI employee accused of planting recording device in office",
+      "snippet": "A Saudi national who worked at OpenAI as an engineer is suspected of planting a recording device in one of the company's conference rooms.",
+      "link": "https://www.cbsnews.com/news/openai-employee-arrest-recording-device/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:36:21.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_2528a45e5422b77e",
       "source": "Wash Examiner",
@@ -149,6 +163,45 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_edeaa995c7857cd0",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "JIM GRAY: Mike Ditka did it his way. Football will never see another like him",
+      "snippet": "Jim Gray honors Mike Ditka on SiriusXM NFL Radio with Tom Brady, Bill Belichick, Drew Brees and Matthew Stafford remembering America's Coach.",
+      "link": "https://www.foxnews.com/opinion/jim-gray-mike-ditka-did-it-his-way-football-will-never-see-another-like-him",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:23:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_253800cbcc832f87",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Three NFL dumpster fires make embarrassing league history not seen in nearly three decades",
+      "snippet": "The Los Angeles Chargers, Miami Dolphins and Tennessee Titans are all 0-5, the first time in 28 years three teams in one conference started winless.",
+      "link": "https://www.foxnews.com/outkick-sports/three-nfl-dumpster-fires-make-embarrassing-league-history-not-seen-nearly-three-decades",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:23:22.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_89bda1c5415fca43",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "NFL rescinds Jameson Williams' smoking celebration fine after he argues 'marijuana is legal'",
+      "snippet": "The National Football League rescinded Jameson Williams' smoking celebration fine after the Detroit Lions receiver argued marijuana is legal.",
+      "link": "https://www.foxnews.com/outkick-sports/nfl-rescinds-jameson-williams-smoking-celebration-fine-marijuana-legal",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:22:45.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_63fbdd27e6792d5a",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -157,6 +210,19 @@
       "link": "https://www.washingtonexaminer.com/opinion/columnists/4764688/americans-fear-ai-ohio-iowa-business-owners-finding-relief/",
       "imageUrl": null,
       "publishedAt": "2026-10-13T21:22:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_78245c39d250bf13",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Eric Church spills Eli Manning's embarrassing fishing secret while out on the water with Randy Moss",
+      "snippet": "Eric Church claims Eli Manning was too scared to hold a largemouth bass, revealing the story to Randy Moss on his Nashville fishing property.",
+      "link": "https://www.foxnews.com/outkick-sports/eric-church-spills-eli-mannings-embarrassing-fishing-secret-randy-moss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:20:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2627,71 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnIwRnF5UFNtbERvdjNuSkRKS3VYelNxdFNobWpWYU9SOUFaTG1saGl4X0JrSHhCRmdJM3hqcDlEWVJyVVdweWtQUFBMS3pMNnVROEJBVGZVYkYweHNsTEZubGxDRkRRV25rVS1qQTFJTmFEY2tWRjRVSW81M2ZISXVpZzNKNXBHblg0Z01felg4TE1FdVFMX1JiaE9BdWltd1BHZ3JtRUlVTEJCOE80?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-13T18:37:07.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2f05e351c6a56b96",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Doctors may be getting childhood obesity wrong, new research suggests",
-      "snippet": "A Lancet Commission definition of clinical obesity cuts pediatric rates sharply by requiring evidence of health complications beyond body mass index.",
-      "link": "https://www.foxnews.com/health/doctors-may-getting-childhood-obesity-wrong-new-research-suggests",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:36:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9ad7a9ebfbaf023a",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "El Sayed calls for AI kill switch in move following Sanders’s footsteps",
-      "snippet": "Michigan Democrat Abdul el Sayed, who’s running for the Senate this election cycle, voiced his support for an artificial intelligence kill switch on Tuesday as part of his new campaign platform concerning the advanced technology. The announ",
-      "link": "https://www.washingtonexaminer.com/policy/technology/4764045/el-sayed-call-ai-kill-switch-sanders/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:34:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5ac4efbb58b1d59d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Rising Interest Rates Bite Some Wall St. Banks",
-      "snippet": "JPMorgan released surprisingly spotty earnings results for the third quarter, while Goldman Sachs and Citi posted better-than-expected results, reflecting a choppy trading environment.",
-      "link": "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:32:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4bd6405edaf34917",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Clavicular’s accuser drops sexual assault claims from civil lawsuit amid MA criminal rape case",
-      "snippet": "A woman who accused “looksmaxxing” influencer Clavicular of raping her at his family’s Cape Cod home last May has refiled her civil lawsuit and dropped the sexual assault allegations against him, a move her lawyer said was intended to avoid",
-      "link": "https://www.nbcnews.com/news/us-news/claviculars-accuser-drops-sexual-assault-claims-civil-lawsuit-ma-crimi-rcna603176",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:30:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_905558a72387c5ba",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Police confiscate robot that groped 16-year-old girl, probe whether young men were at the controls - AP News",
-      "snippet": "Police confiscate robot that groped 16-year-old girl, probe whether young men were at the controls  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1VNdWRPZEZJT1pVUlp2RHhDb0ZYd2hDaGpDd2ZZQnNJMUhzZnNNeXAtWlhjQVY1UldISXd4MG9CT2p4M3BlSVB3Sms1VDZpRTdha2Vzcm81S1RHSXVmSlIwc05KOUZ6Z3V1NW1oMFJxWVVaOS01V0VDRWVJMFV2VFNvOHBMSjQxMzNrWXVxZk01dnpoR3FqeVctaTY?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:30:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
