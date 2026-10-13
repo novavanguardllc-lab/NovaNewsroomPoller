@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-13T21:45:06.714Z",
+  "updatedAt": "2026-10-13T21:50:07.052Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:06.911Z"
+      "lastSuccess": "2026-10-13T21:50:07.258Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:06.793Z"
+      "lastSuccess": "2026-10-13T21:50:07.118Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:06.917Z"
+      "lastSuccess": "2026-10-13T21:50:07.136Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:06.976Z"
+      "lastSuccess": "2026-10-13T21:50:07.114Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.322Z"
+      "lastSuccess": "2026-10-13T21:50:07.533Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.218Z"
+      "lastSuccess": "2026-10-13T21:50:07.513Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.014Z"
+      "lastSuccess": "2026-10-13T21:50:07.134Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.073Z"
+      "lastSuccess": "2026-10-13T21:50:07.220Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.152Z"
+      "lastSuccess": "2026-10-13T21:50:07.215Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.155Z"
+      "lastSuccess": "2026-10-13T21:50:07.236Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.017Z"
+      "lastSuccess": "2026-10-13T21:50:07.173Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:06.937Z"
+      "lastSuccess": "2026-10-13T21:50:07.231Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-13T21:45:07.163Z"
+      "online": true,
+      "lastSuccess": "2026-10-13T21:50:07.272Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.185Z"
+      "lastSuccess": "2026-10-13T21:50:07.235Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.055Z"
+      "lastSuccess": "2026-10-13T21:50:07.160Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:06.992Z"
+      "lastSuccess": "2026-10-13T21:50:07.212Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.168Z"
+      "lastSuccess": "2026-10-13T21:50:07.283Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.131Z"
+      "lastSuccess": "2026-10-13T21:50:07.198Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T21:45:07.160Z"
+      "lastErrorAt": "2026-10-13T21:50:07.279Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.193Z"
+      "lastSuccess": "2026-10-13T21:50:07.293Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.176Z"
+      "lastSuccess": "2026-10-13T21:50:07.341Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:07.297Z"
+      "lastSuccess": "2026-10-13T21:50:07.336Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:45:09.425Z"
+      "lastSuccess": "2026-10-13T21:50:07.374Z"
     }
   },
   "items": [
+    {
+      "id": "story_aa337c25492c7411",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "snippet": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:42:49.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_a64c91b278e776b0",
       "source": "NBC News",
@@ -184,6 +196,32 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
       "imageUrl": null,
       "publishedAt": "2026-10-13T21:25:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ad64157b67eea078",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+      "snippet": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung.",
+      "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:25:04.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 7
+    },
+    {
+      "id": "story_47ae0e2d3ba706a8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+      "snippet": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League.",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:24:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -280,6 +318,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5bcc8d19d8386042",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " US hits Bank of America with $1.2 billion fine, saying it violated money laundering, sanctions laws",
+      "snippet": "The fines amount to the third-largest amount in Treasury Department history.",
+      "link": "https://abcnews.com/Business/wireStory/us-hits-bank-america-12-billion-fine-violated-137238223",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:17:53.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_12cd6e1f0ffcc642",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -367,6 +418,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/12/ramirezdelia_121125gn02_w.jpg?w=900",
       "publishedAt": "2026-10-13T21:12:11.000Z",
       "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_d5ea06f374249145",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Employee arrested after listening device found in OpenAI conference room, FBI and the company say - AP News",
+      "snippet": "Employee arrested after listening device found in OpenAI conference room, FBI and the company say  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVl0SzhGa2IyTHliZXlVSl9jcFY4V1NmUG5YN1F3WWsyUG1jSzhlMzNwZ3M2V2hmZWhfWS1pcFFkYmwtc2RZeTdJLVpRTkwxMmE4YjZkdHV3bUlZenBxeUhUa0tIU0VGeGtyTktPSGt5Z3VnUVRudWZ0VlNzSHJjc3hsY0puM0RTanBmSkJ3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:11:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
     },
@@ -2628,71 +2692,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-13T18:42:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e27f85ad82a7062c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘There was a chance to stop him’: Parents react with fury to paedophile nursery worker revelations",
-      "snippet": "More than 50 families call for investigation into how Vincent Chan was allowed to return to job after inquiry by nursery\nThe parents of the victims of paedophile nursery worker Vincent Chan have reacted with fury to the news that he was cle",
-      "link": "https://www.theguardian.com/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:41:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_357d374a597eaed9",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Obama to campaign with Brown, Acton in Cleveland",
-      "snippet": "Former President Obama is scheduled to hit the campaign trail with Ohio Senate candidate Sherrod Brown (D) and gubernatorial candidate Amy Acton (D) at the end of the month.  The former head of state will travel to Cleveland on Oct. 24 in a",
-      "link": "https://thehill.com/homenews/campaign/6146037-obama-campaigning-ohio-midterms/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/obamabarack_07272026ap_590e85.jpg?w=900",
-      "publishedAt": "2026-10-13T18:41:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_af45840f2a8646dc",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Spain's royals visit Ceuta enclave amid friction with Morocco after border surge - Reuters",
-      "snippet": "Spain's royals visit Ceuta enclave amid friction with Morocco after border surge  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbU5tTjB4LUZJOHdiWUljRWNQNDMyZEJ4VGlFSy01ajNIenZTUzZfS3QzeHZWdFMxT0FsRU5wbGxEczlEZk44OVBFaVJxQ0JtVzJjQXQ0cHdGSDl1MFhKX2FwN2tBQ2N4NE4yWGJzOWNwTWlGall5S290SVlhcVZIUkIwcVl5cW0wRkF6ZWViZWJ5ZlNLNkNucDQxWGxCMnJ2bjhxV2JsN0xwYlpDcXFDelNDOUhlMExya3EyTTNZSmtZZlJoNW1F?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:40:37.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_da249d524a91eb9e",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Pacific hurricane region sets record for big, long-lasting storms&nbsp;&nbsp;",
-      "snippet": "Several meteorological factors have come together to supercharge the Pacific, chief among them the El Niño.",
-      "link": "https://www.pbs.org/newshour/science/pacific-hurricane-region-sets-record-for-big-long-lasting-storms",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:40:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2ffe6c7c40801aad",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Cowboys owner Jerry Jones recounts Green Bay bare-butt story that left cringeworthy image in his mind",
-      "snippet": "Jerry Jones recalls a Packers fan mooning his limo full of grandchildren after a Cowboys game at freezing Lambeau Field in a wild NFL memory.",
-      "link": "https://www.foxnews.com/outkick-sports/cowboys-owner-jerry-jones-recounts-green-bay-bare-butt-story-left-cringeworthy-image-mind",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:39:44.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
