@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-10-13T22:35:04.943Z",
+  "updatedAt": "2026-10-13T22:40:07.535Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.004Z"
+      "lastSuccess": "2026-10-13T22:40:07.933Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.007Z"
+      "lastSuccess": "2026-10-13T22:40:07.743Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.020Z"
+      "lastSuccess": "2026-10-13T22:40:07.836Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.058Z"
+      "lastSuccess": "2026-10-13T22:40:08.099Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.439Z"
+      "lastSuccess": "2026-10-13T22:40:08.335Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.410Z"
+      "lastSuccess": "2026-10-13T22:40:08.359Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.098Z"
+      "lastSuccess": "2026-10-13T22:40:08.156Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.139Z"
+      "lastSuccess": "2026-10-13T22:40:08.039Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.146Z"
+      "lastSuccess": "2026-10-13T22:40:08.377Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.100Z"
+      "lastSuccess": "2026-10-13T22:40:08.056Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.079Z"
+      "lastSuccess": "2026-10-13T22:40:07.856Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.077Z"
+      "lastSuccess": "2026-10-13T22:40:07.759Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.166Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T22:40:08.296Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.142Z"
+      "lastSuccess": "2026-10-13T22:40:08.375Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.065Z"
+      "lastSuccess": "2026-10-13T22:40:07.975Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.104Z"
+      "lastSuccess": "2026-10-13T22:40:07.979Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.172Z"
+      "lastSuccess": "2026-10-13T22:40:08.524Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.128Z"
+      "lastSuccess": "2026-10-13T22:40:08.237Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T22:35:05.173Z"
+      "lastErrorAt": "2026-10-13T22:40:08.526Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.195Z"
+      "lastSuccess": "2026-10-13T22:40:08.415Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.190Z"
+      "lastSuccess": "2026-10-13T22:40:08.547Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:05.279Z"
+      "lastSuccess": "2026-10-13T22:40:08.497Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T22:35:08.130Z"
+      "lastSuccess": "2026-10-13T22:40:08.631Z"
     }
   },
   "items": [
+    {
+      "id": "story_78d9abca7788770e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump officials now leaning against execution livestream: sources",
+      "snippet": "Last week, the Pentagon had said the execution of the ex-Army major convicted of killing 13 in 2009 would be livestreamed.",
+      "link": "https://www.cbsnews.com/news/trump-officials-leaning-against-execution-livestream-nidal-hasan/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T22:36:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4569fac312e3395f",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Bumble to go private in $1.3B acquisition ",
+      "snippet": "The company has faced years of falling revenue amid a shift in online dating habits.",
+      "link": "https://www.semafor.com/article/10/13/2026/bumble-to-go-private-in-13b-acquisition",
+      "imageUrl": "https://img.semafor.com/7f16e60805b8247a568959c58709d14e09cd8232-3998x2667.jpg",
+      "publishedAt": "2026-10-13T22:35:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e14042e67d40d72a",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Bears' Montez Sweat suspended 2 games for violating NFL's performance-enhancing drug policy",
+      "snippet": "Montez Sweat's two-game NFL suspension for performance-enhancing drugs leaves the Chicago Bears' defensive line thin with Dayo Odeyingbo also hurt.",
+      "link": "https://www.foxnews.com/outkick-sports/bears-montez-sweat-suspended-2-games-violating-nfl-performance-enhancing-drug-policy",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T22:35:13.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_aefdc0fa6e7491b2",
       "source": "Semafor",
@@ -105,6 +145,19 @@
       "link": "https://www.semafor.com/article/10/13/2026/mi5-chief-warns-of-escalating-hybrid-threats-from-russia-iran",
       "imageUrl": "https://img.semafor.com/7f876a26a4762b3fbb954da0bbceeacd9e09a533-4000x2670.jpg",
       "publishedAt": "2026-10-13T22:32:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_093c9c063f3b33db",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Billy Crystal says he no longer trusts God after losing home of 46 years then his longtime friend Rob Reiner",
+      "snippet": "Billy Crystal says he no longer trusts God after losing his Pacific Palisades home in the wildfires and the death of close friend Rob Reiner.",
+      "link": "https://www.foxnews.com/entertainment/billy-crystal-says-he-no-longer-trusts-god-after-losing-home-46-years-his-longtime-friend-rob-reiner",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T22:30:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -121,6 +174,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 6
+    },
+    {
+      "id": "story_373bacf88e423ea0",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "‘Bonnie and Clyde’ illegal immigrant couple accused of brazen jewelry theft spree across four states",
+      "snippet": "Homeland Security says the Romanian couple dubbed \"Bonnie and Clyde\" used hugs and fake directions to steal necklaces from elderly victims in four states.",
+      "link": "https://www.foxnews.com/politics/bonnie-clyde-illegal-immigrant-couple-accused-brazen-jewelry-theft-spree-across-four-states",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T22:28:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_3761ddb492d5b231",
@@ -313,6 +379,19 @@
       "link": "https://thehill.com/policy/international/6146681-carney-references-war-1812-victory/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26260446042409-e1789649799562.jpg?w=900",
       "publishedAt": "2026-10-13T22:09:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_758dace660ada230",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Evening: Trump Aids Putin, Feuds With Ukraine",
+      "snippet": "Plus, the G.O.P. plays defense in red states. Here’s the latest at the end of Tuesday.",
+      "link": "https://www.nytimes.com/2026/10/13/briefing/putin-guilfoyle-gop.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T22:08:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2617,84 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 8
-    },
-    {
-      "id": "story_28a25df02727ee37",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "What to know about the search of Democratic Rep. Omar's home",
-      "snippet": "President Donald Trump's administration has taken the unusual step of searching Democratic Rep. Ilhan Omar's home in Washington, just three weeks before the midterm election.",
-      "link": "https://www.pbs.org/newshour/politics/what-to-know-about-the-search-of-democratic-rep-omars-home",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:19:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_614b91955f94920f",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Letitia James pushes Oswego, New York, for information on rooftop standoff with Border Patrol",
-      "snippet": "The New York attorney general’s office has asked town officials in upstate New York to explain their actions in responding to a residence where two suspected illegal immigrants hid on the roof to evade arrest by Border Patrol agents. The of",
-      "link": "https://www.washingtonexaminer.com/news/justice/4764187/letitia-james-oswego-rooftop-standoff-border-patrol/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:18:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d02166afb444f25c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico - AP News",
-      "snippet": "Death toll rises to 6 as Hurricane Simon and Rachel remnants unleash floods in Mexico  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2JMbExiVlc5OGtDVXlEZE9DTnJvbjJFN21tR1BvU0lEeFJzOHNOQ00xZG4xRm1OR05qUzJuTVphWXdFMnZyYWhpU25aS0NZcTlUdmRMbmVPTnJ2VjRnZ3dENkNhY0dRQkhWbUJFTnJBb3NDVFZVOE1uVGl3eGVidHI5XzVLSExDTzlpbVVoOE9zcHdDT3hyYVpSSDRqU1RqcUZycFJrUm4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:17:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ac876255f52da99",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "New evidence debunks Talarico psych hospital rumor after ‘mind-numbing malpractice’ fuels firestorm",
-      "snippet": "James Talarico's campaign provided security footage to debunk the Ohio rehab rumor, but critics ask why the evidence wasn't released sooner.",
-      "link": "https://www.foxnews.com/politics/new-evidence-debunks-talarico-psych-hospital-rumor-after-mind-numbing-malpractice-fuels-firestorm",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:16:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d8758806719e1c99",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Duane 'Keffe D' Davis sentenced to 40 years to life for Tupac Shakur's murder",
-      "snippet": "Duane \"Keffe D\" Davis -- the only person ever charged with the murder of Tupac Shakur -- was sentenced Tuesday in a Las Vegas court after being convicted.",
-      "link": "https://abcnews.com/US/duane-keffe-davis-faces-life-sentence-tupac-shakurs/story?id=137227110",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:12:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_1e774b8415550270",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rory McIlroy inks partnership deal with DP World that includes an unbelievably nice set of perks",
-      "snippet": "Rory McIlroy's new DP World partnership sends two personalized fitness and recovery trailers to every PGA Tour and DP World Tour event he enters.",
-      "link": "https://www.foxnews.com/outkick-sports/rory-mcilroy-inks-partnership-deal-dp-world-includes-unbelievably-nice-set-perks",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:11:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
