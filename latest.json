@@ -1,101 +1,180 @@
 {
-  "updatedAt": "2026-10-13T21:50:07.052Z",
+  "updatedAt": "2026-10-13T21:55:04.776Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.258Z"
+      "lastSuccess": "2026-10-13T21:55:05.147Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.118Z"
+      "lastSuccess": "2026-10-13T21:55:04.977Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.136Z"
+      "lastSuccess": "2026-10-13T21:55:04.949Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.114Z"
+      "lastSuccess": "2026-10-13T21:55:05.054Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.533Z"
+      "lastSuccess": "2026-10-13T21:55:05.087Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.513Z"
+      "lastSuccess": "2026-10-13T21:55:05.438Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.134Z"
+      "lastSuccess": "2026-10-13T21:55:05.207Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.220Z"
+      "lastSuccess": "2026-10-13T21:55:05.248Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.215Z"
+      "lastSuccess": "2026-10-13T21:55:05.312Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.236Z"
+      "lastSuccess": "2026-10-13T21:55:04.954Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.173Z"
+      "lastSuccess": "2026-10-13T21:55:04.967Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.231Z"
+      "lastSuccess": "2026-10-13T21:55:05.226Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.272Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T21:55:05.313Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.235Z"
+      "lastSuccess": "2026-10-13T21:55:05.154Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.160Z"
+      "lastSuccess": "2026-10-13T21:55:05.112Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.212Z"
+      "lastSuccess": "2026-10-13T21:55:04.991Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.283Z"
+      "lastSuccess": "2026-10-13T21:55:05.450Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.198Z"
+      "lastSuccess": "2026-10-13T21:55:05.307Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T21:50:07.279Z"
+      "lastErrorAt": "2026-10-13T21:55:05.439Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.293Z"
+      "lastSuccess": "2026-10-13T21:55:05.426Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.341Z"
+      "lastSuccess": "2026-10-13T21:55:05.546Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.336Z"
+      "lastSuccess": "2026-10-13T21:55:05.399Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T21:50:07.374Z"
+      "lastSuccess": "2026-10-13T21:55:05.527Z"
     }
   },
   "items": [
+    {
+      "id": "story_0f5c022665f012e3",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Saudi national arrested after allegedly hiding recording device in OpenAI office",
+      "snippet": "An OpenAI employee from Saudi Arabia has been arrested after allegedly hiding a recording device in the company’s offices, the Department of Justice (DOJ) said Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national who had worked as an ",
+      "link": "https://thehill.com/policy/technology/6146643-open-ai-spying-fbi-doj/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26272791424450-e1790787192449.jpg?w=900",
+      "publishedAt": "2026-10-13T21:51:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_1210fcb218009e82",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "NFL legend Terry Bradshaw says he realizes his TV career is ‘coming to an end’",
+      "snippet": "Pro Football Hall of Famer and Fox broadcaster Terry Bradshaw told NBC News on Tuesday his television career ‘is coming to an end.’",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-legend-terry-bradshaw-tv-career-coming-to-end-rcna603275",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:48:37.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ce02ef5495a5aa71",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Trump's diesel deal with Putin draws bipartisan criticism from a frustrated Congress",
+      "snippet": "The deal is being criticized by both Republicans and Democrats as fueling Russia's war against Ukraine, violating existing U.S. laws and drawing the U.S. closer to Russia.",
+      "link": "https://www.pbs.org/newshour/politics/trumps-diesel-deal-with-putin-draws-bipartisan-criticism-from-a-frustrated-congress",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:46:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_98b195e3c1a3fd5d",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
+      "snippet": "The Treasury Department on Tuesday announced it was fining Bank of America more than $1.2 billion for violating anti-money laundering and sanctions laws. The Treasury’s Financial Crimes Enforcement Network (FinCEN) fined Bank of America, th",
+      "link": "https://thehill.com/business/6146632-bank-america-treasury-fine/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a568bffa225f1.11916229-e1791927564354.jpeg?w=900",
+      "publishedAt": "2026-10-13T21:45:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_7a430e3eda146dda",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Embattled Soros-backed DA blames ‘criminal’ police misconduct in accused Philly cop killer’s prior murder case",
+      "snippet": "Eric Lewis was acquitted of murder in 2019 after what DA Larry Krasner says was police misconduct that deeply undermined the earlier homicide case.",
+      "link": "https://www.foxnews.com/us/embattled-soros-backed-da-blames-criminal-police-misconduct-accused-philly-cop-killer-prior-murder-case",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:44:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_11be51d6b61e2f31",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dem candidate's bizarre anti-MAGA tirade ends with 'we have guns too'",
+      "snippet": "Jaime West, a Democrat running for Fayette County Council in Indiana, drew ridicule after appearing to slur through attacks on Republicans at a forum.",
+      "link": "https://www.foxnews.com/politics/fire-all-republicans-dem-candidate-anti-maga-tirade-ends-we-have-guns-too-message-voters",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:43:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_aa337c25492c7411",
       "source": "BBC",
@@ -108,6 +187,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_3fe7c19af7c19c39",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Scant details so far on Pope Leo's lung cancer diagnosis",
+      "snippet": "The Vatican revealed Tuesday that Pope Leo XIV has been diagnosed with lung cancer after undergoing surgery and having the lower lobe of his right lung removed. CBS News foreign correspondent Chris Livesay has more. Then, Dr. Janette Neshei",
+      "link": "https://www.cbsnews.com/video/scant-details-so-far-pope-leo-lung-cancer-diagnosis/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:41:09.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_40f685914458579a",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Tim Walz warns Democrats will face reckoning if they win power and fail to deliver change",
+      "snippet": "Minnesota Gov. Tim Walz warns Democrats will face serious backlash if they win back power but fail to deliver on housing and college education.",
+      "link": "https://www.foxnews.com/media/tim-walz-warns-democrats-face-reckoning-win-power-fail-deliver-change",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T21:41:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a64c91b278e776b0",
@@ -2591,110 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_de75db705d1e714d",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
-      "snippet": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens\n\nSign up for the US Breaking News email\n\nAhead of her White House podium debut, Katie Zac",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:45:41.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_998cf89ec628bc02",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Vance announces plan to use wartime authority to boost fuel production at Texas refinery",
-      "snippet": "The Trump administration will use wartime authority to augment fuel production at a refinery in Texas, Vice President JD Vance announced on Tuesday. The move comes as high energy prices are putting a strain on the economy and are becoming a",
-      "link": "https://thehill.com/homenews/administration/6146057-trump-vance-defense-production-act/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286631321802-e1791916309553.jpg?w=900",
-      "publishedAt": "2026-10-13T18:45:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e600198476b02631",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Cornell announces suspension of all frat parties amid Jane Doe lawsuit",
-      "snippet": "Cornell University announced Tuesday it would be suspending all parties at fraternities through the end of the academic year and adding trained sexual assault investigators to its police staff amid the fallout of the gang rape lawsuit over ",
-      "link": "https://thehill.com/homenews/education/6146032-cornell-frat-parties-jane-doe-gang-rape/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/cornellprotest_10052026ap.jpg?w=900",
-      "publishedAt": "2026-10-13T18:45:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7fb88c3cea87c1a5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Houthis threaten \"painful\" response if U.S. helps Saudis",
-      "snippet": "As Trump mulls joining Saudi Arabia in attacking the Houthis, the Iran-backed group is threatening a \"painful\" response.",
-      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:45:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bdb922424555bad",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Who killed Tupac?",
-      "snippet": "For decades, Tupac Shakur’s murder remained unsolved. Now, Keffe D is being sentenced for his killing.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:44:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_df7b700527d546ea",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Sununu keeps Trump at arm’s length in New Hampshire Senate debate, links Pappas to Biden",
-      "snippet": "The candidates vying for the seat of retiring Sen. Jeanne Shaheen (D-NH) spent their first debate trying to convince voters they would be independent voices for New Hampshire, whether their party controls Washington or not. John E. Sununu, ",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4764399/sununu-trump-senate-debate-pappas-biden/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:44:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4caab94a3ec0f125",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Minnesota State weighs plan to transfer money from two-year colleges to help struggling universities - AP News",
-      "snippet": "Minnesota State weighs plan to transfer money from two-year colleges to help struggling universities  AP News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUxzZXZIM2dzX2NFZXJ2M05RMUZRb3lwYmp2blRUQXJQay1BdVNWRXVZQllxN25fSFRIdDJ4Z2ZjcWZGRmdqYzRSS2h6cU9lZUxoU0UtZjVlaW5GRHUyaER1QkpuM0dlNzNFVWNaZ2poaWxrcVk5LWNTR25yT2Z3elRVU2VZZ2piaU92VTRVMXl1NU5Tcm1sZkRrRjlObUVDdkh5VUFvYXpxT0lTWE9Gc2IzemxYenZVVXd6TQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:43:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8b178f423c968606",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Gaza’s Yellow Line advances, leaving displaced families with nowhere to go",
-      "snippet": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
-      "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T18:42:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
