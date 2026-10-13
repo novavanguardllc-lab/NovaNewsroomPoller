@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-13T09:25:04.854Z",
+  "updatedAt": "2026-10-13T09:30:09.789Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.415Z"
+      "lastSuccess": "2026-10-13T09:30:09.857Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.254Z"
+      "lastSuccess": "2026-10-13T09:30:09.834Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.152Z"
+      "lastSuccess": "2026-10-13T09:30:09.860Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.134Z"
+      "lastSuccess": "2026-10-13T09:30:09.917Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.333Z"
+      "lastSuccess": "2026-10-13T09:30:09.896Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.571Z"
+      "lastSuccess": "2026-10-13T09:30:10.050Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.112Z"
+      "lastSuccess": "2026-10-13T09:30:09.876Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.370Z"
+      "lastSuccess": "2026-10-13T09:30:10.181Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.595Z"
+      "lastSuccess": "2026-10-13T09:30:09.940Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.457Z"
+      "lastSuccess": "2026-10-13T09:30:10.075Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.157Z"
+      "lastSuccess": "2026-10-13T09:30:09.950Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.311Z"
+      "lastSuccess": "2026-10-13T09:30:09.914Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.712Z"
+      "lastSuccess": "2026-10-13T09:30:09.994Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.273Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 462\nChar: d",
+      "lastErrorAt": "2026-10-13T09:30:09.961Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.291Z"
+      "lastSuccess": "2026-10-13T09:30:09.956Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.732Z"
+      "lastSuccess": "2026-10-13T09:30:10.219Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T09:25:05.721Z"
+      "lastErrorAt": "2026-10-13T09:30:10.192Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.174Z"
+      "lastSuccess": "2026-10-13T09:30:09.919Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.637Z"
+      "lastSuccess": "2026-10-13T09:30:10.208Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.431Z"
+      "lastSuccess": "2026-10-13T09:30:10.076Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.737Z"
+      "lastSuccess": "2026-10-13T09:30:10.224Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:05.973Z"
+      "lastSuccess": "2026-10-13T09:30:10.155Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T09:25:07.721Z"
+      "lastSuccess": "2026-10-13T09:30:12.060Z"
     }
   },
   "items": [
@@ -121,6 +122,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_21a3e163c81ab456",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Anne Aly reveals she has received 19 death threats in the last week alone",
+      "snippet": "After an MP said she should be ‘shamed and stoned’, federal minister hit back at ‘racist and misogynistic’ language\n\nGet our breaking news email, free app or daily news podcast\n\nAnne Aly has condemned as “racist” and “misogynistic” comments",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/13/anne-aly-reveals-she-has-received-19-death-threats-last-week-alone-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T09:13:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_29202a20744af82c",
@@ -338,6 +352,19 @@
       "snippet": "Rising gas and diesel prices are a major reason Republicans risk losing the House and possibly the Senate in November, but President Donald Trump’s energy deal with Russia will not fix that. It is too tiny and comes too late to change anyon",
       "link": "https://www.washingtonexaminer.com/opinion/editorials/4763006/trump-russian-diesel-deal-worse-than-useless/",
       "imageUrl": null,
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_646575538db9342e",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There’s No Rule Against It.",
+      "snippet": "The post He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There’s No Rule Against It. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/post-conviction-legal-delays-pennsylvania",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/09/hiresArtboard-2-copy.jpg?w=1149",
       "publishedAt": "2026-10-13T09:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -1286,6 +1313,19 @@
       "headline": "Equinor, Eneco sign five-year gas delivery deal - Reuters",
       "snippet": "Equinor, Eneco sign five-year gas delivery deal  Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdE5vZW53eXd5SzZZZ3NhX1hSdS1LTDFPRjh5WXA5UTRoYTJPVWdHUE5FZW8xT3lyLWxjYW51WW00cXdmSzc0a1lLVnFSM3dRS1k1SGtJOEN4OFpOaDRlSk0zbkl4TDZ0NjdkLVhIMlRJckM2ZVBVMnI2YzVZbElFMzZnRVN0a2JMOVVYTEJpV2laVENHQThSeTBocWY3SEk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T05:10:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bc9ca204c8c5f5e7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "CSG enters space sector as largest shareholder in Canada's MDA Space - Reuters",
+      "snippet": "CSG enters space sector as largest shareholder in Canada's MDA Space  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDRoVTRocmZaNVJ6OGJUTXdEYTNTdXFYTjdrZW5yQmxwUDNCLVJxTlFSdXhnNTB6aFhnQThtcWR5dWpULS1RMndVOW9aOFhLSVdkdTZDX1hYaEVrb1l4bkxVeDhFYkl2QnJmdjF3LXpDUXV3WWYwOEJWWlRHU0JlWVdMMl9wb0Z6aG03cGNYRVcxajZtekptUDZFM0xKOXZDc2RhRDFPcWlRaUF2Wm1KNmpJMnluQk5qMXpoTzVjS0tIZw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-13T05:10:00.000Z",
       "tier": "major",
@@ -2655,45 +2695,6 @@
       "publishedAt": "2026-10-13T00:46:49.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5211c360fded664a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Contreras delivers and Milwaukee's bullpen shines as the Brewers top the Dodgers 7-4 in NLCS Game 2 - AP News",
-      "snippet": "Contreras delivers and Milwaukee's bullpen shines as the Brewers top the Dodgers 7-4 in NLCS Game 2  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGlhbnd0YTdkWXhRd0trLXk3Q1lhdl84dlJxUkZYSlEwbzQyWnhMNGRKeEE0bDY0VTA2RmlPN1VQM053bTA5NW5uU1BrWE10Z0ltSEVVcG0xSklsSW5JSEduYjFIWWM4RFlLWTRhUzlmaWtnaGR5ZXBNRnF0Q3p1TDVUN083MmZZOE9MeVNoOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T00:44:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4de013c596f5bdbb",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Katie Zacharia says she plans to be press secretary until the end of Trump’s term as she preps for first briefing",
-      "snippet": "Katie Zacharia will appear in the White House briefing room on Tuesday morning for the first time as President Donald Trump’s press secretary. She plans to stick around. She told Secrets that she intends to stay in the role until the end of",
-      "link": "https://www.washingtonexaminer.com/news/washington-secrets/4763659/katie-zacharia-plans-press-secretary-end-trump-term-first-briefing/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T00:44:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2fb34e4a249c7237",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WNBA gives Cheryl Reeve another award after playoff collapse and years of outspoken left-wing politics",
-      "snippet": "Cheryl Reeve won WNBA Executive of the Year for a third time, but the Lynx's historic first-round playoff sweep raises questions about the honor.",
-      "link": "https://www.foxnews.com/outkick-sports/wnba-gives-cheryl-reeve-another-award-after-playoff-collapse-years-outspoken-left-wing-politics",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T00:42:37.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
