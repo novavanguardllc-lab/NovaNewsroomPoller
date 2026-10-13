@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-13T19:15:07.655Z",
+  "updatedAt": "2026-10-13T19:20:06.960Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.697Z"
+      "lastSuccess": "2026-10-13T19:20:07.057Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.710Z"
+      "lastSuccess": "2026-10-13T19:20:07.111Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.718Z"
+      "lastSuccess": "2026-10-13T19:20:07.023Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.788Z"
+      "lastSuccess": "2026-10-13T19:20:07.006Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.757Z"
+      "lastSuccess": "2026-10-13T19:20:07.141Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.738Z"
+      "lastSuccess": "2026-10-13T19:20:07.018Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.809Z"
+      "lastSuccess": "2026-10-13T19:20:07.035Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.875Z"
+      "lastSuccess": "2026-10-13T19:20:07.124Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.866Z"
+      "lastSuccess": "2026-10-13T19:20:07.073Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.840Z"
+      "lastSuccess": "2026-10-13T19:20:07.039Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.759Z"
+      "lastSuccess": "2026-10-13T19:20:07.107Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.857Z"
+      "lastSuccess": "2026-10-13T19:20:07.042Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.882Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T19:20:07.149Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.864Z"
+      "lastSuccess": "2026-10-13T19:20:07.047Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.851Z"
+      "lastSuccess": "2026-10-13T19:20:07.105Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.870Z"
+      "lastSuccess": "2026-10-13T19:20:07.063Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.889Z"
+      "lastSuccess": "2026-10-13T19:20:07.133Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.831Z"
+      "lastSuccess": "2026-10-13T19:20:07.090Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T19:15:07.894Z"
+      "lastErrorAt": "2026-10-13T19:20:07.120Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.897Z"
+      "lastSuccess": "2026-10-13T19:20:07.215Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:07.915Z"
+      "lastSuccess": "2026-10-13T19:20:07.203Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:08.025Z"
+      "lastSuccess": "2026-10-13T19:20:07.194Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T19:15:09.637Z"
+      "lastSuccess": "2026-10-13T19:20:09.523Z"
     }
   },
   "items": [
+    {
+      "id": "story_614b91955f94920f",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Letitia James pushes Oswego, New York, for information on rooftop standoff with Border Patrol",
+      "snippet": "The New York attorney general’s office has asked town officials in upstate New York to explain their actions in responding to a residence where two suspected illegal immigrants hid on the roof to evade arrest by Border Patrol agents. The of",
+      "link": "https://www.washingtonexaminer.com/news/justice/4764187/letitia-james-oswego-rooftop-standoff-border-patrol/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T19:18:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d8758806719e1c99",
       "source": "ABC News",
@@ -108,6 +122,32 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
+    },
+    {
+      "id": "story_1e774b8415550270",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Rory McIlroy inks partnership deal with DP World that includes an unbelievably nice set of perks",
+      "snippet": "Rory McIlroy's new DP World partnership sends two personalized fitness and recovery trailers to every PGA Tour and DP World Tour event he enters.",
+      "link": "https://www.foxnews.com/outkick-sports/rory-mcilroy-inks-partnership-deal-dp-world-includes-unbelievably-nice-set-perks",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T19:11:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2743ea2faa76edb1",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Pope Leo admitted to hospital for operation to remove growth on lung",
+      "snippet": "Vatican says surgery that will determine whether the nodule is malignant will take place on Tuesday afternoon\nPope Leo underwent an operation on Tuesday to remove a small growth from his lung, which the Vatican said concluded “successfully,",
+      "link": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T19:09:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_364c1faefa3fb91b",
@@ -251,6 +291,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_216c076391130996",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Duane Keith Davis sentenced to 40 years over 1996 murder of Tupac Shakur",
+      "snippet": "‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced\n\nTupac trial spotlights decades of US police failures in solving the case\n\nDuane “Keffe D” Davis, the former California g",
+      "link": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T19:03:19.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_858f1d9ec99e5b5b",
@@ -2346,6 +2399,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fb3292d4467f47c8",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Copeland, Dixell refrigeration systems also hacked, French cybersecurity agency says - Reuters",
+      "snippet": "Copeland, Dixell refrigeration systems also hacked, French cybersecurity agency says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcEw5ZkNkalNNZjZRdGZhZ1VDQUpRMy1mOEVfdlhEVHNLRlVCMnZydHVvdVBUOXlneXlDNjdNT1NyYmhvVE44LU4yelRWWE1IcU02RWlJVE9mODNlMGdJLTRzY25ia3l1M2NCUWFSRl8xb0I3Z1E3djNkcVctVGRMMUsxV21TeVg5S0dJZy1LeWFqdWRVaHE5cmdsWlRCbE44TUtlOGJ3SGl1a1VYM2hCalFhY3F5SGo5LXlLbktnaHMyLXNiVXpYZl9aSlhselJLeWtMYQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T17:02:13.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b699f7a2c3f517c3",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2627,71 +2693,6 @@
       "link": "https://thehill.com/policy/technology/6145678-acetaminophen-recall-amazon-fda/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6aab00053708d6.49591664.jpeg?w=900",
       "publishedAt": "2026-10-13T16:44:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d860e0c04bda008b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "As EU debates local-content rules, Chinese automakers are already adapting - Reuters",
-      "snippet": "As EU debates local-content rules, Chinese automakers are already adapting  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTQ0dzJ0TlAxQ1ZWbHI1dm55QjZZUTAxVE1IbmFsajIzcTFnbWxyc1Rha0JhcHZjdFpzenl5OWFwY3VnOVpHMlcySERES05HSnluX1JTLUpReUFrY3dOaW5jaHRxNkIzVURDQkZrQWFOUmJWeGJ1cE5JQXFnZkI4TG9pUERJVjI3dWM5ZnFqS05OdkoyWDJWZWFoWTc5LW8xRXd6ZVJ4dmVabUxQd3huSWgxX2swREpJNXFSTk9kd2x0dWxfMlo5TUR3Y2RmcnBTRnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T16:44:02.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c35af9a737a39bcb",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Indonesia returns 20 green sea turtles to the ocean after Bali smuggling raid - AP News",
-      "snippet": "Indonesia returns 20 green sea turtles to the ocean after Bali smuggling raid  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUxhSFg4VmVJLVk3QTdnekpubXUtS2NxOHE4SDlaWnhOM05kaWxXSFFxbkt1VFJGSllNMHRsVjVwQnkyN1lBZFF4Q19EbFBfTXQzZmR1VTNZQVNiZnZDM3k1MVBTcWNZQVBETUNvTlNFdHBLSlR2Vk5MbXlWOW50bF96WTRySlkxd1hMbGVxQ3dnUzVCTVpPSUlQSHVVTGg2OTc5eFJtT0U?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T16:43:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_77388be6fe22f5ed",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Supreme Court will review asylum case of Nigerian man who cooked meals for terrorist leaders - AP News",
-      "snippet": "Supreme Court will review asylum case of Nigerian man who cooked meals for terrorist leaders  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0hDMVRLelhvdjFmc2d1ZDBzYmhwQWlMcGJLbzVyQ3dNdFR6Rm5YQXE5S2p2ZTAtb0xnNFgzb0NNTUMzd1dwaTB1cnlhQmY2YnlWM3E0ZUtXQ0liNGs5SDUwVzByam52TDQyVXFKaDJLeFAzek15T1NueXBkcHhTaUo4dkRURTZuaENib1JBRExFN3FhWFpVaVRIRHZqRGRYU3hJNzJDeExBRGFUdVJYUzVUQl9ucEE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T16:43:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_4b9c6195a77e6b8f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Why Saudi Arabia has struggled to defend itself against the Houthis’ recent attacks - AP News",
-      "snippet": "Why Saudi Arabia has struggled to defend itself against the Houthis’ recent attacks  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0tLX1FqSV84dmlSbmFFRlFIa2hLVXowbkNhWkg5alRncU1qNFdJVC1QbW5JRGEycFQ0SGh2d3NKUDF0RlMtU1NISTE1WnFnQU1OTjE1N1BZdHJnQ29oOHdkNUhhZV9SVGlSTVRHYS1jV2MyMGNTUlhrUW5iNFVfUHRmSVVKNUdvT3A4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T16:43:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_b09374ca80c4bdb2",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Six Flags stock slides 16% following fatal roller coaster accident",
-      "snippet": "The company's stock is taking a hit after officials confirmed a person died at one of the theme park's locations, extending a slide that started in September.",
-      "link": "https://www.cbsnews.com/news/six-flags-shares-slide-roller-coaster-death-georgia/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T16:42:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
