@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-13T17:40:07.953Z",
+  "updatedAt": "2026-10-13T17:45:06.814Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.259Z"
+      "lastSuccess": "2026-10-13T17:45:07.216Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.614Z"
+      "lastSuccess": "2026-10-13T17:45:06.970Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.455Z"
+      "lastSuccess": "2026-10-13T17:45:07.037Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.318Z"
+      "lastSuccess": "2026-10-13T17:45:07.355Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.397Z"
+      "lastSuccess": "2026-10-13T17:45:07.093Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.778Z"
+      "lastSuccess": "2026-10-13T17:45:07.195Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.152Z"
+      "lastSuccess": "2026-10-13T17:45:07.033Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.593Z"
+      "lastSuccess": "2026-10-13T17:45:07.273Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.354Z"
+      "lastSuccess": "2026-10-13T17:45:06.995Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.414Z"
+      "lastSuccess": "2026-10-13T17:45:07.243Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.632Z"
+      "lastSuccess": "2026-10-13T17:45:06.952Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.714Z"
+      "lastSuccess": "2026-10-13T17:45:07.251Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.699Z"
+      "lastSuccess": "2026-10-13T17:45:07.156Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.637Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T17:45:07.241Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.635Z"
+      "lastSuccess": "2026-10-13T17:45:07.277Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.921Z"
+      "lastSuccess": "2026-10-13T17:45:07.270Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T17:40:08.913Z"
+      "lastErrorAt": "2026-10-13T17:45:07.274Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.894Z"
+      "lastSuccess": "2026-10-13T17:45:07.663Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.956Z"
+      "lastSuccess": "2026-10-13T17:45:07.337Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.758Z"
+      "lastSuccess": "2026-10-13T17:45:07.314Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.557Z"
+      "lastSuccess": "2026-10-13T17:45:07.241Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:08.813Z"
+      "lastSuccess": "2026-10-13T17:45:07.383Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T17:40:11.393Z"
+      "lastSuccess": "2026-10-13T17:45:09.173Z"
     }
   },
   "items": [
+    {
+      "id": "story_1c1180e6a17f06d4",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says",
+      "snippet": "At the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine.",
+      "link": "https://www.pbs.org/newshour/world/ukraine-had-no-intelligence-from-partners-about-missiles-headed-to-kyiv-zelenskyy-says",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T17:39:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_36bb771942896edd",
       "source": "The Hill",
@@ -105,6 +119,19 @@
       "link": "https://thehill.com/homenews/media/6145787-clinton-swisher-launch-high-stakes-podcast/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26167031194919-e1788442645616.jpg?w=900",
       "publishedAt": "2026-10-13T17:38:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_290394f22fe8cfac",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "‘Breaking Bad’ star RJ Mitte’s cause of death revealed as co-stars Bryan Cranston, Aaron Paul mourn actor",
+      "snippet": "RJ Mitte's representative confirmed the \"Breaking Bad\" actor and cerebral palsy advocate died by suicide at his Brownsville, Texas, home. He was 34.",
+      "link": "https://www.foxnews.com/entertainment/breaking-bad-star-rj-mittes-cause-death-revealed-co-stars-bryan-cranston-aaron-paul-mourn-actor",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T17:38:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -251,6 +278,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_3da26f09f6ffc449",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Saudi Arabia strikes strategic oil depots near Yemen capital",
+      "snippet": "Civilians warned to evacuate outskirts of Sana’a ahead of biggest attack so far on Houthi energy infrastructure\nSaudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital Sana’a, in a fresh es",
+      "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T17:26:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_769d23c70d52d35e",
@@ -420,6 +460,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_e3438a10d86b8738",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Cyberattacks hit European supermarket chains and disrupt refrigeration systems - AP News",
+      "snippet": "Cyberattacks hit European supermarket chains and disrupt refrigeration systems  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMENMX3JUelZ4aS1rZklxQXBPSWdtRGc3eWJfaEpVS25tU20wLVFIbGpXNDZ5ek9fWFk3QnlxX25IUDB6QjNGdERaalNoWDljZDdGdVM3TUxSUlpZazF2ZXp3cF8zTGJKSExodlN2MFhvZWg4SzJWenpNd0NPSHB1QUx5aXhBV1FyS3d4YmpuVG9jMU1adVJkM0h6UUQ4TWNoUURuejRpU0Zlc2FKS05PR00tWQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T17:09:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_04f2f2a45ff79c77",
@@ -2640,58 +2693,6 @@
       "link": "https://www.france24.com/en/live-news/20261013-novelist-thelyson-orelien-denies-ai-use-admits-plagiarism-mistakes",
       "imageUrl": "https://s.france24.com/media/display/155b72fe-c713-11f1-a4a6-53993c5f1f18/w:1024/p:16x9/2d5600857b2d465f62af369a7944e3c97aa68320.jpg",
       "publishedAt": "2026-10-13T14:33:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4d6cdf52d42fe711",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Novelist Thélyson Orélien rejects AI claims after bestseller pulled from French prize list",
-      "snippet": "Thélyson Orélien, the Haitian-Canadian writer whose best-selling debut novel was pulled from the prestigious Goncourt prize list amid an AI uproar, said Tuesday \"not a single sentence\" had been written by a machine. He did, however, admit t",
-      "link": "https://www.france24.com/en/culture/20261013-novelist-th%C3%A9lyson-or%C3%A9lien-rejects-ai-claims-after-book-pulled-from-french-prize-list",
-      "imageUrl": "https://s.france24.com/media/display/155b72fe-c713-11f1-a4a6-53993c5f1f18/w:1024/p:16x9/2d5600857b2d465f62af369a7944e3c97aa68320.jpg",
-      "publishedAt": "2026-10-13T14:33:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e6746a810a445a2a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "White House asked Kimberly Guilfoyle to resign, Trump's new press secretary Katie Zacharia says",
-      "snippet": "President Trump's new press secretary, Katie Zacharia, said that the White House has asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign. CBS News' Aaron Navarro reports on Zacharia's first briefing.",
-      "link": "https://www.cbsnews.com/video/trumps-new-press-secretary-katie-zacharia-kimverly-guilfoyle/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T14:33:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 12
-    },
-    {
-      "id": "story_2d3cf896d4977792",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Israel returns 22 artifacts as Greece pushes to bring antiquities home - AP News",
-      "snippet": "Israel returns 22 artifacts as Greece pushes to bring antiquities home  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbElnbUF0N3B4QjBaT0htaC1GTHBRWVpwek5DeVBEOXJhMnJicEQzaG1pTUVkTDhfUm1xbDZmMnZmMkE2NWx4dU9tM0FSaUFBUUdfY2dSOHlqSDEtUHlwLVVGcEU3SGlNQUdEOHpHaHJrNTI0N1B4UVpQTmVrRzhSTnhtbUY3U2RyNThoYXRkTFNpeXVIaGJXNkd1Y3FnZjNaUWFrSEJn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T14:33:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_059d8a758298cf49",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump shouts out 'beautiful' Sophie Cunningham at Ohio rally: 'Wouldn't mind her on the team'",
-      "snippet": "President Donald Trump called Sophie Cunningham \"beautiful\" at his Youngstown rally, saying the Indiana Fever guard would help boost attendance for any WNBA team.",
-      "link": "https://www.foxnews.com/outkick-sports/trump-shouts-beautiful-sophie-cunningham-ohio-rally-wouldnt-mind-her-team",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T14:30:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
