@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-10-13T15:50:06.961Z",
+  "updatedAt": "2026-10-13T15:55:05.466Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.086Z"
+      "lastSuccess": "2026-10-13T15:55:05.852Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.389Z"
+      "lastSuccess": "2026-10-13T15:55:05.966Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.106Z"
+      "lastSuccess": "2026-10-13T15:55:05.996Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.533Z"
+      "lastSuccess": "2026-10-13T15:55:06.273Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.214Z"
+      "lastSuccess": "2026-10-13T15:55:05.927Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.311Z"
+      "lastSuccess": "2026-10-13T15:55:06.047Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.148Z"
+      "lastSuccess": "2026-10-13T15:55:05.732Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.329Z"
+      "lastSuccess": "2026-10-13T15:55:06.014Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.040Z"
+      "lastSuccess": "2026-10-13T15:55:05.691Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.385Z"
+      "lastSuccess": "2026-10-13T15:55:05.970Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.424Z"
+      "lastSuccess": "2026-10-13T15:55:06.191Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.250Z"
+      "lastSuccess": "2026-10-13T15:55:06.188Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.229Z"
+      "lastSuccess": "2026-10-13T15:55:06.214Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.393Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T15:55:06.192Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.348Z"
+      "lastSuccess": "2026-10-13T15:55:06.194Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.409Z"
+      "lastSuccess": "2026-10-13T15:55:06.352Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T15:50:07.386Z"
+      "lastErrorAt": "2026-10-13T15:55:06.366Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.599Z"
+      "lastSuccess": "2026-10-13T15:55:06.474Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.433Z"
+      "lastSuccess": "2026-10-13T15:55:06.393Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.428Z"
+      "lastSuccess": "2026-10-13T15:55:06.345Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.283Z"
+      "lastSuccess": "2026-10-13T15:55:06.132Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:07.174Z"
+      "lastSuccess": "2026-10-13T15:55:06.289Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T15:50:09.740Z"
+      "lastSuccess": "2026-10-13T15:55:08.274Z"
     }
   },
   "items": [
+    {
+      "id": "story_e0a9b95ea1f55e39",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Cooper holds 14-point lead in North Carolina Senate race poll",
+      "snippet": "Former North Carolina Gov. Roy Cooper (D) maintained a strong lead in the state’s Senate race in a new poll released Tuesday.  The WRAL/WSOC poll, which was conducted by SurveyUSA, found the Democrat with a 14-point advantage over former Re",
+      "link": "https://thehill.com/homenews/campaign/6145587-roy-cooper-leads-nc-senate-poll/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/MixCollage-02-Mar-2026-08-39-PM-8216.jpg?w=900",
+      "publishedAt": "2026-10-13T15:53:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b7191a784620955b",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Argentina asks international tribunal to halt Falklands oil project",
+      "snippet": "Argentina asked the International Tribunal for the Law of the Sea on Tuesday to order Britain to halt the Sea Lion oil project near the Falkland Islands.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/13/latam-argentina-falklands-oil/1621791906387/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/1621791906387/2026/upi/255ed99a188f9134a84e5a07da28cd57/v1.5/Argentina-asks-international-tribunal-to-halt-Falklands-oil-project.jpg",
+      "publishedAt": "2026-10-13T15:53:07.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_05103e6800d097e5",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Schumer: Republicans heading into midterms with ‘enormous’ financial advantage",
+      "snippet": "Senate Minority Leader Chuck Schumer (D-N.Y.) is warning his Democratic colleagues that Senate Republican candidates have an “enormous” financial advantage heading into the final three weeks before Election Day and could drown Democrats’ ch",
+      "link": "https://thehill.com/homenews/senate/6145580-schumer-warns-republican-spending-tsunami/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/schumerchuck_092426gn02_w.jpg?w=900",
+      "publishedAt": "2026-10-13T15:50:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3e742e71537e6613",
       "source": "Wash Examiner",
@@ -149,6 +189,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8bf4dbf6b31428f1",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Indiana Sports Betting — Best Sportsbooks and Apps | Outkick",
+      "snippet": "Compare the best Indiana sports betting apps, see which sportsbooks are legal in Indiana, and find current welcome offers. Updated October 2026.",
+      "link": "https://www.foxnews.com/outkick-betting/indiana-sports-betting",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T15:46:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7dcbcf72a9a8eb52",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -157,6 +210,19 @@
       "link": "https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-13T15:46:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_34e0083136aa2ab1",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Russia strikes Ukrainian targets despite Trump's energy ceasefire claims",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy says that Russia has struck at least six energy facilities despite President Trump's claims of an \"energy ceasefire.\" CBS News' Aidan Stretch reports.",
+      "link": "https://www.cbsnews.com/video/russia-strikes-ukrainian-targets-despite-trumps-energy-ceasefire-claims/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T15:42:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2627,71 +2693,6 @@
       "link": "https://thehill.com/homenews/campaign/6144766-donald-trump-ohio-rally-heckler/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286067717252-e1791895966146.jpg?w=900",
       "publishedAt": "2026-10-13T12:57:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1792757e60c5c82d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump says he's considering firing Kimberly Guilfoyle, shores up Republican support in Ohio",
-      "snippet": "President Trump traveled to Ohio to rally Republicans ahead of the November midterm elections. Meanwhile, Kimberly Guilfoyle's fate as the U.S. ambassador to Greece may be under fire after a Trump donor claimed she tried to get him to pay o",
-      "link": "https://www.cbsnews.com/video/trump-considers-firing-kimberly-guilfoyle-ohio-rally/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T12:56:26.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_1c84b09c43b48370",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Pro wrestler goes on defense after airport attack rap lyric costs him job at TNA: 'It’s only to entertain'",
-      "snippet": "Max Caster says he won't apologize for his Riyadh rap lyric at TNA Bound for Glory, claiming his intent was entertainment, not to offend anyone.",
-      "link": "https://www.foxnews.com/outkick-sports/pro-wrestler-defense-airport-attack-rap-lyric-costs-job-tna-entertain",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T12:55:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2eb98ecb3e9005f9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "A man falls to his death from a Six Flags roller coaster in Georgia - AP News",
-      "snippet": "A man falls to his death from a Six Flags roller coaster in Georgia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkNtdXlMaTZnbUtyRWxELS1kWDYwRVdpbUozWnRCUWJab2NXRDF2YmxocTY5Wm9BaHp3UDdxVkFoWE9XNEUzWlNXdVJQaTFPbWpJUjlrWEl3a3JtNFBSNGp0SkFfRjJZU2F4cmZBUnRpd2VCeUxGc0FFak5jRjZ2MUd0V3NBdG9xUWtCaHZwbmx5U1ZYeHpma3lLcHQtLTA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T12:54:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_b9ebd9c654480b7a",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "In France, new day of demonstrations against learning conditions, teaching gaps",
-      "snippet": "French students are protesting overcrowded classes and timetables, teacher shortages, and calling for reforms or the abolition of Parcoursup, the university admissions platform. Although school blockades have declined, incidents continue ar",
-      "link": "https://www.france24.com/en/in-france-new-day-of-demonstrations-against-learning-conditions-teaching-gaps",
-      "imageUrl": "https://s.france24.com/media/display/fb968698-c702-11f1-bd0e-77317c09f325/w:1024/p:16x9/EN-20261013-140123-140547-CS.jpg",
-      "publishedAt": "2026-10-13T12:53:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8c564c916c0c4d1c",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "A pioneering Jeddah schoolhouse show reaches Frieze Masters in London 58 years later",
-      "snippet": "In 1968, two female artists hung their paintings in the Dar Al-Tarbia Al-Hadetha school, among the first exhibitions women had ever held in Saudi Arabia.",
-      "link": "https://www.semafor.com/article/10/13/2026/a-pioneering-jeddah-schoolhouse-show-reaches-frieze-masters-in-london-58-years-later",
-      "imageUrl": "https://img.semafor.com/cd5d6b11c748672fb852a14821d1554415f89779-986x1328.jpg",
-      "publishedAt": "2026-10-13T12:51:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
