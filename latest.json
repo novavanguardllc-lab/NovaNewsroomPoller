@@ -1,101 +1,140 @@
 {
-  "updatedAt": "2026-10-13T23:20:06.615Z",
+  "updatedAt": "2026-10-13T23:25:04.953Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.778Z"
+      "lastSuccess": "2026-10-13T23:25:05.276Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.784Z"
+      "lastSuccess": "2026-10-13T23:25:05.069Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.800Z"
+      "lastSuccess": "2026-10-13T23:25:05.112Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.738Z"
+      "lastSuccess": "2026-10-13T23:25:05.229Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.218Z"
+      "lastSuccess": "2026-10-13T23:25:05.491Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.124Z"
+      "lastSuccess": "2026-10-13T23:25:05.538Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.842Z"
+      "lastSuccess": "2026-10-13T23:25:05.356Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.944Z"
+      "lastSuccess": "2026-10-13T23:25:05.436Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.003Z"
+      "lastSuccess": "2026-10-13T23:25:05.386Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.820Z"
+      "lastSuccess": "2026-10-13T23:25:05.114Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.796Z"
+      "lastSuccess": "2026-10-13T23:25:05.077Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.815Z"
+      "lastSuccess": "2026-10-13T23:25:05.429Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.037Z"
+      "lastSuccess": "2026-10-13T23:25:05.375Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.046Z"
+      "lastSuccess": "2026-10-13T23:25:05.446Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.879Z"
+      "lastSuccess": "2026-10-13T23:25:05.306Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.818Z"
+      "lastSuccess": "2026-10-13T23:25:05.247Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.024Z"
+      "lastSuccess": "2026-10-13T23:25:05.509Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:06.985Z"
+      "lastSuccess": "2026-10-13T23:25:05.426Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T23:20:07.019Z"
+      "lastErrorAt": "2026-10-13T23:25:05.511Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.064Z"
+      "lastSuccess": "2026-10-13T23:25:05.656Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.058Z"
+      "lastSuccess": "2026-10-13T23:25:05.551Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.205Z"
+      "lastSuccess": "2026-10-13T23:25:05.629Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T23:20:07.096Z"
+      "lastSuccess": "2026-10-13T23:25:05.562Z"
     }
   },
   "items": [
+    {
+      "id": "story_fe93df9bd157681f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Lung doctor explains Pope Leo's cancer diagnosis, operation",
+      "snippet": "Pope Leo was diagnosed with of lung cancer following a surgical operation on Tuesday, the Vatican said. Dr. Charles Powell, chief of pulmonary, critical care & sleep medicine at Mount Sinai and director of the Mount Sinai Respiratory Instit",
+      "link": "https://www.cbsnews.com/video/lung-doctor-explains-pope-leos-cancer-diagnosis-operation/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T23:16:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
+      "id": "story_ce111b7cf7dd745f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Fact-checking Trump's promises to lower prices",
+      "snippet": "American consumers are facing higher costs for gas and groceries despite promises made by President Trump during his campaign in 2024. CBS News MoneyWatch reporter Megan Cerullo has more.",
+      "link": "https://www.cbsnews.com/video/fact-checking-trumps-promises-to-lower-prices/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T23:14:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_543ee5f9b796f00f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Pentagon pushes hypersonic weapons production as startups slash costs",
+      "snippet": "Dark Eagle missiles could cost over $40 million each, but startups like Castelion aim to produce hypersonic weapons for under $500,000 apiece.",
+      "link": "https://www.foxnews.com/politics/pentagon-pushes-hypersonic-weapons-production-startups-slash-costs",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T23:12:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c2dd3e84ab9aa773",
       "source": "Guardian",
@@ -313,6 +352,19 @@
       "link": "https://www.pbs.org/newshour/show/former-u-s-ambassador-on-saudi-arabias-struggle-to-defend-against-houthi-attacks",
       "imageUrl": null,
       "publishedAt": "2026-10-13T22:45:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c9d6760aa5aaa3ff",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+      "snippet": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+      "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T22:45:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2640,58 +2692,6 @@
       "link": "https://www.nbcnews.com/select/shopping/biossance-squalane-oil-deal-of-the-day-2026-rcna603221",
       "imageUrl": null,
       "publishedAt": "2026-10-13T19:58:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9e3c8d08f7314db7",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
-      "snippet": "Duane “Keffe D” Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on ",
-      "link": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
-      "imageUrl": "https://s.france24.com/media/display/12a4e11e-c73e-11f1-842e-29a2e29ae696/w:1024/p:16x9/2026-10-13T192410Z-1296492245-RC2I2OABAK5S-RTRMADP-3-PEOPLE-TUPAC-MURDER-COURT-SENTENCING.jpg",
-      "publishedAt": "2026-10-13T19:57:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 11
-    },
-    {
-      "id": "story_ec895c200206144f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "CVS to pay $315M settlement over allegations of illegally filling opioid prescriptions",
-      "snippet": "The Justice Department (DOJ) announced Tuesday that CVS Health has agreed to pay $315 million to settle lawsuits alleging the company illegally filled prescriptions for opioids and other controlled substances. The settlement resolves a laws",
-      "link": "https://thehill.com/homenews/6146051-cvs-opioid-settlement-doj/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/12/69496f242c4005.28548718.jpeg?w=900",
-      "publishedAt": "2026-10-13T19:57:28.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_97d988963289c5fb",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Congo's confirmed Ebola cases surpass 9,000 as containment efforts falter",
-      "snippet": "Health workers are alarmed, as many deaths occur outside treatment centers.",
-      "link": "https://www.pbs.org/newshour/health/congos-confirmed-ebola-cases-surpass-9000-as-containment-efforts-falter",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:56:56.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d21837208ccd2c28",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Popular erectile dysfunction pill may deliver additional boost to aging men",
-      "snippet": "Tadalafil boosted muscle precursor cell survival in a lab study, but researchers say the active Cialis ingredient also delayed mature muscle development.",
-      "link": "https://www.foxnews.com/health/popular-erectile-dysfunction-pill-may-deliver-additional-boost-aging-men",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T19:54:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
