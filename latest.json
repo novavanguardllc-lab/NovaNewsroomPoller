@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-13T11:55:05.254Z",
+  "updatedAt": "2026-10-13T12:00:12.229Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.581Z"
+      "lastSuccess": "2026-10-13T12:00:12.306Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.645Z"
+      "lastSuccess": "2026-10-13T12:00:12.552Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.744Z"
+      "lastSuccess": "2026-10-13T12:00:12.425Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.509Z"
+      "lastSuccess": "2026-10-13T12:00:12.785Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.708Z"
+      "lastSuccess": "2026-10-13T12:00:12.497Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.800Z"
+      "lastSuccess": "2026-10-13T12:00:12.412Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.447Z"
+      "lastSuccess": "2026-10-13T12:00:12.433Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.662Z"
+      "lastSuccess": "2026-10-13T12:00:12.524Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.411Z"
+      "lastSuccess": "2026-10-13T12:00:12.325Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.590Z"
+      "lastSuccess": "2026-10-13T12:00:12.528Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.761Z"
+      "lastSuccess": "2026-10-13T12:00:12.721Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.748Z"
+      "lastSuccess": "2026-10-13T12:00:12.504Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.625Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-13T12:00:22.242Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.889Z"
+      "lastSuccess": "2026-10-13T12:00:12.657Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.764Z"
+      "lastSuccess": "2026-10-13T12:00:12.545Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.945Z"
+      "lastSuccess": "2026-10-13T12:00:12.581Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T11:55:05.925Z"
+      "lastErrorAt": "2026-10-13T12:00:12.582Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:06.142Z"
+      "lastSuccess": "2026-10-13T12:00:12.636Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.965Z"
+      "lastSuccess": "2026-10-13T12:00:12.587Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.913Z"
+      "lastSuccess": "2026-10-13T12:00:12.790Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.883Z"
+      "lastSuccess": "2026-10-13T12:00:12.471Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:05.530Z"
+      "lastSuccess": "2026-10-13T12:00:12.748Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T11:55:08.491Z"
+      "lastSuccess": "2026-10-13T12:00:12.654Z"
     }
   },
   "items": [
@@ -199,6 +200,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_4a446b7d02826d74",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Pope Leo departs Vatican ahead of operation to remove nodule",
+      "snippet": "The pontiff said on Sunday he would undergo surgery for a nodule on his lung.",
+      "link": "https://abcnews.com/International/pope-leo-departs-vatican-ahead-operation-remove-nodule/story?id=137216472",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T11:30:47.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_7f12eb726cb07cee",
@@ -1055,6 +1069,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T10:11:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ec20c000d0f15b63",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public - Reuters",
+      "snippet": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T10:10:23.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T07:16:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_66c42f413965ad08",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "'Brutal session' for chip stocks shows AI trade is turning - Reuters",
-      "snippet": "'Brutal session' for chip stocks shows AI trade is turning  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T07:11:02.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bf2fc198035a1a97",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "The return of the prodigal son? Why speculation is rising over Josh Frydenberg’s future",
-      "snippet": "The spectre of a leadership alternative is hardly helpful for Angus Taylor. But would Frydenberg do a better job?\n\nGet our new political email, free app or daily news podcast\n\nA reasonable query for Liberals at this point is: if Josh Fryden",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/13/the-return-of-the-prodigal-son-why-speculation-is-rising-over-josh-frydenbergs-future",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T07:09:49.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
