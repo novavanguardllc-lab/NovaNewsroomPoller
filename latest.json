@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-13T14:10:07.341Z",
+  "updatedAt": "2026-10-13T14:15:07.833Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.604Z"
+      "lastSuccess": "2026-10-13T14:15:07.969Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.711Z"
+      "lastSuccess": "2026-10-13T14:15:08.166Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.726Z"
+      "lastSuccess": "2026-10-13T14:15:08.049Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.678Z"
+      "lastSuccess": "2026-10-13T14:15:08.356Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.820Z"
+      "lastSuccess": "2026-10-13T14:15:08.010Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.765Z"
+      "lastSuccess": "2026-10-13T14:15:08.128Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.619Z"
+      "lastSuccess": "2026-10-13T14:15:08.045Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.702Z"
+      "lastSuccess": "2026-10-13T14:15:08.143Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.698Z"
+      "lastSuccess": "2026-10-13T14:15:08.025Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.117Z"
+      "lastSuccess": "2026-10-13T14:15:08.163Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.863Z"
+      "lastSuccess": "2026-10-13T14:15:08.190Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.907Z"
+      "lastSuccess": "2026-10-13T14:15:08.107Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.841Z"
+      "lastSuccess": "2026-10-13T14:15:08.202Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.865Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-13T14:15:08.185Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.992Z"
+      "lastSuccess": "2026-10-13T14:15:08.171Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.108Z"
+      "lastSuccess": "2026-10-13T14:15:08.214Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T14:10:08.043Z"
+      "lastErrorAt": "2026-10-13T14:15:08.193Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:07.988Z"
+      "lastSuccess": "2026-10-13T14:15:08.309Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.188Z"
+      "lastSuccess": "2026-10-13T14:15:08.234Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.032Z"
+      "lastSuccess": "2026-10-13T14:15:08.226Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.101Z"
+      "lastSuccess": "2026-10-13T14:15:08.098Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.014Z"
+      "lastSuccess": "2026-10-13T14:15:08.344Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T14:10:08.144Z"
+      "lastSuccess": "2026-10-13T14:15:11.279Z"
     }
   },
   "items": [
@@ -108,6 +109,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_953ff4555976c4b7",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Sean 'Diddy' Combs hospitalized with head injury while behind bars: report",
+      "snippet": "Sean \"Diddy\" Combs was reportedly rushed from FCI Fort Dix to a hospital for a head injury, though his team says they are working to confirm details.",
+      "link": "https://www.foxnews.com/entertainment/sean-diddy-combs-hospitalized-head-injury-behind-bars-report",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T14:08:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4200875a3e80f54e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "White House asks Guilfoyle to resign amid mounting scandals",
+      "snippet": "White House press secretary Katie Zacharia said on Tuesday the Trump administration has asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign.  The news comes after President Trump told reporters on Monday that he was considering fir",
+      "link": "https://thehill.com/homenews/administration/6145178-white-house-asks-guilfoyle-resign/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/guilfoylekimberly_070925gn05_w.jpg?w=900",
+      "publishedAt": "2026-10-13T14:07:41.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_cf41e68a2ac30b90",
@@ -227,6 +254,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_00b543ac2ac1c720",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "AFL tells Sportsbet to stop using players in AI generated content",
+      "snippet": "Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’\n\nGet our breaking news email, free app or daily news podcast\n\nTh",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T14:00:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bab6e52f2e6865a4",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Flying foxes in NSW and Victoria face mass starvation amid food shortages",
+      "snippet": "Rescuers respond to surge in callouts for the vulnerable bat species, which usually feeds on blossoms and tree nectar\n\nGet our breaking news email, free app or daily news podcast\n\nFlying foxes are starving en masse across New South Wales an",
+      "link": "https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T14:00:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5397f4d57de6f670",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -236,6 +289,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/cnn_center_atlanta_02022022_AP23132474430312-2.jpg?w=900",
       "publishedAt": "2026-10-13T14:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3a3ae584b1ba5845",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa ahead of operation - Reuters",
+      "snippet": "Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa ahead of operation  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T13:58:56.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1367,6 +1433,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T12:40:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_33032794334229ae",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Tanzania close to finalising $42 billion LNG deal, finance minister says - Reuters",
+      "snippet": "Tanzania close to finalising $42 billion LNG deal, finance minister says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUs4VE1xX2hBcWZzV3k2UDFVNUdpQnN0U0R0NjZKbFcxSi1TaHJmYVgzTElYcWRhaWdwaDRFdXMtSVF0WDBxMkgzTmVVNnZ0MnNSUml3UFhxMGthUUp6WFJ0NzktZGZxdk0tQl92VFlrYkNhcDB1T2V0ckpsVEZqN2xlellWNGFaRDJVTTlnQW9vV3ZvdU9pRUN5a2Q5bDVkX01pTnIyb2pLSUZRcUlQemx3WWtEak1fOXJZ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T12:39:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2614,84 +2693,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
       "imageUrl": null,
       "publishedAt": "2026-10-13T11:00:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_48205d775f4f72ff",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Ian McKellen to star in UK premiere of ‘mixed reality’ play – but not in person",
-      "snippet": "Audiences in Manchester will be asked to wear smart glasses for An Ark, which debuted in New York this year\nIan McKellen will star in a groundbreaking new play that gets its UK premiere in Manchester next spring. But the veteran actor will ",
-      "link": "https://www.theguardian.com/stage/2026/oct/13/mixed-reality-play-an-ark-ian-mckellen-manchester",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T11:00:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e368d20781cc7f38",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Biggest waste of money in your home gym may surprise you, fitness expert says",
-      "snippet": "Fitness coach Jacob Zemer reveals the three home gym essentials — bands, dumbbells and a bench — that let you train every muscle group on a budget.",
-      "link": "https://www.foxnews.com/health/biggest-waste-money-home-gym-may-surprise-fitness-expert-says",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T11:00:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3808c99d46d22982",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump's new press secretary takes the podium after weeks-long White House shake-up and more top headlines",
-      "snippet": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "link": "https://www.foxnews.com/us/trumps-new-press-secretary-takes-podium-after-weeks-long-white-house-shake-up-more-top-headlines",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T11:00:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e6d6dea5158ad7d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Traditional two-parent families vanish from big American cities as 'marriage deserts' expand",
-      "snippet": "A new report from the Institute for Family Studies reveals a 70-point divide in traditional two-parent families, as urban marriage deserts expand across major U.S. cities.",
-      "link": "https://www.foxnews.com/media/traditional-two-parent-families-vanish-big-american-cities-marriage-deserts-expand",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T11:00:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eae76dea26d30cde",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "India’s youth-led Cockroach movement defies protest ban",
-      "snippet": "India’s youth-led Cockroach movement is intensifying protests against Prime Minister Narendra Modi’s government. Three leaders were detained after defying a ban at New Delhi’s Jantar Mantar protest site. Demonstrators are challenging a vote",
-      "link": "https://www.france24.com/en/india-s-youth-led-cockroach-movement-defies-protest-ban",
-      "imageUrl": "https://s.france24.com/media/display/4b962c40-c6f2-11f1-b580-3774aeac812a/w:1024/p:16x9/EN-20261013-120704-120853-CS.jpg",
-      "publishedAt": "2026-10-13T11:00:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_58fc05c41a6ce4a1",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Is a College Degree Even Worth the Money Anymore? | Money Moves with Jill Schlesinger",
-      "snippet": "Is a $400K tuition bill really worth it for four years of partying? In today's episode, Jill and Mark break down how to get the most value out of your college degree, and when it might not be worth the price at all. Plus, caller Michael wan",
-      "link": "https://www.cbsnews.com/video/is-a-college-degree-even-worth-the-money-anymore/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T11:00:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
