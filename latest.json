@@ -1,103 +1,114 @@
 {
-  "updatedAt": "2026-10-13T16:40:07.573Z",
+  "updatedAt": "2026-10-13T16:45:06.912Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.869Z"
+      "lastSuccess": "2026-10-13T16:45:07.016Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.051Z"
+      "lastSuccess": "2026-10-13T16:45:07.077Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.009Z"
+      "lastSuccess": "2026-10-13T16:45:07.053Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.736Z"
+      "lastSuccess": "2026-10-13T16:45:07.480Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.971Z"
+      "lastSuccess": "2026-10-13T16:45:07.046Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.118Z"
+      "lastSuccess": "2026-10-13T16:45:07.066Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.758Z"
+      "lastSuccess": "2026-10-13T16:45:06.999Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.916Z"
+      "lastSuccess": "2026-10-13T16:45:07.057Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.773Z"
+      "lastSuccess": "2026-10-13T16:45:06.996Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 462\nChar: d",
-      "lastErrorAt": "2026-10-13T16:40:08.237Z"
+      "online": true,
+      "lastSuccess": "2026-10-13T16:45:07.033Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.067Z"
+      "lastSuccess": "2026-10-13T16:45:07.092Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.138Z"
+      "lastSuccess": "2026-10-13T16:45:07.135Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.041Z"
+      "lastSuccess": "2026-10-13T16:45:07.102Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-13T16:40:08.069Z"
+      "online": true,
+      "lastSuccess": "2026-10-13T16:45:07.131Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.248Z"
+      "lastSuccess": "2026-10-13T16:45:07.071Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.388Z"
+      "lastSuccess": "2026-10-13T16:45:07.114Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-13T16:40:08.407Z"
+      "lastErrorAt": "2026-10-13T16:45:07.129Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.235Z"
+      "lastSuccess": "2026-10-13T16:45:07.238Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.432Z"
+      "lastSuccess": "2026-10-13T16:45:07.243Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.332Z"
+      "lastSuccess": "2026-10-13T16:45:07.138Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.297Z"
+      "lastSuccess": "2026-10-13T16:45:07.161Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:07.815Z"
+      "lastSuccess": "2026-10-13T16:45:07.029Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-13T16:40:08.474Z"
+      "lastSuccess": "2026-10-13T16:45:09.459Z"
     }
   },
   "items": [
+    {
+      "id": "story_7ae98ff307c40de1",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Trump says Russian diesel deal isn’t for the US: ‘That’s a world deal’",
+      "snippet": "President Donald Trump repeatedly suggested Tuesday that his recently brokered agreement to procure Russian diesel fuel is not meant for the United States, but for the benefit of the global market. On Friday, Trump spoke with Russian Presid",
+      "link": "https://www.washingtonexaminer.com/news/white-house/4764176/trump-says-russian-diesel-deal-not-for-us-world-deal/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T16:40:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_313293156e7fe5bf",
       "source": "CBS News",
@@ -107,6 +118,19 @@
       "link": "https://www.cbsnews.com/news/iran-war-houthis-saudi-arabia-trump-faces-difficult-dilemma/",
       "imageUrl": null,
       "publishedAt": "2026-10-13T16:39:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c75b21d82e745156",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Transgender woman accused of killing man after separate feud over McDonald's bathroom use",
+      "snippet": "A Cook County judge ordered Kelly Day held without bail after prosecutors described the knife attack that left a blade fragment in the victim's skull.",
+      "link": "https://www.foxnews.com/us/transgender-woman-accused-killing-man-feud-mcdonalds-bathroom-use",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T16:37:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -198,6 +222,19 @@
       "link": "https://thehill.com/opinion/technology/6143085-us-losing-global-ai-race/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26008560115201.jpg?w=900",
       "publishedAt": "2026-10-13T16:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_74885cfb260da516",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Police Identify 42-Year Old Man Killed at Six Flags Over Georgia",
+      "snippet": "The police identified the 42-year-old man who died at Six Flags Over Georgia on Monday. The company said it was temporarily closing multiple rides in the U.S. and Canada as a precaution.",
+      "link": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T16:29:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1022,6 +1059,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4e9c23c6ac51be6f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Albanian students protest over education, jobs, clash with police - Reuters",
+      "snippet": "Albanian students protest over education, jobs, clash with police  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXdwS2E5SjA2MzN0QVRVR3BOQ2R0MW9sRmx0YW9rOVVhcVdjX2lsSkhhMXd3UHpqNERBUTJsVzlDMmdueDFKVms5aVdxQ0ZmYjBlRXJvRlBTRkhjTnR2WDdGa3BCbUx2c1p6cVBqTTBEVmFvVWxqdEl1ZEMxcDdaNXBzSi1iSGNqVW1iTURyYW5xeFBXX1ZqbnpxMWh2UzY1TTBFSW5OSHY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T15:25:47.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b71e81ff532484df",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1464,6 +1514,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_b955874348369cb3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "What to cut back and what to leave standing in your garden’s fall cleanup - AP News",
+      "snippet": "What to cut back and what to leave standing in your garden’s fall cleanup  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2lrRTZ1QTQ0bWhuYzhia3d1RjZfb2JPNmxBd2xKR1FXdVJ4MjRXdDJZR1czajZqUWRaRGdkSnliUkV3bnBDeHlNOXpUbzRZam1qREhhWkxILS1VbzNhcDFrNVVWUWh4VDFhbVRKbkxiM2JZMXVzeDBYR0trLUR0OXVhb21UejRjNzJyc0ZwbnA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T14:55:06.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7f6d59c9d0f91621",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -1512,6 +1575,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T14:52:22.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b1adfdb489b1621a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Mexico to approve Viva-Volaris airline merger by end of 2026, sources say - Reuters",
+      "snippet": "EXCLUSIVE: Mexico to approve Viva-Volaris airline merger by end of 2026, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZlNRYkRFS2JUM09ITUQ0eW50a3U0bDNpTmJvM2dwRGVsODNSQlc1ZVhVd1NUOEdXNWx2NC1QelRxN3gyaTVGVWVDM2lOd0FXMFlPWHdTT3hmVVlBNVVYNmdlUWdZZFU1aXdzZHQzeGV6ak9Bb2pQV3hFdktMZ0FNVElYcXdoVmVTTU9ya2lXdnRtSlplWlRHUjI4eGVQaFI5RUtZMmVPYUpQelgyTzhJV0FXX0J0UzZYdnBF?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T14:52:06.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1917,6 +1993,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 12
+    },
+    {
+      "id": "story_5a40ba4d259dca0b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Kimberly Guilfoyle confirms exit as ambassador to Greece as Trump asks her to resign amid flurry of scandals",
+      "snippet": "Kimberly Guilfoyle faces allegations of a $100,000 payment request, diplomatic misconduct and hostile workplace claims at the U.S. Embassy in Greece.",
+      "link": "https://www.foxnews.com/politics/kimberly-guilfoyle-confirms-exit-ambassador-greece-trump-asks-her-resign-amid-flurry-scandals",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T14:23:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_d8dc2b2f12896b85",
@@ -2606,97 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_62a78176c4638f88",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Saudis and Yemen’s Houthi rebels exchange threats to escalate conflict - AP News",
-      "snippet": "Saudis and Yemen’s Houthi rebels exchange threats to escalate conflict  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR002VVo0b3ZvU0RXV3V5TWdvX0Jmc1NiQjBDNjljbTVWbFZnQ1hIUm5WTUNHZFZSNlV4WWoxZVBDNFhwZUEzZF9kVUlla0dZOWstVWZQQnA1TGpqeXI4Y05KbkpOay00U3NLYkZxZ1BHQWQ4ay14eEk3bHlfSzBMVzlrd2tuQ1hyaHoteGZSZ0pyYjdvYjB1QlEtOTR1YVNZZnZTRw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T13:41:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_750ec8bffbf0fa55",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Democrats push back on DHS search of Rep. Ilhan Omar's D.C. home",
-      "snippet": "The search of Minnesota Rep. Ilhan Omar's Washington, D.C., home on Monday is receiving pushback from Democrats and raising questions about its timing. Nicole Sganga reports.",
-      "link": "https://www.cbsnews.com/video/democrats-push-back-on-dhs-search-of-rep-ilhan-omars-dc-home/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T13:40:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_acd127e760234453",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'",
-      "snippet": "Russia hammered Ukrainian cities and transport links overnight into Tuesday, killing at least four people in the city of Kharkiv, while appearing to spare energy facilities for the first time since US President Donald Trump announced an \"en",
-      "link": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire",
-      "imageUrl": "https://s.france24.com/media/display/c325c39e-c704-11f1-8f59-3774aeac812a/w:1024/p:16x9/2026-10-13T090934Z-1644364573-RC282OAZNFIH-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KHARKIV.jpg",
-      "publishedAt": "2026-10-13T13:39:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_08e9cd8042fd50b9",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Stop losing photo quality when you share pictures",
-      "snippet": "iOS 27 finally lets iPhone Shared Albums store photos and videos at full resolution in iCloud, but new items count toward the owner's storage.",
-      "link": "https://www.foxnews.com/tech/stop-losing-photo-quality-share-pictures",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T13:38:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e3ef214c5132c925",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump donor says he’ll sue Guilfoyle, attorneys",
-      "snippet": "The MAGA donor who accused U.S. Ambassador to Greece Kimberly Guilfoyle of pressuring him to wire her $100,000 to pay off her American Express bill said he will be taking legal action against her. “I’m going to be suing those lawyers, that ",
-      "link": "https://thehill.com/homenews/administration/6144835-donald-trump-donor-eric-deters-kimberly-guilfoyle-scandal/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26085732971471-e1791897355920.jpg?w=900",
-      "publishedAt": "2026-10-13T13:38:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b40c5737c792c623",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Supreme Court turns away Kari Lake lawyer’s challenge to sanctions in Arizona voting machine lawsuit",
-      "snippet": "The Supreme Court on Tuesday declined to hear an appeal from a lawyer who was sanctioned while representing former GOP gubernatorial candidate Kari Lake in a 2022 lawsuit challenging Arizona’s use of electronic voting machines. The high cou",
-      "link": "https://thehill.com/regulation/court-battles/6144798-supreme-court-kari-lake-lawyer-andrew-parker-appeal/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/69b9ce116b4468.50183645-e1791896660273.jpeg?w=900",
-      "publishedAt": "2026-10-13T13:38:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_afea64f2c061a4a8",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Pope Leo hospitalized ahead of surgery on lung nodule",
-      "snippet": "Catholics are praying for Pope Leo XIV's health as he prepares for lung surgery. CBS News' Chris Livesay reports.",
-      "link": "https://www.cbsnews.com/video/pope-leo-hospitalized-ahead-of-surgery-on-lung-nodule/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T13:37:34.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
