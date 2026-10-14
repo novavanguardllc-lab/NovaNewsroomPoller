@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-14T07:00:11.802Z",
+  "updatedAt": "2026-10-14T07:05:04.679Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.908Z"
+      "lastSuccess": "2026-10-14T07:05:04.718Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.918Z"
+      "lastSuccess": "2026-10-14T07:05:04.743Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.988Z"
+      "lastSuccess": "2026-10-14T07:05:04.800Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.948Z"
+      "lastSuccess": "2026-10-14T07:05:04.739Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.322Z"
+      "lastSuccess": "2026-10-14T07:05:05.134Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.966Z"
+      "lastSuccess": "2026-10-14T07:05:05.103Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.013Z"
+      "lastSuccess": "2026-10-14T07:05:04.781Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.049Z"
+      "lastSuccess": "2026-10-14T07:05:05.046Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.044Z"
+      "lastSuccess": "2026-10-14T07:05:04.804Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.980Z"
+      "lastSuccess": "2026-10-14T07:05:04.762Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.861Z"
+      "lastSuccess": "2026-10-14T07:05:04.796Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.978Z"
+      "lastSuccess": "2026-10-14T07:05:04.759Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.087Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T07:05:04.804Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.118Z"
+      "lastSuccess": "2026-10-14T07:05:04.787Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.003Z"
+      "lastSuccess": "2026-10-14T07:05:04.847Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:11.982Z"
+      "lastSuccess": "2026-10-14T07:05:04.770Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.066Z"
+      "lastSuccess": "2026-10-14T07:05:04.893Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.038Z"
+      "lastSuccess": "2026-10-14T07:05:04.824Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T07:00:12.056Z"
+      "lastErrorAt": "2026-10-14T07:05:04.881Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.069Z"
+      "lastSuccess": "2026-10-14T07:05:04.887Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.086Z"
+      "lastSuccess": "2026-10-14T07:05:04.928Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.187Z"
+      "lastSuccess": "2026-10-14T07:05:04.879Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T07:00:12.920Z"
+      "lastSuccess": "2026-10-14T07:05:04.910Z"
     }
   },
   "items": [
+    {
+      "id": "story_57f682f19155a711",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Artificial intelligence - AP News",
+      "snippet": "Artificial intelligence  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T07:03:22.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c2d73bc753bcc0e2",
       "source": "DW",
@@ -108,6 +122,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5ee60d2717645389",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits",
+      "snippet": "President Donald Trump announced on Truth Social that experts say Greenland's oil reserves rival almost any land, but details remain unclear.",
+      "link": "https://www.foxnews.com/politics/trump-announces-massive-oil-gas-mineral-exploration-plans-greenland-touts-national-security-benefits",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T06:51:07.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_07f2350861a2b6b5",
@@ -417,6 +444,19 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV09vcW1Xbm92RkxyUlNMM0ZHcnNoTkpEWUdQclBCZVphcjNfUHh4ZVZwc0hJeWVmUVpIdnlGRzJPT3NfYl90ZFdEdWNtYmR4eHVVeVNWdVE5ZG9saEI3UXpONmhfS2pnSHIxNXROWkhoZlk1X1NjNmlqNHBuWWQtTENLZ0tSVl9OaDQ0dXA2d21qSEl6N3dsNmVhbE5xc1lYcXRsbW54U0RVT2pqemd5VzktMzE3OUlROXJQTVhOVzl2ck5yNlR3?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-14T05:15:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9a6403afc4fa81ed",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "‘20 Days in Mariupol’ - AP News",
+      "snippet": "‘20 Days in Mariupol’  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fdEpYLUhDOFZNVWxFTXNYVGdoTU5acUhUWlduUnQ3SXpiblBBX0UzV1FTZ1JjSThtTzhnX2RuNXNUb1NsMFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T05:10:42.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -809,6 +849,19 @@
       "publishedAt": "2026-10-14T04:01:00.000Z",
       "tier": "major",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5adb2f5363190205",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews - AP News",
+      "snippet": "New White House press secretary’s debut: Brief, limited questions and some harsh reviews  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEdlNE9WLXlUSFJzbHBZV3A2OVp2bXZvYzdhYWhldE1nWW5LeFlhTy1nTlRkcExQMWpLdUNLNDVtNzFUTE5Fcm42eHVBalE0V1JqUWhKVGJUQUxFLWFRTU5vSmJURVprdVVYMnpyU1BIWElWMV81UHktZ0c5a2EtNlNkczJnV0ozSHJkTlZFMHY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T04:01:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2641,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T23:37:13.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bdd6b6cdaa75dab7",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trial begins for former Massachusetts officer accused of killing pregnant woman",
-      "snippet": "Testimony began in the trial of a former Massachusetts police officer accused of killing a woman he'd been sleeping with since she was a minor, after she allegedly told him she was pregnant with his child. Tom Hanson reports from Boston.",
-      "link": "https://www.cbsnews.com/video/trial-former-massachusetts-officer-accused-killing-pregnant-woman/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:36:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_477570bca5637feb",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Over $500 million spent on ads during Texas Senate campaign, AdImpact data shows",
-      "snippet": "Hundreds of millions have been spent on the Senate race in Texas as Ken Paxton and James Talarico battle it out with only weeks left before the midterms. CBS News' Kaia Hubbard reports.",
-      "link": "https://www.cbsnews.com/video/over-500-million-spent-on-ads-during-texas-senate-campaign-adimpact-data-shows/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:36:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_47ccdc9761af2a00",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China - AP News",
-      "snippet": "Wyoming grad student who allegedly poisoned a colleague has been arrested fleeing to China  AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWi1hdmw3WXVoZy02ZnhCNmk0NERGSWlTQTBaTUZKM2xMY3hrMTZpXzZQTkR1WERwNFpCa1lZWGx4N3AzelQyR0lKX1pkYlRXcFdsZ1gtQ1drc1dJRjdISnQ1clA0NTN0bk1vM3dhSHJ0RDRTN2JFN3FhTkpOVXRPS3R1ZWZhX2xRVVVad0ZnaVU4Rml1aHlGNk1lWl9HbFRf?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:36:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_689fcf82d86793d3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ohio governor signs order letting state’s colleges allow 2022 athletes a 5th year of eligibility - AP News",
-      "snippet": "Ohio governor signs order letting state’s colleges allow 2022 athletes a 5th year of eligibility  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMm5LWEY5b0NkMFI3M3RnYXJBam1BTWhOMXlYYmlMNk5Fb2FQa19ibVBhc29PbmFoMFMzeFFRYlBHRktTanJ0b3VoMWhKdmJvS01icHdhRW55MW42V080eVV5WG90NEpUQVp6cE14MFVfVFdjT0R6NjM3WGlGQlVvbngtWjVYbVVWV214ZDRrb05rVW1n?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:36:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
