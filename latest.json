@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-14T03:15:07.855Z",
+  "updatedAt": "2026-10-14T03:20:06.851Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:07.980Z"
+      "lastSuccess": "2026-10-14T03:20:06.911Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.023Z"
+      "lastSuccess": "2026-10-14T03:20:06.914Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.040Z"
+      "lastSuccess": "2026-10-14T03:20:06.931Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.056Z"
+      "lastSuccess": "2026-10-14T03:20:06.982Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.327Z"
+      "lastSuccess": "2026-10-14T03:20:07.379Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.009Z"
+      "lastSuccess": "2026-10-14T03:20:07.366Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.125Z"
+      "lastSuccess": "2026-10-14T03:20:06.969Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.172Z"
+      "lastSuccess": "2026-10-14T03:20:06.988Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.083Z"
+      "lastSuccess": "2026-10-14T03:20:07.042Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.071Z"
+      "lastSuccess": "2026-10-14T03:20:07.039Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.025Z"
+      "lastSuccess": "2026-10-14T03:20:06.926Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.090Z"
+      "lastSuccess": "2026-10-14T03:20:07.009Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.141Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T03:20:07.112Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.131Z"
+      "lastSuccess": "2026-10-14T03:20:07.055Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.263Z"
+      "lastSuccess": "2026-10-14T03:20:07.006Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.135Z"
+      "lastSuccess": "2026-10-14T03:20:07.034Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.272Z"
+      "lastSuccess": "2026-10-14T03:20:07.060Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.163Z"
+      "lastSuccess": "2026-10-14T03:20:07.027Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T03:15:08.273Z"
+      "lastErrorAt": "2026-10-14T03:20:07.047Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.175Z"
+      "lastSuccess": "2026-10-14T03:20:07.073Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.307Z"
+      "lastSuccess": "2026-10-14T03:20:07.070Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.212Z"
+      "lastSuccess": "2026-10-14T03:20:07.142Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:15:08.341Z"
+      "lastSuccess": "2026-10-14T03:20:09.349Z"
     }
   },
   "items": [
+    {
+      "id": "story_49ff91406defe43c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Hinson breaks with Trump on Russia diesel deal",
+      "snippet": "Iowa Senate GOP candidate Ashley Hinson said on Tuesday that she didn’t agree with a recent deal President Trump struck with Russia that would import 300,000 tons of diesel to the U.S. and global marketplace, taking issue with the U.S. maki",
+      "link": "https://thehill.com/homenews/campaign/6147090-hinson-opposes-russia-diesel-deal/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/iowa_republicans_09282026getty.jpg?w=900",
+      "publishedAt": "2026-10-14T03:13:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d03bfbbd35dc1c01",
       "source": "Al Jazeera",
@@ -2681,19 +2695,6 @@
       "publishedAt": "2026-10-13T21:48:37.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2c271b70221e83f8",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Brian Flores' lawyer says memo to Raiders before team's coaching search portrayed client as 'angry Black man'",
-      "snippet": "A newly unsealed Korn Ferry memo reveals harsh criticisms of Brian Flores that his lawyers say prove NFL retaliation over his discrimination lawsuit.",
-      "link": "https://www.foxnews.com/outkick-sports/brian-flores-lawyer-says-memo-raiders-coaching-search-portrayed-client-angry-black-man",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T21:46:30.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
