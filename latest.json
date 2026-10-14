@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-14T10:40:07.245Z",
+  "updatedAt": "2026-10-14T10:45:07.264Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.411Z"
+      "lastSuccess": "2026-10-14T10:45:07.889Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.528Z"
+      "lastSuccess": "2026-10-14T10:45:07.431Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.372Z"
+      "lastSuccess": "2026-10-14T10:45:07.385Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.664Z"
+      "lastSuccess": "2026-10-14T10:45:07.452Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:08.109Z"
+      "lastSuccess": "2026-10-14T10:45:07.483Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.389Z"
+      "lastSuccess": "2026-10-14T10:45:07.409Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.596Z"
+      "lastSuccess": "2026-10-14T10:45:07.526Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.535Z"
+      "lastSuccess": "2026-10-14T10:45:07.728Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.482Z"
+      "lastSuccess": "2026-10-14T10:45:07.429Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.525Z"
+      "lastSuccess": "2026-10-14T10:45:07.369Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.642Z"
+      "lastSuccess": "2026-10-14T10:45:07.512Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.645Z"
+      "lastSuccess": "2026-10-14T10:45:07.528Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.671Z"
+      "lastSuccess": "2026-10-14T10:45:07.470Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.686Z"
+      "lastSuccess": "2026-10-14T10:45:07.446Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.748Z"
+      "lastSuccess": "2026-10-14T10:45:07.545Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T10:40:07.701Z"
+      "online": true,
+      "lastSuccess": "2026-10-14T10:45:07.530Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.609Z"
+      "lastSuccess": "2026-10-14T10:45:07.503Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T10:40:07.748Z"
+      "lastErrorAt": "2026-10-14T10:45:07.537Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.730Z"
+      "lastSuccess": "2026-10-14T10:45:07.540Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.648Z"
+      "lastSuccess": "2026-10-14T10:45:07.476Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.776Z"
+      "lastSuccess": "2026-10-14T10:45:07.558Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.771Z"
+      "lastSuccess": "2026-10-14T10:45:07.596Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:40:07.847Z"
+      "lastSuccess": "2026-10-14T10:45:07.585Z"
     }
   },
   "items": [
+    {
+      "id": "story_db6f5a5bed37fb33",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Grad student allegedly poisoned her colleague, tried to flee U.S.",
+      "snippet": "Aili Wang, 32, was arrested at Los Angeles International Airport, where prosecutors allege she sought to return to China.",
+      "link": "https://www.cbsnews.com/news/wyoming-grad-student-poisoned-colleague-arrested-fleeing-us/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T10:43:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dd1ff845d0886410",
       "source": "Fox News",
@@ -666,6 +678,19 @@
       "imageUrl": "https://s.france24.com/media/display/c9a3f6ee-c7b0-11f1-831f-3774aeac812a/w:1024/p:16x9/EN-20261014-101931-102113-CS.jpg",
       "publishedAt": "2026-10-14T09:39:35.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8953f41ba53428df",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Poland's Sikorski asks 'big man' Musk if he is playing politics with Starlink in Ukraine - Reuters",
+      "snippet": "Poland's Sikorski asks 'big man' Musk if he is playing politics with Starlink in Ukraine  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMkplYy1WbldnaVhQUHM3enhiYTNydWFFNnB3T2RfaXZqS01Za3ZOWmRfRjBZdl9ITUhHMEVLWGZCNVFGNWVBRm0zdGZIRy0yR3lJN2ctdUdKbDB3VnJIYm1nNmZNcHN1UlZFN2FOSnRMYTliY1o1LWxqSlVyaUtveE5XX3BIcm50OU1sZWRxTzV2X3R3MDR2TjIyV3RLampGS19nWVdkeHZUVVM0b1FUXzdGU2dTYWt4Rk5wLWRVaFU0M0hZb19PMDkzWHk2dw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:36:49.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-14T05:07:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9fbedd5efa4fd19d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump administration slashes time refugees have to challenge loss of legal status",
-      "snippet": "The Department of Homeland Security reduced the number of days refugees have to challenge their legal status revocation from 30 days to just 10.",
-      "link": "https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T05:05:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_326a662164a57c4f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "How European stocks can weather higher energy prices - Reuters",
-      "snippet": "How European stocks can weather higher energy prices  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2dTRlY0YzluNDlxUXNfLXVRSUtiTGlBOWRncWxlcjFSVXF1OWc5UjdzU1VuOHdKc3hIc0lCcGN0bVFKMTR4SjVLVXhsbkVzcGtnOEk2b3pTc21CZkJTUnFpUUhVM1ZzTTFSM3FoRlNkWEtWaGhuNDU2aFBnc1RMdWhWeWhROHNHa2NyeUd2SEN0TlkwTG9vbXZXV0NlNjZ0aWdFR1JuVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T05:04:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
