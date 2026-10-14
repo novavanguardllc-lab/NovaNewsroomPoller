@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-14T00:55:05.724Z",
+  "updatedAt": "2026-10-14T01:00:11.803Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.145Z"
+      "lastSuccess": "2026-10-14T01:00:11.966Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.009Z"
+      "lastSuccess": "2026-10-14T01:00:11.983Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.066Z"
+      "lastSuccess": "2026-10-14T01:00:12.003Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.451Z"
+      "lastSuccess": "2026-10-14T01:00:12.182Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.750Z"
+      "lastSuccess": "2026-10-14T01:00:12.062Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.645Z"
+      "lastSuccess": "2026-10-14T01:00:12.304Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.428Z"
+      "lastSuccess": "2026-10-14T01:00:12.102Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.466Z"
+      "lastSuccess": "2026-10-14T01:00:12.122Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.703Z"
+      "lastSuccess": "2026-10-14T01:00:12.205Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:05.944Z"
+      "lastSuccess": "2026-10-14T01:00:12.123Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.226Z"
+      "lastSuccess": "2026-10-14T01:00:12.006Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:05.968Z"
+      "lastSuccess": "2026-10-14T01:00:12.187Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T00:55:05.986Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T01:00:12.183Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.184Z"
+      "lastSuccess": "2026-10-14T01:00:12.108Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.043Z"
+      "lastSuccess": "2026-10-14T01:00:12.146Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.208Z"
+      "lastSuccess": "2026-10-14T01:00:12.066Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.685Z"
+      "lastSuccess": "2026-10-14T01:00:12.327Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.604Z"
+      "lastSuccess": "2026-10-14T01:00:12.229Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T00:55:06.687Z"
+      "lastErrorAt": "2026-10-14T01:00:12.286Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.668Z"
+      "lastSuccess": "2026-10-14T01:00:12.557Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.782Z"
+      "lastSuccess": "2026-10-14T01:00:12.323Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:06.388Z"
+      "lastSuccess": "2026-10-14T01:00:12.283Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:55:08.670Z"
+      "lastSuccess": "2026-10-14T01:00:12.519Z"
     }
   },
   "items": [
+    {
+      "id": "story_73b559453d469618",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Micah Parsons says Jayden Daniels 'probably cost' Dan Quinn his Commanders head coach job after Week 5 tie",
+      "snippet": "Micah Parsons claimed Jayden Daniels' overtime sack against the New York Giants probably cost Dan Quinn his Washington Commanders coaching job.",
+      "link": "https://www.foxnews.com/outkick-sports/micah-parsons-says-jayden-daniels-probably-cost-dan-quinn-commanders-head-coach-job-week-5-tie",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T00:51:31.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_99b7879a666a94a3",
       "source": "DW",
@@ -105,6 +119,32 @@
       "link": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-14T00:50:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ebe1760ca3d74bf0",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Attorney says fatal Six Flags roller coaster accident could raise broader safety questions as 9 rides close",
+      "snippet": "A personal injury attorney outlines potential liability as investigators examine the fatal roller coaster accident at Six Flags Over Georgia.",
+      "link": "https://www.foxnews.com/us/attorney-says-fatal-six-flags-roller-coaster-accident-could-raise-broader-safety-questions-9-rides-close",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T00:47:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e53443a6323269ce",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.",
+      "snippet": "On Tuesday, she announced the news of her U.S. citizenship on social media with a video and a photo of herself at the ceremony.",
+      "link": "https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T00:42:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -262,6 +302,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T00:09:06.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8f94303e6cf89759",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Iran shifting tactics to step up attacks on shipping before US vote, officials say - Reuters",
+      "snippet": "Iran shifting tactics to step up attacks on shipping before US vote, officials say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXl4Z2E1ajJabkV2V0d3VVN4TE4xZVdXU0xjY1FwX2QwNzVpSEZ2UUdWY2d2N0w0TEZCXzRFR2oyZ3l4MlZkMER3cDZtOFRMc2p4VzRSWE1OZGdJaHBvRlZieVJ3Unc4bXEyRHFvalF4MEkwTmduUEFtV0lBX3NZS2Q0M2hoSkozeWFNMS02MnF5QmNveXNFNklHVktxYy1RM1BRcHlSVm92aWYzRnJpNTJvVWYtemNjbklpM3Jna2t0bUIweUV6VQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T00:06:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2640,58 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4764655/judge-extends-ban-tree-removals-east-potomac-golf-links/",
       "imageUrl": null,
       "publishedAt": "2026-10-13T20:54:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_47daac416a0fa562",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Dolly Parton’s nephew responds to restraining order, denies threatening violence",
-      "snippet": "Dolly Parton’s nephew denied accusations that he threatened to use violence and destroy his aunt’s legacy, telling the court the messages were taken out of context from a specific business dispute, according to a new court filing.",
-      "link": "https://www.nbcnews.com/news/us-news/dolly-partons-nephew-responds-restraining-order-denies-threatening-vio-rcna603237",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T20:53:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7cce1b0b2f13630b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Duane ‘Keffe D’ Davis sentenced to 40 years after orchestrating Tupac Shakur’s murder",
-      "snippet": "Duane “Keffe D” Davis, an ex-gang leader, was sentenced Tuesday to 40 years to life in prison for orchestrating the murder of rapper Tupac Shakur in 1996. In August, the 63-year-old was found guilty of first-degree murder with use of a dead",
-      "link": "https://www.washingtonexaminer.com/news/crime/4764776/duane-keffe-d-davis-sentenced-40-years-after-orchestrating-tupac-shakur-murder/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T20:51:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 6
-    },
-    {
-      "id": "story_a5d1fefdbee88b67",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The Rise and Fall of Ambassador Kimberly Guilfoyle",
-      "snippet": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T20:50:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e32c79c290ed0ac4",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Georgia Tech captain Kyle Efford announces medical retirement from football: 'Nothing left in the tank'",
-      "snippet": "Kyle Efford led Georgia Tech in tackles three straight seasons before a recurring shoulder injury forced his emotional medical retirement decision.",
-      "link": "https://www.foxnews.com/outkick-sports/georgia-tech-captain-kyle-efford-announces-medical-retirement-football-nothing-left-tank",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T20:48:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
