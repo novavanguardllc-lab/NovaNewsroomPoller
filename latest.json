@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-14T01:15:06.877Z",
+  "updatedAt": "2026-10-14T01:20:06.868Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:06.980Z"
+      "lastSuccess": "2026-10-14T01:20:06.983Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.003Z"
+      "lastSuccess": "2026-10-14T01:20:06.999Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.036Z"
+      "lastSuccess": "2026-10-14T01:20:07.101Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.101Z"
+      "lastSuccess": "2026-10-14T01:20:07.076Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.403Z"
+      "lastSuccess": "2026-10-14T01:20:07.095Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.394Z"
+      "lastSuccess": "2026-10-14T01:20:07.339Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.137Z"
+      "lastSuccess": "2026-10-14T01:20:07.211Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.171Z"
+      "lastSuccess": "2026-10-14T01:20:07.234Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.077Z"
+      "lastSuccess": "2026-10-14T01:20:07.116Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:06.996Z"
+      "lastSuccess": "2026-10-14T01:20:07.136Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.027Z"
+      "lastSuccess": "2026-10-14T01:20:07.134Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.165Z"
+      "lastSuccess": "2026-10-14T01:20:07.155Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.139Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T01:20:07.212Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.158Z"
+      "lastSuccess": "2026-10-14T01:20:07.215Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.065Z"
+      "lastSuccess": "2026-10-14T01:20:07.182Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.041Z"
+      "lastSuccess": "2026-10-14T01:20:07.158Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.209Z"
+      "lastSuccess": "2026-10-14T01:20:07.278Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.189Z"
+      "lastSuccess": "2026-10-14T01:20:07.202Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T01:15:07.244Z"
+      "lastErrorAt": "2026-10-14T01:20:07.237Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.194Z"
+      "lastSuccess": "2026-10-14T01:20:07.241Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.217Z"
+      "lastSuccess": "2026-10-14T01:20:07.285Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.362Z"
+      "lastSuccess": "2026-10-14T01:20:07.320Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T01:15:07.757Z"
+      "lastSuccess": "2026-10-14T01:20:07.813Z"
     }
   },
   "items": [
@@ -144,6 +145,19 @@
       "link": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300",
       "imageUrl": null,
       "publishedAt": "2026-10-14T01:08:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_43f8f77f12bfa502",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Russia detains Japanese journalist, accusing him of alleged spying",
+      "snippet": "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences\nRussia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of espionage, ",
+      "link": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T01:05:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2679,19 +2693,6 @@
       "link": "https://www.pbs.org/newshour/nation/cvs-agrees-to-pay-315-million-to-settle-justice-department-case-over-opioid-prescriptions",
       "imageUrl": null,
       "publishedAt": "2026-10-13T21:02:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c36bd908d9c62afc",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Massive fire destroys 400-year-old food market, leaving historic landmark in ruins",
-      "snippet": "Flames tore through the Enfants Rouges market in Paris, destroying about 20 vendor stalls inside the historic market founded in 1615. It was the city's oldest covered food market.",
-      "link": "https://www.foxnews.com/food-drink/massive-fire-destroys-400-year-old-food-market-leaving-historic-landmark-ruins",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T21:01:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
