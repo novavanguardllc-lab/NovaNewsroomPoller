@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-14T06:20:07.455Z",
+  "updatedAt": "2026-10-14T06:25:05.719Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.512Z"
+      "lastSuccess": "2026-10-14T06:25:06.054Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.551Z"
+      "lastSuccess": "2026-10-14T06:25:05.884Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.590Z"
+      "lastSuccess": "2026-10-14T06:25:05.912Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.585Z"
+      "lastSuccess": "2026-10-14T06:25:06.016Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.905Z"
+      "lastSuccess": "2026-10-14T06:25:06.332Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.921Z"
+      "lastSuccess": "2026-10-14T06:25:06.357Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.643Z"
+      "lastSuccess": "2026-10-14T06:25:06.130Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.646Z"
+      "lastSuccess": "2026-10-14T06:25:06.236Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.607Z"
+      "lastSuccess": "2026-10-14T06:25:06.278Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.608Z"
+      "lastSuccess": "2026-10-14T06:25:05.930Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.553Z"
+      "lastSuccess": "2026-10-14T06:25:05.918Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.611Z"
+      "lastSuccess": "2026-10-14T06:25:05.938Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.648Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T06:25:06.279Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.624Z"
+      "lastSuccess": "2026-10-14T06:25:06.270Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.691Z"
+      "lastSuccess": "2026-10-14T06:25:06.079Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.629Z"
+      "lastSuccess": "2026-10-14T06:25:06.137Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.724Z"
+      "lastSuccess": "2026-10-14T06:25:06.469Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.686Z"
+      "lastSuccess": "2026-10-14T06:25:06.193Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T06:20:07.715Z"
+      "lastErrorAt": "2026-10-14T06:25:06.471Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.714Z"
+      "lastSuccess": "2026-10-14T06:25:06.292Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.770Z"
+      "lastSuccess": "2026-10-14T06:25:06.500Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.711Z"
+      "lastSuccess": "2026-10-14T06:25:06.429Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:20:07.777Z"
+      "lastSuccess": "2026-10-14T06:25:06.560Z"
     }
   },
   "items": [
+    {
+      "id": "story_179f88b3d94b58a1",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "🔴Ukraine live: Russia's 'targeted' strikes on energy leave 600,000 without power, Zelensky says",
+      "snippet": "",
+      "link": "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T06:23:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c81935944d5449a3",
       "source": "Guardian",
@@ -448,12 +462,38 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fc6ac96257ea0825",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines - AP News",
+      "snippet": "A former Ukrainian officer goes on trial over sabotage of Nord Stream pipelines  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFd4alBxQTNPSWhQYTktTjNnTk85eHczNVZWSzZaakZNM3JVaUtETVB3dERtckVlYWJzOE1yRDdEX1VDSllUbHFVTURiQzNpS2dUMlVRZlFwU0hJamdIbXhYWjNpWldmNDBzSjd0cnVVUTFreFllQ01DNUlJMjVTeXJDUGozUkRhd1pkMERkNGR4cHR0T1g1bUhwTms3ekplbEhDZHdPVkRqRkEtNlVVSkZfbkVRQllHd1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T04:15:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_79f568ea165e6bb7",
       "source": "AP",
       "sourceColor": "#2A8F89",
       "headline": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections - AP News",
       "snippet": "House Democrats plan a first 100-days agenda if they sweep to power in midterm elections  AP News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMF9PdUhBMkM5MkF2Vmh0QzVvNWx5LWdXV3VZaWF1ZllSc2Rjdk5zZm1wN0EyWnRwNkN3R2dIYmdFLUU3Q0NrY2NFQWkxZkk0aUx5blU4RksyNlJpSVRiaWUwUVNnY1FZQTl3NVRwQngtMFYzNm5nOThQWktfYWc4MmZjRE82eFhoSEZyYXVFaUJrZ2xVNkZIWlFmZl80ajRLNl8xOG9SWWpBZFhpNTZFVmRB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T04:14:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b758301969ba855b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says - Reuters",
+      "snippet": "Russian strikes kill one, hit energy facilities in Kyiv, mayor says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZV80UGpIZ2JaYk1HTDl1MzRSc2NJT29IRDAtcm5sQXpSMzJPVXJSOXRHMG9XaEdDV0szVHZmSTZCTlVUNzJseDhrSXdBaFItbEtMdmN0Rm5WTlNtYVF6MEVuV1ltVjBQcmtKeWRTODBXbUtRSnZkVXRETDB1bklNeFliTTZ0TFBJWEs3UXJJVkZpRVRRMkZNVHcwTS02RDJkTkpuNlpQMA?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-14T04:14:00.000Z",
       "tier": "major",
@@ -2653,45 +2693,6 @@
       "link": "https://www.foxnews.com/politics/pentagon-pushes-hypersonic-weapons-production-startups-slash-costs",
       "imageUrl": null,
       "publishedAt": "2026-10-13T23:12:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c2dd3e84ab9aa773",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Fostering in crisis: can flexible care models fix England’s child placement shortfall?",
-      "snippet": "New recruitment campaign to target adults in their 30s and 40s in bid to create 10,000 new foster care places \nViennetta Basterfield, 67, spent two decades fostering more than 100 children in her west London home before she and her husband ",
-      "link": "https://www.theguardian.com/society/2026/oct/14/fostering-in-crisis-can-flexible-care-models-fix-englands-child-placement-shortfall",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:01:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f8f2e025e9279a77",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
-      "snippet": "Former investor alleges BitMEX sold products in UK despite not being regulated by Financial Conduct Authority\nA cryptocurrency exchange founded by the billionaire Reform UK donor Ben Delo is being sued for £20m over claims that the company ",
-      "link": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:01:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e233a1dfdb078bf6",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Stop making sense: focus on sounds to help learn a language, study suggests",
-      "snippet": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech sounds\nIf you want to get really good at French, Arabic or Hungarian, don’t start with rote learning vocabulary and grammar, focus on how t",
-      "link": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:01:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
