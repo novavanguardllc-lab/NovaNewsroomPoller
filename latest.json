@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-14T06:25:05.719Z",
+  "updatedAt": "2026-10-14T06:30:10.370Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.054Z"
+      "lastSuccess": "2026-10-14T06:30:10.475Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:05.884Z"
+      "lastSuccess": "2026-10-14T06:30:10.494Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:05.912Z"
+      "lastSuccess": "2026-10-14T06:30:10.556Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.016Z"
+      "lastSuccess": "2026-10-14T06:30:10.540Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.332Z"
+      "lastSuccess": "2026-10-14T06:30:10.896Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.357Z"
+      "lastSuccess": "2026-10-14T06:30:10.884Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.130Z"
+      "lastSuccess": "2026-10-14T06:30:10.650Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.236Z"
+      "lastSuccess": "2026-10-14T06:30:10.737Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.278Z"
+      "lastSuccess": "2026-10-14T06:30:10.580Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:05.930Z"
+      "lastSuccess": "2026-10-14T06:30:10.593Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:05.918Z"
+      "lastSuccess": "2026-10-14T06:30:10.551Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:05.938Z"
+      "lastSuccess": "2026-10-14T06:30:10.597Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T06:25:06.279Z"
+      "lastErrorAt": "2026-10-14T06:30:10.610Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.270Z"
+      "lastSuccess": "2026-10-14T06:30:10.680Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.079Z"
+      "lastSuccess": "2026-10-14T06:30:10.672Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.137Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-14T06:30:10.615Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.469Z"
+      "lastSuccess": "2026-10-14T06:30:10.763Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.193Z"
+      "lastSuccess": "2026-10-14T06:30:10.731Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T06:25:06.471Z"
+      "lastErrorAt": "2026-10-14T06:30:10.739Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.292Z"
+      "lastSuccess": "2026-10-14T06:30:10.693Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.500Z"
+      "lastSuccess": "2026-10-14T06:30:10.874Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.429Z"
+      "lastSuccess": "2026-10-14T06:30:10.858Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T06:25:06.560Z"
+      "lastSuccess": "2026-10-14T06:30:11.617Z"
     }
   },
   "items": [
@@ -108,6 +109,19 @@
       "publishedAt": "2026-10-14T06:23:02.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1fe7b49b911dcd13",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " More expensive gas, semiconductors likely pushed up inflation last month",
+      "snippet": "Inflation likely worsened in September in one of the last price reports the government will issue before the midterm elections that have been heavily defined by concerns over affordability",
+      "link": "https://abcnews.com/Business/wireStory/expensive-gas-semiconductors-pushed-inflation-month-137248168",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T06:22:40.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -289,6 +303,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T05:07:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9e60e6ff9a0f251f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "ASML will be unable to meet AI-driven customer demand in 2027, 2028 - Reuters",
+      "snippet": "ASML will be unable to meet AI-driven customer demand in 2027, 2028  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZsa19tQTZzTmpjeDVDenFPTGdxSTJVS1k5bTNrakxDWEtUelY1SWlDdnhNZDVoUmY1dkhoWXdJMWQtS1pjR3drMndqc0kxT00zVkM1bUIyRXM3X011cGhMaUNvbXdtUzVaNUhWWEMzOEN5Q0luZEQ3MzE5M2J2N2h3Mko4eUg3NkZJY2pBbG03UzRwVGs5MVl4dWxWbjNJeVN0OA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T05:07:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -835,6 +862,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T03:23:08.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c735077890cada2b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "ECB's Lagarde says solution to French debt woes is at home - Reuters",
+      "snippet": "ECB's Lagarde says solution to French debt woes is at home  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMEJ0NHFvYk1XVi1ZRzBuRGUxMDA1czZ1SjNXYTE3OHZSWmV2ak9ZajNJamlmODVYd2w1QWMyTmppSVpHOGs1allzSS1QV2JwaHlkeVdtZ0tBU0R0ODhjOWV4a1F1Sktlel81aHYyNDA0VlhqLUJrdk1fV1J2S1VHRTR1ZW1rcF9nR2JUajZKanY0UWRfZkp5Zlp3SjBXSkhkSHpVMy1tSQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T03:22:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2657,45 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 5
-    },
-    {
-      "id": "story_ce111b7cf7dd745f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Fact-checking Trump's promises to lower prices",
-      "snippet": "American consumers are facing higher costs for gas and groceries despite promises made by President Trump during his campaign in 2024. CBS News MoneyWatch reporter Megan Cerullo has more.",
-      "link": "https://www.cbsnews.com/video/fact-checking-trumps-promises-to-lower-prices/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:14:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c79d0a343540c0aa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Russian missile attack on Kyiv kills two, Zelenskiy says no warning received - Reuters",
-      "snippet": "Russian missile attack on Kyiv kills two, Zelenskiy says no warning received  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW5OV0ZHelpkMDB3VlZCUGVNYl9KRExhWmNZakJjMUxsMzg0dHFOZXJtenRzQXpGUXdydDNYdHZ2d05Tc2RmZXdSeFZMeGJZSkgzUVYyMmdzSGZYWVY5NUJfOFU2RFBMQTlzRmNCZElNbnlaQVN5UU5qMVBaR2VjX0xCWHRCZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:13:39.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_543ee5f9b796f00f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Pentagon pushes hypersonic weapons production as startups slash costs",
-      "snippet": "Dark Eagle missiles could cost over $40 million each, but startups like Castelion aim to produce hypersonic weapons for under $500,000 apiece.",
-      "link": "https://www.foxnews.com/politics/pentagon-pushes-hypersonic-weapons-production-startups-slash-costs",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T23:12:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
