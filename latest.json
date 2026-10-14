@@ -1,102 +1,140 @@
 {
-  "updatedAt": "2026-10-14T08:45:08.037Z",
+  "updatedAt": "2026-10-14T08:50:07.154Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.517Z"
+      "lastSuccess": "2026-10-14T08:50:07.625Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.208Z"
+      "lastSuccess": "2026-10-14T08:50:07.216Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.255Z"
+      "lastSuccess": "2026-10-14T08:50:07.200Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.349Z"
+      "lastSuccess": "2026-10-14T08:50:07.235Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.310Z"
+      "lastSuccess": "2026-10-14T08:50:07.264Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.267Z"
+      "lastSuccess": "2026-10-14T08:50:07.285Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.345Z"
+      "lastSuccess": "2026-10-14T08:50:07.282Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.250Z"
+      "lastSuccess": "2026-10-14T08:50:07.587Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.127Z"
+      "lastSuccess": "2026-10-14T08:50:07.196Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.199Z"
+      "lastSuccess": "2026-10-14T08:50:07.214Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.367Z"
+      "lastSuccess": "2026-10-14T08:50:07.254Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.354Z"
+      "lastSuccess": "2026-10-14T08:50:07.289Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.305Z"
+      "lastSuccess": "2026-10-14T08:50:07.256Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.371Z"
+      "lastSuccess": "2026-10-14T08:50:07.312Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.384Z"
+      "lastSuccess": "2026-10-14T08:50:07.389Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T08:45:08.369Z"
+      "online": true,
+      "lastSuccess": "2026-10-14T08:50:07.370Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.394Z"
+      "lastSuccess": "2026-10-14T08:50:07.347Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T08:45:08.395Z"
+      "lastErrorAt": "2026-10-14T08:50:07.390Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.410Z"
+      "lastSuccess": "2026-10-14T08:50:07.310Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.376Z"
+      "lastSuccess": "2026-10-14T08:50:07.300Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.426Z"
+      "lastSuccess": "2026-10-14T08:50:07.455Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:10.401Z"
+      "lastSuccess": "2026-10-14T08:50:07.384Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T08:45:08.459Z"
+      "lastSuccess": "2026-10-14T08:50:07.433Z"
     }
   },
   "items": [
+    {
+      "id": "story_208f7b5f7c1a7e83",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "In private, top Republicans believe the House is a lost cause",
+      "snippet": "Republican groups are trying to limit their losses. But few in the party believe they have a good shot at keeping control of Congress.",
+      "link": "https://www.politico.com/news/2026/10/14/house-republicans-private-lost-cause-01117673",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T08:45:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2c19126466f9ea71",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Pope Leo has lung cancer, the Vatican says",
+      "snippet": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6000650/pope-leo-has-lung-cancer-the-vatican-says",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T08:43:10.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_51a4a280c3f7d8c9",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
+      "snippet": "Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to Instagram\nJoni Mitchell has become a US citizen, after first moving to the country in the mid-1960s. The Canada-born singer-songwriter, 82, posted footage of her ci",
+      "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T08:39:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7fd0b81af4643388",
       "source": "Guardian",
@@ -171,6 +209,19 @@
       "link": "https://www.theguardian.com/australia-news/2026/oct/14/child-safety-officer-incorrectly-assessed-elizabeth-struhs-as-safe-a-day-after-she-was-admitted-to-hospital-in-a-coma-ntwnfb",
       "imageUrl": null,
       "publishedAt": "2026-10-14T08:08:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d96a844684333c93",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+      "snippet": "Outage of terminals managed by Elon Musk’s SpaceX comes as Russia launches ballistic missiles at Ukraine without any advance warning from US\nUkrainian soldiers in combat have suddenly had their access to Starlink satellite internet terminal",
+      "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T08:05:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -629,6 +680,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_bbec8288459994a2",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Trump says 'massive' oil, gas and mineral exploration will begin in Greenland",
+      "snippet": "Donald Trump says that preparations are underway to launch a \"massive\" oil, gas ‌and mineral exploration in Greenland.",
+      "link": "https://news.sky.com/story/trump-announces-that-massive-oil-gas-and-mineral-exploration-will-begin-in-greenland-13599119",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-donald-trump-us_7376561.jpg?20261014083017",
+      "publishedAt": "2026-10-14T06:33:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_abed68806a0e2657",
@@ -2629,71 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T01:27:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_137116eb2ca9e0e7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "French AI CEO warns Americans against voting Democrat saying 'you don't want to be France'",
-      "snippet": "Brivael Le Pogam's viral post warned Americans against voting Democrat, saying France's decades of progressive spending led to crushing debt and decline.",
-      "link": "https://www.foxnews.com/media/french-ai-ceo-warns-americans-voting-democrat-saying-dont-want-be-france",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:23:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_544721b835f43098",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Hochul and Blakeman in Heated Debate on Trump, Mamdani and High Prices",
-      "snippet": "The two contenders for governor of New York clashed over issues that include data centers and immigration in a debate that reflected the contentious nature of their contest.",
-      "link": "https://www.nytimes.com/2026/10/13/nyregion/new-york-governor-debate-hochul-blakeman.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:21:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ae0198b812947bb",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Rare fossil of T. rex cousin goes on display in New York before heading to auction - AP News",
-      "snippet": "Rare fossil of T. rex cousin goes on display in New York before heading to auction  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlRuR0FfSVkyaXktWXI0MlZDQkdtejdYWk4tdXNZYTMzNEhUbm5hdXhpMThzbi1HdHFuMXlNOHF4ZFBkUmZia3F2TzlrTkR3ZGoxVUZWa2E4VnZiek45aHdwVGQ5MDRIZ2J0TFowbkRkcktUSldzNEV0T1VwUXh1b0xCUnJFRkNkemxzbDB5U0tQaVFfbEtFc2JvbXgwYWFTNGF1NzdoVHM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:20:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b68775161625e1f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Dollar languishes as focus turns to CPI, Fed speakers - Reuters",
-      "snippet": "Dollar languishes as focus turns to CPI, Fed speakers  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTlXdFl1T0lRV3lDTk1HeDB5eEoyUkhIUERBWi02S1ZRU2tGX0hyQk9GdThWZUNUUFBKcUxqNEd1WkU4WFpyUHV6ZmU4VXl3MWRBSjN5UWM2WjVmbDl6RGhYYzV3SF8yTGwtTGJWTTR2OHN4LVVvVzlpTGs0RkFPX2dQWmNZTUF2MVFRMU5fWXZjbjlxd2NISDgyckdMQ3lYYTZv?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:18:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c8982ff46bda42e3",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Tyreek Hill found liable on two battery counts in divorce battery case, must pay Lakeeta Vaccaro $500,000",
-      "snippet": "A Miami-Dade County jury found Tyreek Hill liable on two counts of battery against Lakeeta Vaccaro, awarding her $500,000 in compensatory damages.",
-      "link": "https://www.foxnews.com/outkick-sports/tyreek-hill-found-liable-two-battery-counts-divorce-battery-case-must-pay-lakeeta-vaccaro-500000",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:18:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
