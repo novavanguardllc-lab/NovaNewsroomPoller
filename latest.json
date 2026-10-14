@@ -1,102 +1,245 @@
 {
-  "updatedAt": "2026-10-14T09:00:12.306Z",
+  "updatedAt": "2026-10-14T09:05:05.195Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.431Z"
+      "lastSuccess": "2026-10-14T09:05:05.677Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.590Z"
+      "lastSuccess": "2026-10-14T09:05:05.289Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.446Z"
+      "lastSuccess": "2026-10-14T09:05:05.260Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.466Z"
+      "lastSuccess": "2026-10-14T09:05:05.287Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.478Z"
+      "lastSuccess": "2026-10-14T09:05:05.344Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.444Z"
+      "lastSuccess": "2026-10-14T09:05:05.294Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.531Z"
+      "lastSuccess": "2026-10-14T09:05:05.340Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.439Z"
+      "lastSuccess": "2026-10-14T09:05:05.667Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.352Z"
+      "lastSuccess": "2026-10-14T09:05:05.245Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.401Z"
+      "lastSuccess": "2026-10-14T09:05:05.257Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.514Z"
+      "lastSuccess": "2026-10-14T09:05:05.273Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.484Z"
+      "lastSuccess": "2026-10-14T09:05:05.425Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.468Z"
+      "lastSuccess": "2026-10-14T09:05:05.285Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.464Z"
+      "lastSuccess": "2026-10-14T09:05:05.322Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.541Z"
+      "lastSuccess": "2026-10-14T09:05:05.412Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T09:00:12.480Z"
+      "lastErrorAt": "2026-10-14T09:05:05.341Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.501Z"
+      "lastSuccess": "2026-10-14T09:05:05.305Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T09:00:12.489Z"
+      "lastErrorAt": "2026-10-14T09:05:05.341Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.585Z"
+      "lastSuccess": "2026-10-14T09:05:05.354Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.475Z"
+      "lastSuccess": "2026-10-14T09:05:05.319Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.604Z"
+      "lastSuccess": "2026-10-14T09:05:05.464Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.626Z"
+      "lastSuccess": "2026-10-14T09:05:05.373Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:00:12.577Z"
+      "lastSuccess": "2026-10-14T09:05:05.406Z"
     }
   },
   "items": [
+    {
+      "id": "story_259de384ea6a8b8c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Fraudsters robbed America's Main Street. Republicans are making them pay",
+      "snippet": "The SBA suspended 870,000 borrowers linked to an estimated $39 billion in suspected pandemic loan fraud, the largest action in agency history.",
+      "link": "https://www.foxnews.com/opinion/fraudsters-robbed-americas-main-street-republicans-making-them-pay",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_795a271f72070d3d",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
+      "snippet": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c4631de94171982e",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "The skincare sample is free. What happens next can cost thousands",
+      "snippet": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them.",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f33535c582807b1e",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Civil rights advocates plan to send thousands of observers to midterm polling places",
+      "snippet": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year.",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5b5e3cda67d8e54e",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
+      "snippet": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S..",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_07215a3c9c3d2c78",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "In Kansas, a newly-competitive Senate race tests limit of Trump's unpopular policies",
+      "snippet": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dfa8bc6b5dedbeb5",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "From Obama to el Sayed",
+      "snippet": "Abolishing Immigration and Customs Enforcement, imposing Medicare for All, and disarming Israel used to be policy positions confined to the fringe of the Democratic Party. Not anymore. Former President Barack Obama appeared in an ad support",
+      "link": "https://www.washingtonexaminer.com/opinion/4763899/obama-abdul-el-sayed-policies-2026-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_14ca74521e507916",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Rampant terrorism ties run through transnational pro-Palestinian protest group",
+      "snippet": "A London group behind global protests against what it alleges is genocide by Israel has several leaders with a history of documented connections to terrorists, a Washington Examiner investigation found. Global Alliance for Palestine made he",
+      "link": "https://www.washingtonexaminer.com/news/investigations/4764000/terrorism-ties-transnational-pro-palestinian-protest-group/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_93466fd8aed59ce1",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Republicans in trouble go all in on Trump support",
+      "snippet": "Some Republican candidates in some of the toughest battleground races this midterm election cycle are defiantly sticking with President Donald Trump. Many of them are in dire straits, with polls show them trailing their Democratic opponents",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4763960/struggling-republicans-trump-rallies/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a1e2df8284cad33f",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Inside Scoop: Blue wave or blue mirage? AOC’s 2028 opening, China’s bad company",
+      "snippet": "Jim Antle, the magazine’s executive editor, brings to life the pages of the Washington Examiner’s magazine in the show Inside Scoop. Each episode features exclusive insight from the article authors and expert analysis. Blue wave or blue mir",
+      "link": "https://www.washingtonexaminer.com/videos/4764728/inside-scoop-jim-antle-rural-voters-blue-wave-aoc-2028-china-bad-company/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7129039b71518a1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T08:59:31.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b5ecaee53a463187",
       "source": "Al Jazeera",
@@ -1684,6 +1827,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9cbb01d441c82cb6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Asian shares trade mixed after US stocks edge back from their record after profit reports - AP News",
+      "snippet": "Asian shares trade mixed after US stocks edge back from their record after profit reports  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0pMamlGY0kzT3haV2dhdGc2UlQwNVo5dS11TzZNNFJlcEZhb0dmNWJRZE95aXY0N3FUc3I4SlNqVC1tVjlOcWswTHJqREI4OHFNWnpScU94UGk5ajJUMkZyRVlNLWZsWFhad2ptaHlrcnBEckN5ekxIZ21PLXhKbmg0aFY2b0UzZm5xTG95ZnhMVUE1WTVEQU1yWWdOaVlfZzlFUkJMSi1pbTl3UFR1Qk9B?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T04:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5adb2f5363190205",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2537,162 +2693,6 @@
       "link": "https://www.nbcnews.com/video/trump-pardons-two-vehicle-repair-shop-owners-during-alaska-rally-271538245765",
       "imageUrl": null,
       "publishedAt": "2026-10-14T01:56:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6380d3e7bcc8f07b",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Ossoff says \"zero interest in running for president\" in Georgia debate",
-      "snippet": "Sen. Jon Ossoff and Republican challenger Mike Collins traded attacks over the 2020 election and alleged connections to white nationalists. Ossoff also pushed back on speculation that he could run for president in 2028.",
-      "link": "https://www.cbsnews.com/news/ossoff-collins-georgia-senate-debate-election-epstein-files-tariffs/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:56:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43df7c49670ea789",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
-      "snippet": "Protesters in Pakistan’s Khyber Pakhtunkhwa province clashed with police over emergency and governor’s rule.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:56:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bb4df94d68c99b13",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis - AP News",
-      "snippet": "In first visit to Ceuta, Spain’s king asks for ‘good faith’ from Morocco after migration crisis  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmozWmNldTJoa3Z6M3BpUW9QQU1BcUR1c3pVdWtfdVpXckJkUW9VMGtOYjRJdENTUnZuam80MU1MY1JEVkdubkZlRXBGQkJTMXFiMkgxeEtUbFdBY1dNNE9GNVk3SGpSRTBqOXZfdWhES2l2aGJ6aFNCT25jRThLSlExbXFadzVGQkVYTW9XRUNxOGIy?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:55:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0e9212d7cca67d26",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
-      "snippet": "Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:54:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_75fa6eb84ca6f0f8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Asia shares inch up as chip selloff eases; US CPI awaited - Reuters",
-      "snippet": "Asia shares inch up as chip selloff eases; US CPI awaited  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:53:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3d665696730742c7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million - Reuters",
-      "snippet": "SK Group Chairman Chey sells stake to Dell family office fund for $406 million  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOGFIUWI0bWFISjVDdzZTbHBXTklRMy1TTUlLTmlpcTFuZU1MOUFIUlBNSG5MZXlvWTlEUWFWdE13SGhJZ3o5eDRMTnNveEhJUnVJTWtaQVA0QkhPeE9INi1uWUx4R0FtenI3S2ZKT2ZWRGVrcWYzQk0yamJSeHVWbU44VHZHSW5ldThnNEFEUG1vQUxoaE5HZWp1Mm1PczY2a1poenF5aHZQdlloT1haeEhOaGhXVUJpdFVObFFNR0E0Q2s?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:53:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a5d1fefdbee88b67",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
-      "snippet": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:49:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cec24bd44c32bcf2",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.",
-      "snippet": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
-      "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:49:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a0d1ed9ef263587d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat",
-      "snippet": "The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.",
-      "link": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:49:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_470eb18707596c45",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Who’s in charge when the pope is unconscious and unable to govern? The pope - AP News",
-      "snippet": "Who’s in charge when the pope is unconscious and unable to govern? The pope  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlFiQkdFQkJMRWFmU29lbGprd3N1bW15Vm5WR3hkanRRT1dfT2Rmb2Z4c2dBN0JsZTRxV0RVbjQtZ1lWYXNPLTAwRmg0b0JkeG9QU24zOG5IaUQ3NjViNnViQS1YVXgxZklNcEdybFctaS1lUDhuUnFqS1A2Yjc3NHB6am44YndZSUV4aDZwOElicFo0VTEyREF4OXpfWmVTVzBn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:49:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bac254040307cc3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv - AP News",
-      "snippet": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkZsTE1wTW5KVUZmUUJ3MFhPTEdiajVmTWR3UUt6eU9uSWpHWlNmdDVpTUhSa1BnQTVDaW9GUXJoOXp2N2VmVGJ4cE5MNU1KazJCWVZPVGlIMGRnd2JTbndndmZGZEd0d3Zyc243ZnJ2RFVxMm9GNUItaXNteWRxUl9fUnlPc2wzVE1URzVDQXBhSmNiajN0MkdON3BrRGRjRllIUVptV0dzdDhYLTRlc3N6bw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:48:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_19de68a80721383d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Florida executes inmate who killed cellmate because he wanted death penalty",
-      "snippet": "A Florida inmate who strangled his cellmate in the hopes of receiving the death penalty rather than spend his remaining years in prison was executed on Tuesday.",
-      "link": "https://www.foxnews.com/us/florida-executes-inmate-killed-cellmate-wanted-death-penalty",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T01:48:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
