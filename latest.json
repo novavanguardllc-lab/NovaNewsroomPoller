@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-10-14T03:45:06.840Z",
+  "updatedAt": "2026-10-14T03:50:06.904Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.113Z"
+      "lastSuccess": "2026-10-14T03:50:07.077Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:06.919Z"
+      "lastSuccess": "2026-10-14T03:50:06.995Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:06.992Z"
+      "lastSuccess": "2026-10-14T03:50:07.022Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.138Z"
+      "lastSuccess": "2026-10-14T03:50:07.176Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.152Z"
+      "lastSuccess": "2026-10-14T03:50:07.481Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.364Z"
+      "lastSuccess": "2026-10-14T03:50:07.463Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.076Z"
+      "lastSuccess": "2026-10-14T03:50:07.136Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.195Z"
+      "lastSuccess": "2026-10-14T03:50:07.311Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.198Z"
+      "lastSuccess": "2026-10-14T03:50:07.273Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.012Z"
+      "lastSuccess": "2026-10-14T03:50:07.255Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.159Z"
+      "lastSuccess": "2026-10-14T03:50:07.012Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.035Z"
+      "lastSuccess": "2026-10-14T03:50:07.276Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T03:45:06.999Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T03:50:07.312Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.017Z"
+      "lastSuccess": "2026-10-14T03:50:07.335Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.120Z"
+      "lastSuccess": "2026-10-14T03:50:07.114Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.040Z"
+      "lastSuccess": "2026-10-14T03:50:07.292Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.214Z"
+      "lastSuccess": "2026-10-14T03:50:07.358Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.191Z"
+      "lastSuccess": "2026-10-14T03:50:07.213Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T03:45:07.214Z"
+      "lastErrorAt": "2026-10-14T03:50:07.352Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.201Z"
+      "lastSuccess": "2026-10-14T03:50:07.317Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.237Z"
+      "lastSuccess": "2026-10-14T03:50:07.384Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.342Z"
+      "lastSuccess": "2026-10-14T03:50:07.414Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:45:07.291Z"
+      "lastSuccess": "2026-10-14T03:50:07.436Z"
     }
   },
   "items": [
+    {
+      "id": "story_c2b2b6ae53ff58f2",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "US judge extends media outlets' White House access",
+      "snippet": "A federal judge extended the order that blocks the Trump administration from banning three media outlets from the White House. The outlets have reasonable grounds to think they'll win the case, the judge said.",
+      "link": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T03:46:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_76e60703ae38a736",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
+      "snippet": "The ruling will ensure access to the White House grounds while the outlets sue to overturn the ban. But it doesn’t resolve all of their access problems.",
+      "link": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T03:41:13.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_c4ca7625012675ac",
       "source": "France24",
@@ -2666,32 +2693,6 @@
       "link": "https://thehill.com/homenews/administration/6146652-donald-trump-kimberly-guilfoyle-resignation-midterm-elections/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/07/guilfoylekim_071724gn02_w.jpg?w=900",
       "publishedAt": "2026-10-13T22:00:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1dc15906aba562a3",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Why the lonely in China are hiring 'temporary children'",
-      "snippet": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
-      "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T22:00:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9e9a077a288056dc",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Judi Dench blasts 'trigger warnings' ruining stories: 'Drives me wild'",
-      "snippet": "Actress Judi Dench called trigger warnings in theater and movies \"mollycoddling\" in her upcoming memoir, arguing audiences should expect to be provoked.",
-      "link": "https://www.foxnews.com/media/judi-dench-blasts-trigger-warnings-ruining-stories-drives-me-wild",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T22:00:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
