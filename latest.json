@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-14T10:10:07.452Z",
+  "updatedAt": "2026-10-14T10:15:07.523Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.154Z"
+      "lastSuccess": "2026-10-14T10:15:07.996Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.667Z"
+      "lastSuccess": "2026-10-14T10:15:07.669Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.617Z"
+      "lastSuccess": "2026-10-14T10:15:07.638Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.655Z"
+      "lastSuccess": "2026-10-14T10:15:07.671Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
-      "lastErrorAt": "2026-10-14T10:10:07.636Z"
+      "online": true,
+      "lastSuccess": "2026-10-14T10:15:07.676Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.682Z"
+      "lastSuccess": "2026-10-14T10:15:07.713Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.914Z"
+      "lastSuccess": "2026-10-14T10:15:07.736Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.756Z"
+      "lastSuccess": "2026-10-14T10:15:07.647Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.731Z"
+      "lastSuccess": "2026-10-14T10:15:07.635Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.792Z"
+      "lastSuccess": "2026-10-14T10:15:07.591Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.958Z"
+      "lastSuccess": "2026-10-14T10:15:07.693Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.932Z"
+      "lastSuccess": "2026-10-14T10:15:07.708Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.631Z"
+      "lastSuccess": "2026-10-14T10:15:07.667Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.113Z"
+      "lastSuccess": "2026-10-14T10:15:07.663Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.015Z"
+      "lastSuccess": "2026-10-14T10:15:07.758Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T10:10:08.168Z"
+      "lastErrorAt": "2026-10-14T10:15:07.714Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.837Z"
+      "lastSuccess": "2026-10-14T10:15:07.749Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T10:10:08.187Z"
+      "lastErrorAt": "2026-10-14T10:15:07.750Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.175Z"
+      "lastSuccess": "2026-10-14T10:15:07.770Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:07.851Z"
+      "lastSuccess": "2026-10-14T10:15:07.698Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.210Z"
+      "lastSuccess": "2026-10-14T10:15:07.810Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.379Z"
+      "lastSuccess": "2026-10-14T10:15:09.650Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:10:08.108Z"
+      "lastSuccess": "2026-10-14T10:15:07.802Z"
     }
   },
   "items": [
@@ -411,6 +410,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a08ed2bb4d73baf6",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "How a radio glitch triggered a false hijack alert in Germany",
+      "snippet": "Authorities scrambled fighter jets to escort a plane from Corfu to Nuremberg after a pilot sent a hijack alert.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:53:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8d0c58acd861d413",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -484,6 +496,19 @@
       "link": "https://www.france24.com/en/video/20261014-french-protests-enter-4th-week-demonstrations-backing-students-gather-strength",
       "imageUrl": "https://s.france24.com/media/display/b3a4f0e2-c7af-11f1-8da8-53993c5f1f18/w:1024/p:16x9/EN-20261014-100724-101053-CS.jpg",
       "publishedAt": "2026-10-14T09:40:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2c018fc1e4d8e6ec",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+      "snippet": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:40:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2669,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T04:23:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8f6b5702c12a9d2a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "$20m public liability insurance to rally in a park: how council red tape hinders the right to protest",
-      "snippet": "Public gatherings stymied by bureaucracy, Australian Democracy Network and Deakin University researchers find\n\nGet our breaking news email, free app or daily news podcast\n\nCouncil red tape is stymieing the right to protest, a report has sai",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/14/councils-making-protesters-purchase-public-liability-insurance",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T04:22:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a8608ca9a0bb1c36",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "snippet": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T04:20:17.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
