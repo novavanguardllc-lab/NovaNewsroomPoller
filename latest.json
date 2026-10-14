@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-10-14T16:25:05.065Z",
+  "updatedAt": "2026-10-14T16:30:11.168Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.306Z"
+      "lastSuccess": "2026-10-14T16:30:12.501Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.311Z"
+      "lastSuccess": "2026-10-14T16:30:11.306Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.343Z"
+      "lastSuccess": "2026-10-14T16:30:11.291Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.580Z"
+      "lastSuccess": "2026-10-14T16:30:11.335Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.611Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-14T16:30:11.490Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.329Z"
+      "lastSuccess": "2026-10-14T16:30:11.330Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.429Z"
+      "lastSuccess": "2026-10-14T16:30:11.486Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.205Z"
+      "lastSuccess": "2026-10-14T16:30:11.382Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.482Z"
+      "lastSuccess": "2026-10-14T16:30:11.367Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.264Z"
+      "lastSuccess": "2026-10-14T16:30:11.283Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.511Z"
+      "lastSuccess": "2026-10-14T16:30:11.434Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.569Z"
+      "lastSuccess": "2026-10-14T16:30:11.503Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.563Z"
+      "lastSuccess": "2026-10-14T16:30:11.528Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.604Z"
+      "lastSuccess": "2026-10-14T16:30:11.526Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.666Z"
+      "lastSuccess": "2026-10-14T16:30:11.603Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T16:25:05.625Z"
+      "lastErrorAt": "2026-10-14T16:30:11.548Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.549Z"
+      "lastSuccess": "2026-10-14T16:30:11.412Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T16:25:05.640Z"
+      "lastErrorAt": "2026-10-14T16:30:11.532Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.649Z"
+      "lastSuccess": "2026-10-14T16:30:11.547Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.687Z"
+      "lastSuccess": "2026-10-14T16:30:11.584Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.828Z"
+      "lastSuccess": "2026-10-14T16:30:11.627Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.714Z"
+      "lastSuccess": "2026-10-14T16:30:11.809Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T16:25:05.790Z"
+      "lastSuccess": "2026-10-14T16:30:11.703Z"
     }
   },
   "items": [
+    {
+      "id": "story_abf7f7afd3200684",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Chile rises to 20th in economic freedom ranking, leads Latin America",
+      "snippet": "Chile ranked as Latin America's freest economy in the 2026 Economic Freedom of the World report published by Canada's Fraser Institute.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/14/latam-chile-economic-freedom/8641791994472/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/8641791994472/2026/upi/29a1901ffedf7dcf368217263b7c6b48/v1.5/Chile-rises-to-20th-in-economic-freedom-ranking-leads-Latin-America.jpg",
+      "publishedAt": "2026-10-14T16:28:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_faa8da8d03cfd801",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Has Trump broken his McDonald’s promise?",
+      "snippet": "The defining moment of the 2024 presidential campaign, it can be argued, came almost exactly two years ago, on Sunday, Oct. 20, when then-former President Donald Trump traded his suit coat for a yellow apron and worked the fry station and t",
+      "link": "https://www.washingtonexaminer.com/opinion/columnists/4765642/trump-mcdonalds-promise-affordability/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T16:27:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ba8c90cbcaee8df5",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Kenya confirms second Ebola case as relative of country's first victim",
+      "snippet": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T16:23:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_88a3c3bb6857d3fa",
       "source": "France24",
@@ -241,6 +281,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c5912a63bdad2cee",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Ex-fiance of US Rep. Nancy Mace and 2 others charged with sex crimes she detailed in a House speech - AP News",
+      "snippet": "Ex-fiance of US Rep. Nancy Mace and 2 others charged with sex crimes she detailed in a House speech  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWVkLXVNWFdtLVZseS1jUVNRU3RkQ2VXeGpzZjhmbV8zWlJoLXE2dHRiWXMzRUh3QV9tNmJoSWc0UUYzUjROUkNram5mN0QxVHJ2M2EyMUNsYmE3Tk9GOWlDZ0xYNzB4X2lLQ2dHamF0OWh0OFNrWjVMM1BTTmk1SVZGSUQyWUx3Z1pnYzMwdXJlUmVOVERnYmloM05jdGlfek01RFVndFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T16:01:28.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3a16c7884e2312e0",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -302,6 +355,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T15:54:04.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7f13c8d985ca86e5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "New York to ban Central Park’s horse-drawn carriages after teen’s death - AP News",
+      "snippet": "New York to ban Central Park’s horse-drawn carriages after teen’s death  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOay0zczdoT0E2NjFjMVFYOHpwUS1pSzF1ZHhlZkt3bDdWblNYellzY2UyeEI1SjJ5Wm5YckxsNmdHamdNUy0ybGEzb1BqTXVQZnZvVUZWOUFKXy04SWp2QnhiUmJLVHJoLU9wa1d1SzczS2xjMWhMYmwxaGk0RFFSNC1UaU1nVUEyN2lIX1BENnd4NVFvVWp3NXl5eks?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T15:53:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2628,71 +2694,6 @@
       "link": "https://www.foxnews.com/media/sherrod-browns-1971-letter-argued-against-releasing-vietnam-war-pows-podcast-hosts-reveal",
       "imageUrl": null,
       "publishedAt": "2026-10-14T13:00:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_934d1b33f4f990c2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "AMB GORDON SONDLAND: Threading the needle on Ukraine, Russia and China",
-      "snippet": "Trump's Ukraine strategy aims to reshape the global chessboard against China, but Volodymyr Zelensky must adapt his approach to survive it.",
-      "link": "https://www.foxnews.com/opinion/amb-gordon-sondland-threading-needle-ukraine-russia-china",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T13:00:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_11cfddcdd550fd45",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "November Supplemental Security direct payment up to $994 goes out in 16 days",
-      "snippet": "The November 2026 Supplemental Security Income payments, worth up to $994 for an individual filer, will be sent to recipients in 16 days. SSI payments are typically issued on the first day of each month, or on the last business day of the p",
-      "link": "https://www.washingtonexaminer.com/news/4749085/november-supplemental-security-direct-payment-16-days/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T13:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_13d5399afcf289c8",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump’s authoritarian raid on Ilhan Omar is an attack on the rule of law",
-      "snippet": "The party that once so loudly complained about Democratic “lawfare” is now passively mute as Trump misuses Homeland Security resources in an attempt to unlawfully deport a sitting member of Congress who legally received asylum in this count",
-      "link": "https://thehill.com/opinion/campaign/6146203-trump-raids-ilhan-omar-home/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26285596932282.jpg?w=900",
-      "publishedAt": "2026-10-14T13:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_83bcfbc8c438939f",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-      "snippet": "We got to play the The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
-      "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T13:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c54980627b2b769a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "The Feminism Debate",
-      "snippet": "Has feminism failed women? The latest \"Things That Matter\" debate brings opposing perspectives on feminism to the stage to discuss its impact on society today.",
-      "link": "https://www.cbsnews.com/video/101426-things-that-matter/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T13:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
