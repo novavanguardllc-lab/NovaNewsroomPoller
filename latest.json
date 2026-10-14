@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-14T09:15:08.567Z",
+  "updatedAt": "2026-10-14T09:20:07.321Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.825Z"
+      "lastSuccess": "2026-10-14T09:20:07.771Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.768Z"
+      "lastSuccess": "2026-10-14T09:20:07.589Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.788Z"
+      "lastSuccess": "2026-10-14T09:20:07.431Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.925Z"
+      "lastSuccess": "2026-10-14T09:20:07.585Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.947Z"
+      "online": false,
+      "lastError": "Status code 404",
+      "lastErrorAt": "2026-10-14T09:20:07.586Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.829Z"
+      "lastSuccess": "2026-10-14T09:20:07.450Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.085Z"
+      "lastSuccess": "2026-10-14T09:20:07.688Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.125Z"
+      "lastSuccess": "2026-10-14T09:20:07.810Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.755Z"
+      "lastSuccess": "2026-10-14T09:20:07.607Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.669Z"
+      "lastSuccess": "2026-10-14T09:20:07.424Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.867Z"
+      "lastSuccess": "2026-10-14T09:20:07.565Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.094Z"
+      "lastSuccess": "2026-10-14T09:20:07.695Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.927Z"
+      "lastSuccess": "2026-10-14T09:20:07.724Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.907Z"
+      "lastSuccess": "2026-10-14T09:20:07.785Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:08.988Z"
+      "lastSuccess": "2026-10-14T09:20:07.739Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T09:15:08.944Z"
+      "online": true,
+      "lastSuccess": "2026-10-14T09:20:07.906Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.015Z"
+      "lastSuccess": "2026-10-14T09:20:07.646Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T09:15:09.066Z"
+      "lastErrorAt": "2026-10-14T09:20:07.724Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.145Z"
+      "lastSuccess": "2026-10-14T09:20:07.717Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.088Z"
+      "lastSuccess": "2026-10-14T09:20:07.774Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.212Z"
+      "lastSuccess": "2026-10-14T09:20:07.766Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:11.319Z"
+      "lastSuccess": "2026-10-14T09:20:07.754Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T09:15:09.065Z"
+      "lastSuccess": "2026-10-14T09:20:07.903Z"
     }
   },
   "items": [
+    {
+      "id": "story_91c5cd6d5ef49960",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Cornell University faculty to begin debating no-confidence resolution",
+      "snippet": "Cornell University’s faculty senate on Wednesday will begin deliberating a no-confidence resolution to condemn the school’s response to sexual violence on campus.",
+      "link": "https://abcnews.com/US/cornell-university-faculty-begin-debating-confidence-resolution/story?id=137243452",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:17:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_bd605e0acf6a9196",
       "source": "France24",
@@ -137,6 +150,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_eb0df139f88147a9",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Bank of England and IMF bosses issue stark warning on cyber threat to trust",
+      "snippet": "Andrew Bailey and Kristalina Georgieva voice concerns about financial system on panel about online fraud \n\nBusiness live – latest updates\n\nThe heads of the Bank of England and the International Monetary Fund have issued a stark warning that",
+      "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:07:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2bb5e789f622a7aa",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -171,6 +197,19 @@
       "link": "https://www.foxnews.com/opinion/ukraine-showed-trump-how-easily-enemy-could-cripple-ai-powerhouse",
       "imageUrl": null,
       "publishedAt": "2026-10-14T09:00:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d453b4a645bf4b71",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Minnesota professor linked to series of bizarre incidents involving urine at university",
+      "snippet": "Investigators determined professor responsible for urine found on a backpack, in trash cans and in water bottles\nA former professor at Macalester College in the Minnesota city of St Paul is facing a felony charge for allegedly spilling his ",
+      "link": "https://www.theguardian.com/us-news/2026/oct/14/minnesota-professor-urine-incidents",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:00:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1329,6 +1368,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T05:57:56.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cad0e05eb0b03181",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "New bridge linking China and North Korea will open more than a decade late - AP News",
+      "snippet": "New bridge linking China and North Korea will open more than a decade late  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUlaZzV2M2tMalVHS3pIWmtjMUV6UDdRQk91cVhjNnNGQjFWcjNFakhYejdMelpQaVYySkxKcWs2WklCTm4tRWJPTjRfUXJrSktuY25SOVhUV3U1UkpPd3FlQ1BpeGlzdkFycWNWMTBfSlMtT0Z0dmZLQm1OczFlZ3BocnYyY2JqYUhtX19VbkFsYmxIOUkyTmh3MEI?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T05:53:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2642,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T02:32:03.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b8c3c7fb6a9840db",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump went all the way to Alaska in a sign of just how close its Senate race may be - AP News",
-      "snippet": "Trump went all the way to Alaska in a sign of just how close its Senate race may be  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZndZOXVHelR1M3hqMFp1NHAxbl9HTW9QVTRWeWZsOXhNTGRYYUp3VTFhSFdQOTluQjZSc0FoUDU5b3RWWWR1RTJPNGdmcTBJeUZqalozOFhoVTRGVnFOaE1jXzRVQUhINDFqRWVXcmVnbUN1b3d1Q0hfRmJCd1E1WmdvRm9jSEV0dHVTaXlxcTdTaFVYZ3dQcUQza1ZUUW8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T02:32:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_29ccd1cbcf795b1c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China, North Korea to open long-delayed bridge on Thursday - Reuters",
-      "snippet": "China, North Korea to open long-delayed bridge on Thursday  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWm8xalU1ZEpZdnJVNG5DS0NzZFdlTkExWUtNelV0OVo0LS1xMnZ5WFVLY2FMLWFOUFhmZnNXa25LdGtPakRseVZuNlhYcGZCYXRvMVdQYnd0VzR4Y0FiWG9RVG9ST3RTclZaVHMyVWVfQlFSYU9yZnpWclVXUFdqQjItTGlsWDM5R2h5TklCMDlEUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T02:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_464f346e97a437e4",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Ossoff, Collins clash in second Georgia Senate debate: 4 takeaways",
-      "snippet": "Sen. Jon Ossoff (D) and Rep. Mike Collins (R) traded barbs in a Tuesday night debate, tangling over the Jeffrey Epstein files, the 2020 election and more. Ossoff, the only Senate Democrat running for reelection in a state President Trump wo",
-      "link": "https://thehill.com/homenews/campaign/6146910-ossoff-collins-second-georgia-senate-debate-takeaways/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/MixCollage-13-Oct-2026-08-12-PM-2330.jpg?w=900",
-      "publishedAt": "2026-10-14T02:25:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_52ccbb115e6b5073",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indian shares muted as oil prices, foreign outflows offset IT rebound - Reuters",
-      "snippet": "Indian shares muted as oil prices, foreign outflows offset IT rebound  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDFseEc5cVpDQ2FOSndESDFUc3N6VnVMY0c0bS14N2taUmU3cU9CY09HeEVvX014STdGY1pwY05aWXVTemoycUFEbzFLeFdVa2JIZ1Nwc1BUZGxkSXEyeXJvVW5VdFBtM0E3MXVpWll5R3pKU3FMajQzODBYZjhuM1V5cDdOQmlwRmxwWUhkZ2R5a0RKM2YtaU91UkVMYUJsYVJmQVBOU1lra2R6YkZ0bXdn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T02:25:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
