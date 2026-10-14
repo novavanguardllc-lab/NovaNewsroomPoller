@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-10-14T10:35:05.003Z",
+  "updatedAt": "2026-10-14T10:40:07.245Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.548Z"
+      "lastSuccess": "2026-10-14T10:40:07.411Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.206Z"
+      "lastSuccess": "2026-10-14T10:40:07.528Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.056Z"
+      "lastSuccess": "2026-10-14T10:40:07.372Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.376Z"
+      "lastSuccess": "2026-10-14T10:40:07.664Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.356Z"
+      "lastSuccess": "2026-10-14T10:40:08.109Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.213Z"
+      "lastSuccess": "2026-10-14T10:40:07.389Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.292Z"
+      "lastSuccess": "2026-10-14T10:40:07.596Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.233Z"
+      "lastSuccess": "2026-10-14T10:40:07.535Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.112Z"
+      "lastSuccess": "2026-10-14T10:40:07.482Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.194Z"
+      "lastSuccess": "2026-10-14T10:40:07.525Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.368Z"
+      "lastSuccess": "2026-10-14T10:40:07.642Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.299Z"
+      "lastSuccess": "2026-10-14T10:40:07.645Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.389Z"
+      "lastSuccess": "2026-10-14T10:40:07.671Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.388Z"
+      "lastSuccess": "2026-10-14T10:40:07.686Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.430Z"
+      "lastSuccess": "2026-10-14T10:40:07.748Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.408Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T10:40:07.701Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.349Z"
+      "lastSuccess": "2026-10-14T10:40:07.609Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T10:35:05.394Z"
+      "lastErrorAt": "2026-10-14T10:40:07.748Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.415Z"
+      "lastSuccess": "2026-10-14T10:40:07.730Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.374Z"
+      "lastSuccess": "2026-10-14T10:40:07.648Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.445Z"
+      "lastSuccess": "2026-10-14T10:40:07.776Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.465Z"
+      "lastSuccess": "2026-10-14T10:40:07.771Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T10:35:05.533Z"
+      "lastSuccess": "2026-10-14T10:40:07.847Z"
     }
   },
   "items": [
+    {
+      "id": "story_dd1ff845d0886410",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Washington girls walk off cross country meet in protest of male athlete, parents reveal how it came to this",
+      "snippet": "Holly Burns and teammates walked off a Washington cross-country race rather than compete against an athlete who switched from the boys' team.",
+      "link": "https://www.foxnews.com/outkick-sports/washington-girls-walk-off-cross-country-meet-protest-male-athlete-parents-reveal-how-it-came-to-this",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T10:33:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8d6c6a2317cae32e",
       "source": "Wash Examiner",
@@ -2680,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T05:04:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_26fe1f8bcfe0c684",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Trump Hands Victories to Putin, Who Offers More War in Return",
-      "snippet": "Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T05:03:25.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
