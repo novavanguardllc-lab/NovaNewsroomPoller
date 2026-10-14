@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-14T03:10:07.183Z",
+  "updatedAt": "2026-10-14T03:15:07.855Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.487Z"
+      "lastSuccess": "2026-10-14T03:15:07.980Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.542Z"
+      "lastSuccess": "2026-10-14T03:15:08.023Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.519Z"
+      "lastSuccess": "2026-10-14T03:15:08.040Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.438Z"
+      "lastSuccess": "2026-10-14T03:15:08.056Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.457Z"
+      "lastSuccess": "2026-10-14T03:15:08.327Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.365Z"
+      "lastSuccess": "2026-10-14T03:15:08.009Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.605Z"
+      "lastSuccess": "2026-10-14T03:15:08.125Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.680Z"
+      "lastSuccess": "2026-10-14T03:15:08.172Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.704Z"
+      "lastSuccess": "2026-10-14T03:15:08.083Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.686Z"
+      "lastSuccess": "2026-10-14T03:15:08.071Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.523Z"
+      "lastSuccess": "2026-10-14T03:15:08.025Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.689Z"
+      "lastSuccess": "2026-10-14T03:15:08.090Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T03:10:07.787Z"
+      "online": true,
+      "lastSuccess": "2026-10-14T03:15:08.141Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.786Z"
+      "lastSuccess": "2026-10-14T03:15:08.131Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.773Z"
+      "lastSuccess": "2026-10-14T03:15:08.263Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.548Z"
+      "lastSuccess": "2026-10-14T03:15:08.135Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.830Z"
+      "lastSuccess": "2026-10-14T03:15:08.272Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.668Z"
+      "lastSuccess": "2026-10-14T03:15:08.163Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T03:10:07.845Z"
+      "lastErrorAt": "2026-10-14T03:15:08.273Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.818Z"
+      "lastSuccess": "2026-10-14T03:15:08.175Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.930Z"
+      "lastSuccess": "2026-10-14T03:15:08.307Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:07.921Z"
+      "lastSuccess": "2026-10-14T03:15:08.212Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T03:10:08.091Z"
+      "lastSuccess": "2026-10-14T03:15:08.341Z"
     }
   },
   "items": [
+    {
+      "id": "story_d03bfbbd35dc1c01",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+      "snippet": "The trial is expected to run into February and could test Germany's political stance on Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ukrainian-ex-officer-goes-on-trial-in-germany-over-nord-stream-blasts?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T03:06:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_197f533380877c9d",
       "source": "The Hill",
@@ -2681,19 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T21:46:30.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_42dc957f04bb7363",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Apple's HomeView brings personalized Siri to smart home, takes on Amazon and Google - Reuters",
-      "snippet": "Apple's HomeView brings personalized Siri to smart home, takes on Amazon and Google  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHhjOXpZaTJwY3lOa2E5TXgzQUFkUVh1WnhFT0dCZVZWQ25Ec2FLYTk2QjhtSTd1Y3Q4cjJSV1BWQmg2cEsxU19jR3ZQSy02Yk91X1JhV2NEcHBvRGRESE9ZRWtRS080NlRJcHJxT0dlQjZJV0dZd2xQWHBjdnV2VTBFQWxleElKdmlYbmZpaVFOc0Z2QVI5ZThseXU0ZUkwam9ub0NyaXpfWFdEWl9RRnZYaDZvUzdVb0o1ZFBZSVh2VHVhdnRIN0lsYTE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T21:46:14.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
