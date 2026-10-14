@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-10-14T04:20:07.210Z",
+  "updatedAt": "2026-10-14T04:25:05.759Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.403Z"
+      "lastSuccess": "2026-10-14T04:25:06.040Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.345Z"
+      "lastSuccess": "2026-10-14T04:25:05.907Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.373Z"
+      "lastSuccess": "2026-10-14T04:25:06.002Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.303Z"
+      "lastSuccess": "2026-10-14T04:25:05.994Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.422Z"
+      "lastSuccess": "2026-10-14T04:25:06.021Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.663Z"
+      "lastSuccess": "2026-10-14T04:25:06.306Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.454Z"
+      "lastSuccess": "2026-10-14T04:25:06.077Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.551Z"
+      "lastSuccess": "2026-10-14T04:25:06.175Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.475Z"
+      "lastSuccess": "2026-10-14T04:25:06.221Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.493Z"
+      "lastSuccess": "2026-10-14T04:25:06.158Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.353Z"
+      "lastSuccess": "2026-10-14T04:25:06.006Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.542Z"
+      "lastSuccess": "2026-10-14T04:25:06.204Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.501Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T04:25:06.161Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.506Z"
+      "lastSuccess": "2026-10-14T04:25:06.217Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.524Z"
+      "lastSuccess": "2026-10-14T04:25:06.200Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.499Z"
+      "lastSuccess": "2026-10-14T04:25:06.236Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.574Z"
+      "lastSuccess": "2026-10-14T04:25:06.371Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.540Z"
+      "lastSuccess": "2026-10-14T04:25:06.134Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T04:20:07.563Z"
+      "lastErrorAt": "2026-10-14T04:25:06.372Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.556Z"
+      "lastSuccess": "2026-10-14T04:25:06.256Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.656Z"
+      "lastSuccess": "2026-10-14T04:25:06.421Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:07.634Z"
+      "lastSuccess": "2026-10-14T04:25:06.364Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T04:20:09.511Z"
+      "lastSuccess": "2026-10-14T04:25:06.448Z"
     }
   },
   "items": [
@@ -288,6 +289,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T03:27:26.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c2c80f8cb154fd3f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Taiwan must 'bear the consequences' of water cannon incident, China says - Reuters",
+      "snippet": "Taiwan must 'bear the consequences' of water cannon incident, China says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTktd0pMaVp2SWIwWGVsektZX0RyWUFuTmVQYldCb2VMd0JjQnZLRGZmSnVjTkNoanFlQ21HOXRPMU5XMzB3TC1MY2RiRGJoV3Q1T0U2WVJBeEdhMVhqdkNmRm9NUUY2U3VVVW1aUER1UWVKVmxUbjdLbHZTaENULXRKbDNac0tOLVNnWGRYN3Y1M1RmaWUzSlJvNlNObHU1eHJtbDMzODZRaEkwdURr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T03:24:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -550,6 +564,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_29ccd1cbcf795b1c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "China-North Korea bridge to open on October 15 - Reuters",
+      "snippet": "China-North Korea bridge to open on October 15  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWm8xalU1ZEpZdnJVNG5DS0NzZFdlTkExWUtNelV0OVo0LS1xMnZ5WFVLY2FMLWFOUFhmZnNXa25LdGtPakRseVZuNlhYcGZCYXRvMVdQYnd0VzR4Y0FiWG9RVG9ST3RTclZaVHMyVWVfQlFSYU9yZnpWclVXUFdqQjItTGlsWDM5R2h5TklCMDlEUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T02:31:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_d653ec2e673e1c49",
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-13T22:14:33.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4708336e693bb8a3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Millions of Americans have already voted early in midterms",
-      "snippet": "Voters nationwide have cast 3.6 million early ballots with 21 days to go until the November elections. CBS News executive director of elections and surveys Anthony Salvanto and Sabato's Crystal Ball managing editor Kyle Kondik join with ana",
-      "link": "https://www.cbsnews.com/video/millions-americans-have-already-voted-early-midterms/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T22:14:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2b46a2a42b42216",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US top diplomat Marco Rubio to visit India and Uzbekistan this month - Reuters",
-      "snippet": "US top diplomat Marco Rubio to visit India and Uzbekistan this month  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1h6MGx1YnQyUm5SaUhtOXhPeFhpMkl0U0R2QVh3b0NBUGhiaEdDNVpNVUlNbGN0bUR4el9jSHBNQnQ2V1NOTFQ3RWlnMFd4Q2xMOERxMWxmNUgwZ05VNk8yY0lDUmR1QkhlMWhvcV9HN0taeV81RFpyZkoycGRsM3hPSnJiQkFta0h6UnBKNDlWTlJJOUtRckRtQ2FiZ0s2czlVSl9qNEZBUHBUUFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-13T22:12:56.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
