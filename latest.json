@@ -1,101 +1,180 @@
 {
-  "updatedAt": "2026-10-14T13:25:04.952Z",
+  "updatedAt": "2026-10-14T13:30:09.827Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.228Z"
+      "lastSuccess": "2026-10-14T13:30:10.435Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.171Z"
+      "lastSuccess": "2026-10-14T13:30:09.957Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.132Z"
+      "lastSuccess": "2026-10-14T13:30:09.881Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.353Z"
+      "lastSuccess": "2026-10-14T13:30:09.933Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.156Z"
+      "lastSuccess": "2026-10-14T13:30:09.930Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.388Z"
+      "lastSuccess": "2026-10-14T13:30:09.908Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.513Z"
+      "lastSuccess": "2026-10-14T13:30:09.996Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.302Z"
+      "lastSuccess": "2026-10-14T13:30:10.344Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.289Z"
+      "lastSuccess": "2026-10-14T13:30:09.876Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.336Z"
+      "lastSuccess": "2026-10-14T13:30:09.900Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.414Z"
+      "lastSuccess": "2026-10-14T13:30:09.923Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.429Z"
+      "lastSuccess": "2026-10-14T13:30:09.969Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.527Z"
+      "lastSuccess": "2026-10-14T13:30:09.935Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.553Z"
+      "lastSuccess": "2026-10-14T13:30:09.974Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.599Z"
+      "lastSuccess": "2026-10-14T13:30:10.068Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.358Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T13:30:10.068Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.459Z"
+      "lastSuccess": "2026-10-14T13:30:09.950Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T13:25:05.568Z"
+      "lastErrorAt": "2026-10-14T13:30:10.020Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.535Z"
+      "lastSuccess": "2026-10-14T13:30:10.037Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.378Z"
+      "lastSuccess": "2026-10-14T13:30:10.014Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.766Z"
+      "lastSuccess": "2026-10-14T13:30:10.043Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.758Z"
+      "lastSuccess": "2026-10-14T13:30:11.522Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:25:05.720Z"
+      "lastSuccess": "2026-10-14T13:30:10.230Z"
     }
   },
   "items": [
+    {
+      "id": "story_a72b301c78af06a0",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump promised to lower prices for Americans. Here's what the data shows.",
+      "snippet": "Just weeks before the midterm elections, 90% of Americans say prices in the U.S. are the main factor shaping their view of the economy. These charts show why.",
+      "link": "https://www.cbsnews.com/news/trump-promised-lower-prices-cost-living-inflation/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:28:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f2edbd73887e8880",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Social Security announces cost of living increase for 2027",
+      "snippet": "The 2027 cost-of-living adjustment is the largest since 2023. Here's how it will impact the typical benefit check starting early next year.",
+      "link": "https://www.cbsnews.com/news/social-security-cola-2027-increase/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:28:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d2ea0c6ede53fc6d",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Catholics pray for Pope Leo following lung cancer diagnosis",
+      "snippet": "Pope Leo XIV has been diagnosed with lung cancer following a surgery to remove a nodular lesion on his lung. CBS News' Chris Livesay reports from Rome.",
+      "link": "https://www.cbsnews.com/video/catholics-pray-for-pope-leo-following-cancer-diagnosis/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:22:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_deddda05dcdefb5c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Judge orders Trump administration to halt work at DC golf course until later this month",
+      "snippet": "A federal judge on Tuesday ordered the Trump administration to stop work on East Potomac Park, site of East Potomac Golf Links and a property the president has been eyeing for redevelopment. U.S. District Judge Ana Reyes’ order came after h",
+      "link": "https://thehill.com/policy/sports-gaming/6147430-court-ruling-donald-trump-east-potomac-golf-links-project/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26285714815309-e1791983971502.jpg?w=900",
+      "publishedAt": "2026-10-14T13:21:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a0f4e8d454685169",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "LPGA commissioner shares sensible opinion on controversial Good Good Golf ad: 'Good people make mistakes'",
+      "snippet": "LPGA commissioner Craig Kessler says Good Good Golf deserves forgiveness after the controversial Callaway ad that rocked the entire golf world.",
+      "link": "https://www.foxnews.com/outkick-sports/lpga-commissioner-shares-sensible-opinion-controversial-good-good-golf-ad-good-people-make-mistakes",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:21:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_65356560d22e7c0c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Candidates clash in Senate debates in Georgia, Iowa and Maine",
+      "snippet": "Senate nominees in Georgia, Iowa and Maine clashed over the Iran war, the economy and more. CBS News' Aaron Navarro, Fin Gómez and Lana Zak have team coverage.",
+      "link": "https://www.cbsnews.com/video/candidates-clash-in-senate-debates-in-georgia-iowa-and-maine/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:21:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c85bebde7c702e01",
       "source": "Fox News",
@@ -103,6 +182,19 @@
       "headline": "Bryan Kohberger's court hearings abruptly canceled as lawyer warns of lengthy legal battle",
       "snippet": "Bryan Kohberger's upcoming hearings have been vacated as his new lawyer seeks to disqualify the judge, marking the start of a longer legal battle.",
       "link": "https://www.foxnews.com/us/bryan-kohberger-court-hearings-abruptly-canceled-lawyer-warns-lengthy-legal-battle",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:20:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d18c6fd91fbc55e3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Bryan Kohberger's court hearings abruptly canceled as lawyer warns of lengthy legal battle",
+      "snippet": "Bryan Kohberger's upcoming hearings have been vacated as his new lawyer seeks to disqualify the judge, marking the start of a longer legal battle.",
+      "link": "https://www.foxnews.com/true-crime/bryan-kohberger-court-hearings-abruptly-canceled-lawyer-warns-lengthy-legal-battle",
       "imageUrl": null,
       "publishedAt": "2026-10-14T13:20:50.000Z",
       "tier": "routine",
@@ -2604,97 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_3c38f5034ccfddab",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows - Reuters",
-      "snippet": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3hwbGNIcVZMVVFNQlIzMFdpamdXN3diVWJoUTNfbkhJT05Od1RHT2t4eGN6OTktZHZIS1ZtMjR0YWU1Q0Z1WTJBa01vVGJyUVBiUnN4MER0bk92NDR6UFVfMF9xOG9RRUY4M2dwdUl4UWJZOGVXbmJvYUNrVmE4bXU0Y0hXOTJSaXJHX1R6XzNNRzN1cXBOY240ZkFFYjVnNmpuQzZBRVpkQTNMUnJDOGtFQUhpbU42RXFJYS1IeVVLaVNyWDcxc2NR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:55:56.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a08ed2bb4d73baf6",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "How a radio glitch triggered a false hijack alert in Germany",
-      "snippet": "Authorities scrambled fighter jets to escort a plane from Corfu to Nuremberg after a pilot sent a hijack alert.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:53:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d13e960da1f62717",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "GSK to cut up to 1,217 jobs in Belgium - Reuters",
-      "snippet": "GSK to cut up to 1,217 jobs in Belgium  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2xlQkdqRUlNQkU2UTRoMHpzQVNEcE9Za1dVY1hVVl9hWmhTVXREWHJTVmd5TUpEVVBvb3B2bVE5MGNUZGJWcUxkZFBXY00xVThVZEloZ2xEOW5UdkRGR0dNbXFjU2hpT1NaNXM5QVpVV3RMSDdsUUEzVWhRbDROMzZjaE5qT1JXSFlJZmRMRUpILU03S0YwSUJZU3RWMW8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:51:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7f81db8e3fcd9821",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
-      "snippet": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:51:46.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8d0c58acd861d413",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Nigel Farage says charities that help asylum seekers get to UK should be prosecuted",
-      "snippet": "Reform leader did not say who should be targeted but party figures have been critical of small boat rescues by RNLI\nCharities and volunteers who help asylum seekers get to the UK should face potential criminal prosecution, Nigel Farage has ",
-      "link": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:50:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_65117b391488731d",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "A bear with a taste for honey: Winnie the Pooh turns 100",
-      "snippet": "The world's most famous and very greedy bear is celebrating his centenary this year. Winnie the Pooh made his debut in a story called \"The Wrong Kind of Bees\" in the London Evening News. The first collection of stories, illustrated by E. H.",
-      "link": "https://www.france24.com/en/video/20261014-a-bear-with-a-taste-for-honey-winnie-the-pooh-turns-100",
-      "imageUrl": "https://s.france24.com/media/display/fc699420-c7b1-11f1-aeb7-e362370cce2e/w:1024/p:16x9/EN-20261014-102411-102556-CS.jpg",
-      "publishedAt": "2026-10-14T09:48:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e07a26064682fb68",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Prosecution labels Russell Brand a ruthless sexual predator at opening of his sex assault trial - AP News",
-      "snippet": "Prosecution labels Russell Brand a ruthless sexual predator at opening of his sex assault trial  AP News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRC11N3ZtMU1YdXpMRzUzRjF0YmZKYlpfQUZZTDRMeHRhUGpYMG9zbTA4Q1hrRFBYekJha1ZhUXF1UVNHMS1oRHZWQmNHeHpIOFBPTDVCUnJkVklUZ2lMeEpYc2ZFSTFpWVloaVR4Vmx2SThtTm04Z1o2V3F2T0NpamV6YkNsY2NYLVNDRlpJTDMwcHZyV3hpVmZBWkkxbXp3MjhDemo2T0Zqa2ctcWVNdzJ3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:47:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
