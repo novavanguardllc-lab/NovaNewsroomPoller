@@ -1,101 +1,180 @@
 {
-  "updatedAt": "2026-10-14T12:30:10.132Z",
+  "updatedAt": "2026-10-14T12:35:05.383Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.705Z"
+      "lastSuccess": "2026-10-14T12:35:05.914Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.230Z"
+      "lastSuccess": "2026-10-14T12:35:05.513Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.189Z"
+      "lastSuccess": "2026-10-14T12:35:05.510Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.271Z"
+      "lastSuccess": "2026-10-14T12:35:05.624Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.279Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-14T12:35:15.393Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.237Z"
+      "lastSuccess": "2026-10-14T12:35:05.587Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.318Z"
+      "lastSuccess": "2026-10-14T12:35:05.824Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.225Z"
+      "lastSuccess": "2026-10-14T12:35:05.883Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.206Z"
+      "lastSuccess": "2026-10-14T12:35:05.503Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.185Z"
+      "lastSuccess": "2026-10-14T12:35:05.583Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.267Z"
+      "lastSuccess": "2026-10-14T12:35:05.611Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.286Z"
+      "lastSuccess": "2026-10-14T12:35:05.617Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.247Z"
+      "lastSuccess": "2026-10-14T12:35:05.653Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.337Z"
+      "lastSuccess": "2026-10-14T12:35:05.663Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.380Z"
+      "lastSuccess": "2026-10-14T12:35:05.720Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.356Z"
+      "lastSuccess": "2026-10-14T12:35:05.686Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.330Z"
+      "lastSuccess": "2026-10-14T12:35:05.651Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T12:30:10.338Z"
+      "lastErrorAt": "2026-10-14T12:35:05.693Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.352Z"
+      "lastSuccess": "2026-10-14T12:35:05.700Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.255Z"
+      "lastSuccess": "2026-10-14T12:35:05.671Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.447Z"
+      "lastSuccess": "2026-10-14T12:35:05.750Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.989Z"
+      "lastSuccess": "2026-10-14T12:35:07.955Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T12:30:10.423Z"
+      "lastSuccess": "2026-10-14T12:35:05.802Z"
     }
   },
   "items": [
+    {
+      "id": "story_b7072024ee6767f3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Inflation surged in September as U.S. energy costs jumped",
+      "snippet": "The Consumer Price Index rose at an annual rate of 3.7% in September, up from 3.4% the month prior.",
+      "link": "https://www.cbsnews.com/news/september-cpi-report-inflation-energy-costs/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:34:42.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_090c0e7e0973e5e5",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Pentagon taps DOD public affairs official as Stars and Stripes publisher ",
+      "snippet": "The Pentagon has appointed a Department of Defense (DOD) public affairs official as the acting publisher of the military newspaper Stars and Stripes weeks after firing three staffers at the independent publication for what it called subordi",
+      "link": "https://thehill.com/policy/defense/6147373-pentagon-appoints-acting-stars-stripes-publisher/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6a9b43bf100173.25964185.jpeg?w=900",
+      "publishedAt": "2026-10-14T12:33:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5755ed68aa2df9c1",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Inflation increased to 3.7% in last consumer price index report before midterms",
+      "snippet": "Inflation rose three-tenths of a percentage point to 3.7% for the year ending in September, the Bureau of Labor Statistics reported in an update to the consumer price index on Wednesday, a sign that the price pressures that have soured vote",
+      "link": "https://www.washingtonexaminer.com/news/4764177/inflation-last-consumer-price-index-report-midterms/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:33:15.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3ce0f17be89ae553",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Inflation climbs in September as gas prices stay high",
+      "snippet": "Wednesday's inflation report provided the latest snapshot of prices as a monthlong surge in costs for gasoline and other essentials continues to weigh on shoppers.",
+      "link": "https://abcnews.com/Business/inflation-report-provide-snapshot-prices-midterms-approach/story?id=137221675",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:32:30.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1a3ff8c70423c845",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Mexico should rethink its dangerous partnerships with Chinese telecoms",
+      "snippet": "The proximity of these companies to the U.S.-Mexico border represents an imminent danger to the security of both nations.",
+      "link": "https://thehill.com/opinion/international/6144813-huawei-mexico-expansion-risks/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Huawei_china_09262018_AP26251152997905-2.jpg?w=900",
+      "publishedAt": "2026-10-14T12:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d61efd876eff4d3e",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  ‘Dancing With the Stars’ sends couple home on ‘Super Bowl Night’",
+      "snippet": "ABC News’ Ginger Zee was behind the scenes as stars and their pro partners danced to songs performed during Super Bowl halftime shows through the years.",
+      "link": "https://abcnews.com/video/137253298/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:28:31.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e828fb9d48750aab",
       "source": "The Hill",
@@ -108,6 +187,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_01e64b80ae9340de",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "snippet": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr\nGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private",
+      "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:21:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_d46e2419dbf2597d",
@@ -370,6 +462,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_362f5f7356917295",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Eutelsat shares jump as Ukraine flags curbs on Starlink military-grade service - Reuters",
+      "snippet": "Eutelsat shares jump as Ukraine flags curbs on Starlink military-grade service  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWhWbm1PUEtEQWFtY2lHdjRoWHhiVDdhaHo5U2NoLWMwVXlydnFvYUowbHRHMXNyX2NKSlJQZWY4VTZ1emotSGNkVHZUaEc2OGRJZjhmWFFZbGtVWHBXbzdUdUdJcmRnN2xpOFIxSU5NRzRKZzVtOUNqVXFvNThadVZZa0E0Um5FTUJUMEdhYkV0cjNlemFXUnFrMUViTjljVW9hSGRObGkySjJLcXY5OXBoN3FpQ3ZH?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:53:20.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f042db657d7e2d14",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -456,6 +561,19 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEY0UDJsbGo1MXFVX1FoY1RIdkFLeW96R3hMOEkwQTNRTFpLby1wZEFGRy10SThxSkhSaXZKQ1psYmdiQVZQd19uaDFtZFBZa1pJZzZCT0dsd0lSdmV1UWV0dExiRmU2Y2lVUS1SaWs1UzNkZ25lUnRJaklfWnlOeEFVQTg2dDVQTWF4UWp1aTcyR2JsUWN5d0JzSWRqMlp1ZDY3OXpncUZDN2FuVk9tN0VuaGtIMVpXM1F4RU5QX00xek9q?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-14T11:39:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7e428a8f6eaa8e73",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Fed's Bowman says there's time to 'wait and see' before any more action - Reuters",
+      "snippet": "Fed's Bowman says there's time to 'wait and see' before any more action  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSkUzM2NCLVljQkh5Nmlsd0FjZ2NYSWhFWUI2QUhxUjJpbXU0RFdtOEdYYUlkdnJZUldNcmVIRUFhMnhsVUtPR0tUUEdsYXNaZXlENDF2NlpDQnVOcHRJcnhMV1IxcmtxZHdtYTFDTnlEVEoyNU94cHMwbDAzcWJYeVJzYllzeVlhbk9tZ29lYVRBQXFrc09WNTlyMVV3RTY3VVpwSE9mVHg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:39:43.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2060,6 +2178,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c5d258d3049ee1ac",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "More explosions heard in Saudi Arabia as pressure mounts on US to respond",
+      "snippet": "More explosions have been heard in the Saudi capital, with suspicions once again falling on the Houthi rebels from Yemen.",
+      "link": "https://news.sky.com/story/more-explosions-heard-in-saudi-arabia-as-pressure-mounts-on-us-to-respond-13599168",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-saudi-arabia-yemen_7376682.jpg?20261014113124",
+      "publishedAt": "2026-10-14T09:25:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7d65733f7d3bcd31",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2562,136 +2693,6 @@
       "link": "https://www.washingtonpost.com/politics/2026/10/14/does-video-store-privacy-law-apply-online-supreme-court-will-decide/",
       "imageUrl": null,
       "publishedAt": "2026-10-14T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7129039b71518a1b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T08:59:31.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dce3ee81d9767226",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Switzerland, Norway, Vietnam to sign free trade deal on Sunday, officials say - Reuters",
-      "snippet": "Switzerland, Norway, Vietnam to sign free trade deal on Sunday, officials say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzhxSTM1WUV4Z3RwYVE1cGRkNjBrQWx2bklDWTFOdlQwZ1lsWmxLSFYyWFQ3WDBkVU1DYkdpRnJicjJhYVl4eFRueDZncXFpMldZNGV0RzZLLVFkMXBNdE1lajVVTjV5U3EtTGJ4YlBqdFVYZ1Vab3BFR2dZRm9qVVJIbUNLWlpBMUFCUEFSNEhHRXdQWmxCdWZYWVZQZWhQdUV5MzVfTTJyNnJLU2Y2Z090RVJ6S3BFTk02MzV0akg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T08:58:22.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b5ecaee53a463187",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-      "snippet": "Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India's Delhi.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T08:51:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78b271804e850114",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "snippet": "Jerry Seinfeld dances as pro-Palestine protesters interrupt show",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerry-seinfeld-dances-as-pro-palestine-protesters-interrupt-show?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T08:51:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_424873ff912c7773",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Canadian official says Europe erred on Trump tariffs ",
-      "snippet": "“A real problem for the Western alliance has been the decision by the UK and by the EU to give in to the Trump bullying on tariffs,” Chrystia Freeland told Semafor.",
-      "link": "https://www.semafor.com/article/10/13/2026/canadian-official-says-europe-erred-on-trump-tariffs",
-      "imageUrl": "https://img.semafor.com/d8d0c9404e06bbd6b99c61337459b757009eae56-7078x4721.jpg",
-      "publishedAt": "2026-10-14T08:51:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d05d22a77fd89d46",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "AI task force readies for first meeting",
-      "snippet": "It’s still not clear what exactly will be discussed at the task force’s first meeting, as the group scrambles to organize following its formation earlier this month.",
-      "link": "https://www.semafor.com/article/10/14/2026/ai-task-force-readies-for-first-meeting",
-      "imageUrl": "https://img.semafor.com/30de008d91825559c9d1b4cf8cf79a69795fd530-4724x3156.jpg",
-      "publishedAt": "2026-10-14T08:51:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aaa68af6fcabee3a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Political fallout from Trump’s Russian diesel deal overshadows price impact",
-      "snippet": "The planned imports will “have very little unnoticeable impact on domestic US diesel prices, even if it happens,” an economist told Semafor.",
-      "link": "https://www.semafor.com/article/10/14/2026/political-fallout-from-trumps-russian-diesel-deal-overshadows-price-impact",
-      "imageUrl": "https://img.semafor.com/56a8ea3677d33e09d17ba57928fab9d7b5e750f6-3912x2799.jpg",
-      "publishedAt": "2026-10-14T08:50:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a5724196e4a5db2d",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Trump mulls intelligence-sharing with Ukraine",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy said recently that Kyiv had received no intelligence from partners on a Russian missile attack.",
-      "link": "https://www.semafor.com/article/10/14/2026/trump-mulls-intelligence-sharing-with-ukraine",
-      "imageUrl": "https://img.semafor.com/62d3825fd05f64d5f42c14092f1ba77f16006018-3530x2353.jpg",
-      "publishedAt": "2026-10-14T08:50:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9298701dbe75a84a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Top Democratic super PAC spends more in Michigan, Maine",
-      "snippet": "Senate Democrats’ top super PAC is pouring nearly $7 million more into two major races.",
-      "link": "https://www.semafor.com/article/10/14/2026/top-democratic-super-pac-spends-more-in-michigan-maine",
-      "imageUrl": "https://img.semafor.com/eb70df1843fc352d3e98bb880ea5bb7bf4f70542-7679x5122.jpg",
-      "publishedAt": "2026-10-14T08:50:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cc7aa62a48d546cd",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Morning news brief",
-      "snippet": "Ukrainian President Zelenskyy sits down with NPR to talks about the ongoing war in his country, Pope Leo has lung cancer, the Vatican announced, U.S. ambassador to Greece Kimberly Guilfoyle resigns.",
-      "link": "https://www.npr.org/2026/10/14/nx-s1-5998697/morning-news-brief",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T08:49:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
