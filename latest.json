@@ -1,101 +1,129 @@
 {
-  "updatedAt": "2026-10-14T11:55:05.835Z",
+  "updatedAt": "2026-10-14T12:00:14.308Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.049Z"
+      "lastSuccess": "2026-10-14T12:00:14.636Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.234Z"
+      "lastSuccess": "2026-10-14T12:00:14.692Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.311Z"
+      "lastSuccess": "2026-10-14T12:00:14.433Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.265Z"
+      "lastSuccess": "2026-10-14T12:00:14.678Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.288Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-14T12:00:14.776Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.415Z"
+      "lastSuccess": "2026-10-14T12:00:14.537Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.514Z"
+      "lastSuccess": "2026-10-14T12:00:14.856Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.087Z"
+      "lastSuccess": "2026-10-14T12:00:15.018Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.152Z"
+      "lastSuccess": "2026-10-14T12:00:14.517Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.229Z"
+      "lastSuccess": "2026-10-14T12:00:14.609Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.406Z"
+      "lastSuccess": "2026-10-14T12:00:14.754Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.433Z"
+      "lastSuccess": "2026-10-14T12:00:14.706Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.246Z"
+      "lastSuccess": "2026-10-14T12:00:14.710Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.466Z"
+      "lastSuccess": "2026-10-14T12:00:14.815Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.650Z"
+      "lastSuccess": "2026-10-14T12:00:15.072Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.450Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T12:00:14.755Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.348Z"
+      "lastSuccess": "2026-10-14T12:00:14.671Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T11:55:06.536Z"
+      "lastErrorAt": "2026-10-14T12:00:15.072Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.596Z"
+      "lastSuccess": "2026-10-14T12:00:15.040Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.308Z"
+      "lastSuccess": "2026-10-14T12:00:14.812Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.724Z"
+      "lastSuccess": "2026-10-14T12:00:15.109Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.685Z"
+      "lastSuccess": "2026-10-14T12:00:16.293Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T11:55:06.589Z"
+      "lastSuccess": "2026-10-14T12:00:14.991Z"
     }
   },
   "items": [
+    {
+      "id": "story_6f5fc7c24896b800",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "China is chipping away at America’s AI advantage",
+      "snippet": "Last week, Chinese AI giants Huawei and DeepSeek announced a new partnership to integrate DeepSeek’s TileLang, a programming framework used for AI training and inference, into Huawei’s Ascend chips. If successful, the deal could challenge o",
+      "link": "https://www.washingtonexaminer.com/op-eds/4763279/china-chipping-away-america-ai-advantage/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:00:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_8cc692dda9d2dc58",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Cruise passenger who went overboard rescued after 20 hours at sea",
+      "snippet": "The incident occurred when the Royal Caribbean ship Odyssey of the Seas was sailing southwest of the island of Zakynthos, the Greek coastguard said.",
+      "link": "https://www.cbsnews.com/news/royal-caribbean-cruise-passenger-rescued-20-hours-sea-greece-coastguard/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:57:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f042db657d7e2d14",
       "source": "France24",
@@ -123,6 +151,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e79ac17083df0fd2",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Do any of these Israeli candidates support a Palestinian state?",
+      "snippet": "Do any of these Israeli candidates support a Palestinian state?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:43:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1a22ac9e45ebe6a7",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
+      "snippet": "The post These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/domestic-violence-immigrant-victims-ice-detention",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/09/MIDV-FINAL_maxHeight_3000_maxWidth_3000.jpg?w=1149",
+      "publishedAt": "2026-10-14T11:42:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bf7f51ced82028c4",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -145,6 +199,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T11:39:56.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4a6ee6b306149d0f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "snippet": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+      "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:39:06.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -409,6 +476,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_fdec6377dbdaafb9",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Pope Leo XIV Found to Have Lung Cancer During Surgery",
+      "snippet": "Well wishes are pouring in for Pope Leo XIV after the 71-year-old pontiff was diagnosed with lung cancer during surgery to remove a nodule on his lung on Tuesday. The Vatican stated that doctors confirmed a diagnosis of pulmonary adenocarci",
+      "link": "https://www.today.com/video/pope-leo-xiv-diagnosed-with-pulmonary-adenocarcinoma-271548997632",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:11:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_0ead4240c6a95aaf",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -418,6 +498,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T11:11:11.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_25e1690863705e25",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - AP News",
+      "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:10:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1369,6 +1462,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e07a26064682fb68",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Prosecution labels Russell Brand a ruthless sexual predator at opening of his sex assault trial - AP News",
+      "snippet": "Prosecution labels Russell Brand a ruthless sexual predator at opening of his sex assault trial  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRC11N3ZtMU1YdXpMRzUzRjF0YmZKYlpfQUZZTDRMeHRhUGpYMG9zbTA4Q1hrRFBYekJha1ZhUXF1UVNHMS1oRHZWQmNHeHpIOFBPTDVCUnJkVklUZ2lMeEpYc2ZFSTFpWVloaVR4Vmx2SThtTm04Z1o2V3F2T0NpamV6YkNsY2NYLVNDRlpJTDMwcHZyV3hpVmZBWkkxbXp3MjhDemo2T0Zqa2ctcWVNdzJ3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T09:47:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_eba116ed236183c2",
@@ -2588,110 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVpGTlMzb2E2S29sQlY4TS04Wlg3MjdKSnFlWUJYOWRCdkoyUXRxdkt0N3pPZTc4RVpzSng4MjdNUEhOcXNsc2NmZzBmeGdabUg2TnhjcXF1VU84Uzcta0lIOGh4Wmp6Y1hvTWlCVnlTOEJhd2FiWlE4VTBuMlBEaU5wRDlkajFhNTF5cldLa3ZraVdoVUxEUWlPcUYtNlBmSUFNZkQ3WXBqYnJMZ3hCQkM4bnVsYW0wNlE?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-14T07:42:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb8be759a67968f5",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
-      "snippet": "Firms such as Amazon and eBay would be responsible for collecting tax owed by retailers selling on their platforms\nA tax crackdown on online marketplaces such as Amazon and eBay that could raise up to £1bn more for the Treasury is reportedl",
-      "link": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:42:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_73d0787b9648b40d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Federal appeals court rules some nonviolent felons can legally own guns",
-      "snippet": "The Third Circuit ruled a federal felon gun ban applies to violent offenders but not a man whose conviction stemmed from a DUI in the early 2000s.",
-      "link": "https://www.foxnews.com/politics/third-circuit-felon-gun-ban-dui-ruling",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:42:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d4e6597665e307e3",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Palestinians say Israel’s democracy ‘is a joke’",
-      "snippet": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:41:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b21dd03d51917c84",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-      "snippet": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:38:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_884dd11bd6375ab2",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Yamal magic helps Barcelona beat Galatasaray in Champions League",
-      "snippet": "Yamal provided two assists and 'turned the game around' for Barcelona, who won 4-1 in Istanbul.",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:35:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bafecdf5f01e0c35",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Spain's inflation rises at fastest pace in more than three years - Reuters",
-      "snippet": "Spain's inflation rises at fastest pace in more than three years  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDhaREIyYllJX0htTGZZa1ByMUJOTTFqcTdOMnNoWkRHMS1IWGZ5d29hUUFsd2xHMHpRZy1tQnZ5czZrcHhGVTNBeGZtWXVuQ3dEVDBjU2ctMzdIRkRIMzFSU3NzWVljRHBhRk0wZlJ4dEJ5UUdMdTVLMHl5UWpVSU56eW9kQ1lFSEh6QlE1TGJnSjVGcFVuS2trMjlXMEtsMFpzRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:34:48.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d3391e46319bc71e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
-      "snippet": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.",
-      "link": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:32:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31cadb1b77bea5cd",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies - Reuters",
-      "snippet": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T07:32:17.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
