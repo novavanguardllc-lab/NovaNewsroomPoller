@@ -1,102 +1,117 @@
 {
-  "updatedAt": "2026-10-14T14:25:05.162Z",
+  "updatedAt": "2026-10-14T14:30:10.479Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.863Z"
+      "lastSuccess": "2026-10-14T14:30:11.129Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.346Z"
+      "lastSuccess": "2026-10-14T14:30:10.664Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.468Z"
+      "lastSuccess": "2026-10-14T14:30:10.606Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.426Z"
+      "lastSuccess": "2026-10-14T14:30:10.764Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.399Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-14T14:30:10.787Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.325Z"
+      "lastSuccess": "2026-10-14T14:30:10.660Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.701Z"
+      "lastSuccess": "2026-10-14T14:30:10.879Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.813Z"
+      "lastSuccess": "2026-10-14T14:30:11.013Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.539Z"
+      "lastSuccess": "2026-10-14T14:30:10.647Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.594Z"
+      "lastSuccess": "2026-10-14T14:30:10.599Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.645Z"
+      "lastSuccess": "2026-10-14T14:30:10.698Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.603Z"
+      "lastSuccess": "2026-10-14T14:30:10.786Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.376Z"
+      "lastSuccess": "2026-10-14T14:30:10.721Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.781Z"
+      "lastSuccess": "2026-10-14T14:30:10.760Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.765Z"
+      "lastSuccess": "2026-10-14T14:30:10.825Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T14:25:05.702Z"
+      "lastErrorAt": "2026-10-14T14:30:10.781Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.565Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-14T14:30:20.490Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T14:25:05.824Z"
+      "lastErrorAt": "2026-10-14T14:30:10.795Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.819Z"
+      "lastSuccess": "2026-10-14T14:30:10.806Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.460Z"
+      "lastSuccess": "2026-10-14T14:30:10.780Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:05.844Z"
+      "lastSuccess": "2026-10-14T14:30:10.951Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:07.931Z"
+      "lastSuccess": "2026-10-14T14:30:11.338Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T14:25:06.017Z"
+      "lastSuccess": "2026-10-14T14:30:10.929Z"
     }
   },
   "items": [
+    {
+      "id": "story_0f90eccdf99f7646",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dem senator says 'zero interest in running for president' in debate with GOP opponent",
+      "snippet": "Democratic Sen. Jon Ossoff, who has repeatedly indicated that he is not interested in running for president in 2028, reiterated his position during a Georgia U.S. Senate debate.",
+      "link": "https://www.foxnews.com/politics/dem-senator-says-zero-interest-running-president-debate-gop-opponent",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T14:25:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7c843fc2f965f2ae",
       "source": "Wash Examiner",
@@ -106,6 +121,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/state/4765290/ty-masterson-advertisement-democratic-support-kansas-senate-race/",
       "imageUrl": null,
       "publishedAt": "2026-10-14T14:23:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c387080230ff349b",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Guilfoyle ‘certainly more’ than just some woman Trump’s son dated: Grisham",
+      "snippet": "Former White House press secretary Stephanie Grisham said Tuesday that recently ousted former ambassador to Greece Kimberly Guilfoyle has more ties to President Donald Trump’s family than what he insinuated. “I spent four full years and alm",
+      "link": "https://thehill.com/homenews/administration/6147513-guilfoyle-trump-family-ties/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP24197733062763-e1791482611663.jpg?w=900",
+      "publishedAt": "2026-10-14T14:20:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -822,6 +850,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-14T13:28:01.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9a6403afc4fa81ed",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "‘20 Days in Mariupol’ - AP News",
+      "snippet": "‘20 Days in Mariupol’  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fdEpYLUhDOFZNVWxFTXNYVGdoTU5acUhUWlduUnQ3SXpiblBBX0UzV1FTZ1JjSThtTzhnX2RuNXNUb1NsMFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:27:55.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2360,6 +2401,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3b0185df0c55e072",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US bank regulator faults several large lenders over 'debanking' practices - Reuters",
+      "snippet": "US bank regulator faults several large lenders over 'debanking' practices  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmk5WGVUMUFYQ2pEcWhVMmUwTmYxUzlHMjlqeDVnY2xKc0RWVXZXeUJYZ3I4SzNHMXQyMktKTlJrRjFSRjBvQ2hqNjdDR0VvRnpBV3U3Qm9vQ1otZFgzV2VPaTdKNDBvVU13c2Y1MHVxVUQxVnZyYWNtc2NNY0ZBMERMd1pTM01pZWZZMVlpQm5lWWZrazdmR2NRTkZ5UjNXS1NBbGxKeDdaTXFnSy1HQVctMi05ZkVfOXNDOURncTJtNGRoTUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T11:30:52.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_128a7a5fee98e6cb",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2641,58 +2695,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video",
       "imageUrl": null,
       "publishedAt": "2026-10-14T11:11:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_25e1690863705e25",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments - AP News",
-      "snippet": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpCTWlhR21RaWFXLXJlVTA2Ym5CcVlfZlJqcHZycC11QkN5UEtieS0xTEZBVlZEeHJ1TzM5NmhlNGUtTk5vYWEyVU50ZVIxbDdjVkxfeHFCZnh5UV9ZaTJsbWdrWFJNYlRSNFpjRmtkRWtZdHNOTE1EVkIxX0J3djZ6N0VBNDJ6NGpvRlZ4ZFVDRWIzdVozV0pudllQOFIybE1qdlhWZkJoeWJy?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T11:10:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_034bc5dc4d587e9a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Zelensky to Visit U.K. as Ukraine Presses Allies on Intelligence Sharing",
-      "snippet": "President Volodymyr Zelensky said Ukraine received “no early warning from our partners” about a Russian attack. President Trump has said Washington is still “sharing intel.”",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T11:09:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5c72f280269f4495",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Bulgaria expects to join NATO anti-drone initiative this month, says minister - Reuters",
-      "snippet": "Bulgaria expects to join NATO anti-drone initiative this month, says minister  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlIxWW1TMjZYeUY2Y1p6TkZwdWZQREN1MjktX3hEa2ZSbVNRbzRqVDVaUmMyYmpJdUxEQlZocEttbHZSS1NEVWszaXVfOW11eUpzRV9Lem1odnJ3bi1JTjJiYVhFVEUxd2xqSGh0VXhXTjJTN1l4WWdReHp0UzI2SktHWGZHcnphSjZOcEdKcU5xb2JablpwS1BZUktuRURNVE9uMWVieFJZbjZqMTNlcWJoOWx6WE0xblpJT1gzRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T11:07:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9a941508d7e33777",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-      "snippet": "Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv's ability to control its drones as Russian attacks continue unabated.",
-      "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T11:07:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
