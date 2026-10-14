@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-10-14T00:00:13.458Z",
+  "updatedAt": "2026-10-14T00:05:05.816Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.733Z"
+      "lastSuccess": "2026-10-14T00:05:05.931Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.610Z"
+      "lastSuccess": "2026-10-14T00:05:05.996Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.601Z"
+      "lastSuccess": "2026-10-14T00:05:05.962Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.657Z"
+      "lastSuccess": "2026-10-14T00:05:06.058Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.554Z"
+      "lastSuccess": "2026-10-14T00:05:05.983Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.575Z"
+      "lastSuccess": "2026-10-14T00:05:06.506Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.681Z"
+      "lastSuccess": "2026-10-14T00:05:06.021Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.711Z"
+      "lastSuccess": "2026-10-14T00:05:06.094Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.811Z"
+      "lastSuccess": "2026-10-14T00:05:06.142Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.751Z"
+      "lastSuccess": "2026-10-14T00:05:06.099Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.693Z"
+      "lastSuccess": "2026-10-14T00:05:05.998Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.815Z"
+      "lastSuccess": "2026-10-14T00:05:06.065Z"
     },
     "Washington Post": {
-      "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-14T00:00:13.812Z"
+      "online": true,
+      "lastSuccess": "2026-10-14T00:05:06.194Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.803Z"
+      "lastSuccess": "2026-10-14T00:05:06.134Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.833Z"
+      "lastSuccess": "2026-10-14T00:05:07.555Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.818Z"
+      "lastSuccess": "2026-10-14T00:05:06.062Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.843Z"
+      "lastSuccess": "2026-10-14T00:05:06.164Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.798Z"
+      "lastSuccess": "2026-10-14T00:05:06.129Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T00:00:13.835Z"
+      "lastErrorAt": "2026-10-14T00:05:06.168Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.960Z"
+      "lastSuccess": "2026-10-14T00:05:06.158Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:13.860Z"
+      "lastSuccess": "2026-10-14T00:05:06.175Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:14.091Z"
+      "lastSuccess": "2026-10-14T00:05:06.253Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T00:00:14.219Z"
+      "lastSuccess": "2026-10-14T00:05:07.830Z"
     }
   },
   "items": [
+    {
+      "id": "story_2df2e54f416178c8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Former Chicago police detective linked by DNA to 8-year-old girl's cold-case murder, police say",
+      "snippet": "DNA evidence and a fingerprint linked Thomas F. McInerney Jr., a former Chicago police detective, to the 1960 cold case murder of Gloria Kowalewicz.",
+      "link": "https://www.foxnews.com/us/former-chicago-police-detective-linked-dna-8-year-old-girl-cold-case-murder-police-say",
+      "imageUrl": null,
+      "publishedAt": "2026-10-13T23:55:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2472058ed3f93ca0",
       "source": "ABC News",
@@ -2680,19 +2692,6 @@
       "link": "https://thehill.com/policy/energy-environment/6146426-trump-attacks-offshore-wind-energy/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/69f24dabc77711.62107390.jpeg?w=900",
       "publishedAt": "2026-10-13T20:30:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e215636dd2452ac4",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Trump asks Greece ambassador to resign amid ethics scandal",
-      "snippet": "US President Donald Trump's administration has asked his ambassador to Greece Kimberly Guilfoyle to resign, the White House said Tuesday, amid allegations that she sought money from a Trump supporter and accepted lavish hospitality from wea",
-      "link": "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal",
-      "imageUrl": "https://s.france24.com/media/display/146c0990-c744-11f1-943e-3774aeac812a/w:1024/p:16x9/EN-20261013-220527-220837-CS.jpg",
-      "publishedAt": "2026-10-13T20:29:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
