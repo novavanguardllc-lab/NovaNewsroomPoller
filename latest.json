@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-10-14T13:10:07.293Z",
+  "updatedAt": "2026-10-14T13:15:07.141Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.976Z"
+      "lastSuccess": "2026-10-14T13:15:07.378Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.835Z"
+      "lastSuccess": "2026-10-14T13:15:07.273Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.454Z"
+      "lastSuccess": "2026-10-14T13:15:07.215Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.614Z"
+      "lastSuccess": "2026-10-14T13:15:07.450Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.597Z"
+      "lastSuccess": "2026-10-14T13:15:07.454Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.474Z"
+      "lastSuccess": "2026-10-14T13:15:07.402Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.810Z"
+      "lastSuccess": "2026-10-14T13:15:07.446Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.653Z"
+      "lastSuccess": "2026-10-14T13:15:07.723Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.576Z"
+      "lastSuccess": "2026-10-14T13:15:07.265Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.690Z"
+      "lastSuccess": "2026-10-14T13:15:07.347Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.759Z"
+      "lastSuccess": "2026-10-14T13:15:07.398Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.853Z"
+      "lastSuccess": "2026-10-14T13:15:07.458Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.969Z"
+      "lastSuccess": "2026-10-14T13:15:07.460Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.891Z"
+      "lastSuccess": "2026-10-14T13:15:07.462Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:08.008Z"
+      "lastSuccess": "2026-10-14T13:15:07.508Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.894Z"
+      "online": false,
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-14T13:15:07.468Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.949Z"
+      "lastSuccess": "2026-10-14T13:15:07.417Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-14T13:10:08.119Z"
+      "lastErrorAt": "2026-10-14T13:15:07.473Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:08.118Z"
+      "lastSuccess": "2026-10-14T13:15:07.499Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:07.879Z"
+      "lastSuccess": "2026-10-14T13:15:07.515Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:08.155Z"
+      "lastSuccess": "2026-10-14T13:15:07.530Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:09.944Z"
+      "lastSuccess": "2026-10-14T13:15:09.837Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-14T13:10:08.096Z"
+      "lastSuccess": "2026-10-14T13:15:07.678Z"
     }
   },
   "items": [
+    {
+      "id": "story_3e6e55ccfe1077f4",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Winnie-the-Pooh turns 100",
+      "snippet": "A.A. Milne's beloved character Winnie-the-Pooh first appeared in book form on Oct. 14, 1926, and the teddy bear with a taste for honey has been delighting generations of readers ever since. Charles Osgood traced the origins and longevity of",
+      "link": "https://www.cbsnews.com/video/winnie-the-pooh-turns-100/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:12:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fcb70d3401192b69",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "SEC accuses LSU of defying its rules as Will Wade’s basketball roster adds fuel to a burning fire",
+      "snippet": "The LSU Tigers filed a motion to dismiss, but the SEC fired back alleging school and Will Wade keep testing conference professionalism rules.",
+      "link": "https://www.foxnews.com/outkick-sports/sec-accuses-lsu-defying-rules-will-wade-basketball-roster-adds-fuel-burning-fire",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T13:09:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b1b213afc8f6aa63",
       "source": "CBS News",
@@ -519,6 +546,19 @@
       "headline": "Germany news: Merz sets out EU priorities after urging reforms",
       "snippet": "Chancellor Merz gave a major policy statement. Meanwhile, a Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. DW has more.",
       "link": "https://www.dw.com/en/germany-news-merz-sets-out-eu-priorities-after-urging-reforms/live-79656436?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-14T12:34:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2992a50755925f48",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "WATCH LIVE: German Chancellor Merz sets out priorities in address ahead of EU summit",
+      "snippet": "Chancellor Merz gave a major policy statement. Meanwhile, a Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. DW has more.",
+      "link": "https://www.dw.com/en/watch-live-german-chancellor-merz-sets-out-priorities-in-address-ahead-of-eu-summit/live-79656436?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-14T12:34:00.000Z",
       "tier": "routine",
@@ -2656,45 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_b6d898b70a34f663",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Pope Leo’s Cancer Diagnosis: What Happens Next",
-      "snippet": "Pope Leo XIV was diagnosed with a common form of lung cancer on Tuesday, about a year and half into his papacy. He still plans to travel to South America next month.",
-      "link": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:32:46.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_22eecc58c7f76912",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "A Pilgrim and a Retiree: Victims of the Houthi Airport Attack in Saudi Arabia",
-      "snippet": "The strike was the Iran-backed militia’s most lethal against the kingdom, by far, during their long conflict.",
-      "link": "https://www.nytimes.com/2026/10/14/world/middleeast/houthi-airport-attack-victims-saudi-arabia.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T09:30:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9af71216cad21f21",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Nvidia's Huang announces new investments in French tech sector",
-      "snippet": "Nvidia CEO Jensen Huang stops by Paris to tout new stakes in French AI-enabled tech firms like medical booking site Doctolib. Also in this edition: OpenAI says it caught a spy red-handed, and China's trade surplus continues to boom despite ",
-      "link": "https://www.france24.com/en/tv-shows/business/20261014-nvidia-s-huang-announces-new-investments-in-french-tech-sector",
-      "imageUrl": "https://s.france24.com/media/display/0a47b2a2-c7a8-11f1-8ac4-3774aeac812a/w:1024/p:16x9/BUSINESS-DAILY-141026.jpg",
-      "publishedAt": "2026-10-14T09:29:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
