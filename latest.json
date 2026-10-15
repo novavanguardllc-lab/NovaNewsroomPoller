@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-15T05:00:11.630Z",
+  "updatedAt": "2026-10-15T05:05:05.663Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.694Z"
+      "lastSuccess": "2026-10-15T05:05:05.850Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.710Z"
+      "lastSuccess": "2026-10-15T05:05:06.152Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.783Z"
+      "lastSuccess": "2026-10-15T05:05:05.913Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.716Z"
+      "lastSuccess": "2026-10-15T05:05:05.872Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.688Z"
+      "lastSuccess": "2026-10-15T05:05:05.833Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.690Z"
+      "lastSuccess": "2026-10-15T05:05:05.896Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.718Z"
+      "lastSuccess": "2026-10-15T05:05:05.895Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.723Z"
+      "lastSuccess": "2026-10-15T05:05:05.929Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.791Z"
+      "lastSuccess": "2026-10-15T05:05:06.004Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.674Z"
+      "lastSuccess": "2026-10-15T05:05:05.752Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:12.114Z"
+      "lastSuccess": "2026-10-15T05:05:06.188Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.829Z"
+      "lastSuccess": "2026-10-15T05:05:05.950Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.809Z"
+      "lastSuccess": "2026-10-15T05:05:05.999Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.795Z"
+      "lastSuccess": "2026-10-15T05:05:05.900Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.770Z"
+      "lastSuccess": "2026-10-15T05:05:05.989Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-15T05:00:11.818Z"
+      "lastErrorAt": "2026-10-15T05:05:06.000Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.732Z"
+      "lastSuccess": "2026-10-15T05:05:05.936Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.887Z"
+      "lastSuccess": "2026-10-15T05:05:06.009Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.867Z"
+      "lastSuccess": "2026-10-15T05:05:06.077Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.878Z"
+      "lastSuccess": "2026-10-15T05:05:06.028Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-15T05:00:11.871Z"
+      "lastErrorAt": "2026-10-15T05:05:06.015Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.937Z"
+      "lastSuccess": "2026-10-15T05:05:06.038Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-15T05:00:11.907Z"
+      "lastSuccess": "2026-10-15T05:05:06.138Z"
     }
   },
   "items": [
+    {
+      "id": "story_e0e951f2ab737d91",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Theocracy Is Not What I Want for Israel",
+      "snippet": "Israeli voters have an opportunity to end the stranglehold the ultra-Orthodox have on some aspects of society.",
+      "link": "https://www.nytimes.com/2026/10/15/opinion/israel-elections-ultra-orthodox-jewish.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T05:00:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_af6bb828545b31c9",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "France Is on the Brink",
+      "snippet": "A fiscal crisis threatens to bring the country to ruin.",
+      "link": "https://www.nytimes.com/2026/10/15/opinion/france-protests-debt-budget.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T05:00:05.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_b59340b75ada7af3",
       "source": "Al Jazeera",
@@ -133,6 +159,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-15T04:25:03.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_50efd0e8abba31cc",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says - Reuters",
+      "snippet": "US military weighs use of ‘mother of all bombs’ in potential future strikes on Iran, CNN says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkE2TjhWV0FPQU53YTl2bDFSaHNWVDBnMkFlekJxWTZ0RTFMTDRxa2czR0F4alduTnIzN2JBRkxlS1ZIb2I2Wk56WXE5OFBDQ0Z3cVNkcmpXWkNjc01JZm9hLWtqSFZHUktvUUt4S2hVTENQOXJ5Wk5mam93SjgxcW15SkttV2s0bU1TeFotalEtQXJ3M0MwSGtGd3FtdWp4eUlJSm1ubGJmT1ktai1YRk9fMGJPWmpaVDBBMA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T04:23:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -237,6 +276,19 @@
       "imageUrl": "https://s.france24.com/media/display/3ec22678-c84a-11f1-85e1-4dd8ac2cf3bf/w:1024/p:16x9/000-B6L73WH.jpg",
       "publishedAt": "2026-10-15T03:52:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4c89e2e6c807f615",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump says advanced defense test range to be located in Montana - Reuters",
+      "snippet": "Trump says advanced defense test range to be located in Montana  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnJoVHVWYWF3Z0hWc0FnbjBaN1FhT3VDZGEwbXdWcUNBS05sWDJRWmtoSU9JbW1ybmlPT1FqdGFWLTRtYXdFOWExMXVTVngxZ2dwYzhVY0tkMEtRZ2tYeHl0a1lQSGVET0pBWVBiQW1qbHpFcHJSdTlpUXRXWlBaeWd2Wnp3NXpCc0FxZnNxTG9rNzZFdVVNTDRQdHRJQXZ5aUJUUWR0Zi1XRmxiUndaeTFGQTNNU2JLYXM2eg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T03:52:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2644,58 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_e89832487c81d14d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Why So Many People Still Are Not Screened for Lung Cancer",
-      "snippet": "Regular scans could catch lung cancers like Pope Leo XIV’s sooner, but many people at risk don’t qualify for screening. Doctors want to change that.",
-      "link": "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T22:33:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7a9f61fb354e36a0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "DOJ threatens emergency legal action against California over suspected noncitizen voters",
-      "snippet": "The Justice Department threatens emergency legal action against California over suspected noncitizens on voter rolls ahead of midterm elections.",
-      "link": "https://www.foxnews.com/politics/doj-threatens-emergency-legal-action-california-suspected-noncitizen-voters",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T22:33:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ccedf315e333bea7",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Sally Rooney says support for Palestine Action means her books sales are blocked in UK",
-      "snippet": "Irish novelist Sally Rooney said her support for Palestine Action, an organization banned by the British government, means she is blocked from selling her books in the United Kingdom. Rooney, the author of “Normal People” and “Intermezzo,” ",
-      "link": "https://thehill.com/blogs/in-the-know/6149404-rooney-palestine-action-uk-ban/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26287559596250-e1792016827152.jpg?w=900",
-      "publishedAt": "2026-10-14T22:32:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a83560c8fbd5e31",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Apple gears up for AI product push in China",
-      "snippet": "Apple’s first foldable smartphone, which features Alibaba’s AI, is expected to launch in China next week.",
-      "link": "https://www.semafor.com/article/10/14/2026/apple-intelligence-readies-its-debut-in-china",
-      "imageUrl": "https://img.semafor.com/84919160c7985a05ade90567bc63537a755c7d3b-8012x5342.jpg",
-      "publishedAt": "2026-10-14T22:32:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
