@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-15T03:35:04.366Z",
+  "updatedAt": "2026-10-15T03:40:07.770Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.476Z"
+      "lastSuccess": "2026-10-15T03:40:07.908Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.892Z"
+      "lastSuccess": "2026-10-15T03:40:08.511Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.561Z"
+      "lastSuccess": "2026-10-15T03:40:08.152Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.500Z"
+      "lastSuccess": "2026-10-15T03:40:08.084Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.537Z"
+      "lastSuccess": "2026-10-15T03:40:08.014Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.503Z"
+      "lastSuccess": "2026-10-15T03:40:08.028Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.595Z"
+      "lastSuccess": "2026-10-15T03:40:08.098Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.619Z"
+      "lastSuccess": "2026-10-15T03:40:08.111Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.716Z"
+      "lastSuccess": "2026-10-15T03:40:08.107Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.457Z"
+      "lastSuccess": "2026-10-15T03:40:08.070Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.908Z"
+      "lastSuccess": "2026-10-15T03:40:08.369Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.580Z"
+      "lastSuccess": "2026-10-15T03:40:08.330Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.712Z"
+      "lastSuccess": "2026-10-15T03:40:08.248Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.604Z"
+      "lastSuccess": "2026-10-15T03:40:08.283Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.696Z"
+      "lastSuccess": "2026-10-15T03:40:08.212Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-15T03:35:04.634Z"
+      "lastErrorAt": "2026-10-15T03:40:08.343Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.722Z"
+      "lastSuccess": "2026-10-15T03:40:08.291Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.727Z"
+      "lastSuccess": "2026-10-15T03:40:08.384Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.797Z"
+      "lastSuccess": "2026-10-15T03:40:08.475Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.701Z"
+      "lastSuccess": "2026-10-15T03:40:08.487Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-15T03:35:04.697Z"
+      "lastErrorAt": "2026-10-15T03:40:08.384Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.752Z"
+      "lastSuccess": "2026-10-15T03:40:08.585Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-15T03:35:04.876Z"
+      "lastSuccess": "2026-10-15T03:40:08.553Z"
     }
   },
   "items": [
@@ -367,6 +367,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-15T02:30:48.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4fe23fb9dfbee5e7",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+      "snippet": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+      "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T02:27:52.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2680,19 +2693,6 @@
       "link": "https://www.semafor.com/article/10/14/2026/trump-doubling-down-on-russian-diesel-deal-as-republicans-run-from-it",
       "imageUrl": "https://img.semafor.com/1564534b5a6bf45870817bc096f89d4ded78d25a-4150x2767.jpg",
       "publishedAt": "2026-10-14T22:01:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6698b419824a80fb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fox News Poll: Cost-of-living concerns weigh on GOP in midterms",
-      "snippet": "A Fox News survey finds Trump's approval on inflation hitting a new low of 22% as six in 10 voters say cost of living is their top economic worry.",
-      "link": "https://www.foxnews.com/politics/fox-news-poll-cost-living-concerns-weigh-gop-midterms",
-      "imageUrl": null,
-      "publishedAt": "2026-10-14T22:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
