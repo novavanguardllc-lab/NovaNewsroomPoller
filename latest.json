@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-15T11:10:06.664Z",
+  "updatedAt": "2026-10-15T11:15:07.158Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:06.919Z"
+      "lastSuccess": "2026-10-15T11:15:07.218Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.200Z"
+      "lastSuccess": "2026-10-15T11:15:07.481Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.462Z"
+      "lastSuccess": "2026-10-15T11:15:07.557Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:06.943Z"
+      "lastSuccess": "2026-10-15T11:15:07.462Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.243Z"
+      "lastSuccess": "2026-10-15T11:15:07.441Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.363Z"
+      "lastSuccess": "2026-10-15T11:15:07.638Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:06.960Z"
+      "lastSuccess": "2026-10-15T11:15:07.518Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.001Z"
+      "lastSuccess": "2026-10-15T11:15:07.640Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.024Z"
+      "lastSuccess": "2026-10-15T11:15:07.577Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.178Z"
+      "lastSuccess": "2026-10-15T11:15:07.319Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.078Z"
+      "lastSuccess": "2026-10-15T11:15:07.784Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.262Z"
+      "lastSuccess": "2026-10-15T11:15:07.581Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.446Z"
+      "lastSuccess": "2026-10-15T11:15:07.623Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.439Z"
+      "lastSuccess": "2026-10-15T11:15:07.561Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.357Z"
+      "lastSuccess": "2026-10-15T11:15:07.686Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-15T11:10:07.202Z"
+      "lastErrorAt": "2026-10-15T11:15:07.641Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.042Z"
+      "lastSuccess": "2026-10-15T11:15:07.599Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.507Z"
+      "lastSuccess": "2026-10-15T11:15:07.803Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.684Z"
+      "lastSuccess": "2026-10-15T11:15:07.736Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.482Z"
+      "lastSuccess": "2026-10-15T11:15:07.745Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-15T11:10:07.486Z"
+      "lastErrorAt": "2026-10-15T11:15:07.797Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:07.571Z"
+      "lastSuccess": "2026-10-15T11:15:07.859Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-15T11:10:10.204Z"
+      "lastSuccess": "2026-10-15T11:15:11.002Z"
     }
   },
   "items": [
+    {
+      "id": "story_4db14e94c7820394",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Watch: Harry and Meghan at first joint engagement since UK return",
+      "snippet": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
+      "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T11:10:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7006a45746f963e0",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "China and North Korea open new bridge as ties improve",
+      "snippet": "The Yalu River Bridge is now the biggest land crossing between the two allied nations.",
+      "link": "https://www.semafor.com/article/10/15/2026/north-korea-and-china-open-new-bridge-as-ties-improve",
+      "imageUrl": "https://img.semafor.com/7f2c9b6e0feebd6658be58f6f40e37ca3c594a91-5882x3922.jpg",
+      "publishedAt": "2026-10-15T11:10:27.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_7252157cb9eb6472",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "'American abandonment' threatens Ukraine's civilians in war against Russia",
+      "snippet": "PRESS REVIEW – Thursday, October 15: First, reported Starlink disruptions in Ukraine make the European front pages. Next, US papers go into more detail about the situation. Also, an unusual alliance forms in Germany between far-right and fa",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20261015-american-abandonment-threatens-ukraine-s-civilians-in-war-against-russia",
+      "imageUrl": "https://s.france24.com/media/display/1ee85026-c885-11f1-9705-2d1c143cdef3/w:1024/p:16x9/capture-5116b1de.jpg",
+      "publishedAt": "2026-10-15T11:09:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_aa0f6aa1e15e273d",
       "source": "CBS News",
@@ -106,6 +145,19 @@
       "link": "https://www.cbsnews.com/news/hilary-swank-pregnant-third-child-52/",
       "imageUrl": null,
       "publishedAt": "2026-10-15T11:08:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_87146ff1fe3e14aa",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Bradley Chubb's detailed version of Alaric Jackson punch incident paints Rams lineman as a hothead",
+      "snippet": "Bradley Chubb gave a moment-by-moment account of the trash talk that led to Alaric Jackson's punch, which then led to a second NFL suspension.",
+      "link": "https://www.foxnews.com/outkick-sports/bradley-chubb-detailed-version-alaric-jackson-punch-incident-paints-rams-lineman-hothead",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T11:07:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +176,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4df050734ccaaa5b",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+      "snippet": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T11:06:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ab26f57dfdb6a007",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -132,6 +197,19 @@
       "link": "https://www.semafor.com/article/10/15/2026/kenya-hikes-fuel-prices-to-tame-government-costs",
       "imageUrl": "https://img.semafor.com/face1090c264b98c999853acac881de83f6a5ade-5500x3667.jpg",
       "publishedAt": "2026-10-15T11:05:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5fe1c305d5beab72",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Some GOP walk the line on Trump’s tariffs and a look at Apple HomeView: Morning Rundown",
+      "snippet": "Some Republican candidates are putting distance between themselves and Trump’s tariff policies.",
+      "link": "https://www.nbcnews.com/news/us-news/gop-trump-tariffs-apple-homeview-morning-rundown-rcna603645",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T11:01:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -577,6 +655,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_53863c12d474a141",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Israeli firm used online ads to run vast spy operation, researchers say - Reuters",
+      "snippet": "Israeli firm used online ads to run vast spy operation, researchers say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEJrbGVXVGZlSEYzZnNuUVJYQVJKTHY4R2xJcWo4aVdGMERyS3p3YzQtNXFNbmUzMk1seXAydGtmZzhDeFNiWjBuWkpxa25PdUlpeU92bkdnZnFETDFGQ1VGMjR0S0J0RnZ3dE9sa1BCOU1FRlBSZ1h2R3BOeUJLT3JMc29Ib05BeC1FV0FxdUQyS3ZNajcxNXZ3ZVF1bmNWdkhqMElBMDNNa2dNVUM4NVRQeWl2dDkzLWJrSg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T10:16:07.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_7a3afc26dea53977",
@@ -1073,6 +1164,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2ddbecd81566bede",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "How Iran's precision strikes picked apart Gulf infrastructure - Reuters",
+      "snippet": "How Iran's precision strikes picked apart Gulf infrastructure  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmZVZ0RfSms3U0s1SVE3N3ZMeWxLaVhtTjczazRmNU40UkpCUldVbWZJVUtJVkt3cHdLOEpoTl9qY0lFXzdKWUtydmYzVi1MeDExbXB6eHc3NjAyTi1CT2lveE5WVUNPeHV5SndkU3BmRUNiS1JCQUI2bDYyZjd6RjltYUhzeFVmUDFPSU93NWo?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4d284ab66b29c4da",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -1160,6 +1264,19 @@
       "imageUrl": "https://s.france24.com/media/display/8ff98ea6-c876-11f1-99ac-6313a763b466/w:1024/p:16x9/capture-5eb8f3a5.jpg",
       "publishedAt": "2026-10-15T09:50:30.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_37766a1342da4b30",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Why is the haze so bad in Southeast Asia this year? - Reuters",
+      "snippet": "Why is the haze so bad in Southeast Asia this year?  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVRUYWpjQkVXTUgzT2pjYXplRHh1TGtHc0JPQVJCdFVjNU9oWXRCUHFNbEhwQzhmZ2VKSlNBQy1sRGszYU5objNEbDFiZ1BFNV9hVnZQWkE3MWtGV1VucndWRDMycG82OUI0YnpKLTBPbjloMGhSZjhxOGxVZ3paV0d3MFAySDBSV2R2b0dRWnNLQUtYTkVmdk1YRXIwcUJ4X2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T09:49:54.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2579,123 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_8b312023a8ce6d42",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "At least 10 children killed in Pakistan school collapse",
-      "snippet": "At least 10 children are dead after a school roof collapsed in Pakistan.",
-      "link": "https://news.sky.com/story/at-least-10-children-killed-in-pakistan-school-collapse-13599466",
-      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
-      "publishedAt": "2026-10-15T06:21:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bfc9c60a70ea2afe",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "At least 17 children killed in Pakistan school collapse",
-      "snippet": "At least 17 children and their teacher are dead after a school roof collapsed in Pakistan.",
-      "link": "https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466",
-      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-peshawar-pakistan_7377321.jpg?20261015074713",
-      "publishedAt": "2026-10-15T06:21:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_c7eb7d82313cc269",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Governments globally to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says - Reuters",
-      "snippet": "Governments globally to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbURrVzdKbi1YZzdaMUh1Si0tYm5qTGlWNDlDNUR0SnY5ejB3MmlYYi1MUXE0RzBuS0pyTDZtODNzU3JPeDU5Qy1md083MW5BVGpNODFxVk1Rd2dCbDA2bHdHMnd2ZFE4RXpPU1l5Ql9sZW1ibHZkcGhxeXhjQmFWQnBOb01KZ0w5dDNPZlZlbGoyODM4dGZ6NEVDTzhFcmRwdVNCenA3emozdS10Q2ZGaDlBSkh3emJyNzZqQjhFQ0E2SnI5WHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:21:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b8ce134ea3c36e95",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "MAURA CAREY - AP News",
-      "snippet": "MAURA CAREY  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xenA4b3RRcWNuekFwdVFaTGVNR25WdjlHcHJsbk5SNkVrcTV5V2ZJaWxvdFVUQ0RQWXJpMmR0ZFJYbmlXN0xYbTlNMEw5Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:18:04.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d0039a428824f0f2",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "G20 finance ministers, central bankers gather amid fallout from Iran war",
-      "snippet": "Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy.",
-      "link": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:16:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_32766f1d767bebf1",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Seventeen students, one teacher killed in school roof collapse in Pakistan - Reuters",
-      "snippet": "Seventeen students, one teacher killed in school roof collapse in Pakistan  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPei15OEJPSlpiaEF6a1V6MzN5dWFvNmQzZnFaZUVIbEpWREFXSG5kQzlpTDVyS3lST1g3Tk9XdXFzbTd2UEV5THZMcWdBSUw3LWpWX25mcW95Ui0tYk01RWxNNl85a01TRUdVUnpxV3g5WlA1MEU1eGZ1bGQ1eUl1WnRUaGhyRDd1UC1DcWhOcjQxcGMwZHhGb2hzTGpuQ3dmcTNkcGhmZkdxQlplQndkYm5hdGVEalFEMkFYSkJNYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:10:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_37685c8d91aafc42",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift - Reuters",
-      "snippet": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclVJOWlaQURzRjZZVzhibFpUTnpjc2F3enRTT1NKZUotUjF2WUpCWjhFT0lzSlY0SXpoZ3ZlZDhMYkMtN1Vfa3Y1UGtZemFmV3N6WVVPQ3p2dld0N3ZubDUzVndDRE52dWdVbmpwOEFYY0UxbzYwR3dGcTNxSG9UcmNxd2ZhSzJVT2FRUTRrbnNldjg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f9134f937ec023aa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters",
-      "snippet": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBJVjY0bVpoWDlsbGtrMnpFS0ZvcURsLUZMazd5S0o2Zmw2R2s0ZXc1NzBYb1YxUnNhdENBYzBfajVLVHZiWGJtdk5PbTRLb1BzaWdsNEJDY3lxUFV4TW1wTUpTRmZGTXVOb3JDdVFNeUFTcFZEbVNPcmJBMS1lazUtZVdJbENMMVAxQWRXallDRjZlQ3lINVBfaVppOXBPSHpmUkxqRVdNalVZWVZBcS01cEhWZnlTTDFnRFBoSTVxdkt5?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f0feb9f126d4a7fa",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK economy unexpectedly grows 0.1% in August despite fall in consumer spending",
-      "snippet": "Latest data comes just two weeks before chancellor’s budget looks to help consumers traverse the cost of living crisis\nThe UK economy unexpectedly continued to grow in August despite a fall in consumer spending before chancellor John Healey",
-      "link": "https://www.theguardian.com/business/2026/oct/15/uk-economy-unexpectedly-grows-01-in-august-despite-fuel-hit-to-household-budgets",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T06:05:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
