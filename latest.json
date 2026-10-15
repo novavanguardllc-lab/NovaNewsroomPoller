@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-15T21:45:06.765Z",
+  "updatedAt": "2026-10-15T21:50:06.882Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.891Z"
+      "lastSuccess": "2026-10-15T21:50:07.070Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.839Z"
+      "lastSuccess": "2026-10-15T21:50:06.949Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.924Z"
+      "lastSuccess": "2026-10-15T21:50:06.989Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.886Z"
+      "lastSuccess": "2026-10-15T21:50:07.054Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.038Z"
+      "lastSuccess": "2026-10-15T21:50:07.212Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.018Z"
+      "lastSuccess": "2026-10-15T21:50:07.135Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.943Z"
+      "lastSuccess": "2026-10-15T21:50:07.058Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.967Z"
+      "lastSuccess": "2026-10-15T21:50:07.185Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.993Z"
+      "lastSuccess": "2026-10-15T21:50:07.155Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.059Z"
+      "lastSuccess": "2026-10-15T21:50:07.391Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.952Z"
+      "lastSuccess": "2026-10-15T21:50:07.094Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.051Z"
+      "lastSuccess": "2026-10-15T21:50:07.196Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.964Z"
+      "lastSuccess": "2026-10-15T21:50:07.183Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-15T21:45:07.047Z"
+      "lastErrorAt": "2026-10-15T21:50:07.196Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.043Z"
+      "lastSuccess": "2026-10-15T21:50:07.202Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:06.933Z"
+      "lastSuccess": "2026-10-15T21:50:07.085Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.275Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-15T21:50:16.884Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-15T21:45:07.070Z"
+      "lastErrorAt": "2026-10-15T21:50:07.192Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.089Z"
+      "lastSuccess": "2026-10-15T21:50:07.244Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.159Z"
+      "lastSuccess": "2026-10-15T21:50:07.284Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.232Z"
+      "lastSuccess": "2026-10-15T21:50:07.349Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:07.124Z"
+      "lastSuccess": "2026-10-15T21:50:11.927Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-15T21:45:09.039Z"
+      "lastSuccess": "2026-10-15T21:50:07.372Z"
     }
   },
   "items": [
@@ -106,6 +107,71 @@
       "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires",
       "imageUrl": null,
       "publishedAt": "2026-10-17T10:00:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d529e61d11b90ba7",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Trump preemptively blames Cornyn and Rove should Paxton lose Texas Senate race",
+      "snippet": "President Donald Trump is pinning the blame on Sen. John Cornyn (R-TX) and former White House adviser Karl Rove in the event that Texas Attorney General Ken Paxton ends up losing his Senate race next month. In a Truth Social post on Thursda",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4768013/trump-cornyn-rove-paxton-texas-senate/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T21:49:36.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_fcfdcb73e86759b6",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Multiple victims, including children, in Oregon elementary school shooting",
+      "snippet": "Multiple people, including children, were targeted by an active shooter on Thursday at an elementary school in Bend, Oregon. The number of victims has not been released by authorities yet. At least two people were hospitalized. The Bend Pol",
+      "link": "https://www.washingtonexaminer.com/news/crime/4768124/bend-oregon-elementary-school-shooting/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T21:49:27.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_6162268ef55e2b9e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "CNN legal analyst: Biden-era inquiry into Omar hurts her case against Trump",
+      "snippet": "CNN anchor Jake Tapper questioned whether Rep. Ilhan Omar (D-Minn.) should have come forward about any potential issues with her immigration status during the Biden administration rather than face a criminal investigation under President Tr",
+      "link": "https://thehill.com/homenews/media/6152534-omar-immigration-fraud-investigation/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/omarilhan_091626gn03_w.jpg?w=900",
+      "publishedAt": "2026-10-15T21:46:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bb58b8dfb9ab31ab",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "9 former FBI agents sue, saying they were wrongly fired over Mar-a-Lago case",
+      "snippet": "Nine former FBI agents sued the Justice Department Thursday, alleging they were wrongly fired solely because of their work investigating President Trump in the Mar-a-Lago documents case. Attorneys for the agents write that their “fate was s",
+      "link": "https://thehill.com/homenews/administration/6152530-ex-fbi-agents-trump-documents-lawsuit/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/patelkash_091526gn07_w.jpg?w=900",
+      "publishedAt": "2026-10-15T21:45:38.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_08e02d247fb15ee1",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Soccer coach with unreal eye discipline goes viral for locked in interview with busty reporter",
+      "snippet": "David Oulehla's viral interview with reporter Sabina Jaksova has nearly two million views on FK Viagem Ústí nad Labem's TikTok account page.",
+      "link": "https://www.foxnews.com/outkick-sports/soccer-coach-unreal-eye-discipline-goes-viral-locked-interview-busty-reporter",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T21:43:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -150,6 +216,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_4bb2b6a10862f44e",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Multiple people, including children, injured in elementary school shooting in Oregon",
+      "snippet": "Number of people injured at scene was not clear, as police say suspected shooter is dead at the scene\nMultiple people, including children, were injured in a shooting at an elementary school in Bend, Oregon, on Thursday, police confirmed in ",
+      "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T21:41:04.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
       "id": "story_b4242f5b224f64c6",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -158,6 +237,19 @@
       "link": "https://www.semafor.com/article/10/15/2026/the-cost-of-insuring-against-ai-company-defaults-spikes",
       "imageUrl": "https://img.semafor.com/b0103e146149572390340d35e5bdbf4bbba2a762-5373x3582.jpg",
       "publishedAt": "2026-10-15T21:39:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_91c253d67e01625a",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Wisconsin elections officials issue guidance for handling federal agents at polls",
+      "snippet": "Elections officials in battleground Wisconsin on Thursday approved guidance for local clerks to help them know what to do if federal law enforcement officials show up at the polls on Election Day, as some activists fear might happen.",
+      "link": "https://www.pbs.org/newshour/politics/wisconsin-elections-officials-issue-guidance-for-handling-federal-agents-at-polls",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T21:37:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1437,6 +1529,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_19012d70eb3f3881",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo - Reuters",
+      "snippet": "KFC signs Coca-Cola on as new beverage partner, ditching PepsiCo  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY3pOZ1RpY0NtVzh0UHZZMDN5OTlBQjB2VHRYeE9CYUN2cGZwZERiNnduY2dmaUVqN0dyMUI5eGxRQ0JCVkJuRUJ3RWZrNnlfalVtQUhBdFVxZllvS3dWMVp3TVVuN3FFX28xQ2U3a3RPUmlFZ0p5Z2hXSDUybnFYcFJDUHlDMGV6WDVTQ3pXTGtHYXQyZ2VWTklCbjBQMTdtSTlHZ2pFRGFiQTN4amc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T19:39:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b7580b94f4321096",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2592,110 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_44fd6b08c463d516",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Amazon launches two new portable AI listening devices - Reuters",
-      "snippet": "Amazon launches two new portable AI listening devices  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0c4SGNGOWZtd0Y4cUZFbDlZdXdZbmZEMmZrVGNpbU1BdkNWUUtlTjBXRGN4dlVDaWJrUENJcEh0VzVEY09oNHVJbDBkQ2FRV1hqeTFuc3dZaURjTHNuQ2RmS25xNm9KVS1OaXFja2kwSFZPQVV2MG9XNmdKOTBBSERzUVNJYUUxUXNOYTYxSkpNU3VkamZpT21lTlBmeFJ3QVE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:46:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4564e93c4a6773aa",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK HRT shortages: which products are affected and what to do about it?",
-      "snippet": "Experts say seeking alternatives that deliver the same dose of oestrogen by the same method is key\nWomen in the UK are again facing shortages of some HRT products, with warnings they could persist for weeks. We take a look at the situation.",
-      "link": "https://www.theguardian.com/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:45:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2efcd0497ee54c63",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Maduro pleads not guilty to torture charges",
-      "snippet": "Former Venezuelan dictator Nicolas Maduro and his wife each pleaded not guilty to new charges alleging they tortured U.S. citizens. Maduro and his wife, Cilia Flores, appeared in a New York City federal courtroom on Thursday for an arraignm",
-      "link": "https://www.washingtonexaminer.com/news/justice/4767250/maduro-plead-not-guilty-torture-charge-southern-district-court/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:44:38.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_9ec96211d71f48ff",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
-      "snippet": "Houthi rebels said they targeted Saudi military assets in a rare attack on the interim seat of internationally-recognized Yemen's government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.",
-      "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:44:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_97c85fc289d8a9bc",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "ASML's 'sold out' outlook forces investors to look beyond demand - Reuters",
-      "snippet": "ASML's 'sold out' outlook forces investors to look beyond demand  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXhjVzlpdUwzS1JPM0o3VFFnRXZfTnF5SndiVS1jOGNaUU9BWnowWWoySnRvbFpabjFEQVlZaWdhSFo0NnJmMTJaYXZWQ3R2c3I3dmNIdkY5TjVZQklTd0xTbXhGald1NjJGdVhBVTVkU2pjbll0MXA0NmpzSWFxNTlKVWxzeXRKWmtSMks1VGdMbkUzOG8zRWx4REZUb2RwNmFUd2ZkN1F5YXVaQ2pmREFBY1pxMl9tcmNF?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:43:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3f5e9f7a6bb1fbd0",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "A mother’s touch helps premature babies grow strong in Gaza",
-      "snippet": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
-      "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:43:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2ed7b02976a0111a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Many popular foods may now use salt substitutes, says FDA",
-      "snippet": "The FDA has finalized a rule allowing manufacturers to use salt substitutes in dozens of standardized foods.",
-      "link": "https://thehill.com/policy/healthcare/6149944-fda-greenlights-salt-substitutes-popular-foods/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP24110544183729-e1792086149645.jpg?w=900",
-      "publishedAt": "2026-10-15T17:42:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c4b4572ce5530f79",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Suspicious packages sent to election and congressional offices ahead of midterm elections",
-      "snippet": "Authorities are investigating letters containing “suspicious substances” sent to multiple Capitol Hill offices, according to a notice distributed to congressional staff. The Senate Sergeant at Arms said law enforcement officials are working",
-      "link": "https://www.washingtonexaminer.com/news/crime/4767400/suspicious-package-congress-office/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T17:41:21.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
