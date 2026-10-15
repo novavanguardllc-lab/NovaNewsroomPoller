@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-15T12:45:06.728Z",
+  "updatedAt": "2026-10-15T12:50:06.885Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.812Z"
+      "lastSuccess": "2026-10-15T12:50:06.963Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.259Z"
+      "lastSuccess": "2026-10-15T12:50:07.390Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.941Z"
+      "lastSuccess": "2026-10-15T12:50:07.021Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.995Z"
+      "lastSuccess": "2026-10-15T12:50:06.981Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.919Z"
+      "lastSuccess": "2026-10-15T12:50:07.090Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.977Z"
+      "lastSuccess": "2026-10-15T12:50:07.099Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.860Z"
+      "lastSuccess": "2026-10-15T12:50:07.173Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.822Z"
+      "lastSuccess": "2026-10-15T12:50:07.171Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.840Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 456\nChar: d",
+      "lastErrorAt": "2026-10-15T12:50:07.095Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.974Z"
+      "lastSuccess": "2026-10-15T12:50:07.061Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.234Z"
+      "lastSuccess": "2026-10-15T12:50:07.429Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.991Z"
+      "lastSuccess": "2026-10-15T12:50:07.117Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.011Z"
+      "lastSuccess": "2026-10-15T12:50:07.274Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.000Z"
+      "lastSuccess": "2026-10-15T12:50:07.276Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.034Z"
+      "lastSuccess": "2026-10-15T12:50:07.240Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-15T12:45:07.102Z"
+      "lastErrorAt": "2026-10-15T12:50:07.278Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:06.880Z"
+      "lastSuccess": "2026-10-15T12:50:07.158Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.343Z"
+      "lastSuccess": "2026-10-15T12:50:07.376Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.071Z"
+      "lastSuccess": "2026-10-15T12:50:07.370Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.099Z"
+      "lastSuccess": "2026-10-15T12:50:07.282Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-15T12:45:07.077Z"
+      "lastErrorAt": "2026-10-15T12:50:07.263Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:07.134Z"
+      "lastSuccess": "2026-10-15T12:50:07.303Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-15T12:45:08.961Z"
+      "lastSuccess": "2026-10-15T12:50:07.295Z"
     }
   },
   "items": [
@@ -109,6 +110,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_53d11ee2dae18230",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Will Zalatoris set to miss all of 2027 PGA Tour season due to yet another back surgery: 'Four years of hell'",
+      "snippet": "Will Zalatoris revealed he will undergo spinal fusion surgery later this month, marking his third back surgery since 2023 and sidelining him all of 2027.",
+      "link": "https://www.foxnews.com/outkick-sports/will-zalatoris-miss-2027-pga-tour-season-back-surgery-four-years-hell",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T12:44:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_c14ff02fb08d2e72",
@@ -2680,19 +2694,6 @@
       "link": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
       "imageUrl": null,
       "publishedAt": "2026-10-15T09:00:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2012c272aa6767da",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Woke megachurch pastor, Dem nominee called for repentance over White privilege in wake of George Floyd, BLM",
-      "snippet": "Adam Hamilton once urged his megachurch to repent for White privilege after George Floyd's death as he now challenges Sen. Roger Marshall in Kansas.",
-      "link": "https://www.foxnews.com/politics/woke-megachurch-pastor-dem-nominee-called-repentance-over-white-privilege-wake-george-floyd-blm",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T09:00:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
