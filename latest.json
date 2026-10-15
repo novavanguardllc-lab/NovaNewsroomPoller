@@ -1,102 +1,181 @@
 {
-  "updatedAt": "2026-10-15T08:55:04.946Z",
+  "updatedAt": "2026-10-15T09:00:11.842Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.130Z"
+      "lastSuccess": "2026-10-15T09:00:12.049Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.226Z"
+      "lastSuccess": "2026-10-15T09:00:12.166Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.450Z"
+      "lastSuccess": "2026-10-15T09:00:12.177Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.245Z"
+      "lastSuccess": "2026-10-15T09:00:12.065Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.354Z"
+      "lastSuccess": "2026-10-15T09:00:12.023Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.171Z"
+      "lastSuccess": "2026-10-15T09:00:12.044Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.136Z"
+      "lastSuccess": "2026-10-15T09:00:12.195Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.366Z"
+      "lastSuccess": "2026-10-15T09:00:12.189Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.150Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 456\nChar: d",
+      "lastErrorAt": "2026-10-15T09:00:12.179Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.292Z"
+      "lastSuccess": "2026-10-15T09:00:11.923Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.322Z"
+      "lastSuccess": "2026-10-15T09:00:12.034Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.408Z"
+      "lastSuccess": "2026-10-15T09:00:12.075Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.585Z"
+      "lastSuccess": "2026-10-15T09:00:12.105Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.611Z"
+      "lastSuccess": "2026-10-15T09:00:12.193Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.504Z"
+      "lastSuccess": "2026-10-15T09:00:12.144Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-15T08:55:05.531Z"
+      "lastErrorAt": "2026-10-15T09:00:12.262Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.385Z"
+      "lastSuccess": "2026-10-15T09:00:12.230Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.606Z"
+      "lastSuccess": "2026-10-15T09:00:12.267Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.852Z"
+      "lastSuccess": "2026-10-15T09:00:12.371Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.642Z"
+      "lastSuccess": "2026-10-15T09:00:12.282Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-15T08:55:05.632Z"
+      "lastErrorAt": "2026-10-15T09:00:12.246Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:05.664Z"
+      "lastSuccess": "2026-10-15T09:00:12.292Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-15T08:55:06.803Z"
+      "lastSuccess": "2026-10-15T09:00:12.328Z"
     }
   },
   "items": [
+    {
+      "id": "story_219eecfd46d1e05b",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Cabinet agencies see declining Republican support, poll finds",
+      "snippet": "Only 27% of Americans view both the State and Justice departments positively, per a new Gallup poll.",
+      "link": "https://www.semafor.com/article/10/15/2026/cabinet-agencies-see-declining-republican-support-poll-finds",
+      "imageUrl": "https://img.semafor.com/3712ce7a8b6cb1998c0f15083cbacce9639a4da6-4000x2667.jpg",
+      "publishedAt": "2026-10-15T08:57:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dd1876fcdefb4802",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "AOC makes case for El-Sayed in Michigan",
+      "snippet": "Abdul El-Sayed’s Senate campaign is deploying progressives to boost turnout.",
+      "link": "https://www.semafor.com/article/10/15/2026/aoc-makes-case-for-el-sayed-in-michigan",
+      "imageUrl": "https://img.semafor.com/c9ffd4f0732a83b595701f51481e2fa74783c18a-5500x3663.jpg",
+      "publishedAt": "2026-10-15T08:56:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0743ee9e6027b8fb",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Jeffries neutral in Financial Services Committee clash",
+      "snippet": "Democratic leaders are taking a hands-off approach to Rep. Sean Casten’s bid to replace Rep. Maxine Waters as Financial Services Committee ranking member.",
+      "link": "https://www.semafor.com/article/10/15/2026/jeffries-neutral-in-financial-services-committee-clash",
+      "imageUrl": "https://img.semafor.com/29be1b7ddb34223634d82d4726475af5f9258268-3098x2066.jpg",
+      "publishedAt": "2026-10-15T08:56:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a01b96e4fe3ea7d6",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Meta data center credits draw congressional scrutiny",
+      "snippet": "It’s the latest sign of Congress responding to widespread voter backlash to the AI buildout.",
+      "link": "https://www.semafor.com/article/10/15/2026/meta-data-center-credits-draw-congressional-scrutiny",
+      "imageUrl": "https://img.semafor.com/215f154d6273f6f1171f0418757ff27e9c989c3a-4992x3328.jpg",
+      "publishedAt": "2026-10-15T08:56:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_955d39d89b3f255c",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Morning news brief",
+      "snippet": "Trump's campaign tour continues as Republicans rally voters ahead of midterms, Ukraine faces limited access to Starshield technology, Houthi rebels hit Saudi oil company building.",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-5998698/morning-news-brief",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T08:46:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e2743ab0571bd08e",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK threatens to ban Eritreans over returns policy",
+      "snippet": "Move comes after east African country abruptly withdrew returns cooperation earlier this year\n\nUK politics live – latest updates\n\nEritreans could be stopped from coming to the UK unless the country agrees to accept more rejected asylum seek",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T08:45:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a6945b4b0f44b1a6",
       "source": "DW",
@@ -121,6 +200,19 @@
       "publishedAt": "2026-10-15T08:39:54.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5150d9738e2eb0f0",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Two ships ablaze in Romanian Black Sea waters, 8 sailors missing - Reuters",
+      "snippet": "Two ships ablaze in Romanian Black Sea waters, 8 sailors missing  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWTNEdUVjS3dseHk5amh0VGlyX180YWx6MEZobS1ySVhHSnFzbVYtSFFRTUtqRU12M3pGTnRPOEIyOTg0VnRiUkoyRkJxMmJiYlpZamFOLTVYVXJXbmhCa2J0a1BxbmlaUDF4X1hsNW5rOWVpaEtzTUo5dGZSclVwWUpBSHdOdXZFa2h6TWp6b1piY1VqN18wVlY0dFFNOUtLcFlJcA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T08:34:40.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -200,6 +292,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 6
+    },
+    {
+      "id": "story_f359342799690a42",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
+      "snippet": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
+      "link": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-15T08:19:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_69f504ae41126b76",
@@ -2590,110 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-15T00:46:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c258a0bf8d1c9759",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here - AP News",
-      "snippet": "Costa Rica opens a Bukele-style mega-prison. Here’s how it got here  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGxWeVcyX2RUX2VXTTdrU0c1d1FNYWlyUWxwU185VjJBdGVhYnZrY3pDa291elduQTEwbUdRdzl5MnRJNXV6azVkVFA1OWhsYWZVLThlU3hVMEVZY2thZkNZdnpNRFBORXhwSlZOT1hBdFNGT1cxQ21vVXJWdnRrYzlIZ1pRM04zOE1ZZlV0RlVOMTJFSXpDQkZ3WHQxQ25CNl9lRHZWU3ByZ3RqOVIwZ1RHVFdvUkE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:44:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_269a97e83c16d7fa",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Cornell’s President Grilled by Faculty Senate Over Handling of Crisis",
-      "snippet": "Ahead of a vote on a resolution of no confidence in Michael I. Kotlikoff, some faculty members said they were not swayed by steps he announced on Tuesday, including banning fraternity parties.",
-      "link": "https://www.nytimes.com/2026/10/14/nyregion/cornell-president-faculty-senate-lawsuit-response.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:40:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3929f66ea914ad77",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Riots erupt in Albania’s capital as students join anti-government movement - AP News",
-      "snippet": "Riots erupt in Albania’s capital as students join anti-government movement  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQjF2bjFVS1k1QTFOMXEzV2RDbGhobzhmR2theXd5TnNSRmx3N3dhQXI1VG9GbnZ3VWJLeWlCYm5OUUp4Q3o1dXhSNWk1ZDBVU2hocm4xRDdBMmx4eldtb2ZTN1BIbnZHbl9KMk1hTHdlMV9zRHJoOHgtRU9keExPSmoyd1BKUjVQeFhsY25BNGpUVVQzTDlGME9FXzh1T0djMHhLSGtB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:40:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2ee0e77ac68a1cbd",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Pope's cancer prognosis may depend on these factors, doctors say",
-      "snippet": "Pope Leo XIV was diagnosed with lung cancer after a surgery that removed a nodular lesion from his right lung, the Vatican said.",
-      "link": "https://www.cbsnews.com/news/pope-leo-lung-cancer-prognosis-doctors/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:34:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92e8a22c32b17445",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "New White House press secretary Katie Zacharia's legal career draws scrutiny - Reuters",
-      "snippet": "New White House press secretary Katie Zacharia's legal career draws scrutiny  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUR0WGY3VjJNQTVXM2tVVVh3TTNIZjNxd0c0TldqMV9ONlk4VVJseG1RSGFHUDlCZmZqbmZPVms1Y2RhOVlIczRleUZtaTlhUXg2Ym5aUXhBMHN2UmE4RXpzTlFzUFdCRUtwaFVwc0NVdURVMGZ5X3k1UUNyU2ZRM092eEVWNldTQ2J3bTdnMnk1bDlpV0FPcERVaEdEbzdUb1h3U0pTX0xvdDd0SzBoUVZNNl9tUnhHd3lLLXVBcHBKNjJud2JPUG1Jdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:27:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_b95c74e027abe854",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-      "snippet": "President Laura Fernandez says mega-prison is part of 'tough-on-crime model' embraced by her government.",
-      "link": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:24:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_559f88ee34b49043",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "OpenAI sued by 8 states over claims ChatGPT coached kids to harm themselves",
-      "snippet": "ChatGPT maker OpenAI is being sued by eight states over the claims the chatbot allegedly coached kids to harm themselves and others. Tristan Harris, co-founder and president of the Center for Humane Technology, joins \"The Daily Report.\"",
-      "link": "https://www.cbsnews.com/video/openai-sued-by-8-states-over-claims-chatgpt-coached-kids-to-harm-themselves/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:24:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2ad8e9717f61d667",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Labor and Coalition block bill that would ban incarcerated women being shackled in childbirth",
-      "snippet": "Liberal Paul Scarr breaks ranks to condemn major parties, saying he will write to Queensland attorney general\n\nFollow our Australian politics live blog for latest updates\n\nGet our new political email, free app or daily news podcast\n\nLabor a",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T00:22:33.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
