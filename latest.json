@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-16T03:10:07.083Z",
+  "updatedAt": "2026-10-16T03:15:06.857Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.190Z"
+      "lastSuccess": "2026-10-16T03:15:06.968Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.406Z"
+      "lastSuccess": "2026-10-16T03:15:06.987Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.344Z"
+      "lastSuccess": "2026-10-16T03:15:07.048Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.270Z"
+      "lastSuccess": "2026-10-16T03:15:06.956Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.483Z"
+      "lastSuccess": "2026-10-16T03:15:07.069Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.544Z"
+      "lastSuccess": "2026-10-16T03:15:07.083Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.474Z"
+      "lastSuccess": "2026-10-16T03:15:07.209Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.400Z"
+      "lastSuccess": "2026-10-16T03:15:07.106Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.511Z"
+      "lastSuccess": "2026-10-16T03:15:07.065Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.424Z"
+      "lastSuccess": "2026-10-16T03:15:07.067Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.478Z"
+      "lastSuccess": "2026-10-16T03:15:07.126Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.574Z"
+      "lastSuccess": "2026-10-16T03:15:07.164Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.630Z"
+      "lastSuccess": "2026-10-16T03:15:07.214Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-16T03:10:07.600Z"
+      "lastErrorAt": "2026-10-16T03:15:07.210Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.530Z"
+      "lastSuccess": "2026-10-16T03:15:07.141Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.549Z"
+      "lastSuccess": "2026-10-16T03:15:07.144Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.702Z"
+      "lastSuccess": "2026-10-16T03:15:07.392Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.681Z"
+      "lastSuccess": "2026-10-16T03:15:07.369Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-16T03:10:07.708Z"
+      "lastErrorAt": "2026-10-16T03:15:07.225Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.843Z"
+      "lastSuccess": "2026-10-16T03:15:07.352Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.785Z"
+      "lastSuccess": "2026-10-16T03:15:07.304Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.707Z"
+      "lastSuccess": "2026-10-16T03:15:07.224Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-16T03:10:07.836Z"
+      "lastSuccess": "2026-10-16T03:15:07.452Z"
     }
   },
   "items": [
@@ -106,6 +106,32 @@
       "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires",
       "imageUrl": null,
       "publishedAt": "2026-10-17T10:00:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6b19cf79bbdf3cdb",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Brewers sweep Dodgers to reach World Series for first time since 1982",
+      "snippet": "The Milwaukee Brewers are headed to the 2026 World Series after sweeping the Los Angeles Dodgers in the National League Championship Series.",
+      "link": "https://www.nbcnews.com/sports/mlb/milwaukee-brewers-los-angeles-dodgers-mlb-nlcs-world-series-rcna603783",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T03:08:33.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cab977fd686c4273",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Katie Zacharia addresses brevity of first press briefing, defends legal credentials after criticism",
+      "snippet": "Katie Zacharia defended her debut White House press briefing and addressed California bar exam scrutiny during interview with Sean Hannity.",
+      "link": "https://www.foxnews.com/media/katie-zacharia-addresses-brevity-first-press-briefing-defends-legal-credentials-criticism",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T03:01:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2667,32 +2693,6 @@
       "link": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-15T21:59:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 9
-    },
-    {
-      "id": "story_012d9b25d71f1642",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Oregon school shooting: 3 children, teacher killed; 16-year-old gunman dies after community member pursues him into school",
-      "snippet": "A 16-year-old gunman killed three children and a teacher at an elementary school in Bend, Oregon, and wounded two others. A community member pursued and killed the shooter, authorities said.",
-      "link": "https://www.dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-15T21:59:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_1c00f5e173b957b0",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Two hospitalised after shooting at Oregon elementary school; gunman dead",
-      "snippet": "Two people were hospitalised and the shooter was found dead Thursday after a shooting at Silver Rail Elementary School in Bend, Oregon, prompting a lockdown as police responded to reports of an active shooter.",
-      "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
-      "imageUrl": "https://s.france24.com/media/display/5b534bd2-a72a-11f1-94be-005056bfb2b6/w:1024/p:16x9/AP26245835908666.jpg",
-      "publishedAt": "2026-10-15T21:58:33.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 9
