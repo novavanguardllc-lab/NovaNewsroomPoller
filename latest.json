@@ -1,99 +1,101 @@
 {
-  "updatedAt": "2026-10-16T18:55:05.609Z",
+  "updatedAt": "2026-10-16T19:00:12.336Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.397Z"
+      "lastSuccess": "2026-10-16T19:00:12.935Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.049Z"
+      "lastSuccess": "2026-10-16T19:00:12.611Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:05.832Z"
+      "lastSuccess": "2026-10-16T19:00:12.471Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:05.991Z"
+      "lastSuccess": "2026-10-16T19:00:12.440Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.029Z"
+      "lastSuccess": "2026-10-16T19:00:12.495Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:05.924Z"
+      "lastSuccess": "2026-10-16T19:00:12.693Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:05.809Z"
+      "lastSuccess": "2026-10-16T19:00:12.466Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:05.814Z"
+      "lastSuccess": "2026-10-16T19:00:12.527Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.107Z"
+      "lastSuccess": "2026-10-16T19:00:12.576Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.231Z"
+      "lastSuccess": "2026-10-16T19:00:12.571Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.067Z"
+      "lastSuccess": "2026-10-16T19:00:12.547Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.115Z"
+      "lastSuccess": "2026-10-16T19:00:12.552Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.248Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 442\nChar: d",
+      "lastErrorAt": "2026-10-16T19:00:12.586Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.211Z"
+      "lastSuccess": "2026-10-16T19:00:12.649Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:05.857Z"
+      "lastSuccess": "2026-10-16T19:00:12.511Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-16T18:55:06.232Z"
+      "lastErrorAt": "2026-10-16T19:00:12.704Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.119Z"
+      "lastSuccess": "2026-10-16T19:00:12.564Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.191Z"
+      "lastSuccess": "2026-10-16T19:00:14.061Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.269Z"
+      "lastSuccess": "2026-10-16T19:00:12.702Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-16T18:55:06.269Z"
+      "lastErrorAt": "2026-10-16T19:00:12.651Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.290Z"
+      "lastSuccess": "2026-10-16T19:00:12.834Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:55:06.376Z"
+      "lastSuccess": "2026-10-16T19:00:12.828Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-10-16T18:55:07.149Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-16T19:00:22.352Z"
     }
   },
   "items": [
@@ -106,6 +108,32 @@
       "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires",
       "imageUrl": null,
       "publishedAt": "2026-10-17T10:00:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_38010e3cffda5178",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Save 30% on Xtrema ceramic cookware and get a free mini skillet with a $250 purchase",
+      "snippet": "Shop Xtrema's ceramic pans, pots, and bakeware essentials for 30% off during the brand's 19th anniversary sale.",
+      "link": "https://www.foxnews.com/deals/xtrema-cookware-anniversary-sale",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T18:53:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bfdd5e7e87661ad3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "‘Buck’ stops at Walz: Flanagan ducks Minnesota fraud blame as GOP rival exposes glaring contradiction",
+      "snippet": "Michele Tafoya, the Republican nominee, hammered Democratic Lt. Gov. Peggy Flanagan over Minnesota's $9 billion fraud scandal during their debate.",
+      "link": "https://www.foxnews.com/politics/buck-stops-walz-flanagan-ducks-minnesota-fraud-blame-gop-rival-exposes-glaring-contradiction",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T18:53:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -132,6 +160,19 @@
       "link": "https://www.foxnews.com/us/former-university-kentucky-cheerleader-sentenced-10-years-prison-infants-death",
       "imageUrl": null,
       "publishedAt": "2026-10-16T18:45:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4d0d081d4f5cc66",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Case against Leon Black dismissed after plaintiff said she was ‘medically incapable of continuing’",
+      "snippet": "In civil suit, ‘Jane Doe’ alleged billionaire raped her after being ‘handed off’ by Jeffrey Epstein. Black denied the allegations and called claims a fabrication\nA federal judge has agreed to dismiss a lawsuit brought against Leon Black aft",
+      "link": "https://www.theguardian.com/us-news/2026/oct/16/leon-black-civil-rape-lawsuit-dismissed-epstein",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T18:45:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -355,6 +396,19 @@
       "publishedAt": "2026-10-16T18:28:21.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_94dbdb02718c1f8b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "What to know: NCAA's 5-in-5 eligibility rule sparks chaos, lawsuits and an almost unheard-of case - AP News",
+      "snippet": "What to know: NCAA's 5-in-5 eligibility rule sparks chaos, lawsuits and an almost unheard-of case  AP News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnJrR1RvUG14aUUxbmdQc2I1ZHZQX0ZyQWlGRjZlZDdoVV9SUHF4Y2dJOW92amFleWlTd1VIZzFBQW82ZldfRWt4UHN3SlhLQUh6Y3VIY21lbmlJMDFMT1NEQmFUMlZXSVFnelpLdkEtb2taZGtTZUk3TzNPX01qaXpZNA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T18:28:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -770,6 +824,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-16T17:53:37.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b835bee2c84790e4",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Why CoreWeave is in the crosshairs of the AI scare - Reuters",
+      "snippet": "Why CoreWeave is in the crosshairs of the AI scare  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T17:51:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2628,71 +2695,6 @@
       "link": "https://www.theguardian.com/tv-and-radio/2026/oct/16/judi-dench-archers-cast-bbc-birmingham-studio",
       "imageUrl": null,
       "publishedAt": "2026-10-16T15:24:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_990fc96a879cc0b1",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "DSA plots to ‘stop’ weapons shipments to Israel at airport",
-      "snippet": "The New York City chapter of Democratic Socialists of America is signaling plans to “stop” overseas arms shipments from John F. Kennedy International Airport. A new DSA “Break the Chain” campaign is having its first mass meeting on Saturday",
-      "link": "https://www.washingtonexaminer.com/news/world/4768522/dsa-plots-to-stop-weapons-shipments-to-israel-at-airport/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T15:24:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b67d2224c6ebedf9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "This week on \"Sunday Morning\" (Oct. 18)",
-      "snippet": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-      "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-18-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T15:23:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_435ec427106f1965",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Look: Pope Leo leads mass in hospital after lung cancer surgery",
-      "snippet": "The Vatican released the first photos of Pope Leo since undergoing surgery for lung cancer at Gemelli Hospital in Rome.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/16/italy-pope-leo-leads-mass-hospital-lung-cancer-surgery-photos/2751792163262/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/2751792163262/2026/upi_com/8c4b95f43a6575acb7f66e2599482e38/v1.5/Pope-Leo-leads-mass-in-hospital-after-lung-cancer-surgery.jpg",
-      "publishedAt": "2026-10-16T15:23:11.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_5db55629f7ed0b35",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Zelensky praises ‘real leaders’ in Europe with Trump relationship strained",
-      "snippet": "Ukrainian President Volodymyr Zelensky praised “real leaders” Friday after a summit in Belgium as tension simmers between the United States and Ukraine following recent developments. “I am so thankful that we have such huge support from EU ",
-      "link": "https://thehill.com/policy/international/6153604-volodymyr-zelensky-europe-trump-diesel/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26289520409305-e1792164085848.jpg?w=900",
-      "publishedAt": "2026-10-16T15:22:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_394bf28551ffa2e4",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Russell Brand was ‘wild-eyed maniac’ when trying to drag woman into toilets, court told",
-      "snippet": "Woman says she ‘wrenched’ herself free of assault that allegedly took place when she was working at MTV in 2001\nRussell Brand transformed into a “wild-eyed maniac” when he tried to drag a woman into the men’s toilets for a sexual encounter ",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/16/russell-brand-wild-eyed-maniac-drag-woman-toilets-court-told",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T15:21:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
