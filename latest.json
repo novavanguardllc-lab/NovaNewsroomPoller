@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-16T18:05:05.173Z",
+  "updatedAt": "2026-10-16T18:10:07.569Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.670Z"
+      "lastSuccess": "2026-10-16T18:10:08.230Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.459Z"
+      "lastSuccess": "2026-10-16T18:10:07.995Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.507Z"
+      "lastSuccess": "2026-10-16T18:10:07.745Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.252Z"
+      "lastSuccess": "2026-10-16T18:10:07.832Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.410Z"
+      "lastSuccess": "2026-10-16T18:10:07.925Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.375Z"
+      "lastSuccess": "2026-10-16T18:10:08.110Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.413Z"
+      "lastSuccess": "2026-10-16T18:10:07.754Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.415Z"
+      "lastSuccess": "2026-10-16T18:10:07.766Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.295Z"
+      "lastSuccess": "2026-10-16T18:10:08.027Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.527Z"
+      "lastSuccess": "2026-10-16T18:10:08.190Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.469Z"
+      "lastSuccess": "2026-10-16T18:10:08.055Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.512Z"
+      "lastSuccess": "2026-10-16T18:10:08.072Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.529Z"
+      "lastSuccess": "2026-10-16T18:10:08.068Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.446Z"
+      "lastSuccess": "2026-10-16T18:10:08.277Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.712Z"
+      "lastSuccess": "2026-10-16T18:10:08.128Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-16T18:05:05.492Z"
+      "lastErrorAt": "2026-10-16T18:10:08.235Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.491Z"
+      "lastSuccess": "2026-10-16T18:10:08.200Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.518Z"
+      "lastSuccess": "2026-10-16T18:10:12.523Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.544Z"
+      "lastSuccess": "2026-10-16T18:10:08.297Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-16T18:05:05.531Z"
+      "lastErrorAt": "2026-10-16T18:10:08.292Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.555Z"
+      "lastSuccess": "2026-10-16T18:10:08.377Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.655Z"
+      "lastSuccess": "2026-10-16T18:10:08.452Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-16T18:05:05.592Z"
+      "lastSuccess": "2026-10-16T18:10:09.260Z"
     }
   },
   "items": [
@@ -106,6 +106,19 @@
       "link": "https://www.foxnews.com/media/jerry-seinfeld-turns-tables-radical-anti-israel-agitators-chaotic-chicago-stunt-backfires",
       "imageUrl": null,
       "publishedAt": "2026-10-17T10:00:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8be7f4959d025fa8",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Treasury announces deficit rose to $1.99 trillion in fiscal year 2026",
+      "snippet": "The federal budget deficit rose to nearly $2 trillion in fiscal 2026, the Treasury Department announced on Friday. The shortfall is large for a nation that is not at war or in a recession, and shows that the government faces a long-term mis",
+      "link": "https://www.washingtonexaminer.com/policy/finance-and-economy/4768784/treasury-announces-deficit-rose-to-1-99-trillion-in-fiscal-year-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T18:07:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -408,6 +421,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_ae308fe3f2b6c3c5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump casts doubt on press secretary Zacharia’s future - AP News",
+      "snippet": "Trump casts doubt on press secretary Zacharia’s future  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkktYkRQVnVXZmFmWVBvdE5LXzJzWnhRN0h4d093YWZJc2F5akw4N0VjTy1pWVV6RjZ2dC00OHZNNFBLd1BENWJ3OGNaLWNDbVhwcVNCYWR0ZlFpWm1IWlhkMzhJWWJnQlFQdXdISEZOc0VteWdrb1NMLW96Q3dYMWNzUmFKdFQ2b1BKdGQ3QUFpYUJ4WG1kR1BSMDA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T17:29:23.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 8
     },
     {
       "id": "story_253864a654ffdb95",
@@ -1253,6 +1279,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_469e92023679ec79",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "The aftermath of a school shooting in Oregon, in photos - AP News",
+      "snippet": "The aftermath of a school shooting in Oregon, in photos  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-16T16:13:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_6584b847bfd5bdc1",
@@ -2655,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-16T14:25:41.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e0af432d276dc502",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Albania: Students demand political change and resignation of Prime Minister Edi Rama",
-      "snippet": "Empty lecture halls, burning buildings and demands for change: Albanian students are spearheading a protest movement that has become the biggest challenge to Prime Minister Edi Rama in years.",
-      "link": "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T14:23:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_284b27143fda4709",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Italy names senior Israelis, Katz in probe over Gaza flotilla activists - Reuters",
-      "snippet": "Italy names senior Israelis, Katz in probe over Gaza flotilla activists  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjVCUjhWQ05fM0dEYS1oR29yb3RhREZxYkUyX2hTeS1xQlVHSjk3SWZSZHVNb2Zla0lsTmhKLXNsYXBQNlBHTkdiQ1AzYW5rdWp0SEtiZWNUZk5lMDlKallXUEZKT0xROWpJS3JzaFRTaGV0SmdwQmw1VVluWlYyRjFjT1FKWWJldWo5RUNNQlN3YWd3c3daOURld0NjNEczVlU5cUhtc2NPNUJzcVFwVWVqdzdXSlZmNTViWmNR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T14:21:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_811adda7970954e9",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Qatar announces ‘massive’ solar plant project in Lebanon",
-      "snippet": "Sheikh Mohammed also discussed Israeli 'violations' in Lebanese territory with Prime Minister Nawaf Salam.",
-      "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T14:19:36.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
