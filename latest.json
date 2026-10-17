@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-17T10:15:08.012Z",
+  "updatedAt": "2026-10-17T10:20:07.716Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.121Z"
+      "lastSuccess": "2026-10-17T10:20:07.828Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.140Z"
+      "lastSuccess": "2026-10-17T10:20:07.761Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.204Z"
+      "lastSuccess": "2026-10-17T10:20:07.949Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.240Z"
+      "lastSuccess": "2026-10-17T10:20:08.192Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.329Z"
+      "lastSuccess": "2026-10-17T10:20:07.970Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.303Z"
+      "lastSuccess": "2026-10-17T10:20:08.000Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.365Z"
+      "lastSuccess": "2026-10-17T10:20:08.034Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.185Z"
+      "lastSuccess": "2026-10-17T10:20:07.920Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.352Z"
+      "lastSuccess": "2026-10-17T10:20:07.960Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.362Z"
+      "lastSuccess": "2026-10-17T10:20:08.027Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T10:15:08.422Z"
+      "lastErrorAt": "2026-10-17T10:20:08.027Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.384Z"
+      "lastSuccess": "2026-10-17T10:20:08.019Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.314Z"
+      "lastSuccess": "2026-10-17T10:20:07.945Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.350Z"
+      "lastSuccess": "2026-10-17T10:20:08.029Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.347Z"
+      "lastSuccess": "2026-10-17T10:20:07.989Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.334Z"
+      "lastSuccess": "2026-10-17T10:20:08.043Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T10:15:08.317Z"
+      "lastErrorAt": "2026-10-17T10:20:08.048Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.427Z"
+      "lastSuccess": "2026-10-17T10:20:08.067Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.437Z"
+      "lastSuccess": "2026-10-17T10:20:08.168Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.534Z"
+      "lastSuccess": "2026-10-17T10:20:08.162Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:10.557Z"
+      "lastSuccess": "2026-10-17T10:20:08.102Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.283Z"
+      "lastSuccess": "2026-10-17T10:20:08.184Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:15:08.310Z"
+      "lastSuccess": "2026-10-17T10:20:08.032Z"
     }
   },
   "items": [
+    {
+      "id": "story_ee38b2811ab57577",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Pope Leo to be discharged from hospital on Saturday, Vatican says",
+      "snippet": "The Vatican announced Pope Leo XIV would be discharged from hospital on Saturday, four days after his surgery",
+      "link": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T10:16:39.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_650d26a485e7c6b1",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Solar power booms in Philippines as war on Iran spikes energy costs",
+      "snippet": "With Southeast Asia's largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T10:12:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9bb9ff1156a8b77c",
       "source": "Fox News",
@@ -332,6 +358,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ba043d9db13839e5",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "LIVE: India vs West Indies – fifth T20 International",
+      "snippet": "Follow updates, including toss and team news, from our live text commentary stream of the series decider.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T09:54:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f76392c23980e2fc",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -343,6 +382,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_c0a7fcf5f9139bb3",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+      "snippet": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T09:47:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1246c2c5440ab788",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "snippet": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala's busy livestock market.",
+      "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T09:44:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_925d059ff3eae181",
@@ -2628,71 +2693,6 @@
       "link": "https://www.nytimes.com/2026/10/16/us/politics/rfk-jr-vaccines.html",
       "imageUrl": null,
       "publishedAt": "2026-10-16T23:45:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_02390a78c4d8c16e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "LeBron James tosses chalk, gets 76ers intro for 1st time in Philadelphia in front of roaring fans - AP News",
-      "snippet": "LeBron James tosses chalk, gets 76ers intro for 1st time in Philadelphia in front of roaring fans  AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmlVcFJLc21paDZJN3hzTlRrS1lhYm5mbzdpTnpnQ1RHYUdwNnRlcjl4OTZwcU1JRVVwdHdaUEFVaVRXREpIWGJ5a05RdTduTHJkVWozcWdXSzl5bUcyVWN5V3N2V2MxYnBmOGxkYXZGWUQ5UTM4N09OSHQ3dVVOYm9qMG9IRUdCYlk1VnF2WmtMRElFTU1xSU1kY01mWUFI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:41:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4b996b1a8fc2480e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Florida Panthers GM Bill Zito has unusual tie to Milwaukee Brewers' last World Series run",
-      "snippet": "Bill Zito was the Milwaukee Brewers' bat boy the last time they reached the World Series 44 years ago, long before building a Stanley Cup dynasty.",
-      "link": "https://www.foxnews.com/outkick-sports/florida-panthers-gm-bill-zito-unusual-tie-milwaukee-brewers-last-world-series-run",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:35:11.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_775808b6a933a88c",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "White House reporters react to Katie Zacharia's 'brutal' exit as Trump press secretary",
-      "snippet": "Fox News Digital spoke with several White House correspondents about Katie Zacharia's dramatic exit as President Donald Trump's press secretary.",
-      "link": "https://www.foxnews.com/media/white-house-reporters-react-katie-zacharia-brutal-exit-trump-press-secretary",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:32:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 7
-    },
-    {
-      "id": "story_836d2361eb21e80b",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "DOJ says California officials who process ballots from suspected noncitizens risk prosecution",
-      "snippet": "The Trump administration is escalating its fight with California ahead of next month's midterm election, warning that local officials who process and tabulate ballots submitted by suspected noncitizen voters are putting themselves at risk o",
-      "link": "https://www.pbs.org/newshour/politics/doj-says-california-officials-who-process-ballots-from-suspected-noncitizens-risk-prosecution",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:30:20.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_99d5cfbb02652e1b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
-      "snippet": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
-      "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:27:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
