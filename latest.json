@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-17T11:15:07.448Z",
+  "updatedAt": "2026-10-17T11:20:07.930Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.556Z"
+      "lastSuccess": "2026-10-17T11:20:08.036Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.651Z"
+      "lastSuccess": "2026-10-17T11:20:08.058Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.733Z"
+      "lastSuccess": "2026-10-17T11:20:08.139Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.836Z"
+      "lastSuccess": "2026-10-17T11:20:08.163Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.708Z"
+      "lastSuccess": "2026-10-17T11:20:08.213Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.848Z"
+      "lastSuccess": "2026-10-17T11:20:08.189Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.820Z"
+      "lastSuccess": "2026-10-17T11:20:08.279Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.816Z"
+      "lastSuccess": "2026-10-17T11:20:08.115Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.747Z"
+      "lastSuccess": "2026-10-17T11:20:08.049Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.941Z"
+      "lastSuccess": "2026-10-17T11:20:08.273Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T11:15:07.889Z"
+      "lastErrorAt": "2026-10-17T11:20:08.234Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.791Z"
+      "lastSuccess": "2026-10-17T11:20:08.440Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.713Z"
+      "lastSuccess": "2026-10-17T11:20:08.232Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.868Z"
+      "lastSuccess": "2026-10-17T11:20:08.178Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.633Z"
+      "lastSuccess": "2026-10-17T11:20:08.258Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.880Z"
+      "lastSuccess": "2026-10-17T11:20:08.309Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T11:15:07.886Z"
+      "lastErrorAt": "2026-10-17T11:20:08.410Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.896Z"
+      "lastSuccess": "2026-10-17T11:20:08.455Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.984Z"
+      "lastSuccess": "2026-10-17T11:20:08.508Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:08.067Z"
+      "lastSuccess": "2026-10-17T11:20:08.400Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.931Z"
+      "lastSuccess": "2026-10-17T11:20:08.522Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.966Z"
+      "lastSuccess": "2026-10-17T11:20:08.135Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-17T11:15:07.638Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 450\nChar: d",
+      "lastErrorAt": "2026-10-17T11:20:08.280Z"
     }
   },
   "items": [
@@ -111,6 +112,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_79096dd00eddde3f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
+      "snippet": "Descendants say theft from Portchester Castle reflects spirit of racism that has haunted ‘generation after generation’\nThe theft of a plaque in Hampshire that told the little-known story of African-Caribbean prisoners in 18th-century Britai",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T11:00:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_cef1a0e604cec9aa",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -122,6 +136,58 @@
       "tier": "routine",
       "topic": "sports",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e443e64cb8687949",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+      "snippet": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation\nUS corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect for",
+      "link": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T11:00:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7ed9977216f27468",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘We are in hiding’: Briton with severe health issues fears deportation from Sweden",
+      "snippet": "Mark Smith, who is married to a Swedish woman, says he was told three times he needed to do nothing in order to remain after Brexit\nA seriously ill British man living in Sweden has been forced into hiding amid fears he will be deported as a",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T11:00:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7c6af41d41306883",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
+      "snippet": "Ryan Amacher, who played role in bid to damage campaign, has also made antisemitic and racist posts on social media\nAn influencer who played a key role in hoax claims that James Talarico was in a mental health facility has a long history of",
+      "link": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T11:00:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_652999a45abdac07",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Insults, odd obsessions and rambling thoughts: a week in Trump rallies",
+      "snippet": "President has hit red states to drum up Republican support – and his increasingly strange performances are on full display \nMontana, Tennessee, Alaska. In the run-up to an election, a Republican president typically wouldn’t be campaigning i",
+      "link": "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T11:00:29.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_f4aa39d5b6c31ec3",
@@ -499,6 +565,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_36250b6027a52cd0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Wall-to-wall Top 25 showdowns, with 6 ranked matchups on tap starting with Ohio State at Indiana - AP News",
+      "snippet": "Wall-to-wall Top 25 showdowns, with 6 ranked matchups on tap starting with Ohio State at Indiana  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T10:10:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_9bb9ff1156a8b77c",
@@ -2615,84 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-17T01:17:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f9e131eb0b14935a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Sacramento mom says \"hero\" son shot, killed Oregon school shooter",
-      "snippet": "A Sacramento mother says her son acted on instinct when he confronted and fatally shot a gunman during a deadly school shooting in Oregon​, an attack that killed three children and a teacher.",
-      "link": "https://www.cbsnews.com/news/sacramento-mother-says-son-confronts-oregon-school-shooter/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T01:13:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7b62da1c1073a3da",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Falcons' Michael Penix cleared to face Bears following rib injury as Caleb Williams' status remains unclear",
-      "snippet": "Michael Penix Jr. is fully cleared to face the Chicago Bears after a rib injury scare, with Kevin Stefanski saying no extra protection is needed.",
-      "link": "https://www.foxnews.com/outkick-sports/falcons-michael-penix-cleared-face-bears-following-rib-injury-caleb-williams-status-remains-unclear",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T01:10:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dce37425252854f2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "ALCS Game 4 between Guardians, Rays postponed to Saturday - Reuters",
-      "snippet": "ALCS Game 4 between Guardians, Rays postponed to Saturday  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWU4eFkxVHNTZ3RhQ3J4RlNYZ25YelAyeWVxQ2dScEJabzI5c29fcHgwMzVJM2NjZTBkb0tKUzY3OGJDbjFhUXhZcFoySGowYW1iMnNrN0xOX2FyYkw3NVFVVG81TUd2dFE3bHdLc2VBcVJQYy1yUlF1WS1zbDVZTUItb3BRT1M5VmoyX0JqdnVyR3dvZE1Sa1hkdE1DQWxOS0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T01:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d3d9c8aa384d9f92",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kid Rock details sit-down with Trump, Stephen A. Smith and Bill Maher",
-      "snippet": "Kid Rock revealed details from an \"epic\" White House dinner with President Donald Trump, Bill Maher and Stephen A. Smith where socialism and HBCUs took center stage.",
-      "link": "https://www.foxnews.com/media/kid-rock-details-sit-down-trump-stephen-smith-bill-maher",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T01:00:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e042b70d331d449f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
-      "snippet": "Bangladesh is battling measles. It's a 'real warning' to other nations  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T01:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3a9f1a542ec8a37d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports - Reuters",
-      "snippet": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T00:57:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
