@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-17T20:55:05.254Z",
+  "updatedAt": "2026-10-17T21:00:12.724Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.614Z"
+      "lastSuccess": "2026-10-17T21:00:12.935Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.534Z"
+      "lastSuccess": "2026-10-17T21:00:12.894Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.705Z"
+      "lastSuccess": "2026-10-17T21:00:12.855Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.905Z"
+      "lastSuccess": "2026-10-17T21:00:12.952Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.798Z"
+      "lastSuccess": "2026-10-17T21:00:13.111Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.741Z"
+      "lastSuccess": "2026-10-17T21:00:13.045Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.644Z"
+      "lastSuccess": "2026-10-17T21:00:13.021Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.443Z"
+      "lastSuccess": "2026-10-17T21:00:12.940Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.838Z"
+      "lastSuccess": "2026-10-17T21:00:12.982Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.418Z"
+      "lastSuccess": "2026-10-17T21:00:12.998Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.575Z"
+      "lastSuccess": "2026-10-17T21:00:12.997Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.545Z"
+      "lastSuccess": "2026-10-17T21:00:13.003Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:06.225Z"
+      "lastSuccess": "2026-10-17T21:00:13.180Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.682Z"
+      "lastSuccess": "2026-10-17T21:00:13.034Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.876Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 450\nChar: d",
+      "lastErrorAt": "2026-10-17T21:00:13.047Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T20:55:05.939Z"
+      "lastErrorAt": "2026-10-17T21:00:13.191Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T20:55:05.711Z"
+      "lastErrorAt": "2026-10-17T21:00:13.023Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.931Z"
+      "lastSuccess": "2026-10-17T21:00:12.904Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.920Z"
+      "lastSuccess": "2026-10-17T21:00:13.199Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:06.003Z"
+      "lastSuccess": "2026-10-17T21:00:13.304Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.900Z"
+      "lastSuccess": "2026-10-17T21:00:13.294Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:06.026Z"
+      "lastSuccess": "2026-10-17T21:00:13.271Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:55:05.835Z"
+      "lastSuccess": "2026-10-17T21:00:13.071Z"
     }
   },
   "items": [
+    {
+      "id": "story_94b2bd97d90c42f4",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Blackburn on AI Kendrick Lamar clip backlash: It wasn’t ‘intended to offend’",
+      "snippet": "Sen. Marsha Blackburn (R-Tenn.) is defending herself after coming under fire for sharing a video, which seemed to be AI-generated, in which she appeared in the place of rapper Kendrick Lamar during his 2025 Super Bowl LIX Halftime Show perf",
+      "link": "https://thehill.com/homenews/campaign/6156109-marsha-blackburn-kendrick-lamar-backlash-response/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Sotomayor_Gorsuch_Photo_Split_f56694.png?w=900",
+      "publishedAt": "2026-10-17T20:50:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4dd92f2aac37e3ae",
       "source": "CBS News",
@@ -106,6 +120,19 @@
       "link": "https://www.cbsnews.com/news/trump-kentucky-midterm-campaign-stop/",
       "imageUrl": null,
       "publishedAt": "2026-10-17T20:48:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d7ba0c772b192013",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "After School Shooting in Bend, Ore., a Community Tries to Recapture Its Identity",
+      "snippet": "Days after the shooting at Silver Rail Elementary School, the community is questioning its resilience — and safety.",
+      "link": "https://www.nytimes.com/2026/10/17/us/school-shooting-bend-oregon-identity.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T20:44:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -538,6 +565,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_87dddc214e33de07",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents - Reuters",
+      "snippet": "Ukrainian foreign minister says Russian-held town is a 'death trap' with starving residents  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Q1WlkxYTlaMElEckVoRThQaWdiQmU4QWtzQ2g0OU9HMzY0OVZ0UUlKNUFHZW90VXZFX3JYaXplQmxyb2pscFd4NWxndnFVZmg0bTEtUnRhSWVNd21jQko4R1ZEbGNkcWFWSnBtS2pSTmVEZUtUVzZvQ0JvRjNpSWp3MTRkRXdmeElWaDgxLXE2a18xWlNCR0s3bi1faDNWVFZzRXlhUUZUaXNqS2ZXYm9UTnNoR1AyVXlN?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T19:30:10.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_5f5f4a0310adf4d1",
@@ -2655,45 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-17T14:58:54.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb294b20b4cfac68",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Thousands evacuate as massive California fires engulf homes",
-      "snippet": "Thousands of Californians are under evacuation orders as massive wildfires spread into urban areas, worsened by strong Santa Ana winds.",
-      "link": "https://www.cbsnews.com/video/thousands-evacuate-as-massive-california-fires-engulf-homes/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T14:58:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_58a1142247c5f8c6",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-      "snippet": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T14:57:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9dc8dac8fb502c01",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš - AP News",
-      "snippet": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2RSWG9nUmh5Q3FwOUx3S25PdWxCMTMtN1JERDFPSkFqOU5hOUhnQWUzTzBTLUd2cGNOUGJ0XzRKMVByNEtnUllTcHNhVF9LU21odmpnTm42Q0gyMkJWX1pSU0VXWnM0UFdVZjl5UVlhN1JzSDY3T3oyYy1PS24wVm1zOWFxdkJtREV3VTk0X0JyaEpfZUR1QTRPM00?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T14:55:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
