@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-17T14:25:05.402Z",
+  "updatedAt": "2026-10-17T14:30:10.635Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.731Z"
+      "lastSuccess": "2026-10-17T14:30:10.749Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.645Z"
+      "lastSuccess": "2026-10-17T14:30:10.831Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.773Z"
+      "lastSuccess": "2026-10-17T14:30:10.852Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.586Z"
+      "lastSuccess": "2026-10-17T14:30:10.876Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.809Z"
+      "lastSuccess": "2026-10-17T14:30:10.924Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.733Z"
+      "lastSuccess": "2026-10-17T14:30:11.024Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.745Z"
+      "lastSuccess": "2026-10-17T14:30:10.866Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.004Z"
+      "lastSuccess": "2026-10-17T14:30:10.825Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.762Z"
+      "lastSuccess": "2026-10-17T14:30:10.835Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.866Z"
+      "lastSuccess": "2026-10-17T14:30:11.105Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T14:25:05.950Z"
+      "lastErrorAt": "2026-10-17T14:30:11.025Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.022Z"
+      "lastSuccess": "2026-10-17T14:30:10.958Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.825Z"
+      "lastSuccess": "2026-10-17T14:30:10.881Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.902Z"
+      "lastSuccess": "2026-10-17T14:30:11.013Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.051Z"
+      "lastSuccess": "2026-10-17T14:30:10.986Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.930Z"
+      "lastSuccess": "2026-10-17T14:30:11.051Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T14:25:06.102Z"
+      "lastErrorAt": "2026-10-17T14:30:11.063Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.094Z"
+      "lastSuccess": "2026-10-17T14:30:11.068Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.157Z"
+      "lastSuccess": "2026-10-17T14:30:11.091Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.225Z"
+      "lastSuccess": "2026-10-17T14:30:11.229Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:08.021Z"
+      "lastSuccess": "2026-10-17T14:30:11.843Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T14:25:05.625Z"
+      "lastSuccess": "2026-10-17T14:30:11.166Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-17T14:25:06.028Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 450\nChar: d",
+      "lastErrorAt": "2026-10-17T14:30:10.993Z"
     }
   },
   "items": [
+    {
+      "id": "story_79f6bbd497cff1a6",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "snippet": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T14:25:10.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_2c2d7e1bbb2e6f78",
       "source": "Fox News",
@@ -2680,19 +2694,6 @@
       "link": "https://www.theguardian.com/environment/2026/oct/17/honeybees-are-barging-aside-wild-pollinators-in-hunt-for-pollen-and-nectar-study-finds",
       "imageUrl": null,
       "publishedAt": "2026-10-17T09:00:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_62a29032f7f47530",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
-      "snippet": "Owner and mechanics fear for their health and future of the Herne Hill shop with no date for fixing problem\nThe leafy south London neighbourhood of Herne Hill is a haven for cyclists who can often be seen lapping the local parks and refuell",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T09:00:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
