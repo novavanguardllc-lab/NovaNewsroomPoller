@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-17T20:35:05.119Z",
+  "updatedAt": "2026-10-17T20:40:07.564Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.231Z"
+      "lastSuccess": "2026-10-17T20:40:07.752Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.210Z"
+      "lastSuccess": "2026-10-17T20:40:07.945Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.389Z"
+      "lastSuccess": "2026-10-17T20:40:08.043Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.429Z"
+      "lastSuccess": "2026-10-17T20:40:07.765Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.552Z"
+      "lastSuccess": "2026-10-17T20:40:08.326Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.571Z"
+      "lastSuccess": "2026-10-17T20:40:08.163Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.433Z"
+      "lastSuccess": "2026-10-17T20:40:08.244Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.410Z"
+      "lastSuccess": "2026-10-17T20:40:07.826Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.532Z"
+      "lastSuccess": "2026-10-17T20:40:08.388Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.391Z"
+      "lastSuccess": "2026-10-17T20:40:08.046Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.489Z"
+      "lastSuccess": "2026-10-17T20:40:08.066Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.474Z"
+      "lastSuccess": "2026-10-17T20:40:08.266Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.715Z"
+      "lastSuccess": "2026-10-17T20:40:08.948Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.454Z"
+      "lastSuccess": "2026-10-17T20:40:08.222Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.469Z"
+      "lastSuccess": "2026-10-17T20:40:08.050Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T20:35:05.594Z"
+      "lastErrorAt": "2026-10-17T20:40:08.522Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T20:35:05.576Z"
+      "lastErrorAt": "2026-10-17T20:40:08.523Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.315Z"
+      "lastSuccess": "2026-10-17T20:40:08.448Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.597Z"
+      "lastSuccess": "2026-10-17T20:40:08.510Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.729Z"
+      "lastSuccess": "2026-10-17T20:40:08.589Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.593Z"
+      "lastSuccess": "2026-10-17T20:40:07.905Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:08.337Z"
+      "lastSuccess": "2026-10-17T20:40:09.598Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T20:35:05.575Z"
+      "lastSuccess": "2026-10-17T20:40:08.482Z"
     }
   },
   "items": [
+    {
+      "id": "story_d56410e156fc008d",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Man fatally shot during dispute at Midtown Manhattan subway station, police say",
+      "snippet": "A man died Saturday after being shot during a dispute at a subway station in Manhattan’s Theater District, according to police.",
+      "link": "https://www.nbcnews.com/news/us-news/man-fatally-shot-dispute-midtown-manhattan-subway-station-police-say-rcna604061",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T20:30:20.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_709ba7d7a85c3d7e",
       "source": "Wash Examiner",
@@ -171,6 +184,19 @@
       "link": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
       "imageUrl": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg",
       "publishedAt": "2026-10-17T20:15:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bc1a0a29be5769e3",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed",
+      "snippet": "Senator Darline Graham, appointed to fill the Senate seat of her late brother, Lindsey, gently disagreed with the president’s decision to exempt Russia from the sanctions legislation.",
+      "link": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T20:14:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -705,6 +731,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-17T18:41:18.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_146305948cc6f0a1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0tXaU5sak5VUm5YVXZDVTE3akN4LXpfWXl4WjdIMFJMOVExOEJSd0JfcnhXYldBWVctdzlsWFFXVHdla1gzWUdlMEJxb0M5T2dEcjViRGI1bEl2aEMtclRvbjBXQURISExpRFZ6OWthUlB6THJ6TVB6OFlpQVJONDAtaWxsQzNLckVvUkZnSDlCT2ZweC1FanNXVkNoVEIzVDVkU0hlbw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T18:37:08.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2693,6 @@
       "link": "https://www.politico.com/news/2026/10/17/alaska-senate-sullivan-trump-peltola-01125231",
       "imageUrl": null,
       "publishedAt": "2026-10-17T14:45:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78fa9f1a4816aef1",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  David's Bridal puppy collection",
-      "snippet": "Wedding retailer David’s Bridal is unveiling its new Puppy Love collection, revealing what the best-dressed best friend will wear at a pet parent’s wedding.",
-      "link": "https://abcnews.com/video/137344600/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T14:43:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4af04a17d3e5ae58",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "How to stay healthy during flu season",
-      "snippet": "Flu season is back with a vengeance, arriving earlier than usual this year. Dr. Janette Nesheiwat has tips to help keep you and your family healthy.",
-      "link": "https://www.cbsnews.com/video/how-to-stay-healthy-during-flu-season/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T14:42:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f4290472ac1a332c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-      "snippet": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petition\nElon Musk and his ⁠America Pac political action committee said recently that they agreed to settle two ⁠proposed class ⁠actions ​all",
-      "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T14:42:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
