@@ -1,103 +1,154 @@
 {
-  "updatedAt": "2026-10-17T13:10:07.864Z",
+  "updatedAt": "2026-10-17T13:15:07.877Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.137Z"
+      "lastSuccess": "2026-10-17T13:15:07.943Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.007Z"
+      "lastSuccess": "2026-10-17T13:15:07.958Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.080Z"
+      "lastSuccess": "2026-10-17T13:15:07.964Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.065Z"
+      "lastSuccess": "2026-10-17T13:15:08.305Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.384Z"
+      "lastSuccess": "2026-10-17T13:15:08.005Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.340Z"
+      "lastSuccess": "2026-10-17T13:15:08.038Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.487Z"
+      "lastSuccess": "2026-10-17T13:15:08.048Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.236Z"
+      "lastSuccess": "2026-10-17T13:15:07.996Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.020Z"
+      "lastSuccess": "2026-10-17T13:15:08.045Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.526Z"
+      "lastSuccess": "2026-10-17T13:15:08.057Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T13:10:08.587Z"
+      "lastErrorAt": "2026-10-17T13:15:08.043Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.447Z"
+      "lastSuccess": "2026-10-17T13:15:08.081Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.264Z"
+      "lastSuccess": "2026-10-17T13:15:08.042Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.559Z"
+      "lastSuccess": "2026-10-17T13:15:08.034Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.336Z"
+      "lastSuccess": "2026-10-17T13:15:08.090Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.655Z"
+      "lastSuccess": "2026-10-17T13:15:08.099Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T13:10:08.668Z"
+      "lastErrorAt": "2026-10-17T13:15:08.049Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.668Z"
+      "lastSuccess": "2026-10-17T13:15:08.118Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.687Z"
+      "lastSuccess": "2026-10-17T13:15:08.232Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.769Z"
+      "lastSuccess": "2026-10-17T13:15:08.165Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:10.510Z"
+      "lastSuccess": "2026-10-17T13:15:10.048Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T13:10:08.586Z"
+      "lastSuccess": "2026-10-17T13:15:08.017Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 450\nChar: d",
-      "lastErrorAt": "2026-10-17T13:10:08.471Z"
+      "online": true,
+      "lastSuccess": "2026-10-17T13:15:08.107Z"
     }
   },
   "items": [
+    {
+      "id": "story_10f894059ae19928",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Protests erupt in France against living costs, support of students",
+      "snippet": "Police used tear gas to push back people wearing hoods and masks and throwing fireworks and other objects at officers in the Place de la République, northeast of the Paris city center.",
+      "link": "https://www.cbsnews.com/news/protests-france-rising-living-costs-students/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T13:13:51.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_41b91be750975c60",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Our kids aren’t broken. We need to stop treating every struggle like a disorder",
+      "snippet": "A neuropsychologist explains why a student scoring 34 on the ACT still felt like a failure and sought test accommodations for a perfect score.",
+      "link": "https://www.foxnews.com/opinion/kids-arent-broken-stop-treating-every-struggle-like-disorder",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T13:00:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_96a929d21662eb87",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ilhan Omar should be jailed, deported if citizenship fraud proven, Top House Republican says",
+      "snippet": "House Majority Whip Tom Emmer says Ilhan Omar should serve jail time and be deported if the federal investigation proves she lied on paperwork.",
+      "link": "https://www.foxnews.com/politics/ilhan-omar-should-jailed-deported-citizenship-fraud-proven-top-house-republican-says",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T13:00:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e3775723b45224f2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Leonardo DiCaprio's 'dad bod' puts spotlight on dangerous belly fat — and how to lose it",
+      "snippet": "Leonardo DiCaprio's beach photos sparked a 'dad bod' debate, as a trainer warns that excess belly fat and visceral fat carry serious health risks.",
+      "link": "https://www.foxnews.com/health/leonardo-dicaprio-dad-bod-spotlight-dangerous-belly-fat-how-lose-it",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T13:00:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_122fb95b5b5a1340",
       "source": "Wash Examiner",
@@ -2643,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-17T06:08:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5b2e499b1bd02254",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "US: California wildfires destroy homes, leave thousands without power",
-      "snippet": "Multiple mansions have been engulfed in the fires raging in California while firefighters continue to douse the blaze. Thousands of people have been evacuated and many others are without power.",
-      "link": "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T06:08:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_29d0461bbeb72d97",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-      "snippet": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
-      "link": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T06:04:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8296b5c8c7c83de1",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-      "snippet": "Yemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport Friday, saying they had targeted a weapons depot as well as a military command headquarters. The Aden Security Department said a Y",
-      "link": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-      "imageUrl": "https://s.france24.com/media/display/8be454f8-c9ee-11f1-a86a-2d1c143cdef3/w:1024/p:16x9/AP26286485676861.jpg",
-      "publishedAt": "2026-10-17T06:00:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1e2359f84ee5fe3e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "COMMENTARY: Strong dollar, weak hand for Trump before midterms - Reuters",
-      "snippet": "COMMENTARY: Strong dollar, weak hand for Trump before midterms  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T06:00:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
