@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-17T10:30:10.524Z",
+  "updatedAt": "2026-10-17T10:35:05.956Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.639Z"
+      "lastSuccess": "2026-10-17T10:35:06.063Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.725Z"
+      "lastSuccess": "2026-10-17T10:35:06.157Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.756Z"
+      "lastSuccess": "2026-10-17T10:35:06.180Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.978Z"
+      "lastSuccess": "2026-10-17T10:35:06.434Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.845Z"
+      "lastSuccess": "2026-10-17T10:35:06.218Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.802Z"
+      "lastSuccess": "2026-10-17T10:35:06.245Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.856Z"
+      "lastSuccess": "2026-10-17T10:35:06.298Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.706Z"
+      "lastSuccess": "2026-10-17T10:35:06.137Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.738Z"
+      "lastSuccess": "2026-10-17T10:35:06.141Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.886Z"
+      "lastSuccess": "2026-10-17T10:35:06.326Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-17T10:30:10.892Z"
+      "lastErrorAt": "2026-10-17T10:35:06.328Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.874Z"
+      "lastSuccess": "2026-10-17T10:35:06.286Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:11.103Z"
+      "lastSuccess": "2026-10-17T10:35:06.164Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.818Z"
+      "lastSuccess": "2026-10-17T10:35:06.249Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.903Z"
+      "lastSuccess": "2026-10-17T10:35:06.317Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.892Z"
+      "lastSuccess": "2026-10-17T10:35:06.333Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-17T10:30:10.915Z"
+      "lastErrorAt": "2026-10-17T10:35:06.328Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.937Z"
+      "lastSuccess": "2026-10-17T10:35:06.355Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:11.098Z"
+      "lastSuccess": "2026-10-17T10:35:06.475Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:11.079Z"
+      "lastSuccess": "2026-10-17T10:35:06.421Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.999Z"
+      "lastSuccess": "2026-10-17T10:35:08.353Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.775Z"
+      "lastSuccess": "2026-10-17T10:35:06.442Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-17T10:30:10.879Z"
+      "lastSuccess": "2026-10-17T10:35:06.321Z"
     }
   },
   "items": [
+    {
+      "id": "story_a300ea242b67495b",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "The Uplift: The Hundred Acre Wood",
+      "snippet": "Take a trip to the Hundred Acre Wood to celebrate the 100th anniversary of Winnie the Pooh and friends. Plus, David Begnaud helps a group of friends plan a special girls night out.",
+      "link": "https://www.cbsnews.com/video/101726-the-uplift/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T10:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4dd13dc41b2095a3",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "UK advises against all but essential travel to Saudi Arabia",
+      "snippet": "The UK has advised against all but essential travel to Saudi Arabia after attacks by Yemen's Houthis in the region.",
+      "link": "https://news.sky.com/story/uk-advises-against-all-but-essential-travel-to-saudi-arabia-amid-houthi-strikes-as-missiles-hit-yemen-airport-13600096",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-saudi-arabia-yemen_7376684.jpg?20261014113217",
+      "publishedAt": "2026-10-17T10:21:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_693cc2ae2f773abf",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+      "snippet": "Peter Ricketts called for more resilience in protecting banking, energy and water systems from cyber-assaults\nMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives bei",
+      "link": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
+      "imageUrl": null,
+      "publishedAt": "2026-10-17T10:19:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8596eb96bb6efc58",
       "source": "Fox News",
@@ -2654,45 +2693,6 @@
       "link": "https://www.cbsnews.com/video/teacher-tried-to-stop-16-year-old-shooter-after-he-entered-oregon-school-police-say/",
       "imageUrl": null,
       "publishedAt": "2026-10-16T23:53:06.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7c3ae142f6c498b3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Southern California wildfires force evacuations amid powerful Santa Ana winds",
-      "snippet": "Two raging Southern California wildfires, one along the Malibu coast and one in Orange County, have forced evacuations amid hot, dry conditions and powerful Santa Ana winds. Kris Van Cleave reports and Rob Marciano has the forecast.",
-      "link": "https://www.cbsnews.com/video/southern-california-wildfires-force-evacuations-amid-powerful-santa-ana-winds/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:51:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_985c389eb43b59bd",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Arizona Cardinals fans have reached the 'buying billboard space' point of frustration",
-      "snippet": "Electronic billboards funded by frustrated Cardinals fans popped up across Phoenix with a blunt message for owner Michael Bidwill: #BIDWILLOUT.",
-      "link": "https://www.foxnews.com/outkick-sports/arizona-cardinals-fans-reached-buying-billboard-space-point-frustration",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:50:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a05c4ee0eebf4dbe",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Israeli settlers attack Palestinians during West Bank olive harvest and beat U.S. photojournalist",
-      "snippet": "Israeli settlers attacked Palestinian villages across the occupied West Bank on Friday, setting fire to cars and trees and beating residents and a Washington Post photographer, in the latest violence to disrupt the territory's annual olive ",
-      "link": "https://www.pbs.org/newshour/world/israeli-settlers-attack-palestinians-during-west-bank-olive-harvest-and-beat-u-s-photojournalist",
-      "imageUrl": null,
-      "publishedAt": "2026-10-16T23:46:15.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
