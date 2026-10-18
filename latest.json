@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-18T01:05:05.184Z",
+  "updatedAt": "2026-10-18T01:10:07.917Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.300Z"
+      "lastSuccess": "2026-10-18T01:10:08.066Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.268Z"
+      "lastSuccess": "2026-10-18T01:10:08.145Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.373Z"
+      "lastSuccess": "2026-10-18T01:10:08.105Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.435Z"
+      "lastSuccess": "2026-10-18T01:10:08.264Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.495Z"
+      "lastSuccess": "2026-10-18T01:10:08.329Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.503Z"
+      "lastSuccess": "2026-10-18T01:10:08.261Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.439Z"
+      "lastSuccess": "2026-10-18T01:10:08.205Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.379Z"
+      "lastSuccess": "2026-10-18T01:10:08.199Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.396Z"
+      "lastSuccess": "2026-10-18T01:10:08.230Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.400Z"
+      "lastSuccess": "2026-10-18T01:10:08.160Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.399Z"
+      "lastSuccess": "2026-10-18T01:10:08.183Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.433Z"
+      "lastSuccess": "2026-10-18T01:10:08.242Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.594Z"
+      "lastSuccess": "2026-10-18T01:10:09.366Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.420Z"
+      "lastSuccess": "2026-10-18T01:10:08.222Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.598Z"
+      "lastSuccess": "2026-10-18T01:10:08.280Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T01:05:05.600Z"
+      "lastErrorAt": "2026-10-18T01:10:08.421Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T01:05:05.441Z"
+      "lastErrorAt": "2026-10-18T01:10:08.337Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.798Z"
+      "lastSuccess": "2026-10-18T01:10:08.503Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.614Z"
+      "lastSuccess": "2026-10-18T01:10:08.420Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.618Z"
+      "lastSuccess": "2026-10-18T01:10:08.547Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.630Z"
+      "lastSuccess": "2026-10-18T01:10:08.484Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.747Z"
+      "lastSuccess": "2026-10-18T01:10:08.528Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T01:05:05.460Z"
+      "lastSuccess": "2026-10-18T01:10:08.350Z"
     }
   },
   "items": [
+    {
+      "id": "story_80c287479d5aed7c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israeli settlers attack European diplomats in the occupied West Bank",
+      "snippet": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T01:02:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dbaa1cb169ccc3ae",
       "source": "CBS News",
@@ -2680,19 +2693,6 @@
       "link": "https://www.foxnews.com/media/netanyahu-praises-trumps-wicked-sense-humor-defends-ironclad-alliance-ahead-historic-israel-vote",
       "imageUrl": null,
       "publishedAt": "2026-10-17T17:34:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e55ba749068f402e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Former US ambassador says South Korea prosecuted him over speech made on American soil",
-      "snippet": "Ambassador Morse Tan faces trial in South Korea over comments he made about crimes allegedly committed by its president, claims Korean authorities have refuted.",
-      "link": "https://www.foxnews.com/world/former-us-ambassador-says-south-korea-prosecuted-him-over-speech-made-american-soil",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T17:31:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
