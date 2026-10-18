@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-18T11:40:07.579Z",
+  "updatedAt": "2026-10-18T11:45:07.631Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:07.982Z"
+      "lastSuccess": "2026-10-18T11:45:07.802Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:07.895Z"
+      "lastSuccess": "2026-10-18T11:45:07.721Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:07.835Z"
+      "lastSuccess": "2026-10-18T11:45:07.893Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:07.774Z"
+      "lastSuccess": "2026-10-18T11:45:07.816Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.137Z"
+      "lastSuccess": "2026-10-18T11:45:07.820Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.076Z"
+      "lastSuccess": "2026-10-18T11:45:07.877Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.277Z"
+      "lastSuccess": "2026-10-18T11:45:07.904Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:07.782Z"
+      "lastSuccess": "2026-10-18T11:45:07.896Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.016Z"
+      "lastSuccess": "2026-10-18T11:45:08.017Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.080Z"
+      "lastSuccess": "2026-10-18T11:45:08.013Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.264Z"
+      "lastSuccess": "2026-10-18T11:45:07.980Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.037Z"
+      "lastSuccess": "2026-10-18T11:45:07.998Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.127Z"
+      "lastSuccess": "2026-10-18T11:45:07.965Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T11:40:07.993Z"
+      "lastErrorAt": "2026-10-18T11:45:08.107Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T11:40:08.360Z"
+      "lastErrorAt": "2026-10-18T11:45:08.133Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.164Z"
+      "lastSuccess": "2026-10-18T11:45:08.105Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.135Z"
+      "lastSuccess": "2026-10-18T11:45:07.975Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.387Z"
+      "lastSuccess": "2026-10-18T11:45:08.227Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.357Z"
+      "lastSuccess": "2026-10-18T11:45:08.140Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.255Z"
+      "lastSuccess": "2026-10-18T11:45:08.090Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.323Z"
+      "lastSuccess": "2026-10-18T11:45:08.123Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:08.303Z"
+      "lastSuccess": "2026-10-18T11:45:08.185Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T11:40:09.294Z"
+      "lastSuccess": "2026-10-18T11:45:09.270Z"
     }
   },
   "items": [
+    {
+      "id": "story_54ece966844d3571",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "O.J.’s Accomplice?",
+      "snippet": "After all these years, we found new developments in the O.J. Simpson case.",
+      "link": "https://www.nytimes.com/2026/10/18/briefing/ojs-accomplice.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T11:36:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0eff28adc2c1aeb5",
       "source": "Fox News",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T04:05:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_87f9818041d72275",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Dems lead GOP in House vote choice as Trump's approval rating hits record low: Poll",
-      "snippet": "Half or more Americans call every household purchase category measured \"unaffordable.\"",
-      "link": "https://abcnews.com/Politics/democrats-lead-republicans-house-vote-choice-trumps-approval/story?id=137322849",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T04:03:29.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
