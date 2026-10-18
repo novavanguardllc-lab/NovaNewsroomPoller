@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-18T06:00:12.653Z",
+  "updatedAt": "2026-10-18T06:05:05.713Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.759Z"
+      "lastSuccess": "2026-10-18T06:05:05.858Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.798Z"
+      "lastSuccess": "2026-10-18T06:05:05.833Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.868Z"
+      "lastSuccess": "2026-10-18T06:05:05.891Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.914Z"
+      "lastSuccess": "2026-10-18T06:05:05.838Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.989Z"
+      "lastSuccess": "2026-10-18T06:05:05.965Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.936Z"
+      "lastSuccess": "2026-10-18T06:05:05.944Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.895Z"
+      "lastSuccess": "2026-10-18T06:05:05.911Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.916Z"
+      "lastSuccess": "2026-10-18T06:05:05.852Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.877Z"
+      "lastSuccess": "2026-10-18T06:05:06.023Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.879Z"
+      "lastSuccess": "2026-10-18T06:05:05.918Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.771Z"
+      "lastSuccess": "2026-10-18T06:05:05.917Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.750Z"
+      "lastSuccess": "2026-10-18T06:05:05.931Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:13.033Z"
+      "lastSuccess": "2026-10-18T06:05:06.091Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.971Z"
+      "lastSuccess": "2026-10-18T06:05:06.014Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.910Z"
+      "lastSuccess": "2026-10-18T06:05:05.971Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T06:00:13.034Z"
+      "lastErrorAt": "2026-10-18T06:05:06.037Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T06:00:12.819Z"
+      "lastErrorAt": "2026-10-18T06:05:06.124Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.818Z"
+      "lastSuccess": "2026-10-18T06:05:06.137Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:13.054Z"
+      "lastSuccess": "2026-10-18T06:05:06.043Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:13.073Z"
+      "lastSuccess": "2026-10-18T06:05:06.110Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.839Z"
+      "lastSuccess": "2026-10-18T06:05:06.197Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:14.000Z"
+      "lastSuccess": "2026-10-18T06:05:06.124Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T06:00:12.950Z"
+      "lastSuccess": "2026-10-18T06:05:06.031Z"
     }
   },
   "items": [
+    {
+      "id": "story_30d3348a8abab042",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Guatemalan former prosecutor shot dead at sports centre",
+      "snippet": "Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.",
+      "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T05:53:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d3159e897108120b",
       "source": "France24",
@@ -122,6 +135,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_df4d1e6f3f8f0ba6",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "AI tool helps stranded protesters find their way home in the Indian capital",
+      "snippet": "A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.",
+      "link": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T05:37:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_dc7af6c4580f768f",
@@ -1437,6 +1463,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ff803a20fe2856af",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "The Detective and the Chewing Gum Sting",
+      "snippet": "How a clever detective caught an elusive killer with a stick of gum. \"48 Hours\" correspondent Peter Van Sant reports.",
+      "link": "https://www.cbsnews.com/video/the-detective-and-the-chewing-gum-sting/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T01:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ff2c82bcf4abbfb0",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2654,45 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-17T21:02:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6497ea1d258e4b01",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Settlers allegedly attack European diplomats in West Bank",
-      "snippet": "Israeli settlers allegedly attacked a group of European diplomats visiting the West Bank Saturday, just a day after a photojournalist was attacked.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/17/european-diplomats-attacked-west-bank/5211792270088/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/5211792270088/2026/upi_com/5ece62329d770cc919241c3071014948/v1.5/Settlers-allegedly-attack-European-diplomats-in-West-Bank.jpg",
-      "publishedAt": "2026-10-17T21:00:14.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4eeeedfe69d93641",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Concerning economic data pose issues for GOP down midterm stretch",
-      "snippet": "Recent data paints a bleak picture of the economy, lending Republicans another blow as midterm early-voting is underway. Annual inflation, as measured by the consumer price index (CPI), rose from 3.4 percent in August to 3.7 percent in Sept",
-      "link": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Inflation_Rego_101526_illo_SamanthaWong-AdobeStock1.png?w=900",
-      "publishedAt": "2026-10-17T21:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_abc835f54f6c4eb2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Texas blows 14-point lead, Arch Manning experiences first home loss as questions mount in Austin",
-      "snippet": "Florida Gators stun Texas Longhorns with a 27-24 comeback win as Arch Manning struggles and Steve Sarkisian faces a must-win game against Ole Miss.",
-      "link": "https://www.foxnews.com/outkick-sports/texas-blows-14-point-lead-arch-manning-experiences-first-home-loss-questions-mount-austin",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T20:55:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
