@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-18T20:40:08.245Z",
+  "updatedAt": "2026-10-18T20:45:07.296Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.461Z"
+      "lastSuccess": "2026-10-18T20:45:07.364Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.418Z"
+      "lastSuccess": "2026-10-18T20:45:07.514Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.499Z"
+      "lastSuccess": "2026-10-18T20:45:07.401Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.517Z"
+      "lastSuccess": "2026-10-18T20:45:07.379Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.526Z"
+      "lastSuccess": "2026-10-18T20:45:07.459Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.637Z"
+      "lastSuccess": "2026-10-18T20:45:07.444Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.556Z"
+      "lastSuccess": "2026-10-18T20:45:07.422Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.540Z"
+      "lastSuccess": "2026-10-18T20:45:07.487Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.577Z"
+      "lastSuccess": "2026-10-18T20:45:07.500Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.741Z"
+      "lastSuccess": "2026-10-18T20:45:07.486Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.731Z"
+      "lastSuccess": "2026-10-18T20:45:07.495Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.824Z"
+      "lastSuccess": "2026-10-18T20:45:07.521Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.725Z"
+      "lastSuccess": "2026-10-18T20:45:07.541Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T20:40:08.678Z"
+      "lastErrorAt": "2026-10-18T20:45:07.515Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T20:40:08.925Z"
+      "lastErrorAt": "2026-10-18T20:45:07.606Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.676Z"
+      "lastSuccess": "2026-10-18T20:45:07.585Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.583Z"
+      "lastSuccess": "2026-10-18T20:45:07.589Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.955Z"
+      "lastSuccess": "2026-10-18T20:45:07.634Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.936Z"
+      "lastSuccess": "2026-10-18T20:45:07.597Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.923Z"
+      "lastSuccess": "2026-10-18T20:45:07.963Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.782Z"
+      "lastSuccess": "2026-10-18T20:45:07.772Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:08.850Z"
+      "lastSuccess": "2026-10-18T20:45:07.416Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T20:40:09.027Z"
+      "lastSuccess": "2026-10-18T20:45:07.670Z"
     }
   },
   "items": [
+    {
+      "id": "story_8dab02b6c2ff1ef2",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+      "snippet": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T20:26:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_201ef4f31d33b4bd",
       "source": "The Hill",
@@ -2683,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_4d0e6a469a764d79",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Service member dies after rappelling fall at UT San Antonio game",
-      "snippet": "A member of the U.S. Air Force died on Saturday after attempting to rappel from the rafters before a University of Texas at San Antonio (UTSA)-Navy football game. The service member, whose identity has not yet been revealed by the Air Force",
-      "link": "https://thehill.com/homenews/state-watch/6156482-usaf-member-dies-utsa-game/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2299297033-e1792335687618.jpg?w=900",
-      "publishedAt": "2026-10-18T15:12:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
