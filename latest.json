@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-18T12:35:05.572Z",
+  "updatedAt": "2026-10-18T12:40:07.737Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.802Z"
+      "lastSuccess": "2026-10-18T12:40:08.138Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.665Z"
+      "lastSuccess": "2026-10-18T12:40:08.196Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.765Z"
+      "lastSuccess": "2026-10-18T12:40:07.996Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.686Z"
+      "lastSuccess": "2026-10-18T12:40:07.958Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.807Z"
+      "lastSuccess": "2026-10-18T12:40:08.059Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.823Z"
+      "lastSuccess": "2026-10-18T12:40:08.416Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.739Z"
+      "lastSuccess": "2026-10-18T12:40:08.356Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.844Z"
+      "lastSuccess": "2026-10-18T12:40:08.199Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.850Z"
+      "lastSuccess": "2026-10-18T12:40:08.317Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.915Z"
+      "lastSuccess": "2026-10-18T12:40:08.339Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.842Z"
+      "lastSuccess": "2026-10-18T12:40:08.394Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.912Z"
+      "lastSuccess": "2026-10-18T12:40:08.275Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.908Z"
+      "lastSuccess": "2026-10-18T12:40:08.474Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T12:35:05.862Z"
+      "lastErrorAt": "2026-10-18T12:40:08.340Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T12:35:05.922Z"
+      "lastErrorAt": "2026-10-18T12:40:08.594Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.888Z"
+      "lastSuccess": "2026-10-18T12:40:08.383Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.869Z"
+      "lastSuccess": "2026-10-18T12:40:08.215Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.942Z"
+      "lastSuccess": "2026-10-18T12:40:08.693Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.935Z"
+      "lastSuccess": "2026-10-18T12:40:08.621Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:05.984Z"
+      "lastSuccess": "2026-10-18T12:40:08.760Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:06.008Z"
+      "lastSuccess": "2026-10-18T12:40:08.514Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:06.046Z"
+      "lastSuccess": "2026-10-18T12:40:08.540Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T12:35:07.636Z"
+      "lastSuccess": "2026-10-18T12:40:10.857Z"
     }
   },
   "items": [
+    {
+      "id": "story_15f3ba8ad1d439e7",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Nottingham Forest vs Arsenal LIVE: Premier League",
+      "snippet": "Follow updates from the Premier League clash, including build-up, analysis and live text commentary of the game.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T12:30:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_02b8790878e12593",
       "source": "Guardian",
@@ -185,6 +198,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T12:09:43.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7935f0230e74b7d4",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "There’s a ‘New Middle East’, but not the one Israel planned",
+      "snippet": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
+      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T12:07:34.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -380,6 +406,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T12:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ceb7fa1f7bee7196",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Latino voters helped put Trump back in the White House. What’s their next move? - AP News",
+      "snippet": "Latino voters helped put Trump back in the White House. What’s their next move?  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFBVRGczQ3NZa3MxX0c2VXB0enIyQ0twZkwtWjI5RjhpWGdHOHBkZndUYU5CWmhOeHYzRUFEMndlWHRhOThRdFB5THlka0xaY1U3MUdNMzh2bzVkd25ScEtrYkk2LWJtdl9XVFlITWY4N3AwREZCd1ZpMURkZGJhaWZTV2ZLcHA0cjBreHZBSTFrSEJBQ1pIcTRKX3gzSUg3bUMtUTJPcWd3QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T12:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -865,6 +904,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_52dd7e605fd7c90e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
+      "snippet": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcG5pYTJCRkVpNVoxOTVPTVRoNUtwcTBYX2lhZ3ZmMVYxQjRjeG5kMHBHRnlpS1otNzZjWVNyaGJCNjhnU0ROclhuOWYwVGltT19POUY1Z0lOT2pJNDNCSUN0LTFHSkFxUW5iWW91T0ZiOVVTTm42TUpINVc2c1JVbEszT0hBQmhEUU5kemNPbFdqZndpTl9wTG1XeFRxd0JfTXhyam1zSDEzV2hXdWZ3X25xOXY4TkZwWThkLWVXTTBXREpWVFp0eC1XRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T10:52:10.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f8a02d6a0bf624d2",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1004,6 +1056,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T10:30:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_03fcb45e479eb08b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters",
+      "snippet": "Iran urges US to accept proposal to reopen Strait of Hormuz  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWUh3Z1JyMmU4SkJ4ZXQ4Y0VaN3RMS1Vtcmg4S1lDMGlvUG1GeVY3Q1pkaWltSG5yOWhmcTBnNkk4U0ZiTVREVzd3RVRZNjZJTjhaTkg5bTFGX0J2Q0JzTUI4UlZIWmxHMmRDeVRRODZRYU1mbkNrVzFRX3piTnpDbllfUGc3NnJkSl9hWWRCQzlxZjFBYnE5bXJQMVBjMzNBUFlNcmRtcw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T10:29:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2628,71 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-18T05:53:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d3159e897108120b",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "India's 'cockroach' movement founder released from police custody",
-      "snippet": "Indian police released Cockroach Janta Party (CJP) founder Abhijeet Dipke from detention on Saturday after the activist was detained ahead of a rally calling for the resignation of India's chief election commissioner. Two other CJP leaders ",
-      "link": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
-      "imageUrl": "https://s.france24.com/media/display/b8ff30cc-cab4-11f1-8c54-6313a763b466/w:1024/p:16x9/000-D3KJ7R8.jpg",
-      "publishedAt": "2026-10-18T05:47:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b5fde30962e7e24",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "I Teach at a Business School. It’s Time to Shut Them Down.",
-      "snippet": "Students come in with noble intentions and leave with flawed expertise.",
-      "link": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T05:45:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_40f0ecb18774db7d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Equatorial Guinea is expanding an ambitious malaria elimination plan - AP News",
-      "snippet": "Equatorial Guinea is expanding an ambitious malaria elimination plan  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzZncldtWUdRclJBdjJnUnFxdkxmT2c1djlJZ3BmeU5vSFUxbHdRUFRvUGhlNTFxYkZ3bjNDRjZqNWlaMXhhWXZ0UnFBdmhfSXVEUXNoc0RtRXpXRmsxQzZKbmJuNFhhS2lmWXc2d00wRmhKRF9hSi00dG1oZU5yRnlmUmo3aE5LN2tfX3JHZ3pkSTFPTE1fOWZFdmlJMjBMdTFWVzRoREl1a2c4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T05:45:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36250b6027a52cd0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - AP News",
-      "snippet": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUTF2UlFIOWVHOTloUEc0MVVLeC1VTWctWFhjRWdxaE9INDU0d3VoTElSdk5kNjZ4ak43bFJaeE1rSndiSjBOZHkyeWg1U01hZ3g1ckEyR21CTDNxa0RiREJIREJ4SmlxMk4wUmpJMHlSd01LUDBzcFI2TTFiYjV5MHJR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T05:43:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f267c9dcd271c189",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
-      "snippet": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate.",
-      "link": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T05:42:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
