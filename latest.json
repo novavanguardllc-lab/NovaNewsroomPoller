@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-18T02:10:07.349Z",
+  "updatedAt": "2026-10-18T02:15:07.856Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.548Z"
+      "lastSuccess": "2026-10-18T02:15:07.929Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.811Z"
+      "lastSuccess": "2026-10-18T02:15:08.090Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.767Z"
+      "lastSuccess": "2026-10-18T02:15:08.114Z"
     },
     "NPR": {
-      "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.614Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-18T02:15:17.871Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.959Z"
+      "lastSuccess": "2026-10-18T02:15:08.148Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.936Z"
+      "lastSuccess": "2026-10-18T02:15:08.034Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.672Z"
+      "lastSuccess": "2026-10-18T02:15:08.009Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.610Z"
+      "lastSuccess": "2026-10-18T02:15:07.952Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.987Z"
+      "lastSuccess": "2026-10-18T02:15:08.173Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.553Z"
+      "lastSuccess": "2026-10-18T02:15:08.167Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.629Z"
+      "lastSuccess": "2026-10-18T02:15:08.169Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.970Z"
+      "lastSuccess": "2026-10-18T02:15:08.193Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:08.147Z"
+      "lastSuccess": "2026-10-18T02:15:08.373Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.912Z"
+      "lastSuccess": "2026-10-18T02:15:08.055Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.590Z"
+      "lastSuccess": "2026-10-18T02:15:08.178Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T02:10:08.182Z"
+      "lastErrorAt": "2026-10-18T02:15:08.181Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T02:10:07.988Z"
+      "lastErrorAt": "2026-10-18T02:15:08.229Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:08.170Z"
+      "lastSuccess": "2026-10-18T02:15:08.398Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:08.154Z"
+      "lastSuccess": "2026-10-18T02:15:08.190Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:08.247Z"
+      "lastSuccess": "2026-10-18T02:15:08.210Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:08.039Z"
+      "lastSuccess": "2026-10-18T02:15:08.321Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:08.237Z"
+      "lastSuccess": "2026-10-18T02:15:08.291Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T02:10:07.830Z"
+      "lastSuccess": "2026-10-18T02:15:12.194Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-18T02:08:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d4bf44e6c2cf477d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Steve Sarkisian vows to 'evaluate everything,' won’t rule out benching Arch Manning amid Texas' two-game skid",
+      "snippet": "Arch Manning's late strip-sack fumble sealed Florida's 27-24 upset win over Texas as Steve Sarkisian says he will evaluate \"everything,\" including a potential quarterback change.",
+      "link": "https://www.foxnews.com/outkick-sports/steve-sarkisian-vows-evaluate-everything-wont-rule-out-benching-arch-manning-amid-texas-two-game-skid",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T02:05:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2680,19 +2694,6 @@
       "link": "https://www.foxnews.com/media/mayors-pushing-guaranteed-income-programs-say-unrestricted-cash-fastest-way-address-affordability",
       "imageUrl": null,
       "publishedAt": "2026-10-17T18:00:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8bd288e8262be7fd",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Why speculation about Justice Alito’s future continues despite his rejection of retirement",
-      "snippet": "Justice Samuel Alito began his 22nd Supreme Court term last week, but even as he insists he will remain on the bench, speculation has grown over whether it could be his final one on the high court. Alito, who was appointed by former Preside",
-      "link": "https://www.washingtonexaminer.com/in_focus/4762793/samuel-alito-retirement-speculation-supreme-court/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-17T18:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
