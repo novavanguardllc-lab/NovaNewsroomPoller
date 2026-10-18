@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-18T14:30:09.781Z",
+  "updatedAt": "2026-10-18T14:35:05.825Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.001Z"
+      "lastSuccess": "2026-10-18T14:35:06.023Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:09.901Z"
+      "lastSuccess": "2026-10-18T14:35:05.976Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.006Z"
+      "lastSuccess": "2026-10-18T14:35:06.102Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:09.908Z"
+      "lastSuccess": "2026-10-18T14:35:05.917Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.008Z"
+      "lastSuccess": "2026-10-18T14:35:06.063Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.050Z"
+      "lastSuccess": "2026-10-18T14:35:06.167Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.086Z"
+      "lastSuccess": "2026-10-18T14:35:06.154Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.036Z"
+      "lastSuccess": "2026-10-18T14:35:05.980Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.080Z"
+      "lastSuccess": "2026-10-18T14:35:06.109Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.059Z"
+      "lastSuccess": "2026-10-18T14:35:06.081Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.067Z"
+      "lastSuccess": "2026-10-18T14:35:06.180Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.129Z"
+      "lastSuccess": "2026-10-18T14:35:06.717Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.154Z"
+      "lastSuccess": "2026-10-18T14:35:06.134Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T14:30:10.061Z"
+      "lastErrorAt": "2026-10-18T14:35:06.258Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T14:30:10.087Z"
+      "lastErrorAt": "2026-10-18T14:35:06.218Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.123Z"
+      "lastSuccess": "2026-10-18T14:35:06.148Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.158Z"
+      "lastSuccess": "2026-10-18T14:35:06.060Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.199Z"
+      "lastSuccess": "2026-10-18T14:35:06.364Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.179Z"
+      "lastSuccess": "2026-10-18T14:35:06.245Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.259Z"
+      "lastSuccess": "2026-10-18T14:35:06.357Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:09.943Z"
+      "lastSuccess": "2026-10-18T14:35:06.277Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:09.980Z"
+      "lastSuccess": "2026-10-18T14:35:06.297Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T14:30:10.707Z"
+      "lastSuccess": "2026-10-18T14:35:08.328Z"
     }
   },
   "items": [
+    {
+      "id": "story_e4cc3e4e7da5cc4c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Nature: Arctic grayling in Michigan",
+      "snippet": "We leave you this Sunday swimming with the arctic grayling, recently reintroduced to the streams near Traverse City in Michigan. Videographer: Justin Grubb.",
+      "link": "https://www.cbsnews.com/video/nature-arctic-grayling-in-michigan/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T14:30:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_52549f700cffee02",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "New rule could impact your next delayed or canceled flight",
+      "snippet": "The next time your flight is canceled or delayed, it may not be as easy to get compensation as a new federal rule takes effect.",
+      "link": "https://thehill.com/policy/6143341-new-rule-could-impact-your-next-delayed-or-canceled-flight/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26075737154122-e1791830382663.jpg?w=900",
+      "publishedAt": "2026-10-18T14:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9bada2c854380075",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "How Gen X should practice \"the art of aging\"",
+      "snippet": "NPR health and science correspondent Allison Aubrey, author of the new book, \"Your Turn: How to Create a Midlife You Love,\" talks about facing all the possibilities of life's third chapter.",
+      "link": "https://www.cbsnews.com/news/how-gen-x-should-practice-the-art-of-aging/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T14:28:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_fbf18d4e9e1cdf36",
       "source": "UPI",
@@ -107,6 +146,32 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/9041792331701/2026/upi/e95841842c478e47b360c87e71bbf75f/v1.5/French-police-arrest-2000-as-protests-turn-to-violence-looting.jpg",
       "publishedAt": "2026-10-18T14:27:14.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e3b0f9dd4fad3347",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "How Gen X should practice \"the art of aging\"",
+      "snippet": "NPR health and science correspondent and \"Sunday Morning\" contributor Allison Aubrey, author of the new book, \"Your Turn: How to Create a Midlife You Love,\" talks about facing all the possibilities of life's third chapter, and how a sense o",
+      "link": "https://www.cbsnews.com/video/allison-aubrey-how-gen-x-should-practice-the-art-of-aging/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T14:27:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5d101ea3d485069a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Book excerpt: \"Your Turn: How to Create a Midlife You Love\"",
+      "snippet": "NPR health and science correspondent and \"Sunday  Morning\" contributor Allison Aubrey writes about the steps Gen Xers may take to foster a sense of purpose as they enter this next stage of life.",
+      "link": "https://www.cbsnews.com/news/book-excerpt-your-turn-how-to-create-a-midlife-you-love-by-allison-aubrey/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T14:26:26.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2630,71 +2695,6 @@
       "publishedAt": "2026-10-18T09:20:20.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44a9a610bd8fba05",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Vietnam signs free trade deal with four European countries",
-      "snippet": "Vietnam has signed a deal with non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas.",
-      "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T09:19:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c5304dc40c604c15",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-      "snippet": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T09:16:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_460a7a1cffd11556",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "LIVE: Leeds United vs Manchester United – Premier League",
-      "snippet": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T09:16:06.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_95a1b7b93f5bbc3a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence - Reuters",
-      "snippet": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUllscVFHdi1ER1I5djNzUWkwbXpXUGVTRkRVLUNWSWRBUU9lek5waWFCVjJwMXphLXFHaV9EUkF0SjdXVGMwNnpLYl9xZ2xrWDFvZzlrN2RwV2J4QUt1UUtiLTlzZTA1Qms2eTMtTjMyRXRGblJXVkF5NV9nTzEzTE1rbDFLUDdNOWRuQlhrS1BIVXFRdVJiQUtuT0lmODVRcVZ1dTRMeU11SkJuWlJvNGNJUjJhY1RBVGN1WWJGQ0JyZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T09:08:02.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1b7beba5670f9add",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "March Madness | 2026 NCAA Tournament - AP News",
-      "snippet": "March Madness | 2026 NCAA Tournament  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ET1V0NzRXSmNVQXdpWVV1MTJsSWN5SVdsdjJXeVl2X3hNUGJ5eTRTQnEtSFM0XzduZXNIWUtDckVZTFpYc0Z1TmFtTzA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T09:05:17.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
