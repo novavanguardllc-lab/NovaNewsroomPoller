@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-18T21:30:10.263Z",
+  "updatedAt": "2026-10-18T21:35:04.782Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.418Z"
+      "lastSuccess": "2026-10-18T21:35:04.914Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.771Z"
+      "lastSuccess": "2026-10-18T21:35:05.350Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.399Z"
+      "lastSuccess": "2026-10-18T21:35:04.924Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.752Z"
+      "lastSuccess": "2026-10-18T21:35:05.266Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.430Z"
+      "lastSuccess": "2026-10-18T21:35:05.075Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.389Z"
+      "lastSuccess": "2026-10-18T21:35:04.895Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.473Z"
+      "lastSuccess": "2026-10-18T21:35:04.863Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.544Z"
+      "lastSuccess": "2026-10-18T21:35:05.061Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.450Z"
+      "lastSuccess": "2026-10-18T21:35:05.005Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.516Z"
+      "lastSuccess": "2026-10-18T21:35:04.998Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.550Z"
+      "lastSuccess": "2026-10-18T21:35:04.959Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.554Z"
+      "lastSuccess": "2026-10-18T21:35:04.982Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.631Z"
+      "lastSuccess": "2026-10-18T21:35:05.096Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.575Z"
+      "lastSuccess": "2026-10-18T21:35:04.956Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-18T21:30:10.558Z"
+      "lastErrorAt": "2026-10-18T21:35:04.983Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-18T21:30:10.643Z"
+      "lastErrorAt": "2026-10-18T21:35:05.077Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.499Z"
+      "lastSuccess": "2026-10-18T21:35:05.106Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.650Z"
+      "lastSuccess": "2026-10-18T21:35:05.178Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.637Z"
+      "lastSuccess": "2026-10-18T21:35:05.036Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.581Z"
+      "lastSuccess": "2026-10-18T21:35:04.974Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.777Z"
+      "lastSuccess": "2026-10-18T21:35:05.232Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:10.737Z"
+      "lastSuccess": "2026-10-18T21:35:05.153Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-18T21:30:11.773Z"
+      "lastSuccess": "2026-10-18T21:35:05.278Z"
     }
   },
   "items": [
+    {
+      "id": "story_11904ff5aca27e37",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Driver released without charges after pickup kills boy, 6, and man on Kansas soccer field",
+      "snippet": "A 6-year-old boy and a 35-year-old man were killed when a pickup truck drove onto a Wichita soccer field, injuring 10 others including children.",
+      "link": "https://www.foxnews.com/us/driver-released-without-charges-pickup-kills-boy-6-man-kansas-soccer-field",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T21:25:53.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_3a3633bcbd19333c",
       "source": "BBC",
@@ -120,6 +133,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T21:23:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24f201b3ec83f405",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+      "snippet": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm\n\nGet our breaking news email, free app or daily news podcast\n\nA man has been charged with a slew of offences following an investi",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T21:22:51.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -158,6 +184,19 @@
       "link": "https://www.cbsnews.com/news/ukraine-russia-drone-st-petersburg-oil-facilites/",
       "imageUrl": null,
       "publishedAt": "2026-10-18T21:14:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3277ba9afcf8995f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Macron condemns violence after riots lead to looting and mass arrests",
+      "snippet": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T21:10:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -306,6 +345,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_9e844b3393b42f9b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Saints build big lead, then need to hold off Giants for win - Reuters",
+      "snippet": "Saints build big lead, then need to hold off Giants for win  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd1RUcUxENkpqbkVPSGh4elhkRTdVME1aY2JRTDU2MWdXOTAyMGpvY09vRkt2MHJVUjlIUEhRNktUQ3pXVG9DTDkxdkNtNkt4VW00RFAwR1dBY2Z2NUpDY3BiSmZoT2JzZW5FV1ZLM0lka3FjYWJOU05nRnhNNXp0WHpSQXR3dGR0X2F0elRQRFliV0xrRld3ZmI3TmljTmpaZzV0d1BB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T20:52:15.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_591ef883338127f3",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -328,6 +380,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T20:46:52.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a43f97568d637aad",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Caleb Williams shines in return as Bears knock off Falcons - Reuters",
+      "snippet": "Caleb Williams shines in return as Bears knock off Falcons  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3FoeHFNNklmLXNlU2J0RE1zWDBaenpvRDNDQlhVemZXY0V0WnpGendXSXRkcEFYVUJld2o4SDVjYzZrcGxqVE82bkRuTEZFUW9NQjlSbnN3QzkxUlFfb2w3cnhPcjFxTllvNnVtUmVRakI5eU5RWTI0b1ZMZ0RtUDh3MkVDRUU5SlJqeGZyN04tQTY3UnFBSkV2LXcxMmgzcUcyeS1jZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T20:45:27.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -356,6 +421,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_976c03c3a1a67d41",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Browns get walk-off winner to catch Ravens in AFC North - Reuters",
+      "snippet": "Browns get walk-off winner to catch Ravens in AFC North  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHlOVEp4dVRjU0pFTEdud21TeFV1aFZ5Q3lObzExakRLZkhrR0I4YkRnZmVfUWp5U3B1NExZS3JvQW1hZkZoTVdjSHcxeEx2R2wzLXl0MlRqR2wtSjhIYlZ1UWZRVlFMQ2JIdzRaeFZ4SktjVU1SdjBpVGFIYWY4M0ZVaHVUWGkxdnJWc3hsQ2dVbU1iZENuVkNuRVp3bnRXd1hF?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T20:31:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_8dab02b6c2ff1ef2",
@@ -865,6 +943,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_37aa2c2decc5378b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": " - Reuters",
+      "snippet": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13bDFURVBhLVFTTWNjX2Z3RXlGQlN6ZTNsbWd1V2NOSUY2SWNqM3Ntc2NncDQ4Qkp2QTZpa1VYVC1fTC1qcGJlRnhna2w2QWU1VFR6UHgwR2hibUJscHdXdA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T19:16:08.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_97a3e9505026ca17",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1095,6 +1186,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T18:56:14.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9c5ffc380f2dfb15",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Yemen - AP News",
+      "snippet": "Yemen  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzaEJjZGRndE9pRGFKWEJnVGx1SVhSZGZNTWFlS0RickFocnJUX0RtSEJZSXdFcjFaYTRRaXpseUZ0dw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T18:51:05.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2321,6 +2425,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_41a7d2507de6b048",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Barcelona Women suffer first defeat in 350 days - Reuters",
+      "snippet": "Barcelona Women suffer first defeat in 350 days  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmNWSEUxN0xQa1k0VDZMVEpiMWEtWWJzdm5lS3VEMGhvMHg4ZUhlUkFDYmhoRksyWkNPSzM0Z1hSWXhzQ3dYNWk4YlVURHpKUENSM2tjVG9ZbjNJSFktUFd1MzRmejlyTzhDb2FzVGNoM3JtUVo0aVlaVUIteWRLTGNKX3RkazNJTG5OeTM1OTdoMWpFVHRWdU5B?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T17:15:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d1a8f0e30d96f2c9",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2329,6 +2446,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMXFmMW1hVjRCN2Fsa0p6OGNUX29BanZRTS1nS3ZwcV9fVzFsTklsN0w1TmxNSWVpamZ0NmEtU1RiQjNpdjNVcWY1TEZmcnhKSXltWEFtenZlVnZubzJPOENjTVotVjA2OVR4UVdwaVVsaGFLV050dnRTN0xKQzBmZWFNU0hPLTZUQ2VwaEtDelhCOTZqbEFYV2JYemRuNGE1dzNmUkhaQzN1OUltOUc3OXdMVUYyb19wNGI5aW04amZYQQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-18T17:14:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1d57aa84dfeb810a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ka'imi Fairbairn kicks Texans past Jaguars in London - Reuters",
+      "snippet": "Ka'imi Fairbairn kicks Texans past Jaguars in London  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejk0QWFPclFuUG5QSXpGQWRRazBoV29ob1F2VGx5SUxiRGRxcUQzaGhRNFpVUFc1MS14Tk44QXB6ZVNoZ1FXQnpaWFZ6d0ExS085cFJhdFVfVlVSaHRGUXFmRGN6aHVxbF9ZWndHYjZLZjB1TlJjT2FhRUp0TFVYb1ZfVnNRdXlhb0RpTWZZeU5VM0NlTjN2dWt5LVpOd0FBX2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-18T17:14:04.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2563,136 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iSzFxRGxHVVhBeFJFZzE3LVlMbGlTTEo2TkFiV1kzYTh0NHQ2NXdWaGhXSElleWlMT29POFl6LXN2eldHYnZaNmhORlIwLTQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-18T16:55:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6275ad2e35da4fcf",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Trump says 'France is burning', country 'shattered' by immigration",
-      "snippet": "US President Donald Trump on Sunday blamed immigration for unrest during protests in France and urged the country to tighten its migration rules. Washington bureau chief David Smith tells us more.",
-      "link": "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration",
-      "imageUrl": "https://s.france24.com/media/display/abaac61a-cb0f-11f1-b6f8-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-171331-171801-CS.jpg",
-      "publishedAt": "2026-10-18T16:54:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ecb6a8c9cd3a68fc",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "4 dead after large fire breaks out at Canadian military base, officials say",
-      "snippet": "Canada's defense minister said four service members were killed, and dozens of others were wounded, in an incident at a military base that caused a major fire.",
-      "link": "https://www.cbsnews.com/news/deadly-incident-fire-alberta-canada-military-base-cfb-wainwright/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T16:54:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa57cd446dffde47",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Renewed clashes in Paris: \"We've seen numerous CRS charges to disperse protesters\"",
-      "snippet": "Fresh clashes broke out in Paris on Sunday, a day after France experienced one of its worst bouts of unrest in years. Protests over high prices left one demonstrator dead, thousands arrested, and shops across the country looted or damaged. ",
-      "link": "https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters",
-      "imageUrl": "https://s.france24.com/media/display/5f07ab52-cb0f-11f1-a7d7-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-170040-170511-CS.jpg",
-      "publishedAt": "2026-10-18T16:53:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e1077a05a090651",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Multiple people dead in explosion during live-fire military training exercise",
-      "snippet": "Multiple people were killed and dozens more were injured when a horrific explosion erupted at a Canadian military base, according to authorities and new reports.",
-      "link": "https://abcnews.com/International/multiple-people-killed-dozens-injured-explosion-canadian-military/story?id=137359465",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T16:51:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_57fdd655f09708a6",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Israeli settlers attack European diplomats, beat French mayor",
-      "snippet": "Israeli settlers attacked a convoy of European diplomats in the West Bank and beat up a visiting French mayor on Saturday, witnesses said, while US Secretary of State Marco Rubio warned against a brewing \"crisis\" in the territory a day afte",
-      "link": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
-      "imageUrl": "https://s.france24.com/media/display/f8408122-caf6-11f1-a301-2d1c143cdef3/w:1024/p:16x9/EN-20261018-151317-151504-CS.jpg",
-      "publishedAt": "2026-10-18T16:51:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b17a2aae62a94f6c",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Face the Nation: Cramer, political panel",
-      "snippet": "Missed the second half of the show? GOP Sen. Kevin Cramer of North Dakota joins, plus our political panel of Caitlin Huey-Burns, Ed O'Keefe and Anthony Salvanto.",
-      "link": "https://www.cbsnews.com/video/face-the-nation-cramer-political-panel/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T16:51:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aa7ba0802302041c",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "France protests: \"There's a constant back and forth over who's actually responsible\"",
-      "snippet": "The government has blamed the violence on hard-left and ultra-left groups, as well as criminals it says instigated the looting. We discuss this with international affairs commentator Matthew-Mary Caruchet and our reporter Antonia Kerrigan.",
-      "link": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible",
-      "imageUrl": "https://s.france24.com/media/display/d4bef8c4-cb0e-11f1-8c6f-6313a763b466/w:1024/p:16x9/EN-20261018-160405-161443-CS.jpg",
-      "publishedAt": "2026-10-18T16:49:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ef3e9b53171958f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Bessent: Zelensky ‘should be careful’ with ‘reckless’ comments that US slowed down Starlink",
-      "snippet": "Treasury Secretary Scott Bessent said Sunday that Ukrainian President Volodymyr Zelensky “should be careful” with “reckless” comments about the U.S. slowing down Starlink. “President Trump and Secretary [of State Marco] Rubio have categoric",
-      "link": "https://thehill.com/policy/defense/6156614-bessent-warns-zelensky-starlink/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/bessentscott_091526gn06_w.jpg?w=900",
-      "publishedAt": "2026-10-18T16:48:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ebc00dd6259fa59c",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Trump says he will close historic D.C. golf course for 15 months of renovations",
-      "snippet": "A judge last week, however, ordered a halt to his redevelopment plans until at least Oct. 26 after scolding the government for starting a large-scale tree removal at the course over a holiday weekend while providing little notice to the cou",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-he-will-close-historic-d-c-golf-course-for-15-months-of-renovations",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T16:46:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6b18daeca6022293",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region - Reuters",
-      "snippet": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkdkNk9DVENGZU50OHVsbHF4Z3ZWbnBxcHVqaDJSa1JEWXZ5aFVqbTQwWmwzUGpvZUJsTUFzSnZHd2laVHpqd05XaF9KM2YxdUNUSVV0YUp1SFVKbTBRVHNzcVc0ek84cTY5TTVmZGhPbnhzMVJiejFXaDdXV3pBcTZYeEI3QkZrNDlOOWllWFk3ejFfMVdVd3lQUGJMeXBhNW5xTjZJQnBINTVSTjVDUnZKSm1laDdKaEE3eGdoSUtaQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T16:42:18.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
