@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-19T20:35:05.010Z",
+  "updatedAt": "2026-10-19T20:40:07.603Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.088Z"
+      "lastSuccess": "2026-10-19T20:40:08.026Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.057Z"
+      "lastSuccess": "2026-10-19T20:40:07.887Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.108Z"
+      "lastSuccess": "2026-10-19T20:40:08.232Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.063Z"
+      "lastSuccess": "2026-10-19T20:40:07.823Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.178Z"
+      "lastSuccess": "2026-10-19T20:40:07.984Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.212Z"
+      "lastSuccess": "2026-10-19T20:40:07.988Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.206Z"
+      "lastSuccess": "2026-10-19T20:40:08.032Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.154Z"
+      "lastSuccess": "2026-10-19T20:40:07.808Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T20:35:05.211Z"
+      "lastErrorAt": "2026-10-19T20:40:08.141Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
-      "lastErrorAt": "2026-10-19T20:35:05.250Z"
+      "online": true,
+      "lastSuccess": "2026-10-19T20:40:07.907Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.209Z"
+      "lastSuccess": "2026-10-19T20:40:08.041Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.123Z"
+      "lastSuccess": "2026-10-19T20:40:07.804Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.197Z"
+      "lastSuccess": "2026-10-19T20:40:08.148Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.194Z"
+      "lastSuccess": "2026-10-19T20:40:08.127Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.249Z"
+      "lastSuccess": "2026-10-19T20:40:08.082Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.169Z"
+      "lastSuccess": "2026-10-19T20:40:07.959Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.360Z"
+      "lastSuccess": "2026-10-19T20:40:08.461Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.132Z"
+      "lastSuccess": "2026-10-19T20:40:07.768Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.229Z"
+      "lastSuccess": "2026-10-19T20:40:08.225Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.217Z"
+      "lastSuccess": "2026-10-19T20:40:08.192Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T20:35:05.220Z"
+      "lastErrorAt": "2026-10-19T20:40:08.233Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:05.268Z"
+      "lastSuccess": "2026-10-19T20:40:08.268Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T20:35:07.359Z"
+      "lastSuccess": "2026-10-19T20:40:08.248Z"
     }
   },
   "items": [
@@ -112,6 +111,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a9a1c53a96ad71f2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Repeat offender accused of shooting National Guard member has lengthy history with the law, records show",
+      "snippet": "Jerrell Jackson, accused of shooting a National Guard member in D.C., had prior convictions for assaulting police officers and carrying an illegal gun.",
+      "link": "https://www.foxnews.com/us/repeat-offender-accused-shooting-national-guard-member-lengthy-history-law-records-show",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T20:32:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_01629e8c9d5e39c6",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -120,6 +132,32 @@
       "link": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html",
       "imageUrl": null,
       "publishedAt": "2026-10-19T20:31:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_be095950a29d80e3",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Kenya convicts cult leader over the murder of 190 children",
+      "snippet": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T20:31:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b2aaad570d564e17",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Trump signs order launching women’s health division at NIH, White House",
+      "snippet": "First Lady Melania Trump has championed the executive action as a 'transformative moment' for US women's health.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T20:29:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -240,6 +278,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_60f9205055d76529",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions",
+      "snippet": "The post Citing ProPublica, Lawmakers Introduce Bill to Help U.S. Citizens Sue ICE for Wrongful Detentions appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/american-citizens-wrongfully-detained-ice-bill",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/CitizensImpact-V3_maxHeight_3000_maxWidth_3000.jpg?w=1149",
+      "publishedAt": "2026-10-19T20:15:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_ca552419c1551766",
@@ -2642,58 +2693,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-19T17:27:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31bfcbd2ae86ea17",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years - AP News",
-      "snippet": "Longtime CNN anchor Christiane Amanpour leaving network after a storied career of 43 years  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY010bnN5dnNmbmNERVNISlk1WDNSOVJ5MFdQTjE5TVVlNGEzU0s1SS11UTNCa0REZ1ktZTRlNlNsRnVDODYxd0cwSi1IcklScU9kUGZmMExrd3pyNjlxU1JDX2RpYkd5UnJuVTFNdXZWNHB1QnBOc1YyMjFLRkh0eC1xRXM3TWNGMUFaUzZR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T17:27:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9dae06da379d6a70",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Germany news: Emergency at Leipzig airport sparked by novice driver",
-      "snippet": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, the \"Invest in Germany Summit\" is set to kick off as the government looks to fill gaps in public funding. DW has more.",
-      "link": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T17:26:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4ea2374378067937",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Can religion help Democrats win in red states? These faith leaders hope so",
-      "snippet": "Roughly nine pastors, seminary students and Sunday school teachers are running as Democrats in the US midterm election.",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T17:25:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9c6f9f81e099a4a7",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "On campaign trail, Jeffries says Republicans are 'divorced from reality'",
-      "snippet": "Jeffries, who is in line to become House speaker if Democrats seize the majority, has traveled to some 50 cities campaigning for Democratic candidates.",
-      "link": "https://www.pbs.org/newshour/politics/on-campaign-trail-jeffries-says-republicans-are-divorced-from-reality",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T17:24:38.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
