@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-10-19T11:10:07.385Z",
+  "updatedAt": "2026-10-19T11:15:07.012Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.569Z"
+      "lastSuccess": "2026-10-19T11:15:07.110Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.650Z"
+      "lastSuccess": "2026-10-19T11:15:07.434Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.532Z"
+      "lastSuccess": "2026-10-19T11:15:07.107Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.705Z"
+      "lastSuccess": "2026-10-19T11:15:07.468Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.612Z"
+      "lastSuccess": "2026-10-19T11:15:07.099Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.773Z"
+      "lastSuccess": "2026-10-19T11:15:07.087Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.835Z"
+      "lastSuccess": "2026-10-19T11:15:07.125Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.928Z"
+      "lastSuccess": "2026-10-19T11:15:07.142Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.593Z"
+      "lastSuccess": "2026-10-19T11:15:07.181Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.867Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
+      "lastErrorAt": "2026-10-19T11:15:07.251Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.846Z"
+      "lastSuccess": "2026-10-19T11:15:07.146Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.606Z"
+      "lastSuccess": "2026-10-19T11:15:07.151Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:08.031Z"
+      "lastSuccess": "2026-10-19T11:15:07.245Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.970Z"
+      "lastSuccess": "2026-10-19T11:15:07.172Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T11:10:08.034Z"
+      "lastErrorAt": "2026-10-19T11:15:07.172Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T11:10:08.106Z"
+      "lastErrorAt": "2026-10-19T11:15:07.250Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.809Z"
+      "lastSuccess": "2026-10-19T11:15:07.168Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:08.105Z"
+      "lastSuccess": "2026-10-19T11:15:07.191Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.965Z"
+      "lastSuccess": "2026-10-19T11:15:07.250Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:07.889Z"
+      "lastSuccess": "2026-10-19T11:15:07.155Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:08.134Z"
+      "lastSuccess": "2026-10-19T11:15:07.276Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:08.076Z"
+      "lastSuccess": "2026-10-19T11:15:07.224Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T11:10:08.168Z"
+      "lastSuccess": "2026-10-19T11:15:09.603Z"
     }
   },
   "items": [
+    {
+      "id": "story_688a9fe05734d282",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Fuel subsidy debate takes center stage ahead of Nigerian election",
+      "snippet": "President Bola Tinubu’s main challengers in January’s vote say they would restore the subsidy.",
+      "link": "https://www.semafor.com/article/10/19/2026/fuel-subsidy-debate-takes-center-stage-ahead-of-nigerian-election",
+      "imageUrl": "https://img.semafor.com/80e2f51548478eeb695fcdf4ca849286a30e6cd5-6720x4480.jpg",
+      "publishedAt": "2026-10-19T11:11:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c39740c95ca09071",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "Ohio returns as a bellwether",
+      "snippet": "",
+      "link": "https://www.politico.com/video/2026/10/19/ohio-returns-as-a-bellwether-2204376",
+      "imageUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/85a16655-431d-42b2-8027-e5a826c09761/ebfb5d66-3c65-4829-b36e-5cd03a43db55/1280x720/match/image.jpg",
+      "publishedAt": "2026-10-19T11:10:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0ac01a341c853175",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "The factor complicating election polls and witnesses recall Wichita soccer tragedy: Morning Rundown",
+      "snippet": "Why election surveys come with an extra layer of uncertainty.",
+      "link": "https://www.nbcnews.com/news/us-news/election-polls-witnesses-wichita-soccer-tragedy-morning-rundown-rcna604091",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T11:05:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_bb67caccc3460cf5",
       "source": "Guardian",
@@ -2655,45 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T07:19:08.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cfc8bd12301ae680",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Kansas - AP News",
-      "snippet": "Kansas  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBzcWlNU2VpS1JrVm1IVE5samU2RnBfUWkzZFRyTHFJWXk4b1g3ZkpoTmxaOWtCZThGcnBwdEJ3VXZfbDA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T07:18:32.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_9cd004567db01c5d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "War and unrest - AP News",
-      "snippet": "War and unrest  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eVJmcTBnSmc5NTlBQzFob1I2a1lOS0RNWU1lbmo5UllLMUh5eFBxdEJ1Z1ltbnFHdEtjLVNEUjNZazllTTFIeUdWcDlxZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T07:18:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_acb123b622751a23",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "French student protests: 'There's been lack of investment in education for years now'",
-      "snippet": "Eve Irvine is pleased to welcome Axel Berra-Vescio, French History-Geography and European section teacher in the Paris region. France's student protests are exposing what educators describe as years of structural neglect, widening education",
-      "link": "https://www.france24.com/en/french-student-protests-there-s-been-lack-of-investment-in-education-for-years-now",
-      "imageUrl": "https://s.france24.com/media/display/ff7cb1ac-cb89-11f1-9f93-d1d2c32ebb87/w:1024/p:16x9/EN-20261013-070352-071115-CS.jpg",
-      "publishedAt": "2026-10-19T07:16:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
