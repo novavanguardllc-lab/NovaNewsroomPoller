@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-19T08:45:07.479Z",
+  "updatedAt": "2026-10-19T08:50:07.509Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.699Z"
+      "lastSuccess": "2026-10-19T08:50:07.714Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.619Z"
+      "lastSuccess": "2026-10-19T08:50:07.998Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.563Z"
+      "lastSuccess": "2026-10-19T08:50:07.655Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.939Z"
+      "lastSuccess": "2026-10-19T08:50:08.019Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.704Z"
+      "lastSuccess": "2026-10-19T08:50:07.658Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.693Z"
+      "lastSuccess": "2026-10-19T08:50:07.701Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.660Z"
+      "lastSuccess": "2026-10-19T08:50:07.634Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.717Z"
+      "lastSuccess": "2026-10-19T08:50:07.872Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.723Z"
+      "lastSuccess": "2026-10-19T08:50:07.983Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.727Z"
+      "lastSuccess": "2026-10-19T08:50:07.760Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.733Z"
+      "lastSuccess": "2026-10-19T08:50:07.734Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.777Z"
+      "lastSuccess": "2026-10-19T08:50:07.741Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.774Z"
+      "lastSuccess": "2026-10-19T08:50:07.899Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.785Z"
+      "lastSuccess": "2026-10-19T08:50:07.754Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T08:45:07.777Z"
+      "lastErrorAt": "2026-10-19T08:50:07.908Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T08:45:07.797Z"
+      "lastErrorAt": "2026-10-19T08:50:07.991Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.753Z"
+      "lastSuccess": "2026-10-19T08:50:07.798Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.806Z"
+      "lastSuccess": "2026-10-19T08:50:08.004Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.796Z"
+      "lastSuccess": "2026-10-19T08:50:07.856Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.782Z"
+      "lastSuccess": "2026-10-19T08:50:07.907Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.896Z"
+      "lastSuccess": "2026-10-19T08:50:08.026Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:07.873Z"
+      "lastSuccess": "2026-10-19T08:50:07.960Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T08:45:10.015Z"
+      "lastSuccess": "2026-10-19T08:50:08.169Z"
     }
   },
   "items": [
+    {
+      "id": "story_176c69f141392cf9",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Morning news brief",
+      "snippet": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests.",
+      "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T08:46:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 12
+    },
+    {
+      "id": "story_f6dad67cda1c3351",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Police say a car has hit an Australian lawmaker, critically injuring her",
+      "snippet": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in a potentially deliberate act, police said",
+      "link": "https://abcnews.com/International/wireStory/police-car-hit-australian-lawmaker-critically-injuring-driver-137371405",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T08:46:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_84accb55c6c6ae6d",
       "source": "Semafor",
@@ -119,6 +145,19 @@
       "link": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-19T08:34:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_19f79bbab72d5e08",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
+      "snippet": "Prime minister’s comments come as children’s commissioner Dame Rachel de Souza highlights ‘staggering’ inequalities in young people’s treatment across UK\nGood morning. Children and young people are at the top of the agenda today, with the p",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T08:34:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2655,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T01:26:11.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_402348cc966c60df",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Caitlin Clark and Taylor Swift spotted together again cheering on Travis Kelce at Chiefs game",
-      "snippet": "Caitlin Clark and Taylor Swift were spotted celebrating a Travis Kelce catch at Arrowhead Stadium as the Chiefs routed the Chargers on Sunday.",
-      "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-taylor-swift-spotted-together-cheering-travis-kelce-chiefs-game",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T01:23:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ee0bedb988a1721a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1pOa3oycXBHUVdMX3Q5TEktMFhnZGtFczlJYWQySVk4UWUtZl9Gc1JRcGpVVzgycFZLaEpJOGFHNTc0X3VTWXBHZG83VzVZWkNoSEd0MjlJYmRfZEJkVFNhSWRhYUI0YmlmNEV6TjVvNmRsbExmeFdBSE1rclViQUFGWW4tbmpOWHR0QUZUbVR0R2tYbTUwTFhqWkU3ZmJ2TWZqMGNBOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T01:20:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7cd74ff1d86878ef",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Chamber of Commerce endorses Paxton as he and Talarico host rallies ahead of Texas early voting",
-      "snippet": "The U.S. Chamber of Commerce endorsed Texas Republican Senate nominee Ken Paxton as he and his opponent, James Talarico, hosted dueling campaign rallies Sunday evening ahead of Texas early voting beginning on Monday. Talarico hosted a rally",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4770262/paxton-endorsement-talarico-rallies-texas-early-voting/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T01:19:23.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
