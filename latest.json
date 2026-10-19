@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-19T17:30:10.082Z",
+  "updatedAt": "2026-10-19T17:35:04.909Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.129Z"
+      "lastSuccess": "2026-10-19T17:35:05.022Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.136Z"
+      "lastSuccess": "2026-10-19T17:35:05.166Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.161Z"
+      "lastSuccess": "2026-10-19T17:35:05.160Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.571Z"
+      "lastSuccess": "2026-10-19T17:35:05.603Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.185Z"
+      "lastSuccess": "2026-10-19T17:35:05.060Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.174Z"
+      "lastSuccess": "2026-10-19T17:35:05.183Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.281Z"
+      "lastSuccess": "2026-10-19T17:35:05.287Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.262Z"
+      "lastSuccess": "2026-10-19T17:35:05.080Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.285Z"
+      "lastSuccess": "2026-10-19T17:35:05.086Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.259Z"
+      "lastSuccess": "2026-10-19T17:35:05.119Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.279Z"
+      "lastSuccess": "2026-10-19T17:35:05.323Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
-      "lastErrorAt": "2026-10-19T17:30:10.296Z"
+      "online": true,
+      "lastSuccess": "2026-10-19T17:35:05.198Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.228Z"
+      "lastSuccess": "2026-10-19T17:35:05.226Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T17:30:10.318Z"
+      "lastErrorAt": "2026-10-19T17:35:05.163Z"
     },
     "USA Today": {
       "online": false,
-      "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T17:30:10.303Z"
+      "lastError": "Unquoted attribute value\nLine: 0\nColumn: 27\nChar: e",
+      "lastErrorAt": "2026-10-19T17:35:05.350Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.309Z"
+      "lastSuccess": "2026-10-19T17:35:05.346Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.406Z"
+      "lastSuccess": "2026-10-19T17:35:05.281Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.294Z"
+      "lastSuccess": "2026-10-19T17:35:05.215Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.197Z"
+      "lastSuccess": "2026-10-19T17:35:05.120Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:11.394Z"
+      "lastSuccess": "2026-10-19T17:35:07.360Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.440Z"
+      "lastSuccess": "2026-10-19T17:35:05.401Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:10.251Z"
+      "lastSuccess": "2026-10-19T17:35:05.249Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T17:30:14.461Z"
+      "lastSuccess": "2026-10-19T17:35:05.233Z"
     }
   },
   "items": [
+    {
+      "id": "story_9259dca46a4c190e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump threatened by judge with sanctions if he doesn’t sit for deposition in $10 billion BBC defamation suit",
+      "snippet": "The BBC filed a motion to compel Donald Trump's deposition in his $10 billion defamation lawsuit, and a magistrate judge now warns of sanctions.",
+      "link": "https://www.foxnews.com/media/trump-threatened-judge-sanctions-he-doesnt-sit-deposition-10-billion-bbc-defamation-suit",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T17:27:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9c6f9f81e099a4a7",
       "source": "PBS",
@@ -328,6 +340,19 @@
       "link": "https://thehill.com/opinion/finance/6157253-rural-ohio-worker-housing-crisis/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/dome_captiol_100526gn07_w.jpg?w=900",
       "publishedAt": "2026-10-19T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e6112344802b43fe",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "This popular self-emptying robot vacuum is over $100 off today",
+      "snippet": "The Roborock Q7 M5+ robot vacuum and mop is 31% off on Amazon. Save over $100 on this self-emptying vacuum with LiDAR navigation and powerful suction.",
+      "link": "https://www.nbcnews.com/select/shopping/roborock-vacuum-mop-deal-of-the-day-2026-rcna604375",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T16:58:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1854,6 +1879,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_936b123167cda90a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "​Why Is MAGA Swooning Over Richard Nixon? A Historian Wades In.",
+      "snippet": "Why is a president who resigned being celebrated?",
+      "link": "https://www.nytimes.com/2026/10/19/opinion/nixon-trump-vance-republicans.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T15:00:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ad9a297e49635146",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -2047,6 +2085,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_9f267d5bd80b7a89",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Supreme Court rejects effort to revive Khalid Sheikh Mohammed plea deal - AP News",
+      "snippet": "Supreme Court rejects effort to revive Khalid Sheikh Mohammed plea deal  AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFU5VW53dHlRRnMtcERMVFBCYWw4dS12LV9iZXBzUjFkeXE4ZlZSR2NsY1N5VUlvTjdWNkx5VkxJODlFakx3V05haW9ybFlSWHI0Yl83c3NPOERKUGFCMjNsUUNmX2N0bTlvTWc5UDVILTNFdVdITnZCaW52YnZ2bEc3VDZWWC1IY2c5SS1EMmRjV1dpRENleVBmNFdIZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:51:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_fa9ec06e10b091fd",
@@ -2645,58 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_cda66130d558dfaa",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "snippet": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
-      "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:13:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_620c4c8ac8cf618a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
-      "snippet": "Downing Street emphasises sacrifices of UK troops and reasserts ‘unwavering’ support for Ukraine amid softening US policy towards Russia\n\nUK politics live – latest updates\n\nDowning Street has criticised Pete Hegseth for downplaying the role",
-      "link": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:13:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4aa4fa68b797dae2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nvidia wins fast-growing AI startup Modal for new central processors - Reuters",
-      "snippet": "Nvidia wins fast-growing AI startup Modal for new central processors  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUklvMHh4T2thUkdNSndrQ3BVOTZjalQwRnJ2ZFdhb3Q4aC1NT2k2LTBLX1AxZmlHdTdheHp1ZDF1ZGVSd2JLc3VFUU1ycWRndnRmS2ZyYVpGeU52OU9IQU5qVHdJb1BXNjJ1MlN4MF9aajQ5QXhmQnhYTXowWEFUa29BQkYySzBxeG1CU0Z0MHB6U3psLU1EcTB4Z3N2dkVYSFM3cEgtNlQ4Uk5VTlE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:12:53.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb6e33d37b559e48",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenpkd0piQmtFaG8xS3pVZnVvazNGVHhVdkNIN1BSYkNFSG1WZ3FYWTkySzUyYTJvMTZiQVU2bjdOWnI2ek8yWF9FUldUSndSTmotcmV2SGkwTTBLdGNsZ3ZGTWU0X0RsLTFiaFdxZkV2X0JfZnQxMlhDaWhjWkJRTmJkNGg2cC1nWThhZDhKTU9iOTVoVmFmUzJCWkhCa0xqU3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:11:47.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
