@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-19T16:35:05.259Z",
+  "updatedAt": "2026-10-19T16:40:07.524Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.373Z"
+      "lastSuccess": "2026-10-19T16:40:07.877Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.390Z"
+      "lastSuccess": "2026-10-19T16:40:07.709Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.443Z"
+      "lastSuccess": "2026-10-19T16:40:08.080Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.854Z"
+      "lastSuccess": "2026-10-19T16:40:07.807Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.749Z"
+      "lastSuccess": "2026-10-19T16:40:07.786Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.412Z"
+      "lastSuccess": "2026-10-19T16:40:08.042Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.483Z"
+      "lastSuccess": "2026-10-19T16:40:08.128Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.466Z"
+      "lastSuccess": "2026-10-19T16:40:07.898Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.505Z"
+      "lastSuccess": "2026-10-19T16:40:08.286Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.489Z"
+      "lastSuccess": "2026-10-19T16:40:07.964Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.541Z"
+      "lastSuccess": "2026-10-19T16:40:08.282Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.532Z"
+      "lastSuccess": "2026-10-19T16:40:07.922Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.529Z"
+      "lastSuccess": "2026-10-19T16:40:08.038Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T16:35:05.492Z"
+      "lastErrorAt": "2026-10-19T16:40:08.057Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T16:35:05.604Z"
+      "lastErrorAt": "2026-10-19T16:40:08.318Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.601Z"
+      "lastSuccess": "2026-10-19T16:40:08.341Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.689Z"
+      "lastSuccess": "2026-10-19T16:40:08.268Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.617Z"
+      "lastSuccess": "2026-10-19T16:40:07.893Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.446Z"
+      "lastSuccess": "2026-10-19T16:40:07.697Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.711Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-19T16:40:17.578Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.734Z"
+      "lastSuccess": "2026-10-19T16:40:08.380Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:05.590Z"
+      "lastSuccess": "2026-10-19T16:40:08.121Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T16:35:09.705Z"
+      "lastSuccess": "2026-10-19T16:40:08.161Z"
     }
   },
   "items": [
@@ -109,6 +110,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_035ff7b3f13409fa",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "snippet": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T16:32:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_44104550c9267036",
@@ -1021,6 +1035,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_782a0334f945e3c3",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "snippet": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T15:21:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_14dc06735062388c",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1290,6 +1317,19 @@
       "imageUrl": "https://s.france24.com/media/display/bcf396a2-cbc5-11f1-9178-2d1c143cdef3/w:1024/p:16x9/EN-20261019-100920-101652-CS.jpg",
       "publishedAt": "2026-10-19T14:58:36.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ed63125661da84db",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "13-year-old boy suspected of stabbing teacher and pupil in Romania after TikTok posts - Reuters",
+      "snippet": "13-year-old boy suspected of stabbing teacher and pupil in Romania after TikTok posts  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXRhMENaWWFSR3M0LUNhSDRRLWZ3Zlpaa1I5NXltX0I1QVFtU3MyMkJSY1k3TC03RW5BUXJGQk9KNmM3N255ekF5VUhHTGRpZVE4amR3TF8wd09UTUZSdy1tUDZ0S3VtYTRDbXRDTk9MUllMR3JrcDloTUt2N0hqUlFuVzFnbXIyV3VFUEg0RlA2UVZuOTFuZVdvVDdySWM1UUtFWXlTblJOREt1Y25wZ2QxWmdPaFFQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:57:27.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2657,45 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_a21c50f2455f6e2b",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Musk says he will give SpaceX share to every child in US",
-      "snippet": "Tech mogul Elon Musk said Monday he will give one of his SpaceX shares to every child in the U.S. next year. “This will be the first of many,” Musk wrote in a post on the social platform X, which he also owns and is technically part of Spac",
-      "link": "https://thehill.com/policy/technology/6157590-musk-spacex-stock-us-children/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26281641070035-e1792417936932.jpg?w=900",
-      "publishedAt": "2026-10-19T13:52:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_77c01ce03a97d6d8",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMk40VEMtVVhEeUZXNlhlTW9OcEdXOEZaTXNkMUFRSUxWeVBfZFRXNEcxekRXRGhmY1pEbkZQX2pQcjJOb19KdEdfc25fVWFSQkwtVDVyZzlpN05wTTNZOVFmcFpzTjlOQUl1MHQ0QjlZREZ3c3JzMnZqZFdpV0NvVmhRVmFidzVWRWVhR0ZHTndoM1JOb29SVg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T13:52:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_f278ff7a3d3ae7a0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXdKeFlnSVhka2Z0N0xKWnJ4RzAxUDhzbG5POEc2ZFJpRHlsRkVsa0liVlV4c3N1ekRZX0N0VmNoS210bXBpNnFOY2w4c1N6a0JYU1hSNU9XWVB6cTNQblpwbjBnMV9YRE5TajVoUDBZQU84Q0VyZWlEbGxvV1duYl9HSmFya1lpSklnWldVeDdlczZIcDVYSkYzWV9LR1JXY0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T13:52:21.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
