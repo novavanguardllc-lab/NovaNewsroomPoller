@@ -1,102 +1,220 @@
 {
-  "updatedAt": "2026-10-19T14:00:12.559Z",
+  "updatedAt": "2026-10-19T14:05:05.264Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.641Z"
+      "lastSuccess": "2026-10-19T14:05:05.331Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.795Z"
+      "lastSuccess": "2026-10-19T14:05:05.339Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.724Z"
+      "lastSuccess": "2026-10-19T14:05:05.418Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.060Z"
+      "lastSuccess": "2026-10-19T14:05:05.731Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.776Z"
+      "lastSuccess": "2026-10-19T14:05:05.722Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.824Z"
+      "lastSuccess": "2026-10-19T14:05:05.354Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.981Z"
+      "lastSuccess": "2026-10-19T14:05:05.441Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.991Z"
+      "lastSuccess": "2026-10-19T14:05:05.443Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.998Z"
+      "lastSuccess": "2026-10-19T14:05:05.533Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.044Z"
+      "lastSuccess": "2026-10-19T14:05:05.458Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.989Z"
+      "lastSuccess": "2026-10-19T14:05:05.523Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.975Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
+      "lastErrorAt": "2026-10-19T14:05:05.461Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.904Z"
+      "lastSuccess": "2026-10-19T14:05:05.436Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T14:00:14.389Z"
+      "lastErrorAt": "2026-10-19T14:05:05.526Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T14:00:13.003Z"
+      "lastErrorAt": "2026-10-19T14:05:05.598Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.013Z"
+      "lastSuccess": "2026-10-19T14:05:05.617Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.327Z"
+      "lastSuccess": "2026-10-19T14:05:05.665Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.037Z"
+      "lastSuccess": "2026-10-19T14:05:05.502Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.800Z"
+      "lastSuccess": "2026-10-19T14:05:05.334Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:14.781Z"
+      "lastSuccess": "2026-10-19T14:05:07.759Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.100Z"
+      "lastSuccess": "2026-10-19T14:05:05.772Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:12.967Z"
+      "lastSuccess": "2026-10-19T14:05:05.582Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:00:13.022Z"
+      "lastSuccess": "2026-10-19T14:05:05.586Z"
     }
   },
   "items": [
+    {
+      "id": "story_373a27c87b118246",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Top tourist destination in the world shuts down amid violent protests",
+      "snippet": "Protesters in Paris barricaded the Louvre's iconic glass pyramid and entrances, forcing the world's most visited museum to shut down amid turmoil across the city.",
+      "link": "https://www.foxnews.com/travel/top-tourist-destination-world-shuts-down-amid-violent-protests",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:01:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f543aa1d69187a30",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Supreme Court turns away appeal from alleged 9/11 mastermind",
+      "snippet": "The Supreme Court rebuffed an effort by alleged 9/11 mastermind Khalid Sheikh Mohammed to revive a plea deal reached with military prosecutors and revoked by the Biden administration.",
+      "link": "https://www.cbsnews.com/news/supreme-court-khalid-sheikh-mohammed-911-appeal/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:01:01.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_19f61bd55701e626",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "‘A warning sign for polling’: Why one GOP pollster thinks a blue wave may fall short",
+      "snippet": "Echelon Insights’ Patrick Ruffini told POLITICO he thinks polling is overstating Democrats’ chances of flipping Senate races in historically deep-red territory.",
+      "link": "https://www.politico.com/news/2026/10/19/republican-pollster-skeptical-democratic-wave-01124942",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0835d57cbc24efb0",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "The ICC earned its reckoning. Still, Rubio should not wreck it",
+      "snippet": "In his Sept. 22 address to the U.N. General Assembly, President Donald Trump called the International Criminal Court an anti-American tribunal and urged countries to withdraw their membership. Washington, Beijing, Moscow, New Delhi, and Jer",
+      "link": "https://www.washingtonexaminer.com/op-eds/4769042/icc-reform-not-dismantle-international-criminal-court/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dcfef89e27d5856e",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "16 years to approve a power line is not regulation. It’s sabotage",
+      "snippet": "Energy costs are climbing across the country — electricity bills, gas prices, home heating costs — and those costs ripple through the rest of the economy. After years of political impasse, the Senate has finally reached a bipartisan permitt",
+      "link": "https://www.washingtonexaminer.com/op-eds/4769282/bipartisan-energy-permitting-reform/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0f6cf34620398e3c",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "From the river to the sea, Israel is the rightful owner",
+      "snippet": "Former President Barack Obama recently spoke out regarding the situation in the Middle East. In an October 2026 interview with journalist Susan McKay, Obama declared that Israel’s reliance on military and technological superiority risks und",
+      "link": "https://www.washingtonexaminer.com/op-eds/4769114/river-to-the-sea-locke-homesteading-jewish-land-claim/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1bc80b4176de09bb",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Why California’s Racial Justice Act isn’t just enough just yet ",
+      "snippet": "The Golden State’s approach to racial bias in the courts has been widely praised. Sadly, a series of court decisions have weakened its protections.",
+      "link": "https://thehill.com/opinion/judiciary/6155078-california-court-limits-racial-bias-protections/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2006495161.jpg?w=900",
+      "publishedAt": "2026-10-19T14:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_aafade114bad50d1",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Betting on the election? Your state may prohibit it",
+      "snippet": "The midterm elections are fast-approaching, but can you wager on them?",
+      "link": "https://thehill.com/homenews/state-watch/6145912-election-betting-prohibited-states/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6ab705c6e585b1.41563859-e1791916686813.jpeg?w=900",
+      "publishedAt": "2026-10-19T14:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d5e4f5253c64bf3c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "New details emerge in Sandra Birchmore's mysterious death in murder trial",
+      "snippet": "The trial of former Massachusetts police officer Matthew Farwell is shedding new light on the death of Sandra Birchmore, who was found dead in her apartment in 2021. Tom Hanson reports.",
+      "link": "https://www.cbsnews.com/video/new-details-emerge-in-sandra-birchmores-mysterious-death-in-murder-trial/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T13:56:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_afa17266b5bc4f22",
       "source": "UPI",
@@ -770,6 +888,32 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286505425559.jpg?w=900",
       "publishedAt": "2026-10-19T13:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c409c504be6fb544",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Democrat Marie Gluesenkamp Perez fights to keep a foothold in Pacific Northwest's Trump country - AP News",
+      "snippet": "Democrat Marie Gluesenkamp Perez fights to keep a foothold in Pacific Northwest's Trump country  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHc3LWFZcUswZ2RreVV2OGFBZ0Npdk5hZXlhS29SQjUzWWtadlFkR2NhYnZqelRlUHNib2l4cEpYMFhNSDh0WjdLQnFiZjdVLWNJeUtIejZxZV85Uy1veFdsQURCamxMamFCUkZrc0xFazEtTzlrb19DLUJPdjRmWDZfNmVlY2VPMXdTMkZSaXJmcm53RUc5RUVoeEg4TkE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T13:00:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4396c21c4d6e068",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Bringing more beavers to watersheds is a powerful drought-fighting tool, experts say - AP News",
+      "snippet": "Bringing more beavers to watersheds is a powerful drought-fighting tool, experts say  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWZOLTlUQ3h3UVpKb3pDRlhWTnRTeVY5Zzl3RnpmR25yMGNwWkxjcDcxOEVGN3JIXzZ1UWx5V0xqSnhIUFNvQWcxUWVzeW5fQkVuVm5QazRUYTRWdUlSUjFtYzNDODRBb1hmZTdzSVQ5SWcwMDRfZTRPbVVuajJvaHFySnRWQlpmamdmeEtvZVdGZnl6dEZyWVRXakZqbG9pNzFV?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T13:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2551,149 +2695,6 @@
       "imageUrl": "https://s.france24.com/media/display/a12ef130-cba9-11f1-8c4f-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261019-110403-110526-CS.jpg",
       "publishedAt": "2026-10-19T10:57:41.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_38266651f0fb0ce0",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "How a Trillion-Dollar Industry Launders Illegal Gold",
-      "snippet": "The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children.",
-      "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:57:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1901b5f4ec418c1d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1hBOG5XNEZlemxaZjBycWl3V1RQeHBVSGh6b3JSVkF6VHNKRDVCSF9nUkFXeTNCcTBXcTRQTjl0aWZRb0V1TWZNZ3BpbWNRZDNpdS1rLURLM0ZUN1lnSTM2bmkxSjMycks2aHZjWHE3dW5qaUlYRHhMTjZpU2dPQjBZQVVNb0hfUzFmS01rNWZiaVlZaHNfSElqNE9hYVQ1ajNGaC0wNA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:55:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ee733d48c8ece2b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Museum protesters in Colombia accuse gov’t of erasing history",
-      "snippet": "Police used tear gas and water cannon to disperse protesters outside Colombia’s National Museum in Bogota.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:55:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6567a8265becb0ad",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "From delivery driver to global fame: A Korean writer's journey",
-      "snippet": "You Yeong-Gwang's The Rainfall Market tells the story of a mysterious, hidden shop that only opens when it rains. For a debut novel by an unknown author, it was a massive success.",
-      "link": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:55:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2143805100dcb5f2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "NFL Week 6 Sunday takeaways: Giants have a new QB1, Bills keep rolling and Shane Steichen is on the hot seat",
-      "snippet": "J.J. McCarthy sparked a Giants quarterback controversy with a furious NFL Week 6 comeback, while the Browns climbed into first in the AFC North.",
-      "link": "https://www.foxnews.com/outkick-sports/nfl-week-6-sunday-takeaways-giants-new-qb1-bills-keep-rolling-shane-steichen-hot-seat",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:54:43.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ab1914cd8448d8c7",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "France moves to impose curfews as it reels from worst violence in years",
-      "snippet": "Only shattered glass and the skeletal frame of the Haussmannian roof remain of Limoges’s 19th-century town hall.",
-      "link": "https://www.nbcnews.com/world/europe/france-violence-riots-looting-paris-limoges-curfews-macron-protests-rcna604292",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:53:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6afd16e6cf04d424",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Albertsons begins its $8 billion trial against Kroger over failed merger - Reuters",
-      "snippet": "Albertsons begins its $8 billion trial against Kroger over failed merger  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFFpVkNBbDBjMnZVNWRkUmI5emJWT0hybWVQT2hETTQ2Q1JHbWh6ZkFWU0JWUjBCeGxtMmc5dzRvZXVGN0pyRjFEU1k2Q2xoYmNzS0NadkxpQ2xITmwwYTZ6aXV1Z1RYNl84eTV0bk9lSXQ3OEdjTFBpS090WldyN3Npcmg1LWVMMXo5TElvZ2F2eU5kYlR2UmUxMFdId2hIZ3VlR3ZoT2VtTnV4WGRfbUQ3ejlYM2VDY2VhVkFzN0RNUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:53:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b8d60754ae3dcbec",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Paris - AP News",
-      "snippet": "Paris  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5NcFZlSlBSZDdBczFiWEl4OWlGN0xMT2Utd2ZJeU9XaVNYU0Z3aTQ4Rzc5RGMxOF9QWXNPb0RyVC0ydw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:53:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_08afb439e43731ee",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'Lame-duck president' Macron notes 'failures' after France unrest",
-      "snippet": "French President Emmanuel Macron on Monday rejected Interior Minister Laurent Nunez's resignation. The move came in response to weekend protests, during which nearly 2,400 people were arrested and almost 1,000 police and gendarmes injured o",
-      "link": "https://www.france24.com/en/video/20261019-lame-duck-president-macron-notes-failures-after-france-unrest",
-      "imageUrl": "https://s.france24.com/media/display/04870d1a-b838-11f1-8deb-555a0aff87a4/w:1024/p:16x9/000-C8PA9J8.jpg",
-      "publishedAt": "2026-10-19T10:53:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b3341312bdd8b0d3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Russia - AP News",
-      "snippet": "Russia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE45R0JYQ0dqdWxiMFhWUjVGbTlsRDVOUlNEU1p3aXNZQXVuaHVka1BRV1pxV1VwTVg3WFpjYWtQUlhPekU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:52:55.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_46f99d55ffbce6ea",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Michigan - AP News",
-      "snippet": "Michigan  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BTWtOdGNlc2xxQVVTcnE5b0FuUy1HT056Xy1VWk5pQWJ6TEgwT2pkUnZaN2JIcEE3Z242STNLOGR0VjRIdFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T10:52:27.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
