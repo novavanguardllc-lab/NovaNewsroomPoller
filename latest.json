@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-19T06:55:05.460Z",
+  "updatedAt": "2026-10-19T07:00:12.602Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.636Z"
+      "lastSuccess": "2026-10-19T07:00:12.833Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.081Z"
+      "lastSuccess": "2026-10-19T07:00:13.053Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.651Z"
+      "lastSuccess": "2026-10-19T07:00:12.735Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.132Z"
+      "lastSuccess": "2026-10-19T07:00:13.109Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.672Z"
+      "lastSuccess": "2026-10-19T07:00:12.730Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.853Z"
+      "lastSuccess": "2026-10-19T07:00:12.715Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.800Z"
+      "lastSuccess": "2026-10-19T07:00:12.776Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.013Z"
+      "lastSuccess": "2026-10-19T07:00:12.875Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.879Z"
+      "lastSuccess": "2026-10-19T07:00:12.820Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.857Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
+      "lastErrorAt": "2026-10-19T07:00:12.940Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.054Z"
+      "lastSuccess": "2026-10-19T07:00:12.792Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.678Z"
+      "lastSuccess": "2026-10-19T07:00:12.811Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.952Z"
+      "lastSuccess": "2026-10-19T07:00:12.936Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.072Z"
+      "lastSuccess": "2026-10-19T07:00:12.915Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T06:55:06.133Z"
+      "lastErrorAt": "2026-10-19T07:00:12.941Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T06:55:06.180Z"
+      "lastErrorAt": "2026-10-19T07:00:12.996Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:05.721Z"
+      "lastSuccess": "2026-10-19T07:00:12.854Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.179Z"
+      "lastSuccess": "2026-10-19T07:00:13.060Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.157Z"
+      "lastSuccess": "2026-10-19T07:00:12.893Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.021Z"
+      "lastSuccess": "2026-10-19T07:00:12.912Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.210Z"
+      "lastSuccess": "2026-10-19T07:00:13.115Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.297Z"
+      "lastSuccess": "2026-10-19T07:00:12.994Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T06:55:06.231Z"
+      "lastSuccess": "2026-10-19T07:00:13.139Z"
     }
   },
   "items": [
@@ -327,6 +328,32 @@
       "link": "https://www.dw.com/en/france-emmanuel-macron-slams-failures-over-protest-unrest/a-79695496?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-19T05:53:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2d658c5b2f1edbfe",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Emmanuel Macron slams 'failures' over protest unrest in France but refuses his interior minister's resignation",
+      "snippet": "But France's president has refused his interior minister Laurent Nunez's resignation after nationwide protests turned violent over the weekend.",
+      "link": "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T05:53:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24c2b400e8cbc298",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Arrests over Israeli settler attacks on US photojournalist and European diplomats in West Bank",
+      "snippet": "Eight suspects have been arrested in connection with recent violence in the West Bank including attacks on an ​American ⁠photojournalist and European ⁠diplomats, Israeli police have said.",
+      "link": "https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-westbank-taybeh_7379338.jpg?20261017185135",
+      "publishedAt": "2026-10-19T05:51:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T23:28:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_860c617359198139",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Cam Skattebo has no carries and plays just 6 snaps in the Giants’ loss to the Saints - AP News",
-      "snippet": "Cam Skattebo has no carries and plays just 6 snaps in the Giants’ loss to the Saints  AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzVuTFhxaEJxNVZVdnFDZ09LT2lOcEsxWEtQSVZKT3NWZ3BmUVVFTTRmYnRjOEl6UWEyaFJmTnBJakdhdXR5ZU9OWVpBY2hKamJpWkZfVWVHd3prbC10WExMTURCeDBhQTI3TXA1bl9kSk1ZaEFxYko4RzVGVnNKcG1qSEpQU1E1aE1GM25yQmJGVk1NZElKN3k5emMtZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T23:25:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dbe3b800510b971b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Eagles will bring back Jalen Hurts this season under one condition amid blood clot issue: report",
-      "snippet": "Jalen Hurts' blood clot began moving, creating what Jay Glazer called a \"life-or-death\" situation that led the Eagles to place him on injured reserve.",
-      "link": "https://www.foxnews.com/outkick-sports/eagles-bring-back-jalen-hurts-season-one-condition-amid-blood-clot-issue-report",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T23:24:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
