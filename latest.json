@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-19T03:30:09.806Z",
+  "updatedAt": "2026-10-19T03:35:05.275Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:09.976Z"
+      "lastSuccess": "2026-10-19T03:35:05.446Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.318Z"
+      "lastSuccess": "2026-10-19T03:35:05.720Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:09.937Z"
+      "lastSuccess": "2026-10-19T03:35:05.427Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.185Z"
+      "lastSuccess": "2026-10-19T03:35:05.506Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:09.949Z"
+      "lastSuccess": "2026-10-19T03:35:05.607Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:09.928Z"
+      "lastSuccess": "2026-10-19T03:35:05.413Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.010Z"
+      "lastSuccess": "2026-10-19T03:35:05.385Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.031Z"
+      "lastSuccess": "2026-10-19T03:35:05.470Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.128Z"
+      "lastSuccess": "2026-10-19T03:35:05.696Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.121Z"
+      "lastSuccess": "2026-10-19T03:35:05.559Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.050Z"
+      "lastSuccess": "2026-10-19T03:35:05.534Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.066Z"
+      "lastSuccess": "2026-10-19T03:35:05.532Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.146Z"
+      "lastSuccess": "2026-10-19T03:35:05.594Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.069Z"
+      "lastSuccess": "2026-10-19T03:35:05.547Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T03:30:10.121Z"
+      "lastErrorAt": "2026-10-19T03:35:05.548Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T03:30:10.166Z"
+      "lastErrorAt": "2026-10-19T03:35:05.613Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.100Z"
+      "lastSuccess": "2026-10-19T03:35:05.573Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.253Z"
+      "lastSuccess": "2026-10-19T03:35:05.631Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.156Z"
+      "lastSuccess": "2026-10-19T03:35:05.598Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.112Z"
+      "lastSuccess": "2026-10-19T03:35:05.555Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.281Z"
+      "lastSuccess": "2026-10-19T03:35:05.714Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.240Z"
+      "lastSuccess": "2026-10-19T03:35:05.688Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T03:30:10.305Z"
+      "lastSuccess": "2026-10-19T03:35:05.788Z"
     }
   },
   "items": [
+    {
+      "id": "story_ba5d7c0e282ac459",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
+      "snippet": "Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'.",
+      "link": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T03:23:54.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_312a8a94b2a0b59a",
       "source": "DW",
@@ -124,6 +137,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fafbe7295f810cdb",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "snippet": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T03:10:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0ffa3e2b31ddb45d",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -132,6 +158,19 @@
       "link": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
       "imageUrl": null,
       "publishedAt": "2026-10-19T03:09:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a8044d8e23574218",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Fast-moving grass fire caused Canada’s military base tragedy",
+      "snippet": "Fast-moving grass fire caused Canada’s military base tragedy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T03:07:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFdxZnluT3IxeFhpcW5mYkNZUlRpSG5KX2RXSW5mb2ZibzRuTnY5MzdISU5aTG5MU2liaEtQdHllSi12RHBwSFBDUjJod282aEpxZFp0R0NOS25UYmU5OXg0c2hYcFg5RGZvZWFja24wTWhTNmJTM0FkMFFVdXNpdmhLX29ZM3VCSlY3U3BmS3Q4ZURCMVRyLXhNd2FlVzZxQ0lWZFFYZ2dlT0wtQTBrOUhHdmtzTFprRGc?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-18T21:18:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc90a5c59cad7ade",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "US Chamber of Commerce endorses Paxton over Talarico",
-      "snippet": "The U.S. Chamber of Commerce announced it endorsed Texas Attorney General Ken Paxton over Democrat James Talarico in the state’s battleground Senate contest ahead of the 2026 midterm elections. “The choice is clear in Texas. Attorney Genera",
-      "link": "https://thehill.com/homenews/campaign/6156921-chamber-endorses-paxton-texas-senate/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26290651658721-e1792358127730.jpg?w=900",
-      "publishedAt": "2026-10-18T21:15:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5dc6abdac5f1e02c",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump says he's \"negotiating Peace\" as Russia, Ukraine trade strikes",
-      "snippet": "The strikes came as tensions between Ukraine and Washington deepened.",
-      "link": "https://www.cbsnews.com/news/ukraine-russia-drone-st-petersburg-oil-facilites/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T21:14:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e23bb37909c76074",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Aaron Rodgers delivers another comeback as Steelers beat Bucs in OT - Reuters",
-      "snippet": "Aaron Rodgers delivers another comeback as Steelers beat Bucs in OT  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYXdZR2Y5b1VyTXNWLUN5MXJhM1NoUzB5bEh4a3Q5YWJEYkpPUTlERXlEY0s0RVhpU0tBcWhGUWxOUkhqRWN0ZXg3Qi01Y1Y0d2Z3amh1eHhZTk9UNGptaF9TWnMzbnptb2tXc1NGV2dNX1RTVEw5LWZyUDRubDFCWlNhOUczNFQtZXRiZEJuX1dxTmtGTmZIT2dfNnpkUjN6MmdFQ2R3T2Z4aEk1TzRLTFAyUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T21:12:55.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
