@@ -1,102 +1,168 @@
 {
-  "updatedAt": "2026-10-19T14:40:07.594Z",
+  "updatedAt": "2026-10-19T14:45:07.543Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:07.852Z"
+      "lastSuccess": "2026-10-19T14:45:07.703Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.012Z"
+      "lastSuccess": "2026-10-19T14:45:07.753Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:07.895Z"
+      "lastSuccess": "2026-10-19T14:45:07.664Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.357Z"
+      "lastSuccess": "2026-10-19T14:45:07.735Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:07.934Z"
+      "lastSuccess": "2026-10-19T14:45:07.781Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.039Z"
+      "lastSuccess": "2026-10-19T14:45:07.759Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:07.972Z"
+      "lastSuccess": "2026-10-19T14:45:07.881Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:07.943Z"
+      "lastSuccess": "2026-10-19T14:45:07.817Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.339Z"
+      "lastSuccess": "2026-10-19T14:45:07.862Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.003Z"
+      "lastSuccess": "2026-10-19T14:45:07.874Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.205Z"
+      "lastSuccess": "2026-10-19T14:45:07.887Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.200Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
+      "lastErrorAt": "2026-10-19T14:45:07.896Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.114Z"
+      "lastSuccess": "2026-10-19T14:45:08.021Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T14:40:07.977Z"
+      "lastErrorAt": "2026-10-19T14:45:09.813Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T14:40:08.368Z"
+      "lastErrorAt": "2026-10-19T14:45:08.034Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.379Z"
+      "lastSuccess": "2026-10-19T14:45:08.075Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.335Z"
+      "lastSuccess": "2026-10-19T14:45:07.997Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.073Z"
+      "lastSuccess": "2026-10-19T14:45:07.919Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.195Z"
+      "lastSuccess": "2026-10-19T14:45:07.761Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.524Z"
+      "lastSuccess": "2026-10-19T14:45:09.029Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.441Z"
+      "lastSuccess": "2026-10-19T14:45:08.135Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:08.192Z"
+      "lastSuccess": "2026-10-19T14:45:07.858Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T14:40:12.692Z"
+      "lastSuccess": "2026-10-19T14:45:12.226Z"
     }
   },
   "items": [
+    {
+      "id": "story_bc68c790ccb8f5c4",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Pakistan suspends Iran border trade, amid violence on both sides",
+      "snippet": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:43:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e0f44690e1ea3e26",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Israeli police arrest 10 following weekend attacks by West Bank settlers on journalist and diplomats",
+      "snippet": "Israeli police did not identify the suspects or specify their roles in the attacks, which came during a spike in settler violence during the annual Palestinian olive harvest season.",
+      "link": "https://www.pbs.org/newshour/world/israeli-police-arrest-10-following-weekend-attacks-by-west-bank-settlers-on-journalist-and-diplomats",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:39:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0150207afc578d42",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
+      "snippet": "Elon Musk and officials at AI giant Anthropic are pledging to give coveted shares in their companies to the general public as concerns about AI’s economic and societal impact continue to pile up.",
+      "link": "https://www.nbcnews.com/tech/tech-news/elon-musk-anthropic-make-promises-give-public-piece-ai-pie-rcna604313",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:39:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4671049236420e22",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "TikTok wellness trends worth buying into",
+      "snippet": "Liz Baker Plosser, the former editor-in-chief of Women's Health, who runs a popular Substack titled \"Best Case Scenario with Liz Plosser,\" joins \"CBS Mornings\" to break down which TikTok health and fitness trends are worth buying into.",
+      "link": "https://www.cbsnews.com/video/tiktok-wellness-trends-worth-buying-into/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:39:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e221d5b35916ae2a",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Houthi strike on Yemen government military camp kills at least 50",
+      "snippet": "The Iran-backed group has claimed responsibility for the attack which killed new recruits at a military camp. The strikes follow deadly attacks over the weekend blamed on Saudi-led forces.",
+      "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:39:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_9309bb3d7a16df08",
       "source": "Wash Examiner",
@@ -106,6 +172,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4770316/newsom-trump-ruthless-2028-new-hampshire/",
       "imageUrl": null,
       "publishedAt": "2026-10-19T14:38:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fa32c1b9a1720173",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Meet the winner of the World's Cutest Rescue Dog Contest",
+      "snippet": "People editor-in-chief and general manager, Charlotte Triggs, joins \"CBS Mornings\" to announce the winner of the magazine's \"World's Cutest Rescue Dog\" contest.",
+      "link": "https://www.cbsnews.com/video/meet-the-winner-of-the-worlds-cutest-rescue-dog-contest/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T14:34:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -995,6 +1074,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_6c4a4b41d92a3a2c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Search ends for more survivors from boat that sank off Mexico’s Baja California coast - AP News",
+      "snippet": "Search ends for more survivors from boat that sank off Mexico’s Baja California coast  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODRrS09JWWptSEtQVTRJQWd6b0NrY3VWYTB1REM4Wm8wVXdhZVhvYVg4LU81SWZOQWVXbHc1aDhvU3Y5Tl9FeUZIMTR3SzFnX182OEI1VGg4RWs2WUtKYXpQTVpFcnlab0VKNFlKQjVmUHJuWUpyOVFxUEdTcUl4SXByY3FBenh5MTQySFVNaEFxV2p4S1lqeWM4SEV4elBxN2JMWElzdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T13:37:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_cdb1596debc69db4",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1307,6 +1399,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_23627d4ef9781ab7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Woman tells UK court that comedian Russell Brand raped her - Reuters",
+      "snippet": "Woman tells UK court that comedian Russell Brand raped her  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUh2ejdlUURSRGgyNmZrNFUyMngzdnhpcldsWFNKVWZTREdpaHJudGhrZ0NHeUFOYUFCaFNobFU4ajFZT2ljVmx2SnlDWlRzUjZNTXh4UzZaY21aazMwbm9qWFhJZXdBVlpQRTZHRU0xcUZaWlA1TW1zY1Q4Q0xVaWdUQl92eWxoenhRX2UwRnJpTFpDeU11S0pHZkFxM0Q2X3B2eFRB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T13:17:04.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4dc6d75d0b8a5ad7",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1422,6 +1527,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_ca303ca33983db5c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project - Reuters",
+      "snippet": "Google, McKinsey strike Brazil carbon removal deal with silvopasture project  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3dueURyYnIwanJiVVIyLXdGYnJhTzRVMTV6bnc4WnZtRjhIWmQ3X0JyOHhjX1l3c0JpV1dqcTlBQ2RYdUE2NlIzYkFWcVljMGJGa25uUTFJMU81YXFQdDVrREtMeThDa3djVlcycWZxZW54dFpZOGhWNWhfZDYyWm5uVkNnV2pNZ0RRbmxkYmZGV0JjdFFDbXlhRnN2WUdjQ0NBN2podGdJcmhidkJTMVo5blVST0N3dV9JWjM3TDdFaVF2RWlKMzIwQ3E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T13:11:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_6ce180e03f8ddbea",
@@ -2576,123 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-19T11:40:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4f40955dd8fc43b5",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "snippet": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:38:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_b3b96b50feb4cb16",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Falling crucifix kills priest during livestreamed Mass in Ecuador",
-      "snippet": "\"Father, Father! Call an ambulance!\" people at the church could be heard shouting just before a livestreamed broadcast cuts out.",
-      "link": "https://www.cbsnews.com/news/falling-crucifix-kills-priest-livestreamed-mass-ecuador/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:37:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_767bd0a0a0415413",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances - Reuters",
-      "snippet": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:36:11.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_142820e23d74789b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-      "snippet": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn't been tough enough.",
-      "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:35:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_00b8e8c47e95136d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine - Reuters",
-      "snippet": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:35:47.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_287f70044350b819",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "‘No Conclusive Evidence’ Found of Amelia Earhart’s Missing Plane",
-      "snippet": "It appears one of the great mysteries of aviation history is going to remain a mystery for now after an expedition to find evidence of Amelia Earhart’s plane, that’s been missing for nearly 90 years, came up empty. NBC’s Janis Mackey Frayer",
-      "link": "https://www.today.com/video/-no-conclusive-evidence-found-of-amelia-earhart-s-missing-plane-271804997830",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:34:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ca1a81214f9226e",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "The future of medicine may depend on African DNA",
-      "snippet": "A $100 million investment over the next decade could help African scientists unlock discoveries that improve medicine worldwide.",
-      "link": "https://www.semafor.com/article/10/19/2026/the-future-of-medicine-may-depend-on-african-dna",
-      "imageUrl": "https://img.semafor.com/b637415f6d8819151d706f8606aa1752d7c1dc60-2048x1365.jpg",
-      "publishedAt": "2026-10-19T11:33:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b0185ecb95052d9f",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "To prep for sale of Ronaldo’s Saudi team, PIF pays off $213 million debt",
-      "snippet": "Saudi’s sovereign wealth fund is arranging sponsorship deals to cover the soccer team’s debt.",
-      "link": "https://www.semafor.com/article/10/19/2026/to-prep-for-sale-of-ronaldos-saudi-team-pif-pays-off-213-million-debt",
-      "imageUrl": "https://img.semafor.com/7f2b6a155493bb856d588c1b996c7cc4732920f3-2048x1447.jpg",
-      "publishedAt": "2026-10-19T11:33:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_56b31d8e09689ce5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South - AP News",
-      "snippet": "North Korea threatens to restart propaganda broadcasts and deploy more weapons at border with South  AP News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDZOUW9aSXNRTTUtWWl0RVJPWWVENkVBUzBVYkV1QVFaNWhNNU12Vk4yNFRLVW9Md18tYmlNblpLUmJqY2xXVUxmaWxCRFFPczlGdHZKZzc5RzdsUGdpS2Y5QnVZVFhRU2gtbklya2pCQkE3N2s3T3prR3dMZ2k1enNhMDhkUENNaWQ3OFFIY3kxaUlBaGlNcFBuc0lQamViVVp0eEhWTmEtVVVNNVBVMA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T11:33:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
