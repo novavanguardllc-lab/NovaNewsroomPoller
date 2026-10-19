@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-19T02:20:07.397Z",
+  "updatedAt": "2026-10-19T02:25:05.231Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.546Z"
+      "lastSuccess": "2026-10-19T02:25:05.602Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.668Z"
+      "lastSuccess": "2026-10-19T02:25:05.840Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.527Z"
+      "lastSuccess": "2026-10-19T02:25:05.452Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.855Z"
+      "lastSuccess": "2026-10-19T02:25:05.821Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.671Z"
+      "lastSuccess": "2026-10-19T02:25:05.592Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.518Z"
+      "lastSuccess": "2026-10-19T02:25:05.729Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.684Z"
+      "lastSuccess": "2026-10-19T02:25:05.525Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.587Z"
+      "lastSuccess": "2026-10-19T02:25:05.642Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.659Z"
+      "lastSuccess": "2026-10-19T02:25:05.615Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.697Z"
+      "lastSuccess": "2026-10-19T02:25:05.491Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.704Z"
+      "lastSuccess": "2026-10-19T02:25:05.443Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.722Z"
+      "lastSuccess": "2026-10-19T02:25:05.425Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.640Z"
+      "lastSuccess": "2026-10-19T02:25:05.717Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.738Z"
+      "lastSuccess": "2026-10-19T02:25:05.690Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T02:20:07.722Z"
+      "lastErrorAt": "2026-10-19T02:25:05.685Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T02:20:07.818Z"
+      "lastErrorAt": "2026-10-19T02:25:05.850Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.748Z"
+      "lastSuccess": "2026-10-19T02:25:05.683Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.817Z"
+      "lastSuccess": "2026-10-19T02:25:05.828Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.808Z"
+      "lastSuccess": "2026-10-19T02:25:05.570Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.788Z"
+      "lastSuccess": "2026-10-19T02:25:05.542Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.873Z"
+      "lastSuccess": "2026-10-19T02:25:05.861Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:07.930Z"
+      "lastSuccess": "2026-10-19T02:25:05.802Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T02:20:08.184Z"
+      "lastSuccess": "2026-10-19T02:25:05.937Z"
     }
   },
   "items": [
+    {
+      "id": "story_173396ba431191a6",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "China’s Export Boom Fuels Growth Despite Slump at Home",
+      "snippet": "A prolonged housing crash, sluggish consumer spending and plunging investment have left China dependent on exports to keep the economy growing.",
+      "link": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T02:16:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7d373b7530d8254e",
       "source": "NPR",
@@ -276,6 +289,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T01:23:52.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ee0bedb988a1721a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1pOa3oycXBHUVdMX3Q5TEktMFhnZGtFczlJYWQySVk4UWUtZl9Gc1JRcGpVVzgycFZLaEpJOGFHNTc0X3VTWXBHZG83VzVZWkNoSEd0MjlJYmRfZEJkVFNhSWRhYUI0YmlmNEV6TjVvNmRsbExmeFdBSE1rclViQUFGWW4tbmpOWHR0QUZUbVR0R2tYbTUwTFhqWkU3ZmJ2TWZqMGNBOA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T01:20:57.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2668,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-18T20:19:56.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fdc5a048db480e9f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "West Bank - AP News",
-      "snippet": "West Bank  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCLUpaZFBGTl81RWtTcFVsUnJGZ19DU1dpd1FKSFpndTlxZGduSmtIWllLcnphNG9LSURuazF2dXkyZGdDR3hB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T20:19:47.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_45d2eef19302aaee",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-      "snippet": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-18T20:19:22.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
