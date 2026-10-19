@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-19T19:15:06.874Z",
+  "updatedAt": "2026-10-19T19:20:07.355Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:06.992Z"
+      "lastSuccess": "2026-10-19T19:20:07.467Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:06.953Z"
+      "lastSuccess": "2026-10-19T19:20:07.545Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.121Z"
+      "lastSuccess": "2026-10-19T19:20:07.538Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.036Z"
+      "lastSuccess": "2026-10-19T19:20:07.575Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.059Z"
+      "lastSuccess": "2026-10-19T19:20:07.585Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.160Z"
+      "lastSuccess": "2026-10-19T19:20:07.599Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.150Z"
+      "lastSuccess": "2026-10-19T19:20:07.720Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.014Z"
+      "lastSuccess": "2026-10-19T19:20:07.638Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.189Z"
+      "lastSuccess": "2026-10-19T19:20:07.738Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.133Z"
+      "lastSuccess": "2026-10-19T19:20:07.678Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.156Z"
+      "lastSuccess": "2026-10-19T19:20:07.736Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.124Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
+      "lastErrorAt": "2026-10-19T19:20:07.799Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.146Z"
+      "lastSuccess": "2026-10-19T19:20:07.661Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T19:15:07.192Z"
+      "lastErrorAt": "2026-10-19T19:20:07.673Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T19:15:07.197Z"
+      "lastErrorAt": "2026-10-19T19:20:07.876Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.201Z"
+      "lastSuccess": "2026-10-19T19:20:07.898Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.456Z"
+      "lastSuccess": "2026-10-19T19:20:07.874Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.102Z"
+      "lastSuccess": "2026-10-19T19:20:07.714Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:06.997Z"
+      "lastSuccess": "2026-10-19T19:20:07.619Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:09.032Z"
+      "lastSuccess": "2026-10-19T19:20:07.958Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.254Z"
+      "lastSuccess": "2026-10-19T19:20:07.917Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:07.186Z"
+      "lastSuccess": "2026-10-19T19:20:07.762Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T19:15:11.500Z"
+      "lastSuccess": "2026-10-19T19:20:07.882Z"
     }
   },
   "items": [
+    {
+      "id": "story_1d33ec798a8aa7fa",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Elissa Slotkin touts fascism as the Democratic mask slips",
+      "snippet": "Democrats such as Sen. Elissa Slotkin (D-MI) present themselves as normal centrists, but the use of lawfare as a strategy has even the supposed centrists touting a fascist world in which political opponents are intimidated into silence. At ",
+      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4771051/elissa-slotkin-touts-fascism-democratic-mask-slips/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T19:16:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b5215f5e04b3fd43",
       "source": "Wash Examiner",
@@ -106,6 +120,19 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4770970/doj-investigation-dc-jails-treatment-prisoners/",
       "imageUrl": null,
       "publishedAt": "2026-10-19T19:13:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e84dcc5638e8fff2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Smithsonian screening dispute puts museum's commitment to diverse views on trial: 'Right kind of Black?'",
+      "snippet": "The Smithsonian National Museum of African American History declined a public screening of \"White Guilt,\" a documentary by filmmaker Eli Steele.",
+      "link": "https://www.foxnews.com/politics/smithsonian-screening-dispute-puts-museums-commitment-diverse-views-trial-right-kind-black",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T19:12:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1069,6 +1096,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/MixCollage-19-Oct-2026-01-32-PM-8302.jpg?w=900",
       "publishedAt": "2026-10-19T17:33:25.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_00bab70ec2461ca8",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: DXC in advanced talks to sell insurance software unit for $2.4 billion, sources say - Reuters",
+      "snippet": "EXCLUSIVE: DXC in advanced talks to sell insurance software unit for $2.4 billion, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOEJBeXNkZDlsa3dCLXRCZ1hMMnF4TkVUSnhCbUNvazlpZElNeFlZeUFmUFNzSHc0R05WVjRRRlBOV0ZHQTc0enRCbHVsX1kyQTBkcnVYQmpHRGNnblNxQXhsN0hCRXVxQVBrQk5tckFxMDNqV2VHX1FZUDRNTFp1ejMzVWtTZTZYYnoxUEE3OFY3MU95UXFzaGNjNHBOc0I2YjFiLUZrUmZWZW5CNGtOMUxfLXk5MUpLRUhZNGNnZ3VwRmc2?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T17:30:33.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2694,6 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4770277/republican-senate-candidate-new-jersey-justin-murphy-trump-iran-war/",
       "imageUrl": null,
       "publishedAt": "2026-10-19T15:27:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5ab5fd89858cf768",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Every look from the Victoria's Secret Fashion Show - Reuters",
-      "snippet": "Every look from the Victoria's Secret Fashion Show  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T15:27:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_99abdaee01dc075a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-      "snippet": "The Iranian-backed militia struck with ballistic missiles deep in government-held central Yemen, in what appeared to be among the deadliest attacks of the renewed war.",
-      "link": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T15:26:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f4356f087ade048e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
-      "snippet": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers.",
-      "link": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T15:25:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
