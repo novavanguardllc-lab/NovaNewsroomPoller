@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-19T18:10:07.456Z",
+  "updatedAt": "2026-10-19T18:15:07.685Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.750Z"
+      "lastSuccess": "2026-10-19T18:15:07.825Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.567Z"
+      "lastSuccess": "2026-10-19T18:15:07.785Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.719Z"
+      "lastSuccess": "2026-10-19T18:15:07.768Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:08.164Z"
+      "lastSuccess": "2026-10-19T18:15:07.848Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.976Z"
+      "lastSuccess": "2026-10-19T18:15:08.185Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.602Z"
+      "lastSuccess": "2026-10-19T18:15:07.781Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.860Z"
+      "lastSuccess": "2026-10-19T18:15:07.878Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.607Z"
+      "lastSuccess": "2026-10-19T18:15:07.885Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.947Z"
+      "lastSuccess": "2026-10-19T18:15:07.888Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.669Z"
+      "lastSuccess": "2026-10-19T18:15:07.894Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.649Z"
+      "lastSuccess": "2026-10-19T18:15:07.902Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 452\nChar: d",
-      "lastErrorAt": "2026-10-19T18:10:07.879Z"
+      "online": true,
+      "lastSuccess": "2026-10-19T18:15:07.905Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.839Z"
+      "lastSuccess": "2026-10-19T18:15:07.875Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-19T18:10:07.947Z"
+      "lastErrorAt": "2026-10-19T18:15:07.879Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-19T18:10:07.954Z"
+      "lastErrorAt": "2026-10-19T18:15:08.020Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.959Z"
+      "lastSuccess": "2026-10-19T18:15:07.980Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:08.122Z"
+      "lastSuccess": "2026-10-19T18:15:07.974Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.789Z"
+      "lastSuccess": "2026-10-19T18:15:07.916Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.625Z"
+      "lastSuccess": "2026-10-19T18:15:07.828Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:08.035Z"
+      "lastSuccess": "2026-10-19T18:15:11.186Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:08.043Z"
+      "lastSuccess": "2026-10-19T18:15:08.039Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:07.944Z"
+      "lastSuccess": "2026-10-19T18:15:07.945Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-19T18:10:13.119Z"
+      "lastSuccess": "2026-10-19T18:15:07.928Z"
     }
   },
   "items": [
+    {
+      "id": "story_dfe4f8dc295c2a3d",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Ukrainian strikes on Russia data centers disrupt daily life",
+      "snippet": "Ukrainian strikes on data centers in Russia has interrupted daily life for everyday citizens, preventing them from accessing bank accounts.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/19/ukraine-data-centers-strikes/4481792427699/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/4481792427699/2026/upi_com/736b985a9b55cb9571af1d2eb398050f/v1.5/Ukrainian-strikes-on-Russia-data-centers-disrupt-daily-life.jpg",
+      "publishedAt": "2026-10-19T18:09:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_af8da9a3d91f3139",
       "source": "Wash Examiner",
@@ -120,6 +132,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4770816/rick-jackson-skip-trump-campaign-rally-georgia/",
       "imageUrl": null,
       "publishedAt": "2026-10-19T18:05:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a103f1b41b6dbd08",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Breaking down political turmoil in France as violent protests rage on",
+      "snippet": "Protests continue to rage across France despite President Emmanuel Macron's attempts to mitigate the chaos. CBS News' Trevor Phillips has more.",
+      "link": "https://www.cbsnews.com/video/breaking-down-political-turmoil-in-france-as-violent-protests-rage-on/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T18:04:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -471,6 +496,19 @@
       "link": "https://thehill.com/homenews/house/6158277-lawmakers-targeted-suspicious-white-powder/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/subramanyamsuhas_090326gn01_w.jpg?w=900",
       "publishedAt": "2026-10-19T17:19:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3af3896fc6322948",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Kansas voters stress affordability as key issue in competitive Senate race",
+      "snippet": "President Donald Trump is headed to Kansas in support of incumbent GOP Sen. Roger Marshall, who is in a tight race against his Democratic challenger, Adam Hamilton. NBC News' Stephanie Gosk spoke with voters who emphasized affordability as ",
+      "link": "https://www.nbcnews.com/now/video/kansas-voters-stress-affordability-as-key-issue-in-competitive-senate-race-271824453567",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T17:19:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1737,6 +1775,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_04fde183cc76af16",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Paul Mackenzie, the Kenyan preacher who led hundreds to starve to death - Reuters",
+      "snippet": "Paul Mackenzie, the Kenyan preacher who led hundreds to starve to death  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXoxaEwwdHNXdG0wRWlPOWw0emxrZUZ2MzdiODA2YkgwUmkxcTdhNXBicy12SUJPeUVUcmVVTWJfUGduaXpISVdIQ252Q3JvYUl4U2cxbjZFWmh0UEJiZ250RXIySmhwMUdUUzllWjVpeTFnQjFwR2p2dUJ3UHo1bjR0dHdTVC03ZGh6X0xKYml0Mm1UTzRqN0ZwVVJhbmZJeWJxYnR3bjJyWnlDZlE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T15:33:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b81ae64073ec249f",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2642,58 +2693,6 @@
       "link": "https://www.pbs.org/newshour/world/israeli-police-arrest-10-following-weekend-attacks-by-west-bank-settlers-on-journalist-and-diplomats",
       "imageUrl": null,
       "publishedAt": "2026-10-19T14:39:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0150207afc578d42",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
-      "snippet": "Elon Musk and officials at AI giant Anthropic are pledging to give coveted shares in their companies to the general public as concerns about AI’s economic and societal impact continue to pile up.",
-      "link": "https://www.nbcnews.com/tech/tech-news/elon-musk-anthropic-make-promises-give-public-piece-ai-pie-rcna604313",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:39:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4671049236420e22",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "TikTok wellness trends worth buying into",
-      "snippet": "Liz Baker Plosser, the former editor-in-chief of Women's Health, who runs a popular Substack titled \"Best Case Scenario with Liz Plosser,\" joins \"CBS Mornings\" to break down which TikTok health and fitness trends are worth buying into.",
-      "link": "https://www.cbsnews.com/video/tiktok-wellness-trends-worth-buying-into/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:39:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e221d5b35916ae2a",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Houthi strike on Yemen government military camp kills at least 50",
-      "snippet": "The Iran-backed group has claimed responsibility for the attack which killed new recruits at a military camp. The strikes follow deadly attacks over the weekend blamed on Saudi-led forces.",
-      "link": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:39:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9309bb3d7a16df08",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Newsom tells Democrats he’s as ‘ruthless’ as Trump in early 2028 pitch",
-      "snippet": "MANCHESTER, New Hampshire — Gov. Gavin Newsom (D-CA) is betting a wave of anti-Trump backlash will carry him through the early voting states of 2028, framing his time as governor as a model for Democrats looking to counter the president. Ne",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4770316/newsom-trump-ruthless-2028-new-hampshire/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:38:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
