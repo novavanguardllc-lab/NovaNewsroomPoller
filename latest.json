@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T10:05:05.352Z",
+  "updatedAt": "2026-10-20T10:10:07.532Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.511Z"
+      "lastSuccess": "2026-10-20T10:10:07.713Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.569Z"
+      "lastSuccess": "2026-10-20T10:10:07.861Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.656Z"
+      "lastSuccess": "2026-10-20T10:10:07.842Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.732Z"
+      "lastSuccess": "2026-10-20T10:10:07.901Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.736Z"
+      "lastSuccess": "2026-10-20T10:10:07.717Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.742Z"
+      "lastSuccess": "2026-10-20T10:10:07.857Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.747Z"
+      "lastSuccess": "2026-10-20T10:10:07.738Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.750Z"
+      "lastSuccess": "2026-10-20T10:10:07.734Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.858Z"
+      "lastSuccess": "2026-10-20T10:10:07.642Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.880Z"
+      "lastSuccess": "2026-10-20T10:10:07.816Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.894Z"
+      "lastSuccess": "2026-10-20T10:10:07.852Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.957Z"
+      "lastSuccess": "2026-10-20T10:10:07.761Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:05.980Z"
+      "lastSuccess": "2026-10-20T10:10:07.800Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.000Z"
+      "lastSuccess": "2026-10-20T10:10:07.701Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.022Z"
+      "lastSuccess": "2026-10-20T10:10:07.791Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T10:05:06.031Z"
+      "lastErrorAt": "2026-10-20T10:10:07.960Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.092Z"
+      "lastSuccess": "2026-10-20T10:10:07.926Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.109Z"
+      "lastSuccess": "2026-10-20T10:10:07.912Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.113Z"
+      "lastSuccess": "2026-10-20T10:10:07.930Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.179Z"
+      "lastSuccess": "2026-10-20T10:10:08.258Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T10:05:06.183Z"
+      "lastErrorAt": "2026-10-20T10:10:07.913Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.233Z"
+      "lastSuccess": "2026-10-20T10:10:07.935Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:05:06.259Z"
+      "lastSuccess": "2026-10-20T10:10:07.959Z"
     }
   },
   "items": [
+    {
+      "id": "story_72bc9ec15ed2a657",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " About 6 in 10 Americans confident election will be conducted fairly, accurately: Poll",
+      "snippet": "Most Americans are not confident Trump will accept midterm results if GOP loses.",
+      "link": "https://abcnews.com/Politics/6-10-americans-confident-election-conducted-fairly-accurately/story?id=137385192",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:02:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_690136186ed5dfb6",
       "source": "AP",
@@ -111,6 +124,71 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8dc57e87ccde3c1a",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "France first night under targeted curfews passed calmly",
+      "snippet": "France’s first night under curfew passed without incident, as authorities sought to restore order following a weekend of demonstrations that escalated into riots. The government will impose further curfews where necessary on Tuesday, Prime ",
+      "link": "https://www.france24.com/en/video/20261020-france-first-night-under-targeted-curfews-passed-calmly",
+      "imageUrl": "https://s.france24.com/media/display/d3f122b2-cc69-11f1-aef1-638c1c1f5fd6/w:1024/p:16x9/capture-c016885d.jpg",
+      "publishedAt": "2026-10-20T10:01:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7b0934a7fde109bd",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump puts fraudsters on notice with $25M whistleblower program offering cash for tips that deliver",
+      "snippet": "President Donald Trump and Vice President JD Vance will unveil a $25 million fraud whistleblower program offering up to $30,000 for tips leading to convictions.",
+      "link": "https://www.foxnews.com/politics/trump-puts-fraudsters-notice-25m-whistleblower-program-offering-cash-tips-deliver",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:01:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_71fd2984c68bb448",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Martha's Vineyard police barracks rocked after woman 'ran for her life,' found naked outside: prosecutor",
+      "snippet": "Edward Brown allegedly met the victim at a bar in Oak Bluffs before prosecutors say the attack occurred inside the Martha's Vineyard barracks.",
+      "link": "https://www.foxnews.com/us/marthas-vineyard-police-barracks-rocked-woman-ran-life-found-naked-outside-prosecutor",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8bbc97749d6adaf2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Voters prepare to weigh-in on Trump's economy as costs continue to surge",
+      "snippet": "Gas prices surged 9.1% in September as consumer prices rose 3.7% annually, putting Trump's promise to lower costs to the test before midterms.",
+      "link": "https://www.foxnews.com/politics/voters-prepare-weigh-trumps-economy-costs-continue-surge-2-weeks-before-midterms",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fcf0e6130972fc2e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "DR MARC SIEGEL: Iowa's cancer rate is rising. One answer may be found in the water",
+      "snippet": "Iowa's cancer rate is 10% above the national average, and nitrates from fertilizer and manure in drinking water are drawing scrutiny from MAHA and RFK Jr.",
+      "link": "https://www.foxnews.com/opinion/dr-marc-siegel-iowas-cancer-rate-rising-answer-may-found-water",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_78e4de1e07dcbceb",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -119,6 +197,71 @@
       "link": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
       "imageUrl": null,
       "publishedAt": "2026-10-20T10:00:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_954874670fb62f52",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "McMahon embarks on four-state tour to put local leaders and parents 'back into the driver’s seat' of education",
+      "snippet": "Linda McMahon launched \"The Next 250: American Education\" speaking tour with stops in Utah, Nevada, Arizona, and Tennessee for school choice.",
+      "link": "https://www.foxnews.com/media/mcmahon-embarks-four-state-tour-put-local-leaders-parents-back-drivers-seat-education",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5193689f5f1a154d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "‘Super-drug’ 10 times stronger than fentanyl linked to deaths across multiple states",
+      "snippet": "Cychlorphine, a synthetic opioid reportedly up to 10 times more potent than fentanyl, has been linked to at least 55 deaths across the U.S.",
+      "link": "https://www.foxnews.com/health/super-drug-10-times-stronger-fentanyl-linked-deaths-multiple-states",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_17b21014627c213f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Princess Diana feared Prince Harry would ‘wither’ in Prince William’s shadow: expert",
+      "snippet": "Princess Diana worried Prince Harry would \"wither\" in Prince William's shadow, says royal expert, as secret 1991 recordings surface in new documentary.",
+      "link": "https://www.foxnews.com/entertainment/princess-diana-feared-prince-harry-wither-prince-williams-shadow-expert",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d0b34af09e67806c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Some synagogues canceled prayers as French Jews faced warnings amid violent protests",
+      "snippet": "Some French Jews reportedly faced unprecedented warnings to hide their identity as anti-government protests turned violent across the nation.",
+      "link": "https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_20dcbff3f9d40783",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Elissa Slotkin tells students like me not to work in government. Don’t listen to her",
+      "snippet": "Elissa Slotkin's University of Chicago remarks targeted young conservatives considering Trump administration roles, raising the stakes for midterms.",
+      "link": "https://www.foxnews.com/opinion/elissa-slotkin-tells-students-not-work-government-dont-listen",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -189,6 +332,58 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3c5d8ac1158c779e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Democratic super PAC hammers GOP over trans bathroom focus ",
+      "snippet": "A Democratic super PAC is hammering Republicans over their focus on transgender issues as GOP candidates in battleground races invoke culture war issues against their Democratic opponents in the final stretch of the midterm cycle.   Progres",
+      "link": "https://thehill.com/homenews/campaign/6159488-democratic-pac-targets-gop-bathroom-ad/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/talarico-paxton_dc9513-e1792155974568.png?w=900",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_05b0a95121bb686e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Mark Kelly climbs ranks of Democratic hopefuls, as he barnstorms country",
+      "snippet": "Sen. Mark Kelly (D-Ariz.) is climbing the ranks of potential 2028 Democratic White House hopefuls as he travels extensively around the country this year to meet voters and raise millions of dollars for Democratic candidates in key battlegro",
+      "link": "https://thehill.com/homenews/senate/6159329-mark-kelly-potential-democratic-presidential-candidate/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/kellymark_093026gn01_w.jpg?w=900",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7c471bd83cf1567c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Corruption charges once propelled MAGA. Now they may doom it ",
+      "snippet": "You can find the origins of the MAGA movement, now hurtling toward its rendezvous with the midterm electorate, in many places.  The most obvious, straight-line antecedent is, of course, the Tea Party revolt of 2009 and 2010. The bipartisan ",
+      "link": "https://thehill.com/homenews/analysis/6159025-trump-populism-perot-influence/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26290678566858-e1792266979811.jpg?w=900",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ce9d7bb93fe2a098",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "The Memo: Trump plan for golf course becomes battle over court’s power",
+      "snippet": "A battle over a Washington golf course has turned into a fiery showdown over the powers of the Trump administration to do as it wishes and the power of the courts to constrain it. At issue is the East Potomac Golf Links, an unglamorous but ",
+      "link": "https://thehill.com/homenews/analysis/6159286-trump-dc-golf-course-battle/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GolfCourse_Stanage_AP_MarkSchiefelbein.jpg?w=900",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ccf4ac842aa71fcd",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -223,6 +418,19 @@
       "link": "https://www.foxnews.com/outkick-sports/michael-robinson-accused-jalen-hurts-faking-injury-doctors-found-clots-lungs",
       "imageUrl": null,
       "publishedAt": "2026-10-20T09:57:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e663b5bba2499f92",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "French retailers begin filing insurance claims after weekend of looting",
+      "snippet": "Shop owners in France are counting the cost of the weekend's riots as the government works on new measures to help them recover from widespread looting. Also in this edition: Germany welcomes new investments from Nvidia into its tech scene,",
+      "link": "https://www.france24.com/en/tv-shows/business/20261020-french-retailers-begin-filing-insurance-claims-after-weekend-of-looting",
+      "imageUrl": "https://s.france24.com/media/display/4b4820d6-cc60-11f1-91a3-2d1c143cdef3/w:1024/p:16x9/BUSINESS-DAILY-201026.jpg",
+      "publishedAt": "2026-10-20T09:57:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1279,6 +1487,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_589771e07642f48a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens - AP News",
+      "snippet": "South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlB6aGswUExUU1YyOWU1a0Y1WW05RGYtcXF5LTRVaEZfeldlQk92NjZOaFhXWUV2UUo3LVRNSDFxem1ZSTFtbE9YOEdJekJ0S2FzcjZONE5saXRlX2pMUTBDY2lhSjFGTE12dFFlb2p3bkk0dmtveE03c3VIb2drY0duS1R4SXRnNlVqMGo1RkFnWVBIZDVZaQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T07:34:14.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_345880ab1bffab21",
@@ -2472,227 +2693,6 @@
       "link": "https://thehill.com/homenews/state-watch/6159458-kansas-man-trump-threats/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293094029312-e1792464274535.jpg?w=900",
       "publishedAt": "2026-10-20T02:52:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e244f6f0a32efa7a",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Live: France to impose more curfews as government seeks to regain control after riots and looting",
-      "snippet": "French Prime Minister Sébastien Lecornu said further curfews would be imposed \"where necessary\" on Tuesday evening after those on Monday in parts of Paris and other cities \"helped keep the peace overnight\" following a weekend of unrest and ",
-      "link": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
-      "imageUrl": "https://s.france24.com/media/display/10dcab76-cbaa-11f1-ab05-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-19T083416Z-1115269635-RC286OA4ZUIE-RTRMADP-3-FRANCE-PORTEST-PM.jpg",
-      "publishedAt": "2026-10-20T02:51:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_26da7bffb335c5fa",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Seventh day of violent clashes between Albanian protesters and police",
-      "snippet": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:45:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d17fb8af45bfdca9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
-      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:43:20.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d665e5cd981a0537",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Man claims arm broken in violent ICE arrest",
-      "snippet": "Video shows a man screaming in pain as ICE agents pin him down during an arrest in Long Beach, California.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/man-claims-arm-broken-in-violent-ice-arrest?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:41:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31bfcbd2ae86ea17",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "CNN anchor Christiane Amanpour leaving network after a storied career of 43 years - AP News",
-      "snippet": "CNN anchor Christiane Amanpour leaving network after a storied career of 43 years  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY010bnN5dnNmbmNERVNISlk1WDNSOVJ5MFdQTjE5TVVlNGEzU0s1SS11UTNCa0REZ1ktZTRlNlNsRnVDODYxd0cwSi1IcklScU9kUGZmMExrd3pyNjlxU1JDX2RpYkd5UnJuVTFNdXZWNHB1QnBOc1YyMjFLRkh0eC1xRXM3TWNGMUFaUzZR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:41:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fe88e426c6036f95",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Australian lawmaker hurt in car attack loses leg: media",
-      "snippet": "Australian lawmaker Helen Haines has lost a leg after being struck by a car in a deliberate attack, local media said Tuesday.",
-      "link": "https://www.france24.com/en/live-news/20261020-australian-lawmaker-hurt-in-car-attack-loses-leg-media",
-      "imageUrl": "https://s.france24.com/media/display/f6683382-cc12-11f1-96de-6313a763b466/w:1024/p:16x9/c1c8c1ea21994ca7557dedaa39af9ec3e387267a.jpg",
-      "publishedAt": "2026-10-20T02:39:24.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_93aabf6b39421372",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Australian barber hailed as hero for running to lawmaker's rescue during attack - Reuters",
-      "snippet": "Australian barber hailed as hero for running to lawmaker's rescue during attack  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjBFemVUb3AzTlZSZ2MwNW9lM1dtWDFUQmppX3hXZm5tMGdHcG9qUHFvVWF1R0JuRnhwajZtV3dhczBOb0FuX2w2S3czWnRzRjMwdHRzdFV1ejJBajVSZGlNbWNrN1RTMDBRcFZwdWs2SGhSYTlYT1lrSE81a3V6cm9zRzRtNlotSTMwM0laOGwxaVlmdUt3dW9nV3dNRjZ3NmhaaE1KakhKNUJsdXFJ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:38:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cde0370cbeeb442d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Four dead as torrential rain batters eastern Spain",
-      "snippet": "Cars swept away, roads submerged and residents isolated in parts of Spain's Mediterranean coast.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:36:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_21be1e1fc258db31",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak - AP News",
-      "snippet": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak  AP News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnVhN0llN3B3U2tFdEdXNTVmUTBUOGJTMnl4cW9EWnJPUTN2SkVxZTE2b0stdUwwaG5WQmFqeWx2UHc4aXNmMVRMcll6UUJhUll5ZGdLVWh4RTlCSzI2eEZ6d09wUTg0WWktdmpBWGtKd3Y5cHhOUlhTVHNrUW9jWmVhY2twZ2RzMzJMTnVmMkMxYmhwU2ZSbnA3M3NYZVBqTXVmTDFaT3Z6aUdiMGtzYVNXYkpmMk85eUVENQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:32:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_64b5741b073d6fdd",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Vance declines to endorse Netanyahu for reelection, diverging from Trump",
-      "snippet": "Vice President JD Vance declined to endorse Israeli Prime Minister Benjamin Netanyahu for reelection on Monday, a day after President Donald Trump backed the Israeli leader’s bid. When journalist Mark Halperin posed the question, Vance laug",
-      "link": "https://www.washingtonexaminer.com/news/world/4771732/vance-netanyahu-reelection-endorsement-trump/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:31:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7c96d09237f2165d",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Vance declines to offer endorsement in Netanyahu election",
-      "snippet": "Vice President Vance said he was “not getting involved” on Monday when asked if he endorses Israeli Prime Minister Benjamin Netanyahu for reelection. “I’m not anti-endorsing him. I’m not pro-endorsing him,” he said during an interview on 2W",
-      "link": "https://thehill.com/homenews/administration/6159434-vance-declines-netanyahu-endorsement/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292705066178-e1792462968848.jpg?w=900",
-      "publishedAt": "2026-10-20T02:29:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_09f71402042b86ce",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Zelenskyy accuses US of delaying Patriot missile shipment",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
-      "link": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:15:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0dc49070d4dd8027",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says - Reuters",
-      "snippet": "US to launch $8 billion support program for farmers to offset diesel costs, Trump says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHZFT05lTUJLSWdVemJzcXoyNWNma0RISlVOQm5JWl9ESk1DOUdCYTRDVXotODNZOHMxTnM2WWNoeDdxOVZJVHJsY1JvTkNBem9Qck1LWGdSRlI2b0x3djVCN1dTaUZqUHl1UERKNUhDaTNSWWVDVXZPV2RQVVhHVEd1VWpRd245ZDRMWDVnSFFxbGpQQlE5M1BINXJ2ODZxWVV0UXkxRnZoSk1DcW0wSEtvaFpLdTJHMnFB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:13:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ad4b6b45f0d8187",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "JD Vance declines to endorse Netanyahu for reelection, says he’s focusing on midterms - AP News",
-      "snippet": "JD Vance declines to endorse Netanyahu for reelection, says he’s focusing on midterms  AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFdNcHI0RkZJamROTmJTaTJlZEVXMjRFLXFPTktwckhfaXp5SWx2X3ZUWlB6ZVo1WHVwT25acVpiRzRWcWlyQXhCdU9wM0o1RHhBZnpKUTBuZk9fcU82MlFZOXVWMS1DZUZQRXFxNFRwTkpmZTRpbTIzMFFvWXo0b3BVSGZSTDB4NFNGZHJpZEJJdkNEU1dxLV9SZzR1Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4e009b0bedf4e495",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump announces $8B relief program for farmers",
-      "snippet": "President Trump announced Monday that a new $8 billion program will help provide temporary relief to farmers during the harvest season. Trump announced the Harvest Fuel Relief Program during his rally in Kansas stumping for GOP Sen. Roger M",
-      "link": "https://thehill.com/homenews/administration/6159427-trump-announces-8-billion-harvest-relief/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293052993801-e1792462181789.jpg?w=900",
-      "publishedAt": "2026-10-20T02:10:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_29f9ee2b5b6bf32c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Shares slide again as oil stays high; AI earnings in focus - Reuters",
-      "snippet": "Shares slide again as oil stays high; AI earnings in focus  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:09:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_91040392046a5f14",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rogers warns Michigan voters against El-Sayed’s ‘extreme’ agenda ahead of election",
-      "snippet": "Mike Rogers warned Michigan voters against Abdul El-Sayed’s agenda while touting his campaign’s momentum during a town hall with Sean Hannity.",
-      "link": "https://www.foxnews.com/politics/rogers-warns-michigan-voters-against-el-sayeds-extreme-agenda-ahead-election",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:08:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
