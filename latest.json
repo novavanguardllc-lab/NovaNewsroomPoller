@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-20T10:35:05.118Z",
+  "updatedAt": "2026-10-20T10:40:07.038Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.281Z"
+      "lastSuccess": "2026-10-20T10:40:07.239Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.319Z"
+      "lastSuccess": "2026-10-20T10:40:07.283Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.617Z"
+      "lastSuccess": "2026-10-20T10:40:07.358Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.698Z"
+      "lastSuccess": "2026-10-20T10:40:07.439Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.422Z"
+      "lastSuccess": "2026-10-20T10:40:07.410Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.517Z"
+      "lastSuccess": "2026-10-20T10:40:07.342Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.442Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 434\nChar: d",
+      "lastErrorAt": "2026-10-20T10:40:07.441Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.524Z"
+      "lastSuccess": "2026-10-20T10:40:07.183Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.361Z"
+      "lastSuccess": "2026-10-20T10:40:07.118Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.563Z"
+      "lastSuccess": "2026-10-20T10:40:07.406Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.637Z"
+      "lastSuccess": "2026-10-20T10:40:07.382Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.498Z"
+      "lastSuccess": "2026-10-20T10:40:07.180Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.712Z"
+      "lastSuccess": "2026-10-20T10:40:07.449Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.806Z"
+      "lastSuccess": "2026-10-20T10:40:07.337Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.402Z"
+      "lastSuccess": "2026-10-20T10:40:07.225Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T10:35:05.808Z"
+      "lastErrorAt": "2026-10-20T10:40:07.412Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.758Z"
+      "lastSuccess": "2026-10-20T10:40:07.392Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.816Z"
+      "lastSuccess": "2026-10-20T10:40:07.462Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.720Z"
+      "lastSuccess": "2026-10-20T10:40:07.386Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.957Z"
+      "lastSuccess": "2026-10-20T10:40:07.602Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T10:35:05.816Z"
+      "lastErrorAt": "2026-10-20T10:40:07.457Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.875Z"
+      "lastSuccess": "2026-10-20T10:40:07.494Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:35:05.840Z"
+      "lastSuccess": "2026-10-20T10:40:07.517Z"
     }
   },
   "items": [
@@ -143,6 +144,19 @@
       "headline": "Pittsburgh’s Gecko Robotics expands its Navy contract to $300 million",
       "snippet": "PITTSBURGH — In March, Jake Loosararian stood in the middle of what was once a bustling Sears department store, now his company’s headquarters, and talked about what a $71 million Navy contract could mean for a robotics company that had cho",
       "link": "https://www.washingtonexaminer.com/opinion/columnists/4771402/gecko-robotics-expands-navy-contract-300-million/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ef93e82abe8814c5",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "What if an AI bubble bursts — and that accelerates AI job losses?",
+      "snippet": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
       "imageUrl": null,
       "publishedAt": "2026-10-20T10:30:00.000Z",
       "tier": "routine",
@@ -1606,6 +1620,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cae6a8321e72fd13",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Most Gulf bourses retreat after Houthis claim attacks on Saudi energy, airport sites - Reuters",
+      "snippet": "Most Gulf bourses retreat after Houthis claim attacks on Saudi energy, airport sites  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcXpWQlZUSjN2cnJReUppaUEyRldXVWpqOVNvVFpMZ0xMc09WanRpdEhEeE9iZmpMUnIyWmlGeVdNVTczOWIxYUd5VnZ2Mk80VGFheGlPVTdyM1NWS1pCdmhHekh1ZlhKbHdfNnRObnQyNVhycjFtdGQ5RmgydVhHRkthWDlBYWhkQnlsOUlsV0wzNzg2bGZqWGNVcURLMVBpNFZRaWZ6b2NBaGNCMGpuLWFndTRqd21mZzNUSVJ0Q3gzUFlnWGdLN0xQUUdOcHM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:16:09.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bc71e41948eb7520",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -1667,6 +1694,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T08:00:32.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ff7867eaeb9c08fe",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "AstraZeneca partners with Oracle for AI-driven clinical trials - Reuters",
+      "snippet": "AstraZeneca partners with Oracle for AI-driven clinical trials  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXlaZTY2Vmg3T3c4NVV4STEtUS05REdfNG5IU0tsczFpSHJpOHlWbExOU2dQQmxDSkdBOFh2aFVLMmdISEFjeVFYdXBOX0w0Z0ZRMVEyYTFkcC1ybTVUOVFwZElvT29kaS1DVlFBRVc4c21Yd0hFUEt5TlhpT1ZsTXA0OVpINmVsZ0lUZmt2bEw3ZnF0RFVYZUxKMExPNEJ3RDFodUhlXzROalNfOTAyRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T07:37:51.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllKV1hPNWE2Mmc5TFhzY0oxaUZzNW9Gd2haNjBIMUc3SWIwZWtMd3FMb21DajNOckgybzdfWC1tTEZxMkhjblY1TzUwdUpHcUNzc1dHX242RlRhWHNQRE1WQi1uRWVyWldfMUgta01uRnFFaWwtYlJBeVhobXpKdjRlMHBQOGZvOVJOa1RMSHEyc0E?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T03:44:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d918e51a2271703f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rays punch their ticket to the World Series, taking down Guardians in Game 6 to set up series with Brewers",
-      "snippet": "Junior Caminero's foul-pole home run sent Tropicana Field into rapture as the Tampa Bay Rays punched their World Series ticket against the Brewers.",
-      "link": "https://www.foxnews.com/outkick-sports/rays-punch-ticket-world-series-taking-down-guardians-game-6-set-up-series-brewers",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T03:42:09.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c4fb4fa9e969f7b4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1 - AP News",
-      "snippet": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU02U05GZzQ4MWE4OWFSRk1sa1VTSjYySE9Va003M1V2ak1CYThYSUxCelFlbGhVR3V3OTVnNGxBSjgzbS1aQ01NcWI4VUJHRmtBblFxVEwtbUgzN0tLdm1kazY3VjMyLW5nOUhVU1NsYXZaeWg2S3RUcHRHOEwyWlhPdDhnMk1jQ0pMX1dJZjZOQ2JVVmd6MXRlaVRnZmkxMFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T03:36:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_536ada2c03364241",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indonesia battles to stabilise market after MSCI expulsion threat - Reuters",
-      "snippet": "Indonesia battles to stabilise market after MSCI expulsion threat  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWs3WmMyWFdwWmZpeTY4RTJudHB3TEpoNWxCT2RuZENNdWhiZU5YVkxuel9zOFhXQ3VlQWswWEdfY3J0Q3RNeC0tMFBYaEgzN185eC1BS0YzS3RmbWg5Yk9LclY3YURMQ2VfdFg1ZFRRendBRi1QRk5BWFBHdl9Uc25HNHJjVTBraHJhRHlwLXdYVWg4VHpnck9RTkR6RFpHWUlPaXZjcFFlczRBNERiaUd3YmhOSGZiSjBfdkU0ZTBad2U0eEJ4cnRmTmtKNEFl?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T03:36:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
