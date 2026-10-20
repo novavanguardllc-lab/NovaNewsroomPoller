@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-20T02:40:07.514Z",
+  "updatedAt": "2026-10-20T02:45:07.913Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.692Z"
+      "lastSuccess": "2026-10-20T02:45:08.140Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.750Z"
+      "lastSuccess": "2026-10-20T02:45:08.092Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.636Z"
+      "lastSuccess": "2026-10-20T02:45:08.396Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.590Z"
+      "lastSuccess": "2026-10-20T02:45:07.976Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.713Z"
+      "lastSuccess": "2026-10-20T02:45:08.497Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.895Z"
+      "lastSuccess": "2026-10-20T02:45:08.269Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.953Z"
+      "lastSuccess": "2026-10-20T02:45:08.355Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.752Z"
+      "lastSuccess": "2026-10-20T02:45:08.111Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T02:40:07.979Z"
+      "lastErrorAt": "2026-10-20T02:45:08.273Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.990Z"
+      "lastSuccess": "2026-10-20T02:45:08.011Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.900Z"
+      "lastSuccess": "2026-10-20T02:45:08.370Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.756Z"
+      "lastSuccess": "2026-10-20T02:45:08.130Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.903Z"
+      "lastSuccess": "2026-10-20T02:45:08.275Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.860Z"
+      "lastSuccess": "2026-10-20T02:45:08.329Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.831Z"
+      "lastSuccess": "2026-10-20T02:45:08.253Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.877Z"
+      "lastSuccess": "2026-10-20T02:45:08.171Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:08.054Z"
+      "lastSuccess": "2026-10-20T02:45:08.418Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.836Z"
+      "lastSuccess": "2026-10-20T02:45:08.096Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.911Z"
+      "lastSuccess": "2026-10-20T02:45:08.336Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:07.979Z"
+      "lastSuccess": "2026-10-20T02:45:08.377Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T02:40:07.901Z"
+      "lastErrorAt": "2026-10-20T02:45:08.356Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:08.064Z"
+      "lastSuccess": "2026-10-20T02:45:08.449Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:40:08.096Z"
+      "lastSuccess": "2026-10-20T02:45:08.587Z"
     }
   },
   "items": [
+    {
+      "id": "story_13da5fb5a912fd10",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Triumphal Arch final plans submitted to National Capital Planning Commission",
+      "snippet": "The plans are scheduled to be reviewed at a Nov. 5 National Capital Planning Commission meeting.",
+      "link": "https://abcnews.com/Politics/triumphal-arch-final-plans-submitted-interior-department-national/story?id=137392598",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:38:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cde0370cbeeb442d",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Four dead as torrential rain batters eastern Spain",
+      "snippet": "Cars swept away, roads submerged and residents isolated in parts of Spain's Mediterranean coast.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:36:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_64b5741b073d6fdd",
       "source": "Wash Examiner",
@@ -109,6 +135,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_7c96d09237f2165d",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Vance declines to offer endorsement in Netanyahu election",
+      "snippet": "Vice President Vance said he was “not getting involved” on Monday when asked if he endorses Israeli Prime Minister Benjamin Netanyahu for reelection. “I’m not anti-endorsing him. I’m not pro-endorsing him,” he said during an interview on 2W",
+      "link": "https://thehill.com/homenews/administration/6159434-vance-declines-netanyahu-endorsement/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292705066178-e1792462968848.jpg?w=900",
+      "publishedAt": "2026-10-20T02:29:38.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_491199aafebe0537",
@@ -293,6 +332,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fbee92837d51b68f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump warns Kansans that US will 'burn' like France if Democrats win - Reuters",
+      "snippet": "Trump warns Kansans that US will 'burn' like France if Democrats win  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzBFWW9JSHRPSk43aERfeE1lM0xjYVotbmdUanRNRXd2NlNqVkpMbU82dWJTTEQ3RVlwV0wxWUhhRlJDaEo3SGdORF85QmNFWDA5amw5S3JnY2FVeWpxUzl1azQtLTlISXJTM1R3YUtyZ3NaMTVna1B5NlJBZVBrREowQkpKMUQ5MzBtemptel95RWlwcGs0ak1zamJIVTE5MDV5VC12by1va09DZ2ljUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T01:50:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f09e1ee30da21dd2",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -458,6 +510,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T01:05:31.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_81eaf78513b20589",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump says Mexico and US are close to trade deal - Reuters",
+      "snippet": "Trump says Mexico and US are close to trade deal  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX3Bkc0ZpcWlrNVo2Y0VQaUlDNFdrXzB5Vmg1OHBLZFd0UVd3dnJkV1QxY2FUWTYyMHlzUHc0NjVoR0U0dllIZGtTZGpoY05xcDlxdVU2cWxNVG92VTNablpxbE5ubUdUWFRidzN0V0c0ZFJGUlY3NnNvbk1LVE1idVFKUUNyS3RPRTQ1NWJmdGZmMUhxQm5j?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T01:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2347,6 +2412,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_844921c85e0beb42",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "New Zealand adds Brazil, Canada talks as India pact starts - Reuters",
+      "snippet": "New Zealand adds Brazil, Canada talks as India pact starts  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamdkREE0WjBWQVFRR3JoaExBa1YxTUduQVJmcFJEeDViajhDOUR3clZIYVp0bWppVURBYlhyVjlKTGhsWjBWQzZlZEQyU0J6cUZzVDVnSlhDREd3XzE0bEczU0tnVmlMVll1Q1dFMVJMMG5ocTZkSkRwTVdidldsaTdsalpVRkE2TzAtZzhON2k4ckdHNTJBYXhCelF2aXhwVDZWSzBrdDg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T21:44:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3eb6524012136149",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2615,84 +2693,6 @@
       "link": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
       "imageUrl": null,
       "publishedAt": "2026-10-19T21:30:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e89cb32fcd9f9fbe",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump gives contentious New York pipeline a Defense Production Act boost",
-      "snippet": "The Trump administration is giving a defense-related boost to a contentious pipeline in the Northeast U.S. The Energy Department said Monday that it would give up to $42 million from the Defense Production Act for the Constitution Pipeline ",
-      "link": "https://thehill.com/policy/energy-environment/6159109-trump-boosts-constitution-pipeline/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26291004637034-e1792366785162.jpg?w=900",
-      "publishedAt": "2026-10-19T21:29:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7e6fac4d90b3e538",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Could your halal pension be funding Israel’s military?",
-      "snippet": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T21:28:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a135da75f5b4cd40",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "France tells online marketplaces to crack down on resale of looted items",
-      "snippet": "As thousands of shop owners are reeling from the weekend violence and looting, listings of apparently stolen items have been popping up online.  The government asked major second-hand marketplaces such as Vinted, eBay and Amazon to crack do",
-      "link": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items",
-      "imageUrl": "https://s.france24.com/media/display/f2ac1af2-cc02-11f1-a7cb-6313a763b466/w:1024/p:16x9/capture-88daf37e.jpg",
-      "publishedAt": "2026-10-19T21:24:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_20522f16e9c5fcee",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Mississippi AG says police shooting that killed 1-year-old was ‘justified’",
-      "snippet": "Kohen Wiley was killed in June when officers fired at a car at a Walmart parking lot. A friend of Wiley’s mother, who was driving the car, was injured.",
-      "link": "https://www.nbcnews.com/news/us-news/mississippi-ag-says-police-shooting-killed-1-year-old-was-justified-rcna604424",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T21:15:25.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7604d8c4829b49fb",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "snippet": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T21:14:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5942ba4e1e4615aa",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump warns Paris will become ‘Muslim city’ unless France closes borders",
-      "snippet": "President Donald Trump said Paris will become a “Muslim city” soon if France doesn’t close its borders to immigrants. His comments come as hundreds of thousands of anti-government protesters continue rioting in the Parisian streets. Trump s",
-      "link": "https://www.washingtonexaminer.com/news/world/4771323/trump-paris-muslim-city-france-borders-protests-macron/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T21:14:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
