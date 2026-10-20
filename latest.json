@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T00:20:07.938Z",
+  "updatedAt": "2026-10-20T00:25:05.246Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.428Z"
+      "lastSuccess": "2026-10-20T00:25:05.441Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.247Z"
+      "lastSuccess": "2026-10-20T00:25:05.369Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.893Z"
+      "lastSuccess": "2026-10-20T00:25:05.722Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.118Z"
+      "lastSuccess": "2026-10-20T00:25:05.471Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.692Z"
+      "lastSuccess": "2026-10-20T00:25:05.524Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.125Z"
+      "lastSuccess": "2026-10-20T00:25:05.602Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.446Z"
+      "lastSuccess": "2026-10-20T00:25:05.702Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.178Z"
+      "lastSuccess": "2026-10-20T00:25:05.494Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T00:20:08.170Z"
+      "lastErrorAt": "2026-10-20T00:25:05.623Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.462Z"
+      "lastSuccess": "2026-10-20T00:25:05.483Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.169Z"
+      "lastSuccess": "2026-10-20T00:25:05.488Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.186Z"
+      "lastSuccess": "2026-10-20T00:25:05.492Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.506Z"
+      "lastSuccess": "2026-10-20T00:25:05.617Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.487Z"
+      "lastSuccess": "2026-10-20T00:25:05.581Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.364Z"
+      "lastSuccess": "2026-10-20T00:25:05.690Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.406Z"
+      "lastSuccess": "2026-10-20T00:25:05.561Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.666Z"
+      "lastSuccess": "2026-10-20T00:25:05.794Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.204Z"
+      "lastSuccess": "2026-10-20T00:25:05.505Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.681Z"
+      "lastSuccess": "2026-10-20T00:25:05.653Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.503Z"
+      "lastSuccess": "2026-10-20T00:25:05.634Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T00:20:08.693Z"
+      "lastErrorAt": "2026-10-20T00:25:05.623Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.724Z"
+      "lastSuccess": "2026-10-20T00:25:05.647Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:20:08.810Z"
+      "lastSuccess": "2026-10-20T00:25:05.826Z"
     }
   },
   "items": [
+    {
+      "id": "story_1202e11d02307e2e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Starshield vs. Starlink: How Ukraine's military use both",
+      "snippet": "Starshield has become essential for Ukrainian military operations. Jericka Duncan explains what it is and how it's related to Starlink.",
+      "link": "https://www.cbsnews.com/video/starshield-vs-starlink-how-ukraines-military-use-both/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T00:15:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_230f0fa19f1707da",
       "source": "Wash Examiner",
@@ -106,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4771610/judge-reyes-untenable-order-trump-doj-dc-golf-course/",
       "imageUrl": null,
       "publishedAt": "2026-10-20T00:14:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f75f05d3ff8a2ba2",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Judge leans toward extending halt on tree clearing at golf course where Trump says redesign should start ‘immediately’",
+      "snippet": "The judge said the administration’s argument that the downing of hundreds of trees at the golf course was unrelated to Trump’s renovation plan wasn’t credible.",
+      "link": "https://www.nbcnews.com/politics/trump-administration/judge-tree-clearing-dc-golf-course-trump-renovation-east-potomac-park-rcna604351",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T00:12:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1357,6 +1383,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_4a7d354ba3e5b316",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Veradermics' oral hair-loss drug shown to boost hair growth in late-stage study - Reuters",
+      "snippet": "Veradermics' oral hair-loss drug shown to boost hair growth in late-stage study  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUG9Sd25BdEpKc2wxMmRZYlEwSmlsd3QxRk51bEtZakZya2JITDlKWXIyb3RvR054YUxjSWRiMmJ6TnRnSk50dGFzQmZlUm90TzFHMTlPZjZYbnFERjZzXzM3ZE5hRFpmX1hEbDM0M1ltbXdKV2lGMnI4RjJ2NVg0MjdfaEQ4b01LOFlEcDhZV1pLTGU1eTdmNEZiejhpd0FHT2p5RGpxTkdEWmN2NnFhTjNWUkRtcG9MMFhaQjBxWkZQUDZjR1Y0UVhLdjFtaENiYU1TZlpqTzRTV05H?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T22:04:09.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_bcf41b5cded56c47",
@@ -2654,45 +2693,6 @@
       "link": "https://thehill.com/homenews/campaign/6158897-texas-voters-iran-war-oil/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26068784642157-e1773145661230.jpg?w=900",
       "publishedAt": "2026-10-19T20:11:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_55430d2d6ca2e31e",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Man charged in threat to ‘shoot Trump’ ahead of Kansas rally",
-      "snippet": "A Kansas man has been charged with threatening to kill President Donald Trump after allegedly posting online comments about shooting the president and claiming to have mapped out nearby rooftops ahead of Trump’s Monday visit to Wichita. Jad",
-      "link": "https://www.washingtonexaminer.com/news/crime/4771289/man-charged-threat-shoot-trump-kansas-rally/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T20:10:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3bbca28123d9d25b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump says Zelenskiy should get somebody else to negotiate to end war - Reuters",
-      "snippet": "Trump says Zelenskiy should get somebody else to negotiate to end war  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkJfbTJUSTNGdHptbTBieXhMaFBhamZFaTJFb2JXVllDUnFyX3U2OG1hbWFTQ0ZlbzVfS2U0bmtOTmk3dWExc3hnc0JxQ1o3V2FkODNjWkRzNDVPOEF3YjQ4YWtWMW9mMXJ6ZGJxS3pUNkxzNVZOTDRXTU05Y0xlOHF0X0xtU2ZBeWJkaTBTNjNnWnU0YWVKbXAzaVVoYjBzRmc4MXNiUkM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T20:07:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_144f848db77dd5ad",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump says he would be open to trilateral meeting with Putin, Xi",
-      "snippet": "President Trump said on Monday that he has not yet agreed to a trilateral meeting with Russian President Vladimir Putin and Chinese President Xi Jinping, but said he is open to it. “I would do it,” Trump told reporters on the White House So",
-      "link": "https://thehill.com/homenews/administration/6158904-trump-open-putin-xi-summit/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trumpdonald_101926_AP-e1792440216399.jpg?w=900",
-      "publishedAt": "2026-10-19T20:07:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
