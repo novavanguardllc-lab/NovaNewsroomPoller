@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T00:25:05.246Z",
+  "updatedAt": "2026-10-20T00:30:10.227Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.441Z"
+      "lastSuccess": "2026-10-20T00:30:10.393Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.369Z"
+      "lastSuccess": "2026-10-20T00:30:10.357Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.722Z"
+      "lastSuccess": "2026-10-20T00:30:10.445Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.471Z"
+      "lastSuccess": "2026-10-20T00:30:10.408Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.524Z"
+      "lastSuccess": "2026-10-20T00:30:10.468Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.602Z"
+      "lastSuccess": "2026-10-20T00:30:10.291Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.702Z"
+      "lastSuccess": "2026-10-20T00:30:10.549Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.494Z"
+      "lastSuccess": "2026-10-20T00:30:10.608Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T00:25:05.623Z"
+      "lastErrorAt": "2026-10-20T00:30:10.645Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.483Z"
+      "lastSuccess": "2026-10-20T00:30:10.673Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.488Z"
+      "lastSuccess": "2026-10-20T00:30:10.397Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.492Z"
+      "lastSuccess": "2026-10-20T00:30:10.487Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.617Z"
+      "lastSuccess": "2026-10-20T00:30:10.618Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.581Z"
+      "lastSuccess": "2026-10-20T00:30:10.568Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.690Z"
+      "lastSuccess": "2026-10-20T00:30:10.601Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.561Z"
+      "lastSuccess": "2026-10-20T00:30:10.578Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.794Z"
+      "lastSuccess": "2026-10-20T00:30:10.825Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.505Z"
+      "lastSuccess": "2026-10-20T00:30:10.493Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.653Z"
+      "lastSuccess": "2026-10-20T00:30:10.632Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.634Z"
+      "lastSuccess": "2026-10-20T00:30:10.650Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T00:25:05.623Z"
+      "lastErrorAt": "2026-10-20T00:30:10.650Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.647Z"
+      "lastSuccess": "2026-10-20T00:30:10.693Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:25:05.826Z"
+      "lastSuccess": "2026-10-20T00:30:10.838Z"
     }
   },
   "items": [
+    {
+      "id": "story_c7dc1e0d278a5ebe",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "One of Major League Baseball's owners just destroyed the league's entire argument for a lockout",
+      "snippet": "David Rubenstein admitted baseball teams make more money than private equity, significantly undermining MLB owners' World Series salary cap push.",
+      "link": "https://www.foxnews.com/outkick-sports/major-league-baseball-owner-destroyed-league-argument-lockout",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T00:18:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_1202e11d02307e2e",
       "source": "CBS News",
@@ -1352,6 +1365,19 @@
       "headline": "On 'Settle In,' Kathryn Jezer-Morton and Geoff Bennett discuss social media's impact",
       "snippet": "Social media lets us share our lives with family, friends, and strangers. But how do people decide what to post, what to leave out, and what do those decisions say about them? On \"Settle In,\" Geoff Bennett discusses that with Kathryn Jezer-",
       "link": "https://www.pbs.org/newshour/show/__trashed-4",
+      "imageUrl": null,
+      "publishedAt": "2026-10-19T22:15:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_84fb732145e92aef",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "On 'Settle In,' Kathryn Jezer-Morton and Geoff Bennett discuss social media's impact",
+      "snippet": "Social media lets us share our lives with family, friends, and strangers. But how do people decide what to post, what to leave out, and what do those decisions say about them? On \"Settle In,\" Geoff Bennett discusses that with Kathryn Jezer-",
+      "link": "https://www.pbs.org/newshour/show/on-settle-in-kathryn-jezer-morton-and-geoff-bennett-discuss-social-media-s-impact",
       "imageUrl": null,
       "publishedAt": "2026-10-19T22:15:00.000Z",
       "tier": "routine",
@@ -2667,32 +2693,6 @@
       "link": "https://www.semafor.com/article/10/19/2026/us-sanction-waivers-are-russian-economic-boon",
       "imageUrl": "https://img.semafor.com/30126fa78c1f00921bf395b774f00a90995e8c53-5500x3744.jpg",
       "publishedAt": "2026-10-19T20:12:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2d4cb4409c0a03e3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Should you trust personal AI agents? What security experts say.",
-      "snippet": "The more access you give personal AI agents, the more capable they can be. But should you trust them?",
-      "link": "https://www.cbsnews.com/news/personal-ai-agents-trust-security-risks/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T20:11:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a859d5c3a66028fa",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "91 percent in Texas poll say Iran war raising oil and gas prices",
-      "snippet": "Over 90 percent of Texas voters believe the Iran war is raising oil and gas prices, according to a new poll. In the CBS News/YouGov poll, 91 percent said the war against Iran is causing oil and gas prices in the U.S. to be “a lot higher” or",
-      "link": "https://thehill.com/homenews/campaign/6158897-texas-voters-iran-war-oil/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/AP26068784642157-e1773145661230.jpg?w=900",
-      "publishedAt": "2026-10-19T20:11:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
