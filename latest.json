@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T09:55:05.412Z",
+  "updatedAt": "2026-10-20T10:00:11.691Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.596Z"
+      "lastSuccess": "2026-10-20T10:00:11.869Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.691Z"
+      "lastSuccess": "2026-10-20T10:00:12.014Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:06.387Z"
+      "lastSuccess": "2026-10-20T10:00:11.892Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.539Z"
+      "lastSuccess": "2026-10-20T10:00:11.918Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:06.011Z"
+      "lastSuccess": "2026-10-20T10:00:11.972Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.612Z"
+      "lastSuccess": "2026-10-20T10:00:12.016Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.632Z"
+      "lastSuccess": "2026-10-20T10:00:11.953Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.652Z"
+      "lastSuccess": "2026-10-20T10:00:11.912Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T09:55:05.857Z"
+      "lastErrorAt": "2026-10-20T10:00:12.162Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.636Z"
+      "lastSuccess": "2026-10-20T10:00:12.039Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.524Z"
+      "lastSuccess": "2026-10-20T10:00:11.812Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.654Z"
+      "lastSuccess": "2026-10-20T10:00:11.929Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.713Z"
+      "lastSuccess": "2026-10-20T10:00:12.158Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.672Z"
+      "lastSuccess": "2026-10-20T10:00:12.036Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.740Z"
+      "lastSuccess": "2026-10-20T10:00:12.131Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.698Z"
+      "lastSuccess": "2026-10-20T10:00:12.071Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.855Z"
+      "lastSuccess": "2026-10-20T10:00:12.373Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.556Z"
+      "lastSuccess": "2026-10-20T10:00:11.932Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.775Z"
+      "lastSuccess": "2026-10-20T10:00:12.150Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.743Z"
+      "lastSuccess": "2026-10-20T10:00:12.160Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T09:55:05.757Z"
+      "lastErrorAt": "2026-10-20T10:00:13.012Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.904Z"
+      "lastSuccess": "2026-10-20T10:00:12.212Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:55:05.875Z"
+      "lastSuccess": "2026-10-20T10:00:12.306Z"
     }
   },
   "items": [
+    {
+      "id": "story_1a4f5dab8b57df51",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
+      "snippet": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the unrest face expedited trials.",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:52:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_577d2484b6de7972",
       "source": "France24",
@@ -241,6 +254,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7858818df6db8491",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Google Cloud services experience outage in Europe - Reuters",
+      "snippet": "Google Cloud services experience outage in Europe  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0VTdUFWc1FhZzJaWWZDMkN3dkl0RzdnMU84OHNOS1g0eDdGZ0RNWDVJcVd1MXZzMHU2Unp0QXBXN0tvc3ZZcW1iRlg1Y1h4TFl3Yi1oM2pWRW5KLUNTT0M1NU1YMGdrUjY2MkZTNW82U2FOX0VYRkRVaTlmckJ0ZElGcjJYNzlhSnVCQzA3X0tiVTZ2Z092U2haTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:13:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_eb8c4022e3381e09",
       "source": "Sky News",
       "sourceColor": "#8A3E5C",
@@ -345,6 +371,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ec67d89b8b3ed971",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Republican National Committee Moves $50 Million to Help Midterm Candidates in Huge Cash Transfer",
+      "snippet": "The party apparatus is taking advantage of its enormous war chest, as well as a Supreme Court campaign-finance ruling this year, to send tens of millions into congressional races.",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/republicans-midterm-election-cash-transfer.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:02:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5ec10cbe8ee065a5",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -353,6 +392,71 @@
       "link": "https://www.nytimes.com/2026/10/20/opinion/cornell-chi-phi-group-chat-bro-code.html",
       "imageUrl": null,
       "publishedAt": "2026-10-20T09:02:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f836e3e238b95ffd",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
+      "snippet": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps.",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:01:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_35844c0074212ce3",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "France Protests Show Europe’s Shift Away From Centrist Politics",
+      "snippet": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
+      "link": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:01:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_da47f3ae60ca60f3",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+      "snippet": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+      "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:01:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f79a2db70b907ce3",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "How Do Airports Prepare for a Plane Crash? Go Inside JFK’s Disaster Drill.",
+      "snippet": "U.S. airports are required to hold a full-scale disaster drill every three years. Go inside a simulated plane crash at Kennedy Airport last weekend.",
+      "link": "https://www.nytimes.com/2026/10/20/travel/jfk-airport-drill-plane-crash.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:01:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7201ce7d4ecc92d9",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A.I. Fortunes Could Bring Critical Funds to Global Health. The Scramble Is On.",
+      "snippet": "Expected windfalls from I.P.O.s are drawing health leaders into a race for billions in new philanthropic dollars. A fragile aid system may be upended.",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/ai-fortunes-could-bring-critical-funds-to-global-health-the-scramble-is-on.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:01:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -397,6 +501,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c77572cb3ed2572b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What Could Swing Israel’s Election? Thousands Living in the U.S.",
+      "snippet": "Thousands of Israelis living in the United States are expected to fly to Israel to vote in the country’s national election this month.",
+      "link": "https://www.nytimes.com/2026/10/20/us/israel-election-netanyahu-voters.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:00:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_cfe19c9a3b85683b",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -423,6 +540,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d6d31210d621d055",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Last Photos of Gloria Steinem",
+      "snippet": "Before her death, the pioneering feminist posed for a fashion shoot. Now those pictures are part of her legacy.",
+      "link": "https://www.nytimes.com/2026/10/20/style/the-last-photos-of-gloria-steinem.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:00:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b5590346ec5f1c28",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -431,6 +561,19 @@
       "link": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
       "imageUrl": null,
       "publishedAt": "2026-10-20T09:00:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4ead1477431c6eb5",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "‘Covering AIDS and Living It’: When a Reporter Is Part of the Story",
+      "snippet": "Jeffrey Schmalz wrote unsparingly about why the political and medical cavalry would not arrive in time for him.",
+      "link": "https://www.nytimes.com/2026/10/20/health/aids-hiv-jeffrey-schmalz-new-york-times-history.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:00:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -457,6 +600,19 @@
       "link": "https://www.cbsnews.com/news/democrats-standards-medicaid-systems/",
       "imageUrl": null,
       "publishedAt": "2026-10-20T09:00:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dc1ad3e071f4ffe0",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
+      "snippet": "From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous.",
+      "link": "https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:00:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -667,6 +823,19 @@
       "publishedAt": "2026-10-20T08:24:43.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e1db769b414cc8bb",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  Study shows Gulf oil spill's lasting damage",
+      "snippet": "More than 16 years after the BP oil spill off the Gulf Coast, new research reveals lasting damage to marine life.",
+      "link": "https://abcnews.com/video/137404541/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:24:39.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2524,175 +2693,6 @@
       "link": "https://www.foxnews.com/food-drink/mcdonalds-ransacked-wrecked-stores-restaurants-suffer-from-violence-rioting",
       "imageUrl": null,
       "publishedAt": "2026-10-20T01:39:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_23ae52ca90c79816",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Beau Lamarre-Condon had surgery after alleged double murder but before disposing of bodies, court told",
-      "snippet": "Police officer had operation at St Vincent’s hospital two days after Jesse Baird and Luke Davies were shot dead in Paddington terrace in early 2024\n\nGet our breaking news email, free app or daily news podcast\n\nBeau Lamarre-Condon’s alleged ",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/beau-lamarre-condon-surgery-hospital-after-alleged-double-murder-prior-disposing-bodies-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:38:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e1a59b7b77f699e8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff - Reuters",
-      "snippet": "GCash owner Mynt edges higher in record Philippine IPO amid Asian selloff  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdmFOcnFpcDFRNGFKUFNtcFVPY2hINkdvd2cteTh6QnhKaDA2TktIcmlyV3NueEc4Qm5YWXZOcTB4U2YwTEM5WVViOF9IUkFiVHRtS0pPYkdQR2FyOWd6ak5zcmdLTEdhLS1CNXlrV05sQ2hjRllFd2lLaVhjZ0dwdXRjRkczMGlSb1hMTHBtVnlFOEhUVnQ1RmhHZ3lXLXd6dlhiMjRxNFYxbktydWotYzFn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:37:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8282999d3815a3b9",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Nearly $1M in sports, Pokémon cards stolen from FedEx truck in California",
-      "snippet": "Thieves made off with nearly $1 million in sports, Pokémon and other trading cards swiped from a FedEx truck in Southern California last week, police said Monday.",
-      "link": "https://www.nbcnews.com/news/us-news/sports-pokemon-cards-stolen-fedex-truck-california-rcna604482",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:36:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7d985bf4c6621c86",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "EU unveils strategy to bolster Arctic presence amid pressure from Russia and the US",
-      "snippet": "The European Union unveils its new \"strategy for the Arctic\" on Tuesday, aiming to step up its presence in the far north as melting ice opens new maritime routes and tensions with Russia and the United States increasingly put the region in ",
-      "link": "https://www.france24.com/en/europe/20261020-eu-unveils-strategy-to-bolster-arctic-presence-amid-pressure-from-russia-and-the-us",
-      "imageUrl": "https://s.france24.com/media/display/84c1b744-cc26-11f1-b4f7-2d1c143cdef3/w:1024/p:16x9/9d61d00159832049328fe4c415db3ad2e341d18c.jpg",
-      "publishedAt": "2026-10-20T01:35:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_86c6c9f5f46e4c24",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Gold slips as investors weigh Fed rate outlook - Reuters",
-      "snippet": "Gold slips as investors weigh Fed rate outlook  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJCYm9CRFhWY01aUkRqYnVXb0RzRC1RUnhfOEFicHItalFBMnRMc0ZjcWRVcGNnZVg3ZXQ3WXNXeUZLN183enN0NFAtdmxuUHJhRU5jOHlQbTg1TldhNVdtbF9IWU1GZ1BfOEZvTnJpUEhGTE5xUkRSbl9FZVR4NlFJMEE2V1VYZ1hVRzk3SmpJMi1qelE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:33:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_edea39872bfb4ae3",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China leaves loan rates steady for 17th consecutive month - Reuters",
-      "snippet": "China leaves loan rates steady for 17th consecutive month  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVB0amh2R1lRc3VyUHZUMS1fcHZQeklxdjVOekRHRy0tUTBEa1U2aFlWRXdiNk0xamxUc1hrU0hmbEZBRVptMEIxRS11N1lvZk05Nkh1MDF1bUtONzlIZkFRSlpWcTNaRGxPcVZka2FrbXBSVEU0VUs5eC1qSVp4TnRianA1QWNwbWFzck1aWGFZeW5kcElaWElFTl94X2gwUV80bmpzSkI2UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ab15ae285a807305",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Elissa Slotkin calls backlash to threat of prosecution comments 'manufactured outrage'",
-      "snippet": "Sen. Elissa Slotkin, D-Mich., dismissed criticism on CNN as \"manufactured outrage\" after her viral remarks about prosecuting Trump administration enablers.",
-      "link": "https://www.foxnews.com/media/elissa-slotkin-calls-backlash-threat-prosecution-comments-manufactured-outrage",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:30:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_42f8464b5a2dd4f1",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Japan launches mission to explore Mars' moons and bring back samples",
-      "snippet": "Japan launched a spacecraft on Tuesday on a five-year mission to explore Mars' mysterious moons, Phobos and Deimos, and bring back samples for the first time. The $578 million project aims to deliver dust, soil and rocks to Earth in 2031, p",
-      "link": "https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples",
-      "imageUrl": "https://s.france24.com/media/display/af16faf0-cb94-11f1-9e48-2d1c143cdef3/w:1024/p:16x9/1329e57e1d2112e42b31f522a1d6229f84f9f886.jpg",
-      "publishedAt": "2026-10-20T01:29:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0986ef146bc684d7",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Greg Abbott, seeking historic fourth term, stares down most competitive race yet: ‘It’s like playing an away game’",
-      "snippet": "Gov. Greg Abbott (R-TX) is facing his most competitive reelection battle yet, with a tough political environment for Republicans as his Democratic challenger, Gina Hinojosa, creeps up in the polls. Abbott, who is seeking a fourth term, face",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4771718/greg-abbott-reelection-texas-governor-fourth-term-away-game/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:24:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_24bc4feb6f5d08de",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Dollar and euro drift, yen slips as markets seek direction - Reuters",
-      "snippet": "Dollar and euro drift, yen slips as markets seek direction  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazFGS3ZwNDhmME9ZUDdoZVQzMkV3UEJQUEJsTE1LdnFTcjNXRzI2emE2Z3VvZE1YNGRpam95VTF3UGgyTVFjRExnWkJ1TGxpenBQUHFhbmU1MUpEYVhDcURRS05xQ1BycHRUT3F3bExRQjZfaUFVeGlKcHpmaGFEMkVwQ0RxSk5iLU4zaDVaVDJzQzEyQ0R4OVFZeHZuVXJKZ3pESWtudFQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:14:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d2279089ca82a60",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Brendan Nugent named as driver apprehended over alleged attack on Helen Haines",
-      "snippet": "Police allege 43-year-old Tarrawingee man who drove Toyota LandCruiser was arrested at the scene in Wangaratta\nHelen Haines’ alleged attacker has been named as 43-year-old Brendan Nugent, Guardian Australia has confirmed.\nNugent is a long-t",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:12:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_96ddc054e902e894",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " US citizen injured during ICE detainment in California, officials say",
-      "snippet": "California Democratic Rep. Robert Garcia, whose district includes Long Beach, called the incident \"incredibly disturbing\" and said the man is a U.S. citizen.",
-      "link": "https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:11:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d8fb3957fcb6f1b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "DHS extends deportation reprieve for over 100,000 Ukrainians and Sudanese",
-      "snippet": "The Department of Homeland Security has extended the temporary protected status designation for over 100,000 nationals from Ukraine and Sudan. The move marks a reversal of the temporary protection’s expiration on Monday, letting roughly 101",
-      "link": "https://www.washingtonexaminer.com/policy/immigration/4771620/dhs-deportation-reprieve-ukraine-sudan/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:09:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
