@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T21:55:04.799Z",
+  "updatedAt": "2026-10-20T22:00:12.454Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:04.912Z"
+      "lastSuccess": "2026-10-20T22:00:12.903Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.338Z"
+      "lastSuccess": "2026-10-20T22:00:12.878Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.283Z"
+      "lastSuccess": "2026-10-20T22:00:13.453Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:04.876Z"
+      "lastSuccess": "2026-10-20T22:00:12.716Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:04.958Z"
+      "lastSuccess": "2026-10-20T22:00:12.819Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:04.978Z"
+      "lastSuccess": "2026-10-20T22:00:12.703Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.018Z"
+      "lastSuccess": "2026-10-20T22:00:12.838Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.062Z"
+      "lastSuccess": "2026-10-20T22:00:12.855Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T21:55:05.063Z"
+      "lastErrorAt": "2026-10-20T22:00:13.096Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.013Z"
+      "lastSuccess": "2026-10-20T22:00:12.840Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.054Z"
+      "lastSuccess": "2026-10-20T22:00:13.120Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.035Z"
+      "lastSuccess": "2026-10-20T22:00:12.882Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.041Z"
+      "lastSuccess": "2026-10-20T22:00:12.935Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:04.972Z"
+      "lastSuccess": "2026-10-20T22:00:12.694Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.129Z"
+      "lastSuccess": "2026-10-20T22:00:13.275Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.122Z"
+      "lastSuccess": "2026-10-20T22:00:12.994Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.000Z"
+      "lastSuccess": "2026-10-20T22:00:13.220Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.114Z"
+      "lastSuccess": "2026-10-20T22:00:13.077Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.147Z"
+      "lastSuccess": "2026-10-20T22:00:13.253Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.238Z"
+      "lastSuccess": "2026-10-20T22:00:13.461Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.217Z"
+      "lastSuccess": "2026-10-20T22:00:13.418Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T21:55:05.165Z"
+      "lastErrorAt": "2026-10-20T22:00:13.454Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T21:55:05.256Z"
+      "lastSuccess": "2026-10-20T22:00:13.545Z"
     }
   },
   "items": [
+    {
+      "id": "story_09eb9ad6985b8770",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "FAA approves Boeing's 737 Max 10 for passenger service",
+      "snippet": "The new model is designed to carry more people while using less fuel, appealing to airlines facing high jet fuel costs.",
+      "link": "https://www.pbs.org/newshour/nation/faa-approves-boeings-737-max-10-for-passenger-service",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T21:56:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f84aa1c5fb953bb5",
       "source": "The Hill",
@@ -2680,19 +2693,6 @@
       "link": "https://www.cbsnews.com/news/booker-van-hollen-khanna-democrats-2028-hopefuls-summit-midterms/",
       "imageUrl": null,
       "publishedAt": "2026-10-20T18:09:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_17b2789a7fac96e2",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Sudan drone strike kills around 150 in Abyei market",
-      "snippet": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
-      "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T18:09:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
