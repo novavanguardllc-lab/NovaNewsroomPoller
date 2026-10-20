@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-20T18:45:07.432Z",
+  "updatedAt": "2026-10-20T18:50:07.725Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.516Z"
+      "lastSuccess": "2026-10-20T18:50:08.126Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.931Z"
+      "lastSuccess": "2026-10-20T18:50:08.405Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:08.021Z"
+      "lastSuccess": "2026-10-20T18:50:08.511Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.555Z"
+      "lastSuccess": "2026-10-20T18:50:08.008Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.617Z"
+      "lastSuccess": "2026-10-20T18:50:08.082Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.537Z"
+      "lastSuccess": "2026-10-20T18:50:08.002Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.695Z"
+      "lastSuccess": "2026-10-20T18:50:08.387Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.685Z"
+      "lastSuccess": "2026-10-20T18:50:08.207Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T18:45:07.681Z"
+      "lastErrorAt": "2026-10-20T18:50:08.209Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.687Z"
+      "lastSuccess": "2026-10-20T18:50:08.183Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.692Z"
+      "lastSuccess": "2026-10-20T18:50:08.425Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.703Z"
+      "lastSuccess": "2026-10-20T18:50:08.202Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.595Z"
+      "lastSuccess": "2026-10-20T18:50:08.362Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.599Z"
+      "lastSuccess": "2026-10-20T18:50:07.963Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:12.476Z"
+      "lastSuccess": "2026-10-20T18:50:08.449Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.639Z"
+      "lastSuccess": "2026-10-20T18:50:08.306Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.679Z"
+      "lastSuccess": "2026-10-20T18:50:08.381Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.816Z"
+      "lastSuccess": "2026-10-20T18:50:08.347Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.719Z"
+      "lastSuccess": "2026-10-20T18:50:08.528Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.764Z"
+      "lastSuccess": "2026-10-20T18:50:08.669Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:07.801Z"
+      "lastSuccess": "2026-10-20T18:50:08.662Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T18:45:07.723Z"
+      "lastErrorAt": "2026-10-20T18:50:08.542Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:45:09.725Z"
+      "lastSuccess": "2026-10-20T18:50:10.133Z"
     }
   },
   "items": [
+    {
+      "id": "story_1e9ec66d56424583",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Cornell responds to Jane Doe letter saying she felt disbelieved",
+      "snippet": "Cornell has denied claims made in a letter by its former student, known as Jane Doe, saying she felt disbelieved and unsupported by the school's president.",
+      "link": "https://www.cbsnews.com/news/cornell-jane-doe-letter-university-president/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T18:48:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_42eab503595e0e75",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Could France's riots happen here? Experts see parallels in socialism, immigration — and key differences",
+      "snippet": "France riots prompt warnings about Zohran Mamdani, Abdul El-Sayed and Alexandria Ocasio-Cortez's immigration stances ahead of 2026 midterms.",
+      "link": "https://www.foxnews.com/politics/could-frances-riots-happen-here-experts-see-parallels-socialism-immigration-key-differences",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T18:45:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5f74cd24a652a615",
       "source": "Wash Examiner",
@@ -106,6 +132,32 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4772748/trump-on-campaign-trail-is-a-double-edged-sword-for-republicans-joe-concha/",
       "imageUrl": null,
       "publishedAt": "2026-10-20T18:44:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5bead59d50a8833e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Cook Political Report shifts two Senate races toward Democrats, one toward GOP",
+      "snippet": "The Cook Political Report, a nonpartisan election handicapper, on Tuesday moved Minnesota’s Senate race from likely to lean Democrat, while also moving South Carolina’s Senate seat from likely Republican to lean Republican. The moves give e",
+      "link": "https://thehill.com/homenews/campaign/6160752-cook-political-report-moves-races/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Flanagan_Tafoya_Photo_Split.png?w=900",
+      "publishedAt": "2026-10-20T18:44:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0ea98b11cab1b7a8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "France is learning the hard way what happens when the socialist bill comes due",
+      "snippet": "Paris is burning as rioters torch Limoges town hall and break into Marseille city hall while Emmanuel Macron remains notably absent amid the chaos.",
+      "link": "https://www.foxnews.com/opinion/france-learning-hard-way-what-happens-when-socialist-bill-comes-due",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T18:44:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -524,6 +576,19 @@
       "publishedAt": "2026-10-20T17:56:09.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_093a7cf4aa65677f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Albania formalises corruption charges against ex-deputy PM Balluku - Reuters",
+      "snippet": "Albania formalises corruption charges against ex-deputy PM Balluku  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXBhb0Fha3BUOEtYSkRsNEM4eFBrTmZjYzN5NzJlNmh4cmNUT3pPeFpQVmN0R2k3ZWRSZFZCMjdkbll4Wm9KY2s5Rjdzd1o0RVBsS3F4ZzBLQ3FtUGdOb0FIcVpKNDRhSG1BQ25aWkwzeXMwS1pwSUZhd3VVMFljT29nc0cwYXBnVmIxdU9sM3lZZkZickxhYk5wR0t4eF9sZ2lidWVEdXJNMFJk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T17:55:55.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2628,71 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-20T15:57:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6de30f9ea03e4d84",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "UK expands military support for Saudi Arabia against Houthis with ‘defensive’ air patrols - AP News",
-      "snippet": "UK expands military support for Saudi Arabia against Houthis with ‘defensive’ air patrols  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpJQjVaX2pPYVMybXM3OEQ4ZzRzNEdpc2FVMldTRTVWaVFNQXZQVkZrRmdLNVpKc1RVeS1sbGIzSDJlNE12QkRMR2UxcC1PZWIwcnJXY0Z4T0hEQkxmWnBrNHpkSFZxaWgzZU5pRGM1cGJVUWRISHFraGJaUFFzRnlHYko4UlJpMmFvMVZLc1lFdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_53c0ba860a154215",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "‘The Simpsons’ resurrects Apu after nearly a decade of silence - AP News",
-      "snippet": "‘The Simpsons’ resurrects Apu after nearly a decade of silence  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnpMVVNrczd5MGhiZWpEZDhiZG1RTXE5bFJZVUkzSmlLdkV2ZEh2TTB1QVZlelNkOHIwVl9ZQ0M3MkJwTDlxaWlTQjBIZlU5ZklMVW41bW12cjVjR1FDdDh6eTJORVFDSnRsOXZiWEhNV2ViU2pSa1NodWZKMFcwYzBlMGd1U01IcVB2ajNLVFJ1VHdIMi1SUlg2ZGNNbHFtZnJtX21ZS3ZPYV9t?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f7e31201cd3071aa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Could disillusioned Kansas voters send their first Democrat to the US Senate in 94 years? - Reuters",
-      "snippet": "Could disillusioned Kansas voters send their first Democrat to the US Senate in 94 years?  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEJELWFtUTE0T2VDN01rLWlrOWRYTHN6WVNqQ1JORFVhM0FDd2FpRG8zdWUzbjRJSktYaFhJc2ZUaFFBdHZyaldRZGExdGx2dXEzS0pLeERlWG5EM04xWmhnMWlkLTVjclBWbjRvZjluc3d6ZUVRYTJRSDVhNVRTWjBVc3VaaE53TV9YSjhkNEZEeFp1YTRSbUY2MzJRcnZIZXk0MzdGLThBMEoyRlhsZHFRZkVDQWlsSDJRd1dYRTY?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:54:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d2b5d6c55359a6e7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Artist who painted Jesus at age 8 tells Hannity she vanished for hours, experienced heaven",
-      "snippet": "Akiane Kramarik, the child prodigy who painted \"Prince of Peace\" at age 8, told Sean Hannity about a childhood disappearance that baffled family.",
-      "link": "https://www.foxnews.com/media/artist-painted-jesus-age-8-tells-hannity-vanished-hours-experienced-heaven",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:54:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e03bf16ce193c27f",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " DOJ charges 28 with unlawful voting, other election-related offenses in California",
-      "snippet": "The DOJ has charged 28 individuals in California with election-related offenses, and did not rule out prosecuting election workers who are \"processing the ballots\" there.",
-      "link": "https://abcnews.com/US/doj-charges-28-unlawful-voting-election-related-offenses/story?id=137384589",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:54:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
