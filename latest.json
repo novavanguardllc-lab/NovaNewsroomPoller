@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T18:00:12.819Z",
+  "updatedAt": "2026-10-20T18:05:05.728Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:12.892Z"
+      "lastSuccess": "2026-10-20T18:05:06.497Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.039Z"
+      "lastSuccess": "2026-10-20T18:05:06.128Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.063Z"
+      "lastSuccess": "2026-10-20T18:05:06.075Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.029Z"
+      "lastSuccess": "2026-10-20T18:05:05.971Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.012Z"
+      "lastSuccess": "2026-10-20T18:05:06.349Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.068Z"
+      "lastSuccess": "2026-10-20T18:05:05.910Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.182Z"
+      "lastSuccess": "2026-10-20T18:05:06.172Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.153Z"
+      "lastSuccess": "2026-10-20T18:05:06.147Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T18:00:13.179Z"
+      "lastErrorAt": "2026-10-20T18:05:06.526Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.097Z"
+      "lastSuccess": "2026-10-20T18:05:06.450Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.107Z"
+      "lastSuccess": "2026-10-20T18:05:06.531Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.113Z"
+      "lastSuccess": "2026-10-20T18:05:06.469Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.174Z"
+      "lastSuccess": "2026-10-20T18:05:06.409Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.118Z"
+      "lastSuccess": "2026-10-20T18:05:05.948Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.986Z"
+      "lastSuccess": "2026-10-20T18:05:06.557Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.149Z"
+      "lastSuccess": "2026-10-20T18:05:06.287Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.259Z"
+      "lastSuccess": "2026-10-20T18:05:06.431Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.208Z"
+      "lastSuccess": "2026-10-20T18:05:06.250Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.279Z"
+      "lastSuccess": "2026-10-20T18:05:06.632Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.313Z"
+      "lastSuccess": "2026-10-20T18:05:06.650Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.247Z"
+      "lastSuccess": "2026-10-20T18:05:06.773Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T18:00:13.261Z"
+      "lastErrorAt": "2026-10-20T18:05:06.628Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T18:00:13.449Z"
+      "lastSuccess": "2026-10-20T18:05:06.814Z"
     }
   },
   "items": [
+    {
+      "id": "story_ef6fb20f0b91ead1",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Trump attacks Democratic challenger Hamilton at Kansas rally as Senate race tightens",
+      "snippet": "President Donald Trump took the stage in Kansas on Monday night to campaign for Sen. Roger Marshall, a one-term incumbent facing a close race against Adam Hamilton.",
+      "link": "https://abcnews.com/Politics/trump-attacks-democratic-challenger-adam-hamilton-kansas-rally/story?id=137404084",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T17:59:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_6414228cc3623b50",
       "source": "The Hill",
@@ -121,6 +134,19 @@
       "publishedAt": "2026-10-20T17:56:23.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24fd750b34057af3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "OutKick readers blast WNBA players for hiding during Finals national anthem",
+      "snippet": "Atlanta Dream and Golden State Valkyries left the court before the national anthem for a second straight WNBA Finals game, sparking outrage.",
+      "link": "https://www.foxnews.com/outkick-sports/outkick-readers-blast-wnba-players-hiding-finals-national-anthem",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T17:56:09.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1554,6 +1580,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_322e34d1716039d3",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Knicks Ticket Prices Are Soaring After Last Season’s Championship",
+      "snippet": "Knicks tickets have never been cheap, but prices for the first game alone are soaring after last season’s championship — more than a trip to Paris.",
+      "link": "https://www.nytimes.com/2026/10/20/business/knicks-tickets.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T16:22:31.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5f018913fb3570fd",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2656,45 +2695,6 @@
       "publishedAt": "2026-10-20T15:18:16.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f381892c8324be79",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Hinojosa sues for emails between Abbott, Musk",
-      "snippet": "Texas state Rep. Gina Hinojosa (D) filed a lawsuit on Monday to force her opponent in the state’s gubernatorial race, Gov. Greg Abbott (R), to release his emails with Republican ally Elon Musk. The complaint accuses Abbott of violating stat",
-      "link": "https://thehill.com/homenews/campaign/6159985-hinojosa-lawsuit-abbott-musk-emails/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/MixCollage-02-Mar-2026-08-42-PM-3148.jpg?w=900",
-      "publishedAt": "2026-10-20T15:17:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7209f467eb450b86",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "FanDuel Promo Code: Get $350 on the Opening Week of the NBA Season, Celtics-Pistons Opener",
-      "snippet": "Use the FanDuel promo code to bet $5 and earn up to $350 in bonus bets during NBA Opening Week, including the Celtics-Pistons opener.",
-      "link": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-350-opening-week-nba-season-celtics-pistons-opener",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:16:39.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd93d54ce7795612",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and Four Free Picks on NBA Opening Day",
-      "snippet": "Use Betr promo code FOXNEWS to get $200 in bonuses and four free picks on NBA Opening Day, featuring Celtics-Pistons, 76ers-Knicks and Thunder-Spurs.",
-      "link": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-four-free-picks-nba-opening-day",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T15:15:57.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
