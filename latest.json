@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-20T00:15:07.117Z",
+  "updatedAt": "2026-10-20T00:20:07.938Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.175Z"
+      "lastSuccess": "2026-10-20T00:20:08.428Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.215Z"
+      "lastSuccess": "2026-10-20T00:20:08.247Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.567Z"
+      "lastSuccess": "2026-10-20T00:20:08.893Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.181Z"
+      "lastSuccess": "2026-10-20T00:20:08.118Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.254Z"
+      "lastSuccess": "2026-10-20T00:20:08.692Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.294Z"
+      "lastSuccess": "2026-10-20T00:20:08.125Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.412Z"
+      "lastSuccess": "2026-10-20T00:20:08.446Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.179Z"
+      "lastSuccess": "2026-10-20T00:20:08.178Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T00:15:07.433Z"
+      "lastErrorAt": "2026-10-20T00:20:08.170Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 434\nChar: d",
-      "lastErrorAt": "2026-10-20T00:15:07.335Z"
+      "online": true,
+      "lastSuccess": "2026-10-20T00:20:08.462Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.334Z"
+      "lastSuccess": "2026-10-20T00:20:08.169Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.279Z"
+      "lastSuccess": "2026-10-20T00:20:08.186Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.415Z"
+      "lastSuccess": "2026-10-20T00:20:08.506Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.379Z"
+      "lastSuccess": "2026-10-20T00:20:08.487Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.461Z"
+      "lastSuccess": "2026-10-20T00:20:08.364Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.432Z"
+      "lastSuccess": "2026-10-20T00:20:08.406Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.548Z"
+      "lastSuccess": "2026-10-20T00:20:08.666Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.305Z"
+      "lastSuccess": "2026-10-20T00:20:08.204Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.469Z"
+      "lastSuccess": "2026-10-20T00:20:08.681Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:10.435Z"
+      "lastSuccess": "2026-10-20T00:20:08.503Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T00:15:07.484Z"
+      "lastErrorAt": "2026-10-20T00:20:08.693Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.495Z"
+      "lastSuccess": "2026-10-20T00:20:08.724Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T00:15:07.510Z"
+      "lastSuccess": "2026-10-20T00:20:08.810Z"
     }
   },
   "items": [
@@ -107,6 +106,19 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4771610/judge-reyes-untenable-order-trump-doj-dc-golf-course/",
       "imageUrl": null,
       "publishedAt": "2026-10-20T00:14:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_45712d89e4486b7f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
+      "snippet": "Demonstrations over poor public services and rising costs spiralled over the weekend, with shops looted and property vandalised\n\nWhy are people protesting across Europe?\n\nItaly’s government will dispatch 500 army troops to “defend Milan” af",
+      "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T00:08:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2682,19 +2694,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trumpdonald_101926_AP-e1792440216399.jpg?w=900",
       "publishedAt": "2026-10-19T20:07:15.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2fc137529004e86b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "US and Cuba clash at UN as Washington seeks to sway annual vote on economic embargo - AP News",
-      "snippet": "US and Cuba clash at UN as Washington seeks to sway annual vote on economic embargo  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMnAzMmN1M2s2LWtuaGhmamlhV1AzSERJOHhnR1RTdHRTbkxqTUVrV2Y5dWNpSE50TFNibzNzeU5FWUdoV3c0c2hzVTJuc1dPVk14UmRYbXAyc2dTTHpjYWc5TUpQUTgyWVBFTW92VG85Tlg4di1XZTlZOGFCRktfZlpJRFFXdzU5bFNuWkNDdUJXUTRF?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T20:07:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
