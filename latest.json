@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-10-20T11:15:07.138Z",
+  "updatedAt": "2026-10-20T11:20:08.475Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.185Z"
+      "lastSuccess": "2026-10-20T11:20:08.656Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.191Z"
+      "lastSuccess": "2026-10-20T11:20:08.787Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.272Z"
+      "lastSuccess": "2026-10-20T11:20:08.774Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.267Z"
+      "lastSuccess": "2026-10-20T11:20:08.950Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.209Z"
+      "lastSuccess": "2026-10-20T11:20:08.857Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.248Z"
+      "lastSuccess": "2026-10-20T11:20:08.651Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.251Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 434\nChar: d",
+      "lastErrorAt": "2026-10-20T11:20:08.670Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.189Z"
+      "lastSuccess": "2026-10-20T11:20:08.609Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.172Z"
+      "lastSuccess": "2026-10-20T11:20:08.838Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.315Z"
+      "lastSuccess": "2026-10-20T11:20:08.960Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.207Z"
+      "lastSuccess": "2026-10-20T11:20:08.619Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.184Z"
+      "lastSuccess": "2026-10-20T11:20:08.993Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.228Z"
+      "lastSuccess": "2026-10-20T11:20:08.690Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.205Z"
+      "lastSuccess": "2026-10-20T11:20:09.154Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.562Z"
+      "lastSuccess": "2026-10-20T11:20:09.056Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T11:15:07.316Z"
+      "lastErrorAt": "2026-10-20T11:20:08.994Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.279Z"
+      "lastSuccess": "2026-10-20T11:20:09.012Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.282Z"
+      "lastSuccess": "2026-10-20T11:20:09.258Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.252Z"
+      "lastSuccess": "2026-10-20T11:20:08.976Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.310Z"
+      "lastSuccess": "2026-10-20T11:20:09.240Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T11:15:07.280Z"
+      "lastErrorAt": "2026-10-20T11:20:09.258Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:07.358Z"
+      "lastSuccess": "2026-10-20T11:20:09.288Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T11:15:09.249Z"
+      "lastSuccess": "2026-10-20T11:20:11.075Z"
     }
   },
   "items": [
+    {
+      "id": "story_24e0ba88af2a025d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Commanders' Dan Quinn appears to lose track of downs one week after clock debacle – but he has an explanation",
+      "snippet": "Dan Quinn's apparent gaffe on Monday Night Football sparked game management blame on ESPN but coach explained what really happened after the game.",
+      "link": "https://www.foxnews.com/outkick-sports/commanders-dan-quinn-appears-lose-track-downs-one-week-after-clock-debacle-explanation",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T11:09:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_20b965f0a69e1a49",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+      "snippet": "RAF Typhoon fighters will fly defensive missions over cities and infrastructure, in extension of UK support for Riyadh\nRAF Typhoon fighters are to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the count",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T11:08:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_b43780c23f729902",
       "source": "NPR",
@@ -332,6 +359,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0bd7b9decf7ff35e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "UK to fly RAF missions defending Saudi Arabia against Houthi attacks, Bloomberg reports - Reuters",
+      "snippet": "UK to fly RAF missions defending Saudi Arabia against Houthi attacks, Bloomberg reports  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGh1LWkyRVZqaTRQMEdnRXhvWFhvWnJ6TW5WdlEyM0dxTFQwLWczNjAwLU95SDFDZVVSdUNQUE1uYkREcG05THRjbmhiQk5FWlBjb2p2V01DVmhGRFppUmFHQUFwMm4yZHFLRndUbU9PcEVjY0JBY1JpZjROd0JnOTdoZXFodTRDSzJEQURHQkVzd21pMmtUZmdnLUE3SGI1UGt5Wno0WWVKR1ZWV0FaQ0FmZUY5aVlQZVAtRGV4WEhoTmVnbHRsZ0taZ2d2NFBxOFIzdQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:39:30.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_de400b9a851c0518",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -540,6 +580,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5f72ac70bbe2d312",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Nasdaq futures dip as oil prices climb, earnings loom - Reuters",
+      "snippet": "Nasdaq futures dip as oil prices climb, earnings loom  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:14:26.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f36a84d35806fd4d",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -602,6 +655,19 @@
       "publishedAt": "2026-10-20T10:01:04.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4cdaa7d80a2db272",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns - AP News",
+      "snippet": "NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUU3T3ViU3ptbEpnUzBVNmN0Smt5bUNkbjIyNl80dndGazJVY3AtZDNHQTcxMlJnWFhBX3RDbEVTR2o1SjM5WjcydmlLVmx4Z1FUQjlPd2x4SlI5WVlTNW5ReWM1NnNJUHBoNWxJTHhpTFppMW9raUp3ZnkzbHA2TTRkUlQ5dUFzejRsNml3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:01:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2628,71 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWJoVEhweGRYM3Q2WWpzc2VRT2RqWU1OVmVfSmdlNGxKaTNNUURTSzYzUW1iTDkzTFdwRWNFVzN3MWNyd3RmMUl2UU0wYmQtQzd5NVM0VzlCazlDdkdSWVFDSll3WGdRRkpQZFplZVZYSFFZZjVJeElTTkthVy1sbERwMXRpS2FhV0E?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T05:05:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a6fcca02187fb8a8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "ABB posts record quarterly orders helped by data centre boom - Reuters",
-      "snippet": "ABB posts record quarterly orders helped by data centre boom  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkFHUzZvYlhRNk11cUJiYnJwbEpidDYtWGduV1FBM2dsdG5yRU42TzExRHJ0V2dHNHlzSGJad2w3MmxIakpPR2tZZFM0M1NsRHRYQ0d0WmdWVjVHNk13YzdzQ3dSaDN1cjJKN0VIQm83WEFKblpDVlFqUmRTYl9janBtVmswM0x0czMyMnRQZjRmdG5HQ25XODFWcGRiWE9JNWR4UHNzVUZmQTVXVHhzUmZMQ3ZPZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:04:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43056d3c8b1a9bbf",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Volkswagen bet on Xpeng to save its China business. It's not going to plan - Reuters",
-      "snippet": "Volkswagen bet on Xpeng to save its China business. It's not going to plan  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVF81Q3ZqWE82a1RYZEpkbWFXNWVpMkZ2Z01MRFBUSGpCLUNncGh0S3JnRHJmZ0hYbHJFUTZkSE53Uks3Vm5USC1KcTNTYTdfY19BSHdFdElhUG8zNG5rWHRoNzNzaWVhQkhzRVZfcE1hanNubFRzalNlUHdqc1dHSXZpTXc5SW1zUndSZ1dZdUx5WDlQMGhEM2ZHNWlMdmJqbDM0TGFEbDVCSFE2UmpXYW5oUG5YazBMTFlYS2wyNHJkbFF0dkI0QQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d8aa26e4026013be",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "How is the US economy really doing under President Trump?",
-      "snippet": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:00:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0aa21d197e8d9e4c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "As Japan pursues a chip-industry reboot, it's being pressed to build America's - Reuters",
-      "snippet": "As Japan pursues a chip-industry reboot, it's being pressed to build America's  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2l4SE9UYmpaWGdDWERaQTFBMEYwWDNidzZ6X1AxWnJiVXpUdWVQOUVZMzBXWTBpeWdiMGo0eXlCYkFJejV2VDBDQ0NkX0p1TTNNSU5reVNKWDB1U3duU3lzU1FaUmJDNTZrTjk0UDNiQ0dzUlpoYlFENTFBOXNVSkhZVVppeDduLVVueW9VTG9PRXNPcG91b0VxSjU2aEhuYzY4OVNaWmU1WnpWNmdZbzJVN3MyRUF3UTJUWGd0bw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T04:51:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_978000e3de154be4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Daiwa, Mizuho clear final hurdles to launch China securities units, Bloomberg says - Reuters",
-      "snippet": "Daiwa, Mizuho clear final hurdles to launch China securities units, Bloomberg says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOGNuQldnRF9yVmM0WUxheVMwVUkxcGVWOEVaUmdYNU9GeTVaQXk5cWxUV1ZyR0VsRmhVX3JsUWkwVXdjQkw3eXRZd3hLVE5HR2xrUHJPQTZWUjhhOEkzSUtNQnRsWUhSaTlwamtGcWNhUU4zSzc4Q3lwNlZFU25mUTRzNFdFVGxCalNkdThzSzNhY3hKSm1uZndINmRSRDVlNU5uTURnSkxuUDR3aG1ESjJIVVNGUnozN0VBNDBWcURqTVZsdVo0bmZn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T04:51:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
