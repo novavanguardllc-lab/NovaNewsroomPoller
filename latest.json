@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-20T09:20:07.322Z",
+  "updatedAt": "2026-10-20T09:25:05.371Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.737Z"
+      "lastSuccess": "2026-10-20T09:25:05.453Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.611Z"
+      "lastSuccess": "2026-10-20T09:25:05.576Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.948Z"
+      "lastSuccess": "2026-10-20T09:25:05.550Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.490Z"
+      "lastSuccess": "2026-10-20T09:25:05.487Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.895Z"
+      "lastSuccess": "2026-10-20T09:25:05.529Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.618Z"
+      "lastSuccess": "2026-10-20T09:25:05.592Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.670Z"
+      "lastSuccess": "2026-10-20T09:25:05.634Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.915Z"
+      "lastSuccess": "2026-10-20T09:25:05.582Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T09:20:07.917Z"
+      "lastErrorAt": "2026-10-20T09:25:05.630Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Attribute without value\nLine: 0\nColumn: 434\nChar: d",
-      "lastErrorAt": "2026-10-20T09:20:07.650Z"
+      "online": true,
+      "lastSuccess": "2026-10-20T09:25:05.667Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.641Z"
+      "lastSuccess": "2026-10-20T09:25:05.624Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.678Z"
+      "lastSuccess": "2026-10-20T09:25:05.493Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.930Z"
+      "lastSuccess": "2026-10-20T09:25:05.628Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.531Z"
+      "lastSuccess": "2026-10-20T09:25:05.620Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.795Z"
+      "lastSuccess": "2026-10-20T09:25:05.658Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.832Z"
+      "lastSuccess": "2026-10-20T09:25:05.560Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:08.152Z"
+      "lastSuccess": "2026-10-20T09:25:05.761Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.693Z"
+      "lastSuccess": "2026-10-20T09:25:05.510Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.988Z"
+      "lastSuccess": "2026-10-20T09:25:05.638Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:07.973Z"
+      "lastSuccess": "2026-10-20T09:25:05.662Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T09:20:07.997Z"
+      "lastErrorAt": "2026-10-20T09:25:05.600Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:08.038Z"
+      "lastSuccess": "2026-10-20T09:25:05.675Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T09:20:08.062Z"
+      "lastSuccess": "2026-10-20T09:25:07.621Z"
     }
   },
   "items": [
@@ -107,6 +106,32 @@
       "link": "https://www.semafor.com/article/10/20/2026/three-democratic-committee-leaders-still-behind-on-dues",
       "imageUrl": "https://img.semafor.com/524202b4d8065de47d47c2e6108563cb2c2a290f-4172x2781.jpg",
       "publishedAt": "2026-10-20T09:17:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7715c7bb799a3ce5",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+      "snippet": "Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.",
+      "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:13:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eb8c4022e3381e09",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Man charged after Australian MP struck by vehicle",
+      "snippet": "Police have charged a man after an Australian MP was hit by a vehicle, causing her to undergo a leg amputation.",
+      "link": "https://news.sky.com/story/man-charged-after-australian-mp-struck-by-vehicle-13601264",
+      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
+      "publishedAt": "2026-10-20T09:11:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2669,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T00:43:15.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0a9535d4d9921fb6",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Questions abound as Jalen Hurts likely to miss rest of season due to blood clots, sources say",
-      "snippet": "League sources tell CBS Philadelphia that Eagles quarterback Jalen Hurts is being sidelined, likely for the rest of the season, after testing revealed deep vein thrombosis and blood clots in his lungs.",
-      "link": "https://www.cbsnews.com/video/eagles-qb-jalen-hurts-likely-out-for-rest-of-season-due-to-blood-clots-in-lungs/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T00:41:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a92f470c3bdbd4e3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Gold mine collapse kills at least 14 in southwest Colombia - AP News",
-      "snippet": "Gold mine collapse kills at least 14 in southwest Colombia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdzJLUWRWTVVGM1RYU25aOExsRHpaX3UwZnVIb2F5bjlrOFRhQS1xYy1WXzRIZmZJRUpVQTE4M2ZQTFJrbEVhclZ6U3kzUTZhNGUtV3VwUjhrWm1vak10V09UUV9IVXR5Tk51ZFU5eVpxYWdTdXQzbVloVFBJR1JuU2FwNnJ5UFBVUDkxcGx2ajlBbmY4MGlKUHFFa190Snpkc01CaQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T00:41:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
