@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T06:55:05.090Z",
+  "updatedAt": "2026-10-20T07:00:12.077Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.194Z"
+      "lastSuccess": "2026-10-20T07:00:12.245Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.224Z"
+      "lastSuccess": "2026-10-20T07:00:12.196Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.561Z"
+      "lastSuccess": "2026-10-20T07:00:12.282Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.239Z"
+      "lastSuccess": "2026-10-20T07:00:12.297Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.569Z"
+      "lastSuccess": "2026-10-20T07:00:12.592Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.319Z"
+      "lastSuccess": "2026-10-20T07:00:12.491Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.338Z"
+      "lastSuccess": "2026-10-20T07:00:12.489Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.301Z"
+      "lastSuccess": "2026-10-20T07:00:12.338Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T06:55:05.341Z"
+      "lastErrorAt": "2026-10-20T07:00:12.533Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.360Z"
+      "lastSuccess": "2026-10-20T07:00:12.533Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.341Z"
+      "lastSuccess": "2026-10-20T07:00:12.422Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.259Z"
+      "lastSuccess": "2026-10-20T07:00:12.316Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.344Z"
+      "lastSuccess": "2026-10-20T07:00:12.525Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.465Z"
+      "lastSuccess": "2026-10-20T07:00:12.480Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.420Z"
+      "lastSuccess": "2026-10-20T07:00:12.385Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.286Z"
+      "lastSuccess": "2026-10-20T07:00:12.418Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.454Z"
+      "lastSuccess": "2026-10-20T07:00:12.678Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.299Z"
+      "lastSuccess": "2026-10-20T07:00:12.391Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.483Z"
+      "lastSuccess": "2026-10-20T07:00:12.529Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.377Z"
+      "lastSuccess": "2026-10-20T07:00:12.522Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T06:55:05.473Z"
+      "lastErrorAt": "2026-10-20T07:00:12.516Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.525Z"
+      "lastSuccess": "2026-10-20T07:00:12.560Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T06:55:05.543Z"
+      "lastSuccess": "2026-10-20T07:00:12.545Z"
     }
   },
   "items": [
+    {
+      "id": "story_218d6a162d15e1fb",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Morocco’s not-so-new government faces new challenges",
+      "snippet": "The new cabinet has doubled down on continuity at a time of regional turmoil and domestic anxiety.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T06:58:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b87a9ac87bc816b2",
       "source": "Sky News",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T22:59:12.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fc6197811c9824f6",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports - Reuters",
-      "snippet": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX21NdVRPSTJNSUZiZ201OEo3U1Q0Rk9XVFJGaHVEWG1pczBSZzNpZVI2UXEwdEljb0F1UjJTUFRQOXBSTF9zQTNtRnhUcjBKRG9pVktwU1JXeWNiS0ZSZjBZaUhhakJEaU5YbEpBWG14MkUwTjhLX1RzU2NnY2ZvRER6VkVvNUVzemcwU0JzSWE4SmMzM3loLUdFR2JsMG9BbE9hS0ZrZFRGRVUtQ3BYYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T22:58:19.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
