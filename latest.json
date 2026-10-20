@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-20T03:50:07.321Z",
+  "updatedAt": "2026-10-20T03:55:05.141Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.619Z"
+      "lastSuccess": "2026-10-20T03:55:05.255Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.677Z"
+      "lastSuccess": "2026-10-20T03:55:05.213Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.886Z"
+      "lastSuccess": "2026-10-20T03:55:05.300Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.491Z"
+      "lastSuccess": "2026-10-20T03:55:05.239Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.923Z"
+      "lastSuccess": "2026-10-20T03:55:05.323Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.477Z"
+      "lastSuccess": "2026-10-20T03:55:05.348Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.783Z"
+      "lastSuccess": "2026-10-20T03:55:05.364Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.537Z"
+      "lastSuccess": "2026-10-20T03:55:05.235Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T03:50:07.900Z"
+      "lastErrorAt": "2026-10-20T03:55:05.349Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.558Z"
+      "lastSuccess": "2026-10-20T03:55:05.354Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.524Z"
+      "lastSuccess": "2026-10-20T03:55:05.351Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.514Z"
+      "lastSuccess": "2026-10-20T03:55:05.316Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.860Z"
+      "lastSuccess": "2026-10-20T03:55:05.342Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.694Z"
+      "lastSuccess": "2026-10-20T03:55:05.405Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.778Z"
+      "lastSuccess": "2026-10-20T03:55:05.384Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.733Z"
+      "lastSuccess": "2026-10-20T03:55:05.278Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:08.075Z"
+      "lastSuccess": "2026-10-20T03:55:05.454Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.543Z"
+      "lastSuccess": "2026-10-20T03:55:05.328Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.890Z"
+      "lastSuccess": "2026-10-20T03:55:05.397Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:12.795Z"
+      "lastSuccess": "2026-10-20T03:55:05.388Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T03:50:07.892Z"
+      "lastErrorAt": "2026-10-20T03:55:05.346Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:07.940Z"
+      "lastSuccess": "2026-10-20T03:55:05.498Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T03:50:09.618Z"
+      "lastSuccess": "2026-10-20T03:55:05.558Z"
     }
   },
   "items": [
@@ -108,6 +108,19 @@
       "publishedAt": "2026-10-20T03:45:00.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d918e51a2271703f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Rays punch their ticket to the World Series, taking down Guardians in Game 6 to set up series with Brewers",
+      "snippet": "Junior Caminero's foul-pole home run sent Tropicana Field into rapture as the Tampa Bay Rays punched their World Series ticket against the Brewers.",
+      "link": "https://www.foxnews.com/outkick-sports/rays-punch-ticket-world-series-taking-down-guardians-game-6-set-up-series-brewers",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T03:42:09.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T21:44:01.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3eb6524012136149",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "DHS orders removal of DeepSeek from government agency IT systems",
-      "snippet": "The Department of Homeland Security (DHS) has ordered that products from the Chinese AI startup DeepSeek be removed from federal agency IT systems and barred from government contracting. The order, which initially went out in July, was publ",
-      "link": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/12/deepseek_china_01252025_AP25176601891367-1.jpg?w=900",
-      "publishedAt": "2026-10-19T21:43:09.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
