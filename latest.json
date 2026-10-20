@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T02:45:07.913Z",
+  "updatedAt": "2026-10-20T02:50:07.245Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.140Z"
+      "lastSuccess": "2026-10-20T02:50:07.663Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.092Z"
+      "lastSuccess": "2026-10-20T02:50:07.625Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.396Z"
+      "lastSuccess": "2026-10-20T02:50:07.513Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:07.976Z"
+      "lastSuccess": "2026-10-20T02:50:07.426Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.497Z"
+      "lastSuccess": "2026-10-20T02:50:07.547Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.269Z"
+      "lastSuccess": "2026-10-20T02:50:07.449Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.355Z"
+      "lastSuccess": "2026-10-20T02:50:07.475Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.111Z"
+      "lastSuccess": "2026-10-20T02:50:07.408Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T02:45:08.273Z"
+      "lastErrorAt": "2026-10-20T02:50:07.728Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.011Z"
+      "lastSuccess": "2026-10-20T02:50:07.485Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.370Z"
+      "lastSuccess": "2026-10-20T02:50:07.445Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.130Z"
+      "lastSuccess": "2026-10-20T02:50:07.402Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.275Z"
+      "lastSuccess": "2026-10-20T02:50:07.749Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.329Z"
+      "lastSuccess": "2026-10-20T02:50:07.746Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.253Z"
+      "lastSuccess": "2026-10-20T02:50:07.784Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.171Z"
+      "lastSuccess": "2026-10-20T02:50:07.688Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.418Z"
+      "lastSuccess": "2026-10-20T02:50:07.942Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.096Z"
+      "lastSuccess": "2026-10-20T02:50:07.709Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.336Z"
+      "lastSuccess": "2026-10-20T02:50:07.887Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.377Z"
+      "lastSuccess": "2026-10-20T02:50:07.825Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T02:45:08.356Z"
+      "lastErrorAt": "2026-10-20T02:50:07.888Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.449Z"
+      "lastSuccess": "2026-10-20T02:50:07.970Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T02:45:08.587Z"
+      "lastSuccess": "2026-10-20T02:50:09.998Z"
     }
   },
   "items": [
+    {
+      "id": "story_6184906e8ae25ba6",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Rep. Adam Smith joins lawmakers who received letter with 'suspicious substance'",
+      "snippet": "Washington State Democratic Congressman Adam Smith received a “suspicious letter containing a powdery substance” on Monday.",
+      "link": "https://abcnews.com/US/rep-adam-smith-joins-list-lawmakers-received-letter/story?id=137400114",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:43:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_13da5fb5a912fd10",
       "source": "ABC News",
@@ -2680,19 +2693,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-19T21:30:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f25ff9217242e884",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines",
-      "snippet": "Drivers to get five minutes to decide whether to park and 10 minutes to leave after their session ends\nDrivers will get a guaranteed five minutes to decide whether to park and 10 minutes to leave after their parking session ends before they",
-      "link": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T21:30:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
