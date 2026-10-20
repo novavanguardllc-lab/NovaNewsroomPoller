@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-20T04:55:05.775Z",
+  "updatedAt": "2026-10-20T05:00:12.573Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.958Z"
+      "lastSuccess": "2026-10-20T05:00:12.918Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.890Z"
+      "lastSuccess": "2026-10-20T05:00:12.880Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.929Z"
+      "lastSuccess": "2026-10-20T05:00:13.179Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.972Z"
+      "lastSuccess": "2026-10-20T05:00:12.782Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.038Z"
+      "lastSuccess": "2026-10-20T05:00:13.262Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.976Z"
+      "lastSuccess": "2026-10-20T05:00:12.702Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.195Z"
+      "lastSuccess": "2026-10-20T05:00:12.824Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.104Z"
+      "lastSuccess": "2026-10-20T05:00:13.000Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T04:55:06.173Z"
+      "lastErrorAt": "2026-10-20T05:00:12.801Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.013Z"
+      "lastSuccess": "2026-10-20T05:00:12.800Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.987Z"
+      "lastSuccess": "2026-10-20T05:00:12.776Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:05.999Z"
+      "lastSuccess": "2026-10-20T05:00:12.757Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.144Z"
+      "lastSuccess": "2026-10-20T05:00:13.134Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.114Z"
+      "lastSuccess": "2026-10-20T05:00:12.943Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.096Z"
+      "lastSuccess": "2026-10-20T05:00:13.084Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.054Z"
+      "lastSuccess": "2026-10-20T05:00:12.994Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.320Z"
+      "lastSuccess": "2026-10-20T05:00:13.401Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.121Z"
+      "lastSuccess": "2026-10-20T05:00:13.018Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.137Z"
+      "lastSuccess": "2026-10-20T05:00:13.159Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.151Z"
+      "lastSuccess": "2026-10-20T05:00:13.104Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T04:55:06.141Z"
+      "lastErrorAt": "2026-10-20T05:00:13.154Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.190Z"
+      "lastSuccess": "2026-10-20T05:00:13.215Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:55:06.172Z"
+      "lastSuccess": "2026-10-20T05:00:13.277Z"
     }
   },
   "items": [
@@ -119,6 +119,19 @@
       "link": "https://www.foxnews.com/us/unc-settles-trump-admin-probes-alleged-campus-antisemitism-race-based-admissions",
       "imageUrl": null,
       "publishedAt": "2026-10-20T04:43:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c67e952a6b1f1b7",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "US Supreme Court to hear case on race in school admissions",
+      "snippet": "A group of parents claims local admission policy boosts Black and Latino students while constraining Asian applicants.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T04:38:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2680,19 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4770782/vance-rally-western-north-carolina-voters-share-cooper-a-tough-opponent-to-take-down/",
       "imageUrl": null,
       "publishedAt": "2026-10-19T22:15:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e09a3c98e14f8433",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "On 'Settle In,' Kathryn Jezer-Morton and Geoff Bennett discuss social media's impact",
-      "snippet": "Social media lets us share our lives with family, friends, and strangers. But how do people decide what to post, what to leave out, and what do those decisions say about them? On \"Settle In,\" Geoff Bennett discusses that with Kathryn Jezer-",
-      "link": "https://www.pbs.org/newshour/show/__trashed-4",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T22:15:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
