@@ -1,102 +1,117 @@
 {
-  "updatedAt": "2026-10-20T15:55:05.304Z",
+  "updatedAt": "2026-10-20T16:00:12.514Z",
   "sourceStatus": {
     "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.363Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-20T16:00:22.518Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.368Z"
+      "lastSuccess": "2026-10-20T16:00:12.689Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.393Z"
+      "lastSuccess": "2026-10-20T16:00:12.781Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.569Z"
+      "lastSuccess": "2026-10-20T16:00:12.843Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.412Z"
+      "lastSuccess": "2026-10-20T16:00:12.742Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.405Z"
+      "lastSuccess": "2026-10-20T16:00:12.752Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.397Z"
+      "online": false,
+      "lastError": "Attribute without value\nLine: 0\nColumn: 434\nChar: d",
+      "lastErrorAt": "2026-10-20T16:00:12.785Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.400Z"
+      "lastSuccess": "2026-10-20T16:00:12.745Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.345Z"
+      "lastSuccess": "2026-10-20T16:00:12.607Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.431Z"
+      "lastSuccess": "2026-10-20T16:00:12.864Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.409Z"
+      "lastSuccess": "2026-10-20T16:00:12.747Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.360Z"
+      "lastSuccess": "2026-10-20T16:00:12.671Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.444Z"
+      "lastSuccess": "2026-10-20T16:00:12.764Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.810Z"
+      "lastSuccess": "2026-10-20T16:00:13.143Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.828Z"
+      "lastSuccess": "2026-10-20T16:00:13.002Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T15:55:05.512Z"
+      "lastErrorAt": "2026-10-20T16:00:12.764Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.469Z"
+      "lastSuccess": "2026-10-20T16:00:17.401Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.472Z"
+      "lastSuccess": "2026-10-20T16:00:12.889Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.453Z"
+      "lastSuccess": "2026-10-20T16:00:12.771Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.510Z"
+      "lastSuccess": "2026-10-20T16:00:12.967Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T15:55:05.464Z"
+      "lastErrorAt": "2026-10-20T16:00:12.882Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:05.480Z"
+      "lastSuccess": "2026-10-20T16:00:12.910Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T15:55:07.297Z"
+      "lastSuccess": "2026-10-20T16:00:13.087Z"
     }
   },
   "items": [
+    {
+      "id": "story_11e2be1c94a8584c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "7 in 10 doubt Trump would accept GOP losses in midterms: Survey",
+      "snippet": "A new poll shows that most Americans surveyed doubt President Trump will accept the midterm election results if Republicans sustain losses in Congress and lose their majority. The Washington Post-ABC News-Ipsos poll found that 70 percent of",
+      "link": "https://thehill.com/homenews/campaign/6160085-donald-trump-midterm-results-poll/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292546049313-e1792506245115.jpg?w=900",
+      "publishedAt": "2026-10-20T15:53:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c7844c4bfa997951",
       "source": "The Hill",
@@ -132,6 +147,19 @@
       "link": "https://www.politico.com/news/2026/10/20/poll-voters-see-republicans-as-the-party-of-big-tech-tax-breaks-01127726",
       "imageUrl": null,
       "publishedAt": "2026-10-20T15:51:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_668ba4eae69836c5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Winery owned by Ilhan Omar's husband shuttered due to fraud, James Comer says",
+      "snippet": "Tim Mynett's winery eStCru allegedly sold empty barrels to investors, James Comer says, as Rep. Ilhan Omar faces a federal citizenship probe.",
+      "link": "https://www.foxnews.com/politics/winery-owned-ilhan-omars-husband-shuttered-due-fraud-james-comer-says",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T15:51:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2670,32 +2698,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_753fcb2ec79aab9b",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Exiled critic of Rwandan President Kagame found beheaded in Uganda",
-      "snippet": "Robert Kabera, a former Rwandan soldier living in Uganda, where he had become a vocal critic of his government back home, was found decapitated near Kampala. Rwandan authorities have been accused of assassinating opponents of President Paul",
-      "link": "https://www.france24.com/en/video/20261020-exiled-critic-of-rwandan-president-kagame-found-beheaded-in-uganda",
-      "imageUrl": "https://s.france24.com/media/display/74318ee8-cc82-11f1-a8e7-2d1c143cdef3/w:1024/p:16x9/capture-5355095f.jpg",
-      "publishedAt": "2026-10-20T12:34:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5ecb5ba802c4747d",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "US bans use of China’s DeepSeek AI tools by government agencies",
-      "snippet": "Use of tools ‘may result in the transfer of sensitive data to (China)’, defense department says\nThe US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from Chinese startup DeepSeek, as the countrie",
-      "link": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T12:33:27.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
