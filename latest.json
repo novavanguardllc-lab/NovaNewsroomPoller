@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T05:10:07.604Z",
+  "updatedAt": "2026-10-20T05:15:07.746Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.684Z"
+      "lastSuccess": "2026-10-20T05:15:08.059Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.728Z"
+      "lastSuccess": "2026-10-20T05:15:07.885Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:08.054Z"
+      "lastSuccess": "2026-10-20T05:15:08.181Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.654Z"
+      "lastSuccess": "2026-10-20T05:15:07.996Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:08.071Z"
+      "lastSuccess": "2026-10-20T05:15:07.857Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.739Z"
+      "lastSuccess": "2026-10-20T05:15:08.123Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.745Z"
+      "lastSuccess": "2026-10-20T05:15:07.907Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.713Z"
+      "lastSuccess": "2026-10-20T05:15:07.981Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T05:10:07.753Z"
+      "lastErrorAt": "2026-10-20T05:15:08.137Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.759Z"
+      "lastSuccess": "2026-10-20T05:15:07.993Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.738Z"
+      "lastSuccess": "2026-10-20T05:15:07.918Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.704Z"
+      "lastSuccess": "2026-10-20T05:15:07.978Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.749Z"
+      "lastSuccess": "2026-10-20T05:15:08.136Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.812Z"
+      "lastSuccess": "2026-10-20T05:15:08.017Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.799Z"
+      "lastSuccess": "2026-10-20T05:15:08.103Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.772Z"
+      "lastSuccess": "2026-10-20T05:15:08.042Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.842Z"
+      "lastSuccess": "2026-10-20T05:15:08.279Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.756Z"
+      "lastSuccess": "2026-10-20T05:15:07.956Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.857Z"
+      "lastSuccess": "2026-10-20T05:15:08.127Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.776Z"
+      "lastSuccess": "2026-10-20T05:15:08.146Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T05:10:07.800Z"
+      "lastErrorAt": "2026-10-20T05:15:08.128Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.879Z"
+      "lastSuccess": "2026-10-20T05:15:08.216Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T05:10:07.906Z"
+      "lastSuccess": "2026-10-20T05:15:08.226Z"
     }
   },
   "items": [
+    {
+      "id": "story_d8aa26e4026013be",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "How is the US economy really doing under President Trump?",
+      "snippet": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T05:00:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8f317aaa2eb97606",
       "source": "Guardian",
@@ -2683,19 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_c487b5db7cbb38c9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "France imposes curfews amid violent protests",
-      "snippet": "France imposed widespread curfews Monday night after anti-government protests descended into riots over the weekend, with extensive damage reported and thousands of arrests. CBS News international reporter Aidan Stretch has the details.",
-      "link": "https://www.cbsnews.com/video/france-curfews-violent-protests/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T22:20:39.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
