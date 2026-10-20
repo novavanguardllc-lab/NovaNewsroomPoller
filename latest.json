@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T07:15:06.868Z",
+  "updatedAt": "2026-10-20T07:20:07.481Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.047Z"
+      "lastSuccess": "2026-10-20T07:20:07.963Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:06.988Z"
+      "lastSuccess": "2026-10-20T07:20:07.762Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.275Z"
+      "lastSuccess": "2026-10-20T07:20:08.346Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:06.951Z"
+      "lastSuccess": "2026-10-20T07:20:07.682Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.106Z"
+      "lastSuccess": "2026-10-20T07:20:07.886Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.163Z"
+      "lastSuccess": "2026-10-20T07:20:08.262Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.230Z"
+      "lastSuccess": "2026-10-20T07:20:08.266Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.088Z"
+      "lastSuccess": "2026-10-20T07:20:07.705Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T07:15:07.230Z"
+      "lastErrorAt": "2026-10-20T07:20:08.280Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.161Z"
+      "lastSuccess": "2026-10-20T07:20:07.967Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.191Z"
+      "lastSuccess": "2026-10-20T07:20:07.986Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.072Z"
+      "lastSuccess": "2026-10-20T07:20:07.907Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.210Z"
+      "lastSuccess": "2026-10-20T07:20:08.246Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.157Z"
+      "lastSuccess": "2026-10-20T07:20:08.123Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.182Z"
+      "lastSuccess": "2026-10-20T07:20:08.184Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.130Z"
+      "lastSuccess": "2026-10-20T07:20:08.085Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.351Z"
+      "lastSuccess": "2026-10-20T07:20:08.643Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.078Z"
+      "lastSuccess": "2026-10-20T07:20:08.004Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.259Z"
+      "lastSuccess": "2026-10-20T07:20:08.371Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.226Z"
+      "lastSuccess": "2026-10-20T07:20:08.310Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T07:15:07.254Z"
+      "lastErrorAt": "2026-10-20T07:20:08.367Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.285Z"
+      "lastSuccess": "2026-10-20T07:20:08.404Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T07:15:07.295Z"
+      "lastSuccess": "2026-10-20T07:20:08.455Z"
     }
   },
   "items": [
+    {
+      "id": "story_da36d105ca8695ac",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Japan probe sets course for Mars moon",
+      "snippet": "The MMX spacecraft is on its way to Mars' moon Phobos to collect surface samples that could help answer long-standing questions about the formation of the Solar System.",
+      "link": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T07:16:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_1cab8161e3707632",
       "source": "UPI",
@@ -2682,19 +2695,6 @@
       "publishedAt": "2026-10-19T23:08:00.000Z",
       "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_056db86742aedb27",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Zelenskyy says Trump is on wrong side of history after dealings with Russia",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy says he received no warnings ahead of Russia's overnight missile and drone strikes. Zelenskyy has accused the U.S. of limiting intelligence. CBS News' Charlie D'Agata has more.",
-      "link": "https://www.cbsnews.com/video/zelenskyy-says-trump-is-on-wrong-side-of-history-after-dealings-with-russia/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T23:06:03.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
