@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T04:00:11.910Z",
+  "updatedAt": "2026-10-20T04:05:04.993Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.026Z"
+      "lastSuccess": "2026-10-20T04:05:05.364Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:11.979Z"
+      "lastSuccess": "2026-10-20T04:05:05.429Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.382Z"
+      "lastSuccess": "2026-10-20T04:05:05.390Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.007Z"
+      "lastSuccess": "2026-10-20T04:05:05.169Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.333Z"
+      "lastSuccess": "2026-10-20T04:05:05.469Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.053Z"
+      "lastSuccess": "2026-10-20T04:05:05.204Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.081Z"
+      "lastSuccess": "2026-10-20T04:05:05.448Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.005Z"
+      "lastSuccess": "2026-10-20T04:05:05.187Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T04:00:12.101Z"
+      "lastErrorAt": "2026-10-20T04:05:05.605Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.002Z"
+      "lastSuccess": "2026-10-20T04:05:05.569Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.029Z"
+      "lastSuccess": "2026-10-20T04:05:05.212Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.012Z"
+      "lastSuccess": "2026-10-20T04:05:05.476Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.058Z"
+      "lastSuccess": "2026-10-20T04:05:05.710Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.146Z"
+      "lastSuccess": "2026-10-20T04:05:05.258Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.076Z"
+      "lastSuccess": "2026-10-20T04:05:05.669Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.040Z"
+      "lastSuccess": "2026-10-20T04:05:05.564Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.135Z"
+      "lastSuccess": "2026-10-20T04:05:05.790Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.015Z"
+      "lastSuccess": "2026-10-20T04:05:05.488Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.108Z"
+      "lastSuccess": "2026-10-20T04:05:05.830Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.086Z"
+      "lastSuccess": "2026-10-20T04:05:05.690Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T04:00:12.093Z"
+      "lastErrorAt": "2026-10-20T04:05:05.814Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.217Z"
+      "lastSuccess": "2026-10-20T04:05:05.851Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T04:00:12.193Z"
+      "lastSuccess": "2026-10-20T04:05:05.920Z"
     }
   },
   "items": [
+    {
+      "id": "story_8d58dadeed942368",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Fourteen dead in illegal Colombian gold mine collapse",
+      "snippet": "Fourteen dead in illegal Colombian gold mine collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T03:55:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_78ee8fe9fac95dd1",
       "source": "DW",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-19T21:44:49.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_844921c85e0beb42",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "New Zealand adds Brazil, Canada talks as India pact starts - Reuters",
-      "snippet": "New Zealand adds Brazil, Canada talks as India pact starts  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamdkREE0WjBWQVFRR3JoaExBa1YxTUduQVJmcFJEeDViajhDOUR3clZIYVp0bWppVURBYlhyVjlKTGhsWjBWQzZlZEQyU0J6cUZzVDVnSlhDREd3XzE0bEczU0tnVmlMVll1Q1dFMVJMMG5ocTZkSkRwTVdidldsaTdsalpVRkE2TzAtZzhON2k4ckdHNTJBYXhCelF2aXhwVDZWSzBrdDg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T21:44:01.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
