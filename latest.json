@@ -1,102 +1,271 @@
 {
-  "updatedAt": "2026-10-20T10:00:11.691Z",
+  "updatedAt": "2026-10-20T10:05:05.352Z",
   "sourceStatus": {
-    "Guardian": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.869Z"
-    },
-    "Fox News": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.014Z"
-    },
-    "AP": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.892Z"
-    },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.918Z"
+      "lastSuccess": "2026-10-20T10:05:05.511Z"
     },
-    "Reuters": {
+    "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.972Z"
+      "lastSuccess": "2026-10-20T10:05:05.569Z"
     },
-    "Sky News": {
+    "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.016Z"
+      "lastSuccess": "2026-10-20T10:05:05.656Z"
     },
-    "NYT": {
+    "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.953Z"
+      "lastSuccess": "2026-10-20T10:05:05.732Z"
+    },
+    "CBS News": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.736Z"
+    },
+    "UPI": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.742Z"
+    },
+    "France24": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.747Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.912Z"
+      "lastSuccess": "2026-10-20T10:05:05.750Z"
+    },
+    "Fox News": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.858Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.880Z"
+    },
+    "Sky News": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.894Z"
+    },
+    "Guardian": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.957Z"
+    },
+    "NYT": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:05.980Z"
+    },
+    "AP": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:06.000Z"
+    },
+    "Reuters": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:06.022Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T10:00:12.162Z"
-    },
-    "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.039Z"
-    },
-    "CBS News": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.812Z"
-    },
-    "PBS": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.929Z"
-    },
-    "BBC": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.158Z"
-    },
-    "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.036Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.131Z"
-    },
-    "Politico": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.071Z"
-    },
-    "Semafor": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.373Z"
-    },
-    "UPI": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:11.932Z"
-    },
-    "ABC News": {
-      "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.150Z"
+      "lastErrorAt": "2026-10-20T10:05:06.031Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.160Z"
+      "lastSuccess": "2026-10-20T10:05:06.092Z"
+    },
+    "ABC News": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:06.109Z"
+    },
+    "BBC": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:06.113Z"
+    },
+    "Semafor": {
+      "online": true,
+      "lastSuccess": "2026-10-20T10:05:06.179Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T10:00:13.012Z"
+      "lastErrorAt": "2026-10-20T10:05:06.183Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.212Z"
+      "lastSuccess": "2026-10-20T10:05:06.233Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T10:00:12.306Z"
+      "lastSuccess": "2026-10-20T10:05:06.259Z"
     }
   },
   "items": [
+    {
+      "id": "story_690136186ed5dfb6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Saudi Arabia - AP News",
+      "snippet": "Saudi Arabia  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12VXhMYm1uTGxmeUo1WHZNRUJHb1MzQW1CZ1ktVEV3V29saXhhaHVMZnMwcE1OWHhCSVQ0b1ktQTZ6WUhpYUFQNnptWQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:02:35.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_78e4de1e07dcbceb",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Lawmaker reportedly loses leg as car ramming stuns Australia",
+      "snippet": "An Australian lawmaker was in critical but stable condition Tuesday after being hit by a car in what authorities said was a deliberate attack, shocking a nation where political violence is extremely rare.",
+      "link": "https://www.nbcnews.com/world/asia/australia-lawmaker-car-ramming-attack-helen-haines-leg-driver-charged-rcna604526",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_84d7836cc9a65a6c",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Abortion and the 2026 elections",
+      "snippet": "The Kaiser Health Tracking Poll has been a valuable addition to polling on healthcare in recent election cycles. That includes coverage of abortion. In its latest poll, the KFF team, like other major pollsters, asked voters to choose top is",
+      "link": "https://www.washingtonexaminer.com/restoring-america/4771122/abortion-ballot-measures-2026-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d0c28756ea4cb8a0",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "France on fire — a dangerous inflection point for the West",
+      "snippet": "When they see immigrant thugs looting and trashing cities, social media commentators sometimes mock the rioters as young professionals, doctors, architects, etc. It is intended as an irony-laden riposte to fatuous left-wing arguments that d",
+      "link": "https://www.washingtonexaminer.com/opinion/4771154/france-on-fire-a-dangerous-inflection-point-for-the-west/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d73e09bab99df1fe",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "France’s threat to the US’s economic recovery",
+      "snippet": "Before deriving pleasure from France’s present economic and political turmoil, President Donald Trump might want to consider that France’s current bond market crisis could have serious adverse spillover effects for the U.S. economy. This is",
+      "link": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4770916/france-threat-us-economic-recovery/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1cde140bd293e17b",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Florida leads property tax revolt on ballots in November",
+      "snippet": "Florida is leading a multistate revolt to lower property taxes, another aspect of the growing divide between older homeowners and young homebuyers. Voters in Florida, Oklahoma, North Carolina, Wyoming, and other states will all vote on ball",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4747545/florida-property-tax-revolt-november/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ffd78debd8a21efc",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Iran, China, and Cuba are directing protests inside America",
+      "snippet": "Evidence is growing that the tyrannical regimes of China, Iran, and Cuba are not only financing protests in American streets, but actively directing them. The Network Contagion Research Institute, whose work in these areas has been indispen",
+      "link": "https://www.washingtonexaminer.com/in_focus/4771356/iran-china-cuba-directing-protests-inside-america/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ccf4ac842aa71fcd",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "California officials who process ballots from suspected noncitizens risk prosecution, US warns - AP News",
+      "snippet": "California officials who process ballots from suspected noncitizens risk prosecution, US warns  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHhuR0o4cWF2OHJ2SEV3YWs5bk9tTzg1MWx5c28xVl82eHF0clJDN0ZoZnFQUEwzU2pwc2J4dUxBcmxZYXJEc09sUXdWLVFoUENTQUJsdU5BU2x1d0pQMHJ4aUwwS21GMkotbmJsRURtYlh4VWRnLU9CeTNNVVNUQ0VjLXBQZVRTRmtfbjdJRUlzalNDVzZmMFU0ZXEwNXNTRE9wVGxQa2ZyT2Ex?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:59:42.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_57f682f19155a711",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Artificial intelligence - AP News",
+      "snippet": "Artificial intelligence  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:59:40.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4ffb500dadd36a9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Michael Robinson accused Jalen Hurts of faking an injury — then doctors found clots in his lungs",
+      "snippet": "Michael Robinson suggested on NFL Network that Jalen Hurts was faking his injury, but doctors then found blood clots in the Eagles QB's lungs.",
+      "link": "https://www.foxnews.com/outkick-sports/michael-robinson-accused-jalen-hurts-faking-injury-doctors-found-clots-lungs",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:57:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c949915ebbb0d6f7",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Badenoch says Tories would prioritise cutting taxes for businesses over individuals – UK politics live",
+      "snippet": "Conservative leader also called for benefit spending to be cut to fund rise in defence budget\nBadenoch says Britain needs tax cuts.\nWe need to get out of the way of job creators who make our country richer. We need to encourage risk taking,",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:57:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e0282fffd94e9e94",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Angel Reese dominates Game 2 as Atlanta Dream even WNBA Finals against Golden State Valkyries",
+      "snippet": "Angel Reese scored 30 points and grabbed 16 rebounds as the Atlanta Dream routed the Golden State Valkyries 79-65 to even the WNBA Finals series.",
+      "link": "https://www.foxnews.com/outkick-sports/angel-reese-dominates-game-2-atlanta-dream-even-wnba-finals-golden-state-valkyries",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:55:43.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e346a700b30175d4",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+      "snippet": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on Wednesday\n\nBusiness live – latest updates\n\nIndia’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-",
+      "link": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:53:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_1a4f5dab8b57df51",
       "source": "NYT",
@@ -106,9 +275,9 @@
       "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
       "imageUrl": null,
       "publishedAt": "2026-10-20T09:52:56.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_577d2484b6de7972",
@@ -122,6 +291,32 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_61e1a1527c2f835d",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Iran touts closest ever ties with Russia, contradicting Trump",
+      "snippet": "Iran says its ties with Russia are stronger than ever after a visit by Putin's top envoy, challenging Trump's assertion that Moscow isn't helping Iran in the war.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:48:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c8bc98fb8952814",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+      "snippet": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests\nMeanwhile, the EU’s trade commissioner Maroš Šefčovič said the bloc’s relationship with the UK is of “vital importance in the current geopoli",
+      "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:45:40.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_49489e8a51973e00",
@@ -150,6 +345,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9de8635a2894d3cc",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Albertans reject referendum on independence from Canada",
+      "snippet": "Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:42:04.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_37712028616bd9e8",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -171,6 +379,19 @@
       "link": "https://www.france24.com/en/video/20261020-louvre-museum-targeted-as-student-protests-intensify-after-the-weekend",
       "imageUrl": "https://s.france24.com/media/display/40311cdc-cc67-11f1-89b4-6313a763b466/w:1024/p:16x9/capture-e939e1bb.jpg",
       "publishedAt": "2026-10-20T09:40:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_85da9e3d3888605c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trumpism Is Backfiring",
+      "snippet": "Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.",
+      "link": "https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:38:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -228,6 +449,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e102d99e3a00f549",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Brendan Nugent facing three charges over alleged attack on MP Helen Haines",
+      "snippet": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta\n\nWho is Helen Haines, the MP allegedly attacked in Victoria?\n\nBrendan Nugent’s family say Haines has been their friend for more th",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:18:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_607fb61d8648d3d2",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Iran live updates: Trump says US is winning war, 'can leave right now'",
+      "snippet": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates/?id=137370653",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:17:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e6e7b802a6790de0",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -267,13 +514,39 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5c0ee49473e75a37",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "snippet": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car\n\nBrendan Nugent’s family say Helen Haines has been their friend for more than 20 years\n\n‘I don’t want to be known as a hero’:",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:13:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3af40a00241c94b5",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " What to know about changes to Medicare as open enrollment begins",
+      "snippet": "Open enrollment for Medicare, the nationwide federal health insurance program primarily for those aged 65 and older, began last week and there are some changes.",
+      "link": "https://abcnews.com/Health/medicare-plans-open-enrollment-begins/story?id=137374397",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:12:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_eb8c4022e3381e09",
       "source": "Sky News",
       "sourceColor": "#8A3E5C",
       "headline": "Man charged after Australian MP struck by vehicle",
       "snippet": "Police have charged a man after an Australian MP was hit by a vehicle, causing her to undergo a leg amputation.",
       "link": "https://news.sky.com/story/man-charged-after-australian-mp-struck-by-vehicle-13601264",
-      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-helen-haines-australia_7380471.jpg?20261019092518",
       "publishedAt": "2026-10-20T09:11:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -302,6 +575,19 @@
       "imageUrl": "https://s.france24.com/media/display/99c8458e-cc64-11f1-9322-638c1c1f5fd6/w:1024/p:16x9/capture-363d0676.jpg",
       "publishedAt": "2026-10-20T09:08:06.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c89c2a4996002c07",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Global shares mostly decline after AI stocks lead a rebound on Wall Street - AP News",
+      "snippet": "Global shares mostly decline after AI stocks lead a rebound on Wall Street  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:08:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -345,30 +631,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_85da9e3d3888605c",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Why You Can’t Capitulate to Trump",
-      "snippet": "Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.",
-      "link": "https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html",
+      "id": "story_19ea2217606ad152",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Alberta voters reject plan for referendum to leave Canada",
+      "snippet": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity\nVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mar",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T09:04:21.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-20T09:02:43.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3af40a00241c94b5",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " What to know about changes to Medicare as open enrollment begins",
-      "snippet": "Open enrollment for Medicare, the nationwide federal health insurance program primarily for those aged 65 and older, began last week and there are some changes.",
-      "link": "https://abcnews.com/Health/medicare-plans-open-enrollment-begins/story?id=137374397",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T09:03:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_ec67d89b8b3ed971",
@@ -631,39 +904,13 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_cd957d42e139daa4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Marine Le Pen vows to be the one to end ‘decades of anarchic immigration’ as France is torn apart by riots",
-      "snippet": "The riots and looting across France might have been supported by leftist radicals, but National Rally leader Marine Le Pen stands to be the greatest beneficiary when the dust eventually settles. Protesters, many of whom have been seen carry",
-      "link": "https://www.washingtonexaminer.com/news/world/4770557/marine-le-pen-end-anarchic-immigration-france-riots/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_964b212835278eea",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "AOC’s gender warmongering",
-      "snippet": "If Rep. Alexandria Ocasio-Cortez (D-NY) runs for president in 2028, expect her campaign to be an all-out war on men. Speaking in Michigan with Abdul el Sayed last week, Ocasio-Cortez falsely accused Republicans of wanting to keep women out ",
-      "link": "https://www.washingtonexaminer.com/opinion/editorials/4770824/aoc-gender-warmongering/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7cbd30d2ca70a569",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-      "snippet": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
-      "imageUrl": null,
+      "id": "story_fb98dcce3635a841",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
+      "snippet": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/B-Caciotti_P4P-SouthCarolina_maxHeight_3000_maxWidth_3000.jpg?w=1149",
       "publishedAt": "2026-10-20T09:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -696,14 +943,53 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fb98dcce3635a841",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation",
-      "snippet": "The post How Trump’s FBI Purge Saved Lindsey Graham and James Clyburn From a Bribery Investigation appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/navatek-lindsey-graham-jim-clyburn-fbi-anti-corruption-bribery",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/B-Caciotti_P4P-SouthCarolina_maxHeight_3000_maxWidth_3000.jpg?w=1149",
+      "id": "story_7cbd30d2ca70a569",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "snippet": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+      "imageUrl": null,
       "publishedAt": "2026-10-20T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cd957d42e139daa4",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Marine Le Pen vows to be the one to end ‘decades of anarchic immigration’ as France is torn apart by riots",
+      "snippet": "The riots and looting across France might have been supported by leftist radicals, but National Rally leader Marine Le Pen stands to be the greatest beneficiary when the dust eventually settles. Protesters, many of whom have been seen carry",
+      "link": "https://www.washingtonexaminer.com/news/world/4770557/marine-le-pen-end-anarchic-immigration-france-riots/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_964b212835278eea",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "AOC’s gender warmongering",
+      "snippet": "If Rep. Alexandria Ocasio-Cortez (D-NY) runs for president in 2028, expect her campaign to be an all-out war on men. Speaking in Michigan with Abdul el Sayed last week, Ocasio-Cortez falsely accused Republicans of wanting to keep women out ",
+      "link": "https://www.washingtonexaminer.com/opinion/editorials/4770824/aoc-gender-warmongering/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b8edebc9776b569",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "snippet": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:58:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -713,7 +999,7 @@
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
-      "snippet": "As Berlin opens a major exhibition on the founder of the Mongol Empire and his successors, here's how Genghis Khan disrupted the course of history.",
+      "snippet": "Berlin is host to a major exhibition on the founder of the Mongol Empire and his successors. Here's how Genghis Khan disrupted the course of history.",
       "link": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-20T08:57:00.000Z",
@@ -735,19 +1021,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e102d99e3a00f549",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Brendan Nugent charged over alleged attack on Helen Haines",
-      "snippet": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta \nHelen Haines’ alleged attacker, Brendan Nugent, has been charged with dangerous driving causing serious injury, intentionally cau",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-alleged-attacker-brendan-nugent-charged-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T08:52:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_6005d29ee8953f72",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -756,6 +1029,19 @@
       "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
       "imageUrl": null,
       "publishedAt": "2026-10-20T08:50:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b965c60bdd93fb7",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "French authorities impose partial curfews in Paris, Nice",
+      "snippet": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
+      "link": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:49:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -787,6 +1073,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_26bb927e4cb7d331",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+      "snippet": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’\n\nBusiness live – news updates\n\nHealey to reject calls to raise CGT in budget\n\nUnemployment in the UK has fallen unexp",
+      "link": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:39:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_688b62d3bf17363e",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -800,6 +1099,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5ab5fd89858cf768",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Every look from the Victoria's Secret Fashion Show - Reuters",
+      "snippet": "Every look from the Victoria's Secret Fashion Show  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2lPVEdrVzBfenM5SXI3MVNXTDdLQ1R5Si12OHFWQzF1TUtJaUZYdjl6SmZjSkdZeS1FSWV2a2JzeXc5TEFGdkliY09WTFE2SWYwRUQwVUJaWWsxV2dSNGZwYWlOMFMyd0kzaTZoN0xJZmJTRm9NUjdmdmhPeG9sYlJ5d05PVDREcWlFbF9YZ0U?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:29:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6184906e8ae25ba6",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Rep. Adam Smith joins lawmakers who received letter with 'suspicious substance'",
+      "snippet": "Washington State Democratic Congressman Adam Smith received a “suspicious letter containing a powdery substance” on Monday.",
+      "link": "https://abcnews.com/US/rep-adam-smith-joins-list-lawmakers-received-letter/story?id=137400114",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:28:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8f9ac3c23b37fb8e",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -809,6 +1134,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T08:25:59.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3c1dfdbf1a4ce189",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Israel's Ben-Gvir poised for election gains as young voters turn to far right - Reuters",
+      "snippet": "Israel's Ben-Gvir poised for election gains as young voters turn to far right  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9Wc1hmTWh4V3JfNXMxV3FjbVI1WTJ6Vy1JY1p5ZUdXa2wxbFQ3V2VyMmhFTm9NaG5LMm5NdjJNQ08zbksyODZtd1NFQS03V0x1MGtrZ3JmTGg1Z3lWc0JnNjVjZ1NUUEU1clZLS0g5Y1JqQlpvRTlheG1LQkxrTHY1TUIzQVAzcDh2dVdpMVU5ekUwbFdRTC1wWHBLTFRUY0FuMUhpdDJ0by1OTmp1akRtbTFvT3l1YjczXw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:25:04.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -839,6 +1177,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1cab8161e3707632",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "PM Carney hails early results showing Alberta voting to stay in Canada",
+      "snippet": "Canadian Prime Minister Mark Carney welcomed early referendum results indicating that Albertans voted for the province to remain part of Canada.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/20/canada-Alberta-referendum/3911792477909/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/3911792477909/2026/upi_com/a1060d55f2508c4f28a263d93967781d/v1.5/PM-Carney-hails-early-results-showing-Alberta-voting-to-stay-in-Canada.jpg",
+      "publishedAt": "2026-10-20T08:23:46.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a0bc8faf316295ae",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -852,29 +1203,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_8d3613ff7b3bae07",
+      "id": "story_bc71e41948eb7520",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
-      "snippet": "Middle East News | Latest News From The Middle East Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+      "headline": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations - AP News",
+      "snippet": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTIxQ3FBUUlwY1Y3Y04xaWdwaXRyb1RsaGdya3E3VVdlTU93VEZSZDVOWmllSVlDOXoyUHA2Mmc3dEk3QnBMRzNmSmo1c19HZ1Y0MVRhdDZQSEI3Rl9fbkNmMDVmVmkxNmhWd3RGcWR0VEgyNEpDaG90MGl3bGhCTUhXdVJRb3pvQUxnM25B?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T08:20:45.000Z",
+      "publishedAt": "2026-10-20T08:16:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_401157931e45d6c3",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Mississippi Says It Won’t Bring Criminal Charges in Police Shooting of Toddler",
-      "snippet": "Attorney General Lynn Fitch issued a terse statement, months after officers, responding to a report of stolen diapers, surrounded a car, guns drawn.",
-      "link": "https://www.nytimes.com/2026/10/20/us/mississippi-police-shooting-toddler-kohen-wiley.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T08:16:38.000Z",
-      "tier": "routine",
-      "topic": "news",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -904,6 +1242,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_6d2279089ca82a60",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+      "snippet": "Father of 43-year-old Tarrawingee man who allegedly attacked the independent MP says incident is ‘devastating and unfathomable’\n\nWho is Helen Haines, the MP allegedly attacked in Victoria?\n\nGet our new political email, free app or daily new",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T08:04:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_13339d40a2c18fc7",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -915,32 +1266,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_c949915ebbb0d6f7",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Badenoch says Healey’s budget will be worse than Reeves’s if he doesn’t slash spending – UK politics live",
-      "snippet": "Conservative leader to give a speech later, while Treasury sources say Healey has ruled out a rise in capital gains tax\nGood morning. John Healey, the chancellor, is delivering his first budget a week tomorrow, and this morning there are tw",
-      "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T07:47:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c8bc98fb8952814",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
-      "snippet": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests\nFrench prime minister Sébastien Lecornu said that targeted curfews introduced in parts of Paris and other major cities “have contributed to c",
-      "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T07:37:55.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     },
     {
       "id": "story_2dbe9c51cabb0351",
@@ -986,10 +1311,23 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Healey to reject calls to raise capital gains tax in budget",
-      "snippet": "Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury\nJohn Healey will not raise capital gains tax in next week’s budget, despite previous calls to do so from cabinet colleagues",
+      "snippet": "Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury\n\nUK politics live – latest updates\n\nJohn Healey will not raise capital gains tax in next week’s budget, despite previous ca",
       "link": "https://www.theguardian.com/uk-news/2026/oct/20/john-healey-no-capital-gains-tax-rise-budget",
       "imageUrl": null,
       "publishedAt": "2026-10-20T07:27:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4d60c863ac175682",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+      "snippet": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
+      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T07:19:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1021,28 +1359,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3c1dfdbf1a4ce189",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Israel's Ben-Gvir poised for election gains as young voters turn to far right - Reuters",
-      "snippet": "Israel's Ben-Gvir poised for election gains as young voters turn to far right  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG9Wc1hmTWh4V3JfNXMxV3FjbVI1WTJ6Vy1JY1p5ZUdXa2wxbFQ3V2VyMmhFTm9NaG5LMm5NdjJNQ08zbksyODZtd1NFQS03V0x1MGtrZ3JmTGg1Z3lWc0JnNjVjZ1NUUEU1clZLS0g5Y1JqQlpvRTlheG1LQkxrTHY1TUIzQVAzcDh2dVdpMVU5ekUwbFdRTC1wWHBLTFRUY0FuMUhpdDJ0by1OTmp1akRtbTFvT3l1YjczXw?oc=5",
+      "id": "story_7129039b71518a1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T07:05:43.000Z",
+      "publishedAt": "2026-10-20T07:08:37.000Z",
       "tier": "major",
-      "topic": "news",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
-      "id": "story_1cab8161e3707632",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "PM Carney hails early results showing Alberta voting to stay in Canada",
-      "snippet": "Canadian Prime Minister Mark Carney welcomed early referendum results indicating that Albertans voted for the province to remain part of Canada.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/20/canada-Alberta-referendum/3911792477909/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/3911792477909/2026/upi_com/a1060d55f2508c4f28a263d93967781d/v1.5/PM-Carney-hails-early-results-showing-Alberta-voting-to-stay-in-Canada.jpg",
-      "publishedAt": "2026-10-20T07:03:26.000Z",
-      "tier": "major",
+      "id": "story_a87d30039cf0fd4d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+      "snippet": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.",
+      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T07:07:17.000Z",
+      "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
     },
@@ -1073,17 +1411,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4f4b0bc0eb7be3bf",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Malaysia de-registers main opposition bloc as elections loom - Reuters",
-      "snippet": "Malaysia de-registers main opposition bloc as elections loom  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXJhdklRSEUwTWdWSkF3UjlTWC0wZks1NWJnVk00QjlfaGw0b0U4WjhRZXpvdERDTVVYWjVKTEE1eEh1enV2VTF1aUI5UzE2ZHVTUVJCU091Q1hoSWdOVGFuSW9YaGZtTUdkYXluNXQ1TzQyZ015T3pQMmNjMmh3SXpQeVA3S1RoSjhxdWp5UThzLTF3SVZfZUVqLWx2NGl5am5kWHdMSnFEcl82aHF6dWhB?oc=5",
+      "id": "story_7382042c3996eaa0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Alberta voters reject a move toward independence in referendum backing Canadian unity - AP News",
+      "snippet": "Alberta voters reject a move toward independence in referendum backing Canadian unity  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWZucE56Yy02MWJYWDBWQ1RVdEZoa2hZTGdHenVQbGd2Vms5bG5lVU41UmZJbWFCamJYN2dOdGxfM3NTei1oXzZaeENURkJ4alRIOW5tZHIzUHZnT3FubURtSlBaQzZaeWozNHVyc2RodHJYWWJncjl2WE9QNG5jcG94QnpaR0lQdHVzQWFtVVI2alpFX3BvbkZGVGhvUUQ4OWt1QQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T06:49:00.000Z",
+      "publishedAt": "2026-10-20T06:51:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
       "id": "story_6af66fd74ce03b76",
@@ -1102,10 +1440,10 @@
       "id": "story_b87a9ac87bc816b2",
       "source": "Sky News",
       "sourceColor": "#8A3E5C",
-      "headline": "Alberta votes to remain part of Canada",
+      "headline": "Oil-rich Alberta votes to remain part of Canada in historic referendum",
       "snippet": "Alberta ‌has voted to remain part of Canada in the province's first-ever referendum on separation.",
       "link": "https://news.sky.com/story/alberta-votes-to-remain-part-of-canada-13601218",
-      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-canada-referendum-alberta_7381330.jpg?20261020080224",
       "publishedAt": "2026-10-20T06:41:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -1116,33 +1454,20 @@
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
       "headline": "Alberta voters reject separation from Canada, early results show",
-      "snippet": "With more than one million votes counted, about 76 percent supported remaining in Canada.",
+      "snippet": "With more than one million votes counted, about 77 percent supported remaining in Canada.",
       "link": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:37:32.000Z",
       "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_4b8edebc9776b569",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "French cities calm overnight after curfews imposed to quell violence, PM says",
-      "snippet": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T06:35:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_755505b57f7a8d0a",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "She was harassed for crude remarks about Modi at a Cockroach protest. Now she can’t leave home",
-      "snippet": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism\nBefore 24 July, a person I will call R was preoccupied with the ordinary routines of ",
+      "snippet": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism\n• Don’t get This is India delivered to your inbox? Sign up here\nBefore 24 July, a per",
       "link": "https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:30:18.000Z",
@@ -1151,14 +1476,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_26bb927e4cb7d331",
+      "id": "story_dc95bd901582229c",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Surprise drop in UK unemployment to 4.7%",
-      "snippet": "ONS data shows rate down from 4.9% but number of job vacancies continues to shrink\n\nBusiness live – news updates\n\nUnemployment in the UK fell unexpectedly in the three months to August, to 4.7% from 4.9%.\nThe Office for National Statistics ",
-      "link": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+      "headline": "Human rights commission says ‘violence has no place in our society’ after alleged attack – as it happened",
+      "snippet": "This blog is now closed\n\n‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured\n\nHelen Haines, the principled MP respected across parliament\n\n‘It’s very clear that this was a deliberate act’, PM says\nThe",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T06:29:57.000Z",
+      "publishedAt": "2026-10-20T06:30:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1172,19 +1497,6 @@
       "link": "https://www.theguardian.com/australia-news/2026/oct/20/kyle-hudson-inquest-victorian-coroner-gambling-online-betting-ntwnfb",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:29:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5b5f76364b290a8",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Lack of curiosity’ about family’s religious beliefs was ‘missed opportunity’ to save eight-year-old, inquest hears",
-      "snippet": "Coroner says she’s considering adopting recommendations from Victoria’s cults inquiry as investigation into Elizabeth Struh’s death continues\n\nGet our breaking news email, free app or daily news podcast\n\nThe coroner investigating the death ",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/elizabeth-struhs-death-inquest-saints-religious-sect-coroner-evidence-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T06:28:57.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1271,11 +1583,24 @@
       "id": "story_8813932c6f8727c4",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "HSBC CEO says alternative routes could make Strait of Hormuz 'redundant' in five years - Reuters",
-      "snippet": "HSBC CEO says alternative routes could make Strait of Hormuz 'redundant' in five years  Reuters",
+      "headline": "Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says - Reuters",
+      "snippet": "Hormuz could be 'redundant' in five years, replaced by new routes, HSBC CEO says  Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkVTcjIwVzllN1R2X0UtNUdya0l1Y1pNWnc4eTItVF9lSVphdC1tMVRHZXdxbEV5dFZ2RjBDZm51Y1NVbU54Q0pHaGpuVTVha1F4ajg2NEY1Y3U1dnZxYTBJVjlTazNObkJnZF94dHRKTkRrazlEMzBSeklRMmlESWNwUk1jTC00YjJhRXFQYXUzMzVjTnVxTVI5V1VfRkNOOENGaHdkWEFZOG9MY0ZLVUU1M2Zib00xc3BHQkFHWUh4ZWNMZUNpcEtR?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:14:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_35927d90f37f9255",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Police charge driver with intentionally causing serious injury to Australian federal lawmaker - AP News",
+      "snippet": "Police charge driver with intentionally causing serious injury to Australian federal lawmaker  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T06:13:33.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1289,9 +1614,9 @@
       "link": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:13:00.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_e235dc37f70ebf01",
@@ -1302,9 +1627,9 @@
       "link": "https://www.cbsnews.com/news/canada-alberta-referendum-vote-separation-independence/",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:11:53.000Z",
-      "tier": "major",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 3
     },
     {
       "id": "story_aab0d8b1e887a431",
@@ -1337,10 +1662,23 @@
       "source": "NPR",
       "sourceColor": "#8D68B8",
       "headline": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "snippet": "Voters in Canada's oil-rich province of Alberta have rejected a proposal to begin a process toward independence, results showed early Tuesday, delivering a victory for supporters of Canadian unity.",
+      "snippet": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
       "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
       "imageUrl": null,
       "publishedAt": "2026-10-20T06:02:40.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_5d0e24459c41027d",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Australian MP seriously hurt in suspected car attack",
+      "snippet": "Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia's prime minister has called a deliberate attack by a man in a car.",
+      "link": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T06:02:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1366,34 +1704,8 @@
       "snippet": "“It’s not good when the edible arrangement you got on your first day is still edible on your last day,” Jimmy Fallon said.",
       "link": "https://www.nytimes.com/2026/10/20/arts/television/late-night-trump-press-secretary-katie-zacharia.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T06:01:57.000Z",
+      "publishedAt": "2026-10-20T06:01:58.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4b5f90be8d731454",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Bodycam video shows police officer shoving Herzog protester before ‘I punched him in the head’ boast",
-      "snippet": "Lawyer Nick Hanna argues footage aired in Sydney court depicts ‘unlawful use of force’ by ‘very officer boasting about how he pumped him’\n\nGet our breaking news email, free app or daily news podcast\n\nBodycam footage from police patrolling a",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/herzog-protest-police-bodycam-video-boasts-punch-to-protester-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:59:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_35927d90f37f9255",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "An Australian lawmaker is critical but stable after being hit by a car, the prime minister says - AP News",
-      "snippet": "An Australian lawmaker is critical but stable after being hit by a car, the prime minister says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSFFOVnVHa0tBUGhjMHRSUTlkTlQ4clhTSmVkNmpnTXFFRVpsZFprTEplajRtX1hmYmZtVWRLRjdZZXB6ZzVseWtHeG51Q1Rxb21YTUZmOUh3aGpBOGQzYWlpRGhiVXJWZjhwTkJ4STFfbWxZWnRpN0t2a3hxQzNsN0pKMEVsZnBkV085TWNvRkV2VlR2azRaMTB6OTM1ZHlhWGZEYzV3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:56:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1424,54 +1736,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_19ea2217606ad152",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
-      "snippet": "Projection delivers a victory for prime minister Mark Carney and supporters of Canadian unity\nVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process toward independence, the national broadcaster CBC has projec",
-      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:50:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d0aff041f3cbb151",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Ukraine's Zelenskiy travels to Norway for talks on war, security on Tuesday - Reuters",
-      "snippet": "Ukraine's Zelenskiy travels to Norway for talks on war, security on Tuesday  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:47:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_b88c0466f546d79e",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "South Korea to withdraw more embassy staff from Ukraine after POW dispute - Reuters",
-      "snippet": "South Korea to withdraw more embassy staff from Ukraine after POW dispute  Reuters",
+      "headline": "South Korea to pull more Ukraine embassy staff after POW dispute - Reuters",
+      "snippet": "South Korea to pull more Ukraine embassy staff after POW dispute  Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmhoSjZnaVJGWEpDQlNXcXFkRFRCeVRZNTBWVWY1bE9wbXhuQjZrdmQyQ2VtWmNjbUZicE05SXdxUjhFckJRSFJCS0FnUlppUzhaa3ZXNEtrYTRadnhRMXdFM3hZLTBNRk1fRWtCTzBTMVlfYV96akhJZk55OTd4bUtoMnh6cGtHX3hySmtacGd0bUVZUk5tZzBzVkhrT2Q3TzdJcnJ6bmp2YVVDTU16RnE5YlZBbFU3bzE1dkNmVDU3MHhvamZB?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T05:47:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_3ef1c887acae4e74",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Tuesday briefing: Can Andy Burnham beat Britain’s headphone dodgers?",
-      "snippet": "In today’s newsletter: The prime minister’s campaign against noisy passengers has struck a chord with commuters. Whether anyone hears him remains to be seen.\nGood morning.\nMe again, back from the October school holiday (a week in glorious W",
-      "link": "https://www.theguardian.com/world/2026/oct/20/tuesday-briefing-can-andy-burnham-beat-britains-headphone-dodgers",
+      "id": "story_d0aff041f3cbb151",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine - Reuters",
+      "snippet": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T05:44:25.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-20T05:47:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1499,20 +1785,7 @@
       "publishedAt": "2026-10-20T05:40:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e68e43f8778060b1",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Australian MP loses leg after car ‘reversed to hit her a second time'",
-      "snippet": "An Australian MP has had a leg amputated after a man allegedly drove into her and reversed to hit her a second time.",
-      "link": "https://news.sky.com/story/australian-mp-loses-leg-after-car-reversed-to-hit-her-a-second-time-13601198",
-      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-helen-haines-independent_7380492.jpg?20261019094903",
-      "publishedAt": "2026-10-20T05:36:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_f6c4a5bf94c8761e",
@@ -1523,7 +1796,20 @@
       "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-20T05:25:31.000Z",
-      "tier": "routine",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_568ba7de2be93a86",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations - AP News",
+      "snippet": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2Z4eF9VQkszcjYzUUF1S2tZYWdRcGpuWGZjLUY0ejVwMGRYdlJWUkMyVmxzdmEtdGhnaC0zZHlWTENFeFdsbm9YLVFqVVcxd2dPMmpzS1FiNU9fYy1FS2ZDSjNIdnJzcXNSX3pCbTVhZ1BMRGZ5UUtUVnF3SnhMdFBHVWw1UUdEd1hNQ3J2WVVYQWNQSDFzazNDTUo?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T05:18:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1531,8 +1817,8 @@
       "id": "story_03ba7c67dc76ff37",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Chinese navy says US ship near Sabina Shoal jeopardised maritime security - Reuters",
-      "snippet": "Chinese navy says US ship near Sabina Shoal jeopardised maritime security  Reuters",
+      "headline": "China sends naval forces to monitor US warship near disputed shoal - Reuters",
+      "snippet": "China sends naval forces to monitor US warship near disputed shoal  Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOHozWXlncm9jZTU0NmZiWUk0blJ0cHpVeDNpWm9UVUdscHU1V2MteFNUaFBVNF9tazZib0pwWDU4czUxSTZ1Wmg3WlVlMHlCLU1wYzdDaWNrdmdBT3gyOHUzY3dMbXdqTF91SURON1NLcU02bDhJdE9WaE10eW9OSXJQZzlHcFh5c2k2V1dhQ1lJa2Y3bmdMVlRYbVlqQ3NwekpLaHdvbzBud1M1Sl9DN0lRd3BFWG8zZjV3ZlNB?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T05:13:00.000Z",
@@ -1562,19 +1848,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWJoVEhweGRYM3Q2WWpzc2VRT2RqWU1OVmVfSmdlNGxKaTNNUURTSzYzUW1iTDkzTFdwRWNFVzN3MWNyd3RmMUl2UU0wYmQtQzd5NVM0VzlCazlDdkdSWVFDSll3WGdRRkpQZFplZVZYSFFZZjVJeElTTkthVy1sbERwMXRpS2FhV0E?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T05:05:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f129448ebd218df3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "In their own words: Israeli politicians’ extreme speech surges ahead of elections - AP News",
-      "snippet": "In their own words: Israeli politicians’ extreme speech surges ahead of elections  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUtJWmRSYTB4VThFV2V2Wnpmc0ttcTlyNlNuM1hYZGFFTjlrSTFlTVpnMThVejRFcDBwWUk4QXFtUURONEV6VjBxci1WYjh0VHdjOHpmVlJ5YUllZVhVY2RXSWVGMWJuQVBRY1hldTNlNzY0M1ZZVW9uUk8tM3Z1RXhfb3JkQkR4WF9PNEh5T2JyWElqVXF6TEUxb1dBakUxQ1hJU3VVTUVyS1o3clpVTDNWTGxwNXc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:04:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1619,71 +1892,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_8f317aaa2eb97606",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Royal Exchange boss unveils new plays two years after damaging censorship row",
-      "snippet": "Selina Cartmell announces season including Stockport-set version of Phaedra myth by Simon Stephens\nA theatre boss has promised to channel the “pioneering spirit of Manchester” and be “brave and fearless” as she unveiled a new season of work",
-      "link": "https://www.theguardian.com/stage/2026/oct/20/royal-exchange-theatre-boss-selina-cartmell-new-plays-censorship-row",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:00:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_71f3d2f0196abe09",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Public support for founding principles of NHS is falling across UK population",
-      "snippet": "Rise in economic hardship and changes in attitudes towards migration could explain drop in support, experts say\nPublic support for the NHS’s founding principles – that it is free to use, available to everyone and tax-funded – has fallen ove",
-      "link": "https://www.theguardian.com/society/2026/oct/20/public-support-founding-principles-nhs-falling-across-uk-population",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:00:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa5b2be9e30bf1e2",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "New Bradford railway station will ‘transform travel across the north’",
-      "snippet": "Transport hub will offer through trains between Leeds and Manchester with  ‘turn-up-and-go’ service\nA new railway station will be built in Bradford to “transform how people travel across the north”, the government has announced.\nThe station",
-      "link": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:00:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_05d248f1eb25e6a4",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Indian Democracy Has Found New Life in the Streets",
-      "snippet": "A controversial overhaul of voter rolls threatens Modi’s standing and has breathed new life into India’s battered democracy.",
-      "link": "https://www.nytimes.com/2026/10/20/opinion/india-voters-protests.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:00:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_93aabf6b39421372",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Australian barber hailed as hero for running to lawmaker's rescue during attack - Reuters",
-      "snippet": "Australian barber hailed as hero for running to lawmaker's rescue during attack  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjBFemVUb3AzTlZSZ2MwNW9lM1dtWDFUQmppX3hXZm5tMGdHcG9qUHFvVWF1R0JuRnhwajZtV3dhczBOb0FuX2w2S3czWnRzRjMwdHRzdFV1ejJBajVSZGlNbWNrN1RTMDBRcFZwdWs2SGhSYTlYT1lrSE81a3V6cm9zRzRtNlotSTMwM0laOGwxaVlmdUt3dW9nV3dNRjZ3NmhaaE1KakhKNUJsdXFJ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T05:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_0aa21d197e8d9e4c",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1717,7 +1925,7 @@
       "snippet": "Defense Secretary Pete Hegseth made an unannounced visit to Israel just over a week before Prime Minister Benjamin Netanyahu stands for elections, and as President Trump floats restarting the Iran war.",
       "link": "https://www.cbsnews.com/news/hegseth-visits-israel-elections-iran-war-netanyahu/",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T04:47:06.000Z",
+      "publishedAt": "2026-10-20T04:50:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1762,14 +1970,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fc771ea08d4d586f",
+      "id": "story_561b78e5c979d024",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
-      "snippet": "Associated Press News: Breaking News | Latest News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+      "headline": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder - AP News",
+      "snippet": "Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTgxVjJGeG9KQlNaNkVXRVV2RzFVdDlSMUJMdjNVbTQ5MnpHZkMtOEdTM0JONUxrRldZU1Jna2l3WkZrM2wxM2VsazJjSVdVX1QxZm1kU2JTNTNwOXFndFdMYXRscEJFYnFQMTZTWWFxUlRod1pUR2dBUThwZllkb2lNTThrZzk4YmtNYWJuaVdPd00?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T04:35:34.000Z",
+      "publishedAt": "2026-10-20T04:36:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1801,28 +2009,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_ef0186ecd59fcc13",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Trump admin sees escalating risk from Houthis, prompting wave of warnings",
-      "snippet": "The heightened concern comes as Saudi Arabia has struggled to defend against deadly missile and drone strikes on energy and aviation targets.",
-      "link": "https://abcnews.com/Politics/trump-admin-sees-escalating-risk-houthis-prompting-unprecedented/story?id=137397953",
+      "id": "story_4426c72c54c09a2b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series - AP News",
+      "snippet": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGd2c2VleXhvVWE4V1VJVUV0QVlmMjRtOU5yLTdRTnpuSEk2cDFVTlVVMExDZjlRdDdTcjV1cWRncWZ6SGpmd2F3MGVJd0JIR0JKSzQ3UnJzUWFaRWhjTlVvWVllWThRMVJTQ3E1QUppN0tTMGZTZnlRaW9VU29JS19zb0tIYUgyZENFUHZn?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T04:19:38.000Z",
-      "tier": "routine",
-      "topic": "news",
+      "publishedAt": "2026-10-20T04:21:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
-      "id": "story_13c258f1151562bc",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
-      "snippet": "Witness breaks down in tears, tells court ‘I was scared’ after son declines to report alleged kissing and touching by broadcaster\nThe mother of the youngest alleged victim of Alan Jones has told a Sydney court she “trusted” the 2GB broadcas",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
+      "id": "story_0f04e616b688d547",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
+      "snippet": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbThaWjFtd3FZVjVKb2hIcEpITUZlclloelM2TE51a094eTlCQlF4RDllSzM5bjNmejZuNGxZUnVMNjhuMFVEXzFITkxNblNQaUV2M3F6NmJOWnE2NWlZcUVYNU11dEFmS0l1LTFjUi1sR09ydHVsY0YyZkxlamk2OHhOTEo5QURpNGpr?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T04:16:22.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-20T04:20:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1831,24 +2039,11 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
-      "snippet": "The president came out in support of Senator Roger Marshall, who is facing and unexpectedly strong challenge from Democrat Adam Hamilton \nThe fact that Donald Trump was here at all said more about a looming electoral disaster facing his Rep",
+      "snippet": "The president came out in support of Senator Roger Marshall, who is facing an unexpectedly strong challenge from Democrat Adam Hamilton\nThe fact that Donald Trump was here at all said more about a looming electoral disaster facing his Repub",
       "link": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
       "imageUrl": null,
       "publishedAt": "2026-10-20T04:13:28.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7382042c3996eaa0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Canada awaits Alberta referendum results after Carney urges voters to reject separation - AP News",
-      "snippet": "Canada awaits Alberta referendum results after Carney urges voters to reject separation  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWZucE56Yy02MWJYWDBWQ1RVdEZoa2hZTGdHenVQbGd2Vms5bG5lVU41UmZJbWFCamJYN2dOdGxfM3NTei1oXzZaeENURkJ4alRIOW5tZHIzUHZnT3FubURtSlBaQzZaeWozNHVyc2RodHJYWWJncjl2WE9QNG5jcG94QnpaR0lQdHVzQWFtVVI2alpFX3BvbkZGVGhvUUQ4OWt1QQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T04:13:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1931,19 +2126,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_7a2e23274f6a6526",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
-      "snippet": "Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.",
-      "link": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T04:01:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_ed2bf059b51a8751",
       "source": "Sky News",
       "sourceColor": "#8A3E5C",
@@ -1996,15 +2178,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fec5078de3754d8b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘These risks are real’: the threat of AI bioweapons – podcast",
-      "snippet": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Samp",
-      "link": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "id": "story_712e09f201d4aaa3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase - AP News",
+      "snippet": "Parents of Bend, Oregon, shooting victim hire attorneys to investigate school plans and gun purchase  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHpXeUNIUVUyWncxa08zOW5sc3FBWVpwcmwxMDZwMWtlc0dLV2J4UnAzdFdFOG04SlRvYm1fdGpKLUJSc2lWVHdfeHIyNWktSEdFeUMzc3Atb0I2TWw2cmpyLVFyc1pPODdGdEExWDNteklrZndSbDlQYVk0VEFfdmROU093b0ZQa0czUEdDdHVzZW1DazRIQ2lHaVBzT2cySGNnUWV4TQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T04:00:15.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-20T03:59:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2035,19 +2217,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_86cba29ee3610750",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Cleveland’s painful World Series drought continues at hands of Tampa Bay Rays",
-      "snippet": "For yet another season, Cleveland baseball fans will have to wait",
-      "link": "https://abcnews.com/Sports/wireStory/clevelands-painful-world-series-drought-continues-hands-tampa-137402247",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T03:49:22.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_78ee8fe9fac95dd1",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -2057,6 +2226,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T03:45:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7c16c2f25024302e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "How France’s worst rioting in years erupted and how the government responded - AP News",
+      "snippet": "How France’s worst rioting in years erupted and how the government responded  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSllKV1hPNWE2Mmc5TFhzY0oxaUZzNW9Gd2haNjBIMUc3SWIwZWtMd3FMb21DajNOckgybzdfWC1tTEZxMkhjblY1TzUwdUpHcUNzc1dHX242RlRhWHNQRE1WQi1uRWVyWldfMUgta01uRnFFaWwtYlJBeVhobXpKdjRlMHBQOGZvOVJOa1RMSHEyc0E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T03:44:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2074,11 +2256,24 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c4fb4fa9e969f7b4",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1 - AP News",
+      "snippet": "Angel Reese has 30 points, 16 rebounds as Dream beat Valkyries 79-65 to even WNBA Finals at 1-1  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTU02U05GZzQ4MWE4OWFSRk1sa1VTSjYySE9Va003M1V2ak1CYThYSUxCelFlbGhVR3V3OTVnNGxBSjgzbS1aQ01NcWI4VUJHRmtBblFxVEwtbUgzN0tLdm1kazY3VjMyLW5nOUhVU1NsYXZaeWg2S3RUcHRHOEwyWlhPdDhnMk1jQ0pMX1dJZjZOQ2JVVmd6MXRlaVRnZmkxMFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T03:36:00.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_536ada2c03364241",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Indonesia stems market rout ignited by MSCI expulsion threat - Reuters",
-      "snippet": "Indonesia stems market rout ignited by MSCI expulsion threat  Reuters",
+      "headline": "Indonesia battles to stabilise market after MSCI expulsion threat - Reuters",
+      "snippet": "Indonesia battles to stabilise market after MSCI expulsion threat  Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcWs3WmMyWFdwWmZpeTY4RTJudHB3TEpoNWxCT2RuZENNdWhiZU5YVkxuel9zOFhXQ3VlQWswWEdfY3J0Q3RNeC0tMFBYaEgzN185eC1BS0YzS3RmbWg5Yk9LclY3YURMQ2VfdFg1ZFRRendBRi1QRk5BWFBHdl9Uc25HNHJjVTBraHJhRHlwLXdYVWg4VHpnck9RTkR6RFpHWUlPaXZjcFFlczRBNERiaUd3YmhOSGZiSjBfdkU0ZTBad2U0eEJ4cnRmTmtKNEFl?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T03:36:00.000Z",
@@ -2113,15 +2308,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_c89c2a4996002c07",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street - AP News",
-      "snippet": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxwUkw1R0I4c0hwa0lfVGdUQ3ZoMlVlZzZBa1RBTU9hMEZtSTFQY3d3NzVYRlFiN1hubTFWX3JXVnZBbnUxSmFsM05CZ1lyVVVOamlWOXlxUzdaMTcxdFBzY3gzZVdmNjZaTXNPNWtBeTNvMTVETWtwcGxaaE5CQWFUOS0tM1NpS2FkT1pocUlYWGZkX2wyd0d3OTg?oc=5",
+      "id": "story_0c106467c176f8ed",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Zelenskyy says it's Putin who wants an endless war, not him",
+      "snippet": "Ukraine's leader rejects Trump's accusations, says Putin is refusing peace, not him, and the U.S. military is delaying \"vital supplies.\"",
+      "link": "https://www.cbsnews.com/news/russia-ukraine-war-zelenskyy-trump-putin-strikes-no-intelligence/",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T03:20:00.000Z",
-      "tier": "major",
+      "publishedAt": "2026-10-20T03:16:23.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2130,13 +2325,13 @@
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
       "headline": "Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals",
-      "snippet": "Atlanta Dream defeated Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.",
+      "snippet": "Atlanta Dream defeat Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.",
       "link": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-20T03:13:52.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "sports",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_6101f349d219b109",
@@ -2147,9 +2342,9 @@
       "link": "https://www.nbcnews.com/politics/white-house/jd-vance-declines-endorse-israel-prime-minister-netanyahu-trump-rcna604509",
       "imageUrl": null,
       "publishedAt": "2026-10-20T03:12:55.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_6ed17c07556e06e6",
@@ -2178,19 +2373,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4426c72c54c09a2b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series - AP News",
-      "snippet": "Brewers-Rays will produce a first-time champion, and maybe the first all-indoor World Series  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGd2c2VleXhvVWE4V1VJVUV0QVlmMjRtOU5yLTdRTnpuSEk2cDFVTlVVMExDZjlRdDdTcjV1cWRncWZ6SGpmd2F3MGVJd0JIR0JKSzQ3UnJzUWFaRWhjTlVvWVllWThRMVJTQ3E1QUppN0tTMGZTZnlRaW9VU29JS19zb0tIYUgyZENFUHZn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T03:10:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_4691163e294436bf",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -2213,6 +2395,45 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/garciarobert_092226gn01_w.jpg?w=900",
       "publishedAt": "2026-10-20T02:58:41.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9c66476c772ee34a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "California billionaire tax could backfire, Stanford study says",
+      "snippet": "A new analysis from Stanford economists cautions that enacting a billionaire tax could have unintended consequences.",
+      "link": "https://www.cbsnews.com/news/california-billionaire-tax-stanford-study/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:55:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_035ff7b3f13409fa",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "snippet": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:54:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d910c4820ba240ac",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders - AP News",
+      "snippet": "Leader of Kenyan doomsday cult that left more than 400 followers dead convicted of 191 murders  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPak9NUElxak01SC1xVzFnSlNLdTkxaEFsajl0NWE2QVE0b3BXT0VCdS1xTjE1Nzhfa0t1YzZMcTd6V1FfcDRLNlNyY0wwcVRMcjRaN3dvbVM2aTNwZDZZanduYm5XOUlHT0ZiOHRrN25ZMm05eUV0cTNTOHV4YVpJdnFadzVqU3M0NkVLa2VSNXNXTjg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:54:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2259,10 +2480,10 @@
       "id": "story_e244f6f0a32efa7a",
       "source": "France24",
       "sourceColor": "#3E5C8A",
-      "headline": "Live: Curfews come into effect around France to combat looting",
-      "snippet": "Curfews came into effect in cities across France, including Paris, Bordeaux, Nice and Lyon, as French police attempted to crack down on looting during protests. Prime Minister Sebastien Lecornu has said that implementing a state of emergenc",
+      "headline": "Live: France to impose more curfews as government seeks to regain control after riots and looting",
+      "snippet": "French Prime Minister Sébastien Lecornu said further curfews would be imposed \"where necessary\" on Tuesday evening after those on Monday in parts of Paris and other cities \"helped keep the peace overnight\" following a weekend of unrest and ",
       "link": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting",
-      "imageUrl": "https://s.france24.com/media/display/4ba3c65c-cc29-11f1-b901-638c1c1f5fd6/w:1024/p:16x9/000-D3RV38Z.jpg",
+      "imageUrl": "https://s.france24.com/media/display/10dcab76-cbaa-11f1-ab05-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-19T083416Z-1115269635-RC286OA4ZUIE-RTRMADP-3-FRANCE-PORTEST-PM.jpg",
       "publishedAt": "2026-10-20T02:51:36.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2282,29 +2503,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_6184906e8ae25ba6",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Rep. Adam Smith joins lawmakers who received letter with 'suspicious substance'",
-      "snippet": "Washington State Democratic Congressman Adam Smith received a “suspicious letter containing a powdery substance” on Monday.",
-      "link": "https://abcnews.com/US/rep-adam-smith-joins-list-lawmakers-received-letter/story?id=137400114",
+      "id": "story_d17fb8af45bfdca9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
+      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T02:43:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a87d30039cf0fd4d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Oil-Rich Alberta Votes on its Future in Canada",
-      "snippet": "Electors have been asked if they wish to remain in Canada or to hold another vote on breaking away in a referendum that left both sides unhappy.",
-      "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:41:51.000Z",
-      "tier": "routine",
-      "topic": "news",
+      "publishedAt": "2026-10-20T02:43:20.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2321,6 +2529,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_31bfcbd2ae86ea17",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "CNN anchor Christiane Amanpour leaving network after a storied career of 43 years - AP News",
+      "snippet": "CNN anchor Christiane Amanpour leaving network after a storied career of 43 years  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY010bnN5dnNmbmNERVNISlk1WDNSOVJ5MFdQTjE5TVVlNGEzU0s1SS11UTNCa0REZ1ktZTRlNlNsRnVDODYxd0cwSi1IcklScU9kUGZmMExrd3pyNjlxU1JDX2RpYkd5UnJuVTFNdXZWNHB1QnBOc1YyMjFLRkh0eC1xRXM3TWNGMUFaUzZR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:41:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_fe88e426c6036f95",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2329,20 +2550,20 @@
       "link": "https://www.france24.com/en/live-news/20261020-australian-lawmaker-hurt-in-car-attack-loses-leg-media",
       "imageUrl": "https://s.france24.com/media/display/f6683382-cc12-11f1-96de-6313a763b466/w:1024/p:16x9/c1c8c1ea21994ca7557dedaa39af9ec3e387267a.jpg",
       "publishedAt": "2026-10-20T02:39:24.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_13da5fb5a912fd10",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Triumphal Arch final plans submitted to National Capital Planning Commission",
-      "snippet": "The plans are scheduled to be reviewed at a Nov. 5 National Capital Planning Commission meeting.",
-      "link": "https://abcnews.com/Politics/triumphal-arch-final-plans-submitted-interior-department-national/story?id=137392598",
+      "id": "story_93aabf6b39421372",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Australian barber hailed as hero for running to lawmaker's rescue during attack - Reuters",
+      "snippet": "Australian barber hailed as hero for running to lawmaker's rescue during attack  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjBFemVUb3AzTlZSZ2MwNW9lM1dtWDFUQmppX3hXZm5tMGdHcG9qUHFvVWF1R0JuRnhwajZtV3dhczBOb0FuX2w2S3czWnRzRjMwdHRzdFV1ejJBajVSZGlNbWNrN1RTMDBRcFZwdWs2SGhSYTlYT1lrSE81a3V6cm9zRzRtNlotSTMwM0laOGwxaVlmdUt3dW9nV3dNRjZ3NmhaaE1KakhKNUJsdXFJ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-20T02:38:07.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-20T02:38:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2356,6 +2577,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T02:36:34.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_21be1e1fc258db31",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak - AP News",
+      "snippet": "Africa CDC wants aid groups to account better for millions disbursed to fight Ebola outbreak  AP News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcnVhN0llN3B3U2tFdEdXNTVmUTBUOGJTMnl4cW9EWnJPUTN2SkVxZTE2b0stdUwwaG5WQmFqeWx2UHc4aXNmMVRMcll6UUJhUll5ZGdLVWh4RTlCSzI2eEZ6d09wUTg0WWktdmpBWGtKd3Y5cHhOUlhTVHNrUW9jWmVhY2twZ2RzMzJMTnVmMkMxYmhwU2ZSbnA3M3NYZVBqTXVmTDFaT3Z6aUdiMGtzYVNXYkpmMk85eUVENQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T02:32:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2381,19 +2615,6 @@
       "link": "https://thehill.com/homenews/administration/6159434-vance-declines-netanyahu-endorsement/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292705066178-e1792462968848.jpg?w=900",
       "publishedAt": "2026-10-20T02:29:38.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_491199aafebe0537",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " JD Vance says he thinks Trump would endorse him if he ran for president",
-      "snippet": "Vance added that he hasn't spoken to Trump about it and cautioned that Trump has sometimes let a race play out to see what happens.",
-      "link": "https://abcnews.com/Politics/jd-vance-thinks-trump-endorse-ran-president/story?id=137400567",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:19:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2407,9 +2628,9 @@
       "link": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-20T02:15:00.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_0dc49070d4dd8027",
@@ -2435,7 +2656,7 @@
       "publishedAt": "2026-10-20T02:11:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_4e009b0bedf4e495",
@@ -2454,8 +2675,8 @@
       "id": "story_29f9ee2b5b6bf32c",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Asian shares tumble, oil rises as markets await AI sector results - Reuters",
-      "snippet": "Asian shares tumble, oil rises as markets await AI sector results  Reuters",
+      "headline": "Shares slide again as oil stays high; AI earnings in focus - Reuters",
+      "snippet": "Shares slide again as oil stays high; AI earnings in focus  Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdteV9meHVjc2dvbmd1WjNPa1FHR2lwTFlEcmJPWE5zZnhHSFNjQndCeHptVW1NaEpsbms3QS1oSHRiTmZyUVp2ZVR0SlMwT1kxVnM2UFdyenVSblJHVW4ySjA3aTFUcGxvbV9iaHZZMzJVZTRQV1ZtM3BZMVd4RHFsaw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-20T02:09:00.000Z",
@@ -2472,227 +2693,6 @@
       "link": "https://www.foxnews.com/politics/rogers-warns-michigan-voters-against-el-sayeds-extreme-agenda-ahead-election",
       "imageUrl": null,
       "publishedAt": "2026-10-20T02:08:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_209dc97f7a3bdcd4",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Trump uses antisemitic slur in defending Sen. Roger Marshall at rally in Kansas",
-      "snippet": "Trump had used the term during a speech last year, leading to backlash. He said at the time that he wasn’t aware of the word’s antisemitic connotations.",
-      "link": "https://www.nbcnews.com/politics/donald-trump/president-uses-antisemitic-slur-defending-roger-marshall-kansas-rally-rcna604497",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:08:17.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_4d95680fe965e913",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Micron union in Taiwan to launch strike as bonus dispute escalates - Reuters",
-      "snippet": "Micron union in Taiwan to launch strike as bonus dispute escalates  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdW84LTY4WGZuakNjaU5mZ1I5TEd3RXZRYmdBWlFYUkVoTHQyX0xSYkhidnhGTFN6SjBsdGp6eE9aN3M1VE03V09mNWtjYnFYWWRtN0J3NUk2ZVEzVGhxRFFMNEZqRW94Y1h0OHpyX0tOWTMzNDdhcmFJN2dUSUtwN1FtTXpFNFVITG9LT3JNMFdWLVdQRklxZzU0aE9TUmxXUjRNY0NEN0hLMjZFYTRJQXVJQTNZY0k?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_42197dbdb807b0f6",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China's September US soybean imports rebound from zero a year earlier, data shows - Reuters",
-      "snippet": "China's September US soybean imports rebound from zero a year earlier, data shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3Z1Y0FYWF9KYnBhb3VJazV4NTlFRGVvX010YzJYVnlPSE96a25GT0ZWLXVIZWQwbDZ0VHJWc2l3bllMR0ptRUlKOVhLODJyRVBsX01XTG16S0J4RXZnczlzS3hRX29VUGdjakh3TWUyR3lpNldYNDVmcXJBYlpLSFQyU21qR0ZEYmpjZTdQREtNb2kwNHc3T0t2OFlTOWhBQ3hZTXVPYzdxSVJSQ1dPSDJjLU1SblA1cmJZMg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:04:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3221c6525011aaa9",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Brutal night on MNF: Commanders star Terry McLaurin carted off, 49ers' Mike Evans heads to locker room",
-      "snippet": "Terry McLaurin was carted off with a left knee injury during Monday Night Football, leaving the 1-5 Washington Commanders without their top wideout.",
-      "link": "https://www.foxnews.com/outkick-sports/brutal-night-mnf-commanders-star-terry-mclaurin-carted-off-49ers-mike-evans-heads-locker-room",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:01:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ad06de2ed621458e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Why terrorism laws stopped Sally Rooney selling books in the UK – podcast",
-      "snippet": "The bestselling author says her books will no longer be supplied to UK bookshops over fears of prosecution. Zoe Williams and Haroon Siddique report\nFor now there might be a copy or two of Intermezzo left kicking around in your local booksho",
-      "link": "https://www.theguardian.com/news/audio/2026/oct/20/why-terrorism-laws-stopped-sally-rooney-selling-books-in-the-uk-podcast",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T02:00:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_296a47afbf8564e7",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump again uses antisemitic ‘shylock’ slur at Kansas rally",
-      "snippet": "President Donald Trump delivered a rebuttal to the media for suggesting Sen. Roger Marshall (R-KS) was “some kind of a shylock-type guy” for seeking money from patients in compliance with the law. Trump made the antisemitic remark while cam",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4771737/trump-antisemitic-shylock-slur-kansas-rally/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:59:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c2ac64cc85474a6",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Zelensky accuses US of delaying missile deliveries as tensions rise",
-      "snippet": "Ukrainian President Volodymyr Zelensky accused the US on Monday of holding up deliveries of Patriot interceptor missiles already paid for by European allies, as tensions with President Donald Trump’s administration deepened over military ai",
-      "link": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise",
-      "imageUrl": "https://s.france24.com/media/display/35a106a0-cbdc-11f1-844f-d1d2c32ebb87/w:1024/p:16x9/bb914f42bdf0a8c35c60195688087ff485fa414d.jpg",
-      "publishedAt": "2026-10-20T01:56:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e3d0cd426342fb48",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Trump uses antisemitic slur in defending Sen. Marshall",
-      "snippet": "President Donald Trump used an antisemitic slur in defending Sen. Roger Marshall, R-Kan., during a rally in Kansas, following an article that said he sued hundreds of patients over unpaid debts when he was a practicing physician.",
-      "link": "https://www.nbcnews.com/video/trump-uses-antisemitic-slur-in-defending-sen-marshall-271858245730",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:54:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_71a7d3b6f39ab9c9",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump cites French protests in warning to Kansas voters: ‘Never happening here’",
-      "snippet": "President Donald Trump portrayed the French protests as a cautionary tale for the United States during a rally in Kansas for under-pressure Sen. Roger Marshall (R-KY). “If you want to see what is at stake in this election, just look at what",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4771712/trump-french-protests-kansas-midterms-rally/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:53:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b93368b075105bcf",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "The human cost of surging US air strikes in Somalia",
-      "snippet": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:52:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9cd8960bab96d235",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "GOP’s Don Bacon rips Trump over ‘disgraceful’ behavior on Ukraine, Russia",
-      "snippet": "Rep. Don Bacon (R-Neb.) on Monday went after President Trump for his recent behavior surrounding the Russia-Ukraine war. “It’s absolutely disgraceful our president is morally blind on this war. He’s pitched his lot in with the dictator and ",
-      "link": "https://thehill.com/policy/defense/6159412-bacon-slams-trump-russia-ukraine/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/bacondon_090126gn02_w.jpg?w=900",
-      "publishedAt": "2026-10-20T01:52:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ee79ea4f93ea72e4",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Kumanjayi Little Baby: damning report finds ‘heartbreaking’ child protection failures before five-year-old’s death",
-      "snippet": "Northern Territory government announced sweeping reforms of child protection sector in May, just days after the Warlpiri girl was found dead\n• Warning: This article contains images of and references to Indigenous Australians who have died\n\n",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/kumanjayi-little-baby-damning-report-finds-heartbreaking-child-protection-failures-before-five-year-olds-death-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:50:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dcf7bce09cc46c74",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-      "snippet": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:50:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fbee92837d51b68f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump warns Kansans that US will 'burn' like France if Democrats win - Reuters",
-      "snippet": "Trump warns Kansans that US will 'burn' like France if Democrats win  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzBFWW9JSHRPSk43aERfeE1lM0xjYVotbmdUanRNRXd2NlNqVkpMbU82dWJTTEQ3RVlwV0wxWUhhRlJDaEo3SGdORF85QmNFWDA5amw5S3JnY2FVeWpxUzl1azQtLTlISXJTM1R3YUtyZ3NaMTVna1B5NlJBZVBrREowQkpKMUQ5MzBtemptel95RWlwcGs0ak1zamJIVTE5MDV5VC12by1va09DZ2ljUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:50:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f09e1ee30da21dd2",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Beyond money: Why young Tunisians are considering emigration",
-      "snippet": "For many young Tunisians, the question is no longer simply how to make a living, but where they can build a future.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:47:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bc71e41948eb7520",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations - AP News",
-      "snippet": "Infantino set to take his FIFA re-election campaign to Japan to court Asian soccer federations  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTIxQ3FBUUlwY1Y3Y04xaWdwaXRyb1RsaGdya3E3VVdlTU93VEZSZDVOWmllSVlDOXoyUHA2Mmc3dEk3QnBMRzNmSmo1c19HZ1Y0MVRhdDZQSEI3Rl9fbkNmMDVmVmkxNmhWd3RGcWR0VEgyNEpDaG90MGl3bGhCTUhXdVJRb3pvQUxnM25B?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:43:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a007419378acb87",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "McDonald's ransacked and wrecked as stores, restaurants suffer from violence and rioting",
-      "snippet": "Some looters attempted to cook french fries inside a ransacked and wrecked McDonald's in Paris as protests spiraled into widespread destruction.",
-      "link": "https://www.foxnews.com/food-drink/mcdonalds-ransacked-wrecked-stores-restaurants-suffer-from-violence-rioting",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T01:39:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
