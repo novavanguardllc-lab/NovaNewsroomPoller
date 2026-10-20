@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T19:05:05.067Z",
+  "updatedAt": "2026-10-20T19:10:07.153Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.582Z"
+      "lastSuccess": "2026-10-20T19:10:07.230Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.350Z"
+      "lastSuccess": "2026-10-20T19:10:07.395Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.768Z"
+      "lastSuccess": "2026-10-20T19:10:07.406Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.239Z"
+      "lastSuccess": "2026-10-20T19:10:07.341Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.442Z"
+      "lastSuccess": "2026-10-20T19:10:07.311Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.481Z"
+      "lastSuccess": "2026-10-20T19:10:07.360Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.461Z"
+      "lastSuccess": "2026-10-20T19:10:07.433Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.589Z"
+      "lastSuccess": "2026-10-20T19:10:07.424Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T19:05:05.590Z"
+      "lastErrorAt": "2026-10-20T19:10:07.467Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.246Z"
+      "lastSuccess": "2026-10-20T19:10:07.414Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.721Z"
+      "lastSuccess": "2026-10-20T19:10:07.447Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.452Z"
+      "lastSuccess": "2026-10-20T19:10:07.443Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.547Z"
+      "lastSuccess": "2026-10-20T19:10:07.465Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.486Z"
+      "lastSuccess": "2026-10-20T19:10:07.451Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.743Z"
+      "lastSuccess": "2026-10-20T19:10:12.131Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.320Z"
+      "lastSuccess": "2026-10-20T19:10:07.491Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.562Z"
+      "lastSuccess": "2026-10-20T19:10:07.535Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.542Z"
+      "lastSuccess": "2026-10-20T19:10:07.524Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.787Z"
+      "lastSuccess": "2026-10-20T19:10:07.623Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.858Z"
+      "lastSuccess": "2026-10-20T19:10:07.658Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.707Z"
+      "lastSuccess": "2026-10-20T19:10:07.585Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T19:05:05.787Z"
+      "lastErrorAt": "2026-10-20T19:10:07.624Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T19:05:05.931Z"
+      "lastSuccess": "2026-10-20T19:10:11.184Z"
     }
   },
   "items": [
+    {
+      "id": "story_3a17017472b1d543",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Stop Appeasing Russia",
+      "snippet": "The stakes in Ukraine are much larger than the fate of one nation.",
+      "link": "https://www.nytimes.com/2026/10/20/opinion/russia-ukraine-trump-us.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T19:02:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e67c3f5409e2d83b",
       "source": "Politico",
@@ -106,6 +119,32 @@
       "link": "https://www.politico.com/news/2026/10/20/trump-farmers-payments-gop-midterms-01128165",
       "imageUrl": null,
       "publishedAt": "2026-10-20T19:01:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fa32d02b745c7310",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Why your VPN keeps triggering extra security checks",
+      "snippet": "A dedicated VPN IP address may reduce frustrating CAPTCHAs and bank login security checks by giving websites a consistent connection to recognize.",
+      "link": "https://www.foxnews.com/tech/why-vpn-keeps-triggering-extra-security-checks",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T19:00:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7a883dd91b2110f5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "‘Feminists Lied’ tour aims to challenge abortion, feminism narratives on college campuses",
+      "snippet": "Turning Point USA and Students for Life of America launched the \"Feminists Lied: Prove Me Wrong\" tour, continuing Charlie Kirk's legacy on campuses.",
+      "link": "https://www.foxnews.com/media/feminists-lied-tour-aims-challenge-abortion-feminism-narratives-college-campuses",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T19:00:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -314,6 +353,19 @@
       "link": "https://www.foxnews.com/health/robert-f-kennedy-granddaughter-dies-42-years-health-struggles",
       "imageUrl": null,
       "publishedAt": "2026-10-20T18:31:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d27d76d9af0eccd0",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Woman killed in shark attack in South Africa",
+      "snippet": "A 65-year-old woman was killed in a shark attack at a popular beach on South Africa's southeastern coast, local authorities said.",
+      "link": "https://news.sky.com/story/woman-65-killed-in-shark-attack-in-south-africa-13601492",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414",
+      "publishedAt": "2026-10-20T18:30:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2642,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T16:06:04.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5321cd152bfdf491",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Shark kills woman swimming off South Africa's Eastern Cape - Reuters",
-      "snippet": "Shark kills woman swimming off South Africa's Eastern Cape  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzZZcm5yUGRaaEtZUnVBeGMwX054b1B2anQxM3JYNnZQWFNKUzNaclhLYUwxVXh5ZzBCbEJiTVFDRHZoSUM1VmFOWUxGM1FmQXpZUjdRWWZITEJYMjZvOFA5cjg0M1BiMkwybk9YeXlqXzk5NzdxU0QxNW9talpFR3oxWWZWZ3R1ejJiRkJXVTFpRU9rTW15WDhDc2twN2ZrSWdZUlE2Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T16:05:44.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f85b1c99270d4f66",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Hume on Trump’s midterm campaigning: ‘I’m not sure it’s making any difference’",
-      "snippet": "Brit Hume, chief political analyst at Fox News, had harsh words for President Trump’s tour across the country to boost Republican candidates, saying he did not think the president’s midterm campaigning was effective. “Sometimes in the cours",
-      "link": "https://thehill.com/homenews/campaign/6160396-hume-trumps-midterm-campaigning-ineffective/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26281032563167-e1792153328366.jpg?w=900",
-      "publishedAt": "2026-10-20T16:04:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b7a332dbf27580b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Virginia sanctuary county ignores 1,670 detainer requests over 2 years, House Judiciary Committee finds",
-      "snippet": "Fairfax County Sheriff's Office ignored over 1,670 ICE detainers, releasing criminal illegal immigrants, a House Judiciary Committee report alleges.",
-      "link": "https://www.foxnews.com/politics/virginia-sanctuary-county-ignores-1670-detainer-requests-2-years-house-judiciary-committee-finds",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T16:03:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2e36f7cbda5e5eb3",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "China defends DeepSeek after US ban",
-      "snippet": "China is pushing back against the Department of Homeland Security’s (DHS) order to remove products from Chinese AI startup DeepSeek from government systems, warning of potential retaliation. A DHS order, which dates back to July but publish",
-      "link": "https://thehill.com/policy/technology/6160255-china-retaliation-deepseek-ban/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26008560115201.jpg?w=900",
-      "publishedAt": "2026-10-20T16:03:28.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
