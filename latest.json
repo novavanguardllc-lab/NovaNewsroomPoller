@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-20T12:45:07.209Z",
+  "updatedAt": "2026-10-20T12:50:07.753Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.351Z"
+      "lastSuccess": "2026-10-20T12:50:07.932Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.374Z"
+      "lastSuccess": "2026-10-20T12:50:07.953Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.469Z"
+      "lastSuccess": "2026-10-20T12:50:08.239Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.529Z"
+      "lastSuccess": "2026-10-20T12:50:08.311Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.451Z"
+      "lastSuccess": "2026-10-20T12:50:08.251Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.476Z"
+      "lastSuccess": "2026-10-20T12:50:08.191Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.478Z"
+      "lastSuccess": "2026-10-20T12:50:08.149Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.368Z"
+      "lastSuccess": "2026-10-20T12:50:08.194Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.407Z"
+      "lastSuccess": "2026-10-20T12:50:08.076Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.558Z"
+      "lastSuccess": "2026-10-20T12:50:08.355Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.431Z"
+      "lastSuccess": "2026-10-20T12:50:08.248Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.329Z"
+      "lastSuccess": "2026-10-20T12:50:08.136Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.484Z"
+      "lastSuccess": "2026-10-20T12:50:08.465Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.739Z"
+      "lastSuccess": "2026-10-20T12:50:07.994Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.680Z"
+      "lastSuccess": "2026-10-20T12:50:08.017Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-20T12:45:07.480Z"
+      "lastErrorAt": "2026-10-20T12:50:08.470Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.571Z"
+      "lastSuccess": "2026-10-20T12:50:08.405Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.564Z"
+      "lastSuccess": "2026-10-20T12:50:08.495Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.444Z"
+      "lastSuccess": "2026-10-20T12:50:08.428Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.623Z"
+      "lastSuccess": "2026-10-20T12:50:08.853Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-20T12:45:07.490Z"
+      "lastErrorAt": "2026-10-20T12:50:08.486Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.668Z"
+      "lastSuccess": "2026-10-20T12:50:08.516Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-20T12:45:07.583Z"
+      "lastSuccess": "2026-10-20T12:50:08.620Z"
     }
   },
   "items": [
+    {
+      "id": "story_148c97f9c6561629",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dashcam video captures small plane crashing on San Jose highway, injuring three on board, including child",
+      "snippet": "Dash cam video captures a Cessna 177 crashing into a Capitol Expressway overpass in San Jose, California, as the FAA and NTSB investigate it.",
+      "link": "https://www.foxnews.com/us/dashcam-video-captures-small-plane-crashing-san-jose-highway-injuring-three-board-including-child",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T12:43:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5ecb5ba802c4747d",
       "source": "Guardian",
@@ -224,6 +237,19 @@
       "imageUrl": "https://s.france24.com/media/display/0dee99ea-cc7e-11f1-9a40-2d1c143cdef3/w:1024/p:16x9/capture-7a2f75c4.jpg",
       "publishedAt": "2026-10-20T12:21:24.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_07029deca7766a0c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Salesforce to acquire Braze in a $5.66 billion deal - Reuters",
+      "snippet": "Salesforce to acquire Braze in a $5.66 billion deal  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUVE0QXkyR1NSaXY3LTNJTE9uQmY1bXhaV19YNzFMejJRZEhFeDJwd1VCdWg3ZjFFM29VYUNkMWRkSVlsMzlpcmZrdzFudjM0MS02dVJOVGFJZW94cFpHSU9JeGNtSHZtbFQzX3VsaWVTYXFIdzIxbmdhbUVncWRZbFc0T25aUDRMVGwzT01LNA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T12:20:05.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -927,6 +953,19 @@
       "publishedAt": "2026-10-20T11:18:16.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9bbd92d3ccb00df6",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Portuguese police clear housing protest camps, arresting 55 - Reuters",
+      "snippet": "Portuguese police clear housing protest camps, arresting 55  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWwxLWtmTWFlcG1YV2s1RV91eXlPVFlCeFNzY2ZkX2Z4T1pnZllxOXB0eFlkX3hnWllLT1N5SmVNUnJZRnI3UDBxcTNuQnRsYUFZeWFyUktlcEMxbkdBQW96VGJxdjNjbjRNTXFrdDVVbUhSOUw1OFRDaE9jNkpGdmQzbUZMR0thZUY1MklFcTU4YXhvNDRmNHlyMGxiNDd4clE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T11:09:44.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2654,45 +2693,6 @@
       "link": "https://www.foxnews.com/politics/top-trump-ally-warns-republican-party-dead-loses-key-voting-bloc-ahead-midterms",
       "imageUrl": null,
       "publishedAt": "2026-10-20T09:00:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c1f2d11501e7e94",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Navy robot deal quadruples as US looks to ‘outsmart’ China with AI at sea",
-      "snippet": "Gecko Robotics unveiled its Komodo robot that scans warship decks like a CAT scan, mapping corrosion without stripping coatings for the U.S. Navy.",
-      "link": "https://www.foxnews.com/politics/navy-robot-deal-quadruples-us-looks-outsmart-china-ai-sea",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T09:00:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d6d31210d621d055",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The Last Photos of Gloria Steinem",
-      "snippet": "Before her death, the pioneering feminist posed for a fashion shoot. Now those pictures are part of her legacy.",
-      "link": "https://www.nytimes.com/2026/10/20/style/the-last-photos-of-gloria-steinem.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T09:00:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b5590346ec5f1c28",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Serbian prosecutor who investigated Belgrade Trump tower project ‘targeted with spyware’",
-      "snippet": "Apparent attempt to hack Rade Bajić’s iPhone comes amid efforts to undermine landmark criminal case\nA Serbian prosecutor who investigated the authorities’ allegedly illegal scheme to help the Trumps build a tower in Belgrade has been target",
-      "link": "https://www.theguardian.com/world/2026/oct/20/serbia-prosecutor-belgrade-trump-tower-project-targeted-spyware",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T09:00:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
