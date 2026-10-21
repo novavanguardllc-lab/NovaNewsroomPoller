@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-21T09:10:06.531Z",
+  "updatedAt": "2026-10-21T09:15:07.696Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.709Z"
+      "lastSuccess": "2026-10-21T09:15:07.849Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.594Z"
+      "lastSuccess": "2026-10-21T09:15:07.811Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.655Z"
+      "lastSuccess": "2026-10-21T09:15:07.906Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.691Z"
+      "lastSuccess": "2026-10-21T09:15:07.952Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.747Z"
+      "lastSuccess": "2026-10-21T09:15:07.835Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.827Z"
+      "lastSuccess": "2026-10-21T09:15:08.084Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.846Z"
+      "lastSuccess": "2026-10-21T09:15:07.973Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T09:10:06.835Z"
+      "lastErrorAt": "2026-10-21T09:15:08.142Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.810Z"
+      "lastSuccess": "2026-10-21T09:15:07.989Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.798Z"
+      "lastSuccess": "2026-10-21T09:15:08.020Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.789Z"
+      "lastSuccess": "2026-10-21T09:15:07.984Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.895Z"
+      "lastSuccess": "2026-10-21T09:15:08.090Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.899Z"
+      "lastSuccess": "2026-10-21T09:15:07.969Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.888Z"
+      "lastSuccess": "2026-10-21T09:15:08.045Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.967Z"
+      "lastSuccess": "2026-10-21T09:15:08.015Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:07.001Z"
+      "lastSuccess": "2026-10-21T09:15:08.140Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.833Z"
+      "lastSuccess": "2026-10-21T09:15:08.054Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T09:10:06.906Z"
+      "lastErrorAt": "2026-10-21T09:15:08.092Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:07.017Z"
+      "lastSuccess": "2026-10-21T09:15:07.949Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:07.034Z"
+      "lastSuccess": "2026-10-21T09:15:07.876Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:06.911Z"
+      "lastSuccess": "2026-10-21T09:15:08.162Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:07.051Z"
+      "lastSuccess": "2026-10-21T09:15:08.211Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T09:10:07.107Z"
+      "lastSuccess": "2026-10-21T09:15:08.153Z"
     }
   },
   "items": [
+    {
+      "id": "story_efad3cc544e31a47",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "In Six Decades of Public Life, I Never Thought I Would Write This Piece",
+      "snippet": "Trump’s meddling would have dark consequences for our democracy and our prosperity.",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T09:02:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3ad1700e118c590f",
       "source": "France24",
@@ -122,6 +135,58 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
+    },
+    {
+      "id": "story_09b90d3307b944bc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "ELI STEELE: California forces companies to mine the past for slavery's sins",
+      "snippet": "California's AB 2599 forces companies to disclose ties to slavery, but Eli Steele argues it fuels a White guilt transaction instead of fixing schools.",
+      "link": "https://www.foxnews.com/opinion/eli-steele-california-forces-companies-mine-past-slaverys-sins",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T09:00:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9dfbd441be8958ef",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Gavin Newsom’s legislative minions just got a lesson in constitutional supremacy",
+      "snippet": "The Ninth Circuit unanimously struck down California's \"No Vigilantes Act,\" citing the Supremacy Clause to block state restrictions on ICE federal agents.",
+      "link": "https://www.foxnews.com/opinion/gavin-newsoms-legislative-minions-lesson-constitutional-supremacy",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T09:00:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fd5d90770dfcf389",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump's MOAB threat could put Iran's deepest bunkers in America's crosshairs",
+      "snippet": "Trump's MOAB threat puts Iran's IRGC on notice as Central Command eyes high-value targets, including suspicious construction at Pickaxe mountain.",
+      "link": "https://www.foxnews.com/opinion/trumps-moab-threat-could-put-irans-deepest-bunkers-americas-crosshairs",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T09:00:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_14679b56a03352f5",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Why a Mother Writes ‘Son’ Across Stockholm",
+      "snippet": "On cement walls and through dusty windows, a mother reaches out to her child.",
+      "link": "https://www.nytimes.com/2026/10/21/opinion/graffiti-mother-son-relationship-sweden.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T09:00:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_b4339d6c429276ac",
@@ -2629,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T01:38:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_98241aacf5ee82a2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US high court rulings have been 'destructive to democracy,' Justice Kagan says - Reuters",
-      "snippet": "US high court rulings have been 'destructive to democracy,' Justice Kagan says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEtSSHU2SmZqREJzYUlidzRUTTZLOTJzS0NmSmxyZTlWR0ZPdDV0Zk1teEhNbUdoTTVPd2hKVUp5SnlrWW5PN2hVSDJ3X3NDN3ZMeGpUZmFGZ0M0NUNXNkp2ZmsycUZRTEVSdTk0V3FtYmlFSUpSTmpYRlc0MlNqSFNyY21LOGlTOXdKSUw3VkRsNGpKcGFuWnhuSjN1aFVuMS1CNDlwakFpaDZOS0U1QWpWR3laTXpz?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T01:37:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cedd70c83701c7c2",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Jane Doe says she felt 'unsupported and disbelieved' by Cornell president",
-      "snippet": "The former Cornell student who alleged she was gang raped at a fraternity house in 2024 said she felt \"unsupported and disbelieved\" by the school's president.",
-      "link": "https://abcnews.com/US/jane-doe-felt-unsupported-disbelieved-cornell-president/story?id=137427708",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T01:29:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_057ac20d38435091",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump says Pentagon will invest $1.5 billion into North Carolina chip production",
-      "snippet": "President Trump on Tuesday announced a $1.5 billion dollar investment from the Pentagon to expand semiconductor production in North Carolina, as the administration pushes to reshore manufacturing to the U.S. “The Department of War will be i",
-      "link": "https://thehill.com/homenews/administration/6161642-trump-pentagon-semiconductor-investment/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26293687668059-e1792527246409.jpg?w=900",
-      "publishedAt": "2026-10-21T01:26:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7582fa619a3166c4",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " American Airlines flight blows tire while landing at Chicago O'Hare: FAA",
-      "snippet": "The American Airlines Flight 41 crew \"reported a brake issue and then a blown tire\" after landing safely, the FAA said in a statement.",
-      "link": "https://abcnews.com/US/american-airlines-flight-blows-tire-landing-chicago-ohare/story?id=137428455",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T01:25:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78fc93ace4c7ae7c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Australian AI data centre operator NextDC shares shed 44% on revenue delay - Reuters",
-      "snippet": "Australian AI data centre operator NextDC shares shed 44% on revenue delay  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWJyOF9XbWhodGFsMWVRYUhMYzlCUDRMR2ZqRDdTdTFsOTJZWVdTcS1sRTg1UldzbkMyN1JTMkFmWkpJT0s0NkVnOWgyeXNlRnMwOVlXX3RueEt4SkJ6OTU2em5yZzBpS3o5Q3paWUk1WjJLNXhrUjQ4bGhUb2xjSHYzOTV4N3lreHREMkFBa0F3bVpJdE9VMHg4d0d4ZWJJbVFEX2xZM0xyOU9PMWItaXItTUVSWWlid003RExodnIxUFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T01:25:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
