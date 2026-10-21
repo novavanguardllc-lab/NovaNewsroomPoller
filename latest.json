@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-21T15:40:06.906Z",
+  "updatedAt": "2026-10-21T15:45:08.003Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:06.966Z"
+      "lastSuccess": "2026-10-21T15:45:08.195Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:06.973Z"
+      "lastSuccess": "2026-10-21T15:45:08.214Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:06.962Z"
+      "lastSuccess": "2026-10-21T15:45:08.598Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:06.944Z"
+      "lastSuccess": "2026-10-21T15:45:08.358Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.007Z"
+      "lastSuccess": "2026-10-21T15:45:08.423Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.076Z"
+      "lastSuccess": "2026-10-21T15:45:08.702Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.010Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-21T15:45:08.374Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.100Z"
+      "lastSuccess": "2026-10-21T15:45:08.615Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:06.985Z"
+      "lastSuccess": "2026-10-21T15:45:08.306Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.105Z"
+      "lastSuccess": "2026-10-21T15:45:08.835Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.003Z"
+      "lastSuccess": "2026-10-21T15:45:08.504Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T15:40:07.160Z"
+      "lastErrorAt": "2026-10-21T15:45:08.547Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:06.994Z"
+      "lastSuccess": "2026-10-21T15:45:08.522Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.065Z"
+      "lastSuccess": "2026-10-21T15:45:08.734Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.116Z"
+      "lastSuccess": "2026-10-21T15:45:08.545Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.459Z"
+      "lastSuccess": "2026-10-21T15:45:08.280Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.395Z"
+      "lastSuccess": "2026-10-21T15:45:08.302Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.096Z"
+      "lastSuccess": "2026-10-21T15:45:08.499Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.195Z"
+      "lastSuccess": "2026-10-21T15:45:08.820Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.112Z"
+      "lastSuccess": "2026-10-21T15:45:08.866Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T15:40:07.118Z"
+      "lastErrorAt": "2026-10-21T15:45:08.868Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.214Z"
+      "lastSuccess": "2026-10-21T15:45:08.900Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:40:07.225Z"
+      "lastSuccess": "2026-10-21T15:45:08.998Z"
     }
   },
   "items": [
@@ -135,6 +136,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_0063e0c9e3180555",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Louis Oosthuizen leaves LIV Golf in latest blow to circuit that is seemingly hanging on by a thread",
+      "snippet": "Louis Oosthuizen cited schedule concerns with LIV 2.0 as a key reason for leaving, with only four players committing before the October 25 deadline.",
+      "link": "https://www.foxnews.com/outkick-sports/louis-oosthuizen-leaves-liv-golf-latest-blow-circuit-seemingly-hanging-thread",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T15:34:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_79fecb094cec466a",
@@ -184,6 +198,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4773836/ilhan-omar-fundraises-federal-raid-expensive-challenging-time/",
       "imageUrl": null,
       "publishedAt": "2026-10-21T15:30:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_df544d6f6df718bf",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "The best vacuum sealers to cut down on food waste",
+      "snippet": "Vacuum sealers keep food fresh for longer and help prevent freezer burn. Food experts explain how to use them and what to look for, plus top-rated picks from Nesco, Anova and more.",
+      "link": "https://www.nbcnews.com/select/shopping/best-vacuum-sealers-for-food-rcna604775",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T15:30:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T13:06:18.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_51d32fee695680a2",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Who is Stephen Hubbard, the retired American teacher freed by Russia?",
-      "snippet": "Stephen James Hubbard, a retired American teacher, was released by Russia on Wednesday after nearly five years in detention in the midst of an apparent warming of ties between Washington and Moscow.",
-      "link": "https://www.nbcnews.com/world/ukraine/stephen-hubbard-retired-american-teacher-freed-russia-rcna604735",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T13:05:37.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_9531fa1052929943",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nigeria reports Ebola case as outbreak reaches West Africa - Reuters",
-      "snippet": "Nigeria reports Ebola case as outbreak reaches West Africa  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLThxQVROTTg1R0EtTk1DanNTSlhETExGNl9ZQXMxOXZZWk93VnFRejBueWNMSy0tS2NIZF9VVTdXT0xDQy11dUU4OXRtVVYwcUZEaVpkeklSdU02NXQtcW5rR3VlYXRnOC1Ic2hPQzdOSjFQNzByNHpqMXE5WGhycnVKdDdtcVE0RlJsYnlqWjFwdDdZNElWaU94azgxVDZWelVSOVRLVHU3cTB4SjBmLTl0NnJTQVBwaFI5QUFheHhLemlFaEp0Tm5wTXNPS2J0ejdBLTBTWHp0UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T13:05:16.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
