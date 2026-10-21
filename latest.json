@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-21T15:55:05.967Z",
+  "updatedAt": "2026-10-21T16:00:13.046Z",
   "sourceStatus": {
     "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.062Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-21T16:00:23.050Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.124Z"
+      "lastSuccess": "2026-10-21T16:00:13.144Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.160Z"
+      "lastSuccess": "2026-10-21T16:00:13.130Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.045Z"
+      "lastSuccess": "2026-10-21T16:00:13.098Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.162Z"
+      "lastSuccess": "2026-10-21T16:00:13.114Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.328Z"
+      "lastSuccess": "2026-10-21T16:00:13.217Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.344Z"
+      "lastSuccess": "2026-10-21T16:00:13.234Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.263Z"
+      "lastSuccess": "2026-10-21T16:00:13.184Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.244Z"
+      "lastSuccess": "2026-10-21T16:00:13.203Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.237Z"
+      "lastSuccess": "2026-10-21T16:00:13.208Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.267Z"
+      "lastSuccess": "2026-10-21T16:00:13.227Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T15:55:06.329Z"
+      "lastErrorAt": "2026-10-21T16:00:13.269Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.289Z"
+      "lastSuccess": "2026-10-21T16:00:13.232Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.420Z"
+      "lastSuccess": "2026-10-21T16:00:13.268Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.281Z"
+      "lastSuccess": "2026-10-21T16:00:13.243Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.509Z"
+      "lastSuccess": "2026-10-21T16:00:13.139Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.448Z"
+      "lastSuccess": "2026-10-21T16:00:13.110Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.224Z"
+      "lastSuccess": "2026-10-21T16:00:13.176Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.408Z"
+      "lastSuccess": "2026-10-21T16:00:13.346Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.431Z"
+      "lastSuccess": "2026-10-21T16:00:13.370Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T15:55:06.302Z"
+      "lastErrorAt": "2026-10-21T16:00:13.271Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.466Z"
+      "lastSuccess": "2026-10-21T16:00:13.366Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T15:55:06.496Z"
+      "lastSuccess": "2026-10-21T16:00:13.443Z"
     }
   },
   "items": [
+    {
+      "id": "story_ed47b9d4eda15abd",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "How AI divided a powerful chapter of the Democratic Socialists of America",
+      "snippet": "The industry is definitely bad! Socialists disagree on why.",
+      "link": "https://www.semafor.com/article/10/21/2026/how-ai-divided-a-powerful-chapter-of-the-democratic-socialists-of-america",
+      "imageUrl": "https://img.semafor.com/d5d4147c5f7ccf79ef1836a2670b536d0ecea527-7360x4912.jpg",
+      "publishedAt": "2026-10-21T15:58:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_782c725054991b79",
       "source": "The Hill",
@@ -2680,19 +2694,6 @@
       "link": "https://www.cbsnews.com/news/anna-marlene-somoza-fugitive-arrested-mexico-us-marshals/",
       "imageUrl": null,
       "publishedAt": "2026-10-21T13:25:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9f64e67e90962578",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-      "snippet": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
-      "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T13:24:12.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
