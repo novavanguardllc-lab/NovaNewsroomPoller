@@ -1,103 +1,154 @@
 {
-  "updatedAt": "2026-10-21T12:35:05.127Z",
+  "updatedAt": "2026-10-21T12:40:07.579Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.296Z"
+      "lastSuccess": "2026-10-21T12:40:07.698Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.445Z"
+      "lastSuccess": "2026-10-21T12:40:07.692Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.488Z"
+      "lastSuccess": "2026-10-21T12:40:07.769Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.350Z"
+      "lastSuccess": "2026-10-21T12:40:07.702Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.367Z"
+      "lastSuccess": "2026-10-21T12:40:07.774Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.556Z"
+      "lastSuccess": "2026-10-21T12:40:07.811Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.335Z"
+      "lastSuccess": "2026-10-21T12:40:07.853Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T12:35:05.571Z"
+      "lastErrorAt": "2026-10-21T12:40:07.877Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.570Z"
+      "lastSuccess": "2026-10-21T12:40:07.863Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.652Z"
+      "lastSuccess": "2026-10-21T12:40:07.835Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.315Z"
+      "lastSuccess": "2026-10-21T12:40:07.830Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:10.228Z"
+      "lastSuccess": "2026-10-21T12:40:07.877Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-21T12:35:05.325Z"
+      "online": true,
+      "lastSuccess": "2026-10-21T12:40:07.896Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.537Z"
+      "lastSuccess": "2026-10-21T12:40:07.909Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.649Z"
+      "lastSuccess": "2026-10-21T12:40:08.014Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.811Z"
+      "lastSuccess": "2026-10-21T12:40:07.971Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.608Z"
+      "lastSuccess": "2026-10-21T12:40:07.859Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T12:35:05.829Z"
+      "lastErrorAt": "2026-10-21T12:40:07.868Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.390Z"
+      "lastSuccess": "2026-10-21T12:40:08.064Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.847Z"
+      "lastSuccess": "2026-10-21T12:40:08.050Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.827Z"
+      "lastSuccess": "2026-10-21T12:40:07.893Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:05.870Z"
+      "lastSuccess": "2026-10-21T12:40:07.929Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T12:35:08.036Z"
+      "lastSuccess": "2026-10-21T12:40:10.340Z"
     }
   },
   "items": [
+    {
+      "id": "story_be9b3722395dd595",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  Hero saves kids on bus",
+      "snippet": "Surveillance video shows 27-year-old Ebro Ahmed jumping onto a bus to stop it after he noticed the driver having a medical emergency.",
+      "link": "https://abcnews.com/video/137440889/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T12:39:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_639190dfb9bc09b1",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Warren warns of ‘enormous risk’ if Musk is ‘dictating our foreign policy’",
+      "snippet": "Sen. Elizabeth Warren (D-Mass.) says there needs to be an investigation of who ordered the limit on Ukraine’s access to the Starshield satellite-based internet network and warned there is an “enormous risk” if Elon Musk is “dictating our fo",
+      "link": "https://thehill.com/homenews/senate/6161875-warren-musk-starshield-investigation/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/warrenelizabeth_092326gn01_w.jpg?w=900",
+      "publishedAt": "2026-10-21T12:36:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f8e620144cfc5e13",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Energy secretary leaning towards rejecting Rosebank oilfield",
+      "snippet": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners\n\nUK politics live – latest updates\n\nMiatta Fahnbulleh is leaning towards rejecting the giant Rosebank oilfield, the Guardian understan",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T12:31:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3b48d8cce6196e44",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Portugal police clear demonstrators from protest camps against cost of housing",
+      "snippet": "Portuguese demonstrators have been protesting against the cost of housing in the country. They are opposed to recent measures announced by the government and are calling for a new gathering in the coming days, despite police clearing protes",
+      "link": "https://www.france24.com/en/video/20261021-portugal-police-clear-demonstrators-from-protest-camps-against-cost-of-housing",
+      "imageUrl": "https://s.france24.com/media/display/b437e5d4-cd48-11f1-823d-19980254bb31/w:1024/p:16x9/capture-c713e492.jpg",
+      "publishedAt": "2026-10-21T12:31:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ff7cc9b1f66f3fc7",
       "source": "The Hill",
@@ -407,6 +458,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/putin_vladimir_10202026_AP26293387188231-2.jpg?w=900",
       "publishedAt": "2026-10-21T12:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_54dc9105934a9df7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: EBay to lay off 9% of workforce in push to simplify operations, internal memo shows - Reuters",
+      "snippet": "EXCLUSIVE: EBay to lay off 9% of workforce in push to simplify operations, internal memo shows  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjJweng2MDFieU9Oc3VoYUJoaGhoeWRYaXZhU1FzRVpZcTZ3by1tRzJnQWtTQ0pMUm00UHdycGdxd014WEw5ZDg5c3pIX2FoQWxvblJfM2hsOGVPdV9uVklXWk02a0RrMDlXekNaclgtaEVTTENoU1J0QUlTeGQ2a2lMd1l3QWlnS05xRzNNd2ZRTVNZa080V3JPamJnQlN5b2s5dFVDbkVZVUxYQk9IR2lGaEx0dVc0S09wQldRRHFXNERPQjRF?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:58:37.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -721,6 +785,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_7773af9c89492fdd",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "FACT FOCUS: When it comes to Trump's economy, these are the numbers that matter before Nov. 3 - AP News",
+      "snippet": "FACT FOCUS: When it comes to Trump's economy, these are the numbers that matter before Nov. 3  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkVnemtHYU1lRXp3SUdJdGpMTUZTcnE2ci1mUVdzLXBJYWpfWTBfcVI5bWtRd1hUVFNxZHNEY3Q5VXE4LUFwVnRTbEpiNGNYX2g0YzdkU3NzQUhRbDc0TDNZU0N4dUI2VkdzWkQyam1jdEZmQTlCX0xad1R1RVd3dXlIbW1OZzlGMHhRMnVmU0FYaDNGWUVJaUx3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:17:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_57347b6a42e9a547",
@@ -2616,84 +2693,6 @@
       "link": "https://www.politico.com/news/2026/10/21/senate-republicans-cash-advantage-television-01128724",
       "imageUrl": null,
       "publishedAt": "2026-10-21T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f840ffab759ff79b",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "2025 policing trend: Fewer serious crimes, more minor arrests",
-      "snippet": "Arrests for more minor offenses, including vagrancy, rose in the U.S., even as violent crime rates dropped to historic lows, according to an analysis from criminal justice reform advocacy group FWD.us",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6003663/crime-data-down-low-level-offenses-increase",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bee7271db7c2897f",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
-      "snippet": "The cost of having a baby is difficult to predict. The amount families pay varies widely. Here are five tips to help you prepare for the often unexpected costs of pregnancy and giving birth.",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_14aaadedf4e09464",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Secret Service study explores how to prevent workplace violence ",
-      "snippet": "The law enforcement agency best known for protecting the president is using its knowledge to prevent attacks.",
-      "link": "https://www.nbcnews.com/politics/national-security/secret-service-study-explores-prevent-workplace-violence-rcna604656",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c243542a21614d99",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Italy deploys army and approves tougher anti-riot laws after violence",
-      "snippet": "Italian Prime Minister Giorgia Meloni on Tuesday announced the deployment of 500 troops to Milan to assist police following clashes in the city. Meloni said a cabinet meeting also approved measures to make the detention of minors easier and",
-      "link": "https://www.france24.com/en/italy-deploys-army-and-approves-tougher-anti-riot-laws-after-violence",
-      "imageUrl": "https://s.france24.com/media/display/125c649e-cd2d-11f1-a2d2-2d1c143cdef3/w:1024/p:16x9/2026-10-17T182841Z-1264999653-RC245OAX9RWQ-RTRMADP-3-ITALY-PROTEST.jpg",
-      "publishedAt": "2026-10-21T08:57:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_053abbece9ea6b15",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Fewer say US federal government improves their lives, poll finds",
-      "snippet": "Forty-three percent of US adults say the federal government is effective at improving people’s lives, down from 51% in 2025, according to Gallup.",
-      "link": "https://www.semafor.com/article/10/21/2026/fewer-say-us-federal-government-improves-their-lives-poll-finds",
-      "imageUrl": "https://img.semafor.com/2b3e3e28d06840023cc0143d370a138bea35e720-4261x2841.jpg",
-      "publishedAt": "2026-10-21T08:54:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd8dcfab14b1bccc",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Youth-led AI safety group demands protections for young users",
-      "snippet": "Its top goals: Prevent catastrophic risk, allow states to pass their own laws, protect against digital fakes, and focus on design that helps and protects people.",
-      "link": "https://www.semafor.com/article/10/21/2026/youth-led-ai-safety-group-demands-protections-for-young-users",
-      "imageUrl": "https://img.semafor.com/44b5ed8ff9888ff254a229b8a4bd8cb95fa7ddeb-3000x2001.jpg",
-      "publishedAt": "2026-10-21T08:54:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
