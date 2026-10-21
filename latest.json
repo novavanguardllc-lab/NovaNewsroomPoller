@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-21T05:50:07.622Z",
+  "updatedAt": "2026-10-21T05:55:05.065Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.991Z"
+      "lastSuccess": "2026-10-21T05:55:05.125Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.807Z"
+      "lastSuccess": "2026-10-21T05:55:05.111Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.862Z"
+      "lastSuccess": "2026-10-21T05:55:05.121Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.002Z"
+      "lastSuccess": "2026-10-21T05:55:05.128Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.010Z"
+      "lastSuccess": "2026-10-21T05:55:06.388Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.921Z"
+      "lastSuccess": "2026-10-21T05:55:05.140Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.087Z"
+      "lastSuccess": "2026-10-21T05:55:05.149Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T05:50:08.032Z"
+      "lastErrorAt": "2026-10-21T05:55:05.170Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.954Z"
+      "lastSuccess": "2026-10-21T05:55:05.156Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.113Z"
+      "lastSuccess": "2026-10-21T05:55:05.177Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.970Z"
+      "lastSuccess": "2026-10-21T05:55:05.288Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.128Z"
+      "lastSuccess": "2026-10-21T05:55:05.204Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:07.965Z"
+      "lastSuccess": "2026-10-21T05:55:05.164Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.108Z"
+      "lastSuccess": "2026-10-21T05:55:05.276Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.081Z"
+      "lastSuccess": "2026-10-21T05:55:05.200Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.362Z"
+      "lastSuccess": "2026-10-21T05:55:05.260Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.029Z"
+      "lastSuccess": "2026-10-21T05:55:05.343Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T05:50:08.227Z"
+      "lastErrorAt": "2026-10-21T05:55:05.222Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.200Z"
+      "lastSuccess": "2026-10-21T05:55:05.490Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.225Z"
+      "lastSuccess": "2026-10-21T05:55:05.520Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.206Z"
+      "lastSuccess": "2026-10-21T05:55:05.227Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:08.384Z"
+      "lastSuccess": "2026-10-21T05:55:05.296Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:50:11.706Z"
+      "lastSuccess": "2026-10-21T05:55:05.366Z"
     }
   },
   "items": [
+    {
+      "id": "story_5809f4efee9b76db",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Pakistan arrests man hunted by US over $126m postage fraud case",
+      "snippet": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T05:46:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_16e0cf2edde7d950",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Zelenskyy says early warning system for Russian missile attacks resumes",
+      "snippet": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
+      "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T05:43:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_173310b12b9fb2c3",
       "source": "NPR",
@@ -354,6 +380,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T04:52:50.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2321ba5ced02f616",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Morning Bid: Tesla may get rocket boosters for real this time - Reuters",
+      "snippet": "Morning Bid: Tesla may get rocket boosters for real this time  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sck41bW5HT3otVjRUNXlwN0FZbHZSUXhxeklEdG1Dc1VHVEhPYTltVlZYbFIwWko2S1lQS0c2eE1MWUpkR3RoY3pnRklISm50WHBCUHVSVk45SnY0S0dTaXJ6WXVjcDZ5MFk1a1RMNTJJS3pIZHpTUGFyMXc4aTA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T04:37:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2243,6 +2282,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d21edea127e6229a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "New UN initiative will aim to tackle the military uses of AI - AP News",
+      "snippet": "New UN initiative will aim to tackle the military uses of AI  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0lYNVM2RGpEalpSaDgtQ2RGc0NFTUgwSV85SHZWLW9KcGVYNndCZHY5NkJNY3M5ZVNWd1RMZnpTeHBpRDdXZnJDQllmT1VKU3otdHBkRWZFaEgzMnZTNk15NHF3VGxGVHJJclUtYVhUdlR3UFAwMVlKUGd5ellzNTJkUmtfdVpVaHJsa0FTOGhyVVZVX3I5blh1RFVONWVQenZuck5zbw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-20T23:34:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_212298387678ea44",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2641,58 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-20T22:51:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c7885e681b8c9c0f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump pushes Zelenskyy to end war with Russia as fuel prices rise with midterms looming",
-      "snippet": "President Trump is claiming Ukrainian President Zelenskyy has the power to end the country's war with Russia as Americans feel the impact of rising fuel prices with midterms just a few weeks away. CBS News' Charlie D'Agata and Natalie Brand",
-      "link": "https://www.cbsnews.com/video/trump-pushes-zelenskyy-to-end-war-with-russia-as-fuel-prices-rise-with-midterms-looming/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:51:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f8ffb7a910e0c507",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Tightening sanctions on Russia is 'the way to end this war,' says David Kramer",
-      "snippet": "To discuss the tensions between President Trump and Ukrainian President Zelenskyy, Geoff Bennett spoke with David Kramer. He held a number of senior positions at the State Department during the George W. Bush administration. He's now the ex",
-      "link": "https://www.pbs.org/newshour/show/tightening-sanctions-on-russia-is-the-way-to-end-this-war-says-david-kramer",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:50:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_099601cad2cfdda5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Up to 20% of MS diagnoses may be wrong, like Christina Applegate's",
-      "snippet": "A multiple sclerosis expert answers questions about MS misdiagnosis after Christina Applegate said she doesn't have the chronic condition after all.",
-      "link": "https://www.cbsnews.com/news/multiple-sclerosis-misdiagnosis-christina-applegate-what-to-know/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:48:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_45f18a082f167331",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Hegseth points to Starshield ‘terms of service’ in Ukraine speed cap dispute",
-      "snippet": "War Secretary Pete Hegseth on Tuesday suggested a violation of Starshield’s terms of service could have led to the speed of the communication systems used by Ukraine being throttled. The Cabinet official’s comments come as conflicting accou",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4773319/hegseth-starshield-terms-of-service-ukraine-restrictions-stock-depletion/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:47:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
