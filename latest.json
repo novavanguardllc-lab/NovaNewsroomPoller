@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-21T05:30:09.767Z",
+  "updatedAt": "2026-10-21T05:35:06.194Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:09.980Z"
+      "lastSuccess": "2026-10-21T05:35:06.589Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.102Z"
+      "lastSuccess": "2026-10-21T05:35:06.790Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.327Z"
+      "lastSuccess": "2026-10-21T05:35:06.816Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.144Z"
+      "lastSuccess": "2026-10-21T05:35:06.415Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.022Z"
+      "lastSuccess": "2026-10-21T05:35:06.676Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.040Z"
+      "lastSuccess": "2026-10-21T05:35:06.714Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:09.882Z"
+      "lastSuccess": "2026-10-21T05:35:06.820Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.184Z"
+      "lastSuccess": "2026-10-21T05:35:06.733Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T05:30:10.300Z"
+      "lastErrorAt": "2026-10-21T05:35:06.869Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.084Z"
+      "lastSuccess": "2026-10-21T05:35:06.730Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.303Z"
+      "lastSuccess": "2026-10-21T05:35:06.892Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.359Z"
+      "lastSuccess": "2026-10-21T05:35:06.736Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.080Z"
+      "lastSuccess": "2026-10-21T05:35:06.392Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.048Z"
+      "lastSuccess": "2026-10-21T05:35:06.335Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.341Z"
+      "lastSuccess": "2026-10-21T05:35:06.918Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.142Z"
+      "lastSuccess": "2026-10-21T05:35:06.511Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.285Z"
+      "lastSuccess": "2026-10-21T05:35:06.799Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.261Z"
+      "lastSuccess": "2026-10-21T05:35:06.653Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.366Z"
+      "lastSuccess": "2026-10-21T05:35:06.953Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.469Z"
+      "lastSuccess": "2026-10-21T05:35:06.991Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.542Z"
+      "lastSuccess": "2026-10-21T05:35:07.153Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T05:30:10.379Z"
+      "lastErrorAt": "2026-10-21T05:35:06.954Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T05:30:10.448Z"
+      "lastSuccess": "2026-10-21T05:35:08.825Z"
     }
   },
   "items": [
+    {
+      "id": "story_69f56040b68b2052",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "OpenAI says its agents turned off own safeguards",
+      "snippet": "ChatGPT creator says AI agents disabled misalignment monitoring during two internal coding tasks.",
+      "link": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T05:30:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a71a61e0d546c524",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Which countries and players have won the most Ballon d’Or awards?",
+      "snippet": "Argentina's Lionel Messi has won all of his country's eight prizes, while Portugal's Cristiano Ronaldo has won five.",
+      "link": "https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T05:29:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7f1aff112ff50b31",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Far from fringe: How Israel’s mainstream parties vote with the far right",
+      "snippet": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T05:24:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ac3c7d03839e11d2",
       "source": "Guardian",
@@ -106,6 +145,19 @@
       "link": "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai",
       "imageUrl": null,
       "publishedAt": "2026-10-21T05:18:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7943a1157cae3c67",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Pro-Modi leader burns cockroach effigy to taunt youth protesters",
+      "snippet": "Pro-Modi leader burns cockroach effigy to taunt youth protesters",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T05:18:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2642,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-20T22:31:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_932a29c2b79e8c0f",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "HBCUs enter new fight for equal funding",
-      "snippet": "A lawsuit in Missouri could have implications for the nation's historically Black colleges and universities. Current and former students at Lincoln University are suing the state for $549 million, alleging it systematically underfunded the ",
-      "link": "https://www.pbs.org/newshour/show/hbcus-enter-new-fight-for-equal-funding",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:30:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ebf51fa88eba7b4c",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "WATCH LIVE: Trump rallies for Senate hopeful Michael Whatley in North Carolina",
-      "snippet": "President Donald Trump will be in Greenville, North Carolina, on Tuesday night to rally for Republican Senate hopeful Michael Whatley and other GOP candidates. 2026 MIDTERM ELECTIONS LIVE UPDATES: LATEST NEWS, RESULTS AND ANALYSIS Trump has",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4772949/watch-live-trump-rally-north-carolina-whatley/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:30:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_754a8c4a7fbf4700",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "10/20: CBS Evening News",
-      "snippet": "A brake issue prompts an American Airlines emergency landing; Christina Applegate reveals a devastating misdiagnosis.",
-      "link": "https://www.cbsnews.com/video/102026-cbs-evening-news/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6284ff08afaaffcc",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "American Airlines jet suffers brake trouble, blown tire after landing at Chicago O'Hare: FAA",
-      "snippet": "An American Airlines flight from Spain reported brake issues and a blown tire after landing at Chicago O'Hare on Tuesday.",
-      "link": "https://www.foxnews.com/us/american-airlines-jet-suffers-brake-trouble-blown-tire-landing-chicago-ohare-faa",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T22:29:15.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
