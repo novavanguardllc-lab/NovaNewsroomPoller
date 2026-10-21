@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-21T11:10:07.166Z",
+  "updatedAt": "2026-10-21T11:15:07.640Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.237Z"
+      "lastSuccess": "2026-10-21T11:15:07.814Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.210Z"
+      "lastSuccess": "2026-10-21T11:15:07.795Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.233Z"
+      "lastSuccess": "2026-10-21T11:15:07.878Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.239Z"
+      "lastSuccess": "2026-10-21T11:15:07.938Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.246Z"
+      "lastSuccess": "2026-10-21T11:15:07.936Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.259Z"
+      "lastSuccess": "2026-10-21T11:15:07.972Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.311Z"
+      "lastSuccess": "2026-10-21T11:15:08.084Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T11:10:07.311Z"
+      "lastErrorAt": "2026-10-21T11:15:08.090Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.299Z"
+      "lastSuccess": "2026-10-21T11:15:08.095Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.315Z"
+      "lastSuccess": "2026-10-21T11:15:08.080Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.294Z"
+      "lastSuccess": "2026-10-21T11:15:08.056Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.349Z"
+      "lastSuccess": "2026-10-21T11:15:08.065Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.265Z"
+      "lastSuccess": "2026-10-21T11:15:07.916Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.287Z"
+      "lastSuccess": "2026-10-21T11:15:08.051Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.344Z"
+      "lastSuccess": "2026-10-21T11:15:08.030Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.550Z"
+      "lastSuccess": "2026-10-21T11:15:08.312Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.443Z"
+      "lastSuccess": "2026-10-21T11:15:08.075Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T11:10:07.361Z"
+      "lastErrorAt": "2026-10-21T11:15:08.090Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.597Z"
+      "lastSuccess": "2026-10-21T11:15:07.912Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.613Z"
+      "lastSuccess": "2026-10-21T11:15:08.159Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.367Z"
+      "lastSuccess": "2026-10-21T11:15:08.118Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:07.375Z"
+      "lastSuccess": "2026-10-21T11:15:08.170Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:10:09.789Z"
+      "lastSuccess": "2026-10-21T11:15:08.152Z"
     }
   },
   "items": [
+    {
+      "id": "story_6cc7b117613b42f4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+      "snippet": "A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.",
+      "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:13:09.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_46cea45325b09b1f",
       "source": "France24",
@@ -124,6 +137,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2bf902860fb9e21e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Kansas soccer field crash raises red flags for former investigator who questions key theories",
+      "snippet": "Jamie Copenhaver, a former detective, questions why no charges were filed after a driver killed two at Wichita's Stryker Sports Complex.",
+      "link": "https://www.foxnews.com/us/kansas-soccer-field-crash-raises-red-flags-former-investigator-questions-key-theories",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:00:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_978ca3256388ac14",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -132,6 +158,32 @@
       "link": "https://www.foxnews.com/opinion/dan-hoffman-grief-can-break-your-heart-heres-how-keep-it-breaking-your-life",
       "imageUrl": null,
       "publishedAt": "2026-10-21T11:00:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0043acf979c37c88",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Why stacking supplements without a blood test first can do more harm than good",
+      "snippet": "Jim LaValle explains why a blood test should come before buying ashwagandha, magnesium or zinc supplements to address fatigue and other symptoms.",
+      "link": "https://www.foxnews.com/health/why-stacking-supplements-without-blood-test-first-can-do-more-harm-than-good",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:00:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3e987a9b7da537ff",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Kid Rock says supporting Trump came at a cost in Hollywood, but he's not backing down",
+      "snippet": "Kid Rock tells Fox News Digital supporting Trump cost him corporate deals and late-night TV spots but says his freedom of speech matters more than Hollywood access.",
+      "link": "https://www.foxnews.com/entertainment/kid-rock-says-supporting-trump-came-cost-hollywood-not-backing-down",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:00:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -158,6 +210,19 @@
       "link": "https://www.cbsnews.com/news/electricity-bills-americans-cut-back-food/",
       "imageUrl": null,
       "publishedAt": "2026-10-21T11:00:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c24681d8b37402b0",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "How Saudi Arabia's defense vulnerabilities could become Trump's problem amid Houthi onslaught",
+      "snippet": "Saudi Arabia seeks foreign allies to counter Houthi missiles and drones as Trump weighs whether to launch direct U.S. military strikes on Yemen.",
+      "link": "https://www.foxnews.com/politics/saudi-arabia-defense-vulnerabilities-trump-problem-houthi-onslaught",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T11:00:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -497,6 +562,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T10:22:35.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_082674d2ec8f5317",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Ebola has spread from Congo to 4 other countries. A look at where things stand - AP News",
+      "snippet": "Ebola has spread from Congo to 4 other countries. A look at where things stand  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkt0NHZpTXNYZFNlZGh0SHN4NFROSFZBc0lsMzFJNGNTeFhaMTlMLUJnN0c3bTQ5OXFrbTI0VEdRdlRuQ2Y5dVZFc3V5OEg5NTFUZFkwMzI1cVpFcm1XREh1UHo1YWJtclZYeVVSdkRaWXdfWEdqel9MWm5WOFFXY2FSODdWVkhLNlhnWEx6WnJ2ME8xaHBkLUVGaDc5UlU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T10:22:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2615,84 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzBscFc1bVNobHJsZmJJNHE4dmlON3Viekp4ZDd1R2QwdlZaZkZJc1QyTW9aQmhnOGxmUW14NnFWbFlkSWVDbkJiRjdzdjhLODlSMmd1T2hETGxfbXRnaFo2NFE5UG5vbVNWZ21Zd0tWTDM2NExxaVI4bU5zNTlrbHM2dmhiT1ZOVkwzWVItdHlYeTFESEFSMVRla0hPUzFueUdGVl80NS1IbHJlQWhsakRqN0lsbjF3cF9TODFrMA?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-21T06:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3fd3682cbc2c6f86",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Gaza children face worsening food shortages as prices rise and aid is cut",
-      "snippet": "Families say they are struggling to provide nutritious meals for their children as commercial supplies are disrupted.",
-      "link": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T06:00:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea76db6f5f43ffd3",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling",
-      "snippet": "Court of appeal decision prevents woman from suing police and CPS for disclosing her address to violent ex-partner\nThe Labour MP Jess Phillips has said she hopes the UK’s highest court “sees sense” and overturns a ruling preventing a domest",
-      "link": "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T06:00:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_083d61aa6c00a439",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "UK approves long-delayed Jackdaw gas field - Reuters",
-      "snippet": "UK approves long-delayed Jackdaw gas field  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVhqQWZMc3FMQ2lhTXRCMm92QVlKRlk3Y2lNenRKRTJmWWxHUlNWc3pTZWJyOU92aHlVTmtwLXVTeE01WFZxU3NpQ19Eazh6TkM5VWZaaUpqRFo5SFZJbmRHeFVvYkRiZGJUYUpza0ZyMWZ1NThlMFpEM1U5dlRZeUNJQVBqN0VpbTFscWViMFNHdm84T1FhMWxB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T05:58:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1c309684a60d159f",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK approves Jackdaw gasfield in North Sea",
-      "snippet": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners \nThe UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will nonetheless dismay environm",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T05:56:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b57e206c39ea4729",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump says companies should pay 'dividend' to communities to make data centers popular - Reuters",
-      "snippet": "Trump says companies should pay 'dividend' to communities to make data centers popular  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSFFhcl9qcUZ1SGk4eFlwa0ZMZ1ZsbC1scnpKT0hVMDdZOWpsX0JudFE0REhVUU4ySGhBZ0VaSWxMOXA0N2lyN0FYVmJFMjBfMks4OERreGNOYWtzZnNCemx6blNJcmhRNEF0aFdmWHVSTDQ4NE1YNTN1ZTJKdlVGWld4b20xTzczWDRyZW1DMGhIcEs0NHE5clRNOEtMcXJCSDNRMDhLYnMxd2JfYWJ6amxldE9IUDF4Zl9rZjY5eHhiNklGZ3IxS1I2ZmlCZnYzNVVnMjdR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T05:55:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_04ab6540da248277",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says - Reuters",
-      "snippet": "Starlink access in Ukraine a decision for Musk, not White House, Rubio says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHFiRnNfU1ZqdEFSWG9fQV93dDJCNVQ0NTh2bF9WRmtQcERCbFZlQ3ZVRllOeWVjejY2RGZhNjJzVjV5U19lMUhZV3ZpNTZpcElSbGFaY0dpTUxEaGx4eElobk9qakZXZ3g5LVZqaHV0QTZ3eElMSGdjQzdqT3Y1alVuVDh4NV9RZF9ycmc1bkUyeTVTTnFvVzdUUVFnWXRDb29aQk13YU1OeFBNQ3BFQ2tNRjlCTWFIX2c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T05:54:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
