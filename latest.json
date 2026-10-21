@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-21T13:35:05.410Z",
+  "updatedAt": "2026-10-21T13:40:08.215Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.649Z"
+      "lastSuccess": "2026-10-21T13:40:08.275Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.751Z"
+      "lastSuccess": "2026-10-21T13:40:08.332Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.590Z"
+      "lastSuccess": "2026-10-21T13:40:08.313Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.523Z"
+      "lastSuccess": "2026-10-21T13:40:08.355Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.665Z"
+      "lastSuccess": "2026-10-21T13:40:08.354Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.710Z"
+      "lastSuccess": "2026-10-21T13:40:08.387Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.727Z"
+      "lastSuccess": "2026-10-21T13:40:08.367Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T13:35:05.732Z"
+      "lastErrorAt": "2026-10-21T13:40:08.448Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.776Z"
+      "lastSuccess": "2026-10-21T13:40:08.446Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.787Z"
+      "lastSuccess": "2026-10-21T13:40:08.426Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.891Z"
+      "lastSuccess": "2026-10-21T13:40:08.357Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.808Z"
+      "lastSuccess": "2026-10-21T13:40:08.451Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.714Z"
+      "lastSuccess": "2026-10-21T13:40:08.335Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.639Z"
+      "lastSuccess": "2026-10-21T13:40:08.394Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.835Z"
+      "lastSuccess": "2026-10-21T13:40:08.415Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:06.007Z"
+      "lastSuccess": "2026-10-21T13:40:08.518Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.772Z"
+      "lastSuccess": "2026-10-21T13:40:08.351Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T13:35:05.900Z"
+      "lastErrorAt": "2026-10-21T13:40:08.432Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.608Z"
+      "lastSuccess": "2026-10-21T13:40:08.780Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.617Z"
+      "lastSuccess": "2026-10-21T13:40:08.725Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.909Z"
+      "lastSuccess": "2026-10-21T13:40:08.442Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.919Z"
+      "lastSuccess": "2026-10-21T13:40:08.476Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T13:35:05.939Z"
+      "lastSuccess": "2026-10-21T13:40:10.587Z"
     }
   },
   "items": [
+    {
+      "id": "story_003de80168698fed",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Polymarket removes bets on outcome of Cornell sexual assault case",
+      "snippet": "The market had amassed $450,000 in wagers by the time it was pulled from the international platform.",
+      "link": "https://www.cbsnews.com/news/polymarket-cornell-7-sexual-assault-bets/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T13:37:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_faf14d11114810bc",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "UK greenlights previously banned North Sea gas project sought by Trump",
+      "snippet": "The United Kingdom is allowing a proposed gas drilling project in the North Sea to move forward, a major reversal in the country’s climate change policy, which previously banned new fossil fuel drilling in the region. The sign-off on the pr",
+      "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4772959/uk-north-sea-jackdaw-gas-project/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T13:36:30.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_76e04c57c61d8f74",
       "source": "France24",
@@ -106,6 +132,19 @@
       "link": "https://www.france24.com/en/replay-french-union-leaders-urges-strikes-after-meeting-with-pm-lecornu",
       "imageUrl": "https://s.france24.com/media/display/756cd872-cd4e-11f1-837a-19980254bb31/w:1024/p:16x9/EN-20261021-130835-132941-CS.jpg",
       "publishedAt": "2026-10-21T13:30:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f24f3fe6d6db8389",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Israeli military detains US politician Brad Lander and rabbis at olive harvest",
+      "snippet": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station\nThe Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, includi",
+      "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T13:30:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1099,6 +1138,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f90db2850afc01dd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "South Africa unveils two months of fuel price relief in mid-year budget - Reuters",
+      "snippet": "South Africa unveils two months of fuel price relief in mid-year budget  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTjliekdkc1RrYWx0dmY2SFFmOHNZUld4OGQzWTFFdjlITUZOa0ZmOFFyd3RCNXBRWVFPT1VocVItN2FQNWNPcTdVY05KT29lWEhwWFBNV0hsWC1wam1fbUdja1NSaEh5NVRsYWR1cFNjb0p1cndOcHpCMTd1VUdKX2xnS1VzLVVtQndfZXItSlRTeHlKS3czVlZmMlN1MzR3SHd0ZHZuMVZYYUs4Q3B0dWx1SFphU0w2c2xoNHQ1YWZWMHdncEdObEV3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T12:09:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4d7c346bcce5ded1",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -2035,6 +2087,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8fc63d91d7e16981",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Orange says network incident disrupts mobile services across France - Reuters",
+      "snippet": "Orange says network incident disrupts mobile services across France  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDh6dGp1NkVrcEU0bU5aQlc2d19PTlFuVzdYZV9oekNaNDF1UW9CUG5QMWp1akxsZklqcGxFcDRabG9aZE10SkFhVWFZMlJxYmIteDd0RDVYVmlTVllveG1NQ1IybUdnZlBZbEFJZ2hhamZyM2dpODN5U1Q4TVpXdEx3RXlVa3FhQ2xBR1pTQVpHN3gybFpGbFU1Mms1QU5ubWVOU1l0bDFyZDBUMm9rMkZIeUFmdW9fRkJvTWZMNUd0V0RW?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T10:55:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e19cad96e58d46b4",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2628,71 +2693,6 @@
       "link": "https://www.france24.com/en/video/20261021-italy-deploys-troops-into-milan-in-response-to-recent-riots",
       "imageUrl": "https://s.france24.com/media/display/09308f96-ca6f-11f1-92d2-6313a763b466/w:1024/p:16x9/AP26290745935535.jpg",
       "publishedAt": "2026-10-21T10:08:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_37b529df60d0e918",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "The NBA star helping protect his opponents’ feet",
-      "snippet": "NBA star Damian Lillard co-founded an insoles company. It turns out his biggest competition on the court are wearing them.",
-      "link": "https://www.nbcnews.com/sports/nba/nba-damian-lillard-portland-trail-blazers-insoles-rcna604620",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T10:08:00.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_42ec7b2f521866ed",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Global diesel prices seen staying high despite Trump's deal with Russia - Reuters",
-      "snippet": "Global diesel prices seen staying high despite Trump's deal with Russia  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUzdlb2JMYTdYUzZ1QlFvV005cGMyek55X3ZiblV4RDhKUTA2dEprNUlEVjVSb3FvVGxXTmdvNkJWdlB1ZVgxU0xFNHNXOWstN0RNT0Z2b2hXVG9zbkwxWGk2YlpodXNsaU5hSmNFekRSaDdEc3NqWWtJR0tyeTRSTlZjMHFuOWlUdUw2ZFVDSkh3Q0pKUGNBbzBSdWxuVUZDN3ZPM2E4X1lpTHByV1YwXzhieVNlS2s5OUJ4MnpUbw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T10:06:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4473c09d7e50cb46",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump to tout crackdown on overseas crypto scams - Reuters",
-      "snippet": "Trump to tout crackdown on overseas crypto scams  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T10:05:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b57bcf48d4a3ffdb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "OceanGate CEO Stockton Rush wanted to join ‘Titanic mythology’ when Titan sub imploded, friend claims",
-      "snippet": "Karl Stanley claims OceanGate CEO Stockton Rush intentionally designed the Titan submersible to implode, calling it a \"mousetrap for billionaires.\"",
-      "link": "https://www.foxnews.com/us/oceangate-ceo-stockton-rush-wanted-join-titanic-mythology-titan-sub-imploded-friend-claims",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T10:00:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b8210b92b4c72409",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "America’s Utility Bill Crisis, and Trump’s Approval Rating Hits a New Low",
-      "snippet": "Plus, the big business of big scares.",
-      "link": "https://www.nytimes.com/2026/10/21/podcasts/the-headlines/utility-bill-costs-trump-approval-rating.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T10:00:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
