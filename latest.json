@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-21T19:35:05.031Z",
+  "updatedAt": "2026-10-21T19:40:07.557Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.198Z"
+      "lastSuccess": "2026-10-21T19:40:07.799Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.180Z"
+      "lastSuccess": "2026-10-21T19:40:07.877Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.155Z"
+      "lastSuccess": "2026-10-21T19:40:08.059Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.442Z"
+      "lastSuccess": "2026-10-21T19:40:08.081Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.184Z"
+      "lastSuccess": "2026-10-21T19:40:07.816Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.285Z"
+      "lastSuccess": "2026-10-21T19:40:07.936Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.248Z"
+      "lastSuccess": "2026-10-21T19:40:07.870Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.221Z"
+      "lastSuccess": "2026-10-21T19:40:08.136Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.245Z"
+      "lastSuccess": "2026-10-21T19:40:07.829Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.477Z"
+      "lastSuccess": "2026-10-21T19:40:08.383Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.253Z"
+      "lastSuccess": "2026-10-21T19:40:08.104Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T19:35:05.533Z"
+      "lastErrorAt": "2026-10-21T19:40:07.852Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.258Z"
+      "lastSuccess": "2026-10-21T19:40:07.850Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.395Z"
+      "lastSuccess": "2026-10-21T19:40:08.098Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.483Z"
+      "lastSuccess": "2026-10-21T19:40:08.130Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.243Z"
+      "lastSuccess": "2026-10-21T19:40:07.959Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.590Z"
+      "lastSuccess": "2026-10-21T19:40:07.789Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.347Z"
+      "lastSuccess": "2026-10-21T19:40:08.242Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.688Z"
+      "lastSuccess": "2026-10-21T19:40:08.338Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.489Z"
+      "lastSuccess": "2026-10-21T19:40:08.378Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T19:35:05.479Z"
+      "lastErrorAt": "2026-10-21T19:40:08.389Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:05.532Z"
+      "lastSuccess": "2026-10-21T19:40:08.415Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T19:35:07.302Z"
+      "lastSuccess": "2026-10-21T19:40:09.229Z"
     }
   },
   "items": [
+    {
+      "id": "story_e6927a278957d1a0",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Pope Leo won't need more treatment after cancer surgery, doctors say",
+      "snippet": "Pope Leo XIV will not need any further treatment after having lung cancer surgery, his doctors said in a statement.",
+      "link": "https://www.cbsnews.com/news/pope-leo-further-treatment-lung-cancer-surgery/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T19:34:33.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_13dbdebe2be45a2e",
       "source": "Wash Examiner",
@@ -145,6 +158,19 @@
       "link": "https://www.dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-21T19:32:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_106354a89d2586fc",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "snippet": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+      "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T19:29:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2667,32 +2693,6 @@
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-21T16:01:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5134e4c7dce3a0a3",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "How Trump's attacks on voting system integrity might affect upcoming elections",
-      "snippet": "Election law expert Rick Hasen explains Trump's interference in the midterms, including threatening local officials with criminal prosecution unless they strike alleged noncitizens from voter rolls.",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010463/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T16:01:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ba6ffc9931e99dcf",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Why local officials are feeling 'on edge' as election day approaches",
-      "snippet": "Al Schmidt is the chief election official in the state of Pennsylvania. President Trump's insults put him in danger during the 2020 ballot count. Now Schmidt talks about preparing for the midterms.",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T16:01:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
