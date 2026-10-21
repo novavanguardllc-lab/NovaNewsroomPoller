@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-21T16:45:07.380Z",
+  "updatedAt": "2026-10-21T16:50:07.148Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.492Z"
+      "lastSuccess": "2026-10-21T16:50:07.218Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.574Z"
+      "lastSuccess": "2026-10-21T16:50:07.307Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.597Z"
+      "lastSuccess": "2026-10-21T16:50:07.443Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.473Z"
+      "lastSuccess": "2026-10-21T16:50:07.266Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.608Z"
+      "lastSuccess": "2026-10-21T16:50:07.276Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.629Z"
+      "lastSuccess": "2026-10-21T16:50:07.458Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.675Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-21T16:50:07.496Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.513Z"
+      "lastSuccess": "2026-10-21T16:50:07.510Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.672Z"
+      "lastSuccess": "2026-10-21T16:50:07.314Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.755Z"
+      "lastSuccess": "2026-10-21T16:50:07.515Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.712Z"
+      "lastSuccess": "2026-10-21T16:50:07.448Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T16:45:07.709Z"
+      "lastErrorAt": "2026-10-21T16:50:07.428Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.726Z"
+      "lastSuccess": "2026-10-21T16:50:07.464Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.667Z"
+      "lastSuccess": "2026-10-21T16:50:07.491Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:12.759Z"
+      "lastSuccess": "2026-10-21T16:50:12.238Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.846Z"
+      "lastSuccess": "2026-10-21T16:50:07.779Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.954Z"
+      "lastSuccess": "2026-10-21T16:50:07.677Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.750Z"
+      "lastSuccess": "2026-10-21T16:50:07.551Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.894Z"
+      "lastSuccess": "2026-10-21T16:50:07.426Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.766Z"
+      "lastSuccess": "2026-10-21T16:50:07.559Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T16:45:07.761Z"
+      "lastErrorAt": "2026-10-21T16:50:07.511Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:07.790Z"
+      "lastSuccess": "2026-10-21T16:50:07.651Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T16:45:10.187Z"
+      "lastSuccess": "2026-10-21T16:50:07.630Z"
     }
   },
   "items": [
@@ -119,6 +120,19 @@
       "link": "https://thehill.com/policy/healthcare/6163029-poll-vaccine-safety-confidence/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6a98aa21597488.01839956.jpeg?w=900",
       "publishedAt": "2026-10-21T16:43:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_489a15294f999ae8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Randy Houser opens up about his lifelong love of fishing and unforgettable trip with Navy SEALs",
+      "snippet": "From fishing in Mississippi to unforgettable days on the water with Navy SEALs, Randy Houser shares why the outdoors will always be part of his life.",
+      "link": "https://www.foxnews.com/outkick-sports/randy-houser-opens-lifelong-love-fishing-unforgettable-trip-navy-seals",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T16:40:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2683,19 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_342841f2c38f8172",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Gabriel Luna teases 'shifting perspectives' in 'The Last of Us' season 3 as filming continues",
-      "snippet": "\"The Last of Us\" season 3 is currently shooting, and Gabriel Luna's new comments hint at major perspective shifts that mirror the video game source.",
-      "link": "https://www.foxnews.com/outkick-culture/gabriel-luna-teases-shifting-perspectives-last-us-season-3-filming-continues",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T14:05:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
