@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-10-21T23:30:11.256Z",
+  "updatedAt": "2026-10-21T23:35:05.267Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.334Z"
+      "lastSuccess": "2026-10-21T23:35:05.343Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.496Z"
+      "lastSuccess": "2026-10-21T23:35:05.520Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.382Z"
+      "lastSuccess": "2026-10-21T23:35:05.458Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.346Z"
+      "lastSuccess": "2026-10-21T23:35:05.461Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.355Z"
+      "lastSuccess": "2026-10-21T23:35:05.358Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.557Z"
+      "lastSuccess": "2026-10-21T23:35:05.603Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.546Z"
+      "lastSuccess": "2026-10-21T23:35:05.509Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.525Z"
+      "lastSuccess": "2026-10-21T23:35:05.437Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.458Z"
+      "lastSuccess": "2026-10-21T23:35:05.402Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.553Z"
+      "lastSuccess": "2026-10-21T23:35:05.585Z"
     },
     "Wash Examiner": {
-      "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.636Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-21T23:35:15.283Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.625Z"
+      "lastSuccess": "2026-10-21T23:35:05.598Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T23:30:11.637Z"
+      "lastErrorAt": "2026-10-21T23:35:05.612Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.641Z"
+      "lastSuccess": "2026-10-21T23:35:05.628Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T23:30:11.655Z"
+      "lastErrorAt": "2026-10-21T23:35:05.615Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.618Z"
+      "lastSuccess": "2026-10-21T23:35:05.606Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.610Z"
+      "lastSuccess": "2026-10-21T23:35:05.583Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.663Z"
+      "lastSuccess": "2026-10-21T23:35:05.662Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.685Z"
+      "lastSuccess": "2026-10-21T23:35:05.681Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.851Z"
+      "lastSuccess": "2026-10-21T23:35:05.731Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.478Z"
+      "lastSuccess": "2026-10-21T23:35:05.805Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:11.734Z"
+      "lastSuccess": "2026-10-21T23:35:05.746Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T23:30:13.485Z"
+      "lastSuccess": "2026-10-21T23:35:05.765Z"
     }
   },
   "items": [
+    {
+      "id": "story_eba4767c70be49e2",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Surveillance video captures kidnapping attempt of 13-year-old girl in Florida",
+      "snippet": "Surveillance video captured the moment a Florida man attempted to kidnap a young girl in a gas station parking lot before she broke free, authorities said. The 13-year-old can be seen walking home when a man in biking gear approaches her.",
+      "link": "https://www.cbsnews.com/video/surveillance-video-captures-kidnapping-attempt-13-year-old-girl-florida/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:28:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b0f053bc82af39fa",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "JD Vance visits Cincinnati Bengals practice and quarterback Joe Burrow is convinced it was mostly about him",
+      "snippet": "JD Vance toured the Cincinnati Bengals locker room and watched practice, but star quarterback Joe Burrow says the two never actually talked.",
+      "link": "https://www.foxnews.com/outkick-sports/jd-vance-visits-cincinnati-bengals-practice-quarterback-joe-burrow-convinced-mostly-about-him",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:28:15.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f473d4c2626177f0",
       "source": "Wash Examiner",
@@ -106,6 +133,45 @@
       "link": "https://www.washingtonexaminer.com/policy/technology/4775070/website-ai-security-vulnerability-php/",
       "imageUrl": null,
       "publishedAt": "2026-10-21T23:27:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_60de8e4ee7bc90d1",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "More details on report that Musk intentionally restricted Ukraine's access to SpaceX network",
+      "snippet": "Elon Musk intentionally restricted Ukraine's access to a SpaceX satellite network crucial to its defense from Russia attacks, sources tell CBS News. Wall Street Journal national security reporter Alexander Ward joins \"The Daily Report\" to s",
+      "link": "https://www.cbsnews.com/video/more-details-on-report-that-musk-intentionally-restricted-ukraines-access-to-starlink/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:26:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_25e08a56c87acca0",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Retired NYPD detective charged in deadly road rage incident",
+      "snippet": "A 46-year-old father was shot while sitting in rush hour traffic on the George Washington Bridge, which connects New York and New Jersey. A retired NYPD detective is in custody, sources said. Tom Hanson has more.",
+      "link": "https://www.cbsnews.com/video/retired-nypd-detective-charged-deadly-road-rage-incident/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:26:08.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_e9a185f259f2a0e4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Hall of Fame basketball coach Bob Huggins has progressive cognitive condition, family announces",
+      "snippet": "Bob Huggins' family revealed the Hall of Fame coach's progressive cognitive condition ahead of his University of Cincinnati induction ceremony.",
+      "link": "https://www.foxnews.com/outkick-sports/hall-fame-basketball-coach-bob-huggins-progressive-cognitive-condition-family-announces",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:25:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2630,71 +2696,6 @@
       "publishedAt": "2026-10-21T20:22:52.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_14c452f1d48ca1fb",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "EU prosecutors search European Parliament offices of far-right group",
-      "snippet": "The far-right European Parliament group of French presidential frontrunner Marine Le Pen's party said Wednesday EU prosecutors were searching its offices as part of a graft probe into its now-defunct predecessor. The Patriots for Europe gro",
-      "link": "https://www.france24.com/en/eu-prosecutors-search-european-parliament-offices-of-far-right-group",
-      "imageUrl": "https://s.france24.com/media/display/350276dc-cd8c-11f1-b816-eb48fa034ddc/w:1024/p:16x9/EN-20261021-220512-220953-CS.jpg",
-      "publishedAt": "2026-10-21T20:21:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_615904c4b8cc6abd",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Europe's financial regulators query Google over cloud outage that hit banks - Reuters",
-      "snippet": "Europe's financial regulators query Google over cloud outage that hit banks  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzllb1hMZlRLZ3ZfSFFIOGpJQXR1bG0ycmt2dElIZ25fck94R08tWmxRaXlGVUUwWXNjUF9wNEREWU00dEtEZnBMcV8tVmhZb3JnUmlvVE9icm13azlSZWRmTm1oMFBBa3BvQVNTNzh3ZUxoUDBpN09ZclN0Z0pRdEExWEdSdXBSRGNsbVBJSEx5OE9QLVVySll5MXZ5M0VMcFI1VWZKcExhWWVVY0NpRE1sOWJ2LWgzaWN6eHFhRVJzalE1Mmc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T20:20:28.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5b107627928026ac",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Ex-prosecutor charged with treason in Mexico over US drug raid",
-      "snippet": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T20:19:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d8cf079516d5d649",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Jason Alexander recalls Palestinian protection in Ramallah",
-      "snippet": "Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T20:18:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8c079d574cf35540",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman - AP News",
-      "snippet": "Steinbrenner blames Yankees players for lack of World Series title, defends Boone and Cashman  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk51b0tJMnZfQ0N4UlpUNV9NOWxGNWxuSEc3LUFGYnpOLUtmVkx0Y09qLXRlaHRsbUFjRmtYQ2NYNXRNSVJIYWNHZV9NSTZXaHZUSXczdmVYREdzV2s2ZWp4OEs4OXNnd3hHcFljWFpJU2dQUXVscFpWTFNHeEgweGFQQmQ2WnhzNjd1dnFObGUwY250aVg3dDJR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T20:17:00.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
