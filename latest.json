@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-21T04:15:07.108Z",
+  "updatedAt": "2026-10-21T04:20:07.354Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.205Z"
+      "lastSuccess": "2026-10-21T04:20:07.689Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.340Z"
+      "lastSuccess": "2026-10-21T04:20:08.014Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.568Z"
+      "lastSuccess": "2026-10-21T04:20:07.966Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.305Z"
+      "lastSuccess": "2026-10-21T04:20:07.860Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.301Z"
+      "lastSuccess": "2026-10-21T04:20:07.624Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.320Z"
+      "lastSuccess": "2026-10-21T04:20:07.862Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.327Z"
+      "lastSuccess": "2026-10-21T04:20:07.978Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.268Z"
+      "lastSuccess": "2026-10-21T04:20:07.578Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T04:15:07.443Z"
+      "lastErrorAt": "2026-10-21T04:20:07.870Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.442Z"
+      "lastSuccess": "2026-10-21T04:20:07.496Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.461Z"
+      "lastSuccess": "2026-10-21T04:20:07.880Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.449Z"
+      "lastSuccess": "2026-10-21T04:20:07.558Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.413Z"
+      "lastSuccess": "2026-10-21T04:20:07.845Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.310Z"
+      "lastSuccess": "2026-10-21T04:20:07.517Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.480Z"
+      "lastSuccess": "2026-10-21T04:20:07.945Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.263Z"
+      "lastSuccess": "2026-10-21T04:20:07.754Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.360Z"
+      "lastSuccess": "2026-10-21T04:20:07.657Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.404Z"
+      "lastSuccess": "2026-10-21T04:20:07.839Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.489Z"
+      "lastSuccess": "2026-10-21T04:20:08.021Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.494Z"
+      "lastSuccess": "2026-10-21T04:20:08.056Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.620Z"
+      "lastSuccess": "2026-10-21T04:20:08.241Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T04:15:07.484Z"
+      "lastErrorAt": "2026-10-21T04:20:08.017Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T04:15:07.535Z"
+      "lastSuccess": "2026-10-21T04:20:09.685Z"
     }
   },
   "items": [
+    {
+      "id": "story_a52d8cf9065ab010",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Italy approves sweeping security measures in response to protests",
+      "snippet": "Italy's government approves sending 500 troops to Milan after clashes and protests.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T04:13:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d6cd2eaee9d5ceb8",
       "source": "NYT",
@@ -2680,19 +2693,6 @@
       "link": "https://www.nbcnews.com/select/shopping/100-best-travel-accessories-rcna604454",
       "imageUrl": null,
       "publishedAt": "2026-10-20T21:55:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f84aa1c5fb953bb5",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Ocasio-Cortez, Garcia latest Democrats to report receiving suspicious letter",
-      "snippet": "Reps. Alexandria Ocasio-Cortez (D-N.Y.) and Robert Garcia (D-Calif.) are the latest among several officials across the country who have reported receiving suspicious packages at their offices ahead of the midterm elections. Ocasio-Cortez re",
-      "link": "https://thehill.com/homenews/house/6161365-ocasio-cortez-garcia-suspicious-mailings/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/11/6926ed21278c00.61415791-e1778286847684.jpeg?w=900",
-      "publishedAt": "2026-10-20T21:52:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
