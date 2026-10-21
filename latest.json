@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-21T11:45:07.182Z",
+  "updatedAt": "2026-10-21T11:50:07.486Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.373Z"
+      "lastSuccess": "2026-10-21T11:50:07.659Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.338Z"
+      "lastSuccess": "2026-10-21T11:50:07.785Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.302Z"
+      "lastSuccess": "2026-10-21T11:50:07.824Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.395Z"
+      "lastSuccess": "2026-10-21T11:50:07.668Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.368Z"
+      "lastSuccess": "2026-10-21T11:50:07.684Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.431Z"
+      "lastSuccess": "2026-10-21T11:50:08.099Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.549Z"
+      "lastSuccess": "2026-10-21T11:50:07.885Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-21T11:45:07.550Z"
+      "lastErrorAt": "2026-10-21T11:50:08.003Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.535Z"
+      "lastSuccess": "2026-10-21T11:50:07.860Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.554Z"
+      "lastSuccess": "2026-10-21T11:50:08.113Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.456Z"
+      "lastSuccess": "2026-10-21T11:50:07.736Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.576Z"
+      "lastSuccess": "2026-10-21T11:50:08.031Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.454Z"
+      "lastSuccess": "2026-10-21T11:50:08.045Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.608Z"
+      "lastSuccess": "2026-10-21T11:50:07.849Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.528Z"
+      "lastSuccess": "2026-10-21T11:50:07.978Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.688Z"
+      "lastSuccess": "2026-10-21T11:50:08.257Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.559Z"
+      "lastSuccess": "2026-10-21T11:50:07.882Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-21T11:45:07.695Z"
+      "lastErrorAt": "2026-10-21T11:50:08.266Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.393Z"
+      "lastSuccess": "2026-10-21T11:50:08.289Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.712Z"
+      "lastSuccess": "2026-10-21T11:50:08.144Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.700Z"
+      "lastSuccess": "2026-10-21T11:50:08.266Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.752Z"
+      "lastSuccess": "2026-10-21T11:50:08.309Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-21T11:45:07.801Z"
+      "lastSuccess": "2026-10-21T11:50:10.168Z"
     }
   },
   "items": [
+    {
+      "id": "story_6f71f0b7a93ccabd",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Macron says world leaders have made 'stupid' comments on France riots based on fake AI videos",
+      "snippet": "French President Emmanuel Macron took aim at world leaders including US President Donald Trump for trying to exploit the riots and looting that broke out alongside peaceful demonstrations in France Saturday for their own political advantage",
+      "link": "https://www.france24.com/en/france/20261021-macron-says-world-leaders-have-made-stupid-comments-on-france-riots-based-on-fake-ai-videos",
+      "imageUrl": "https://s.france24.com/media/display/43e943ae-cd3e-11f1-a182-eb48fa034ddc/w:1024/p:16x9/c32582bbad1a265ea586d82348eed73833ee7dfb.jpg",
+      "publishedAt": "2026-10-21T11:48:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f34940bd17dc45c2",
       "source": "Wash Examiner",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T07:06:41.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_be1ae630e3952c3b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "UK government approves natural gas project off Scotland despite environmental concerns - AP News",
-      "snippet": "UK government approves natural gas project off Scotland despite environmental concerns  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORG04b2lmR3h1bzYwZTJ0bm5BdjBObWE3OW9XOHBSSzQxTWZGc3V4bmVUclZYekVFdE03VDlRQTYtbWY4YlZuTUlzTzF4VDVGRENhUTBCdUVXczVQREdnTEsyM3hnS3NNSEt1MEVPbjRrUEFDLUFjdGRWRGFDSHBIT0l3T0tQa0h6dmtwSjlDRFF3RmhjSDhuUjh0NFdpU3VMYmsxWGlB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T07:05:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
