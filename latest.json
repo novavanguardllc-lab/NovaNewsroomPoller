@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-22T20:35:05.215Z",
+  "updatedAt": "2026-10-22T20:40:07.269Z",
   "sourceStatus": {
+    "Fox News": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:07.347Z"
+    },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.408Z"
-    },
-    "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.595Z"
-    },
-    "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.460Z"
-    },
-    "UPI": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.483Z"
-    },
-    "NPR": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.467Z"
-    },
-    "PBS": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.494Z"
+      "lastSuccess": "2026-10-22T20:40:07.401Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.820Z"
+      "lastSuccess": "2026-10-22T20:40:07.421Z"
     },
-    "Fox News": {
+    "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.324Z"
+      "lastSuccess": "2026-10-22T20:40:07.428Z"
     },
-    "Politico": {
+    "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.550Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.583Z"
-    },
-    "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.528Z"
+      "lastSuccess": "2026-10-22T20:40:07.447Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.463Z"
+      "lastSuccess": "2026-10-22T20:40:07.466Z"
     },
-    "BBC": {
+    "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.609Z"
-    },
-    "USA Today": {
-      "online": false,
-      "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T20:35:05.625Z"
+      "lastSuccess": "2026-10-22T20:40:07.499Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.427Z"
+      "lastSuccess": "2026-10-22T20:40:07.507Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.487Z"
+      "lastSuccess": "2026-10-22T20:40:07.528Z"
     },
-    "Wash Examiner": {
+    "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.624Z"
+      "lastSuccess": "2026-10-22T20:40:07.541Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T20:35:05.618Z"
+      "lastErrorAt": "2026-10-22T20:40:07.544Z"
     },
-    "ABC News": {
+    "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.643Z"
+      "lastSuccess": "2026-10-22T20:40:07.547Z"
     },
-    "NYT": {
+    "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.587Z"
+      "lastSuccess": "2026-10-22T20:40:07.563Z"
     },
-    "The Hill": {
+    "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.725Z"
+      "lastSuccess": "2026-10-22T20:40:07.568Z"
     },
-    "NBC News": {
+    "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.662Z"
+      "lastSuccess": "2026-10-22T20:40:07.599Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:35:05.790Z"
+      "lastSuccess": "2026-10-22T20:40:07.677Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:07.702Z"
+    },
+    "ProPublica": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:07.752Z"
+    },
+    "ABC News": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:07.781Z"
+    },
+    "USA Today": {
+      "online": false,
+      "lastError": "Status code 402",
+      "lastErrorAt": "2026-10-22T20:40:07.783Z"
+    },
+    "Reuters": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:07.794Z"
+    },
+    "NBC News": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:07.801Z"
+    },
+    "The Hill": {
+      "online": true,
+      "lastSuccess": "2026-10-22T20:40:09.942Z"
     }
   },
   "items": [
@@ -106,6 +106,58 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_34e723da962f76a0",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+      "snippet": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:34:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8f2d5852759b50e6",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Veteran actor Tom Skerritt dies at 93",
+      "snippet": "Tom Skerritt, who starred in movies including \"Alien,\" \"Top Gun\" and \"Steel Magnolias,\" died at the age of 93.",
+      "link": "https://abcnews.com/GMA/Culture/veteran-actor-tom-skerritt-dies-93/story?id=137488364",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:33:14.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 7
+    },
+    {
+      "id": "story_bff582f2b11eaa05",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Nasdaq dives 750 points as investors reassess AI spending",
+      "snippet": "Investors are fretting over the massive debt AI companies are relying on to finance data center and chip spending, Wall Street analysts say.",
+      "link": "https://www.cbsnews.com/news/nasdaq-ai-spending-debt-investors-concerns-stocks/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:32:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_66b4f1b2497cd737",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Impeachment. It’s Not Just for Presidents.",
+      "snippet": "Trump’s grotesque rerun of the Gilded Age demands a rebuke.",
+      "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:30:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +176,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_34165bfd3e17561f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Tom Skerritt, known for roles in \"Alien,\" \"Picket Fences,\" dies at 93",
+      "snippet": "Tom Skerritt died of natural causes, his family said in a statement.",
+      "link": "https://www.cbsnews.com/news/tom-skerritt-dies-age-93-alien-top-gun-picket-fences/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:29:21.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
+    },
+    {
+      "id": "story_e89b8f7d20a1cd76",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Elon Musk's Starlink and Starshield, and what they mean to Ukraine",
+      "snippet": "Here's what to know about Starlink and Starshield, the technologies Ukraine is relying on in the war against Russia.",
+      "link": "https://www.cbsnews.com/news/elon-musk-starlink-starshield-ukraine-russia/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:28:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c923dfe65ee3c42a",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -132,6 +210,19 @@
       "link": "https://www.foxnews.com/media/fox-news-unveils-extensive-2026-midterm-coverage-plans-control-congress-stake",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:25:33.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_43d0fa90cec7acfa",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Trump defends Ramaswamy ad as top Republicans call for taking it down",
+      "snippet": "Both Ohio Gov. Mike DeWine and Iowa Republican Senate candidate Rep. Ashley Hinson said his campaign should cease airing the ad.",
+      "link": "https://abcnews.com/Politics/ohio-gov-mike-dewine-condemns-ramaswamy-ad-calls/story?id=137478294",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:23:21.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
@@ -163,6 +254,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_877f0dceea8eeb6d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+      "snippet": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:19:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_effcfb664b0157e6",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -173,7 +277,7 @@
       "publishedAt": "2026-10-22T20:19:49.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 5
+      "corroboratedCount": 7
     },
     {
       "id": "story_ff9d9ab8fc911b91",
@@ -184,9 +288,9 @@
       "link": "https://www.washingtonexaminer.com/news/white-house/4776394/trump-mamdani-nyc-horse-carriage-ban/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:18:59.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_f87d6a790b3d17d4",
@@ -244,8 +348,8 @@
       "id": "story_ef95c9ff19943223",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Trump world ups attacks on Politico despite correction on Wiles story",
-      "snippet": "Trump administration officials and allies reupped criticism on Politico this week after the news outlet issued a correction on a story about White House Chief of Staff Susie Wiles.  Politico updated their reporting on Wednesday to note that",
+      "headline": "Trump World ups attacks on Politico despite correction on Wiles story",
+      "snippet": "Trump administration officials and allies reupped criticism of Politico this week after the news outlet issued a correction on a story about White House chief of staff Susie Wiles.  Politico updated their reporting Wednesday to note that th",
       "link": "https://thehill.com/homenews/media/6166450-trump-allies-criticize-politico-correction/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292545198035-e1792699872869.jpg?w=900",
       "publishedAt": "2026-10-22T20:12:32.000Z",
@@ -267,19 +371,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_bff582f2b11eaa05",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Nasdaq dives 750 points as investors reassess AI spending",
-      "snippet": "Investors are fretting over the massive debt AI companies are relying on to finance data center and chip spending, Wall Street analysts say.",
-      "link": "https://www.cbsnews.com/news/nasdaq-ai-spending-debt-investors-concerns-stocks/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T20:12:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_a07fd5e99d2259b2",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -290,17 +381,30 @@
       "publishedAt": "2026-10-22T20:11:54.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 6
+      "corroboratedCount": 7
     },
     {
       "id": "story_d1ae68430e4c7d9e",
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Tourist dangles 23 stories above busy street in 'reckless' daredevil stunt",
-      "snippet": "A Belgian tourist's parachute snagged on Auckland's Hotel Indigo during a BASE jump, leaving him dangling 23 stories above a New Zealand street and requiring an emergency rescue.",
+      "snippet": "A Belgian tourist's parachute became snagged on Auckland's Hotel Indigo during a BASE jump, leaving him dangling 23 stories above a New Zealand street and requiring an emergency rescue.",
       "link": "https://www.foxnews.com/travel/tourist-dangles-23-stories-busy-street-reckless-daredevil-stunt",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:11:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b388a3d44a8a0363",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+      "snippet": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’, drawing ire of president\nDonald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial can",
+      "link": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:11:04.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -314,6 +418,19 @@
       "link": "https://www.foxnews.com/outkick-betting/hard-rock-bet-promo-code-500-no-sweat-bets-available-ahead-bears-patriots",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:10:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c5f07cee6a704476",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  Democratic Socialist aims to flip Florida Senate seat",
+      "snippet": "Florida State Sen. Angie Nixon pulled off an upset in her August primary, and now she sits just four points behind her Republican rival in polls.",
+      "link": "https://abcnews.com/video/137488851/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:10:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -335,12 +452,25 @@
       "id": "story_92c2084eab73f4c7",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
-      "headline": "Trump administration may be able to move ahead with Arch plans in early November",
-      "snippet": "Construction on President Donald Trump’s planned Triumphal Arch could begin in early November, the Department of Justice told Washington, D.C.’s, federal district court in a filing this week. The National Capital Planning Commission is set ",
+      "headline": "Trump administration may be able to move ahead with arch plans in early November",
+      "snippet": "Construction on President Donald Trump’s planned Triumphal Arch could begin in early November, the Justice Department told the federal district court in the District of Columbia in a filing this week. The National Capital Planning Commissio",
       "link": "https://www.washingtonexaminer.com/news/white-house/4776347/trump-move-ahead-arch-plan-november-needs-capital-planning-commission-on-board/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:08:51.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_af202e4baa3f4c28",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Steep bill for AI buildout punishes Meta, other tech favorites - Reuters",
+      "snippet": "Steep bill for AI buildout punishes Meta, other tech favorites  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:07:42.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -353,19 +483,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:05:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_877f0dceea8eeb6d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Justice Dept. Opens Inquiry Into Lewandoski",
-      "snippet": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T20:04:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -427,7 +544,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Carville says he still believes Trump will quit by Easter",
-      "snippet": "Democratic strategist James Carville doubled down Wednesday on his prediction that President Trump will leave office by Easter of next year. Fox News’s Laura Ingraham asked Carville during an interview on “The Ingraham Angle” if he stuck by",
+      "snippet": "Democratic strategist James Carville doubled down Wednesday on his prediction that President Trump will leave office by Easter next year. Fox News’s Laura Ingraham asked Carville during an interview on “The Ingraham Angle” if he stuck by th",
       "link": "https://thehill.com/homenews/campaign/6166328-carville-trump-easter-2026-midterms/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/07/AP20039811925637-e1752578375410.jpg?w=900",
       "publishedAt": "2026-10-22T20:02:16.000Z",
@@ -475,6 +592,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_665d1dd9ae2889c7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+      "snippet": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:01:06.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8b759a5136525e40",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -514,6 +644,58 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7a8b751201574e47",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
+      "snippet": "Chris Pappas, the Democratic nominee in New Hampshire, would make history if he won. On the campaign trail, he doesn’t dwell on it.",
+      "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:00:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0295f495e4d6df86",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy - AP News",
+      "snippet": "Powerful Democratic Virginia state Sen. Lucas is accused of leading a marijuana criminal conspiracy  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWV9EN19IUDB3X3ROUy1MNUhvTnh1cUdDMHJQeWhhLVBWTnpiNXhSQkV6a24xdWF5SXVmN184c3UwZFVzc3pOMWpOb25PZkZFbzY4LThoamJBSXJZRFBnR0hUWFBBMk5pOTUzLVFkc3BDcFhUVS1JcHROdmUtN0Q4RFh3cDVPNjRFNHM5WHFUYkZzdE9jTWt0ZW5KMTY5MXRpVms1cDluQ3Y2b19j?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:00:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2480cbf424e7054f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother - AP News",
+      "snippet": "Trump backs Ramaswamy on ad featuring Amy Acton’s estranged mother  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHJha3luejFTWGJTeDZwUWtqN1F5WE90REVnTEhhSzhSZnkxUXJTMU5DMVRYX2hMajJjMU9BcU1aY05tUE1yVldGdXY4Mk5nTnRnWU5NUC1STmMwWnB2SDlpWjR6MEhkWk5ISlF4dmxuWkJJUXBrR1NuWjQ2eVptcm1HdXI0WWxrVlZ2blBRd1A5T3pKTFl6Ri1ndU9vVVgzS1Zrc0xycHk3cF9POVow?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:00:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_8006443cbc11f869",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+      "snippet": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate\n\nSign up for the Breaking News US email\n\nTrump attacks Ohio governor over call for Ramaswamy to d",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:59:48.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_303ea72b60734e73",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -525,6 +707,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_19149087123fff8d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
+      "snippet": "His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”",
+      "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:58:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 7
     },
     {
       "id": "story_604783e76755b651",
@@ -553,19 +748,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_19149087123fff8d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Tom Skerritt, Who Had Key Roles in ‘M*A*S*H,’ ‘Alien’ and ‘Steel Magnolias,’ Has Died",
-      "snippet": "His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”",
-      "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T19:54:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_3c4007f3d3f6796b",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -574,6 +756,19 @@
       "link": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:52:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b72cb0f949b07cec",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Unsealed O.J. Simpson Records Prompt a Request for a New Investigation",
+      "snippet": "Tanya Brown said she believed someone helped O.J. Simpson get rid of the murder weapon. One of Mr. Simpson’s former lawyers called for a special prosecutor.",
+      "link": "https://www.nytimes.com/2026/10/22/us/oj-simpson-accomplice-investigation.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:51:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -618,6 +813,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_535986e68ca84d6b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - AP News",
+      "snippet": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed  AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:48:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_89feb380c68b6f07",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -631,41 +839,41 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_aec320107445879e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Politics - AP News",
-      "snippet": "Politics  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T19:44:55.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_e84e4dbb35f49359",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
       "headline": "Tom Skerritt, star of ‘Alien’ and ‘Top Gun,’ dies at 93",
-      "snippet": "Tom Skerritt, who won an Emmy playing a hard-working sheriff in “Picket Fences” and also appeared in hit Hollywood movies like “Top Gun” and “Alien,” has died, his family confirmed Thursday.",
+      "snippet": "Tom Skerritt, a prolific actor who won an Emmy playing a hard-working sheriff in “Picket Fences” and also appeared in hit Hollywood movies like “Top Gun” and “Alien,” has died, his family confirmed Thursday.",
       "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/tom-skerritt-star-alien-top-gun-dies-93-rcna605077",
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:42:15.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 7
     },
     {
-      "id": "story_c5f07cee6a704476",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Democratic Socialist aims to flip Florida Senate seat",
-      "snippet": "Florida State Sen. Angie Nixon pulled off an upset in her August primary, and now she sits just four points behind her Republican rival in polls.",
-      "link": "https://abcnews.com/video/137488851/",
+      "id": "story_a156d068dcaf4fb4",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "What to know about the PHP bug affecting 70% of world's websites",
+      "snippet": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
+      "link": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T19:41:59.000Z",
+      "publishedAt": "2026-10-22T19:42:04.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_090e6435ee3f1cfa",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US banks are blocking third-party AI agents access to customer accounts, sources say - Reuters",
+      "snippet": "US banks are blocking third-party AI agents access to customer accounts, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcEFxNjAweHdoQ0ZaOWpUTGdVNWRkTXJ2Z08zeG1wOG03ZklKSW9WbTFBbGJWUVZVb211eFN4UFpjTG83aHBtMTViQ21fQmxBd2U0b2JTLXNHcjBReXRpMDl3am82SUVqVU1ndmRxejczTVZaWFlCMVZQSGNwWEQ0NXcyLWt0dlduZ2VUbjNyTUdyRUVndWEzV041cVQ1Mk1uV21vNGZBTUpaQ0tkVk1sOElNZW5NQThVZm9SemdUbXY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:41:23.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -678,32 +886,32 @@
       "link": "https://www.foxnews.com/entertainment/top-gun-star-tom-skerritt-dead-93",
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:39:46.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_34165bfd3e17561f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Tom Skerritt, known for roles in \"Alien,\" \"Picket Fences,\" dies at 93",
-      "snippet": "Tom Skerritt died of natural causes, his family said in a statement.",
-      "link": "https://www.cbsnews.com/news/tom-skerritt-dies-age-93-alien-top-gun-picket-fences/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T19:39:42.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 5
     },
     {
       "id": "story_a281bbea3d381da0",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Trump laments NY horse-drawn carriage ban",
-      "snippet": "President Trump said Thursday that he is sad to see the horse-drawn carriages in New York City go as the New York City Council is expected to pass a ban on them. The council is expected to vote on the decision Thursday, and the ban would st",
+      "headline": "Trump laments NYC horse-drawn carriage ban",
+      "snippet": "President Trump said Thursday he is sad to see the horse-drawn carriages in New York City go as the New York City Council is expected to pass a ban on them. The council is expected to vote on the decision Thursday, and the ban would start i",
       "link": "https://thehill.com/homenews/administration/6166381-trump-mourns-nyc-carriage-ban/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26287746119918-e1792697688490.jpg?w=900",
       "publishedAt": "2026-10-22T19:39:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3a585a44870cf7b2",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "GOP officials divided over Ramaswamy ad with Acton's mom",
+      "snippet": "In the ad, which first circulated on social media Monday night, Democrat Amy Acton's estranged mother called her a liar.",
+      "link": "https://www.cbsnews.com/news/vivek-ramaswamy-ad-amy-acton-mother-republicans-ohio/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:39:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -722,6 +930,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c21a32266b473eed",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news - AP News",
+      "snippet": "Iran says 7 tankers damaged in Strait of Hormuz, and other Mideast news  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:38:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e351c15b46756f6c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Elon Musk invests about $1 billion in Skydance, CNBC reports - Reuters",
+      "snippet": "Elon Musk invests about $1 billion in Skydance, CNBC reports  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORE9VS0szMDd1WndXQU1weENRQU93eGQ4cWRfRWpwMDM5SGNDVGE4elNjZWdHcU43dTBOYmxEUnhmaERyUmNlMmdFV1BfRDNFNlBicjZxME10M1hqcjktWDZ5M2I0RVUzc0c1TkhieERBMElUZFRINjluaUs3OTBBcm9LcFBrR3JwVHFvM0cwNWFwX0tKZDRmY3c4aE9GZlY3UGgyNWJHZjVoX1hZdlJoOW9BaWM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:37:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_61a45dc7f2caf352",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -735,6 +969,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_472c1cedd22c910f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Memphis fails to pass 1-year data center moratorium, opts for shorter-term ban",
+      "snippet": "Memphis has become a hotspot for data centers driven by Elon Musk's SpaceXAI.",
+      "link": "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:37:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_23092cbd9b4107cb",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -743,9 +990,9 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/state/4776327/trump-defends-ramaswamy-ad-amy-acton-estranged-mother/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:36:26.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
       "id": "story_292d07f56101abc3",
@@ -761,6 +1008,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_24e8cebaef871298",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump blasts 76ers' star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
+      "snippet": "Trump blasts 76ers' star LeBron James as 'disgrace' for not standing still during national anthem  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUgxR2FFOThLekhqb3BGZnVkRDJGVkxmcDNCN3VVM3M0YU1pYWhjMXJJc0FFZTFPc2thckdyenJGS2NuVkdOV0tSazM3blJTMFV0eXdOWWlWMjZGTUhBTUI3VFRHQ3ItSXRCWmlhY21GR1c4eXdScVExenAtU04teklRd05XbFRNbE9INVNKLUJ6dUxrYVR3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:35:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d36d7b10b33c70c7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Rhode Island sues Meta over alleged tolerance for scam advertising - Reuters",
+      "snippet": "Rhode Island sues Meta over alleged tolerance for scam advertising  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUNSb1JoQzhZT0lZU3FBLVo2VW1wczU2ZkdCV2kxMnNhSkVueFpYbnJkaTROaEduMkd0aEd3RkFTdHJReTFwSkpqTWdxM0taeUFOdUxaQ0RkZFppNHFjNnpwZU1JWXVSVGJLX2MxZUQ4LWZvaXVyUTlnUTRHS1N2RUh5UjNZd3dNT0hNc0tIbVV1MGtRaE1RS1lRY0xqM3diblM3ZXYtWQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:34:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c2291b8b9bdc7178",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -771,6 +1044,19 @@
       "publishedAt": "2026-10-22T19:32:07.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fe201eafefb20103",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump ordered to sit for deposition in his $10 billion BBC lawsuit - Reuters",
+      "snippet": "Trump ordered to sit for deposition in his $10 billion BBC lawsuit  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeEdESlAybnhYTFk5QmF1cXdLNGxzSHN3MEp6QWpMSjk2bUJXYzVySWtIZ3ljblNPeWpULTlYVV9sWnhKVWdoeHRNSUZzODZ5XzhqUV9TMGxwZzNyc19LZGtpQllIX25VVF9SZmdGZm1SUmJuekk1Qm8yWlllZ1NsaWE3ZDkzcmZBUm1jMzFiVXBJdmxuX1NEanh3SW5KMzJxQmp0aldGWl9SRWdS?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:31:50.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -813,6 +1099,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0093cc9f1136797c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
+      "snippet": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up.",
+      "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:29:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e5f2961ef0d5e7c1",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "snippet": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:27:57.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_388eb9124a0e9235",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -839,11 +1151,24 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d7ed585b0b58e3a1",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "snippet": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:25:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2e40e108e5d5214c",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Trump doubles down on anti-Acton ad in Ohio: ‘Vivek should keep it up’",
-      "snippet": "President Trump defended Ohio gubernatorial candidate Vivek Ramaswamy’s ad featuring his Democratic opponent Amy Acton’s estranged mother on Thursday, saying the Republican “should keep it up.”  In a lengthy TruthSocial post, Trump hit Ohio",
+      "snippet": "President Trump defended Ohio gubernatorial candidate Vivek Ramaswamy’s ad featuring his Democratic opponent Amy Acton’s estranged mother on Thursday, saying the Republican “should keep it up.”  In a lengthy Truth Social post, Trump hit Ohi",
       "link": "https://thehill.com/homenews/campaign/6166346-trump-ramaswamy-acton-ad-defense/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286052696236-e1792697047525.jpg?w=900",
       "publishedAt": "2026-10-22T19:24:12.000Z",
@@ -878,19 +1203,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b388a3d44a8a0363",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
-      "snippet": "Republican Mike DeWine says Ramaswamy ‘wrong’ to run controversial ad, drawing swift rebuke from president\nOhio’s Republican governor Mike DeWine on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T19:23:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_f731672cf14c7653",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -911,10 +1223,49 @@
       "snippet": "Defense Secretary Pete Hegseth said the ban applies to classified and unclassified information and includes prediction markets such as Polymarket and Kalshi.",
       "link": "https://www.cbsnews.com/news/hegseth-betting-ban-military-operations/",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T19:21:08.000Z",
+      "publishedAt": "2026-10-22T19:21:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_86ecdcd2522a06e0",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Israeli fire kills four people in Gaza, medics say - Reuters",
+      "snippet": "Israeli fire kills four people in Gaza, medics say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazV5Q1QtWFcyUV8yUkFpOU9rWEZUM1BsN3ljVHhjUlpBd09GdF9DX0c3Y3dEUHV3WFExWThpZDVGeTQzVDdoMzhlQ093X3N1QXI0aUFsclFYOUJja1JpemNyZ1QwbWtOMTk3d0ZNbzJ3cmVGc2RoTHJ4TWpqeUhHMUI4MFNHY1ozelp0VTJNQVJON2t3S3FCOXdsdElnbnhrYlE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:20:52.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ce9ee62b3ec5b15d",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "France's Macron tightens curbs on protests, blaming hard left for unrest - Reuters",
+      "snippet": "France's Macron tightens curbs on protests, blaming hard left for unrest  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:19:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2bc18568da6fbe55",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "JD Vance - AP News",
+      "snippet": "JD Vance  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82NmsyWVRUUEozTUdXdlVOa3pIbnIwdi1HaVBINEVOS2ZqMWV5aEV3aTNERFlodFNnOVhlbXp3QkZBRUkzQlE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:19:20.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_8f28d42d5b3a0e7f",
@@ -930,14 +1281,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_8f2d5852759b50e6",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Veteran actor Tom Skerritt dies at 93",
-      "snippet": "Tom Skerritt started in movies including \"Top Gun\" and \"Steel Magnolias.\"",
-      "link": "https://abcnews.com/GMA/Culture/veteran-actor-tom-skerritt-dies-93/story?id=137488364",
+      "id": "story_12dc3546964be27c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+      "snippet": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+      "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T19:18:56.000Z",
+      "publishedAt": "2026-10-22T19:18:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1034,11 +1385,37 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d1dc26d8a9f89f9a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Merck/Moderna cancer vaccine cuts risk of melanoma death or recurrence by over 40% - Reuters",
+      "snippet": "Merck/Moderna cancer vaccine cuts risk of melanoma death or recurrence by over 40%  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:11:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_102a84ab94e98c6e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11 - AP News",
+      "snippet": "Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTE5OWjZqUUw1RlBFbXM0Z1N2R1dqNVo0YkF1U3diZFhJeHZxdWZuZHJNTlZNQzBVY0ZHdkVoWW5nUGVxdTJGYmxncUlYbnM0YU9UR0ZtSllZM1otYTNWS2cyM0lDTlA2U3hYYVNpTVU0MmFIendPOVBJaW4tcDRnTElVeEdmdHppaTRPNHZfTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:09:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_0dd56a1bd95bd7e2",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Mullin on heat ray weapon: ‘We’re always evaluating technology on the border’",
-      "snippet": "Homeland Security Secretary Markwayne Mullin on Wednesday said the Department of Homeland Security (DHS) is “always evaluating technology on the border” after receiving a military-grade heat ray from the Pentagon. CNN reported that the heat",
+      "snippet": "Department of Homeland Security (DHS) Secretary Markwayne Mullin said Wednesday that the department is “always evaluating technology on the border” after receiving a military-grade heat ray from the Pentagon. CNN reported that the heat ray ",
       "link": "https://thehill.com/homenews/administration/6166168-dhs-receives-pentagon-heat-ray/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/HDSShockGloves_AP_JuliaDemareeNikhinson.jpg?w=900",
       "publishedAt": "2026-10-22T19:07:54.000Z",
@@ -1060,6 +1437,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_58d039302c88b86e",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Florida mayor arrested on grand theft and fraud charges over COVID relief funds: AG",
+      "snippet": "Kissimmee Mayor Jackie Espinosa is being charged with grand theft and organized scheme to defraud, according to Florida Attorney General James Uthmeier.",
+      "link": "https://abcnews.com/US/mayor-kissimmee-florida-arrested-grand-theft-fraud-charges/story?id=137448984",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:06:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_352a44f083f04558",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -1068,9 +1458,9 @@
       "link": "https://www.france24.com/en/vance-tells-republicans-to-stop-whining-after-ramaswamy-attack-ad-in-ohio-governor-s-race",
       "imageUrl": "https://s.france24.com/media/display/4f3c7260-6e36-11f1-8b7f-005056bfb2b6/w:1024/p:16x9/2026-06-22T120629Z-1956265930-RC2ZYLAQ4B63-RTRMADP-3-IRAN-CRISIS-SWISS-MEETING.jpg",
       "publishedAt": "2026-10-22T19:05:18.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_2661aefe77f7515c",
@@ -1081,9 +1471,9 @@
       "link": "https://www.foxnews.com/entertainment/jack-osbourne-doctors-warned-ozzy-not-perform-final-concert-17-days-before-death",
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:04:42.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_313cb2d5704fdb24",
@@ -1138,6 +1528,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_52765eb7f5095464",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump says Iran is making up strikes on ships to drive up oil prices",
+      "snippet": "President Trump said Iran was trying to drive up oil prices before the midterms by lying about ships hitting mines or being struck by projectiles in the Strait of Hormuz.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:58:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0225e86f27b62e57",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "France reports first human case of livestock virus Shamonda after patient dies - Reuters",
+      "snippet": "France reports first human case of livestock virus Shamonda after patient dies  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:58:52.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_aa12ad8d1c88d2b1",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -1151,11 +1567,24 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_33302b32116b6ac6",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says - Reuters",
+      "snippet": "Ebola patient in Nigeria believed to have contracted disease in Uganda, Switzerland says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FDN3RkbzZGdXBNaHpWZHZRd2h5dUVnSzlYQlNDU3dCN0RsUUhqblZXcjVzLUJzNTJtZjJGRjNRY0NwejZyc0Y4MG84cUxaUTNjc0djN3gwa3ZYaGN6d20yWkFmS09sUW94TGo3WGpTTGNLQW9YejI3Y3hMbDJjbXA4dEd5dGphRzlNdkF6T0ZMMjRycm1CWUxRLWd6QUUyYmtYcHRKY21KSzl1bmRJZmNBS0trMVgzcVJnVkQxTURqR1FuRzJjeFJ2ZEx3ak9FTDRBX2NlbzlPWVg4SW93?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:58:07.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_df7e57a04682c58d",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
       "headline": "Top adviser to Kennedy resigns from Trump administration",
-      "snippet": "Calley Means, a key advisor to health secretary Robert F. Kennedy Jr. and central advocate for the “Make America Healthy Again” movement, is leaving the Trump administration.",
+      "snippet": "Calley Means, a key adviser to health secretary Robert F. Kennedy Jr. and central advocate for the “Make America Healthy Again” movement, is leaving the Trump administration.",
       "link": "https://www.nbcnews.com/health/health-news/kennedy-top-advisor-calley-means-resigns-trump-administration-maha-rcna605056",
       "imageUrl": null,
       "publishedAt": "2026-10-22T18:57:36.000Z",
@@ -1173,6 +1602,19 @@
       "imageUrl": "https://s.france24.com/media/display/6a367f22-9b3e-11f1-99ff-005056a97e36/w:1024/p:16x9/000-C4XZ6CV.jpg",
       "publishedAt": "2026-10-22T18:55:57.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_66aa1a29249584fd",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - AP News",
+      "snippet": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:55:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1207,7 +1649,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Sanders feuds with AIPAC over last-minute Rogers donations",
-      "snippet": "Sen. Bernie Sanders (I-Vt.) and the American Israel Public Affairs Committee (AIPAC) feuded online Thursday over donations from the PAC to Michigan Republican Senate candidate Mike Rogers. “AIPAC is now spending as much as $9 million agains",
+      "snippet": "Sen. Bernie Sanders (I-Vt.) and the American Israel Public Affairs Committee (AIPAC) feuded online Thursday over donations from the PAC to Republican Michigan Senate candidate Mike Rogers. “AIPAC is now spending as much as $9 million agains",
       "link": "https://thehill.com/homenews/campaign/6166208-sanders-aipac-michigan-clash/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6a32fd54731a48.94908841-e1791856399920.jpeg?w=900",
       "publishedAt": "2026-10-22T18:52:54.000Z",
@@ -1216,27 +1658,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e518615bee9c4941",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Talarico accuses Musk of buying his own ‘personal U.S. Senator’",
-      "snippet": "Texas Democratic Senate candidate James Talarico hit back at Elon Musk, accusing the technology mogul of trying to “buy his own personal” senator through massive campaign donations for Talarico’s opponent, Attorney General Ken Paxton (R). “",
-      "link": "https://thehill.com/policy/technology/6165973-talarico-accuses-musk-buying-senator/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Talarico_Musk_Split_AP.png?w=900",
-      "publishedAt": "2026-10-22T18:51:23.000Z",
+      "id": "story_7093b5bd75c84772",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
+      "snippet": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.",
+      "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:51:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_22c179de0c84ca9c",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Daily on Energy: Changing winds for permitting reform?",
-      "snippet": "WHAT’S HAPPENING TODAY: Good afternoon and happy Thursday, readers! Join us as we say: Hello, Dolly! The newest red panda cub at the National Zoo in D.C. has been named after the late, great Dolly Parton. 😍🎸 Be sure to check out photos of",
-      "link": "https://www.washingtonexaminer.com/daily-on-energy/4776274/daily-on-energy-changing-winds-for-permitting-reform/",
-      "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f60d.png",
-      "publishedAt": "2026-10-22T18:50:40.000Z",
+      "id": "story_e518615bee9c4941",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Talarico accuses Musk of buying his ‘own personal U.S. Senator’",
+      "snippet": "Texas Democratic Senate candidate James Talarico hit back at Elon Musk, accusing the technology mogul of trying to “buy his own personal” senator through massive campaign donations for Talarico’s opponent, Attorney General Ken Paxton (R). “",
+      "link": "https://thehill.com/policy/technology/6165973-talarico-accuses-musk-buying-senator/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Talarico_Musk_Split_AP.png?w=900",
+      "publishedAt": "2026-10-22T18:51:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1251,6 +1693,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T18:49:36.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1dfa892b5d1ad5b5",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Top RFK Jr. adviser Calley Means quits Trump administration - Reuters",
+      "snippet": "Top RFK Jr. adviser Calley Means quits Trump administration  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkJ1NWhmN2ZjaDh1QlNPa1hhUVd1OVBmd1FsMkQtRWU5cGVlQ1lZdGl6TTBRalREdC00Rlk3SURrYUs0bFlORkNZQUZBZTZYX1hpU3dDaDRVUzE3OGdIQVRPc0dBcVJtZkFRTS16WlNaY3M4NTM2V29ubDdWWEU4MXpmbUQweGY1Y01XanB0LVdsc0dsY0hXQVN1TDFTSmphdC1yczdOZlVmcUlMaWZ1UGNhdVI1QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:47:57.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1275,49 +1730,10 @@
       "snippet": "CBS News' Caitlin Huey-Burns shares the top races she's watching as Election Day nears.",
       "link": "https://www.cbsnews.com/video/these-midterm-races-could-shift-the-balance-of-power/",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:46:32.000Z",
+      "publishedAt": "2026-10-22T18:46:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_3e1fc21ab4ea18d8",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Australia pastor case 'canary in the coal mine' for American Christian freedoms: TPUSA leader",
-      "snippet": "Lucas Miles of Turning Point USA says he contacted the White House Faith Office urging Trump to pressure Australia over a church investigation.",
-      "link": "https://www.foxnews.com/politics/exclusive-australia-pastor-case-canary-coal-mine-american-christian-freedoms-tpusa-leader",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:42:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_17720f6d317db02c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Christa Pike’s IV team warned vein might be ‘blowing’ before failed execution",
-      "snippet": "New account from Pike’s lawyer suggests team was racked by doubts even before pentobarbital began to flow\nThe Tennessee execution team tasked with setting an intravenous line in the arms of the death row prisoner Christa Pike through which ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/christa-pike-failed-execution-lawyer-witness",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:42:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_24e8cebaef871298",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump blasts 76ers' star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
-      "snippet": "Trump blasts 76ers' star LeBron James as 'disgrace' for not standing still during national anthem  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUgxR2FFOThLekhqb3BGZnVkRDJGVkxmcDNCN3VVM3M0YU1pYWhjMXJJc0FFZTFPc2thckdyenJGS2NuVkdOV0tSazM3blJTMFV0eXdOWWlWMjZGTUhBTUI3VFRHQ3ItSXRCWmlhY21GR1c4eXdScVExenAtU04teklRd05XbFRNbE9INVNKLUJ6dUxrYVR3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:42:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     },
     {
       "id": "story_bcce844a5144aa22",
@@ -1359,6 +1775,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fcbfca0739cc0554",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US refiner Valero posts record quarterly profit as supply disruptions boost margins - Reuters",
+      "snippet": "US refiner Valero posts record quarterly profit as supply disruptions boost margins  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0J4Z1hTMUNSRXFieWxXREx5bWRTMzlTNU9yMUs1bnRlc0xJTUlJa1Q2S2w5X2lzTzNSQ2EzdVQzZERaWVU4NTlFVXRYakdIeG5lTVhYeWtPMDl3VHZSYkoxX1VIUGoyQmNfTlh3b0JJNG5lQnVwUmxWc3RzYk1TX3RaQTFVWGJkMk4yZU01VUZ2NmdTbDYwNkNNdTZ3X3lJdHd5bVBNTFFYcmFrS0NoeTJxREltcWRWbmt2a2g0bDJNa3NKYnhV?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:37:16.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_81238edf97656db9",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1372,54 +1801,41 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d1dc26d8a9f89f9a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Merck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40% - Reuters",
-      "snippet": "Merck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40%  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "id": "story_fee1eeb1fe2c78ae",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Feds charge powerful Virginia Democrat in alleged drug scheme",
+      "snippet": "L. Louise Lucas, a longtime state senator from Virginia, has been arrested in connection with an alleged bribery and racketeering scheme.",
+      "link": "https://www.cbsnews.com/news/l-louise-lucas-charged-indictment-arrested-virginia/",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:34:26.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_34e723da962f76a0",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
-      "snippet": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.",
-      "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:34:04.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_af202e4baa3f4c28",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Steep bill for AI buildout punishes Meta, other tech favorites - Reuters",
-      "snippet": "Steep bill for AI buildout punishes Meta, other tech favorites  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:33:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d96d7321ecb57ea1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests",
-      "snippet": "Even naps under 30 minutes raised dementia risk 40% in a Johns Hopkins Bloomberg School of Public Health study of nearly 1,000 older adults.",
-      "link": "https://www.foxnews.com/health/dementia-risk-linked-seemingly-harmless-daily-habit-new-research-suggests",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:33:20.000Z",
+      "publishedAt": "2026-10-22T18:36:02.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_45cd2431a770f492",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years - Reuters",
+      "snippet": "China Evergrande liquidators recover 1% of debt claims after 2-1/2 years  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzN0dTBZMTZadGROV3h5d2NiTjRQUXoxTHdVOGJ3OE5sR2g0Z1lYYV9nWDZPUlk0d241ZDJuMlVxbXk0bDUyR0ZVQklaT18yVHFicnYwNlZrdmVsMkQ0YkNXOUhqajlPN2c4QnFmOGhXQ1VMc25rZ28wT0xmTGlVZ0FYQTh3dWt0cWFZeTRhaTJLTVhreXB2TU5aRDMwT2pFbUhZMEkwbHp4VU1WdDlTUWJWRFpxd2hDaHQ2RA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:33:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0a26fd6f92a87b00",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Musk's political baggage clouds prospects for SpaceX-Tesla deal - Reuters",
+      "snippet": "Musk's political baggage clouds prospects for SpaceX-Tesla deal  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkVjMVJHMTVTZzFfTWtTeDNxN0JxYmNtbE1GZzRGTXM1aUdIVThLSDBhTXF6NVowVmIxRS1ONV85dDR0TnQtX2U0eHdEU1ZSdVhRTmRlUXprRHphenZ0WndfdXZjYTcydFU2bVFTSDhHbXFlY2ZJSTNrV3BqU0JLblZ3SW5YRkpNM1dnQnhIQ05HNUdELTIxWkpGUXdHamxFWkFLTWlqeXVpYzUzSkNscHVMczA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:32:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1428,50 +1844,50 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Calley Means, top RFK Jr. adviser, quits Trump administration",
-      "snippet": "Calley Means, a senior adviser to Health and Human Services Secretary Robert F. Kennedy Jr. and an outspoken advocate for the Make America Healthy Again (MAHA) movement, resigned from the Trump administration Thursday, reportedly amid frust",
+      "snippet": "Calley Means, a senior adviser to Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. and an outspoken advocate for the Make America Healthy Again (MAHA) movement, resigned from the Trump administration Thursday, reportedly amid",
       "link": "https://thehill.com/homenews/administration/6166195-calley-means-resigns-hhs-maha-trump-administration/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/meanscalley_081026nk01_w.jpg?w=900",
       "publishedAt": "2026-10-22T18:31:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9fbe7756803a672b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Polymarket, Kalshi expand political donations as firms face state, federal scrutiny - Reuters",
+      "snippet": "Polymarket, Kalshi expand political donations as firms face state, federal scrutiny  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUpLOGU2QlRJRU1nX19LbkdpWi1na25SREFKSTFhVGNONk1wTThtZGdVeDlCeWtUbndrYjM3S0xNUXowZ0FiY01Ka1FsemRWOE5PQVkwNWZueThKNnN0djExRkw0VEhJczdBckJLRHhlZG5NNXlMR0xyM09RLTk2STVjaVQxZWdtelZjdmg5WTBrMjBINEsxenRoWWNSMjFSejU1Y254NUh1NnVjcEEtaHRycmtaQl94WU1iaGI5LTR3Yk1vQkR4YW5CNA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:27:27.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4e52348834c03198",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "snippet": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:26:56.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
     },
     {
-      "id": "story_68ee46f75033ff76",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "How can Democrats promote gun control while going soft on gun criminals?",
-      "snippet": "The Bite of Seattle shooting earlier this year is yet another reminder that Democratic demands for gun control are meaningless, as such laws do not prevent criminals from acquiring guns, and Democrats don’t care to enforce them anyway. The ",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4776231/democrats-promote-gun-control-soft-on-gun-criminals/",
+      "id": "story_07b325b535385f6f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Millions in cheese revenue lost as protest torpedoes Italy’s buffalo mozzarella output - AP News",
+      "snippet": "Millions in cheese revenue lost as protest torpedoes Italy’s buffalo mozzarella output  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHhmVXI4QU4tX3paeDZqNnprbHZCV2w0QkZtTkdveVE0UWpsZlF6UFlac2FrYXRPY2hmX3c4WTRRM2VfQ3luTjM4SUNsbHUtR1IxRk42ZmFUbS0yd2JkcFBsZndrS0lGWVNNS3lHM1ZocXJDekFhNjNLTTc1eWtCN2l2bFlCamkzVXljcDJuNDBUQ2prUXEwX0RJT3dQeXZtS213R0pXSXBUdw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:30:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d91c3b331e18f80e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Data broker opt-out: How retirees can protect their data",
-      "snippet": "A Minnesota murder suspect's notebook listed 11 people search websites, raising urgent questions about data broker opt out and online privacy risks.",
-      "link": "https://www.foxnews.com/tech/data-broker-opt-out-how-retirees-can-protect-their-data",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:30:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79173da0206a8d9e",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Why is the US ambassador to Ethiopia undermining Trump?",
-      "snippet": "Speaking at a rally earlier this month, President Donald Trump described Somaliland as a “totally different country.” It was not a mistake. Somaliland President Abdirahman Mohamed Abdullahi had visited Washington, D.C., in September 2026. H",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4776101/why-is-us-ambassador-ethiopia-ervin-massinga-undermining-trump/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:29:00.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T18:26:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1506,7 +1922,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Pentagon advances some wind projects after freeze",
-      "snippet": "The Trump administration is advancing some wind projects after a court order required it to do so. A White House official said Thursday that an initial set of wind projects that were under Pentagon review have been released. The official sa",
+      "snippet": "The Trump administration is advancing some wind projects after a court order required it to do so. A White House official said Thursday that an initial set of wind projects under Pentagon review have been released. The official said this re",
       "link": "https://thehill.com/policy/energy-environment/6166169-pentagon-wind-projects-renewable-energy/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/6a74e46b115d80.12686703.jpeg?w=900",
       "publishedAt": "2026-10-22T18:22:05.000Z",
@@ -1515,28 +1931,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_de3884a8f10641dd",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Video footage of Kohen Wiley shooting released after toddler’s death deemed ‘justified’",
-      "snippet": "‘The word ‘justified’ have haunted me since Monday,’’ the child’s maternal grandmother says\nSince the Mississippi attorney general, Lynn Fitch, announced on Monday that the police shooting of Kohen Wiley, a one-year-old baby, “was justified",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/video-kohen-wiley-shooting",
+      "id": "story_38a7a4de98ccae36",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ecuadorean opposition leader Gonzalez arrested over alleged irregularities in campaign financing - Reuters",
+      "snippet": "Ecuadorean opposition leader Gonzalez arrested over alleged irregularities in campaign financing  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekc5RFQwV1A4eXplNlFEc0R2YTBXdzVZd0d5T0hqRzI3Y3A0bnhHa0JuT2xRcEg3NTBXajdRNlBtNkZjOGVFUEJkanJsSDJZZlFpQWJHNUhDUnpJUXIwQTFtaXdsSzZqcVIwWktNM3d5YVljZllXMmRCQkpaR2dRV0tkVVQ3Szgxa1NIWDFjdkctRWhVY2w1dTZqUFRkZnp1UkxaNktGUnJXUQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:21:49.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T18:22:03.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_f41dc5f9d33488e6",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Presidents Cup hero Jacob Bridgeman joins President Trump on stage in South Carolina, leads Clemson chant",
-      "snippet": "Jacob Bridgeman spoke at Trump's Clemson University rally in South Carolina, recounting his Presidents Cup clinching putt for Team USA golf.",
-      "link": "https://www.foxnews.com/outkick-sports/presidents-cup-hero-jacob-bridgeman-joins-president-trump-stage-south-carolina-leads-clemson-chant",
+      "id": "story_5c11969a09cde3cd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Top Democratic Virginia lawmaker charged by DOJ with running illegal cannabis operation - Reuters",
+      "snippet": "Top Democratic Virginia lawmaker charged by DOJ with running illegal cannabis operation  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0xFbHRnZ0VNY3ZGOXExUkVOWGM0TG8tanhZSjduQzkxc181cGllQWdRMngyeUF3SGJrWkMxd0lFOW5sTTBxVngzeTFRR1ktY0lvQmpEakxKaTZvYmJ6Q1pvVGpWUUR3bHpCS0g2bGIwRHRrbmo5MnY0bGZFWEluTnhmYzQ0NTlvMERBd0FhN0ZQeG5Qc0MxV1ExbV9BQVJ2TmN1OVN1dldDNlNwM1lyQ1d6T1o1cjlfM1V1dFJWTUFWdzd3SzhNd3Vn?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:18:34.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T18:20:37.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1580,14 +1996,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_c039bd4bb63f6696",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Federal authorities charge 15 in massive $1.8B Southern California medical fraud sweep",
-      "snippet": "Federal raids across Southern California targeted 15 suspects, including a cardiothoracic surgeon, in nearly $2 billion in healthcare fraud schemes.",
-      "link": "https://www.foxnews.com/us/federal-authorities-charge-15-massive-1-8b-southern-california-medical-fraud-sweep",
+      "id": "story_0104e079870f7301",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review - Reuters",
+      "snippet": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:17:20.000Z",
+      "publishedAt": "2026-10-22T18:14:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5970a54614a3907d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Why Many Voters Are Unhappy With the Economy",
+      "snippet": "With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated.",
+      "link": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:13:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1606,6 +2035,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_91a852a1ecea263c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Every Briton should stockpile water and food supplies, government advises",
+      "snippet": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state\nEvery Briton is being urged to stock up to nine litres of bottled water and three days’ worth of food in new government",
+      "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:10:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b24dd4e06909952b",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1619,14 +2061,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0a2a82d27870f2b2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Accused Philadelphia cop killer Eric Lewis faces new federal gun, robbery charges after deadly ambush",
-      "snippet": "Eric Lewis now faces federal charges including firearm offenses after allegedly ambushing two Philadelphia police officers and killing Shane Seiber.",
-      "link": "https://www.foxnews.com/us/accused-philadelphia-cop-killer-eric-lewis-faces-new-federal-gun-robbery-charges-deadly-ambush",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:07:24.000Z",
+      "id": "story_414cf0561d9ea3fc",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Live updates: Calley Means exits Trump administration; DOJ indicts top Virginia Democrat",
+      "snippet": "Calley Means, a top adviser to Health and Human Services Secretary Robert F. Kennedy Jr. and chief advocate of his “Make America Healthy Again” agenda, announced Thursday he was leaving the administration. While offering no reason behind hi",
+      "link": "https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/meanscalley_081026nk04_w.jpg?w=900",
+      "publishedAt": "2026-10-22T18:07:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1648,24 +2090,11 @@
       "id": "story_d866bc2baaeff1c4",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Energy secretary appears to U-turn on opposition to tougher migration rules",
-      "snippet": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecating\nThe energy secretary has been forced to clarify she backs Shabana Mahmood’s migration policy, after earlier joking that she had not be",
+      "headline": "Minister insists she backs migration policy after joking she couldn’t lie about supporting it",
+      "snippet": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecating\nThe energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration policy, after earlier joking that she had n",
       "link": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
       "imageUrl": null,
       "publishedAt": "2026-10-22T18:04:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9ac2b5e0ea5e01eb",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Amy Acton becomes ActBlue’s second-highest fundraiser after Ramaswamy attack ad",
-      "snippet": "Ohio Democratic gubernatorial candidate Amy Acton has become the second-highest fundraiser on the Democrat-aligned platform ActBlue this week, as controversy over a campaign advertisement featuring her estranged mother draws national attent",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4776129/amy-acton-act-blue-second-highest-fundraiser-ramaswamy-attack-ad/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:04:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1684,24 +2113,24 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_1f8cf997a189837b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Last-minute Halloween kids' guide — games and toys that will still arrive on time",
-      "snippet": "Shop Halloween toys, games, activities and more for kids of every age that will still arrive in time, starting at $5.",
-      "link": "https://www.foxnews.com/deals/kids-halloween-guide",
+      "id": "story_abccbc9dd7071ab9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump says LeBron James showed disrespect during US national anthem - Reuters",
+      "snippet": "Trump says LeBron James showed disrespect during US national anthem  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUV5LXBkNzVYX1RiRXhLcVRpZ0JZRUVSdk00N2oyQVg2NUZ5Z1lzMnRXU2JxTUVxaUE5d1IxUzlKRXVrSTAtWHVnQXJIYTdSSFZaWEg3MERLTTJhY1lUTFdNT21ORUwxLVAxc3J4VmJnX0w0cU0xZjRHZzV2QlpFbzRUNERZaHJpWWxnVFN0elhCR05yVnBkMTJWdWhKMzF4UWQxSERNMXc?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T18:01:12.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T18:01:37.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_bd4be76e36ecf8df",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Amy Winehouse musical in development for West End",
-      "snippet": "A stage show based on the late singer is reportedly set to feature her best-loved songs with involvement from her father Mitch\nA musical based on Amy Winehouse is in development for London’s West End.\nThe project is still in early stages wi",
+      "snippet": "Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father Mitch\nA musical based on Amy Winehouse is in development for London’s West End.\nThe project is still in early stages with Cather",
       "link": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end",
       "imageUrl": null,
       "publishedAt": "2026-10-22T18:00:51.000Z",
@@ -1710,67 +2139,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_705bda8a8f65dee1",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "MAHA activist Calley Means quits Trump White House following food policy disputes",
-      "snippet": "Calley Means, a senior White House adviser affiliated with the Make America Healthy Again movement, is departing the Trump administration after clashing with the White House over food policy. Means, a key ally to Health and Human Services S",
-      "link": "https://www.washingtonexaminer.com/policy/healthcare/4776021/maha-activist-calley-means-quits-trump-white-house/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T18:00:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3973bf15c882f597",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "All is not well in the West",
-      "snippet": "In May 2017, the foreign minister of the United Arab Emirates delivered a stark and prescient warning to the Western world. Speaking at a global summit in Saudi Arabia, Sheikh Abdullah bin Zayed al Nahyan made a show of switching to English",
-      "link": "https://www.washingtonexaminer.com/in_focus/4775969/western-governments-struggle-confront-extremisim/",
+      "id": "story_9da799eb036c8b8d",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Almost all coral reef ecosystems face risk of collapse in 50 years, study warns - AP News",
+      "snippet": "Almost all coral reef ecosystems face risk of collapse in 50 years, study warns  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVRnT1BVWjV3ZnYwR0Z5d0tOb2xkRjNsT2pKRVF2a0lnbmcwSzN6YkRDc2sySU1fN09FRW93cUlhQVhjSE1nQXBhYS03WEVMUGZRQWRabHUycHVIbUJXQVpjYnA0czlPZTVSOHdFVl9jcXgxTkhvM2d5OTNybDFaTldtQ29TUERmYzJYbDlZWjJFaktTMnZfR1dnMUJDYjRNc3E5aklGb0NwcjQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-22T18:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0676d3ce01a24e55",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "The Offspring guitarist Kevin ‘Noodles’ Wasserman steps away from touring over ‘serious health issue’",
-      "snippet": "Kevin \"Noodles\" Wasserman shared an emotional Instagram post revealing his sudden departure from The Offspring's tour as bandmates rally behind him.",
-      "link": "https://www.foxnews.com/entertainment/offspring-guitarist-kevin-noodles-wasserman-steps-away-from-touring-over-serious-health-issue",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:58:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_69e6ec68ad9d42d4",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
-      "snippet": "People near South Wales river told to keep windows and doors shut after 1,000s of litres of kerosene from a GE Aerospace site got into the water\nOily slicks of kerosene still appeared to be leaking into the River Taff this week, several day",
-      "link": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:58:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bdcff28f2f66ec7d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Charles Barkley weighs in on the friction in the 'Monday Night Football' broadcast booth",
-      "snippet": "Charles Barkley says he's \"very disappointed\" in Troy Aikman for dragging Joe Buck into the ESPN contract dispute ahead of the Super Bowl game.",
-      "link": "https://www.foxnews.com/outkick-sports/charles-barkley-weighs-friction-monday-night-football-broadcast-booth",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:58:44.000Z",
-      "tier": "routine",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1792,7 +2169,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Workers hit hard by rising employer health insurance costs",
-      "snippet": "Costs are spiking for the millions of Americans who rely on workplace-sponsored health insurance, according to a new survey released Thursday, with small businesses and their employees being hit especially hard.  The average cost of a famil",
+      "snippet": "Costs are spiking for the millions of Americans who rely on workplace-sponsored health insurance, according to a survey released Thursday, with small businesses and their employees being hit especially hard.  The average cost of a family pl",
       "link": "https://thehill.com/policy/healthcare/6166007-employer-health-insurance-costs-premiums-rise/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Health-insurance_101626_Weixel_Illo_CJ-Adobe.png?w=900",
       "publishedAt": "2026-10-22T17:57:28.000Z",
@@ -1814,19 +2191,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3a585a44870cf7b2",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "GOP officials divided over Ramaswamy ad with Acton's mom",
-      "snippet": "In the ad, which first circulated on social media Monday night, Democrat Amy Acton's estranged mother called her a liar.",
-      "link": "https://www.cbsnews.com/news/vivek-ramaswamy-ad-amy-acton-mother-republicans-ohio/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:56:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_272beee0f7e89073",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -1840,40 +2204,40 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fd4b42a2e7c2c655",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "North Carolina Democratic underdog hopes a blue wave can take down House GOP campaign chief",
-      "snippet": "ELON, North Carolina — Democrat Richard Ojeda is hoping that the public’s discontent with the Trump administration can provide enough of a blue wave to unseat Rep. Richard Hudson (R-NC), the chairman of the National Republican Congressional",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4775439/richard-ojeda-works-leverage-trump-dissatisfaction-unseat-nrcc-campaign-chief-richard-hudson/",
+      "id": "story_de19d316100b71de",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Judge says Trump must sit for deposition in BBC defamation lawsuit",
+      "snippet": "A federal judge said President Trump must sit for a deposition with lawyers for the BBC by Dec. 11 as part of his ongoing defamation lawsuit.",
+      "link": "https://www.cbsnews.com/news/trump-bbc-deposition-defamation-lawsuit/",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:55:19.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T17:55:32.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_8a4517439a09635c",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Rick Jackson voices concern about complacency among rural Republicans",
-      "snippet": "Georgia’s Republican gubernatorial nominee, Rick Jackson, expressed worry about the possibility of rural Republican voters in the Peach State becoming complacent and opting out of showing up to the polls on Election Day. “I am concerned tha",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4775865/rick-jackson-concern-complacency-rural-republican-voters/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:55:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d36d7b10b33c70c7",
+      "id": "story_e79ca2a61b51ee0b",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "EXCLUSIVE: Rhode Island sues Meta over alleged tolerance for scam advertising - Reuters",
-      "snippet": "EXCLUSIVE: Rhode Island sues Meta over alleged tolerance for scam advertising  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUNSb1JoQzhZT0lZU3FBLVo2VW1wczU2ZkdCV2kxMnNhSkVueFpYbnJkaTROaEduMkd0aEd3RkFTdHJReTFwSkpqTWdxM0taeUFOdUxaQ0RkZFppNHFjNnpwZU1JWXVSVGJLX2MxZUQ4LWZvaXVyUTlnUTRHS1N2RUh5UjNZd3dNT0hNc0tIbVV1MGtRaE1RS1lRY0xqM3diblM3ZXYtWQ?oc=5",
+      "headline": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast - Reuters",
+      "snippet": "Lockheed lands Pentagon deal for 850 F-35 jets, lifts annual forecast  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3pGWDJ1R0tqbTE0bjZKUWJpYzNBUTRWQ0R6aldubkxSbURhSEVmQmVyUmt4WTBUajVCaGNINDQ1QV8wQkRqVXp1a1JKV1FlUDVnRkNHUkwxa0ZneGwzenNOYzdmSXhRTVN5RGVDbURXTEp5eURJMXkxUUNkZDY3RGk4SGt0b1hHaVpWUnc1UjVZSXhud1VteFBhWWhtSld6MUhsMm1HSjROS09ZNHpPdlF2V1RkSEdyOTBfQkEzRHJCWlE?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:50:25.000Z",
+      "publishedAt": "2026-10-22T17:53:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f2ff38ee615f34b9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Women are protesting in Poland for free access to legal abortions - AP News",
+      "snippet": "Women are protesting in Poland for free access to legal abortions  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3l0WldxYkt2dC1zMFBzckF6RjFfX0I4N1dGem5XSEQ4cmVOd1NWcWlSLVdmSDhTcTRlVXEtNVljbGx6TVl4c000dzhUTlN3d0JoQjZQRDFDRXdVdlZTTzVJc29ZWUIzNWZrT2FmTy1mWEpVQlVaclpYVmtTN3NYNERtQThaS2lOVGRmbFpFYkFEQ0NOaVJHZ0thU1YtY2NQTGU1TUJpaTJtdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T17:50:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1892,29 +2256,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_70ecbd9a918ce2de",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " US and Israel drawing up plans to resume attacks on Iran post-election, sources say",
-      "snippet": "The White House said Thursday that the U.S. will not resume attacks on Iran before the midterm elections on Nov. 3.",
-      "link": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
+      "id": "story_0c9edefedca55443",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets - AP News",
+      "snippet": "Facing pushback on data centers, tech giants are promising hosts more money and fewer secrets  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV28wZmRubkJoRVV2OXpiOTJTQ01MU1d2MjVLbTAwLXpjODJnakc4NmU2djAxQTNvZGdHVUVta296RmQ3anJFczVIRTBpS1dFZzNFdzRHU1VFaXA0STluUllCNWpNb211MUFqaXA5blFsNDk0TWlhR2YtM3Q2QjE1NE0yR09OLUFFX2wwdmdpcjU0bDVpRW4zd2JlM3RtVXh5QzZDdkFBSS1JX2s?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:48:39.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T17:47:00.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_56c506805da5e2d7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Wyndham Clark's influencer girlfriend on importance of manscaping, babysitter swinging invite & married affair",
-      "snippet": "Emily Tanner toured Wyndham Clark's bathroom in a new video revealing the golfer's manscaping habits and grooming green flags after moving in together.",
-      "link": "https://www.foxnews.com/outkick-sports/wyndham-clark-influencer-girlfriend-importance-manscaping-babysitter-swinging-invite-married-affair",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:48:01.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1931,42 +2282,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_9f244fcbf69d9d21",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "DOJ has verified 20,000 noncitizens on California voter rolls, federal prosecutor says",
-      "snippet": "Bill Essayli says federal investigators confirmed all 20,000 flagged California voter rolls entries are noncitizens who received mail ballots.",
-      "link": "https://www.foxnews.com/politics/doj-verified-20000-noncitizens-california-voter-rolls-federal-prosecutor-says",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:42:52.000Z",
+      "id": "story_4d1ee8394192b7c8",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "The fight for MAHA's soul",
+      "snippet": "The MAHA movement that President Donald Trump has spent years cultivating in alliance with Health Secretary Robert F. Kennedy Jr. delivered voters. Now it’s beginning to splinter.",
+      "link": "https://www.semafor.com/article/10/22/2026/the-fight-for-mahas-soul",
+      "imageUrl": "https://img.semafor.com/0008c274865d469fff5a7635322220264a72c94c-3887x2591.jpg",
+      "publishedAt": "2026-10-22T17:44:19.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dd36de08ee438613",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nigeria says Ebola case remains isolated, urges calm - Reuters",
-      "snippet": "Nigeria says Ebola case remains isolated, urges calm  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjJOdGJ5Nml5QnpCcW0wbWZFRU1Rb3dzYUJtejR4MmNzOTBvanotemR1bDNzNmJKS2pVS0NYVlJZa3lQNElzZm1TNF9QTmxtbVZ4cjdIMHpjaTcwRTd5dzVzOWlDZlFKN0djdWJHTFhNdU5BZ2puUEtiZmZzcTVlWHQtczNLR0ZidTJHWXRrMDNrUXBwZEt5TXBRYTFTNUI4MFVpMlBsTFA2UTZ5MGdhQXhvdXRDcHdUM0p6RzYwTXA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:41:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dca743e853aaaab9",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "‘Looksmaxxing’ influencer ‘Clavicular’ brings barking dog to court as 'support mechanism': expert",
-      "snippet": "Braden Peters, the \"looksmaxxing\" influencer known as \"Clavicular,\" entered a not guilty plea to Cape Cod rape allegations involving a 17-year-old.",
-      "link": "https://www.foxnews.com/us/looksmaxxing-influencer-clavicular-brings-barking-dog-court-support-mechanism-expert",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:40:45.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1978,9 +2303,9 @@
       "link": "https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11",
       "imageUrl": null,
       "publishedAt": "2026-10-22T17:40:42.000Z",
-      "tier": "major",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 2
     },
     {
       "id": "story_b7e5a8a27befe888",
@@ -1996,23 +2321,10 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d46258793fa29a3a",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump blasts LeBron James as a 'total disgrace' over his national anthem antics during 76ers debut",
-      "snippet": "Trump blasted LeBron James on Truth Social for practicing golf swings during the national anthem while wearing his new Philadelphia 76ers gear.",
-      "link": "https://www.foxnews.com/outkick-sports/trump-blasts-lebron-james-total-disgrace-national-anthem-antics-76ers-debut",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:39:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_c687260325d82a02",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Hegseth’s team broke WWII-era globe from Eisenhower’s office",
+      "headline": "Hegseth’s team broke WWII-era globe from Eisenhower’s office",
       "snippet": "Defense Secretary Pete Hegseth’s team dropped and damaged a historic World War II-era globe previously used by Gen. Dwight D. Eisenhower, a source familiar with the incident told The Hill on Thursday. While moving the artifact to the secret",
       "link": "https://thehill.com/policy/defense/6165593-hegseth-staff-damages-eisenhower-globe/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Eisenhower-globe_102226_Getty.jpg?w=900",
@@ -2035,19 +2347,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_191451fc456883d9",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Warren gets defensive when pressed on Democrats accepting billionaire donations",
-      "snippet": "Elizabeth Warren grew defensive when pressed on Michael Bloomberg's $80 million to Democrats, and Troy Jackson's donations from billionaires after railing against them.",
-      "link": "https://www.foxnews.com/media/warren-gets-defensive-when-pressed-democrats-accepting-billionaire-donations",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:38:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_ff753fa8c575d2f4",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -2065,7 +2364,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Democrats lead Republicans by 37 points among likely young voters: Survey ",
-      "snippet": "Democrats are leading Republicans by 37 points among young voters who say they’ll definitely cast their ballots this fall, according to the latest Harvard Youth Poll. On a generic House ballot, Democrats are ahead with 45 percent to 24 perc",
+      "snippet": "Democrats are leading Republicans by 37 points among young voters who say they’ll definitely cast their ballots this fall, according to the latest Harvard Youth poll. On a generic House ballot, Democrats are ahead with 45 percent to 24 perc",
       "link": "https://thehill.com/homenews/campaign/6165903-democrats-lead-young-voters-midterms/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/10/67181060e8e5c9.80607555-e1792690243734.jpeg?w=900",
       "publishedAt": "2026-10-22T17:37:49.000Z",
@@ -2087,15 +2386,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4d1ee8394192b7c8",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "The fight for MAHA's soul",
-      "snippet": "President Donald Trump’s alliance with health secretary Robert F. Kennedy Jr. helped deliver Make America Healthy Again voters. But the movement Trump spent years cultivating is showing signs of splintering.",
-      "link": "https://www.semafor.com/article/10/22/2026/the-fight-for-mahas-soul",
-      "imageUrl": "https://img.semafor.com/0008c274865d469fff5a7635322220264a72c94c-3887x2591.jpg",
-      "publishedAt": "2026-10-22T17:33:45.000Z",
-      "tier": "routine",
+      "id": "story_887a70d445dc22e2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge - AP News",
+      "snippet": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHJkc3ZCeVllQXEyUU03X3VmVG10T2s2X1pZZzVXUERIbHdNRHJjcWdJbmxiV0Q2ajdiV1ZIR2lIalY3bTZ5ZVk2eUZyMGQ1WmdVWEQ1UmhPUWtEdnF4QVk2clhhQ3BrejBrZEFQbERjYnRJbkEtQ3BjaWpUN0tFQklqa0hfWnhMeWw1N2dMcUVPNTg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T17:34:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2104,13 +2403,13 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Vance announces domestic fertilizer investment for Nebraska",
-      "snippet": "Vice President Vance announced a $1.3 billion investment in fertilizer manufacturing while rallying for Republicans in Nebraska Thursday. Vance said Nebraska GOP Senate candidate Pete Ricketts “has been fighting for your farmers” before mak",
+      "snippet": "Vice President Vance announced a $1.3 billion investment in fertilizer manufacturing while rallying for Republicans in Nebraska on Thursday. Vance said incumbent Sen. Pete Ricketts (R-Neb.), who is running for reelection to keep his seat in",
       "link": "https://thehill.com/homenews/administration/6165954-vance-nebraska-fertilizer-investment/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26295595143600-e1792687332851.jpg?w=900",
       "publishedAt": "2026-10-22T17:32:03.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_9da419e0caf92956",
@@ -2126,49 +2425,10 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e512d3314534b245",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Cheryl Hines, Rachel Campos-Duffy spill on private Cabinet wives club navigating life in Washington",
-      "snippet": "Cheryl Hines and Rachel Campos-Duffy detail a private Cabinet wives club on \"the Girls\" podcast, while Hines shares candid stories of life at home with RFK Jr.",
-      "link": "https://www.foxnews.com/media/cheryl-hines-rachel-campos-duffy-spill-private-cabinet-wives-club-navigating-life-washington",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:28:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_72726385eb2c442a",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Macron returns to Paris on war footing to quash ‘illegitimate’ riots he blames on ‘organized ultra-left groups’",
-      "snippet": "French President Emmanuel Macron returned from his visit to the Gulf states this week triumphant, having secured a deal that would provide his country with an additional 200,000 metric tons of diesel per month. But the timing of his trip — ",
-      "link": "https://www.washingtonexaminer.com/news/world/4775722/macron-paris-quash-riots-france/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:27:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0faa9c048a2d5b32",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps",
-      "snippet": "Tech company previously complied with president’s demand to rename Gulf of Mexico as Gulf of America\nDonald Trump said Google rejected his request to rename the Atlantic Ocean after himself or America.\nSpeaking at a rally in South Carolina ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:27:05.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_add82d23b296bb35",
       "source": "France24",
       "sourceColor": "#3E5C8A",
-      "headline": "Scientists turn art detectives to date van Gogh's 'Starry Night' to actual sky from 1889",
+      "headline": "Scientists turned art detectives date van Gogh's 'Starry Night' to actual night sky in 1889",
       "snippet": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long assumed the stars were a product of the artist's fan",
       "link": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889",
       "imageUrl": "https://s.france24.com/media/display/e7ef87d4-ce32-11f1-80bd-7967b15eed96/w:1024/p:16x9/AP19084439711449.jpg",
@@ -2176,19 +2436,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_1dfa892b5d1ad5b5",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Top RFK Jr. adviser Calley Means quits Trump administration, WSJ reports - Reuters",
-      "snippet": "Top RFK Jr. adviser Calley Means quits Trump administration, WSJ reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkJ1NWhmN2ZjaDh1QlNPa1hhUVd1OVBmd1FsMkQtRWU5cGVlQ1lZdGl6TTBRalREdC00Rlk3SURrYUs0bFlORkNZQUZBZTZYX1hpU3dDaDRVUzE3OGdIQVRPc0dBcVJtZkFRTS16WlNaY3M4NTM2V29ubDdWWEU4MXpmbUQweGY1Y01XanB0LVdsc0dsY0hXQVN1TDFTSmphdC1yczdOZlVmcUlMaWZ1UGNhdVI1QQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:25:56.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
     },
     {
       "id": "story_d76941bb4a207453",
@@ -2204,28 +2451,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_df7659b38ab20bbd",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Tommy Robinson tells court he had photos taken of journalists’ homes to pressure them",
-      "snippet": "Far-right activist says he used private investigators to track down journalists but denies trying to intimidate them\nThe far-right activist Tommy Robinson has told his harassment trial that he used private investigators to track down journa",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/tommy-robinson-tells-court-he-had-photos-taken-of-journalists-homes-to-pressure-them",
+      "id": "story_cbebc280725ece06",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide - AP News",
+      "snippet": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide  AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQXNid0stVGgtZWpqaVMyd01mNVgzZndaWHhnUTlFT3FKQW1PZ0daVDBfMWxSbThxUzdCSnFNT2U3YWFnMjZvMDVnVFVyUW1DZENvWnFZZU5jRFNCUnlsRE4zU25FZzNpUEUxcDhUYUs3Um1ZZW5tUEc1Z2FwdUF1d2lqVXZ1Z0JyVVkxR1FrZVJ4QTZVX3J4cGZRN2ZiUQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:23:55.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T17:25:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_8fdd0db8fd5163ef",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-      "snippet": "Prime minister pledges his government’s commitment to address climate crisis saying ‘our determination is unwavering’\n\nWe will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
-      "link": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+      "id": "story_cc2f48fcaecb2c86",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Meta shares slide, default insurance hits record as AI spending alarms investors - Reuters",
+      "snippet": "Meta shares slide, default insurance hits record as AI spending alarms investors  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:22:52.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T17:21:56.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2243,15 +2490,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_82fba5d5fb876bf4",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Dollar General agrees to nearly $1.9m settlement for overcharging New York customers",
-      "snippet": "Government inspections showed overcharges as high as 39% on some items. The discount store giant was the subject of a 2025 investigation by the Guardian\nDollar General, the nation’s largest dollar-store chain, has agreed to a $1.875m deal t",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/dollar-general-settlement-price-gouging",
+      "id": "story_5cc0911eb63effc9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US airlines struggle to offset soaring fuel costs with big fare hikes - Reuters",
+      "snippet": "US airlines struggle to offset soaring fuel costs with big fare hikes  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalVWOWpxTXAwZ1M0cmFmTFRxZ2dMRzU0SEIxcVhPVVR4T1I1OUd3MGVtb0d6alVyd2pJakpUUUQxQ1FlMVc2eWVtWHVTQWlIaW84RUhBU0twdnpmTkZfUkxiQlVJWE1TeDNVMk90ZjI2NGNpU2F2Um1TSVJEck91cXZ1OHZmVnpLdWR3SnVicVJNMklNRGdLaXZybHRZYTFTTTNZak9IZEtKRGxPQTFVQUF3?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:19:07.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T17:19:51.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2264,6 +2511,19 @@
       "link": "https://www.nbcnews.com/news/us-news/airbnb-hosts-can-no-longer-ask-guests-clean-dishes-make-beds-rcna604996",
       "imageUrl": null,
       "publishedAt": "2026-10-22T17:18:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_02468dd81f7571a6",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
+      "snippet": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T17:18:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2282,17 +2542,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_43d0fa90cec7acfa",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Ohio Gov. DeWine condemns Ramaswamy ad, calls on him to 'take it down'",
-      "snippet": "\"It's wrong to run this ad,\" DeWine said.",
-      "link": "https://abcnews.com/Politics/ohio-gov-mike-dewine-condemns-ramaswamy-ad-calls/story?id=137478294",
+      "id": "story_d7c61f8db5d1c070",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Earthquake of magnitude 7 strikes China's Tibet - Reuters",
+      "snippet": "Earthquake of magnitude 7 strikes China's Tibet  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:15:13.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-10-22T17:16:02.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_14176484f8044993",
@@ -2308,6 +2568,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_be9481d2600e1cca",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Trump ordered to answer questions under oath in BBC lawsuit ",
+      "snippet": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T17:14:04.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_040e0158935bf6c2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump’s math on US deal for Venezuelan oil doesn't add up, experts say. The bad data began years ago - AP News",
+      "snippet": "Trump’s math on US deal for Venezuelan oil doesn't add up, experts say. The bad data began years ago  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYW93dzdYRlFUeEhOUHBwWlhObXNER0RNN2NBckh0ZHBTY2VnRTk4XzRPZE4wRG0tOUExY0hHcFpyWkduWWUyR0ZRdjRJaFhWUlFjWGgtZW5UdEhtUTM4M2IweTlna0duR1BlVXcxRDkzNUczUk9kQVNBa0xwM21GNXE5Uzc0NS03QzliN1JJbXdzTk9oUDVvWjZ2RnpnaWU1NWV3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T17:13:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b853ddd115d8f57c",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -2316,19 +2602,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T17:12:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2834d717815f078",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Comedian Heather McMahan cries sexism while reflecting on firing from Ryder Cup for 'f--- you Rory' chants",
-      "snippet": "Heather McMahan claims her gender played a major role in her firing after joining vulgar chants directed at Rory McIlroy at the 2025 Ryder Cup.",
-      "link": "https://www.foxnews.com/outkick-sports/comedian-heather-mcmahan-cries-sexism-reflecting-firing-ryder-cup-f-you-rory-chants",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T17:12:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2399,15 +2672,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4742f54b6e1e6f7e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Jillian Michaels urges parents to fight back against Big Tech's 'addictive' grip on kids",
-      "snippet": "Jillian Michaels expressed concerns about screen time for children and called on parents to hold tech companies accountable in Fox Nation's \"Toxic 2: A Generation on the Brink.\"",
-      "link": "https://www.foxnews.com/media/jillian-michaels-urges-parents-fight-back-against-big-techs-addictive-grip-kids",
+      "id": "story_886f221d734ce232",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Sinking AI stocks undercut markets worldwide as oil climbs to its highest price since May - AP News",
+      "snippet": "Sinking AI stocks undercut markets worldwide as oil climbs to its highest price since May  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T17:02:59.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-22T17:03:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2420,279 +2693,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T17:01:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d3382dba558c2187",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Fox News host: Russians ‘must be laughing their heads off’ over Witkoff ‘humanitarian’ remark",
-      "snippet": "Fox News host Brian Kilmeade posted a video clip of himself on the social platform X criticizing special envoy Steve Witkoff’s comment calling Russian President Vladimir Putin “a humanitarian.” “The Russians must be laughing their heads off",
-      "link": "https://thehill.com/policy/international/6165881-witkoff-calls-putin-humanitarian-backlash/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26294404896713-e1792591755361.jpg?w=900",
-      "publishedAt": "2026-10-22T17:01:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_be985b3b7dbdc930",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Congress must close this tariff loophole",
-      "snippet": "Can Congress meaningfully constrain presidential tariff authority when an older, less restrictive statute offers an alternative route to achieve the same goal?",
-      "link": "https://thehill.com/opinion/international/6163849-trump-canada-tariffs-lawsuit/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/trump_donald_carney_mark_07162026_AP26203838804160-2.jpg?w=900",
-      "publishedAt": "2026-10-22T17:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9e48f5441b0edc6c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "What to know about the AI-detected security bug impacting wide swaths of the internet - AP News",
-      "snippet": "What to know about the AI-detected security bug impacting wide swaths of the internet  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnlDSmd3bHZPMnVRaW9oTjhWWTJyalNBR2NNWEVjLVJOaE5WYWdsckk3UVdwRXlNbHJDVzNwSzFCRUF4MVpRalR2b3ktdGF3VUdwcGQ5aVcxSXk2ajRnQ1JTeWE3eUFOaVJLWklxa1o4QWJOQXhYYlFNZjhRLTFNdXhERHdycjBtcllZamYxb18waWtWTmxDMVYxSQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:59:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bddfb555a4b4556d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Joe Manchin helps GOP Sen. Susan Collins court moderates in Maine",
-      "snippet": "Republican Sen. Susan Collins enlisted former Democrat Joe Manchin, now an independent, to help widen her appeal to moderate voters in Maine. CBS News' Taurean Small reports.",
-      "link": "https://www.cbsnews.com/video/joe-manchin-helps-republican-susan-collins-court-moderates-in-maine/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:54:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9fe43c2afc4ce05e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-      "snippet": "At 3pm BST / 4pm CEST Friday 23 Oct, Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theg",
-      "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:54:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9898acaac35452c0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Biden-appointed judge blocks voter-fraud probes in battleground states just days before midterms",
-      "snippet": "A federal judge ruled the Department of Homeland Security must halt noncitizen voting probes, citing voter intimidation from armed agents at homes.",
-      "link": "https://www.foxnews.com/politics/biden-appointed-judge-blocks-voter-fraud-probes-battleground-states-days-before-midterms",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:53:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ac78bf1e64af6ba9",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Russell Brand raped woman even though she screamed in pain, court hears",
-      "snippet": "Alleged victim told her parents and others about attack and was encouraged to go to police but she feared she would not be believed\nA woman told her mother that Russell Brand had raped her and “didn’t stop even when she screamed out in pain",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:52:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_abccbc9dd7071ab9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump says LeBron James disrespected US during national anthem - Reuters",
-      "snippet": "Trump says LeBron James disrespected US during national anthem  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUV5LXBkNzVYX1RiRXhLcVRpZ0JZRUVSdk00N2oyQVg2NUZ5Z1lzMnRXU2JxTUVxaUE5d1IxUzlKRXVrSTAtWHVnQXJIYTdSSFZaWEg3MERLTTJhY1lUTFdNT21ORUwxLVAxc3J4VmJnX0w0cU0xZjRHZzV2QlpFbzRUNERZaHJpWWxnVFN0elhCR05yVnBkMTJWdWhKMzF4UWQxSERNMXc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:52:17.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_3165ccef1628d7a3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Expert explains the PHP bug that could take down 70% of the internet",
-      "snippet": "Amazon says hackers tried to exploit a bug in the PHP programming language just days before the vulnerability was publicly disclosed. Kurzweil Technologies head of research John Clark Levin explains more.",
-      "link": "https://www.cbsnews.com/video/expert-explains-bug-that-could-take-down-70-of-the-internet/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:51:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7b2f07b064f231b2",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Zelenskyy accuses Russia of using cluster warheads in deadly strikes on Ukraine",
-      "snippet": "Russia launched deadly overnight strikes on Ukraine Thursday. Ukrainian President Volodymyr Zelenskyy accused Russia of using missiles with cluster warheads in the attack. CBS News' Aidan Stretch has more.",
-      "link": "https://www.cbsnews.com/video/zelenskyy-accuses-russia-of-using-cluster-warheads-in-deadly-strikes-ukraine/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:49:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_62b605b029e73bd0",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Ohio Gov. Mike DeWine calls on Vivek Ramaswamy to take down ad featuring opponent’s estranged mother",
-      "snippet": "Ohio Gov. Mike DeWine is calling for Vivek Ramaswamy to stop airing an ad that features the estranged mother of Ramaswamy’s Democratic opponent, Amy Acton.",
-      "link": "https://www.nbcnews.com/politics/2026-election/ohio-mike-dewine-vivek-ramaswamy-take-down-ad-amy-acton-mom-rcna605006",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:49:35.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_0453d8a3f1032a08",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "CDC denies approval for high volume measles test, ‘prioritizing emerging technologies’",
-      "snippet": "A letter signed by health officials in California, Hawaii, Oregon and Washington, asks the CDC to reconsider\nCalifornia and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for me",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:49:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bb448f214b8dc30c",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Thousands of cans of Walmart-brand fruit cocktail recalled",
-      "snippet": "More than 40,000 cans of fruit cocktail are impacted.",
-      "link": "https://thehill.com/homenews/state-watch/6165449-thousands-of-cans-of-walmart-brand-fruit-cocktail-recalled/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2276082026.jpg?w=900",
-      "publishedAt": "2026-10-22T16:46:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e2036fe9e1c661a3",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "UnitedHealthcare, Humana Medicare Advantage cancellations to affect 1 million",
-      "snippet": "The plans being discontinued are primarily Preferred Provider Organizations, which offer more flexible provider networks.",
-      "link": "https://thehill.com/policy/healthcare/6165587-unitedhealthcare-humana-medicare-advantage-cancellations-to-affect-1-million/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-1047505000-1-e1792682509357.jpg?w=900",
-      "publishedAt": "2026-10-22T16:46:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_de19d316100b71de",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Judge says Trump must sit for deposition in BBC defamation lawsuit",
-      "snippet": "A federal judge said President Trump must sit for a deposition with lawyers for the BBC by Dec. 11 as part of his ongoing defamation lawsuit.",
-      "link": "https://www.cbsnews.com/news/trump-bbc-deposition-defamation-lawsuit/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:46:11.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_fe201eafefb20103",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump ordered to sit for deposition in his $10 billion BBC lawsuit, AP reports - Reuters",
-      "snippet": "Trump ordered to sit for deposition in his $10 billion BBC lawsuit, AP reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeEdESlAybnhYTFk5QmF1cXdLNGxzSHN3MEp6QWpMSjk2bUJXYzVySWtIZ3ljblNPeWpULTlYVV9sWnhKVWdoeHRNSUZzODZ5XzhqUV9TMGxwZzNyc19LZGtpQllIX25VVF9SZmdGZm1SUmJuekk1Qm8yWlllZ1NsaWE3ZDkzcmZBUm1jMzFiVXBJdmxuX1NEanh3SW5KMzJxQmp0aldGWl9SRWdS?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:45:44.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_2f360f5c66fe9dcd",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "‘You Can See Everything’: Questions left unanswered by Elizabeth Holmes doc",
-      "snippet": "One of the film’s stranger aspects is Holmes agreeing to film her and her family before she went to prison.",
-      "link": "https://thehill.com/blogs/in-the-know/6165826-you-can-see-everything-questions-left-unanswered-by-elizabeth-holmes-doc/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Untitled-June-29-2026-at-02.32.20-3-41.png?w=900",
-      "publishedAt": "2026-10-22T16:44:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_91f5a61cdf0eb80e",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
-      "snippet": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin to",
-      "link": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
-      "imageUrl": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg",
-      "publishedAt": "2026-10-22T16:43:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_607e4b9c521bc108",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Elizabeth Holmes Quote Drama",
-      "snippet": "In today’s Backstory, the new Holmes film takes issue with our profile, Nikole Hannah-Jones unpacks her viral essay and a professor shares why he thinks we apply “conservative” and “liberal” labels inconsistently.",
-      "link": "https://www.nytimes.com/2026/10/22/insider/elizabeth-holmes-backstory.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:42:13.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_c83f7186acae0e9b",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "DOJ asks Supreme Court to allow border wall construction in Big Bend region",
-      "snippet": "The Justice Department asked the Supreme Court to lift a lower court injunction that temporarily blocked the Trump administration from building a border wall and related infrastructure in the Big Bend Sector.",
-      "link": "https://www.cbsnews.com/news/justice-department-supreme-court-border-wall-big-bend-region/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:40:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5f2961ef0d5e7c1",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "snippet": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:40:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
