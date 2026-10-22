@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T12:15:07.885Z",
+  "updatedAt": "2026-10-22T12:20:07.739Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.037Z"
+      "lastSuccess": "2026-10-22T12:20:07.784Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.054Z"
+      "lastSuccess": "2026-10-22T12:20:07.815Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.060Z"
+      "lastSuccess": "2026-10-22T12:20:07.810Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:07.935Z"
+      "lastSuccess": "2026-10-22T12:20:07.802Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:07.940Z"
+      "lastSuccess": "2026-10-22T12:20:07.788Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.156Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-22T12:20:07.845Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.130Z"
+      "lastSuccess": "2026-10-22T12:20:07.891Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.090Z"
+      "lastSuccess": "2026-10-22T12:20:07.832Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.143Z"
+      "lastSuccess": "2026-10-22T12:20:07.800Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.109Z"
+      "lastSuccess": "2026-10-22T12:20:07.858Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:13.337Z"
+      "lastSuccess": "2026-10-22T12:20:07.898Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.160Z"
+      "lastSuccess": "2026-10-22T12:20:07.845Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T12:15:08.213Z"
+      "lastErrorAt": "2026-10-22T12:20:07.851Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.200Z"
+      "lastSuccess": "2026-10-22T12:20:07.867Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T12:15:08.158Z"
+      "lastErrorAt": "2026-10-22T12:20:07.874Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.149Z"
+      "lastSuccess": "2026-10-22T12:20:07.837Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.193Z"
+      "lastSuccess": "2026-10-22T12:20:07.961Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.218Z"
+      "lastSuccess": "2026-10-22T12:20:07.873Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.165Z"
+      "lastSuccess": "2026-10-22T12:20:07.969Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.511Z"
+      "lastSuccess": "2026-10-22T12:20:07.937Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.437Z"
+      "lastSuccess": "2026-10-22T12:20:08.186Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.465Z"
+      "lastSuccess": "2026-10-22T12:20:08.297Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:15:08.245Z"
+      "lastSuccess": "2026-10-22T12:20:10.233Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d4895c50ff87d722",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "DOJ tries to bar Minnesota judges from immigration cases after comments about Trump",
+      "snippet": "The Justice Department is seeking to remove two federal judges in Minnesota from separate immigration-related cases, arguing that comments they made to the New York Times about immigration enforcement raise questions about their impartialit",
+      "link": "https://www.washingtonexaminer.com/news/justice/4775392/doj-tries-bar-minnesota-judges-immigration-cases-comments-trump/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:17:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2681,19 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T08:18:39.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c576e2e9075f21bb",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Cash-rich Reform UK launches fightback with new media platform - Reuters",
-      "snippet": "Cash-rich Reform UK launches fightback with new media platform  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXNaa3QyRzJtZnBFT2YtR29hUHBGX3VKM0JocjZSSFZFOTVfRUFaYTNKTzhTZGk1S3FTWGt4YXZadVhnNnk5QmhvVEdfUVJMeUVrMzNZeFRxTDVVNDhOMWd6aGZlZTBSZnRVcFlaRk1aalM3a0VvN3BfTVA4Z3VMRXlGRm4tNW9nbm4yRHRfYjdVNXJRSF9WeEhqajZiU0NSbmJKSjN4b2VnNWNQNUtzTkRZSUVGSGNtbDNEeWd3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T08:18:31.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
