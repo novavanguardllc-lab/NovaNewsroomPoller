@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-22T16:45:07.265Z",
+  "updatedAt": "2026-10-22T16:50:08.252Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.465Z"
+      "lastSuccess": "2026-10-22T16:50:08.673Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.866Z"
+      "lastSuccess": "2026-10-22T16:50:08.933Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.352Z"
+      "lastSuccess": "2026-10-22T16:50:08.510Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.494Z"
+      "lastSuccess": "2026-10-22T16:50:08.970Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.486Z"
+      "lastSuccess": "2026-10-22T16:50:08.776Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.498Z"
+      "lastSuccess": "2026-10-22T16:50:08.555Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.776Z"
+      "lastSuccess": "2026-10-22T16:50:08.712Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.388Z"
+      "lastSuccess": "2026-10-22T16:50:08.834Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.602Z"
+      "lastSuccess": "2026-10-22T16:50:09.114Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.569Z"
+      "lastSuccess": "2026-10-22T16:50:09.075Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.582Z"
+      "lastSuccess": "2026-10-22T16:50:08.895Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.471Z"
+      "lastSuccess": "2026-10-22T16:50:08.474Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.613Z"
+      "lastSuccess": "2026-10-22T16:50:09.271Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T16:45:07.619Z"
+      "lastErrorAt": "2026-10-22T16:50:09.350Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.478Z"
+      "lastSuccess": "2026-10-22T16:50:08.751Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-22T16:45:07.603Z"
+      "online": true,
+      "lastSuccess": "2026-10-22T16:50:08.953Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.610Z"
+      "lastSuccess": "2026-10-22T16:50:13.193Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T16:45:07.593Z"
+      "lastErrorAt": "2026-10-22T16:50:08.951Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.625Z"
+      "lastSuccess": "2026-10-22T16:50:09.349Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.588Z"
+      "lastSuccess": "2026-10-22T16:50:08.732Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.740Z"
+      "lastSuccess": "2026-10-22T16:50:11.289Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.653Z"
+      "lastSuccess": "2026-10-22T16:50:09.366Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T16:45:07.718Z"
+      "lastSuccess": "2026-10-22T16:50:09.211Z"
     }
   },
   "items": [
@@ -107,6 +106,45 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de19d316100b71de",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Judge says Trump must sit for deposition in BBC defamation lawsuit",
+      "snippet": "A federal judge said President Trump must sit for a deposition with lawyers for the BBC by Dec. 11 as part of his ongoing defamation lawsuit.",
+      "link": "https://www.cbsnews.com/news/trump-bbc-deposition-defamation-lawsuit/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T16:46:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_2f360f5c66fe9dcd",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "‘You Can See Everything’: Questions left unanswered by Elizabeth Holmes doc",
+      "snippet": "One of the film’s stranger aspects is Holmes agreeing to film her and her family before she went to prison.",
+      "link": "https://thehill.com/blogs/in-the-know/6165826-you-can-see-everything-questions-left-unanswered-by-elizabeth-holmes-doc/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Untitled-June-29-2026-at-02.32.20-3-41.png?w=900",
+      "publishedAt": "2026-10-22T16:44:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_91f5a61cdf0eb80e",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "‘No change’ in Russia’s attitude on war shown by deadly attacks, Zelensky says",
+      "snippet": "Russia’s latest attacks on Ukraine show there has been “no real change” in Moscow’s attitude towards the war, Ukrainian President Volodymyr Zelensky said Thursday. The deadly strikes came just hours after Russian President Vladimir Putin to",
+      "link": "https://www.france24.com/en/europe/20261022-no-change-russia-attitude-war-after-deadly-attacks-zelensky-says",
+      "imageUrl": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg",
+      "publishedAt": "2026-10-22T16:43:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -172,6 +210,19 @@
       "link": "https://www.foxnews.com/outkick-sports/steelers-cancel-paris-fan-event-fears-unrest-nfl-pushes-ahead-event-game",
       "imageUrl": null,
       "publishedAt": "2026-10-22T16:38:10.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9a1244be65781f0a",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
+      "snippet": "Jean-Emile Jammine is pleased to welcome Federico Donelli, Associate Professor of International Relations in the Department of Political and Social Sciences at the University of Trieste in Italy. Can another three days of military strikes a",
+      "link": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
+      "imageUrl": "https://s.france24.com/media/display/5c66a7ce-ce2d-11f1-9d8f-23d55109f116/w:1024/p:16x9/EN-20261022-152144-153307-CS.jpg",
+      "publishedAt": "2026-10-22T16:36:26.000Z",
       "tier": "routine",
       "topic": "sports",
       "corroboratedCount": 1
@@ -2642,58 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4775523/trump-administration-approves-wind-projects-democrats-permitting-reform/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T13:50:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_49e803820cdb13e5",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Climate talks are failing",
-      "snippet": "The latest dire UN projection stressed that the ambitions to limit global warming adopted a decade ago in Paris are all but out of reach.",
-      "link": "https://www.semafor.com/article/10/22/2026/climate-talks-are-failing",
-      "imageUrl": "https://img.semafor.com/eacce734a7c901c0461f5c58746688810121e545-5500x3667.jpg",
-      "publishedAt": "2026-10-22T13:50:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc20e5fdf073bdea",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Hazardous fumes still leaking from Toledo chemical tank",
-      "snippet": "Dangerous fumes are still spewing from a venting chemical tank in Toledo, Ohio, that leaked on Tuesday, forcing some residents to evacuate. Lana Zak reports.",
-      "link": "https://www.cbsnews.com/video/hazardous-fumes-still-leaking-from-toledo-chemical-tank/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T13:49:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ec0f50e1122e46e7",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Virginia State Senator L. Louise Lucas charged in public corruption case",
-      "snippet": "Virginia State Senator L. Louise Lucas charged in public corruption case, DOJ says",
-      "link": "https://www.nbcnews.com/politics/justice-department/virginia-state-senator-l-louise-lucas-charged-public-corruption-case-d-rcna604870",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T13:49:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f53a20ef57d53a8f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Toledo man describes days-long chemical leak: \"Looked like a movie\"",
-      "snippet": "Hundreds of people remain evacuated from their homes days after the chemical leak began at a facility in Toledo, Ohio.",
-      "link": "https://www.cbsnews.com/news/toledo-chemical-leak-evacuations-symptoms/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T13:49:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
