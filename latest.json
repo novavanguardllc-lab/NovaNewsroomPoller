@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T13:00:13.416Z",
+  "updatedAt": "2026-10-22T13:05:05.262Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.616Z"
+      "lastSuccess": "2026-10-22T13:05:05.433Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.906Z"
+      "lastSuccess": "2026-10-22T13:05:05.754Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.517Z"
+      "lastSuccess": "2026-10-22T13:05:05.379Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.633Z"
+      "lastSuccess": "2026-10-22T13:05:05.371Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.627Z"
+      "lastSuccess": "2026-10-22T13:05:05.449Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.566Z"
+      "lastSuccess": "2026-10-22T13:05:05.395Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:14.057Z"
+      "lastSuccess": "2026-10-22T13:05:05.739Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.506Z"
+      "lastSuccess": "2026-10-22T13:05:05.349Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.729Z"
+      "lastSuccess": "2026-10-22T13:05:05.471Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.710Z"
+      "lastSuccess": "2026-10-22T13:05:05.548Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.775Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-22T13:05:15.273Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.736Z"
+      "lastSuccess": "2026-10-22T13:05:05.557Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.742Z"
+      "lastSuccess": "2026-10-22T13:05:05.587Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T13:00:13.760Z"
+      "lastErrorAt": "2026-10-22T13:05:05.633Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.714Z"
+      "lastSuccess": "2026-10-22T13:05:05.551Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.755Z"
+      "lastSuccess": "2026-10-22T13:05:05.555Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.780Z"
+      "lastSuccess": "2026-10-22T13:05:05.616Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T13:00:13.762Z"
+      "lastErrorAt": "2026-10-22T13:05:05.590Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.760Z"
+      "lastSuccess": "2026-10-22T13:05:05.659Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.751Z"
+      "lastSuccess": "2026-10-22T13:05:05.597Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:16.077Z"
+      "lastSuccess": "2026-10-22T13:05:05.687Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.839Z"
+      "lastSuccess": "2026-10-22T13:05:05.675Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:00:13.995Z"
+      "lastSuccess": "2026-10-22T13:05:05.797Z"
     }
   },
   "items": [
@@ -106,6 +107,45 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f8f39ee34b2da1d6",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "European human rights award goes to International Criminal Court",
+      "snippet": "The Sakharov Prize, the EU's highest honor for upholding human rights has been awarded to the embattled International Criminal Court in the Hague.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/22/EU-ICC-awarded-top-humans-rights-prize/6991792665403/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/6991792665403/2026/upi_com/adf646918a2d830b0e14cfe825643c92/v1.5/European-human-rights-award-goes-to-International-Criminal-Court.jpg",
+      "publishedAt": "2026-10-22T13:01:20.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_93d2d4118d0d278d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump is trying ‘The Art of the Deal’ in Ukraine but what must Putin give up?",
+      "snippet": "Washington Post reports White House holds up Patriot interceptor transfers to Ukraine while Russian missiles keep falling on Ukrainian cities.",
+      "link": "https://www.foxnews.com/opinion/trump-trying-art-deal-ukraine-what-must-putin-give-up",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T13:00:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f9e4f75f0186196b",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Four immigration enforcement measures we can all agree on — even under Trump ",
+      "snippet": "Opponents of the Trump administration's immigration policies should not be opposing every enforcement initiative the administration establishes.",
+      "link": "https://thehill.com/opinion/immigration/6163996-bipartisan-immigration-enforcement-measures/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26161646709711.jpg?w=900",
+      "publishedAt": "2026-10-22T13:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -837,6 +877,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_cbf3488418654da8",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "  Witkoff lauds 'humanitarian' Putin as Russia releases detained American",
+      "snippet": "President Donald Trump's special envoy Steve Witkoff landed in the Russian city of St. Petersburg on Wednesday morning, a Kremlin aide confirmed.",
+      "link": "https://abcnews.com/International/witkoff-arrives-st-petersburg-putin-talks-kremlin-aide/story?id=137438106",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:39:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_c21a32266b473eed",
@@ -2641,58 +2694,6 @@
       "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:02:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0f2dd29c07e4157d",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
-      "snippet": "Oliver Farry is pleased to welcome Steven Erlanger, Chief Diplomatic Correspondent in Europe for The New York Times, based in Berlin. Europe's political centre is confronting a crisis that extends far beyond electoral volatility. From Franc",
-      "link": "https://www.france24.com/en/video/20261022-popular-dissatisfaction-across-europe-promises-of-more-economic-growth-haven-t-come-true-1",
-      "imageUrl": "https://s.france24.com/media/display/81ff0c2e-cdf1-11f1-a036-4da0d2c6855d/w:1024/p:16x9/EN-20261022-080451-081523-CS.jpg",
-      "publishedAt": "2026-10-22T09:01:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_25656f3356fcb667",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Just How Much Are Young Voters Backing Democrats Now? See the Shift.",
-      "snippet": "In the new Times/Siena poll, 70 percent of young voters identified as Democrats or leaned that way — a jump from just two years ago.",
-      "link": "https://www.nytimes.com/2026/10/22/upshot/young-voters-polls-midterms.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:01:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_edaa6f919be55c1d",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
-      "snippet": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:01:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_53d65475ee41ffab",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Big pharma accused of ‘free-riding on nature’ as global fund attracts just $7,000",
-      "snippet": "The Cali Fund, set up to raise $1bn a year for biodiversity from drug companies, remains near empty\nBig pharmaceutical companies have been accused of “free-riding on nature”, after a landmark biodiversity fund that invites businesses to put",
-      "link": "https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
