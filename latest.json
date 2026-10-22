@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-22T12:30:10.682Z",
+  "updatedAt": "2026-10-22T12:35:05.390Z",
   "sourceStatus": {
-    "Fox News": {
+    "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.816Z"
+      "lastSuccess": "2026-10-22T12:35:05.472Z"
     },
-    "UPI": {
+    "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.880Z"
-    },
-    "PBS": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.820Z"
+      "lastSuccess": "2026-10-22T12:35:05.493Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.777Z"
+      "lastSuccess": "2026-10-22T12:35:05.519Z"
+    },
+    "UPI": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.531Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.737Z"
+      "lastSuccess": "2026-10-22T12:35:05.535Z"
     },
-    "France24": {
+    "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.855Z"
+      "lastSuccess": "2026-10-22T12:35:05.555Z"
     },
-    "DW": {
+    "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.845Z"
+      "lastSuccess": "2026-10-22T12:35:05.566Z"
+    },
+    "Fox News": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.600Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.874Z"
+      "lastSuccess": "2026-10-22T12:35:05.632Z"
     },
-    "Guardian": {
+    "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.773Z"
+      "lastSuccess": "2026-10-22T12:35:05.703Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.716Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.921Z"
-    },
-    "Wash Examiner": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.914Z"
+      "lastSuccess": "2026-10-22T12:35:05.738Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.917Z"
+      "lastSuccess": "2026-10-22T12:35:05.753Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T12:30:10.915Z"
+      "lastErrorAt": "2026-10-22T12:35:05.754Z"
     },
-    "ABC News": {
+    "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.926Z"
+      "lastSuccess": "2026-10-22T12:35:05.759Z"
+    },
+    "France24": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.772Z"
+    },
+    "Wash Examiner": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.779Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T12:30:10.906Z"
+      "lastErrorAt": "2026-10-22T12:35:05.781Z"
     },
-    "CBS News": {
+    "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.852Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.904Z"
-    },
-    "NBC News": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.947Z"
+      "lastSuccess": "2026-10-22T12:35:05.803Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.861Z"
-    },
-    "Semafor": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:11.056Z"
-    },
-    "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:10.801Z"
-    },
-    "AP": {
-      "online": true,
-      "lastSuccess": "2026-10-22T12:30:11.174Z"
+      "lastSuccess": "2026-10-22T12:35:05.814Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T12:30:11.478Z"
+      "lastSuccess": "2026-10-22T12:35:05.824Z"
+    },
+    "NBC News": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.833Z"
+    },
+    "Semafor": {
+      "online": true,
+      "lastSuccess": "2026-10-22T12:35:05.922Z"
     }
   },
   "items": [
@@ -106,6 +106,32 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3718f880f80e1fe5",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "This teacherless school says AI can teach students in 2 hours a day",
+      "snippet": "Alpha Schools says its AI-based instruction and focus on developing \"life skills\" set students up for success. Some experts say it's too good to be true.",
+      "link": "https://www.cbsnews.com/news/alpha-school-ai-teaching-2-hour-a-day/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:30:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_966010047f24fb56",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Russia and Iran are making copycats of China’s Great Firewall ",
+      "snippet": "The repressive leaders of Iran and Russia seek to carve their people off from the global internet to maintain their hold on power.",
+      "link": "https://thehill.com/opinion/technology/6162153-iran-russia-internet-blackout/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/iran_internet_tehran_12242024_AP26119338346315-2.jpg?w=900",
+      "publishedAt": "2026-10-22T12:30:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -215,6 +241,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_48d8d783a2fbe081",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "BBC News to axe education editor role in cost-cutting move",
+      "snippet": "Fears over lack of scrutiny for key sectors as health editor position also to go in cuts aimed at saving £5.5m\nThe BBC will no longer have a dedicated education editor as part of a cost-cutting drive in which 100 jobs are to go across BBC N",
+      "link": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:21:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d0e8f5d22cece20a",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -249,6 +288,32 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4775392/doj-tries-bar-minnesota-judges-immigration-cases-comments-trump/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T12:17:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_52765eb7f5095464",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "U.S. reducing troop footprint in Middle East, sources say",
+      "snippet": "The U.S. military has quietly reduced its footprint at posts in the Middle East due to ongoing threats from Iran and its Houthis allies in Yemen, sources tell CBS News.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-ceasefire-talks-ongoing/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:14:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8006443cbc11f869",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Vivek Ramaswamy campaign ad for Ohio ‘shameful, disgusting’, says Republican congresswoman – US politics live",
+      "snippet": "Nancy Mace said: ‘This ad is going to go down as the most shameful, disgusting, offensive ad this election season’\n\nSign up for the Breaking News US email\n\nDonald Trump will begin his day in Washington, before traveling to Sioux City, Iowa ",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:13:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -293,6 +358,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_af7478de4d143431",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Son of Stephen Hubbard, American freed from Russian jail, speaks out",
+      "snippet": "In an interview with CBS News after Stephen Hubbard was released from Russian custody, his son, Fr. Joseph Coleman, said his father might have made a mistake in staying in Ukraine when the war began.",
+      "link": "https://www.cbsnews.com/news/stephen-hubbard-freed-american-russia-son-interview/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:09:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3581f219977706c4",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -319,6 +397,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c486d34c44895a17",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "American Stephen Hubbard released by Russia, Trump confirms",
+      "snippet": "Steve Witkoff lauded Vladimir Putin as \"a humanitarian\" as Russia freed Stephen Hubbard, an American deemed wrongfully detained by the U.S., after more than four years in prison.",
+      "link": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:08:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9d0c51dfb6703107",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -332,14 +423,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_48d8d783a2fbe081",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "BBC News to axe education editor role in cost-cutting move",
-      "snippet": "Fears over lack of scrutiny for key sectors as health editor position will also go in cuts aimed at saving £5.5m\nThe BBC will no longer have a dedicated education editor as part of a cost-cutting drive that will see 100 jobs go across BBC N",
-      "link": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
+      "id": "story_bf680081019e9261",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+      "snippet": "The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T12:07:04.000Z",
+      "publishedAt": "2026-10-22T12:06:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -358,6 +449,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1928454a3088c1df",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+      "snippet": "French government will show ‘absolute’ determination to stop the riots, Macron says\nAs we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.\nJunior interior minister, Jean-Didier Be",
+      "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T12:02:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_92e8475a864c3f67",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -366,9 +470,9 @@
       "link": "https://thehill.com/policy/defense/6164731-iran-navy-hits-oil-tankers/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26249358420773-e1788954964573.jpg?w=900",
       "publishedAt": "2026-10-22T12:01:51.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
       "id": "story_c81375f81047f807",
@@ -423,13 +527,13 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d17b9dda48df478b",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Don’t let Elissa Slotkin scare new grads out of public service ",
-      "snippet": "One can only wonder why Slotkin deems it a good idea to break from the bipartisan path and discourage capable young graduates from staffing the government.",
-      "link": "https://thehill.com/opinion/congress-blog/6163855-slotkin-warns-off-recruits-trump/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2296772142.jpg?w=900",
+      "id": "story_17d63d7efe659224",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
+      "snippet": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/20261013-Albaugh-Hanford-Nuclear-Workers-Comp-261013-0105_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=1149",
       "publishedAt": "2026-10-22T12:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -449,14 +553,53 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_17d63d7efe659224",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "snippet": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/20261013-Albaugh-Hanford-Nuclear-Workers-Comp-261013-0105_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=1149",
+      "id": "story_d17b9dda48df478b",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Don’t let Elissa Slotkin scare new grads out of public service ",
+      "snippet": "One can only wonder why Slotkin deems it a good idea to break from the bipartisan path and discourage capable young graduates from staffing the government.",
+      "link": "https://thehill.com/opinion/congress-blog/6163855-slotkin-warns-off-recruits-trump/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2296772142.jpg?w=900",
       "publishedAt": "2026-10-22T12:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_66aa1a29249584fd",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - AP News",
+      "snippet": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:59:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c2211bab011e4550",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says - Reuters",
+      "snippet": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFlSa1BjRUNIMDhxY21GWElwRXJfQ3NCdGRtMzQ2SUFyRmJwdkRfVjdWRjVLTndOZXk4SERVNzE0T3VGY0tBMUZoWUFIeEo5NjhQYjBwMzFHRnROTjlTelNydjN6d3ZTWFRqZUlIenE3YnYwcmtmZmZxdnItTDNJNTNTM3ZvTXNfNG1UTmc2Z3FpNW4wSDRwWlNsMFl3RzZqYnpSX1dITUJqeG9QTWI0bG1Wc2kwamJmaHMtZjhWbXl2NzlLZ3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:58:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7d53c7fea30ceb13",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
+      "snippet": "Organisations around the world scrambling to fix a critical security flaw in the programming language PHP used by the majority of websites\nThe Office for National Statistics has also published a report on the gender pay gap. It says:\nThe ge",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:54:57.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -531,13 +674,13 @@
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "Germany arrests Ukrainian man suspected of spying for Russia",
-      "snippet": "The suspect is thought to have gathered-defense related information for Russia.",
+      "snippet": "The suspect is thought to have gathered defense-related information on the production of tanks and munitions, as well as details about NATO's eastern flank.",
       "link": "https://www.dw.com/en/germany-arrests-ukrainian-man-suspected-of-spying-for-russia/a-79732373?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:43:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_f74b650847851d8d",
@@ -561,9 +704,22 @@
       "link": "https://www.foxnews.com/entertainment/john-anderson-country-music-hall-famer-dead-71",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:39:24.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c21a32266b473eed",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news - AP News",
+      "snippet": "Iran says 7 tankers were damaged in the Strait of Hormuz, and other Mideast news  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmxkSUw3N3BIRncxYTA1MkE4Y1JuX0dKaG1kSU1jZElzcFVoWFk4REluNnd2VjZZMFo2S0c4U1k4VG9QaC03RF9zakxFQWpZQURfRTdLazEyaXFETmtNS2Q0TjJHamY2cTVPQ3JaRlBZZHhoRS11ZHFLblp3am05aGpaT2hUcW5UZDQ5bFJ4SGpjd0k0NVpiLTZFQlA2RVpFaHJZMA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:39:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_4d75a5cee75570f7",
@@ -575,19 +731,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:38:34.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fdf2fd790a9dade7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "European Parliament votes to approve three-year delay on EU methane rules - Reuters",
-      "snippet": "European Parliament votes to approve three-year delay on EU methane rules  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTBXNTlDV0F3TWFGRlhGdUYtalktMjdpX1BfQjJkcVZUZ3NfTmpfQU15U0pxVEdiSFVRUXllUC1aWjRibFVpc1k0RF9MMlJndGItMDFRQ294YnNmVGlnRXg1aHdRSHpkdlpSXzlZUWFYLXNIY1QxRml4NEJkdlpQalNEQXdyYXJHSllrVnk1emo1TmpsTDcyWDVzSnB3YVlBaVlpZ3FKZnd4WkJzYVZic0txVEFqS05OSGJz?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T11:36:29.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -626,15 +769,28 @@
       "link": "https://www.foxnews.com/outkick-sports/republican-lawmaker-believes-wnba-should-adopt-olympic-standard-womens-sports",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:33:34.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0e879112196f45df",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Save high street by taxing online sales at higher rate, Burnham urged",
+      "snippet": "Exclusive: British Chambers of Commerce president tells PM to ‘level the playing field’ for struggling high streets\n\nHow Middleton’s revival could be grist to the mill for Britain’s struggling towns\n\n\nWhat makes a good town? Here are five k",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:32:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_78af50d29b2f330b",
       "source": "Fox News",
       "sourceColor": "#B4453F",
-      "headline": "Rep. Keith Self targeted in alleged assassination plot by Texas teen: report",
+      "headline": "Rep Keith Self targeted in alleged assassination plot by Texas teen: report",
       "snippet": "The 17-year-old suspect allegedly acquired a firearm and planned to target Rep. Keith Self at an event while plotting a separate ISIS attack.",
       "link": "https://www.foxnews.com/politics/rep-keith-self-targeted-alleged-assassination-plot-texas-teen-report",
       "imageUrl": null,
@@ -670,14 +826,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3718f880f80e1fe5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "This teacherless school says AI can teach students in 2 hours a day",
-      "snippet": "Alpha Schools says its AI-based instruction and focus on developing \"life skills\" set students up for success. Some experts say it's too good to be true.",
-      "link": "https://www.cbsnews.com/news/alpha-school-ai-teaching-2-hour-a-day/",
+      "id": "story_441ead6a8c7578ca",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
+      "snippet": "Treasury is revising all the numbers for the mid-year update as economists warn of a difficult six months ahead\n\nGet our new political email, free app or daily news podcast\n\nJim Chalmers has revealed December’s mid-year budget update will p",
+      "link": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T11:31:34.000Z",
+      "publishedAt": "2026-10-22T11:30:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -687,21 +843,8 @@
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "James Woods finds serenity settling into his life’s ‘second act’ of song-writing, releasing third album",
-      "snippet": "Releasing his third album, James Woods finds new season of life through his songwriting",
+      "snippet": "Releasing his third album, James Woods finds new season of life through his songwriting.",
       "link": "https://www.foxnews.com/media/james-woods-finds-serenity-settling-into-his-lifes-second-act-song-writing-releasing-third-album",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T11:30:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_441ead6a8c7578ca",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-      "snippet": "Treasury is revising all the numbers for the mid-year update as economists warn of a difficult six months ahead\n\nGet our new political email, free app or daily news podcast\n\nJim Chalmers has revealed December’s mid-year budget update will p",
-      "link": "https://www.theguardian.com/business/2026/oct/22/jim-chalmers-economy-speech-rising-unemployment-inflation",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:30:43.000Z",
       "tier": "routine",
@@ -784,7 +927,7 @@
       "publishedAt": "2026-10-22T11:28:05.000Z",
       "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 3
     },
     {
       "id": "story_ff16db92ce80e4e6",
@@ -795,6 +938,19 @@
       "link": "https://www.today.com/video/powerful-storms-bring-heavy-winds-and-rain-to-arizona-272023621979",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:24:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0f8fbd3315a0c42f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Blackpool, Sheffield, Milton Keynes and Wrexham shortlisted for UK city of culture 2029",
+      "snippet": "Each place, selected from longlist of nine, will be given £125,000 to develop bids before winner is announced in new year\nBlackpool, Sheffield, Milton Keynes and Wrexham have been shortlisted to be the UK city of culture 2029, an award view",
+      "link": "https://www.theguardian.com/culture/2026/oct/22/uk-city-culture-2029-shortlist-blackpool-sheffield-milton-keynes-wrexham",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:24:44.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -813,27 +969,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0e879112196f45df",
+      "id": "story_8720bd6577458964",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Save high street by creating ‘level playing field’ with online rivals, Burnham urged",
-      "snippet": "Exclusive: British Chambers of Commerce president tells PM to realign tax system away from favouring internet sellers\n• How Middleton’s revival could be grist to the mill for Britain’s struggling towns\n\nAndy Burnham has been urged by one of",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+      "headline": "How Middleton’s revival could be grist to the mill for Britain’s struggling towns",
+      "snippet": "Turnaround initiated by Andy Burnham and led by Steve Coogan could provide blueprint for other neglected areas\n\nSave high street by taxing online sales at higher rate, Burnham urged\n\nWhat makes a good town? Here are five key ingredients\n\nTh",
+      "link": "https://www.theguardian.com/money/2026/oct/22/middleton-revival-mill-towns-steve-coogan-manchester",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T11:22:41.000Z",
+      "publishedAt": "2026-10-22T11:22:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_8720bd6577458964",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "How Middleton’s revival could be grist to the mill for Britain’s struggling towns",
-      "snippet": "Turnaround initiated by Andy Burnham and led by Steve Coogan could provide blueprint for other neglected areas\n• Save high street by creating ‘level playing field’ with online rivals, Burnham urged\nThe former England footballer Paul Scholes",
-      "link": "https://www.theguardian.com/money/2026/oct/22/middleton-revival-mill-towns-steve-coogan-manchester",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T11:22:03.000Z",
+      "id": "story_d69e7cc2e60bdf08",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Trump and an oil shock aren’t enough for Texan drillers",
+      "snippet": "“‘Drill, baby, drill’ is basically drill as much as you can to commit economic suicide,” one of the Permian Basin’s top CEOs said.",
+      "link": "https://www.semafor.com/article/10/21/2026/why-trump-and-an-oil-shock-arent-enough-for-texan-drillers",
+      "imageUrl": "https://img.semafor.com/70b77287cf4562656e8e6924e4bddac42828447b-2400x1800.png",
+      "publishedAt": "2026-10-22T11:21:54.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -860,6 +1016,71 @@
       "link": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:19:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_040e0158935bf6c2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Venezuela claims to have 300 billion barrels of oil in the ground. But experts say that's a stretch - AP News",
+      "snippet": "Venezuela claims to have 300 billion barrels of oil in the ground. But experts say that's a stretch  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYW93dzdYRlFUeEhOUHBwWlhObXNER0RNN2NBckh0ZHBTY2VnRTk4XzRPZE4wRG0tOUExY0hHcFpyWkduWWUyR0ZRdjRJaFhWUlFjWGgtZW5UdEhtUTM4M2IweTlna0duR1BlVXcxRDkzNUczUk9kQVNBa0xwM21GNXE5Uzc0NS03QzliN1JJbXdzTk9oUDVvWjZ2RnpnaWU1NWV3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:18:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0225e86f27b62e57",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "France reports first human case of livestock virus Shamonda - Reuters",
+      "snippet": "France reports first human case of livestock virus Shamonda  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:16:58.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_c75360ac724bd2d9",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+      "snippet": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:15:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4febfa9c0ba57539",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Two European women held captive for more than a year in Niger freed in Libya ",
+      "snippet": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:13:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_39361b784c650163",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "snippet": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:11:44.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -895,7 +1116,7 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases",
-      "snippet": "Politicians have called for ruthless sentencing, but lawyers blame the politicians for the poverty, and anger, behind their clients’ looting\nAwa, 18, stood in the dock in the tribunal de Paris, a small, mute and bewildered figure seeming un",
+      "snippet": "Politicians have called for ruthless sentencing, but lawyers blame the politicians for the poverty, and anger, behind their clients’ looting\n\nEurope live – latest updates\n\nAwa, 18, stood in the dock in the tribunal de Paris, a small, mute a",
       "link": "https://www.theguardian.com/world/2026/oct/22/fallout-fast-tracking-french-rioting-cases",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:08:40.000Z",
@@ -917,15 +1138,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_9f7856e507684775",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "At Cadillac Mountain, a missing Wabanaki marker and the fight over what national parks should tell - AP News",
-      "snippet": "At Cadillac Mountain, a missing Wabanaki marker and the fight over what national parks should tell  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTXlpREMwbVBMdGFDUlM2cDdWX00zd05QVHBjMVEtSkQzWmNBUDNMT0F6U0p3YmpTQWs4cnljckFSQ0dLQWtyYlBhS3BOYU5pZ1BvTlY2VE9YLVJQLTFWUW9KRVU1Zk1jUUhkV0daZkdwUkNCSUxZQWNJUXlVOUhJYnZZaG5xUHQyaC1UVmVWYWNiWXhMYnptTm02SFBkMnpfcVJmLXFwYnExMVFXQkcw?oc=5",
+      "id": "story_9cc3361b9143502f",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
+      "snippet": "A coaster dares riders to be daring, with steep drops, high speeds and improbably tight curves. But safety has become a concern again after a man was thrown from his seat and died in Georgia.",
+      "link": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T11:08:00.000Z",
-      "tier": "major",
+      "publishedAt": "2026-10-22T11:07:16.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -938,6 +1159,19 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnNVTGtmN2VWX3RIWkxlUEx6d2hVV1djTnhWellIdWZMM1JMa1RrbTVKMlIycEI0em5CcHYtMXhucUFOdk5vZW9LZHVLRzNNWExIcHZqeVFtRFFxTlY3MDNka0l1VjE4T2NnOExIWFBlWXI1V1ZSVXRaRXVIVFB0UTFCcGpGZjZYUk9SekxGNE9GUWg0V3p4VW14MHVEUkY3MWNPQzdGMzRJVTZRVmIzZDRkS2Y?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:06:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9582e58374eef2f7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Far-left leader Melenchon in firing line as France blame-game heats up - Reuters",
+      "snippet": "Far-left leader Melenchon in firing line as France blame-game heats up  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlVxQThsaWdWeFpWTGdUWE1KQUZvNTJDV0xqdVpDQjBzVkJLSHBxMUV4SDlKemVXLUJNR0hIbmpoM19zR2o5cVdnck9PT1FSUHhOdFd0OVRiNThiQTI1cWlRVnctek5NbGYtSFNBM1d5c01KWkxLTjB5ZTFSa0RSR0lFTkVMMTdXOG0tMjVMdFR5aE9EZ19IWkNIMzEzT3pOcEFuNTRkLXpuTUpQdnBBcUxvb3I5bG5XYVk3LU5mXzk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:05:18.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -956,6 +1190,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_13b594370d05ccef",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "METRO with Sarah Koenig: Episode 2",
+      "snippet": "In New York’s diamond district, there’s a war on: real vs. fake. It’s hard to know which side is which.",
+      "link": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:05:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_db746dbf03eccc34",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -964,22 +1211,48 @@
       "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:04:14.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_ad2404ad68022a14",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "METRO with Sarah Koenig: Episode 1",
+      "snippet": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about.",
+      "link": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:03:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_dc05a7b7a35e15ae",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Final Michigan Senate debate takeaways and rural America’s data center boom: Morning Rundown",
-      "snippet": "The economy and the war in Iran emerged as dominant debate topics in critical races in Michigan, Kansas and Wisconsin.",
-      "link": "https://www.nbcnews.com/news/us-news/michigan-senate-debate-data-center-boom-rural-morning-rundown-rcna604946",
+      "id": "story_53b657a6e501fe63",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "‘A Golden Age of Science’ Brought to You by the White House",
+      "snippet": "The Trump administration’s plan to supercharge scientific discovery.",
+      "link": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T11:02:51.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-10-22T11:03:37.000Z",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_07b325b535385f6f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A truckers’ protest halts the production of Italy’s famed buffalo mozzarella - AP News",
+      "snippet": "A truckers’ protest halts the production of Italy’s famed buffalo mozzarella  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHhmVXI4QU4tX3paeDZqNnprbHZCV2w0QkZtTkdveVE0UWpsZlF6UFlac2FrYXRPY2hmX3c4WTRRM2VfQ3luTjM4SUNsbHUtR1IxRk42ZmFUbS0yd2JkcFBsZndrS0lGWVNNS3lHM1ZocXJDekFhNjNLTTc1eWtCN2l2bFlCamkzVXljcDJuNDBUQ2prUXEwX0RJT3dQeXZtS213R0pXSXBUdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:03:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_052709a35736f43f",
@@ -990,9 +1263,9 @@
       "link": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:01:59.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_6f32ff0be0b464cd",
@@ -1086,12 +1359,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3a9c508729b06329",
+      "id": "story_1f95a5b6d37b91fb",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
-      "headline": "New Medicare rule threatens telemedicine access for rural seniors",
-      "snippet": "Rural seniors on Medicare with heart disease, diabetes, and other chronic conditions could lose access to critical telemedicine services if the Trump administration goes forward with a proposal to crack down on fraud that critics say will h",
-      "link": "https://www.washingtonexaminer.com/policy/healthcare/4774381/new-medicare-rule-threatens-telemedicine-access-for-rural-seniors/",
+      "headline": "Polls have been wrong before. Could they be wrong again in 2026?",
+      "snippet": "A major polling scandal rocked the political world just two weeks before the midterm elections in which a fake firm fabricated results in key races, raising questions about the validity of a polling industry already under constant scrutiny.",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4774984/polls-wrong-before-could-they-be-wrong-again-2026/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:00:00.000Z",
       "tier": "routine",
@@ -1099,12 +1372,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_1f95a5b6d37b91fb",
+      "id": "story_3a9c508729b06329",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
-      "headline": "Polls have been wrong before. Could they be wrong again in 2026?",
-      "snippet": "A major polling scandal rocked the political world just two weeks before the midterm elections in which a fake firm fabricated results in key races, raising questions about the validity of a polling industry already under constant scrutiny.",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4774984/polls-wrong-before-could-they-be-wrong-again-2026/",
+      "headline": "New Medicare rule threatens telemedicine access for rural seniors",
+      "snippet": "Rural seniors on Medicare with heart disease, diabetes, and other chronic conditions could lose access to critical telemedicine services if the Trump administration goes forward with a proposal to crack down on fraud that critics say will h",
+      "link": "https://www.washingtonexaminer.com/policy/healthcare/4774381/new-medicare-rule-threatens-telemedicine-access-for-rural-seniors/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:00:00.000Z",
       "tier": "routine",
@@ -1138,6 +1411,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fdf2fd790a9dade7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "European Parliament votes to approve three-year delay on EU methane rules - Reuters",
+      "snippet": "European Parliament votes to approve three-year delay on EU methane rules  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTBXNTlDV0F3TWFGRlhGdUYtalktMjdpX1BfQjJkcVZUZ3NfTmpfQU15U0pxVEdiSFVRUXllUC1aWjRibFVpc1k0RF9MMlJndGItMDFRQ294YnNmVGlnRXg1aHdRSHpkdlpSXzlZUWFYLXNIY1QxRml4NEJkdlpQalNEQXdyYXJHSllrVnk1emo1TmpsTDcyWDVzSnB3YVlBaVlpZ3FKZnd4WkJzYVZic0txVEFqS05OSGJz?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:58:33.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5103fa551803bc54",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1160,6 +1446,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:55:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0a26fd6f92a87b00",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Musk's political baggage clouds prospects for SpaceX-Tesla deal - Reuters",
+      "snippet": "Musk's political baggage clouds prospects for SpaceX-Tesla deal  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkVjMVJHMTVTZzFfTWtTeDNxN0JxYmNtbE1GZzRGTXM1aUdIVThLSDBhTXF6NVowVmIxRS1ONV85dDR0TnQtX2U0eHdEU1ZSdVhRTmRlUXprRHphenZ0WndfdXZjYTcydFU2bVFTSDhHbXFlY2ZJSTNrV3BqU0JLblZ3SW5YRkpNM1dnQnhIQ05HNUdELTIxWkpGUXdHamxFWkFLTWlqeXVpYzUzSkNscHVMczA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:54:36.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1190,19 +1489,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_8006443cbc11f869",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Vivek Ramaswamy campaign ad for Ohio ‘shameful, disgusting’, says Republican congresswoman – US politics live",
-      "snippet": "Nancy Mace said: ‘This ad is going to go down as the most shameful, disgusting, offensive ad this election season’\nGood morning and welcome to our live coverage of US politics. We’re less than two weeks out from the mid-term vote and the ca",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:51:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_d7293ea08cbabd5a",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1220,7 +1506,7 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Israel using US-made electroshock weapons on Palestinian detainees | First Thing",
-      "snippet": "An American company is still supplying Taser weapons linked to abuse of prisoners by Israeli forces. Plus, 12 valuable lessons about life and death by hospice workers\nGood morning. An investigation has revealed that Israel is using US-made ",
+      "snippet": "An American company is still supplying Taser weapons linked to prisoner abuse by Israeli forces. Plus, 12 valuable lessons about life and death by hospice workers\n\nDon’t already get First Thing in your inbox? Sign up here\n\nGood morning. An ",
       "link": "https://www.theguardian.com/us-news/2026/oct/22/first-thing-israel-using-us-made-electroshock-weapons-on-palestinian-detainees",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:48:03.000Z",
@@ -1242,14 +1528,40 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0a26fd6f92a87b00",
+      "id": "story_fcbf2b58c6b0f25a",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Musk's political baggage clouds prospects for SpaceX-Tesla deal - Reuters",
-      "snippet": "Musk's political baggage clouds prospects for SpaceX-Tesla deal  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkVjMVJHMTVTZzFfTWtTeDNxN0JxYmNtbE1GZzRGTXM1aUdIVThLSDBhTXF6NVowVmIxRS1ONV85dDR0TnQtX2U0eHdEU1ZSdVhRTmRlUXprRHphenZ0WndfdXZjYTcydFU2bVFTSDhHbXFlY2ZJSTNrV3BqU0JLblZ3SW5YRkpNM1dnQnhIQ05HNUdELTIxWkpGUXdHamxFWkFLTWlqeXVpYzUzSkNscHVMczA?oc=5",
+      "headline": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets - Reuters",
+      "snippet": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd0c3E0Z2JLUUZURFlSOU44dmwyTnBGX3pyR0FSOURqdEVudEVPUXpMYW5QSC1EQW95ZGJQVlpzdDltNGNpQ2NSR2x1RWNfazJKLVZ1UkVXblpWM3RrVEFxWE1pUVY3WDdtWXZxNzhaOVhkaTBKZW9RQ0daMDRDcHNCaEJvQUFrM2pScmxyWDNPN3hkc0pjQjI2cFFKcXk1YU81Y215UDVYMUdlWW11VjNhRENlR0pnQzRUSkR3dw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T10:40:11.000Z",
+      "publishedAt": "2026-10-22T10:44:51.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0a9afca89a640b3b",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "🔴 Live: France will ban 'illegitimate' protests in coming days, says Macron",
+      "snippet": "",
+      "link": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:44:50.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_2ac6dc2bc3b961a6",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Norway wealth fund slightly cautious on equities, tech companies - Reuters",
+      "snippet": "Norway wealth fund slightly cautious on equities, tech companies  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa3pHaTAydzc2dGxNdlNJQ2FkbDl0UF9BUjhGUkpsSEVmTF9nT0lJekdnTU9VV29lTzdTMU1wUmxwSUdxUDNpVVhZLUg3UHZHbXFmcnkyNEVTTGd1RnZlbFROaTBRcjVSSVdRNE1mblk1UFZoczJsemxrYlZyczNpMmUyMTFfakxqNVd3Rl8xd3hUYlJweXdzSG5OV3cwS1RPZUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:43:04.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1281,14 +1593,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_22535642c130cc96",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Sainsbury’s expects challenging run-up to Christmas as households feel squeeze",
-      "snippet": "Supermarket urges government not to ‘further aggravate’ pressure on costs for businesses in next week’s budget\nSainsbury’s has warned of a “pretty challenging” market in the run-up to Christmas as households are “finding it tough” and food ",
-      "link": "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze",
+      "id": "story_1d8f71ca1662cb7c",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Rep. Ilhan Omar says she will move from her Washington, DC, home after federal search",
+      "snippet": "U.S. Rep. Ilhan Omar says she will move out of her Washington, D.C., home that federal agents searched last week",
+      "link": "https://abcnews.com/US/wireStory/rep-ilhan-omar-move-washington-dc-home-after-137466504",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T10:33:58.000Z",
+      "publishedAt": "2026-10-22T10:33:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1307,19 +1619,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0f8fbd3315a0c42f",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Blackpool, Sheffield, Milton Keynes and Wrexham shortlisted for UK city of culture 2029",
-      "snippet": "Each place, selected from longlist of nine, will be given £125,000 to develop bids before winner is announced in new year\nBlackpool, Sheffield, Milton Keynes and Wrexham have been shortlisted to be the UK city of culture 2029, an award view",
-      "link": "https://www.theguardian.com/culture/2026/oct/22/uk-city-culture-2029-shortlist-blackpool-sheffield-milton-keynes-wrexham",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:30:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_13547675bd8f7308",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -1333,6 +1632,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_44cd62654661cd1f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US Supreme Court rulings reshape midterm election battlefield - Reuters",
+      "snippet": "US Supreme Court rulings reshape midterm election battlefield  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHJpX0tZVUZndXRmTDJCVWRtZ2xNM1I1ZWdRU3A0YTBCYjNubVA4WERsLUtlckRPdm9td0V2VmN6WFVYZ2Y2dXl6dGZRV1N3U2VlR09lOE1MbjZ0alBjNFdGb2FEWE5jSEUyWTNjaGZQTVczX2J5UkFnVC1sR01Yb0tYNElfaWV1Mjhac2czQURsNGpqbmtuQkVjT1ZVRHBBRnA4X1ZKYkhQXzYtaTE3V3Rkdk4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:27:20.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2981bbda4fb301d5",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -1341,6 +1653,19 @@
       "link": "https://www.upi.com/Top_News/World-News/2026/10/22/Ukraine-deadly-Russian-strikes-overnight/1351792657669/",
       "imageUrl": "https://cdnph.upi.com/ph/st/th/1351792657669/2026/upi_com/9358a990f55ae5b62a13fa3ed035e0aa/v1.5/Russian-strikes-on-Ukraine-kill-at-least-4-injure-34.jpg",
       "publishedAt": "2026-10-22T10:26:58.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_40e868ce53b858c9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Republican backlash over Russia policy poses challenge for Trump in Congress - Reuters",
+      "snippet": "Republican backlash over Russia policy poses challenge for Trump in Congress  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:26:35.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1372,19 +1697,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fcbf2b58c6b0f25a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets - Reuters",
-      "snippet": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd0c3E0Z2JLUUZURFlSOU44dmwyTnBGX3pyR0FSOURqdEVudEVPUXpMYW5QSC1EQW95ZGJQVlpzdDltNGNpQ2NSR2x1RWNfazJKLVZ1UkVXblpWM3RrVEFxWE1pUVY3WDdtWXZxNzhaOVhkaTBKZW9RQ0daMDRDcHNCaEJvQUFrM2pScmxyWDNPN3hkc0pjQjI2cFFKcXk1YU81Y215UDVYMUdlWW11VjNhRENlR0pnQzRUSkR3dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:22:22.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_55cf6661814cf840",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1406,6 +1718,19 @@
       "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:17:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_63ebaa292aea8edb",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "snippet": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:16:35.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1437,45 +1762,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_535986e68ca84d6b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities - AP News",
-      "snippet": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities  AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:14:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44cd62654661cd1f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US Supreme Court rulings reshape midterm election battlefield - Reuters",
-      "snippet": "US Supreme Court rulings reshape midterm election battlefield  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHJpX0tZVUZndXRmTDJCVWRtZ2xNM1I1ZWdRU3A0YTBCYjNubVA4WERsLUtlckRPdm9td0V2VmN6WFVYZ2Y2dXl6dGZRV1N3U2VlR09lOE1MbjZ0alBjNFdGb2FEWE5jSEUyWTNjaGZQTVczX2J5UkFnVC1sR01Yb0tYNElfaWV1Mjhac2czQURsNGpqbmtuQkVjT1ZVRHBBRnA4X1ZKYkhQXzYtaTE3V3Rkdk4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:13:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_40e868ce53b858c9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Republican backlash over Russia policy poses challenge for Trump in Congress - Reuters",
-      "snippet": "Republican backlash over Russia policy poses challenge for Trump in Congress  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:13:10.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_8caad5f4610c2f93",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -1484,16 +1770,29 @@
       "link": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:11:23.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_106354a89d2586fc",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "snippet": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+      "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:10:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_771f8b81cd83dfd5",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
-      "snippet": "Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax\n\nBusiness live – latest updates\n\nMeta has struck a deal with Mark Zuckerberg to protect him from the threat of a California",
+      "headline": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
+      "snippet": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax\n\nBusiness live – latest updates\n\nMeta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax t",
       "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:10:03.000Z",
@@ -1510,20 +1809,7 @@
       "link": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:06:58.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_040e0158935bf6c2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Venezuela claims to have 300 billion barrels of oil in the ground. But experts say that's a stretch - AP News",
-      "snippet": "Venezuela claims to have 300 billion barrels of oil in the ground. But experts say that's a stretch  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYW93dzdYRlFUeEhOUHBwWlhObXNER0RNN2NBckh0ZHBTY2VnRTk4XzRPZE4wRG0tOUExY0hHcFpyWkduWWUyR0ZRdjRJaFhWUlFjWGgtZW5UdEhtUTM4M2IweTlna0duR1BlVXcxRDkzNUczUk9kQVNBa0xwM21GNXE5Uzc0NS03QzliN1JJbXdzTk9oUDVvWjZ2RnpnaWU1NWV3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:06:00.000Z",
-      "tier": "major",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1532,7 +1818,7 @@
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "EU's Sakharov Prize won by the International Criminal Court",
-      "snippet": "The EU has announced the International Criminal Court as the winner of this year's Sakharov Prize.",
+      "snippet": "The EU has announced the International Criminal Court as the winner of this year's Sakharov Prize. The annual prize is awarded to individuals and organizations for their work in supporting human rights and democracy.",
       "link": "https://www.dw.com/en/eu-s-sakharov-prize-won-by-the-international-criminal-court/a-79730914?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:04:00.000Z",
@@ -1548,7 +1834,7 @@
       "snippet": "Plus, America’s newest national park.",
       "link": "https://www.nytimes.com/2026/10/22/podcasts/the-headlines/us-israel-iran-trump-whistleblower.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T10:02:48.000Z",
+      "publishedAt": "2026-10-22T10:02:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1632,43 +1918,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3f37d4b343c18466",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Experts alarmed by ‘less transparent’ CDC as US measles deaths rise",
-      "snippet": "Agency declines to reveal in which state latest measles death occurred as it delays reporting other measles deaths \nThe US Centers for Disease Control and Prevention (CDC) added a third measles death to its dashboard on Wednesday, but the a",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-pennsylvania-state-deaths",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3c43db4ad0e6d8ad",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "In reliably blue Minnesota, could Democrats do the unthinkable and lose a Senate seat?",
-      "snippet": "Frustration with a sprawling fraud scandal has cut Peggy Flanagan’s poll lead – could ex-NFL reporter Michele Tafoya win a first statewide election for Republicans in 20 years?\nAs Democrats fight to regain control of the US Senate, hopes ar",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/minnesota-senate-race-peggy-flanagan-michele-tafoya",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_edd9a386b83d5c96",
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "El-Sayed, Rogers clash over Muslim Brotherhood, Trump and guns: 5 fiery debate moments",
-      "snippet": "Mike Rogers and Abdul El-Sayed clashed over the Iran war, AI regulation, and the Second Amendment in a fiery Michigan Senate debate.",
+      "snippet": "Mike Rogers and Abdul El-Sayed clashed over the Iran war, AI regulation and the Second Amendment in a fiery Michigan Senate debate.",
       "link": "https://www.foxnews.com/politics/el-sayed-rogers-clash-over-muslim-brotherhood-trump-guns-5-fiery-debate-moments",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:00:24.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_3e0464dfc2227213",
@@ -1679,17 +1939,56 @@
       "link": "https://www.cbsnews.com/news/trump-rally-iowa-ashley-hinson-senate-josh-turek/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:00:13.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
-      "id": "story_b5eaa11cfee812c1",
+      "id": "story_e160ab0d5debaffc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dog the Bounty Hunter hunted Max Factor heir Andrew Luster to Mexico in 2003, now serial rapist is free",
+      "snippet": "Dog the Bounty Hunter speaks out as convicted rapist and Max Factor heir Andrew Luster walks free after Prop 57 slashed his 124-year sentence.",
+      "link": "https://www.foxnews.com/us/dog-bounty-hunter-hunted-max-factor-heir-andrew-luster-mexico-2003-serial-rapist-free",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f218513416a628dc",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+      "snippet": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/RuralVotingBallots-Bose7021_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95_4e7419.jpg?w=1149",
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_608ce3fb130fbb99",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
-      "headline": "The Senate GOP’s midterm lifeline lies in an unlikely place",
-      "snippet": "A race that’s increasingly defying the national conensus of a painful Election Day for Republicans is emerging in an unlikely place: the Democratic stronghold of Minnesota. Republican Michele Tafoya, floated by some in the party as their “b",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4774837/senate-gop-midterm-lifeline-unlikely-place/",
+      "headline": "The DSA is repeating the New Left’s mistakes",
+      "snippet": "Socialists have made clear that their animus toward mainstream politics extends beyond Republicans toward mainstream Democrats. DSA candidates such as New York’s Darializa Avila Chevalier, who successfully primaried incumbent Rep. Adriano E",
+      "link": "https://www.washingtonexaminer.com/restoring-america/equality-not-elitism/4774816/dsa-repeating-new-left-mistakes/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f214dc1ce99d9f91",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Le Pen ally blames ‘traditional right-wing’ for riots because they helped Macron undermine ‘sovereign power’ in France",
+      "snippet": "President Emmanuel Macron has been the primary target of scorn following nationwide riots that overtook Paris and other cities, but the insurgent National Rally does not want to let mainstream conservatives off the hook. Macron has dismisse",
+      "link": "https://www.washingtonexaminer.com/news/world/4774083/le-pen-ally-blames-traditional-right-wing-riots-macron-undermine-sovereign-power-france/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T10:00:00.000Z",
       "tier": "routine",
@@ -1723,78 +2022,13 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_608ce3fb130fbb99",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "The DSA is repeating the New Left’s mistakes",
-      "snippet": "Socialists have made clear that their animus toward mainstream politics extends beyond Republicans toward mainstream Democrats. DSA candidates such as New York’s Darializa Avila Chevalier, who successfully primaried incumbent Rep. Adriano E",
-      "link": "https://www.washingtonexaminer.com/restoring-america/equality-not-elitism/4774816/dsa-repeating-new-left-mistakes/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_843a2b7c1c4c3517",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Russia cannot be allowed to win in Ukraine",
-      "snippet": "New talks were held this week between U.S. peace envoy Steve Witkoff, Russian President Vladimir Putin, and Ukrainian President Volodymyr Zelensky. Sadly, hopes that these discussions will bring an end to the Ukraine war are unfounded. Ukra",
-      "link": "https://www.washingtonexaminer.com/op-eds/4774427/russia-cannot-be-allowed-to-win-in-ukraine-putin-wants-to-hold-america-back/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ef9ecade7ac13c1",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "DOJ steps up fight with judges accused of bias and stalling Trump agenda",
-      "snippet": "President Donald Trump’s Justice Department is escalating its fight with the federal courts to new levels. For nearly two years, the Trump administration has ranted and protested judges’ orders blocking or slowing its policies. Now it is ta",
-      "link": "https://www.washingtonexaminer.com/news/justice/4773817/doj-fight-judges-bias-stalling-trump-agenda/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e1a5f91b2175a8c2",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "If France can’t defend itself, why should America rely on it?",
-      "snippet": "When Notre Dame Cathedral burned in 2019, the world mourned. It was apparently a tragic accident, and there was universal grief that one of the well-known symbols of French identity, the place of Napoleon’s coronation, and a beauty of Gothi",
-      "link": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4774459/france-riots-american-ability-rely-nato-allies/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cb31ac5f73e15437",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "The foolish AI stock freak-out",
-      "snippet": "Financial market sentiment is overwhelmingly negative at present. The semiconductor sector just experienced its worst drawdown since the Great Recession, and the neocloud stocks, which just a few months ago were on everyone’s buy lists, hav",
-      "link": "https://www.washingtonexaminer.com/op-eds/4774756/foolish-ai-stock-freak-out/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f214dc1ce99d9f91",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Le Pen ally blames ‘traditional right-wing’ for riots because they helped Macron undermine ‘sovereign power’ in France",
-      "snippet": "President Emmanuel Macron has been the primary target of scorn following nationwide riots that overtook Paris and other cities, but the insurgent National Rally does not want to let mainstream conservatives off the hook. Macron has dismisse",
-      "link": "https://www.washingtonexaminer.com/news/world/4774083/le-pen-ally-blames-traditional-right-wing-riots-macron-undermine-sovereign-power-france/",
-      "imageUrl": null,
+      "id": "story_69f909eda5e2387e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump, Republicans spend big in midterm home stretch",
+      "snippet": "Republicans are banking on last minute injections of cash to boost the party’s most vulnerable candidates less than two weeks out from Election Day.   President Trump announced on Tuesday that his political operation will spend over $400 mi",
+      "link": "https://thehill.com/homenews/campaign/6164073-gop-last-minute-cash-injection-midterms/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Banking_Manchester-Mueller_AP_AllenGBreed.jpg?w=900",
       "publishedAt": "2026-10-22T10:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -1808,32 +2042,6 @@
       "snippet": "Democrat James Talarico and Republican Ken Paxton are in a dead heat for the Senate in Texas, according to new polling of one of the cycle’s most closely watched contests.  Talarico notched 48 percent to Paxton’s 46 percent in new numbers f",
       "link": "https://thehill.com/homenews/6163841-emerson-polling-texas-senate-race/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/talarico-paxton-e1787699800335.png?w=900",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f6a9ad04b9a1b6af",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Rubio, Hegseth, point fingers at Musk in Starlink slowdown",
-      "snippet": "Top Trump administration officials are starting to point fingers squarely at SpaceX founder Elon Musk for the decision to slow down his company’s Starlink satellite internet services and its military counterpart Starshield for Ukraine, whic",
-      "link": "https://thehill.com/homenews/administration/6164055-starlink-slowdown-ukraine/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Fingers_102226_Mitchell-AP_Julia-Deamree-Nikhinson.jpg?w=900",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_69f909eda5e2387e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump, Republicans spend big in midterm home stretch",
-      "snippet": "Republicans are banking on last minute injections of cash to boost the party’s most vulnerable candidates less than two weeks out from Election Day.   President Trump announced on Tuesday that his political operation will spend over $400 mi",
-      "link": "https://thehill.com/homenews/campaign/6164073-gop-last-minute-cash-injection-midterms/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Banking_Manchester-Mueller_AP_AllenGBreed.jpg?w=900",
       "publishedAt": "2026-10-22T10:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -1866,41 +2074,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e160ab0d5debaffc",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Dog the Bounty Hunter hunted Max Factor heir Andrew Luster to Mexico in 2003, now serial rapist is free",
-      "snippet": "Dog the Bounty Hunter speaks out as convicted rapist and Max Factor heir Andrew Luster walks free after Prop 57 slashed his 124-year sentence.",
-      "link": "https://www.foxnews.com/us/dog-bounty-hunter-hunted-max-factor-heir-andrew-luster-mexico-2003-serial-rapist-free",
-      "imageUrl": null,
+      "id": "story_f6a9ad04b9a1b6af",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Rubio, Hegseth point fingers at Musk in Starlink slowdown",
+      "snippet": "Top Trump administration officials are starting to point fingers squarely at SpaceX founder Elon Musk for the decision to slow down his company’s Starlink satellite internet services and its military counterpart Starshield for Ukraine, whic",
+      "link": "https://thehill.com/homenews/administration/6164055-starlink-slowdown-ukraine/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Fingers_102226_Mitchell-AP_Julia-Deamree-Nikhinson.jpg?w=900",
       "publishedAt": "2026-10-22T10:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f218513416a628dc",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
-      "snippet": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/RuralVotingBallots-Bose7021_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95_4e7419.jpg?w=1149",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_07b325b535385f6f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "A truckers’ protest halts the production of Italy’s famed buffalo mozzarella - AP News",
-      "snippet": "A truckers’ protest halts the production of Italy’s famed buffalo mozzarella  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHhmVXI4QU4tX3paeDZqNnprbHZCV2w0QkZtTkdveVE0UWpsZlF6UFlac2FrYXRPY2hmX3c4WTRRM2VfQ3luTjM4SUNsbHUtR1IxRk42ZmFUbS0yd2JkcFBsZndrS0lGWVNNS3lHM1ZocXJDekFhNjNLTTc1eWtCN2l2bFlCamkzVXljcDJuNDBUQ2prUXEwX0RJT3dQeXZtS213R0pXSXBUdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1941,7 +2123,7 @@
       "publishedAt": "2026-10-22T09:55:02.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_2fbf42e2f9bbb295",
@@ -1996,19 +2178,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_432aaa7252423da0",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "John Anderson, five-time US country chart-topper, dies aged 71",
-      "snippet": "Florida-born singer-songwriter had major hits with Swingin’, Seminole Wind and Straight Tequila Night\nJohn Anderson, the traditionalist US country singer whose extensive body of work included five No 1 hits on the country charts, has died a",
-      "link": "https://www.theguardian.com/music/2026/oct/22/john-anderson-five-time-us-country-chart-topper-dies-aged-71",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:45:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_be24c25fec7ef9c1",
       "source": "Politico",
       "sourceColor": "#A65A2E",
@@ -2022,14 +2191,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_9582e58374eef2f7",
+      "id": "story_dc8f4b601645d343",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Far-left leader Melenchon in firing line as France blame-game heats up - Reuters",
-      "snippet": "Far-left leader Melenchon in firing line as France blame-game heats up  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlVxQThsaWdWeFpWTGdUWE1KQUZvNTJDV0xqdVpDQjBzVkJLSHBxMUV4SDlKemVXLUJNR0hIbmpoM19zR2o5cVdnck9PT1FSUHhOdFd0OVRiNThiQTI1cWlRVnctek5NbGYtSFNBM1d5c01KWkxLTjB5ZTFSa0RSR0lFTkVMMTdXOG0tMjVMdFR5aE9EZ19IWkNIMzEzT3pOcEFuNTRkLXpuTUpQdnBBcUxvb3I5bG5XYVk3LU5mXzk?oc=5",
+      "headline": "Love affair to staged arrest: how a Romanian from England was jailed in Russia as a spy - Reuters",
+      "snippet": "Love affair to staged arrest: how a Romanian from England was jailed in Russia as a spy  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhoaWxKeDNRbGdTZjZ2SlJvZHRVaG95WkpFQWZndWlnRjk1UFhNVGlEN1plakN3TFNxT1dRanFFa3dJQUNDaG1BalJkUWxnUjdBeTQ2VC1QalFUWC1NbTktR094VTZHMUpXMklISUJreWNoaEExX1BUMTg3T0I5VEVXTHBlX0lmYmYzV2M5VmJfR0s3ZmRmenJMZDNBUnViZFU3MFA4bWhFekJ4NHRj?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T09:44:43.000Z",
+      "publishedAt": "2026-10-22T09:44:31.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2048,6 +2217,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_886f221d734ce232",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "World shares retreat as report of damage to oil tankers pushes oil prices higher - AP News",
+      "snippet": "World shares retreat as report of damage to oil tankers pushes oil prices higher  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:42:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6a1f76189c2fbfcb",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent - Reuters",
+      "snippet": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhDZXVHTEtXNnJyeEx0a1ZvUS1iU3lGNV9Ia2dNTmljcm5PaVNvYUZ6ZkJsUGtoTjF6NDktS0FYeEstZEhOVkxvWUZmNU9VV05IUElNbTlHZk1iZGFNUVdzNXBXX01MVW03LXhnRTNVbzZRYlBKdExpeU5ZbHk3aldOVktTT2NRQmJ3Yjd4OEM4Q21JZU5GejMzRUhBbmxBamtBVmEzRGQtb1VnZ0E5dXJ5RUlfa1M2bHJvLTdWcDBjeWl0aFhSVzVn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:34:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ad0eb9613d335eed",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -2056,32 +2251,6 @@
       "link": "https://www.semafor.com/article/10/21/2026/trump-turned-the-government-into-an-investor-democrats-have-shopping-plans-too",
       "imageUrl": "https://img.semafor.com/2e1c8a1b19c0c287c1aeae75eb14f3c7c7f1e24a-2906x1937.jpg",
       "publishedAt": "2026-10-22T09:32:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_39361b784c650163",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-      "snippet": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
-      "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:32:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d69e7cc2e60bdf08",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Trump and an oil shock aren’t enough for Texan drillers",
-      "snippet": "“‘Drill, baby, drill’ is basically drill as much as you can to commit economic suicide,” one of the Permian Basin’s top CEOs said.",
-      "link": "https://www.semafor.com/article/10/21/2026/why-trump-and-an-oil-shock-arent-enough-for-texan-drillers",
-      "imageUrl": "https://img.semafor.com/70b77287cf4562656e8e6924e4bddac42828447b-2400x1800.png",
-      "publishedAt": "2026-10-22T09:32:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2109,6 +2278,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:27:10.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5495487410154412",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Italy, Spain lift border controls brought in after Ceuta migrant rush - Reuters",
+      "snippet": "Italy, Spain lift border controls brought in after Ceuta migrant rush  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcE9Ga0hselFMSGZwNVRuZUgwaFdUOS1MaHpxeHF3U0dWVFNqQWpIZWI1RUV4WDhZdzlodm1OaWRsbi1Kcy1kVm5WZWVxOVZHU29IZmxvOFliQ2c2c19BMk1pamp1dEl4TENJbzV0cmMwajk1ZFNfY2ZPVGVtN01ReDY2Y3R1MkxMenQ5amRCUVpKeENhY3lhSmliV1o3bWFHbW42UndFMHNJd0E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:25:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2191,6 +2373,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7129039b71518a1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:10:52.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_456e3b3fb7aa43ab",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -2204,23 +2399,10 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_c2211bab011e4550",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says - Reuters",
-      "snippet": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFlSa1BjRUNIMDhxY21GWElwRXJfQ3NCdGRtMzQ2SUFyRmJwdkRfVjdWRjVLTndOZXk4SERVNzE0T3VGY0tBMUZoWUFIeEo5NjhQYjBwMzFHRnROTjlTelNydjN6d3ZTWFRqZUlIenE3YnYwcmtmZmZxdnItTDNJNTNTM3ZvTXNfNG1UTmc2Z3FpNW4wSDRwWlNsMFl3RzZqYnpSX1dITUJqeG9QTWI0bG1Wc2kwamJmaHMtZjhWbXl2NzlLZ3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:08:41.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_b3a22a2599ee9dad",
       "source": "BBC",
       "sourceColor": "#6A57B8",
-      "headline": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+      "headline": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
       "snippet": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
       "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -2243,19 +2425,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_53b657a6e501fe63",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Inside the White House’s Push for More A.I.",
-      "snippet": "The Trump administration’s plan to supercharge scientific discovery.",
-      "link": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:03:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_7093b5bd75c84772",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -2269,19 +2438,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_9cc3361b9143502f",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
-      "snippet": "A coaster dares riders to be daring, with steep drops, high speeds and improbably tight curves. But safety has become a concern again after a man was thrown from his seat and died in Georgia.",
-      "link": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:03:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_0d2c03decbde3814",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -2289,20 +2445,7 @@
       "snippet": "Tech companies are painting data centers with gray coatings on top of gray concrete and steel to resist fire, rust and static electricity. That has made data centers a fast-growing market for paint makers.",
       "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T09:02:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_13b594370d05ccef",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "METRO with Sarah Koenig: Episode 2",
-      "snippet": "In New York’s diamond district, there’s a war on: real vs. fake. It’s hard to know which side is which.",
-      "link": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:02:28.000Z",
+      "publishedAt": "2026-10-22T09:02:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2316,19 +2459,6 @@
       "link": "https://www.france24.com/en/video/20261022-popular-dissatisfaction-across-europe-promises-of-more-economic-growth-haven-t-come-true-1",
       "imageUrl": "https://s.france24.com/media/display/81ff0c2e-cdf1-11f1-a036-4da0d2c6855d/w:1024/p:16x9/EN-20261022-080451-081523-CS.jpg",
       "publishedAt": "2026-10-22T09:01:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7403aacb3f370ec7",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "For Clues About How A.I. Will Change Work, Look to the Past",
-      "snippet": "Economists hope earlier episodes of labor disruption, from the Industrial Revolution to the Great Depression, can help us prepare for the age of artificial intelligence.",
-      "link": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:01:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2373,19 +2503,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_06c29f414a763062",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "US military failed to notify UK police of drink-driving allegation against airman based in England",
-      "snippet": "British authorities were unable to investigate case of Christopher Mooty, who went on to commit another offence\nThe US military failed to notify British police of an allegation that one of its airmen had been drink-driving in Suffolk, preve",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/us-military-failed-to-notify-uk-police-of-drink-driving-allegation-against-airman-in-england",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_7940353c3c7cb601",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -2403,7 +2520,7 @@
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "MORNING GLORY: Trump must go to war on the airwaves to stop Democrats’ blue-wave blitz",
-      "snippet": "Trump should deliver a prime-time address warning voters that a Democratic blue wave would paralyze his agenda on Iran, spending, and the Supreme Court.",
+      "snippet": "Trump should deliver a primetime address warning voters that a Democratic blue wave would paralyze his agenda on Iran, spending, and the Supreme Court.",
       "link": "https://www.foxnews.com/opinion/morning-glory-trump-must-go-war-airwaves-stop-democrats-blue-wave-blitz",
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:00:35.000Z",
@@ -2441,76 +2558,11 @@
       "id": "story_efff9587d64f5616",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
-      "headline": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+      "headline": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
       "snippet": "Yemen's government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
       "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:00:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ad2404ad68022a14",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "METRO with Sarah Koenig: Episode 1",
-      "snippet": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about.",
-      "link": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_24544f7f0c9aa42b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Virginia abortion amendment faces legal challenge, even if voters approve it",
-      "snippet": "Bedford County is fighting against a proposed constitutional amendment that would make getting an abortion part of the Virginia Constitution. The Virginia appeals court is being asked to invalidate the amendment, arguing state lawmakers fai",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4774480/bedford-county-invalidate-virginia-abortion-amendment-voters-approve-it/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e7aefdb579aac0aa",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "‘Palestine Action’ group promotes violent attacks in US and claims terrorism sanctions can’t stop it",
-      "snippet": "A “global” affiliate of the Palestine Action movement openly encourages targeted violence against American facilities while brushing off the government’s recent “terrorist” label. The website “Palestine Action Global” takes responsibility f",
-      "link": "https://www.washingtonexaminer.com/news/investigations/4773762/palestine-action-group-violent-us-attacks-terrorism-sanctions/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_55b7f2683b6cc405",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Democrats grapple with fallout from fake Wedgewood polls",
-      "snippet": "The revelation that a new polling firm fabricated survey results sent shock waves through Democratic circles on Wednesday, who are being forced to assess how the bogus data may have influenced the 2026 elections in key races. Wedgewood Poll",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4775029/democrats-grapple-fallout-fake-wedgewood-polls/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c99d1d8dc57d894d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Beware of bogus polling",
-      "snippet": "For the second time in two months, a polling organization embraced by media outlets has admitted to fabricating its results. This time, the deception lasted much longer, fooled far more organizations, and appears to have inflicted greater e",
-      "link": "https://www.washingtonexaminer.com/opinion/editorials/4774482/beware-bogus-polling/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2522,45 +2574,6 @@
       "headline": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
       "snippet": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year.",
       "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d1c50c2a7f64c030",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Trump merchandise stores are closing: 'He has peaked'",
-      "snippet": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_28f5ef20ac5cdf80",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "See how Big Tech is transforming Spain's landscape",
-      "snippet": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92d7892f8e5e9599",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-      "snippet": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:00:00.000Z",
       "tier": "routine",
@@ -2581,6 +2594,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_92d7892f8e5e9599",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
+      "snippet": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d1c50c2a7f64c030",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Trump merchandise stores are closing: 'He has peaked'",
+      "snippet": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_759a314d89abf938",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -2594,12 +2633,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d6dd32a3e0a629fe",
+      "id": "story_28f5ef20ac5cdf80",
       "source": "NPR",
       "sourceColor": "#8D68B8",
-      "headline": "High health costs squeeze workers, even if you have good insurance through a job",
-      "snippet": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top concern.",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+      "headline": "See how Big Tech is transforming Spain's landscape",
+      "snippet": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:00:00.000Z",
       "tier": "routine",
@@ -2620,6 +2659,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d6dd32a3e0a629fe",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "High health costs squeeze workers, even if you have good insurance through a job",
+      "snippet": "About 157 million Americans get their health insurance through work. A survey of employers shows a moderate price uptick this year, but workers still say health costs are a top concern.",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8a0fa6c4ed0e4c6a",
       "source": "ProPublica",
       "sourceColor": "#7A6A4A",
@@ -2633,45 +2685,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5495487410154412",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Italy, Spain lift border controls brought in after Ceuta migrant rush - Reuters",
-      "snippet": "Italy, Spain lift border controls brought in after Ceuta migrant rush  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcE9Ga0hselFMSGZwNVRuZUgwaFdUOS1MaHpxeHF3U0dWVFNqQWpIZWI1RUV4WDhZdzlodm1OaWRsbi1Kcy1kVm5WZWVxOVZHU29IZmxvOFliQ2c2c19BMk1pamp1dEl4TENJbzV0cmMwajk1ZFNfY2ZPVGVtN01ReDY2Y3R1MkxMenQ5amRCUVpKeENhY3lhSmliV1o3bWFHbW42UndFMHNJd0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T08:59:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e2a5e58a225152a9",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Morning news brief",
-      "snippet": "President Trump and former President Obama are on the campaign trail for the midterms, U.S. and Israel are planning for a possible post-midterms attack on Iran, Musk says SpaceX and Tesla could merge.",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6003503/morning-news-brief",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T08:57:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_84873021d3b51006",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Trump administration divided over housing order",
-      "snippet": "The White House has grappled with how to address the cost of living ahead of the midterms.",
-      "link": "https://www.semafor.com/article/10/22/2026/trump-administration-divided-over-housing-order",
-      "imageUrl": "https://img.semafor.com/0b4ebf85b5a58e83a79090cfe519878e31b8dac1-1440x1080.png",
-      "publishedAt": "2026-10-22T08:55:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_4b1086ee723e88af",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -2680,19 +2693,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T08:55:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e029d827a3b2c10a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Why both parties are welcoming Trump in Iowa ",
-      "snippet": "Democrats are banking that the president’s presence helps them due to his unpopularity.",
-      "link": "https://www.semafor.com/article/10/22/2026/why-both-parties-are-welcoming-trump-in-iowa",
-      "imageUrl": "https://img.semafor.com/e454347394c28bf44c6693bbea02edf27113b1c0-1440x1080.png",
-      "publishedAt": "2026-10-22T08:54:54.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
