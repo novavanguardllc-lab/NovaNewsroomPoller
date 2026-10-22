@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T19:25:05.432Z",
+  "updatedAt": "2026-10-22T19:30:10.234Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.614Z"
+      "lastSuccess": "2026-10-22T19:30:10.494Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.968Z"
+      "lastSuccess": "2026-10-22T19:30:10.952Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.487Z"
+      "lastSuccess": "2026-10-22T19:30:10.407Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.706Z"
+      "lastSuccess": "2026-10-22T19:30:10.735Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.509Z"
+      "lastSuccess": "2026-10-22T19:30:10.435Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.551Z"
+      "lastSuccess": "2026-10-22T19:30:10.452Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.897Z"
+      "lastSuccess": "2026-10-22T19:30:10.933Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.590Z"
+      "lastSuccess": "2026-10-22T19:30:10.534Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.643Z"
+      "lastSuccess": "2026-10-22T19:30:10.645Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.697Z"
+      "lastSuccess": "2026-10-22T19:30:10.901Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.750Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-22T19:30:20.272Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.765Z"
+      "lastSuccess": "2026-10-22T19:30:10.714Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.729Z"
+      "lastSuccess": "2026-10-22T19:30:10.709Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T19:25:05.805Z"
+      "lastErrorAt": "2026-10-22T19:30:11.023Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.530Z"
+      "lastSuccess": "2026-10-22T19:30:10.586Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.525Z"
+      "lastSuccess": "2026-10-22T19:30:10.570Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.785Z"
+      "lastSuccess": "2026-10-22T19:30:10.847Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T19:25:05.765Z"
+      "lastErrorAt": "2026-10-22T19:30:10.728Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.811Z"
+      "lastSuccess": "2026-10-22T19:30:11.001Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.772Z"
+      "lastSuccess": "2026-10-22T19:30:10.685Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.885Z"
+      "lastSuccess": "2026-10-22T19:30:11.112Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.906Z"
+      "lastSuccess": "2026-10-22T19:30:11.043Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T19:25:05.872Z"
+      "lastSuccess": "2026-10-22T19:30:10.813Z"
     }
   },
   "items": [
@@ -106,6 +107,58 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2e40e108e5d5214c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump doubles down on anti-Acton ad in Ohio: ‘Vivek should keep it up’",
+      "snippet": "President Trump defended Ohio gubernatorial candidate Vivek Ramaswamy’s ad featuring his Democratic opponent Amy Acton’s estranged mother on Thursday, saying the Republican “should keep it up.”  In a lengthy TruthSocial post, Trump hit Ohio",
+      "link": "https://thehill.com/homenews/campaign/6166346-trump-ramaswamy-acton-ad-defense/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26286052696236-e1792697047525.jpg?w=900",
+      "publishedAt": "2026-10-22T19:24:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d1f9d5ab1fc8b445",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "RILEY GAINES: Call Her Daddy's advice is a dangerous recipe for lifelong regret",
+      "snippet": "Alex Cooper and Sophia Bush's viral marriage advice sparks a deeper debate about feminism, sacrifice, and what empowerment truly means for women.",
+      "link": "https://www.foxnews.com/opinion/riley-gaines-call-her-daddy-advice-dangerous-recipe-lifelong-regret",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:24:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b388a3d44a8a0363",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+      "snippet": "Republican Mike DeWine says Ramaswamy ‘wrong’ to run controversial ad, drawing swift rebuke from president\nOhio’s Republican governor Mike DeWine on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical",
+      "link": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:23:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f731672cf14c7653",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Betr Promo Code FOXNEWS: Get $200 and Sweat-Free Picks for Bears-Patriots",
+      "snippet": "Use Betr promo code FOXNEWS for Bears-Patriots and get $200 in bonuses plus four sweat-free picks for Thursday Night Football.",
+      "link": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-sweat-free-picks-bears-patriots",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:21:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +177,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8f28d42d5b3a0e7f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Supreme Court justice turns on her own court with dire warning about American democracy",
+      "snippet": "Elena Kagan argued the Supreme Court's gerrymandering and campaign finance rulings are destabilizing democracy and driving political polarization.",
+      "link": "https://www.foxnews.com/politics/supreme-court-justice-turns-her-own-court-dire-warning-about-american-democracy",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:19:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8f2d5852759b50e6",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -132,6 +198,19 @@
       "link": "https://abcnews.com/GMA/Culture/veteran-actor-tom-skerritt-dies-93/story?id=137488364",
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:18:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c11529b1c48a6d1f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ilhan Omar says she lives 'paycheck to paycheck' as DOJ probes financial disclosures",
+      "snippet": "Ilhan Omar claims she lives \"paycheck to paycheck,\" despite earning $174,000 and facing scrutiny over financial disclosures tied to Tim Mynett.",
+      "link": "https://www.foxnews.com/politics/ilhan-omar-says-she-lives-paycheck-paycheck-doj-probes-financial-disclosures",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:18:04.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -510,6 +589,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T18:37:07.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d1dc26d8a9f89f9a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Merck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40% - Reuters",
+      "snippet": "Merck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40%  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXhsdlctOU15SmpPZm9IX2gzemJrTWstX0h6cTZwQmotNjBGOXdWOUFLa0Nob3NpSmY3cmFZLTZUSFRDS2xXVVNySTJhdDNlZURUV2lmaFJhSkpiS3RuN09LRGlpM2ttQklLeTVzWDhsVVlLc3pibG5fZE93QWIzZHk3bFo5NnBZUHhNanhBbng2bDBMbGZibTVhLVFmY3I5YlkyNi1OeHdfYmdNWXV1RHYxdVRFUlZRdV85TFNsVVIxcHV1NUV6MUpB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T18:34:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1266,6 +1358,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_1dfa892b5d1ad5b5",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Top RFK Jr. adviser Calley Means quits Trump administration, WSJ reports - Reuters",
+      "snippet": "Top RFK Jr. adviser Calley Means quits Trump administration, WSJ reports  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUkJ1NWhmN2ZjaDh1QlNPa1hhUVd1OVBmd1FsMkQtRWU5cGVlQ1lZdGl6TTBRalREdC00Rlk3SURrYUs0bFlORkNZQUZBZTZYX1hpU3dDaDRVUzE3OGdIQVRPc0dBcVJtZkFRTS16WlNaY3M4NTM2V29ubDdWWEU4MXpmbUQweGY1Y01XanB0LVdsc0dsY0hXQVN1TDFTSmphdC1yczdOZlVmcUlMaWZ1UGNhdVI1QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T17:25:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_d76941bb4a207453",
@@ -2589,110 +2694,6 @@
       "link": "https://abcnews.com/video/137470798/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T15:51:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d09d07547c01e836",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
-      "snippet": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting the Russian capital. The strikes came hours after U",
-      "link": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin",
-      "imageUrl": "https://s.france24.com/media/display/227bc5ce-ce2f-11f1-afee-7967b15eed96/w:1024/p:16x9/EN-Thumbnail-1-2.jpg",
-      "publishedAt": "2026-10-22T15:50:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9fbe7756803a672b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Polymarket, Kalshi expand political donations as firms face state, federal scrutiny - Reuters",
-      "snippet": "Polymarket, Kalshi expand political donations as firms face state, federal scrutiny  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUpLOGU2QlRJRU1nX19LbkdpWi1na25SREFKSTFhVGNONk1wTThtZGdVeDlCeWtUbndrYjM3S0xNUXowZ0FiY01Ka1FsemRWOE5PQVkwNWZueThKNnN0djExRkw0VEhJczdBckJLRHhlZG5NNXlMR0xyM09RLTk2STVjaVQxZWdtelZjdmg5WTBrMjBINEsxenRoWWNSMjFSejU1Y254NUh1NnVjcEEtaHRycmtaQl94WU1iaGI5LTR3Yk1vQkR4YW5CNA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T15:49:22.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_217ea506c5ac7936",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "DeWine calls on Ramaswamy to take down ad featuring Acton’s mother",
-      "snippet": "Ohio Gov. Mike DeWine (R) called on Republican Vivek Ramaswamy to take down an ad featuring his opponent Democrat Amy Acton’s estranged mother. “The ad is deeply, deeply troubling,” DeWine told reporters outside Ohio’s Statehouse building, ",
-      "link": "https://thehill.com/homenews/state-watch/6165615-dewine-urges-ramaswamy-ad-removal/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/09/AP24078857850421-e1726836154994.jpg?w=900",
-      "publishedAt": "2026-10-22T15:47:40.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_9e92a8905e4ca1cf",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "What experts say the Six Flags death investigation will focus on",
-      "snippet": "The Goliath roller coaster at Six Flags Over Georgia has been closed since a man died after witnesses say he was ejected from the ride.",
-      "link": "https://www.cbsnews.com/news/six-flags-georgia-roller-coaster-death-investigation/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T15:44:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a10112fe977a8af9",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
-      "snippet": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black vote. Six decades after Atlanta was at the heart of ",
-      "link": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
-      "imageUrl": "https://s.france24.com/media/display/53dec772-cdfa-11f1-aa3e-97baf3e9dd31/w:1024/p:16x9/protest-BlackVote.jpg",
-      "publishedAt": "2026-10-22T15:43:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_062e048cbfe62113",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
-      "snippet": "Concerns are mounting as Ethiopia and Eritrea inch closer to war. With Ethiopia now having taken control of the border town of Zalambessa, the fear is that Prime Minister Abiy Ahmed will send his troops into Eritrea. In Perspective, we spok",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
-      "imageUrl": "https://s.france24.com/media/display/0a98b6ee-ce19-11f1-8fb6-97baf3e9dd31/w:1024/p:16x9/capture-6186ba6e.jpg",
-      "publishedAt": "2026-10-22T15:40:42.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_036e9e400d413e13",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Pete Hegseth reportedly authorizes DHS to test ‘heat ray’ at US-Mexico border",
-      "snippet": "The Pentagon’s Active Denial System shoots energy beam that causes ‘sensation of intense heat on surface of skin’\nPete Hegseth, the US secretary of defense, reportedly signed a memo last month permitting the Department of Homeland Security ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/heat-ray-mexico-border-dhs",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T15:40:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e0289f1b3e12a011",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Vance hopes home state appeal helps Ohio GOP candidates weather pre-election storm",
-      "snippet": "CINCINNATI — Vice President JD Vance is hoping his native ties to Ohio can help save Republican candidates in the state’s most competitive races. During a three-stop swing through the Buckeye State on Wednesday, which included a surprise, p",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4775639/vance-home-state-appeal-assist-ohio-gop-candidates/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T15:40:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
