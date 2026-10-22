@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-22T00:55:05.530Z",
+  "updatedAt": "2026-10-22T01:00:11.813Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.875Z"
+      "lastSuccess": "2026-10-22T01:00:11.858Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.184Z"
+      "lastSuccess": "2026-10-22T01:00:11.943Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.726Z"
+      "lastSuccess": "2026-10-22T01:00:11.903Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.678Z"
+      "lastSuccess": "2026-10-22T01:00:11.883Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.953Z"
+      "lastSuccess": "2026-10-22T01:00:11.905Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.925Z"
+      "lastSuccess": "2026-10-22T01:00:11.995Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.148Z"
+      "lastSuccess": "2026-10-22T01:00:11.981Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.168Z"
+      "lastSuccess": "2026-10-22T01:00:11.899Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.824Z"
+      "lastSuccess": "2026-10-22T01:00:11.877Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.911Z"
+      "lastSuccess": "2026-10-22T01:00:11.950Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.888Z"
+      "lastSuccess": "2026-10-22T01:00:12.012Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.189Z"
+      "lastSuccess": "2026-10-22T01:00:11.966Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T00:55:06.250Z"
+      "lastErrorAt": "2026-10-22T01:00:11.991Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.257Z"
+      "lastSuccess": "2026-10-22T01:00:12.019Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T00:55:05.891Z"
+      "lastErrorAt": "2026-10-22T01:00:11.988Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.174Z"
+      "lastSuccess": "2026-10-22T01:00:11.990Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.004Z"
+      "lastSuccess": "2026-10-22T01:00:12.042Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.312Z"
+      "lastSuccess": "2026-10-22T01:00:12.135Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.934Z"
+      "lastSuccess": "2026-10-22T01:00:11.987Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.123Z"
+      "lastSuccess": "2026-10-22T01:00:12.128Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:05.860Z"
+      "lastSuccess": "2026-10-22T01:00:11.924Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:06.225Z"
+      "lastSuccess": "2026-10-22T01:00:11.935Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T00:55:08.431Z"
+      "lastSuccess": "2026-10-22T01:00:12.529Z"
     }
   },
   "items": [
+    {
+      "id": "story_6a36471007073ad2",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "On dating apps, men use AI to put their best face forward",
+      "snippet": "How much AI is too much when it comes to finding love on the apps? \"It's very subtle,\" one dating app user said of his AI-enhanced photos.",
+      "link": "https://www.cbsnews.com/news/dating-apps-ai-photos-authenticity/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T00:53:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_af7478de4d143431",
       "source": "CBS News",
@@ -119,6 +132,19 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4774650/democrats-sue-trump-administration-voter-roll-efforts/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T00:50:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d60d6bb85bfcfc3a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "The story behind the bug threatening up to 70% of the internet",
+      "snippet": "Researchers at OpenAI have found a bug that puts up to 70% of the world's websites at risk. Robert McMillan, the reporter who broke the story for the Wall Street Journal, joins CBS News with the details.",
+      "link": "https://www.cbsnews.com/video/story-behind-bug-threatening-up-to-70-percent-internet/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T00:45:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -631,6 +657,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3c9f9c0f8526b049",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Rice rescues Arsenal at Bayern as Real Madrid hit four - Reuters",
+      "snippet": "Rice rescues Arsenal at Bayern as Real Madrid hit four  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb09la3N4TmRueFNxaWtlU1Y4eHMwTWxpU1RPbVVNY2pMQVY3QXYwTFVGNTlqOTVudXhvU1c0UFVhMjVRdHRPQnFMQTFiU1dvUFJaSE9jNVlkMm5SNWU1R1JTRHlITWlBOFlFaVEzYjY3VGNVd09VN1o1UnlkZTN0YzZBbWhFc1I4S3YzdEFnX0I4cElXb2lGRWt0VQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:30:52.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8148e3c3579467bb",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -965,6 +1004,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T23:05:48.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6cf719353529c3e7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Philippines exploring deeper cooperation with Taiwan to protect cables - Reuters",
+      "snippet": "Philippines exploring deeper cooperation with Taiwan to protect cables  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXI3SFRVTXFrMURWSExwd01uY0lFUVZ4M3J2amc4XzE3QVBidmZZOU9qVUFkQ3c3U1RSMG8wOTZ1M1M5Q1RXM0RwUzN5MkpILTEwQ3hjdjlQRU1jWVUyb1JXT3BFdzRWdFdyZzcxLXNoUk5hWDlTY2I3LWRpYkpZUkg1bmJtamZRYnMtdTJvOG5VX21RQ05fRkJCY082Ql90ME1zYllHZ1MyS211WWdDd2l3WFJ0dw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T23:05:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1329,6 +1381,19 @@
       "imageUrl": "https://img.semafor.com/2a2a41f3e5e747a208ba7ded992858f56d82c90d-5000x3333.jpg",
       "publishedAt": "2026-10-21T22:44:59.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6fee0a99ef7b2e9b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view - Reuters",
+      "snippet": "Germany's SAP hits €10 billion quarterly revenue milestone, lifts 2026 view  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWNFNGhkNmNLdmNHYjRIcXJFV0ZjYWFYVHJyMnpvd01tUk10Z3RyZmgtbU44S1JjTHJMRmtSUG9jQ2VNVWRzeDU5S3B0ZURmSnpobkN0b1hPRmhNYjdsRS1mYVZyTE9GUFVpbTFHX0d6TDdMQlJSTkgzeHZ3M2R3djBldW84OWF2OHJUZDMtbUhQRUxKVXFWOUZKbnV4M2dPSElXVmwxd1hxamNEMXhIYVJMVkl1WXZxanUxZXpuMUxzRlVjRFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-21T22:43:37.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2629,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T21:15:36.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b1d4cb9036270843",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Witkoff blasted for calling Putin a \"humanitarian\"",
-      "snippet": "After special envoy Steve Witkoff told Putin he was a \"humanitarian\" for releasing a U.S. citizen deemed to have been wrongfully detained, GOP Sen. John Cornyn responded, \"No. Putin is a stone cold killer.\"",
-      "link": "https://www.cbsnews.com/news/steve-witkoff-putin-humanitarian-backlash/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T21:13:49.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_21c17265ad189a07",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Vance defends Ramaswamy's explosive attack ad in Ohio governor race - Reuters",
-      "snippet": "Vance defends Ramaswamy's explosive attack ad in Ohio governor race  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenZtcmNXNUNYYnl6Q3dpVVktZjhlcVQtWkI4ODhaUHBjTVdKNjBuRTl6Qy1tZ2ZFSVlzV0FlVU1HMmYxLU9La2prbkNUamgzcGk1VV9OTFV4aDRTbUptTDFaN2ZnS2w0SE5qQnk3RUJqaTRPXzlXN1dCcTE1c1NUVnVxUkV5VTJOdkExVy1nQko1MDJheEZCSjhLSmZsc2JQdy0tRVlPeWJJSVNfSk1tOHJqaUZsellUX1JRa0p0VQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T21:11:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a0bc9ba0f6c56b94",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "No further treatment necessary for Pope Leo, Vatican doctors say",
-      "snippet": "Vatican doctors said Wednesday no further treatment is necessary for Pope Leo XIV as he recovers from the removal of a cancerous tumor from his lung.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/21/vatican-no-further-treatment-necessary-Pope-Leo-Vatican-doctors-say/3341792614959/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/3341792614959/2026/upi_com/c499c715c3d2e978334d7ba84f87f24d/v1.5/No-further-treatment-necessary-for-Pope-Leo-Vatican-doctors-say.jpg",
-      "publishedAt": "2026-10-21T21:09:54.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7e91974135cf4843",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Explainer: Who is Stephen Hubbard, the US citizen released by Russia? - Reuters",
-      "snippet": "Explainer: Who is Stephen Hubbard, the US citizen released by Russia?  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFh5SkZ6WDhTdzNGNmFvZV9hd3JLalBDVG1Jd19VenBJMm1WSWRwQ3VHaDNyWll2Tl9qcFFBSlZLcFYtUTI4UXlqclpQLWVnU2tXeG5kdXlDMVBjbmc1dFFNOWlrWmxibmk3UGZOYlRSTkg2cGJRbFVtQ0J2aWc5ZzFTb2MxcnBfU0ROVHlES21VRk8wUXlscXZ3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T21:08:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_abcb4a9e4d38951d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump-allied Colombian president removes art exhibits he deems communist, sparking protests - AP News",
-      "snippet": "Trump-allied Colombian president removes art exhibits he deems communist, sparking protests  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVdUVWE0Z2lVMkVqQ1ludXpEZXhwTXAxVUVhbS1IOU9LNnRnYXltUFFzMGh4aW80U1R1MExVSjMydm52cDZaVDN1a1czWThBaFNqTVlNejJTbWZodnZhd09oV0l1NEdMWEdNdVBVRFhCM0dvQ29hZTBjUzFYSld2MVl0cnUyS0hINVg1NUZWYTh6TDhUcVBmcnhFRUxpNnhXdVc0NUc0QTZYa1lJcF9FVWtPaGQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T21:08:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
