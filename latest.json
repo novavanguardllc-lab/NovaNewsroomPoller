@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T14:45:07.599Z",
+  "updatedAt": "2026-10-22T14:50:08.010Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.881Z"
+      "lastSuccess": "2026-10-22T14:50:08.161Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:08.186Z"
+      "lastSuccess": "2026-10-22T14:50:08.551Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.662Z"
+      "lastSuccess": "2026-10-22T14:50:08.107Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.840Z"
+      "lastSuccess": "2026-10-22T14:50:08.321Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.687Z"
+      "lastSuccess": "2026-10-22T14:50:08.261Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.782Z"
+      "lastSuccess": "2026-10-22T14:50:08.219Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:08.176Z"
+      "lastSuccess": "2026-10-22T14:50:08.519Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.778Z"
+      "lastSuccess": "2026-10-22T14:50:08.188Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.918Z"
+      "lastSuccess": "2026-10-22T14:50:08.280Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.943Z"
+      "lastSuccess": "2026-10-22T14:50:08.481Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.902Z"
+      "lastSuccess": "2026-10-22T14:50:08.431Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.722Z"
+      "lastSuccess": "2026-10-22T14:50:08.240Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.959Z"
+      "lastSuccess": "2026-10-22T14:50:08.300Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T14:45:07.979Z"
+      "lastErrorAt": "2026-10-22T14:50:08.490Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.799Z"
+      "lastSuccess": "2026-10-22T14:50:08.244Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.884Z"
+      "lastSuccess": "2026-10-22T14:50:08.303Z"
     },
     "Wash Examiner": {
-      "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.966Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-22T14:50:18.040Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T14:45:07.962Z"
+      "lastErrorAt": "2026-10-22T14:50:08.482Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.968Z"
+      "lastSuccess": "2026-10-22T14:50:08.439Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:07.741Z"
+      "lastSuccess": "2026-10-22T14:50:08.289Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:08.050Z"
+      "lastSuccess": "2026-10-22T14:50:08.528Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:08.059Z"
+      "lastSuccess": "2026-10-22T14:50:08.559Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T14:45:08.147Z"
+      "lastSuccess": "2026-10-22T14:50:08.422Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e17b61674b6aeda4",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Costs, Iran top voters’ priorities for next Congress: Survey",
+      "snippet": "A majority of respondents to a recent survey want the next Congress to focus on lowering the cost of living and winding down the Iran war. Roughly 80 percent of the 1,119 respondents to the Associated Press (AP)-NORC Center for Public Affai",
+      "link": "https://thehill.com/homenews/campaign/6164973-voters-want-iran-war-end-survey/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/johnsonmike_jeffrieshakeem_041426gn05_w.jpg?w=900",
+      "publishedAt": "2026-10-22T14:46:36.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2681,19 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T11:31:44.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d8a614468d38a80e",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations",
-      "snippet": "French President Emmanuel Macron said on Thursday that “illegitimate” protests would be banned in the coming days and blamed “seditious” ultra-left groups and vandals for last weekend’s riots and looting.",
-      "link": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T11:31:36.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
