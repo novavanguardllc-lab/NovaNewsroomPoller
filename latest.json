@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T13:30:10.476Z",
+  "updatedAt": "2026-10-22T13:35:05.401Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.656Z"
+      "lastSuccess": "2026-10-22T13:35:05.473Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:11.053Z"
+      "lastSuccess": "2026-10-22T13:35:05.496Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.576Z"
+      "lastSuccess": "2026-10-22T13:35:05.454Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.897Z"
+      "lastSuccess": "2026-10-22T13:35:05.557Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.594Z"
+      "lastSuccess": "2026-10-22T13:35:05.475Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.695Z"
+      "lastSuccess": "2026-10-22T13:35:05.552Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.555Z"
+      "lastSuccess": "2026-10-22T13:35:05.916Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.795Z"
+      "lastSuccess": "2026-10-22T13:35:05.600Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.816Z"
+      "lastSuccess": "2026-10-22T13:35:05.534Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.937Z"
+      "lastSuccess": "2026-10-22T13:35:05.650Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.952Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-22T13:35:15.416Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.874Z"
+      "lastSuccess": "2026-10-22T13:35:05.613Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.878Z"
+      "lastSuccess": "2026-10-22T13:35:05.660Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T13:30:10.959Z"
+      "lastErrorAt": "2026-10-22T13:35:05.690Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.876Z"
+      "lastSuccess": "2026-10-22T13:35:05.617Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.854Z"
+      "lastSuccess": "2026-10-22T13:35:05.675Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:15.541Z"
+      "lastSuccess": "2026-10-22T13:35:05.671Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T13:30:10.956Z"
+      "lastErrorAt": "2026-10-22T13:35:05.656Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.970Z"
+      "lastSuccess": "2026-10-22T13:35:05.693Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:10.911Z"
+      "lastSuccess": "2026-10-22T13:35:05.654Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:11.075Z"
+      "lastSuccess": "2026-10-22T13:35:05.778Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:11.138Z"
+      "lastSuccess": "2026-10-22T13:35:05.715Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T13:30:11.020Z"
+      "lastSuccess": "2026-10-22T13:35:05.759Z"
     }
   },
   "items": [
@@ -107,6 +108,58 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4f4430fed01d80b3",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Omar addresses rumors she’s related to her ex-husband: ‘Not to my knowledge’",
+      "snippet": "Rep. Ilhan Omar (D-MN) waved off rumors that she married her brother, replying, “Not to my knowledge,” when asked if she was related to her ex-husband. Omar married Ahmed Nur Said Elmi in 2009, and they divorced in 2017. The rumor that he w",
+      "link": "https://www.washingtonexaminer.com/news/justice/4775398/omar-addresses-rumors-related-ex-husband-not-to-my-knowledge/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T13:33:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5e4c7c96796e50c9",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Has Congress traded our kids for Big Tech?",
+      "snippet": "Our government, rather than acting appropriately, continues to cozy up to Big Tech.",
+      "link": "https://thehill.com/opinion/congress-blog/technology/6163458-congress-fails-kosa-online-safety/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/bogard_joann_mason_kosa_internet_safety_07312024_AP24031779574899-2.jpg?w=900",
+      "publishedAt": "2026-10-22T13:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_adf90955a478af58",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Texas congressman says he and family are safe after threat",
+      "snippet": "Rep. Keith Self (R-Texas) on Wednesday said he and his family are safe in the wake of an assassination threat from a 17-year-old. “I am grateful to the FBI and law enforcement for stopping this threat. My family and I are safe, and I remain",
+      "link": "https://thehill.com/homenews/house/6164861-rep-keith-self-assassination-threat/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/selfkeith_061026gn01_w.jpg?w=900",
+      "publishedAt": "2026-10-22T13:29:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ebe0fc59cf46ea73",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "2 killed in attack on airport in Dammam, Saudi Arabia",
+      "snippet": "At least two people were killed in an attack on an airport in eastern Saudi Arabia, and it's unclear who initiated the attack.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/22/saudi-arabia-attack-dammam-airport-kills-2/1861792675160/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/1861792675160/2026/upi_com/7401a1468391392245537f8eaa125621/v1.5/2-killed-in-attack-on-airport-in-Dammam-Saudi-Arabia.jpg",
+      "publishedAt": "2026-10-22T13:29:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -132,6 +185,32 @@
       "link": "https://www.semafor.com/article/10/22/2026/abu-dhabi-lures-eli-lilly-oura-and-whoop-in-healthcare-push",
       "imageUrl": "https://img.semafor.com/6ab208c2cedd76f1b8606171eeeb4afbecbfa9dd-2048x1365.jpg",
       "publishedAt": "2026-10-22T13:27:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8c8592ae10bbaddb",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Talarico challenges ‘Low T’ Paxton to debate",
+      "snippet": "Texas Democratic Senate candidate James Talarico challenged his opponent, Texas Attorney General Ken Paxton (R), to a debate hosted by TMZ, renewing his calls for the Republican to face him ahead of the November election. In an interview wi",
+      "link": "https://thehill.com/homenews/campaign/6164937-talarico-challenges-paxton-debate/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Ken-Paxton-James-Talarico-June-30_9bdd93.png?w=900",
+      "publishedAt": "2026-10-22T13:27:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e3d032304eb3fa76",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump rallies for Darline Graham as his approval numbers droop",
+      "snippet": "President Trump continues his campaign stops in support of Republican candidates across the U.S. CBS News' Weijia Jiang has this and other stories.",
+      "link": "https://www.cbsnews.com/video/trump-rallies-for-darline-graham-as-his-approval-numbers-droop/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T13:26:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1658,6 +1737,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c1ccccdf703cbcac",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Comcast broadband losses deepen as competition pressure core business - Reuters",
+      "snippet": "Comcast broadband losses deepen as competition pressure core business  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjJ2dV85cGc3bEF1UU1idGVnc1NnTC1tcUsyY3dnSkNXT3dEbFpURzVHS2N4c2gwcmpqWjVYTktNdUJKM3NvbjNJbHQtclg4QllDNDVrOXJJZUpJVWdiNnZnZDJ4dXBNRVZjamJ6MDltMXh0VlZTX0RJeXhuRTdUa0tHaVRobHpRbWMxQjY3bEx5SmF3cEFRSENMY0tseGw3OFB1alMzRUlwQlYwOW1TdDNoMmFWSmxYOEwtNlNwclVCdUU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:11:23.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_37b61fd13ffd89cd",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -2601,97 +2693,6 @@
       "snippet": "Socialists have made clear that their animus toward mainstream politics extends beyond Republicans toward mainstream Democrats. DSA candidates such as New York’s Darializa Avila Chevalier, who successfully primaried incumbent Rep. Adriano E",
       "link": "https://www.washingtonexaminer.com/restoring-america/equality-not-elitism/4774816/dsa-repeating-new-left-mistakes/",
       "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f214dc1ce99d9f91",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Le Pen ally blames ‘traditional right-wing’ for riots because they helped Macron undermine ‘sovereign power’ in France",
-      "snippet": "President Emmanuel Macron has been the primary target of scorn following nationwide riots that overtook Paris and other cities, but the insurgent National Rally does not want to let mainstream conservatives off the hook. Macron has dismisse",
-      "link": "https://www.washingtonexaminer.com/news/world/4774083/le-pen-ally-blames-traditional-right-wing-riots-macron-undermine-sovereign-power-france/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0eae8581c3d34066",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Tracking Trump’s midterm campaign pledges",
-      "snippet": "President Donald Trump has just under two weeks to help Republicans hold on to their congressional majorities, and he is building a growing list of investment announcements and promises to voters in hopes of boosting GOP turnout in the 2026",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/4773638/tracking-trump-midterm-campaign-pledges/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d51c0178ad78482f",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "It’s the economy, stupid: Why France will keep burning",
-      "snippet": "The violent chaos rippling through France will become the Fifth Republic’s new norm. While greater police enforcement and public anger will eventually quell these riots, greater disorder awaits. Street riots are ingrained in French politica",
-      "link": "https://www.washingtonexaminer.com/in_focus/4770193/why-france-will-keep-burning/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_69f909eda5e2387e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump, Republicans spend big in midterm home stretch",
-      "snippet": "Republicans are banking on last minute injections of cash to boost the party’s most vulnerable candidates less than two weeks out from Election Day.   President Trump announced on Tuesday that his political operation will spend over $400 mi",
-      "link": "https://thehill.com/homenews/campaign/6164073-gop-last-minute-cash-injection-midterms/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Banking_Manchester-Mueller_AP_AllenGBreed.jpg?w=900",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_873c74d7390548ec",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Talarico, Paxton in dead heat for Texas Senate, Abbott leads governor’s race: Poll ",
-      "snippet": "Democrat James Talarico and Republican Ken Paxton are in a dead heat for the Senate in Texas, according to new polling of one of the cycle’s most closely watched contests.  Talarico notched 48 percent to Paxton’s 46 percent in new numbers f",
-      "link": "https://thehill.com/homenews/6163841-emerson-polling-texas-senate-race/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/talarico-paxton-e1787699800335.png?w=900",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5fac8e5b3755acd",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Khanna to introduce bill that would establish Truth and Accountability Commission",
-      "snippet": "Rep. Ro Khanna (D-Calif.) is introducing legislation that would create the first-ever Truth and Accountability Commission to investigate what he calls abuses of power by the Trump administration. The bill, first shared with The Hill, notes ",
-      "link": "https://thehill.com/homenews/house/6164156-khanna-introduces-truth-accountability-commission/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/02/khannaro_020926gn01_w.jpg?w=900",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4e44d495af10b54f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "El-Sayed’s alleged ties to Muslim Brotherhood shake up Michigan Senate race",
-      "snippet": "Senate Republicans are making a last-ditch effort to save former Rep. Mike Rogers (R-Mich.) in the Michigan Senate race by pouring money and effort into highlighting what they say are significant ties between Democratic candidate Abdul El-S",
-      "link": "https://thehill.com/homenews/campaign/6164202-abdul-el-sayed-michigan-senate-republican-attacks/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/El-Sayed_Bolton_AP_PaulSancya.jpg?w=900",
       "publishedAt": "2026-10-22T10:00:00.000Z",
       "tier": "routine",
       "topic": "news",
