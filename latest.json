@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-22T08:25:06.057Z",
+  "updatedAt": "2026-10-22T08:30:09.768Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.318Z"
+      "lastSuccess": "2026-10-22T08:30:09.986Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.467Z"
+      "lastSuccess": "2026-10-22T08:30:10.072Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.223Z"
+      "lastSuccess": "2026-10-22T08:30:09.941Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.238Z"
+      "lastSuccess": "2026-10-22T08:30:09.923Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.612Z"
+      "lastSuccess": "2026-10-22T08:30:09.904Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.539Z"
+      "lastSuccess": "2026-10-22T08:30:10.075Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.588Z"
+      "lastSuccess": "2026-10-22T08:30:09.969Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.488Z"
+      "lastSuccess": "2026-10-22T08:30:10.020Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.357Z"
+      "lastSuccess": "2026-10-22T08:30:09.897Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.526Z"
+      "lastSuccess": "2026-10-22T08:30:10.076Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.666Z"
+      "lastSuccess": "2026-10-22T08:30:10.118Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.607Z"
+      "lastSuccess": "2026-10-22T08:30:10.102Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T08:25:06.866Z"
+      "lastErrorAt": "2026-10-22T08:30:10.127Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.744Z"
+      "lastSuccess": "2026-10-22T08:30:10.126Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T08:25:06.608Z"
+      "lastErrorAt": "2026-10-22T08:30:10.128Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.604Z"
+      "lastSuccess": "2026-10-22T08:30:10.078Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.445Z"
+      "lastSuccess": "2026-10-22T08:30:10.068Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.893Z"
+      "lastSuccess": "2026-10-22T08:30:10.191Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.602Z"
+      "lastSuccess": "2026-10-22T08:30:10.085Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.858Z"
+      "lastSuccess": "2026-10-22T08:30:10.240Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.720Z"
+      "lastSuccess": "2026-10-22T08:30:10.184Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:06.638Z"
+      "lastSuccess": "2026-10-22T08:30:10.265Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T08:25:08.693Z"
+      "lastSuccess": "2026-10-22T08:30:10.162Z"
     }
   },
   "items": [
+    {
+      "id": "story_4febfa9c0ba57539",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Two European women held captive for more than a year in Niger freed in Libya ",
+      "snippet": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T08:21:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d736b8ed4f27b305",
       "source": "DW",
@@ -119,6 +132,19 @@
       "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T08:15:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_546c219a4ba29bc2",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Europe's wave of anger: How far will youth-led protests go?",
+      "snippet": "Youth-driven protests have been popping up all over Europe: in Belgium, Italy, Spain, Portugal, Albania, Serbia and Greece. The spark here in France was deteriorating conditions in high schools and universities, particularly for students fr",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261022-europe-s-wave-of-anger-how-far-will-youth-led-protests-go",
+      "imageUrl": "https://s.france24.com/media/display/edc35490-cdee-11f1-83f4-19980254bb31/w:1024/p:16x9/capture-1a79c571.jpg",
+      "publishedAt": "2026-10-22T08:12:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-21T23:56:52.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d3e454061339a528",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Why \"dump dinners\" are going viral for solving some of the mess of family dinners",
-      "snippet": "Two Arizona parents found a creative way to avoid the dishes and complaints from their kids. Tony Dokoupil has the story.",
-      "link": "https://www.cbsnews.com/video/why-dump-dinners-going-viral-solving-mess-family-dinners/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T23:55:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c2e5c58ad3c0d1a5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "How \"Grey's Anatomy\" helped a quick-thinking hero halt a runaway school bus",
-      "snippet": "A quick-thinking hero helped save everyone aboard a runaway Minnesota school bus when the driver experienced a medical emergency. Jonah Kaplan has the story.",
-      "link": "https://www.cbsnews.com/video/greys-anatomy-helped-quick-thinking-hero-halt-runaway-school-bus/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T23:52:57.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
