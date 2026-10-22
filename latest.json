@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T10:35:05.109Z",
+  "updatedAt": "2026-10-22T10:40:07.645Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.231Z"
+      "lastSuccess": "2026-10-22T10:40:08.002Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.385Z"
+      "lastSuccess": "2026-10-22T10:40:08.191Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.421Z"
+      "lastSuccess": "2026-10-22T10:40:07.812Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.251Z"
+      "lastSuccess": "2026-10-22T10:40:07.828Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.369Z"
+      "lastSuccess": "2026-10-22T10:40:07.905Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.414Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-22T10:40:08.104Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.484Z"
+      "lastSuccess": "2026-10-22T10:40:08.102Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.410Z"
+      "lastSuccess": "2026-10-22T10:40:08.148Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.317Z"
+      "lastSuccess": "2026-10-22T10:40:08.029Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.365Z"
+      "lastSuccess": "2026-10-22T10:40:07.848Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.435Z"
+      "lastSuccess": "2026-10-22T10:40:08.241Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.390Z"
+      "lastSuccess": "2026-10-22T10:40:08.323Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T10:35:05.565Z"
+      "lastErrorAt": "2026-10-22T10:40:08.341Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.576Z"
+      "lastSuccess": "2026-10-22T10:40:08.350Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T10:35:05.412Z"
+      "lastErrorAt": "2026-10-22T10:40:08.121Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.417Z"
+      "lastSuccess": "2026-10-22T10:40:07.865Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.459Z"
+      "lastSuccess": "2026-10-22T10:40:08.306Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.620Z"
+      "lastSuccess": "2026-10-22T10:40:08.415Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.426Z"
+      "lastSuccess": "2026-10-22T10:40:07.892Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.563Z"
+      "lastSuccess": "2026-10-22T10:40:08.565Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.331Z"
+      "lastSuccess": "2026-10-22T10:40:08.066Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:05.584Z"
+      "lastSuccess": "2026-10-22T10:40:08.080Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T10:35:07.738Z"
+      "lastSuccess": "2026-10-22T10:40:10.365Z"
     }
   },
   "items": [
@@ -847,6 +848,19 @@
       "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
       "imageUrl": null,
       "publishedAt": "2026-10-22T09:03:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9cc3361b9143502f",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
+      "snippet": "A coaster dares riders to be daring, with steep drops, high speeds and improbably tight curves. But safety has become a concern again after a man was thrown from his seat and died in Georgia.",
+      "link": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T09:03:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2683,19 +2697,6 @@
       "tier": "major",
       "topic": "sports",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_5eeb84821ee08c79",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Cloudflare sees millions of exploit attempts after PHP disclosure - Reuters",
-      "snippet": "Cloudflare sees millions of exploit attempts after PHP disclosure  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T04:08:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
