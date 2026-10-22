@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T11:15:07.777Z",
+  "updatedAt": "2026-10-22T11:20:07.699Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.990Z"
+      "lastSuccess": "2026-10-22T11:20:07.821Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.909Z"
+      "lastSuccess": "2026-10-22T11:20:07.989Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.941Z"
+      "lastSuccess": "2026-10-22T11:20:07.969Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.902Z"
+      "lastSuccess": "2026-10-22T11:20:07.827Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.969Z"
+      "lastSuccess": "2026-10-22T11:20:07.961Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.128Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-22T11:20:07.888Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.088Z"
+      "lastSuccess": "2026-10-22T11:20:07.884Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.015Z"
+      "lastSuccess": "2026-10-22T11:20:08.049Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.887Z"
+      "lastSuccess": "2026-10-22T11:20:07.924Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.109Z"
+      "lastSuccess": "2026-10-22T11:20:08.027Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.173Z"
+      "lastSuccess": "2026-10-22T11:20:08.123Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.103Z"
+      "lastSuccess": "2026-10-22T11:20:08.092Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T11:15:08.117Z"
+      "lastErrorAt": "2026-10-22T11:20:08.103Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.124Z"
+      "lastSuccess": "2026-10-22T11:20:08.103Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T11:15:08.118Z"
+      "lastErrorAt": "2026-10-22T11:20:08.132Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.099Z"
+      "lastSuccess": "2026-10-22T11:20:07.949Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.067Z"
+      "lastSuccess": "2026-10-22T11:20:08.082Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.240Z"
+      "lastSuccess": "2026-10-22T11:20:08.153Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.150Z"
+      "lastSuccess": "2026-10-22T11:20:08.139Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.229Z"
+      "lastSuccess": "2026-10-22T11:20:08.340Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.255Z"
+      "lastSuccess": "2026-10-22T11:20:08.167Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:07.963Z"
+      "lastSuccess": "2026-10-22T11:20:07.944Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T11:15:08.401Z"
+      "lastSuccess": "2026-10-22T11:20:10.165Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_37b61fd13ffd89cd",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "snippet": "For weeks, the Iran-backed Houthis have been attacking the kingdom’s aviation and energy sectors.",
+      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T11:10:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -523,6 +537,19 @@
       "imageUrl": "https://s.france24.com/media/display/bbc18672-c7b5-11f1-a05b-29a2e29ae696/w:1024/p:16x9/EN-NW-PKG-CLEAN-TETE-A-TETE-Lobsang-Sangay-AUBIN-Sophian.jpg",
       "publishedAt": "2026-10-22T10:22:48.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fcbf2b58c6b0f25a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets - Reuters",
+      "snippet": "Lockheed, Pentagon strike initial deal to produce 850 F-35 jets  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmd0c3E0Z2JLUUZURFlSOU44dmwyTnBGX3pyR0FSOURqdEVudEVPUXpMYW5QSC1EQW95ZGJQVlpzdDltNGNpQ2NSR2x1RWNfazJKLVZ1UkVXblpWM3RrVEFxWE1pUVY3WDdtWXZxNzhaOVhkaTBKZW9RQ0daMDRDcHNCaEJvQUFrM2pScmxyWDNPN3hkc0pjQjI2cFFKcXk1YU81Y215UDVYMUdlWW11VjNhRENlR0pnQzRUSkR3dw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T10:22:22.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2668,32 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T06:04:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f3cf90883d47586d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India's Mideast oil imports return to pre-war levels in September - Reuters",
-      "snippet": "India's Mideast oil imports return to pre-war levels in September  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T06:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7b446325ea667f91",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
-      "snippet": "'I have not given my own position any thought', Carrick said after United's 4-1 loss to Como in the Champions League.",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T06:01:48.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
