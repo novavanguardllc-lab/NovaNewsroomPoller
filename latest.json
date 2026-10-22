@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-22T15:10:08.349Z",
+  "updatedAt": "2026-10-22T15:15:07.265Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.589Z"
+      "lastSuccess": "2026-10-22T15:15:07.390Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.996Z"
+      "lastSuccess": "2026-10-22T15:15:07.775Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.512Z"
+      "lastSuccess": "2026-10-22T15:15:07.429Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.794Z"
+      "lastSuccess": "2026-10-22T15:15:07.532Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.615Z"
+      "lastSuccess": "2026-10-22T15:15:07.491Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.530Z"
+      "lastSuccess": "2026-10-22T15:15:07.450Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.638Z"
+      "lastSuccess": "2026-10-22T15:15:07.767Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.663Z"
+      "lastSuccess": "2026-10-22T15:15:07.417Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.853Z"
+      "lastSuccess": "2026-10-22T15:15:07.563Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.789Z"
+      "lastSuccess": "2026-10-22T15:15:07.626Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.831Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-22T15:15:17.275Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.911Z"
+      "lastSuccess": "2026-10-22T15:15:07.485Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.952Z"
+      "lastSuccess": "2026-10-22T15:15:07.551Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T15:10:09.017Z"
+      "lastErrorAt": "2026-10-22T15:15:07.631Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.674Z"
+      "lastSuccess": "2026-10-22T15:15:07.510Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.668Z"
+      "lastSuccess": "2026-10-22T15:15:07.496Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.970Z"
+      "lastSuccess": "2026-10-22T15:15:11.743Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T15:10:08.909Z"
+      "lastErrorAt": "2026-10-22T15:15:07.569Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:09.015Z"
+      "lastSuccess": "2026-10-22T15:15:07.636Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:08.938Z"
+      "lastSuccess": "2026-10-22T15:15:07.523Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:11.537Z"
+      "lastSuccess": "2026-10-22T15:15:07.737Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:09.034Z"
+      "lastSuccess": "2026-10-22T15:15:07.692Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:10:09.117Z"
+      "lastSuccess": "2026-10-22T15:15:07.682Z"
     }
   },
   "items": [
@@ -106,6 +107,97 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_240dce93860b2ef3",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Mike DeWine pushes Vivek Ramaswamy to take down ad featuring Amy Acton’s mother",
+      "snippet": "Gov. Mike DeWine (R-OH) is urging Republican gubernatorial nominee Vivek Ramaswamy to pull an advertisement featuring the estranged mother of his Democratic opponent, Amy Acton. DeWine, who is term-limited and cannot seek reelection, has ba",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/state/4775716/mike-dewine-vivek-ramaswamy-take-down-amy-acton-mother-ad/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:13:36.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_0c7386bb2fd14cfc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Alleged sham marriage 'mastermind' caught on video saying sanctuary state is 'best place' for illegals",
+      "snippet": "Video captures Jennifer Gonzalez explaining her alleged $6 million sham marriage scheme pairing U.S. citizens with illegal immigrants in Massachusetts.",
+      "link": "https://www.foxnews.com/us/alleged-sham-marriage-mastermind-caught-video-saying-sanctuary-state-best-place-illegals",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:13:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_df2884f44e83b1ec",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Musk warns Democrats over possible congressional probes",
+      "snippet": "SpaceX founder Elon Musk warned Democrats over a possible congressional probe on Wednesday, writing “live by the sword, die by the sword.” “Those who pick fights with me should understand that I will find out who is really pulling the strin",
+      "link": "https://thehill.com/policy/technology/6165520-doge-starlink-ukraine-controversy/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26281641070035-e1792417936932.jpg?w=900",
+      "publishedAt": "2026-10-22T15:12:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b2c832183aa08d95",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Sabato’s Crystal Ball moves Ohio governor race toward Acton after Ramaswamy attack ad",
+      "snippet": "Election forecaster Sabato’s Crystal Ball moved its ratings of Ohio’s gubernatorial race toward Democratic nominee Amy Acton (D), following a controversial campaign ad launched by her opponent Vivek Ramaswamy (R). Previously, Crystal Ball r",
+      "link": "https://thehill.com/homenews/campaign/6165230-ramaswamy-ad-acton-backlash/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/OH_Vivek-Ramaswamy_Amy-Acton.png?w=900",
+      "publishedAt": "2026-10-22T15:11:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a156d068dcaf4fb4",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "What to know about the PHP bug affecting 70% of world's websites",
+      "snippet": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
+      "link": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:11:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d2efae3574e2b59c",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
+      "snippet": "U.S. equity markets sold off sharply as fears that Israel and the U.S. would attack Iran sent oil prices higher, while stocks failed to hold onto recent gains.",
+      "link": "https://www.nbcnews.com/business/markets/iran-war-ai-spending-oil-prices-selloff-rcna604994",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:09:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_afb82d37ddf9dae9",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
+      "snippet": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court\nOffenders who refuse to face their victims’ families in court for sentencing could be stripped of privi",
+      "link": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:07:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +216,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c5548c0cafe92170",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Shamonda virus detected in human for first time in France",
+      "snippet": "Investigations under way to determine whether virus normally found in livestock contributed to man’s death\nA man in France has become the first human known to have contracted Shamonda virus, with investigations under way to explore whether ",
+      "link": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:07:01.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_5ef76f37c482eeea",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Pete Hegseth’s staff break priceless historic globe he requested for office",
+      "snippet": "Hegseth’s aides, who attempted to move 30in fragile globe themselves, dropped it during relocation, army officials say\nA priceless pre-second world war globe coveted by the US defence secretary Pete Hegseth for his office in the Pentagon wa",
+      "link": "https://www.theguardian.com/us-news/2026/oct/22/pete-hegseth-eisenhower-globe-pentagon-office-broken",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:04:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_38a4d63503de905b",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -132,6 +250,19 @@
       "link": "https://thehill.com/opinion/campaign/6163225-millennials-gen-z-congress-turnover/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26182174640323-e1782900659996.jpg?w=900",
       "publishedAt": "2026-10-22T15:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_db083c2243100fd3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Exclusive discounts from CBS Mornings Deals",
+      "snippet": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
+      "link": "https://www.cbsnews.com/video/cbs-mornings-deals-10/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T14:59:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -288,6 +419,19 @@
       "link": "https://thehill.com/homenews/campaign/6164973-voters-want-iran-war-end-survey/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/johnsonmike_jeffrieshakeem_041426gn05_w.jpg?w=900",
       "publishedAt": "2026-10-22T14:46:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_20b992e3f35b48be",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Crest Whitestrips are 24% off today, beating their Prime Day price",
+      "snippet": "Our favorite at-home teeth whitening strips just dropped to their lowest price since summer. Here’s why Crest 3D Whitestrips are a staff and dentist favorite.",
+      "link": "https://www.nbcnews.com/select/shopping/crest-3d-whitestrips-deal-of-the-day-rcna604976",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T14:45:31.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1173,6 +1317,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T13:53:32.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_42c64ebb9586b413",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Movie Review: In ‘Fatherland,’ Paweł Pawlikowski’s austere portrait of a fractured Germany - AP News",
+      "snippet": "Movie Review: In ‘Fatherland,’ Paweł Pawlikowski’s austere portrait of a fractured Germany  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORThTLTFDVnFuWExjbncwVXNRZEpVMTZwVVJpUmtIb01oVWJXRl9TTGVxVF9TWlA3X0dpQVFDM3c5U1BzT2NYN1p2akpzWDRvdVdMMjY5RXNtYTNpbzNDa3RxREJnX0YweTYtanZ2bTI5b3ZQWGFlaEhYWlNjTnJCWjdScVFTMjhSVGhV?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T13:52:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2537,162 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG9VN0VTWFlWWXk3c0JiRW5VVzRTUmVRUUtxb04ySFBsVlo3Zk5xYUZ2TFA4MU82dFlyNE9qZTh3WUo3MnZFby1qcW9jc2dWNGhxOUliTFpCa28zQmV3ckhBVUZpTDk3aFlLTHA0bGNGRzQxS251NmdmcmFSMGFOa3YzY29nUWpsUWUyVGNqQ2QzSVZPYXc1WEgzY2VyS0o4WGhWNmJ2VGZnR3ViMWRXUEg0VmM5aUZoR1E?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-22T12:03:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_035c717b90a78a96",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity - AP News",
-      "snippet": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDhvR2ZULUl5RXRHSXF1YWFWWC1SY2pHNURnak9wdF9sVUkxakMxX0JNYlY4Q3kyZmVzcktoRVlTRTlnODJSdkRWNVRDTEZTTkVadlpETEpqekNMaUFhdXdXcEltUW9EZTM5bmFUVl9fODI4d0Nubi0yQTQ3QnBYYkkxWVZXMnczb05oc1BGdXJ5Tk5GVDZjOQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1928454a3088c1df",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
-      "snippet": "French government will show ‘absolute’ determination to stop the riots, Macron says\nAs we are waiting for Macron, first details of the planned police response to this weekend’s protests are emerging.\nJunior interior minister, Jean-Didier Be",
-      "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:02:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92e8475a864c3f67",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Iran: 7 ships hit in the Strait of Hormuz",
-      "snippet": "Iran said on Thursday its navy hit seven oil tankers traveling through the Strait of Hormuz, threatening to exacerbate regional tensions and the global energy crisis that is driving inflation. The Iranian Revolutionary Guard Corps’s (IRGC) ",
-      "link": "https://thehill.com/policy/defense/6164731-iran-navy-hits-oil-tankers/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26249358420773-e1788954964573.jpg?w=900",
-      "publishedAt": "2026-10-22T12:01:51.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_c81375f81047f807",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Americans could be detained for years in popular travel destination, officials warn",
-      "snippet": "Americans are being warned by the State Department that they could face wrongful detention and exit bans in China, with some travelers trapped for years without recourse.",
-      "link": "https://www.foxnews.com/travel/americans-could-detained-years-popular-travel-destination",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:00:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b50fd793e3d976ba",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Texas mom charged with manslaughter after allegedly driving 82 mph in crash that killed 2 recent college grads",
-      "snippet": "Aldrea Rogers was allegedly driving 82 mph in a 35 mph zone when she crashed into a car carrying two Southern Methodist University graduates.",
-      "link": "https://www.foxnews.com/us/texas-mom-charged-manslaughter-allegedly-driving-82-mph-crash-killed-2-recent-college-grads",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:00:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ee66c3d71823eeee",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
-      "snippet": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’\n\nSign up for climate and environment editor Adam Morton’s free Clear Air newsletter here\n\nAlmos",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:00:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9de23a2a1252c2a1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Chris Pratt says his faith will be 'the most important thing' that he passes on to his kids",
-      "snippet": "Chris Pratt reveals how Christian faith shapes his fatherhood with four kids as he and Constance Wu discuss \"Terminal List\" season 2 on Prime Video.",
-      "link": "https://www.foxnews.com/entertainment/chris-pratt-says-his-faith-the-most-important-thing-he-passes-his-kids",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:00:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_17d63d7efe659224",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims.",
-      "snippet": "The post Nuclear Weapons Waste Made Workers Sick. Despite a Law Meant to Help, the DOE Keeps Fighting Their Claims. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/hanford-nuclear-workers-compensation-washington-doe",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/20261013-Albaugh-Hanford-Nuclear-Workers-Comp-261013-0105_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?w=1149",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c2c771e411a901b7",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Copenhagen’s hostage, NATO’s hole: Why Trump must cut the Faroe Islands free",
-      "snippet": "When American engineers established the Faroe Islands LORAN-C master station in March 1960, they anchored a vital North Atlantic navigation chain that the Pentagon deemed essential for Polaris submarine ballistic missile accuracy. Today, th",
-      "link": "https://www.washingtonexaminer.com/op-eds/4769651/faroe-islands-giuk-gap-us-subsidy/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d17b9dda48df478b",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Don’t let Elissa Slotkin scare new grads out of public service ",
-      "snippet": "One can only wonder why Slotkin deems it a good idea to break from the bipartisan path and discourage capable young graduates from staffing the government.",
-      "link": "https://thehill.com/opinion/congress-blog/6163855-slotkin-warns-off-recruits-trump/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2296772142.jpg?w=900",
-      "publishedAt": "2026-10-22T12:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_66aa1a29249584fd",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war - AP News",
-      "snippet": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T11:59:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_c2211bab011e4550",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says - Reuters",
-      "snippet": "Russia-linked hackers used decentralised network in Ukraine cyberattack, ESET says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRFlSa1BjRUNIMDhxY21GWElwRXJfQ3NCdGRtMzQ2SUFyRmJwdkRfVjdWRjVLTndOZXk4SERVNzE0T3VGY0tBMUZoWUFIeEo5NjhQYjBwMzFHRnROTjlTelNydjN6d3ZTWFRqZUlIenE3YnYwcmtmZmZxdnItTDNJNTNTM3ZvTXNfNG1UTmc2Z3FpNW4wSDRwWlNsMFl3RzZqYnpSX1dITUJqeG9QTWI0bG1Wc2kwamJmaHMtZjhWbXl2NzlLZ3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T11:58:54.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
