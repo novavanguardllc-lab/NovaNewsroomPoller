@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-22T15:15:07.265Z",
+  "updatedAt": "2026-10-22T15:20:07.307Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.390Z"
+      "lastSuccess": "2026-10-22T15:20:07.447Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.775Z"
+      "lastSuccess": "2026-10-22T15:20:07.834Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.429Z"
+      "lastSuccess": "2026-10-22T15:20:07.495Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.532Z"
+      "lastSuccess": "2026-10-22T15:20:07.517Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.491Z"
+      "lastSuccess": "2026-10-22T15:20:07.498Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.450Z"
+      "lastSuccess": "2026-10-22T15:20:07.512Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.767Z"
+      "lastSuccess": "2026-10-22T15:20:07.468Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.417Z"
+      "lastSuccess": "2026-10-22T15:20:07.489Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.563Z"
+      "lastSuccess": "2026-10-22T15:20:07.610Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.626Z"
+      "lastSuccess": "2026-10-22T15:20:07.694Z"
     },
     "DW": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-22T15:15:17.275Z"
+      "online": true,
+      "lastSuccess": "2026-10-22T15:20:07.573Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.485Z"
+      "lastSuccess": "2026-10-22T15:20:07.653Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.551Z"
+      "lastSuccess": "2026-10-22T15:20:07.704Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T15:15:07.631Z"
+      "lastErrorAt": "2026-10-22T15:20:07.714Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.510Z"
+      "lastSuccess": "2026-10-22T15:20:07.701Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.496Z"
+      "lastSuccess": "2026-10-22T15:20:07.650Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:11.743Z"
+      "lastSuccess": "2026-10-22T15:20:09.596Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T15:15:07.569Z"
+      "lastErrorAt": "2026-10-22T15:20:07.672Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.636Z"
+      "lastSuccess": "2026-10-22T15:20:07.726Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.523Z"
+      "lastSuccess": "2026-10-22T15:20:07.698Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.737Z"
+      "lastSuccess": "2026-10-22T15:20:10.008Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.692Z"
+      "lastSuccess": "2026-10-22T15:20:07.840Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T15:15:07.682Z"
+      "lastSuccess": "2026-10-22T15:20:07.814Z"
     }
   },
   "items": [
@@ -107,6 +106,58 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_90fa203e39aaaf44",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Severe storms batter southwest U.S.",
+      "snippet": "Severe storms are battering the southwestern U.S. with powerful winds and hail. Carter Evans and Kris Van Cleave report.",
+      "link": "https://www.cbsnews.com/video/severe-storms-batter-southwest-u-s/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:17:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ac575b9b42d39983",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Feds seek suspect in attempted firebomb attack on ICE facility",
+      "snippet": "Officials released a photo and details on Thursday about a suspected arson attempt on an Atlanta immigration facility in the latest of several such incidents this year. A man threw a bottle that served as “an improvised incendiary device” a",
+      "link": "https://www.washingtonexaminer.com/news/crime/4775508/feds-seek-suspect-in-attempted-firebomb-attack-on-atlanta-ice-facility/",
+      "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png",
+      "publishedAt": "2026-10-22T15:16:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_19caec9095707463",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Washington foster parents score legal victory after state demanded they use children's preferred pronouns",
+      "snippet": "Shane and Jennifer DeGross fought Washington state's foster care gender identity policies after the requirements clashed with their Christian faith.",
+      "link": "https://www.foxnews.com/media/washington-foster-parents-score-legal-victory-state-demanded-use-childrens-preferred-pronouns",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:14:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_061d6968d6e48404",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "'The Terminal List' season two features new Kip Moore track inspired by special operations world",
+      "snippet": "Kip Moore revealed how a Central America surf trip and a scribbled note about two wolves inspired \"The Wolf\" for \"The Terminal List\" season two.",
+      "link": "https://www.foxnews.com/outkick-culture/terminal-list-season-two-features-new-kip-moore-track-inspired-special-operations-world",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:13:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -131,6 +182,19 @@
       "headline": "Alleged sham marriage 'mastermind' caught on video saying sanctuary state is 'best place' for illegals",
       "snippet": "Video captures Jennifer Gonzalez explaining her alleged $6 million sham marriage scheme pairing U.S. citizens with illegal immigrants in Massachusetts.",
       "link": "https://www.foxnews.com/us/alleged-sham-marriage-mastermind-caught-video-saying-sanctuary-state-best-place-illegals",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:13:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4949fc420d27b809",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "From the streets to the ballot box: Serbia’s students hope for election win",
+      "snippet": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T15:13:34.000Z",
       "tier": "routine",
@@ -190,6 +254,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a120e34903762ce1",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Fatal Custody",
+      "snippet": "Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.",
+      "link": "https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:08:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0756e0247e896544",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Rising costs and tight budgets strain Americans ahead of midterm elections",
+      "snippet": "Rising costs leave US workers juggling multiple jobs as financial security becomes increasingly elusive.",
+      "link": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:07:38.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_afb82d37ddf9dae9",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -237,6 +327,19 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/22/pete-hegseth-eisenhower-globe-pentagon-office-broken",
       "imageUrl": null,
       "publishedAt": "2026-10-22T15:04:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3f1efb42c07deb93",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
+      "snippet": "On trade, investment and innovation, leaders will work toward conclusion of a Canada-Turkiye Free Trade Agreement.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T15:00:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2088,6 +2191,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d7ed585b0b58e3a1",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "French weekend protests to be limited to union demos only, says Macron",
+      "snippet": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
+      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T13:02:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f8f39ee34b2da1d6",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -2577,123 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVnBOa2V4YWZERVlSU0FpTmFNX0ZsOUY2ZkJYLWVPX2NJYzVIV20tZmFqY2lfQVBiSWlSYVV3YW1EWm5scmNTSG5CVlVVcnhsLUZZdDVPekRXcTUtbmNJWl9pQUttS2FxdE9qSDlCNm1NZEdmVnpXWm5RR2tDSGQydldpVzJjQ1JVX0RCcGpxczBvMmlZZmhmVk5ha0JGRDM1X1QxXzVzUGxLQ2hSa2dIbEdGb1J3dTRqUDRkWnV3Q0JvNzN3MXVLX1BEclcycHc0bXBv?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-22T12:09:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_af7478de4d143431",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Son of Stephen Hubbard, American freed from Russian jail, speaks out",
-      "snippet": "In an interview with CBS News after Stephen Hubbard was released from Russian custody, his son, Fr. Joseph Coleman, said his father might have made a mistake in staying in Ukraine when the war began.",
-      "link": "https://www.cbsnews.com/news/stephen-hubbard-freed-american-russia-son-interview/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:09:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3581f219977706c4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "DOJ drops appeal of student loan forgiveness ruling",
-      "snippet": "The Department of Justice ended its effort to overhaul a student loan forgiveness program without explanation. The Public Service Loan Forgiveness program forgives loans for qualified public employees after a decade of payments, a move desi",
-      "link": "https://www.washingtonexaminer.com/policy/education/4775390/doj-drops-appeal-student-loan-forgiveness-ruling/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:09:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb0dbcf2848817d5",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Chiricahua monument in Arizona is now the 64th US national park",
-      "snippet": "New designation of the Land of Standing-Up Rocks, known for its historic rock spires, passed with bipartisan support\nAn area of towering rock spires in south-eastern Arizona known among Native Americans as the Land of Standing-Up Rocks has ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/chiricahua-monument-arizona-new-national-park",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:08:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c486d34c44895a17",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "American Stephen Hubbard released by Russia, Trump confirms",
-      "snippet": "Steve Witkoff lauded Vladimir Putin as \"a humanitarian\" as Russia freed Stephen Hubbard, an American deemed wrongfully detained by the U.S., after more than four years in prison.",
-      "link": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:08:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9d0c51dfb6703107",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Nunchucks’ wielded by agitated man in Hannah Beazley’s office may have been drumsticks, court told",
-      "snippet": "John Lawrence Smart charged with being armed in a way that may cause fear but Perth lawyer expresses concern for mental health\n\nGet our breaking news email, free app or daily news podcast\n\nA man accused of making threats while armed with “i",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/22/hannah-beazley-wa-office-nunchucks-drumsticks-wielded-man-court-hearing-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:08:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cc2f48fcaecb2c86",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Meta falls as investors balance Muse growth with rising AI costs - Reuters",
-      "snippet": "Meta falls as investors balance Muse growth with rising AI costs  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFibXQ2bEZfUWFpTEoxYTNPQ3dHTlMwMjZRaFcxZlphTlplUlNFWkgta2xwdVBvU0l5OWNkMEctQmNrM2s1UDRpSW5jNFhpLW9TQUlzYlpmZFZudjhvM0RtcC1hQ24xSmVOMDYwbUIzNDQ3NlAwTEpILTc4akh1czlRcThIUnU3Y2VkbWJJWE9jdXJzbWtzclVfeUh5RzN6UzdaTlZjRWlMQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:07:48.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bf680081019e9261",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
-      "snippet": "The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.",
-      "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:06:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e85b911cbc00d534",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Social Security says it’s ‘corrected’ tens of millions of records. Here’s why",
-      "snippet": "The agency said it has added 17 million death dates to records that previously had none and updated citizenship information.",
-      "link": "https://thehill.com/homenews/6164678-social-security-says-its-corrected-tens-of-millions-of-records-heres-why/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-2215144452.jpg?w=900",
-      "publishedAt": "2026-10-22T12:05:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_769dd504b661a4f9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Myanmar's Aung San Suu Kyi speaks to son for first time in over five years - Reuters",
-      "snippet": "Myanmar's Aung San Suu Kyi speaks to son for first time in over five years  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG9VN0VTWFlWWXk3c0JiRW5VVzRTUmVRUUtxb04ySFBsVlo3Zk5xYUZ2TFA4MU82dFlyNE9qZTh3WUo3MnZFby1qcW9jc2dWNGhxOUliTFpCa28zQmV3ckhBVUZpTDk3aFlLTHA0bGNGRzQxS251NmdmcmFSMGFOa3YzY29nUWpsUWUyVGNqQ2QzSVZPYXc1WEgzY2VyS0o4WGhWNmJ2VGZnR3ViMWRXUEg0VmM5aUZoR1E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T12:03:45.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
