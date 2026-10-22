@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-22T04:25:05.336Z",
+  "updatedAt": "2026-10-22T04:30:10.379Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.737Z"
+      "lastSuccess": "2026-10-22T04:30:10.540Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.085Z"
+      "lastSuccess": "2026-10-22T04:30:10.739Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.580Z"
+      "lastSuccess": "2026-10-22T04:30:10.735Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.623Z"
+      "lastSuccess": "2026-10-22T04:30:10.675Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.616Z"
+      "lastSuccess": "2026-10-22T04:30:10.695Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.879Z"
+      "lastSuccess": "2026-10-22T04:30:10.902Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.379Z"
+      "lastSuccess": "2026-10-22T04:30:10.880Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.960Z"
+      "lastSuccess": "2026-10-22T04:30:10.797Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.822Z"
+      "lastSuccess": "2026-10-22T04:30:10.658Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.838Z"
+      "lastSuccess": "2026-10-22T04:30:10.897Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.280Z"
+      "lastSuccess": "2026-10-22T04:30:10.922Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.426Z"
+      "lastSuccess": "2026-10-22T04:30:10.937Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T04:25:06.458Z"
+      "lastErrorAt": "2026-10-22T04:30:10.955Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.457Z"
+      "lastSuccess": "2026-10-22T04:30:10.975Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T04:25:05.981Z"
+      "lastErrorAt": "2026-10-22T04:30:10.899Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.842Z"
+      "lastSuccess": "2026-10-22T04:30:10.842Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.079Z"
+      "lastSuccess": "2026-10-22T04:30:10.837Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.515Z"
+      "lastSuccess": "2026-10-22T04:30:11.043Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:05.863Z"
+      "lastSuccess": "2026-10-22T04:30:11.003Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.257Z"
+      "lastSuccess": "2026-10-22T04:30:11.238Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.102Z"
+      "lastSuccess": "2026-10-22T04:30:10.601Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.420Z"
+      "lastSuccess": "2026-10-22T04:30:10.761Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T04:25:06.558Z"
+      "lastSuccess": "2026-10-22T04:30:11.318Z"
     }
   },
   "items": [
+    {
+      "id": "story_1b29431fd9c81dbf",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Australian TV reporter rescues man from sinking car",
+      "snippet": "Australian TV reporter rescues man from sinking car",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T04:19:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0fce8b1652b03528",
       "source": "CBS News",
@@ -2680,19 +2693,6 @@
       "link": "https://www.pbs.org/newshour/show/how-idahos-abortion-ban-reshaped-reproductive-care-and-fueled-a-fight-for-change",
       "imageUrl": null,
       "publishedAt": "2026-10-21T22:35:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_23123d4dd14f35a2",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
-      "snippet": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day\n\nSign in or sign up to join the conversation\n\nFrom mass raids to quiet crackdown: a timeline of Trum",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T22:35:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
