@@ -1,103 +1,116 @@
 {
-  "updatedAt": "2026-10-22T02:40:07.738Z",
+  "updatedAt": "2026-10-22T02:45:07.431Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:07.978Z"
+      "lastSuccess": "2026-10-22T02:45:07.502Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.158Z"
+      "lastSuccess": "2026-10-22T02:45:07.594Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.104Z"
+      "lastSuccess": "2026-10-22T02:45:07.538Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:07.903Z"
+      "lastSuccess": "2026-10-22T02:45:07.505Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.099Z"
+      "lastSuccess": "2026-10-22T02:45:07.533Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.075Z"
+      "lastSuccess": "2026-10-22T02:45:07.612Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.121Z"
+      "lastSuccess": "2026-10-22T02:45:07.642Z"
     },
     "Politico": {
-      "online": false,
-      "lastError": "Status code 406",
-      "lastErrorAt": "2026-10-22T02:40:08.099Z"
+      "online": true,
+      "lastSuccess": "2026-10-22T02:45:07.602Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.017Z"
+      "lastSuccess": "2026-10-22T02:45:07.476Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.057Z"
+      "lastSuccess": "2026-10-22T02:45:07.586Z"
     },
     "Wash Examiner": {
-      "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.281Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-22T02:45:17.448Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.127Z"
+      "lastSuccess": "2026-10-22T02:45:07.584Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T02:40:08.488Z"
+      "lastErrorAt": "2026-10-22T02:45:07.614Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.483Z"
+      "lastSuccess": "2026-10-22T02:45:07.624Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-22T02:40:08.142Z"
+      "lastErrorAt": "2026-10-22T02:45:07.613Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.153Z"
+      "lastSuccess": "2026-10-22T02:45:07.605Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.234Z"
+      "lastSuccess": "2026-10-22T02:45:07.660Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.510Z"
+      "lastSuccess": "2026-10-22T02:45:07.742Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.140Z"
+      "lastSuccess": "2026-10-22T02:45:07.620Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.381Z"
+      "lastSuccess": "2026-10-22T02:45:07.696Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.477Z"
+      "lastSuccess": "2026-10-22T02:45:07.960Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.453Z"
+      "lastSuccess": "2026-10-22T02:45:07.561Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T02:40:08.795Z"
+      "lastSuccess": "2026-10-22T02:45:08.167Z"
     }
   },
   "items": [
+    {
+      "id": "story_bf680081019e9261",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+      "snippet": "The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.",
+      "link": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T02:41:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dac186f511c580c5",
       "source": "Wash Examiner",
@@ -107,6 +120,19 @@
       "link": "https://www.washingtonexaminer.com/daily-memo/4775284/is-it-too-late-to-move-the-midterm-needle-in-michigan/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T02:37:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1385b1f6a44edb5f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Josh Jacobs 'remorseful' in first comments since domestic abuse arrest led to commissioner's exempt list stay",
+      "snippet": "Josh Jacobs expressed remorse and apologized to Green Bay Packers teammates after returning from the commissioner's exempt list following his arrest.",
+      "link": "https://www.foxnews.com/outkick-sports/josh-jacobs-remorseful-first-comments-domestic-abuse-arrest-commissioners-exempt-list-stay",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T02:32:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2671,32 +2697,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_80e26e8156b124f6",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Oregon Teacher Disputes Account of Her Heroism During School Shooting",
-      "snippet": "Becky Drury, who was said to have shielded a student during a deadly shooting in Bend, refuted the account. “The truth is I was shot before I had any chance to act.”",
-      "link": "https://www.nytimes.com/2026/10/21/us/bend-oregon-school-shooting-teacher-hero.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T21:57:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b378ac27f68f5a80",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "House prices falling in every Australian capital city for first time in 15 years",
-      "snippet": "House prices in Sydney are at a two-year low after falling 4.7% in the September quarter to $1.66m, according to Domain report\n\nGet our breaking news email, free app or daily news podcast\n\nHouse prices are falling across every capital city ",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/22/house-prices-fall-sydney-melbourne-perth-brisbane-adelaide-hobart-darwin",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T21:56:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
