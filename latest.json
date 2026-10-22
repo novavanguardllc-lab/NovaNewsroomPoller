@@ -1,102 +1,100 @@
 {
-  "updatedAt": "2026-10-22T20:25:05.281Z",
+  "updatedAt": "2026-10-22T20:30:11.010Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.473Z"
+      "lastSuccess": "2026-10-22T20:30:11.243Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.836Z"
+      "lastSuccess": "2026-10-22T20:30:11.717Z"
     },
     "Al Jazeera": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-22T20:25:05.384Z"
+      "online": true,
+      "lastSuccess": "2026-10-22T20:30:11.114Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.492Z"
+      "lastSuccess": "2026-10-22T20:30:11.562Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.511Z"
+      "lastSuccess": "2026-10-22T20:30:11.129Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.514Z"
+      "lastSuccess": "2026-10-22T20:30:11.149Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.820Z"
+      "lastSuccess": "2026-10-22T20:30:11.617Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.612Z"
+      "lastSuccess": "2026-10-22T20:30:11.303Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.575Z"
+      "lastSuccess": "2026-10-22T20:30:11.549Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.640Z"
+      "lastSuccess": "2026-10-22T20:30:11.430Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.538Z"
+      "lastSuccess": "2026-10-22T20:30:11.490Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.434Z"
+      "lastSuccess": "2026-10-22T20:30:11.503Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.716Z"
+      "lastSuccess": "2026-10-22T20:30:11.510Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-22T20:25:05.671Z"
+      "lastErrorAt": "2026-10-22T20:30:11.636Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.398Z"
+      "lastSuccess": "2026-10-22T20:30:11.507Z"
     },
     "France24": {
       "online": false,
       "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-22T20:25:05.493Z"
+      "lastErrorAt": "2026-10-22T20:30:11.703Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.694Z"
+      "lastSuccess": "2026-10-22T20:30:16.103Z"
     },
     "Washington Post": {
       "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-22T20:25:05.578Z"
+      "lastError": "Status code 502",
+      "lastErrorAt": "2026-10-22T20:30:11.532Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.676Z"
+      "lastSuccess": "2026-10-22T20:30:11.629Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.417Z"
+      "lastSuccess": "2026-10-22T20:30:11.528Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:08.253Z"
+      "lastSuccess": "2026-10-22T20:30:11.751Z"
     },
     "NBC News": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-22T20:25:05.383Z"
+      "online": true,
+      "lastSuccess": "2026-10-22T20:30:11.702Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-22T20:25:05.791Z"
+      "lastSuccess": "2026-10-22T20:30:11.694Z"
     }
   },
   "items": [
@@ -109,6 +107,32 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_be3de7c160f4211c",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "WATCH LIVE: Trump rallies in Iowa amid midterm travel blitz",
+      "snippet": "President Donald Trump is set to hold a rally at 5:30 p.m. Eastern on Thursday in Sioux City, Iowa, to boost GOP candidates ahead of the looming Nov. 3 election. The rally will take place at Sioux Gateway Airport as part of Trump’s busy Oct",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4776306/watch-live-trump-rally-iowa-midterm-travel-blitz/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7e6f97017e39137b",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Thousands gather at final student-led rally ahead of Serbia election",
+      "snippet": "The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:21:12.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -127,6 +151,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_effcfb664b0157e6",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Tom Skerritt, Alien and Top Gun actor, dies at 93",
+      "snippet": "The actor, who also had roles in M*A*S*H, A River Runs Through It and Picket Fences, dies of natural causes\nTom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93.\nHis publicist confirmed to Variety that he ",
+      "link": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:19:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
       "id": "story_ff9d9ab8fc911b91",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -140,6 +177,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_f87d6a790b3d17d4",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Manuel Otto, German video game creator, dies after apparently livestreaming his suicide",
+      "snippet": "German video game designer and influencer Manuel Otto apparently took his own life while doing a livestream on Twitch, according to the streaming platform and his colleagues.",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/manuel-otto-german-video-game-creator-dies-apparently-livestreaming-su-rcna605025",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:15:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7014310a447cc630",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -148,6 +198,19 @@
       "link": "https://www.foxnews.com/politics/doj-moves-boot-two-federal-judges-immigration-cases-over-remarks-media-extraordinarily-imprudent",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:15:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6a5e9f8dc0567a14",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+      "snippet": "Some countries in the region say it infringes on their rights.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:13:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -174,6 +237,19 @@
       "link": "https://thehill.com/homenews/media/6166450-trump-allies-criticize-politico-correction/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292545198035-e1792699872869.jpg?w=900",
       "publishedAt": "2026-10-22T20:12:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_74b46fb1024c786c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Teacher wounded in Oregon school shooting played dead after she was shot",
+      "snippet": "Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children\nA teacher wounded in last week’s shooting at a Bend, Oregon, elementary school shared her account of the incident, and h",
+      "link": "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:12:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -239,6 +315,19 @@
       "link": "https://www.washingtonexaminer.com/news/white-house/4776347/trump-move-ahead-arch-plan-november-needs-capital-planning-commission-on-board/",
       "imageUrl": null,
       "publishedAt": "2026-10-22T20:08:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2e5326c7066df2fc",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+      "snippet": "Some of the core issues that drove Trump's US supporters and the MAGA movement are no longer Republican talking points.",
+      "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T20:05:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -825,6 +914,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T19:16:20.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d108fdcbaa38f36c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes - AP News",
+      "snippet": "Mark Zuckerberg makes deal with Meta to help him pay California billionaire tax, if it passes  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWVrSU05RXd3Q0RmUmhPdUJGT1ZlOWpFcWY4QWM1QjYtdXVBOFJPd194U3V2Qlp3Vk5VLXN5S1VyMW9qdjR6aGNRbDFCYVBrVk9TYlRoelNJUEZBaDJQZDRpREotVEk2M01IMzNZekVoeWEzV1lxMTViTjJ1WlZFMTdhbWNSdEFUSFVHd21yTmVHc3o2RVdNME9fQVJIU3p1M3A3LXVjM2pYU05waVBWNEtOcXJlUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-22T19:15:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2592,110 +2694,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-22T16:35:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_701b8e10a45c0cd9",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "The ultimate gift guide for music lovers",
-      "snippet": "Shop the best gifts for music lovers, from headphones and record players to instruments and stocking stuffers, with picks from NBC Selected editors.",
-      "link": "https://www.nbcnews.com/select/shopping/gifts-for-music-lovers-rcna604981",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:35:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a90e3f3ec1b8987b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Judge orders Trump to sit for BBC defamation hearing by Dec. 11",
-      "snippet": "A federal judge has ordered President Donald Trump to sit for a deposition by Dec. 11 in his $10 billion defamation lawsuit against the British Broadcasting Corporation, after the broadcaster accused him of repeatedly delaying questioning i",
-      "link": "https://www.washingtonexaminer.com/news/justice/4775928/judge-order-trump-sit-bbc-defamation-hearing/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:34:48.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_5219cae6820980d3",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-      "snippet": "FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:34:38.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_14b068992fe768ce",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Downing Street rejects Witkoff’s description of Putin as a ‘humanitarian’",
-      "snippet": "No 10 says Russian president ‘has killed thousands of people, both innocent Ukrainians and his own people’\nDowning Street has rejected the description of Vladimir Putin as a “humanitarian” made by Donald Trump’s chief negotiator on the Ukra",
-      "link": "https://www.theguardian.com/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:33:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_daa89f0785eb4a9a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump says he called Google’s CEO to rename the Atlantic Ocean",
-      "snippet": "President Trump said Wednesday he asked Google CEO Sundar Pichai to rename the Atlantic Ocean on the company’s Google Maps application, a request the tech executive denied. “We seriously looked at the Atlantic Ocean,” Trump said during a ra",
-      "link": "https://thehill.com/homenews/administration/6165586-trump-google-maps-atlantic-request/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26294054205580-e1792588095739.jpg?w=900",
-      "publishedAt": "2026-10-22T16:33:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_63a1a194b88ace58",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "The GOP is on a rescue mission in Kansas, where Dems haven't won a Senate race in nearly a century - AP News",
-      "snippet": "The GOP is on a rescue mission in Kansas, where Dems haven't won a Senate race in nearly a century  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGxQNmRnc2tyZE01bVV3LWl3Qy01eUU3NlFPbUx5U1FZUHhRZV9UWVVuSnNHNXR3TWp2Qmc1RmEtYkE2aGpmTnIyZVV5czJEUnNhVl83UEFOMFBURGo5ZTFtdmVnZXIwRklCczMzVDVNSFZ6MHRQX3VYRVNjbVU2dWxIWXZ4RkF5eEtaNg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_be9481d2600e1cca",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Trump ordered to answer questions under oath in BBC lawsuit ",
-      "snippet": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T16:30:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_774a3c6d037e6c46",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Sex education after Cornell",
-      "snippet": "University professor Jonathan Zimmerman argues that current collegiate sexual assault prevention programs are insufficient and calls for middle and high schools to provide comprehensive sex education that addresses the influence of pornogra",
-      "link": "https://thehill.com/opinion/education/6161705-beyond-consent-sex-education/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26280768455944.jpg?w=900",
-      "publishedAt": "2026-10-22T16:30:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
