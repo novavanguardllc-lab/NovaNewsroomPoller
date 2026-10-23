@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-23T11:20:07.901Z",
+  "updatedAt": "2026-10-23T11:25:05.401Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.018Z"
+      "lastSuccess": "2026-10-23T11:25:05.597Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.100Z"
+      "lastSuccess": "2026-10-23T11:25:05.462Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.196Z"
+      "lastSuccess": "2026-10-23T11:25:05.617Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.180Z"
+      "lastSuccess": "2026-10-23T11:25:05.538Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.139Z"
+      "lastSuccess": "2026-10-23T11:25:05.639Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.366Z"
+      "lastSuccess": "2026-10-23T11:25:05.561Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.257Z"
+      "lastSuccess": "2026-10-23T11:25:05.718Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.116Z"
+      "lastSuccess": "2026-10-23T11:25:05.742Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.301Z"
+      "lastSuccess": "2026-10-23T11:25:05.803Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.036Z"
+      "lastSuccess": "2026-10-23T11:25:05.696Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.316Z"
+      "lastSuccess": "2026-10-23T11:25:05.816Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.041Z"
+      "lastSuccess": "2026-10-23T11:25:05.698Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.223Z"
+      "lastSuccess": "2026-10-23T11:25:05.775Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.341Z"
+      "lastSuccess": "2026-10-23T11:25:05.725Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T11:20:08.376Z"
+      "lastErrorAt": "2026-10-23T11:25:05.816Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.321Z"
+      "lastSuccess": "2026-10-23T11:25:05.877Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T11:20:08.339Z"
+      "lastErrorAt": "2026-10-23T11:25:05.926Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.381Z"
+      "lastSuccess": "2026-10-23T11:25:05.929Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.517Z"
+      "lastSuccess": "2026-10-23T11:25:05.953Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.155Z"
+      "lastSuccess": "2026-10-23T11:25:05.680Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.185Z"
+      "lastSuccess": "2026-10-23T11:25:05.755Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.360Z"
+      "lastSuccess": "2026-10-23T11:25:08.512Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T11:20:08.500Z"
+      "lastSuccess": "2026-10-23T11:25:05.922Z"
     }
   },
   "items": [
+    {
+      "id": "story_a7bc078bd92f5281",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "France: 1 killed, 4 wounded after shooting near Paris",
+      "snippet": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. One person was killed and four others were wounded in the shooting.",
+      "link": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T11:22:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_a892281530ee200d",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "French authorities ban some student protests after weekend looting and clashes",
+      "snippet": "Dozens of protesters took to the Paris streets on Thursday despite bans on demonstrations ordered in multiple French cities following a weekend of clashes and widespread looting that marked France’s most violent unrest in years.",
+      "link": "https://www.france24.com/en/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes",
+      "imageUrl": "https://s.france24.com/media/display/5f259f4c-cebe-11f1-97d1-bba4eee3dc72/w:1024/p:16x9/EN-20261023-080216-080401-CS-01.jpg",
+      "publishedAt": "2026-10-23T11:21:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8217ee90a85e52ab",
       "source": "Wash Examiner",
@@ -2668,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T07:34:42.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eea4f31f94f24465",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
-      "snippet": "Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget\nConsumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating eco",
-      "link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T07:25:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_00b6d8938db52d09",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Eisenkot offers hawkish alternative to Netanyahu for Israeli PM - Reuters",
-      "snippet": "Eisenkot offers hawkish alternative to Netanyahu for Israeli PM  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORnVtbXdVNGp0NmpKbTE1MzdLbnRRTEZOLXJmWXRqdTRBSTZ5OVM2SF85V1FwbzA2VlJWYWpGUjRqeURkRVM3X2lPbDJxWFkyUHRGeFFTNmRDMk11SVNTSVVzVjBhUTBCeFgzMGZMeEUwNVdYWW5nYWZnelQxMGtqQk5DY1lPdmR1ajVjVGp0NGloaWFOTC1wdklGVGFEOWs?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T07:18:31.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
