@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-23T18:55:05.632Z",
+  "updatedAt": "2026-10-23T19:00:13.320Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.707Z"
+      "lastSuccess": "2026-10-23T19:00:13.598Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.042Z"
+      "lastSuccess": "2026-10-23T19:00:13.710Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.807Z"
+      "lastSuccess": "2026-10-23T19:00:13.481Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.826Z"
+      "lastSuccess": "2026-10-23T19:00:13.506Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.867Z"
+      "lastSuccess": "2026-10-23T19:00:13.641Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.951Z"
+      "lastSuccess": "2026-10-23T19:00:14.064Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.800Z"
+      "lastSuccess": "2026-10-23T19:00:13.683Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.955Z"
+      "lastSuccess": "2026-10-23T19:00:13.858Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.885Z"
+      "lastSuccess": "2026-10-23T19:00:13.983Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.010Z"
+      "lastSuccess": "2026-10-23T19:00:13.944Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T18:55:05.991Z"
+      "lastErrorAt": "2026-10-23T19:00:13.925Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.964Z"
+      "lastSuccess": "2026-10-23T19:00:13.925Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.021Z"
+      "lastSuccess": "2026-10-23T19:00:13.864Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.940Z"
+      "lastSuccess": "2026-10-23T19:00:13.797Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T18:55:06.048Z"
+      "lastErrorAt": "2026-10-23T19:00:14.095Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.029Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T19:00:13.697Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.845Z"
+      "lastSuccess": "2026-10-23T19:00:13.918Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:05.990Z"
+      "lastSuccess": "2026-10-23T19:00:13.841Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:10.116Z"
+      "lastSuccess": "2026-10-23T19:00:14.024Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.140Z"
+      "lastSuccess": "2026-10-23T19:00:14.359Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.067Z"
+      "lastSuccess": "2026-10-23T19:00:14.086Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.146Z"
+      "lastSuccess": "2026-10-23T19:00:14.157Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:55:06.092Z"
+      "lastSuccess": "2026-10-23T19:00:14.189Z"
     }
   },
   "items": [
+    {
+      "id": "story_1e54b71e448f5e0b",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
+      "snippet": "The Trump administration has suggested that state prosecutors don't have jurisdiction to investigate federal officers, while Minnesota officials have said they don't trust the federal government to investigate itself.",
+      "link": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:56:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8945115ce2084bf4",
       "source": "Wash Examiner",
@@ -124,6 +138,45 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e6978f097eea8f5b",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+      "snippet": "After the discovery of a severe bug in the PHP programming language, executives warned of a coming ‘vulnerability tsunami’\nLeaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are pred",
+      "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:48:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de83c2f3385caa3f",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump administration cancels some Canada tariffs, Sen. Susan Collins says",
+      "snippet": "The Trump administration canceled some tariffs on Canada, according to GOP Sen. Susan Collins.",
+      "link": "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:48:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2541c014fd926b33",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
+      "snippet": "Unidentified object vanished suddenly and silently, anonymous senior military observers claim\nTwo senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed over a sensitive site ",
+      "link": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:45:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3900581c07d979b0",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -132,6 +185,19 @@
       "link": "https://thehill.com/regulation/court-battles/6168921-jackson-dissents-new-hampshire-voter-id/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/05/AP26139081500280.jpg?w=900",
       "publishedAt": "2026-10-23T18:43:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4914cbe55e358fd2",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Epstein-linked billionaire Glenn Dubin stepped down from Mount Sinai board earlier this year",
+      "snippet": "The board change is the latest development for the renowned New York hospital plagued by revelations related to Jeffrey Epstein\nHedge fund billionaire Glenn Dubin, one of several Wall Street figures whose relationship with Jeffrey Epstein i",
+      "link": "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:42:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -563,6 +629,19 @@
       "publishedAt": "2026-10-23T17:53:51.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6b7928ac12f02094",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Steelers QB Aaron Rodgers backs NFL on holding game in Paris despite recent unrest - AP News",
+      "snippet": "Steelers QB Aaron Rodgers backs NFL on holding game in Paris despite recent unrest  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkR5TnFSWjI5WDFvMUV0N0FmMVg0cmx5VXg5UnR4MVVWN1lvT1J3ZGM2Ny1NUFBtNmFXLVlGVk9tM05xNV9yTmUtNzFRNXZ2QWhReWdDeVJqWTdpdkszME5hS21KblJuZHpULWliS3dtQU50b0drN1JVOHpZamdJYlBaeXhxZ3loS3F0bkJR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T17:51:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2581,6 +2660,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1b9f02c4cc96c258",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Turkey says renewed attack on Iran would expand conflict, diplomacy only way - Reuters",
+      "snippet": "Turkey says renewed attack on Iran would expand conflict, diplomacy only way  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMXkzbk1uOGZSVDB3cUp6M2VmZjlpOHBBVnVkOHlRNUhvQmxmTG9pcWhSckhyaHg0c21DTUdTMGw4bkZIbk9YYWZvOV9EQ1lZM1g1YVpqUXJuVWlwVkh4SkFmRFRES3dNUnIyTmRPOFFoSXZKcXlRUmQwUGlZWndITG1nYnBYRU5POU5XTWp4aHF0aUxxdms5endGVGpNb0hhNGQ4MzNldWhLZkJUNEFzdzBaUG9jNHREWUpvOWd2dC05ellnRUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T16:09:37.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_01ef2b7db1278d7f",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2602,97 +2694,6 @@
       "link": "https://www.cbsnews.com/news/trump-administration-seafood-labels/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T16:08:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9dc69106812c52dd",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-      "snippet": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
-      "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T16:08:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a174c0676cb32a01",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Seven killed as gunmen open fire at church in Jordan, authorities say - Reuters",
-      "snippet": "Seven killed as gunmen open fire at church in Jordan, authorities say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2lOTkU3cVRlN2NTOWxzMWZYZnZUSjBZeWV6VHprNk44Q0pWLXdaMjF6QU1iS1JjV2RLdkFkM2NyVUtTOXpDdHg3SThHN2tFZFozTGZIdlVaVzBqUFV2STZCMXcwbjMycDNTNWppUDdSTVZBaWxqTTR4dk5kWkFrTDM2TzVkYi1oNTNwTjluU2NmTmY5cHkxbEhhWGR4VUt5QTJub2hkalo1WExtNVc2MEoybC1YWkQxbnNoZ3l6QzB6c1lOdGJhZTdB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T16:07:06.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_1409ac4dc30c97c4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says - AP News",
-      "snippet": "Police officer who shot and killed 1-year-old boy in Mississippi has resigned, Senatobia mayor says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcWlvaks4NXljX3RhX2QxSGlPSFZSZ2V0dWZwdV9QZWhrbXhaRXh1WThQNXFpU0ZJZW53SDB6SlhINWVuTmdzeG83OERFTjBZclBEakZ2Mzc5LWZfelhZcVdmMUZvZUhWWkhwMkFMb0Z4elVYTEw4SVBfYkJOTnNpem9CNFZDbnd1R1VTejZmWlVfMnhGQUVQQjRKc3hUTmpM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T16:07:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_93f3d755db6dbc26",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Two ex-FBI officials charged with lying about investigation into Hunter Biden’s laptop",
-      "snippet": "Contents of laptop of Joe Biden’s son were part of a bizarre saga in the final weeks of 2020 presidential election\nTwo former FBI intelligence officials who specialized in foreign election interference were charged on Friday with making fal",
-      "link": "https://www.theguardian.com/us-news/2026/oct/23/ex-fbi-officials-charged-hunter-biden-laptop",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T16:00:21.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_0c4933bea3c3f8be",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
-      "snippet": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/PaxtonWildcatter-V1_maxHeight_3000_maxWidth_3000-1.jpg?w=1149",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_94b4326a91b7624c",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Cognitive surrender: Artificial intelligence’s threat to democracy",
-      "snippet": "Wesleyan University computer science professor Sebastian Zimmeck argues that artificial intelligence poses a threat to democratic citizenship by encouraging cognitive surrender and requiring both individual critical thinking and robust regu",
-      "link": "https://thehill.com/opinion/technology/6166067-protecting-personal-agency-ai/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26229853333976-e1790100818796.jpg?w=900",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b82fa21d29cdfcae",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
-      "snippet": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.",
-      "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:59:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
