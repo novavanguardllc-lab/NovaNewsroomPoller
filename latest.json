@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-23T06:15:07.994Z",
+  "updatedAt": "2026-10-23T06:20:08.294Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.270Z"
+      "lastSuccess": "2026-10-23T06:20:08.402Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.383Z"
+      "lastSuccess": "2026-10-23T06:20:08.459Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.219Z"
+      "lastSuccess": "2026-10-23T06:20:08.785Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.153Z"
+      "lastSuccess": "2026-10-23T06:20:08.473Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.341Z"
+      "lastSuccess": "2026-10-23T06:20:08.461Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.136Z"
+      "lastSuccess": "2026-10-23T06:20:08.541Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.311Z"
+      "lastSuccess": "2026-10-23T06:20:08.536Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.290Z"
+      "lastSuccess": "2026-10-23T06:20:08.531Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.296Z"
+      "lastSuccess": "2026-10-23T06:20:08.527Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.553Z"
+      "lastSuccess": "2026-10-23T06:20:08.557Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T06:15:08.549Z"
+      "lastErrorAt": "2026-10-23T06:20:08.579Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.276Z"
+      "lastSuccess": "2026-10-23T06:20:08.420Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.530Z"
+      "lastSuccess": "2026-10-23T06:20:08.584Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.514Z"
+      "lastSuccess": "2026-10-23T06:20:08.523Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.417Z"
+      "lastSuccess": "2026-10-23T06:20:08.550Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.678Z"
+      "lastSuccess": "2026-10-23T06:20:08.670Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.359Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-23T06:20:18.304Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.498Z"
+      "lastSuccess": "2026-10-23T06:20:08.578Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.715Z"
+      "lastSuccess": "2026-10-23T06:20:08.594Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T06:15:08.697Z"
+      "lastErrorAt": "2026-10-23T06:20:08.590Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.690Z"
+      "lastSuccess": "2026-10-23T06:20:08.492Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:08.782Z"
+      "lastSuccess": "2026-10-23T06:20:08.677Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T06:15:10.787Z"
+      "lastSuccess": "2026-10-23T06:20:08.693Z"
     }
   },
   "items": [
@@ -211,6 +212,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T05:29:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c9d03568d9616e8a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "In Netanyahu stronghold, signs of fraying loyalty emerge on eve of election - AP News",
+      "snippet": "In Netanyahu stronghold, signs of fraying loyalty emerge on eve of election  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHlXZmNFQ1Z5ejY2V3ZpN0FXRFJJYTJvMkVxNzZsTTljVXNJRkI0ZVFBYkpXejhoekNLbjJkZU5iNVBWd0d6bFRPekZWTnByU1JuY1I5ODJxRW1pMFY4eEhNd0RqU2RjQVhTN291YUt3ZkR2YmFpLUdRTHZmdDduYlFQVjA3b1BkRGwtczQ1RmhrVU9GV3prSUN0NmZ0eUdrajdBa1I4VEcxQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T05:11:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -419,6 +433,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T04:27:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_43fb1e23e711c58c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - Reuters",
+      "snippet": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWE1LcUgzRWRwVDZmX3FEaWszVHF0cFQ1ekt6M1pyQ0lfc05PQm9DekdZcXprdm1vQk00SlNEZjEwQllCd1VwMUJySnIxcF9ZblFaRHFsV3BzSU52SlJSSi1TeWxoTmdYc1h6UHhPQTFQYU41ZEdQTFRNY3l0N1Q2bnRDV2x1MjlveGtxTk1oQWlGd3ExcUZEd2QzdF9TUkVKcXotUlIycUgtb1RrZjJ3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:14:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2668,32 +2695,6 @@
       "imageUrl": "https://img.semafor.com/bd58fa644e338a66d6bf9e2db19f2617eaee6193-5200x3466.jpg",
       "publishedAt": "2026-10-22T22:34:48.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8c7d9d1e2969aa3c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Venezuelans call for elections in first national protest in nearly two years - Reuters",
-      "snippet": "Venezuelans call for elections in first national protest in nearly two years  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai1xelZ4bWdFeTJCYWZJeHJxVFVRS3RXMklSdlV4aXI2cjN2bWpvczlDUWVndUl0ak5vb2IxMmREVmsxaVgxR1N4Qi04WXRNX2dSbW1jX3pZRi1KOXQ1RDdfMWdSSGdRak1nSGhGdTFSbjQ3U3VXenNSZDlWNlR4aklLUHc4TFRnbGtnaVdlazNOQkZ3cE9YNk4tOVpTVkhCQ0pFU1g3OXhBUk1BaDNXOEtJcndCRHJG?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:30:53.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2d84f538df5e7a27",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Tunisian police clash with protesters in capital on day of heightened tensions - Reuters",
-      "snippet": "Tunisian police clash with protesters in capital on day of heightened tensions  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0FIcUJ6eVRzbzg0MUxGNDh3aWJNTGIzTlVhcW16MC1tSFZXaEdfY3BFUFMxcUhNcGloVEpyVlptMGV6NFpxWDhicDlNek14OF81bVpQQ2xVaFhVcUEzdml0NFozWHVDM2gxcHpXQTRGWldhM1VNREtuVGZIdmp4bV92a1o3YU5wRjhCcDRJMzJ1MU9obi0xSWV1c2ZTZDdBQTY3TktuS0hUQWd1TXItdkMtdEpiaENHTHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:30:33.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
