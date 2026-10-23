@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-23T18:20:08.174Z",
+  "updatedAt": "2026-10-23T18:25:05.438Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.255Z"
+      "lastSuccess": "2026-10-23T18:25:05.599Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.378Z"
+      "lastSuccess": "2026-10-23T18:25:05.633Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.315Z"
+      "lastSuccess": "2026-10-23T18:25:05.630Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.322Z"
+      "lastSuccess": "2026-10-23T18:25:05.637Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.300Z"
+      "lastSuccess": "2026-10-23T18:25:05.660Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.337Z"
+      "lastSuccess": "2026-10-23T18:25:05.931Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.371Z"
+      "lastSuccess": "2026-10-23T18:25:05.516Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.519Z"
+      "lastSuccess": "2026-10-23T18:25:05.711Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.500Z"
+      "lastSuccess": "2026-10-23T18:25:05.738Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.515Z"
+      "lastSuccess": "2026-10-23T18:25:05.871Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T18:20:08.490Z"
+      "lastErrorAt": "2026-10-23T18:25:05.753Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.489Z"
+      "lastSuccess": "2026-10-23T18:25:05.761Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.481Z"
+      "lastSuccess": "2026-10-23T18:25:05.865Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.477Z"
+      "lastSuccess": "2026-10-23T18:25:05.861Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T18:20:08.536Z"
+      "lastErrorAt": "2026-10-23T18:25:05.882Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.412Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T18:25:05.865Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.505Z"
+      "lastSuccess": "2026-10-23T18:25:05.674Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.533Z"
+      "lastSuccess": "2026-10-23T18:25:05.697Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.540Z"
+      "lastSuccess": "2026-10-23T18:25:05.776Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.594Z"
+      "lastSuccess": "2026-10-23T18:25:06.024Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.606Z"
+      "lastSuccess": "2026-10-23T18:25:05.895Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.658Z"
+      "lastSuccess": "2026-10-23T18:25:06.030Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:20:08.676Z"
+      "lastSuccess": "2026-10-23T18:25:06.051Z"
     }
   },
   "items": [
+    {
+      "id": "story_f069109074b9aa48",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34",
+      "snippet": "Images being broadcast on Jordanian state television show two gunmen who appear to be holding pistols approaching the church and firing shots. A third man who appears to be holding a semiautomatic rifle then appears and opens fire.",
+      "link": "https://www.pbs.org/newshour/world/gunmen-open-fire-at-a-church-during-a-funeral-in-jordan-killing-7-and-wounding-34",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:20:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2e90bbea9678ac5e",
       "source": "Wash Examiner",
@@ -122,6 +136,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_8af59e56fc6c80d3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Did Texas use artificial intelligence to call fourth-down play against Florida? Longhorns AD clarifies report",
+      "snippet": "Texas fans panicked after a report suggested Steve Sarkisian used the new Bevo Lab AI platform to call a critical fourth-down play against Florida.",
+      "link": "https://www.foxnews.com/outkick-sports/did-texas-use-artificial-intelligence-call-fourth-down-play-against-florida-longhorns-ad-clarifies-report",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:16:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_d70deda832b4940e",
@@ -471,6 +498,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T17:39:10.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9c1b6450df8ae283",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Severe flooding in the Four Corners region triggers rooftop rescues and evacuation orders - AP News",
+      "snippet": "Severe flooding in the Four Corners region triggers rooftop rescues and evacuation orders  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemdJQVBlSWpKb0N0UC1OTWQtNUR0cTd5QWJSbERGUC1pazNTT2hsWWdwQzVqdjVyRVlnZlNHNGVUWnVrbUxpM281YmZ5bWhYNjdhaUVsRVFGTndFa3lJNVhvWHZIUmltOUFkWU5KbFotRHhwVVE2SXo0S1BOdkpzYTc1akxCZkNDUG9ndWhvLU9WRkFlN2U1aXU3MFNBaW5EUjdsR2VGdEpOeGNzbzMzOFNn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T17:37:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2655,45 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T15:46:18.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4b7cb926993ac0e5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "U.S. Department of Justice - AP News",
-      "snippet": "U.S. Department of Justice  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DVGVUcl95ZUJpNjQwRlQ1UGFiS1FvZURuRy1SRXVhdVlnREtMOW93d0NZY1c2dHJacGlfNUFJd3ZFZ3JtdXVnOFBhUVlWWHBXdnBzTHJuU09lbUE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:45:04.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_b8e39e2b5f334005",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "DOJ sues to block Alaska Senate certification if Sullivan loses",
-      "snippet": "The Justice Department is asking the federal court to block certification if Sen. Sullivan loses, but would have won had the other Sullivan's votes been counted for him.",
-      "link": "https://www.cbsnews.com/news/trump-admin-sues-to-block-alaska-senate-certification-if-sen-dan-sullivan-loses/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:44:32.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_e4add3ab2cb5ee09",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "\"Subway Takes\" star Debbie Shields \"never thought about\" comedy before improv riff with Conan",
-      "snippet": "Brooklyn bar owner Debbie Shields won the love of the internet after a quick-witted exchange with Conan O'Brien on \"Subway Takes.\" Shields shares her thoughts on next steps.",
-      "link": "https://www.cbsnews.com/video/subway-takes-star-debbie-shields-never-thought-about-comedy-before-improv-riff-with-conan/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:43:29.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
