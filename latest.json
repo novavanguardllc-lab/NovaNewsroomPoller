@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-23T16:15:07.530Z",
+  "updatedAt": "2026-10-23T16:20:08.006Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.928Z"
+      "lastSuccess": "2026-10-23T16:20:08.071Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.714Z"
+      "lastSuccess": "2026-10-23T16:20:08.076Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.833Z"
+      "lastSuccess": "2026-10-23T16:20:08.093Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.984Z"
+      "lastSuccess": "2026-10-23T16:20:08.110Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.826Z"
+      "lastSuccess": "2026-10-23T16:20:08.086Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.787Z"
+      "lastSuccess": "2026-10-23T16:20:08.046Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.028Z"
+      "lastSuccess": "2026-10-23T16:20:08.130Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.689Z"
+      "lastSuccess": "2026-10-23T16:20:08.115Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.152Z"
+      "lastSuccess": "2026-10-23T16:20:08.214Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.731Z"
+      "lastSuccess": "2026-10-23T16:20:08.134Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.229Z"
+      "lastSuccess": "2026-10-23T16:20:08.154Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.748Z"
+      "lastSuccess": "2026-10-23T16:20:08.138Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.953Z"
+      "lastSuccess": "2026-10-23T16:20:08.193Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.184Z"
+      "lastSuccess": "2026-10-23T16:20:08.149Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T16:15:08.271Z"
+      "lastErrorAt": "2026-10-23T16:20:08.170Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.270Z"
+      "lastSuccess": "2026-10-23T16:20:08.176Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T16:15:08.252Z"
+      "lastErrorAt": "2026-10-23T16:20:08.181Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.251Z"
+      "lastSuccess": "2026-10-23T16:20:08.221Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.388Z"
+      "lastSuccess": "2026-10-23T16:20:08.312Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T16:15:07.753Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T16:20:08.165Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.044Z"
+      "lastSuccess": "2026-10-23T16:20:08.169Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.363Z"
+      "lastSuccess": "2026-10-23T16:20:08.336Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:15:08.569Z"
+      "lastSuccess": "2026-10-23T16:20:08.284Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4777308/el-sayed-debate-very-bad-rogers-joe-concha/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T16:14:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8adc6d7b863462bd",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Four fraternity pledges arrested on hazing allegations after teen forced into truck: cops",
+      "snippet": "Four Phi Delta Theta pledges at Texas State University were arrested on misdemeanor hazing charges after an 18-year-old was allegedly forced into a truck.",
+      "link": "https://www.foxnews.com/us/four-fraternity-pledges-arrested-hazing-allegations-teen-forced-truck-cops",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T16:10:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -785,6 +799,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_2de48a7c8d8c6a08",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ex-FBI officials charged with lying to Congress about Hunter Biden probes - Reuters",
+      "snippet": "Ex-FBI officials charged with lying to Congress about Hunter Biden probes  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTdPQ3dYU0R5ODhPalRCbE5Cd1FvcTI4aUl5YUJsR2NLM2ROZVNfT2VUS1dKUWtROW9TQkhkQUtFOEtndlUzRElrcWVfU0lHUU0xTFpGTUFLQWlwNklldWVZZDRsWHE3RGF4YUVjU2F0bDR0M0pfMktZRjItX0Q0cVhMLV9RWUpZbkhBYkp5VnZqUW0yUXJWeXdfQ0xBV3ZTdll4bW5jT1ZZOGVCcTdRX09NeUtkZGdxcW9KNFZ4ZWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T15:09:15.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_1bd085f11c3504dd",
@@ -2668,32 +2695,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26281658315510-e1792597755927.jpg?w=900",
       "publishedAt": "2026-10-23T13:20:13.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9555305ed8110989",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
-      "snippet": "Steelers to face New Orleans Saints in ⁠Saint-Denis on Sunday, about 10km from where Saturday's protests ​are expected.",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T13:19:19.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6c236fb1214800dd",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Ukraine says Starlink connection speeds still being throttled",
-      "snippet": "Ukraine reports ongoing issues with slow transmission speeds over SpaceX's satellite communications system after Trump insists restrictions are lifted.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/23/Ukraine-Starlink-connectivity-speed-issues-persist/5771792756345/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/5771792756345/2026/upi/74633cf3f5a8be3c3818e4d1080159bd/v1.5/Ukraine-says-Starlink-connection-speeds-still-being-throttled.jpg",
-      "publishedAt": "2026-10-23T13:18:29.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
