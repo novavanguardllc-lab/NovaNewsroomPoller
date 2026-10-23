@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-23T13:25:05.255Z",
+  "updatedAt": "2026-10-23T13:30:10.473Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.394Z"
+      "lastSuccess": "2026-10-23T13:30:10.668Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.311Z"
+      "lastSuccess": "2026-10-23T13:30:10.585Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.460Z"
+      "lastSuccess": "2026-10-23T13:30:10.766Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.425Z"
+      "lastSuccess": "2026-10-23T13:30:10.708Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.781Z"
+      "lastSuccess": "2026-10-23T13:30:11.243Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.716Z"
+      "lastSuccess": "2026-10-23T13:30:11.263Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.454Z"
+      "lastSuccess": "2026-10-23T13:30:10.887Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.472Z"
+      "lastSuccess": "2026-10-23T13:30:10.724Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.598Z"
+      "lastSuccess": "2026-10-23T13:30:11.105Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.512Z"
+      "lastSuccess": "2026-10-23T13:30:10.804Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.494Z"
+      "lastSuccess": "2026-10-23T13:30:10.922Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.498Z"
+      "lastSuccess": "2026-10-23T13:30:10.820Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.654Z"
+      "lastSuccess": "2026-10-23T13:30:10.917Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.519Z"
+      "lastSuccess": "2026-10-23T13:30:11.150Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T13:25:05.694Z"
+      "lastErrorAt": "2026-10-23T13:30:11.181Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.542Z"
+      "lastSuccess": "2026-10-23T13:30:11.206Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T13:25:05.702Z"
+      "lastErrorAt": "2026-10-23T13:30:11.300Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.721Z"
+      "lastSuccess": "2026-10-23T13:30:11.224Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.740Z"
+      "lastSuccess": "2026-10-23T13:30:11.352Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.637Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T13:30:10.821Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.533Z"
+      "lastSuccess": "2026-10-23T13:30:10.784Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:07.461Z"
+      "lastSuccess": "2026-10-23T13:30:11.286Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T13:25:05.692Z"
+      "lastSuccess": "2026-10-23T13:30:11.041Z"
     }
   },
   "items": [
@@ -106,6 +107,32 @@
       "link": "https://www.semafor.com/article/10/23/2026/dangote-plans-15-billion-kenya-pipeline-investment",
       "imageUrl": "https://img.semafor.com/c65e81209de6d2944bb023c4081cb19903647457-2048x1365.jpg",
       "publishedAt": "2026-10-23T13:23:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f6c86c0170fbd7b5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Why some people are falling for Meta's Muse AI",
+      "snippet": "Meta's Muse AI was built to manage tasks, but users are developing romantic AI relationships and even calling the AI companion their girlfriend.",
+      "link": "https://www.foxnews.com/tech/why-people-falling-metas-muse-ai",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T13:22:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5cb995d3e90247c8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Questions linger about Ukraine's access to Elon Musk's Starlink and Starshield",
+      "snippet": "It's not yet clear whether Ukrainian forces have regained access to the Starlink and Starshield technologies used in the war against Russia. CBS News' Aidan Stretch reports.",
+      "link": "https://www.cbsnews.com/video/questions-linger-about-ukraines-access-to-elon-musks-starlink-and-starshield/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T13:21:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "imageUrl": "https://s.france24.com/media/display/239dc254-ce1b-11f1-a7da-3f59e19fd7f8/w:1024/p:16x9/FR-EN-reporters.jpg",
       "publishedAt": "2026-10-23T09:58:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_783dc9f117b17b68",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Defense attorneys in Charlie Kirk’s killing say they need several years to prepare for trial - AP News",
-      "snippet": "Defense attorneys in Charlie Kirk’s killing say they need several years to prepare for trial  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Ayb2RVWFVwVkFfZWNaYUgxMG1YeTNpVlRVN21rX0pJWmxYQWVmbFByZmMwc3l2QVZSTDhrcG5zdTVfODFtSDVMSHo2MkhDMGVUZ2doOFdWVzlFWFV0bDl0T2JobkxRZXNRVXRlLVRTcWQyckQ2b0Y1d09XLXVWbkZfQkRSTjZqQ1BERlpzZlJIaG5Ob2JsSQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T09:58:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_28fcaf8fa8c784ce",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Euro zone growth slows to 4-month low amid rising costs and French strife, survey shows - Reuters",
-      "snippet": "Euro zone growth slows to 4-month low amid rising costs and French strife, survey shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPREYtdWRHb1k1TXZBQVJzeTdtb0NLZFBSNTFRRzR1enRIV0MwUE5meXJyX0tYNWZ2MmRBTnAtc3NPYm1wTHpkX0tSUURpLTNadDlYTHBHOWxmQ3FOZXl3cTBxQTBreTFCSmN3aGhlTEVIMTNJM3VyaExCYmp1TkV5X2d1cjFPZlhnQzBwR1lIZ0NMM2EtSkRpWTF6dXNoTWZiV01QRE02M3JJR0lTd2lONU9HRG1ETUJydEVUQjYwWnpGbnZv?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T09:57:44.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
