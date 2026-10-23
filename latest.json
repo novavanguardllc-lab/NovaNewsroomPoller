@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-23T04:10:07.427Z",
+  "updatedAt": "2026-10-23T04:15:07.921Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.541Z"
+      "lastSuccess": "2026-10-23T04:15:08.299Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.617Z"
+      "lastSuccess": "2026-10-23T04:15:08.267Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.908Z"
+      "lastSuccess": "2026-10-23T04:15:08.166Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.503Z"
+      "lastSuccess": "2026-10-23T04:15:08.183Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.650Z"
+      "lastSuccess": "2026-10-23T04:15:08.188Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.663Z"
+      "lastSuccess": "2026-10-23T04:15:08.545Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.735Z"
+      "lastSuccess": "2026-10-23T04:15:08.603Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.743Z"
+      "lastSuccess": "2026-10-23T04:15:08.201Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.682Z"
+      "lastSuccess": "2026-10-23T04:15:08.220Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.675Z"
+      "lastSuccess": "2026-10-23T04:15:08.606Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T04:10:07.857Z"
+      "lastErrorAt": "2026-10-23T04:15:08.623Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.632Z"
+      "lastSuccess": "2026-10-23T04:15:08.105Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.700Z"
+      "lastSuccess": "2026-10-23T04:15:08.586Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.648Z"
+      "lastSuccess": "2026-10-23T04:15:08.355Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.643Z"
+      "lastSuccess": "2026-10-23T04:15:08.399Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.854Z"
+      "lastSuccess": "2026-10-23T04:15:08.751Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.724Z"
+      "lastSuccess": "2026-10-23T04:15:08.328Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.889Z"
+      "lastSuccess": "2026-10-23T04:15:08.511Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.894Z"
+      "lastSuccess": "2026-10-23T04:15:08.621Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T04:10:07.857Z"
+      "lastErrorAt": "2026-10-23T04:15:08.659Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.927Z"
+      "lastSuccess": "2026-10-23T04:15:08.349Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:07.958Z"
+      "lastSuccess": "2026-10-23T04:15:08.762Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T04:10:08.020Z"
+      "lastSuccess": "2026-10-23T04:15:10.693Z"
     }
   },
   "items": [
@@ -106,6 +106,32 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dd6cd0671797dca8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+      "snippet": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:09:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6d1c114983685b58",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+      "snippet": "Search and rescue efforts under way after quake strikes region’s north, officials say, while at least seven aftershocks recorded\nA magnitude-7 earthquake has hit China’s Tibet region, killing at least 16 people, injuring 54 and collapsing h",
+      "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:04:35.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -132,6 +158,71 @@
       "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
       "imageUrl": null,
       "publishedAt": "2026-10-23T04:01:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4567f47f96ed8b1",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+      "snippet": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll\nHeat killed a record 50,000 people in European cities this summer, new research suggests, with scientists bl",
+      "link": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:01:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d93b4fe89e8015c7",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Liechtenstein prince’s ‘surreal’ abortion veto dismays campaigners",
+      "snippet": "Alois uses the first veto of his reign to quash parliament-approved bill backed by a national petition\nThe hereditary prince of Liechtenstein has used his veto for the first time in his reign to quash a bill aimed at bringing abortion laws ",
+      "link": "https://www.theguardian.com/world/2026/oct/23/liechtenstein-princes-surreal-abortion-veto-dismays-campaigners",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:00:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eea4f31f94f24465",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK consumer confidence falls at fastest rate since Covid as cost of living bites",
+      "snippet": "Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget\nConsumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating eco",
+      "link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:00:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_285d91730b99f214",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "What will Trump do if he loses in November? Your questions answered – podcast",
+      "snippet": "Will Donald Trump accept a ‘blue wave’ if it happens? Have young people turned away from centrist politics for ever? Will the US ever recover its image on the world stage? Jonathan Freedland is joined by the Guardian US columnist Moira Done",
+      "link": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T04:00:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27aedf231eb6a418",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Nationals leader Matt Canavan eyes move to lower house as pollster warns of One Nation wipeout",
+      "snippet": "Michelle Landry announces she will not recontest her Queensland seat of Capricornia at the next election\n\nGet our new political email, free app or daily news podcast\n\nMatt Canavan could attempt a switch to the House of Representatives after",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/nationals-leader-matt-canavan-lower-house-capricornia-one-nation-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T03:59:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -536,6 +627,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T02:00:56.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f0d5aff7d86252cd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Nepal to get $20 million from climate fund after deadly August flood - Reuters",
+      "snippet": "Nepal to get $20 million from climate fund after deadly August flood  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlVRZ1pRQmFHclNSbW1xY0szUm5hdHZ4NnVQemZWcmxOWW1jRnFCcC1aM2wydFoyVUxYLWptNUk0VDJDVlhWay1MUi1JQVl5V2xpT1FFVy14U2Vhd2IxZmJQRHN2aHpRaHlZQXhrTGt4d0R5bE51TlVBT0xzeWtpUk9hR3g4QWxmbUp3SE1xU0NUVTdhNy1mTXBQSlk0WWJtSklCX0NaMUU5a1RWT0JFbkpQMDhjbXM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2590,110 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T22:00:14.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f4908fad5249a724",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "'Goldbergs’ star Jeff Garlin says he planned to take his own life amid turbulent final days on sitcom",
-      "snippet": "Jeff Garlin reveals he planned to take his own life after his turbulent exit from \"The Goldbergs,\" detailing the crisis that led him to seek help.",
-      "link": "https://www.foxnews.com/entertainment/goldbergs-star-jeff-garlin-planned-take-own-life-turbulent-final-days-sitcom",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:00:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3af04d5b587164df",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fox News Poll: Nail-biter in Maine Senate race",
-      "snippet": "Susan Collins and Troy Jackson are deadlocked at 49% in the Maine Senate race as Trump's job approval sits 25 points underwater in the state.",
-      "link": "https://www.foxnews.com/politics/fox-news-poll-nail-biter-maine-senate-race",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:00:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_704f8951aeea691c",
-      "source": "Politico",
-      "sourceColor": "#A65A2E",
-      "headline": "Democrats’ top Senate super PAC has raised $354M this year",
-      "snippet": "The figure is a record for the group and includes roughly $88 million in the first two weeks of October.",
-      "link": "https://www.politico.com/live-updates/2026/10/22/congress/senate-dems-big-haul-01132834",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c3229fbb8285287c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Sister of American held in Russia says he didn't know he was being released until he saw US flag - AP News",
-      "snippet": "Sister of American held in Russia says he didn't know he was being released until he saw US flag  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmp5M3lYV2cwT1dIbnNSNTI1dms0d210elVoWmNGd3pqMl94eHdhS3hpV2REX3hVdVlyOUpodElwTWpIZVF1LUxMZTcxa2YtaWtpMC1LZUFHQU9uc01uYTRCX3N6VmpEUUlQV3VJRmQ0dHdKblk4bVRtOUU1VUptN25LX1JzOVdnc2Z4LVR1YnJZUzNuT0pLZzRBRXB2d1RhTGk3WGhrZmtQNmRr?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e70c1729d00c74ed",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "More people now use GLP-1s to lose weight than for other health issues",
-      "snippet": "Growing usage of GLP-1 drugs for weight loss is reshaping how consumers shop for food and clothes, according to consulting firm EY-Parthenon.",
-      "link": "https://www.cbsnews.com/news/glp-1-weight-loss-drug-diabetes-consumption-habits/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T21:58:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_87e079bfb2454b60",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Elissa Slotkin’s contemporary Bolshevism",
-      "snippet": "Sen. Elissa Slotkin (D-MI) gave a preview of the harsh totalitarianism looming over the country should Democrats win control of Congress in the midterm elections. It involved harassment, intimidation, and nearly everything short of death di",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4775361/elissa-slotkin-contemporary-bolshevism-bully-hints-of-intimidation/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T21:58:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a51b20958b571fd",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries - AP News",
-      "snippet": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE5iNkpiZ2FiYnczNGJ4Z1NXUzQ2WU1OaVhXbjlRaXpHVy1HMHg5S1Q0dFgwS1Y3ajJIV1V4UjBIcWxodTMtZmJtbzZqVWZ1bVdVWEpicmI3dktxdzdfOTZkQW94bWVvR19tR01OZ3QyOFZiNGRrN0I4TFdVLWZNNWZkZk4zYzI5bk8ycjI5SExjdlVFUDNsMVJLQks?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T21:57:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_63d507635649a738",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump administration oversaw 980,000 deportations during first 18 months - Reuters",
-      "snippet": "Trump administration oversaw 980,000 deportations during first 18 months  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUk9OY3JNR0FKWnVlblZSVW5fS01NTDdKdGNYTEgtZGxCMkRhMDgyRlp1Z0JmTDd5aUNkWndkN3RZNVBWaFVPSVMtX2RLT0xYNjNjMFFsWEJ3WVVmekZoaHpwMG02ZUQxbW1nTlQwZEQ3YzdIVDNHNHJJSjg1bmdTSXl5Njl0SWhLTTk0UEtxSTc4NGgtLTFvZ0Rhd1J4bTJReGhZaVd4bWJKM3RKWmZXQUlmOUJQaTlCMFZjWnNkSkpCQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T21:56:38.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
