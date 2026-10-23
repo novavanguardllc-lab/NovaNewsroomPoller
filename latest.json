@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-10-23T16:05:04.845Z",
+  "updatedAt": "2026-10-23T16:10:07.584Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.936Z"
+      "lastSuccess": "2026-10-23T16:10:07.784Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.901Z"
+      "lastSuccess": "2026-10-23T16:10:07.665Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.966Z"
+      "lastSuccess": "2026-10-23T16:10:07.790Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.896Z"
+      "lastSuccess": "2026-10-23T16:10:07.745Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.442Z"
+      "lastSuccess": "2026-10-23T16:10:07.704Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.539Z"
+      "lastSuccess": "2026-10-23T16:10:08.140Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.961Z"
+      "lastSuccess": "2026-10-23T16:10:07.844Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.983Z"
+      "lastSuccess": "2026-10-23T16:10:07.798Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.029Z"
+      "lastSuccess": "2026-10-23T16:10:07.895Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.057Z"
+      "lastSuccess": "2026-10-23T16:10:07.805Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.073Z"
+      "lastSuccess": "2026-10-23T16:10:07.902Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.980Z"
+      "lastSuccess": "2026-10-23T16:10:07.809Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.048Z"
+      "lastSuccess": "2026-10-23T16:10:07.870Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.066Z"
+      "lastSuccess": "2026-10-23T16:10:07.905Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T16:05:05.083Z"
+      "lastErrorAt": "2026-10-23T16:10:07.898Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.082Z"
+      "lastSuccess": "2026-10-23T16:10:07.913Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T16:05:05.085Z"
+      "lastErrorAt": "2026-10-23T16:10:07.960Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.125Z"
+      "lastSuccess": "2026-10-23T16:10:07.969Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.098Z"
+      "lastSuccess": "2026-10-23T16:10:08.056Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.100Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T16:10:07.820Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:04.998Z"
+      "lastSuccess": "2026-10-23T16:10:07.803Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.136Z"
+      "lastSuccess": "2026-10-23T16:10:08.028Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T16:05:05.178Z"
+      "lastSuccess": "2026-10-23T16:10:07.958Z"
     }
   },
   "items": [
+    {
+      "id": "story_01ef2b7db1278d7f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "House hunter discovers deceased body in vacant home",
+      "snippet": "In an exclusive interview, a homebuyer shares vivid details of finding a dead man during a house tour.",
+      "link": "https://www.cbsnews.com/news/kentucky-house-hunter-discovers-deceased-body-in-a-vacant-house/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T16:09:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_260b7b7f9ac476ad",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump administration to push for new labels on seafood",
+      "snippet": "The Trump administration intends to push for new labels on seafood sold at grocery stores to give consumers a better idea of where products originated.",
+      "link": "https://www.cbsnews.com/news/trump-administration-seafood-labels/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T16:08:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a79b82dcad88ddc2",
       "source": "Wash Examiner",
@@ -118,6 +145,32 @@
       "snippet": "“I’m not going to leave money on the table when it could help our kids,” New York Gov. Kathy Hochul (D-NY) declared while reiterating that her state will participate in the new federal scholarship tax credit. Her confident commitment to exp",
       "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4776403/virginia-education-freedom-tax-credit-sgo-tutoring-support-in-spanberger-hands/",
       "imageUrl": null,
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c4933bea3c3f8be",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company.",
+      "snippet": "The post Ken Paxton Says He’s Tough on Crime. His Trust Invested $600,000 in a Convicted Fraudster’s Company. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/ken-paxton-investment-scott-sherman-wildcatter",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/PaxtonWildcatter-V1_maxHeight_3000_maxWidth_3000-1.jpg?w=1149",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_94b4326a91b7624c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Cognitive surrender: Artificial intelligence’s threat to democracy",
+      "snippet": "Wesleyan University computer science professor Sebastian Zimmeck argues that artificial intelligence poses a threat to democratic citizenship by encouraging cognitive surrender and requiring both individual critical thinking and robust regu",
+      "link": "https://thehill.com/opinion/technology/6166067-protecting-personal-agency-ai/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26229853333976-e1790100818796.jpg?w=900",
       "publishedAt": "2026-10-23T16:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -668,6 +721,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_1bd085f11c3504dd",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Share Your Experiences With Medicaid Claims for Repayment",
+      "snippet": "The New York Times would like to hear from people about Medicaid trying to recoup money after the death of a loved one.",
+      "link": "https://www.nytimes.com/2026/10/23/us/medicaid-repayment-claims-questions.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T15:08:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_f725463cc2a23d8c",
@@ -1563,6 +1629,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T14:12:50.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_336438f7447eef90",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Austria expels 4 Russian diplomats linked to espionage, official says - AP News",
+      "snippet": "Austria expels 4 Russian diplomats linked to espionage, official says  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkN6SkpCZXhBOEs1M1pVek9wTEhscXVSZnVzMExMU2ZBNEk3UnR5d2s1ZWtiT1lOdnczSlpTSDR1bW91eWxaeE15bnZMZ0dqbFdKdmpGbHlHVGltSjByTWE4eXJUWFI3YlFfQjVRQmxRdlNvai1zN212SjZLY1o2X3NvdXVseVdmQnJFRUJCR09IbmFhdGRlN0UzTGVGSzBpTmQzVHl3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T14:12:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2615,84 +2694,6 @@
       "link": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-23T13:12:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e20607f3c5ecb7a9",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "France awaits Moody's verdict: Downgrade widely expected as debt fears grow",
-      "snippet": "France's cost of living protests come as the country struggles with its increasing public debt. Concerns over these public finances have pushed the nation's 10-year government bond yield above 5% for the first time since 2002—making borrowi",
-      "link": "https://www.france24.com/en/france-awaits-moody-s-verdict-downgrade-widely-expected-as-debt-fears-grow",
-      "imageUrl": "https://s.france24.com/media/display/e95bccc2-cee1-11f1-919a-4b25c96ec90e/w:1024/p:16x9/capture-13e02a78.jpg",
-      "publishedAt": "2026-10-23T13:10:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1cfaf6dd6876903a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Live updates: Trump pushes effort to lower gas prices, leans into Ramaswamy ad controversy",
-      "snippet": "President Trump will rally voters closer to home on Friday afternoon, with a campaign stop in Fort Myers, Florida, as long-awaited midterm elections approach. He’ll be there to boost Rep. Byron Donalds (R-Fla.), who’s running for governor, ",
-      "link": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26296089348326-e1792760145755.jpg?w=900",
-      "publishedAt": "2026-10-23T13:09:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8a1e64345c4bfcef",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "AOC campaigns for Troy Jackson in Maine and slams Susan Collins",
-      "snippet": "New York Democratic Rep. Alexandria Ocasio-Cortez campaigned for Troy Jackson in Maine, where he's fighting for Susan Collins' Senate seat. CBS News' Taurean Small reports.",
-      "link": "https://www.cbsnews.com/video/aoc-campaigns-for-troy-jackson-in-maine-and-slams-susan-collins/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T13:09:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cabbcfe8d74e77fd",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Met police searching for suspect after man shot near Royal Artillery Barracks",
-      "snippet": "Victim left with life-threatening injuries after incident in Frances Street, Woolwich, south-east London\nPolice are searching for a suspect after a man was shot near the Royal Artillery barracks in south-east London.\nThe victim has been lef",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T13:08:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9da0e82502e9e56a",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Jordan: Karak church shooting leaves 7 dead",
-      "snippet": "The shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to local authorities. Two unidentified men opened fire on the procession.",
-      "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T13:07:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_27f6cd011a781969",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The Bukeleization of Latin America Has Arrived",
-      "snippet": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region.",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T13:05:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
