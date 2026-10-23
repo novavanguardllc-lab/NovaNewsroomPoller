@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-23T14:25:05.491Z",
+  "updatedAt": "2026-10-23T14:30:11.063Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.592Z"
+      "lastSuccess": "2026-10-23T14:30:11.572Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.739Z"
+      "lastSuccess": "2026-10-23T14:30:11.245Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.759Z"
+      "lastSuccess": "2026-10-23T14:30:11.326Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.720Z"
+      "lastSuccess": "2026-10-23T14:30:11.416Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.652Z"
+      "lastSuccess": "2026-10-23T14:30:11.320Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.816Z"
+      "lastSuccess": "2026-10-23T14:30:11.862Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.867Z"
+      "lastSuccess": "2026-10-23T14:30:11.519Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.732Z"
+      "lastSuccess": "2026-10-23T14:30:11.329Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.894Z"
+      "lastSuccess": "2026-10-23T14:30:11.655Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.857Z"
+      "lastSuccess": "2026-10-23T14:30:11.228Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.912Z"
+      "lastSuccess": "2026-10-23T14:30:11.774Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.900Z"
+      "lastSuccess": "2026-10-23T14:30:11.424Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.909Z"
+      "lastSuccess": "2026-10-23T14:30:11.586Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.922Z"
+      "lastSuccess": "2026-10-23T14:30:11.444Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T14:25:05.931Z"
+      "lastErrorAt": "2026-10-23T14:30:11.434Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.930Z"
+      "lastSuccess": "2026-10-23T14:30:11.796Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T14:25:05.931Z"
+      "lastErrorAt": "2026-10-23T14:30:11.885Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.938Z"
+      "lastSuccess": "2026-10-23T14:30:11.902Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.955Z"
+      "lastSuccess": "2026-10-23T14:30:11.935Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.779Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T14:30:11.435Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:05.838Z"
+      "lastSuccess": "2026-10-23T14:30:11.536Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:08.377Z"
+      "lastSuccess": "2026-10-23T14:30:11.984Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T14:25:06.265Z"
+      "lastSuccess": "2026-10-23T14:30:11.761Z"
     }
   },
   "items": [
+    {
+      "id": "story_e2b03c82c5bc1261",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Romania blames Russia for ship attack in the Black Sea",
+      "snippet": "Russian strikes against ships attempting to export Ukrainian grain and cargo through the western Black Sea have sharply increased this month.",
+      "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T14:25:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f3efceff5376ace4",
       "source": "DW",
@@ -106,6 +120,19 @@
       "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-23T14:23:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eede5c4ffa5ecaa3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Immigration helped Trump get elected in 2024. Now, some Texans say the crackdown has gone too far.",
+      "snippet": "Two years ago, Republicans made huge gains among Latino communities along the southern border. CBS News polling now shows nearly 60% of Latino voters say the Trump administration is deporting more people than they expected. Camilo Montoya-G",
+      "link": "https://www.cbsnews.com/video/immigration-helped-trump-get-elected-in-2024-now-some-texans-say-the-crackdown-has-gone-too-far/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T14:21:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -137,6 +164,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2a2354391047a1ea",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
+      "snippet": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'.",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T14:16:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5c96b22d487c377f",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -148,6 +188,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_b5a7dc3f2718026e",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Mississippi releases video of 1-year-old’s fatal police shooting",
+      "snippet": "Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T14:15:52.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_0e785f4e69669c23",
@@ -770,6 +823,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-23T13:38:50.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_319947e3de53d24d",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Meta to delay new commercial terms criticised by publishers, advertisers - Reuters",
+      "snippet": "Meta to delay new commercial terms criticised by publishers, advertisers  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjN6ZmpjOEpNU29maVFkbFhndHEtTHlIbVlMU2V5MUdkYlEtVEFSNFNzSHZuRTRROUJfQWlTRE9md09vSHRuLUZxelhUS3VJVUtBRFB4MlRuYmxpS2dJcGdaQ3gwVDM3cnEyTlR0aC0yaG9TXzBZUnZ4RUliNGxKOXczUHFpZmt6VWxkYUQ3M1g3VEFFb18wVkoyb0pOU2RIV09Wc2FoZF9NUG1RMFFuY0MwbGhoQ3lialoydUtNX2oxUG5jOEE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T13:38:09.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1970,6 +2036,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4e3ce6fba3d9d17c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests - AP News",
+      "snippet": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine's protests  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNlBURXk2bjFrc3ZkS2YxamJJM1RjZ1lOblh6ZTJPWTdrbHpPWjJIdzZMdjdBR0pOZFZ1eHhOcnUxRllDOGMweV9NN1JpU28yMmpEeFMwaFBweFk5bGR1QnRBd2NfdXI4Tk1uOWdjNFRhR2dZOG9BNGVWN1ZhQjBIdkloVEsxaUxkWlJJMTFjbnRCZ3I5dkgtN0U4bXBfbnZQVzliVThn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T11:42:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_9cb9bf1c86562692",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2226,6 +2305,19 @@
       "imageUrl": "https://img.semafor.com/a9702586931966fe9ddd56eb2f0258cdeaeaa73d-2048x1366.jpg",
       "publishedAt": "2026-10-23T11:24:19.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dc9c18b4850317f0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Southeast Asia’s worst haze in over a decade sparks student protests - AP News",
+      "snippet": "Southeast Asia’s worst haze in over a decade sparks student protests  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0s4a3J0c3ZjZ0gtLTUwX2JDZnJvbVYwcGR2bHQ0aDczakJ5SGZsUDFjaU9uVkxfbl9WVEdMZkVQNjJ0a2cyU0U1TmVuY2dtbms4OFlDQzBia2ZxM1A0eHpqdVExQ1l2aHdLUmxJZC1RdkZ1Ums0LTBrSTZkX05fQ3Bqc3FXRHVfbl9DNnBYUkZMQVlLVF9uYU53RHpSVDd3OHJCQS1uWTkybms1dGs1aG5aWlRJS19Xei1jTVZxRE5iQXM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T11:24:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2602,97 +2694,6 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4776799/obama-abdul-el-sayed-michigan-senate-race/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44c333324b28ca0d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Hasan Piker cheered Hamas. Abdul el Sayed handed him the mic",
-      "snippet": "Abdul el Sayed, Michigan’s Democratic Senate nominee, told ABC News on Monday that “it’s time for us to realize that Israel is actually not our friend,” comparing the Jewish state to a kid who keeps “bumming off” your child’s money and drag",
-      "link": "https://www.washingtonexaminer.com/op-eds/4775775/abdul-el-sayed-hasan-piker-israel/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bb540fbc012cdadb",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Why Meta is charging to post more hyperlinks",
-      "snippet": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What's the rationale for companies want to keep you o",
-      "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5d1e6dbeca537d0",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Is ‘gentle parenting’ just a fast way to ruin your child?",
-      "snippet": "We have seen that authoritative parenting works; we know a lot less about gentle parenting.",
-      "link": "https://thehill.com/opinion/healthcare/6166603-gentle-parenting-lacks-data/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2023/10/child_care_west_virginia_09252023_AP_AP23272555015201.jpg?w=900",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_da7f397f523388fc",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Girl accused of helping Russia kill Ukrainian soldiers with poison",
-      "snippet": "After receiving packages with \"free drugs,\" the soldiers were \"instructed to take them on camera,\" police said.",
-      "link": "https://www.cbsnews.com/news/teen-girl-accused-helping-russia-kill-ukraine-soldiers-poison/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T10:58:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e160162e953ca68d",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  NJ mayor defends charging critic during town hall meeting",
-      "snippet": "Chaos unfolded during a town hall meeting in Pemberton, New Jersey, after the Mayor Matthew Bianchini charged at a critic before being restrained by a former police chief.",
-      "link": "https://abcnews.com/video/137503458/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T10:55:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_98f6b4d6e034fb03",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Washington parents find their courage as girls walk off cross country course in protest of trans runner",
-      "snippet": "Over 100 adults rallied outside a Camas High girls cross country district meet to protest a biological male competitor as Initiative 638 looms.",
-      "link": "https://www.foxnews.com/outkick-sports/washington-parents-find-courage-girls-walk-off-cross-country-course-protest-trans-runner",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T10:54:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5ff6176f0a07364",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rahm Emanuel pleads for the Democratic Party to welcome more 'McCain-Romney Republicans'",
-      "snippet": "Rahm Emanuel urged the Democratic Party to welcome \"McCain-Romney Republicans\" into their coalition, warning against far-left policies ahead of 2026 midterms.",
-      "link": "https://www.foxnews.com/media/rahm-emanuel-pleads-democratic-party-welcome-mccain-romney-republicans",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T10:54:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
