@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-23T00:25:05.216Z",
+  "updatedAt": "2026-10-23T00:30:11.713Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.322Z"
+      "lastSuccess": "2026-10-23T00:30:12.274Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.840Z"
+      "lastSuccess": "2026-10-23T00:30:12.170Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.729Z"
+      "lastSuccess": "2026-10-23T00:30:12.111Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.381Z"
+      "lastSuccess": "2026-10-23T00:30:12.192Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.400Z"
+      "lastSuccess": "2026-10-23T00:30:12.236Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.502Z"
+      "lastSuccess": "2026-10-23T00:30:12.523Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.706Z"
+      "lastSuccess": "2026-10-23T00:30:12.229Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.598Z"
+      "lastSuccess": "2026-10-23T00:30:12.316Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.460Z"
+      "lastSuccess": "2026-10-23T00:30:12.292Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.664Z"
+      "lastSuccess": "2026-10-23T00:30:12.520Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T00:25:05.678Z"
+      "lastErrorAt": "2026-10-23T00:30:12.287Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.444Z"
+      "lastSuccess": "2026-10-23T00:30:11.948Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.703Z"
+      "lastSuccess": "2026-10-23T00:30:12.428Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.441Z"
+      "lastSuccess": "2026-10-23T00:30:12.314Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.523Z"
+      "lastSuccess": "2026-10-23T00:30:12.399Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.942Z"
+      "lastSuccess": "2026-10-23T00:30:13.087Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.563Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-23T00:30:21.770Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.624Z"
+      "lastSuccess": "2026-10-23T00:30:12.515Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.700Z"
+      "lastSuccess": "2026-10-23T00:30:12.611Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T00:25:05.730Z"
+      "lastErrorAt": "2026-10-23T00:30:12.651Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.479Z"
+      "lastSuccess": "2026-10-23T00:30:12.032Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:05.763Z"
+      "lastSuccess": "2026-10-23T00:30:12.629Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T00:25:06.179Z"
+      "lastSuccess": "2026-10-23T00:30:13.109Z"
     }
   },
   "items": [
@@ -106,6 +107,32 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_aaa7ad3904e8f335",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search",
+      "snippet": "U.S. Rep. Ilhan Omar will move out of her Washington, D.C., home that federal agents searched last week, she said Wednesday, noting that attention brought on by the raid has made her feel unsafe there.",
+      "link": "https://www.pbs.org/newshour/politics/rep-ilhan-omar-says-she-will-move-out-of-her-washington-dc-home-after-federal-search",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T00:25:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8a38805ece8dee8b",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Massive student-led rally marches in Belgrade ahead of Serbian election",
+      "snippet": "Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday\n\nExplained: what’s at stake in Serbia’s election? The key players, main issues and potential fallout\n\nAbout 150,000 supporters of S",
+      "link": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T00:22:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -132,6 +159,19 @@
       "link": "https://www.cbsnews.com/news/parents-children-electric-motorcycle-crashes-criminal-charges/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T00:12:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4659729192869b11",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+      "snippet": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T00:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 7
-    },
-    {
-      "id": "story_ff9d9ab8fc911b91",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump decries Mamdani deal to ban New York City horse carriages: ‘So sad’",
-      "snippet": "President Donald Trump is not a fan of New York City Mayor Zohran Mamdani’s deal with the City Council to end horse-drawn carriage rides, a popular and historic tourist attraction in Central Park. “So sad to see the beloved Central Park Hor",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4776394/trump-mamdani-nyc-horse-carriage-ban/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T20:18:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f87d6a790b3d17d4",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Manuel Otto, German video game creator, dies after apparently livestreaming his suicide",
-      "snippet": "German video game designer and influencer Manuel Otto apparently took his own life while doing a livestream on Twitch, according to the streaming platform and his colleagues.",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/manuel-otto-german-video-game-creator-dies-apparently-livestreaming-su-rcna605025",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T20:15:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7014310a447cc630",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "DOJ moves to boot two federal judges from immigration cases over remarks to media: 'Extraordinarily imprudent'",
-      "snippet": "Two Minnesota federal judges who criticized Trump's Operation Metro Surge in a report published by the New York Times now face DOJ recusal motions tied to their immigration cases.",
-      "link": "https://www.foxnews.com/politics/doj-moves-boot-two-federal-judges-immigration-cases-over-remarks-media-extraordinarily-imprudent",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T20:15:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
