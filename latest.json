@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-23T03:35:05.154Z",
+  "updatedAt": "2026-10-23T03:40:07.696Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.472Z"
+      "lastSuccess": "2026-10-23T03:40:07.868Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.407Z"
+      "lastSuccess": "2026-10-23T03:40:08.071Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.370Z"
+      "lastSuccess": "2026-10-23T03:40:08.320Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.235Z"
+      "lastSuccess": "2026-10-23T03:40:07.875Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.427Z"
+      "lastSuccess": "2026-10-23T03:40:07.891Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.451Z"
+      "lastSuccess": "2026-10-23T03:40:07.991Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.671Z"
+      "lastSuccess": "2026-10-23T03:40:07.995Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.631Z"
+      "lastSuccess": "2026-10-23T03:40:08.028Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.633Z"
+      "lastSuccess": "2026-10-23T03:40:08.032Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.578Z"
+      "lastSuccess": "2026-10-23T03:40:08.013Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T03:35:05.628Z"
+      "lastErrorAt": "2026-10-23T03:40:08.073Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.433Z"
+      "lastSuccess": "2026-10-23T03:40:07.909Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.581Z"
+      "lastSuccess": "2026-10-23T03:40:08.385Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.271Z"
+      "lastSuccess": "2026-10-23T03:40:08.035Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.537Z"
+      "lastSuccess": "2026-10-23T03:40:07.954Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.894Z"
+      "lastSuccess": "2026-10-23T03:40:08.157Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.336Z"
+      "lastSuccess": "2026-10-23T03:40:08.199Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.530Z"
+      "lastSuccess": "2026-10-23T03:40:08.191Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.571Z"
+      "lastSuccess": "2026-10-23T03:40:08.274Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T03:35:05.559Z"
+      "lastErrorAt": "2026-10-23T03:40:08.275Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.377Z"
+      "lastSuccess": "2026-10-23T03:40:08.289Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:05.690Z"
+      "lastSuccess": "2026-10-23T03:40:08.314Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T03:35:06.181Z"
+      "lastSuccess": "2026-10-23T03:40:08.631Z"
     }
   },
   "items": [
@@ -106,6 +106,19 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_73a6f03909518323",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Feds charge 15 suspects in multiple alleged insurance, Medicare fraud schemes",
+      "snippet": "Federal prosecutors charged 15 people in connection with an alleged Medicare and insurance fraud schemes, the Justice Department said on Thursday.",
+      "link": "https://abcnews.com/US/feds-charge-15-suspects-multiple-alleged-insurance-medicare/story?id=137483638",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T03:31:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-22T21:50:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cebd632c082ea0af",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "English soccer team apologizes for hosting an out of hand 'Wet & Wild' show at their clubhouse",
-      "snippet": "Footage from the UK Pleasure Boys' \"Wet & Wild\" show at Banbury United FC's Spencer Clubhouse sparked an apology after acts went too far.",
-      "link": "https://www.foxnews.com/outkick-sports/english-soccer-team-apologizes-hosting-out-of-hand-wet-wild-show-clubhouse",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T21:48:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
