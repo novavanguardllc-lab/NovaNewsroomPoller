@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-23T23:10:08.252Z",
+  "updatedAt": "2026-10-23T23:15:08.064Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.463Z"
+      "lastSuccess": "2026-10-23T23:15:08.286Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.499Z"
+      "lastSuccess": "2026-10-23T23:15:08.244Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.396Z"
+      "lastSuccess": "2026-10-23T23:15:08.225Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.420Z"
+      "lastSuccess": "2026-10-23T23:15:08.387Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.390Z"
+      "lastSuccess": "2026-10-23T23:15:08.762Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.442Z"
+      "lastSuccess": "2026-10-23T23:15:08.734Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.361Z"
+      "lastSuccess": "2026-10-23T23:15:08.364Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.529Z"
+      "lastSuccess": "2026-10-23T23:15:08.545Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.495Z"
+      "lastSuccess": "2026-10-23T23:15:08.621Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.651Z"
+      "lastSuccess": "2026-10-23T23:15:08.571Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T23:10:08.598Z"
+      "lastErrorAt": "2026-10-23T23:15:08.572Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.516Z"
+      "lastSuccess": "2026-10-23T23:15:08.653Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.534Z"
+      "lastSuccess": "2026-10-23T23:15:08.565Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.586Z"
+      "lastSuccess": "2026-10-23T23:15:08.532Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T23:10:08.767Z"
+      "lastErrorAt": "2026-10-23T23:15:08.896Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.597Z"
+      "lastSuccess": "2026-10-23T23:15:08.550Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.593Z"
+      "lastSuccess": "2026-10-23T23:15:08.645Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.630Z"
+      "lastSuccess": "2026-10-23T23:15:08.683Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.674Z"
+      "lastSuccess": "2026-10-23T23:15:08.808Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.760Z"
+      "lastSuccess": "2026-10-23T23:15:08.879Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.773Z"
+      "lastSuccess": "2026-10-23T23:15:08.895Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.823Z"
+      "lastSuccess": "2026-10-23T23:15:08.920Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:10:08.854Z"
+      "lastSuccess": "2026-10-23T23:15:09.272Z"
     }
   },
   "items": [
+    {
+      "id": "story_a31c94efc4b5c52d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "ESPN posts propagandistic headline about Trump, LeBron and national anthem",
+      "snippet": "LeBron James was caught practicing his golf swing during the national anthem before his 76ers debut, prompting Trump to call it a \"TOTAL DISGRACE.\"",
+      "link": "https://www.foxnews.com/outkick-sports/espn-posts-propagandistic-headline-trump-lebron-national-anthem",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T23:02:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7d5e4fcf394bb9a5",
       "source": "CBS News",
@@ -988,6 +1001,19 @@
       "headline": "Disappointed primary voters weigh their choices: From the Politics Desk",
       "snippet": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
       "link": "https://www.nbcnews.com/politics/politics-news/disappointed-primary-voters-weigh-choices-politics-desk-rcna605292",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T21:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0eb27171fdcd1d15",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "10/23: The Takeout with Major Garrett",
+      "snippet": "Justice Department sues to block Alaska Senate race results if Republican loses; 11 days until midterm contests.",
+      "link": "https://www.cbsnews.com/video/102326-the-takeout-with-major-garrett/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T21:00:00.000Z",
       "tier": "routine",
@@ -2670,32 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_f069109074b9aa48",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34",
-      "snippet": "Images being broadcast on Jordanian state television show two gunmen who appear to be holding pistols approaching the church and firing shots. A third man who appears to be holding a semiautomatic rifle then appears and opens fire.",
-      "link": "https://www.pbs.org/newshour/world/gunmen-open-fire-at-a-church-during-a-funeral-in-jordan-killing-7-and-wounding-34",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T18:20:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1143edd96c8224c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Children being exploited by criminals to target Greater Manchester HMOs, police say",
-      "snippet": "GMP fear vulnerable people being paid to attack buildings suspected of housing immigrants or refugees\nVulnerable people, including children, are being recruited by criminals to damage houses suspected of being HMOs, police in Manchester bel",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T18:19:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
