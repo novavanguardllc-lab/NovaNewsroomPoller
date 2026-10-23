@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-23T23:40:07.826Z",
+  "updatedAt": "2026-10-23T23:45:08.322Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.062Z"
+      "lastSuccess": "2026-10-23T23:45:08.977Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.067Z"
+      "lastSuccess": "2026-10-23T23:45:08.623Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:07.976Z"
+      "lastSuccess": "2026-10-23T23:45:08.543Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.024Z"
+      "lastSuccess": "2026-10-23T23:45:08.618Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:07.966Z"
+      "lastSuccess": "2026-10-23T23:45:08.698Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.004Z"
+      "lastSuccess": "2026-10-23T23:45:08.662Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:07.943Z"
+      "lastSuccess": "2026-10-23T23:45:08.998Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.121Z"
+      "lastSuccess": "2026-10-23T23:45:09.042Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.103Z"
+      "lastSuccess": "2026-10-23T23:45:08.738Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.203Z"
+      "lastSuccess": "2026-10-23T23:45:09.185Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T23:40:08.235Z"
+      "lastErrorAt": "2026-10-23T23:45:09.159Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.126Z"
+      "lastSuccess": "2026-10-23T23:45:09.083Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.140Z"
+      "lastSuccess": "2026-10-23T23:45:09.078Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.180Z"
+      "lastSuccess": "2026-10-23T23:45:08.862Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T23:40:08.231Z"
+      "lastErrorAt": "2026-10-23T23:45:09.245Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.143Z"
+      "lastSuccess": "2026-10-23T23:45:09.242Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.080Z"
+      "lastSuccess": "2026-10-23T23:45:08.761Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.228Z"
+      "lastSuccess": "2026-10-23T23:45:09.123Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.186Z"
+      "lastSuccess": "2026-10-23T23:45:09.236Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.299Z"
+      "lastSuccess": "2026-10-23T23:45:09.389Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.240Z"
+      "lastSuccess": "2026-10-23T23:45:09.457Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.331Z"
+      "lastSuccess": "2026-10-23T23:45:09.276Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T23:40:08.358Z"
+      "lastSuccess": "2026-10-23T23:45:09.519Z"
     }
   },
   "items": [
@@ -147,6 +147,19 @@
       "publishedAt": "2026-10-23T23:27:05.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e8c537eb9c9f7d9d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump says NFL 'could've probably postponed' Paris game as France protests stretch police thin",
+      "snippet": "President Donald Trump says the NFL could have postponed the Steelers-Saints Paris game as mass protests stretch police and security resources.",
+      "link": "https://www.foxnews.com/outkick-sports/trump-says-nfl-could-probably-postponed-paris-game-france-protests-stretch-police-thin",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T23:26:23.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1172,6 +1185,19 @@
       "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-23T21:09:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c8e688df4954dd5d",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Trump doubles down on Amy Acton criticism as Ramaswamy ad controversy swirls",
+      "snippet": "\"It's a mother speaking badly against Amy Acton,\" Trump said.",
+      "link": "https://abcnews.com/Politics/trump-doubles-amy-acton-criticism-ramaswamy-ad-controversy/story?id=137516959",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T21:08:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2667,32 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/policy/defense/4777566/zelensky-us-ukraine-russia-trilateral-diplomacy-talks-november/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T18:53:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7ca9b56829c93478",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "AOC says she supports men in women's sports because she's a \"girl's girl\"",
-      "snippet": "AOC claimed she supports trans women in women's sports because she's a \"girls girl,\" drawing fierce backlash over her Title IX and rights stance.",
-      "link": "https://www.foxnews.com/outkick-sports/aoc-supports-men-womens-sports-girls-girl",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T18:49:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e6978f097eea8f5b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
-      "snippet": "After the discovery of a severe bug in the PHP programming language, executives warned of a coming ‘vulnerability tsunami’\nLeaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are pred",
-      "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T18:48:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
