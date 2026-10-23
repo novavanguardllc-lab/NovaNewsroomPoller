@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-23T05:55:04.788Z",
+  "updatedAt": "2026-10-23T06:00:12.850Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:04.915Z"
+      "lastSuccess": "2026-10-23T06:00:13.101Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:04.987Z"
+      "lastSuccess": "2026-10-23T06:00:13.045Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.269Z"
+      "lastSuccess": "2026-10-23T06:00:13.066Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.037Z"
+      "lastSuccess": "2026-10-23T06:00:12.964Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.017Z"
+      "lastSuccess": "2026-10-23T06:00:13.078Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.198Z"
+      "lastSuccess": "2026-10-23T06:00:13.269Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.204Z"
+      "lastSuccess": "2026-10-23T06:00:13.288Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.189Z"
+      "lastSuccess": "2026-10-23T06:00:13.106Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.186Z"
+      "lastSuccess": "2026-10-23T06:00:13.369Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.230Z"
+      "lastSuccess": "2026-10-23T06:00:13.272Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T05:55:05.244Z"
+      "lastErrorAt": "2026-10-23T06:00:13.425Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.007Z"
+      "lastSuccess": "2026-10-23T06:00:13.071Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.239Z"
+      "lastSuccess": "2026-10-23T06:00:13.314Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.086Z"
+      "lastSuccess": "2026-10-23T06:00:13.362Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.056Z"
+      "lastSuccess": "2026-10-23T06:00:13.166Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.440Z"
+      "lastSuccess": "2026-10-23T06:00:13.546Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.180Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-23T06:00:22.870Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.138Z"
+      "lastSuccess": "2026-10-23T06:00:13.248Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.251Z"
+      "lastSuccess": "2026-10-23T06:00:13.424Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T05:55:05.235Z"
+      "lastErrorAt": "2026-10-23T06:00:13.425Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.075Z"
+      "lastSuccess": "2026-10-23T06:00:13.393Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:05.256Z"
+      "lastSuccess": "2026-10-23T06:00:13.445Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T05:55:06.873Z"
+      "lastSuccess": "2026-10-23T06:00:13.466Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_feec98bedb1e98ac",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+      "snippet": "In today’s newsletter: ​Born from the fury surrounding the deadly Novi Sad station collapse, Serbia’s Student List has taken its protests all the way to the elections in an unprecedented grassroots campaign\n\nGood morning. As waves of youth-",
+      "link": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T05:43:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2680,19 +2694,6 @@
       "link": "https://thehill.com/newsletters/defense-national-security/6166946-senators-urge-hegseth-rubio-to-release-funding-for-baltic-security-initiative/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/Leading-Hegseth_060626_AP_Jeremias-Gonzalez.jpg?w=900",
       "publishedAt": "2026-10-22T22:25:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_34d7ff8d02e9b1c0",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Met Opera adapts experimental novel 'Lincoln in the Bardo' for the stage",
-      "snippet": "An acclaimed novel comes to life as a new opera, exploring a deeply personal side of one of America's most consequential presidents, Abraham Lincoln, and the profound grief that shaped his life. Jeffrey Brown takes in \"Lincoln in the Bardo\"",
-      "link": "https://www.pbs.org/newshour/show/met-opera-adapts-experimental-novel-lincoln-in-the-bardo-for-the-stage",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T22:25:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
