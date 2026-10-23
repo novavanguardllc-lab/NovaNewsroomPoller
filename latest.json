@@ -1,103 +1,128 @@
 {
-  "updatedAt": "2026-10-23T18:45:07.550Z",
+  "updatedAt": "2026-10-23T18:50:07.713Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.002Z"
+      "lastSuccess": "2026-10-23T18:50:07.800Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.021Z"
+      "lastSuccess": "2026-10-23T18:50:07.901Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:07.720Z"
+      "lastSuccess": "2026-10-23T18:50:07.813Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:07.846Z"
+      "lastSuccess": "2026-10-23T18:50:07.830Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.291Z"
+      "lastSuccess": "2026-10-23T18:50:07.885Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:07.759Z"
+      "lastSuccess": "2026-10-23T18:50:08.188Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:07.826Z"
+      "lastSuccess": "2026-10-23T18:50:07.914Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.186Z"
+      "lastSuccess": "2026-10-23T18:50:07.926Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:07.943Z"
+      "lastSuccess": "2026-10-23T18:50:07.960Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:07.966Z"
+      "lastSuccess": "2026-10-23T18:50:08.019Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T18:45:08.005Z"
+      "lastErrorAt": "2026-10-23T18:50:08.030Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.044Z"
+      "lastSuccess": "2026-10-23T18:50:08.003Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.008Z"
+      "lastSuccess": "2026-10-23T18:50:08.015Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.108Z"
+      "lastSuccess": "2026-10-23T18:50:07.991Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T18:45:08.324Z"
+      "lastErrorAt": "2026-10-23T18:50:08.040Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-23T18:45:07.946Z"
+      "online": true,
+      "lastSuccess": "2026-10-23T18:50:08.022Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.028Z"
+      "lastSuccess": "2026-10-23T18:50:07.924Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.039Z"
+      "lastSuccess": "2026-10-23T18:50:08.012Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.169Z"
+      "lastSuccess": "2026-10-23T18:50:08.033Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.273Z"
+      "lastSuccess": "2026-10-23T18:50:08.161Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.324Z"
+      "lastSuccess": "2026-10-23T18:50:08.053Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:08.361Z"
+      "lastSuccess": "2026-10-23T18:50:08.105Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:45:10.297Z"
+      "lastSuccess": "2026-10-23T18:50:08.099Z"
     }
   },
   "items": [
+    {
+      "id": "story_3900581c07d979b0",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Ketanji Brown Jackson issues public dissent in New Hampshire voting case",
+      "snippet": "Justice Ketanji Brown Jackson publicly broke with her Supreme Court colleagues in a Thursday ruling allowing New Hampshire to fully block voters from using student IDs in the upcoming midterms. Jackson, the high court’s most junior liberal ",
+      "link": "https://thehill.com/regulation/court-battles/6168921-jackson-dissents-new-hampshire-voter-id/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/05/AP26139081500280.jpg?w=900",
+      "publishedAt": "2026-10-23T18:43:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_956557adc5457b9b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Personalized mRNA vaccine for melanoma cut risk of cancer’s return in late-stage trial",
+      "snippet": "Moderna and Merck’s personalized mRNA vaccine for melanoma reduced the risk of cancer recurrence and death by 42% compared with standard treatment in a trial.",
+      "link": "https://www.nbcnews.com/health/cancer/personalized-mrna-vaccine-melanoma-cut-risk-cancers-return-late-stage-rcna605208",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:42:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b7a5b65204a1256f",
       "source": "Al Jazeera",
@@ -2036,6 +2061,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b6e4df026ce5747c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "LVHM-owned watchmaker Zenith to cut jobs, shift upmarket, source says - Reuters",
+      "snippet": "LVHM-owned watchmaker Zenith to cut jobs, shift upmarket, source says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUE9WYm1qY2hqOFFhMlZyY0dsX05GNHFpN0g2Tjd0NjA2b0ZKQVZwY241VEVCQ2xzQ1RWUEVQM1dkSVVCTXE4RGJDMXFnclFZcUZoR0JrUld6SFg4OE9JVlpIN093SW5vaUlELUZMQld0d2JuOFd0VlhjWjNPS1FZMXhoUnNuQnBzQS1JcDZ6bnlNbUV4SUVvS3dMS2JhLXU0Z1FPMDZFcEZ6S3FwVGxxOUMxaGNRay13SmlKMmt1cFJlTTA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T16:36:09.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_cc22b496f43134e8",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -2658,45 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_edd16291d7742bc5",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Bayern coach Kompany taken to hospital-reports - Reuters",
-      "snippet": "Bayern coach Kompany taken to hospital-reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVB1M1dpYmpYcm96aTd2Q0ZqdDBkTE5rYnVJeXJkUE9sY3lBYmtHVGhraE8wTVZiMVdsQ3Y0RkM2QlBFRjBiZ084bDVwWE56SkVyeDNCTThpNzFvRFYzV0J1R1VxTlpqZkV5T2xqZjBWdlhoWHdEcmxXQ3JuNWpNZkJSRXdRNDRYQXlQaUVqRjNwMjNOYV9mTw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:57:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9fe43c2afc4ce05e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
-      "snippet": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst answered your questions about the recent protests in France, the role of the French police, foreign influence and the upcoming presidential election.\n\nMichael Wolfcarius asks: I ",
-      "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:56:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eb2f37aef5eb45b2",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "West Bank: Extensive military operation 'on the way', Netanyahu says",
-      "snippet": "Israeli Prime Minister Benjamin Netanyahu on Friday warned of an imminent large-scale military operation in the West Bank and vowed to displace some residents of Hebron after Palestinian gunmen killed two soldiers in an attack.",
-      "link": "https://www.france24.com/en/video/20261023-west-bank-extensive-military-operation-on-the-way-netanyahu-says",
-      "imageUrl": "https://s.france24.com/media/display/be36cda4-cef9-11f1-b713-5b4a75578ebb/w:1024/p:16x9/West-Bank-1.jpg",
-      "publishedAt": "2026-10-23T15:56:28.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
