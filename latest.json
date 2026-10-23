@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-23T10:10:08.371Z",
+  "updatedAt": "2026-10-23T10:15:07.580Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.456Z"
+      "lastSuccess": "2026-10-23T10:15:07.777Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.466Z"
+      "lastSuccess": "2026-10-23T10:15:07.715Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.496Z"
+      "lastSuccess": "2026-10-23T10:15:07.811Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.541Z"
+      "lastSuccess": "2026-10-23T10:15:07.975Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.566Z"
+      "lastSuccess": "2026-10-23T10:15:07.876Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.586Z"
+      "lastSuccess": "2026-10-23T10:15:08.205Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.624Z"
+      "lastSuccess": "2026-10-23T10:15:07.932Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.637Z"
+      "lastSuccess": "2026-10-23T10:15:08.014Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.699Z"
+      "lastSuccess": "2026-10-23T10:15:08.156Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.720Z"
+      "lastSuccess": "2026-10-23T10:15:08.039Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.724Z"
+      "lastSuccess": "2026-10-23T10:15:08.177Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.733Z"
+      "lastSuccess": "2026-10-23T10:15:08.160Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.747Z"
+      "online": false,
+      "lastError": "Status code 404",
+      "lastErrorAt": "2026-10-23T10:15:08.175Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.752Z"
+      "lastSuccess": "2026-10-23T10:15:08.058Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T10:10:08.757Z"
+      "lastErrorAt": "2026-10-23T10:15:08.059Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.762Z"
+      "lastSuccess": "2026-10-23T10:15:08.245Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T10:10:08.766Z"
+      "lastErrorAt": "2026-10-23T10:15:08.294Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.777Z"
+      "lastSuccess": "2026-10-23T10:15:08.291Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.786Z"
+      "lastSuccess": "2026-10-23T10:15:08.438Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.789Z"
+      "lastSuccess": "2026-10-23T10:15:08.011Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.796Z"
+      "lastSuccess": "2026-10-23T10:15:08.035Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.808Z"
+      "lastSuccess": "2026-10-23T10:15:08.417Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T10:10:08.909Z"
+      "lastSuccess": "2026-10-23T10:15:08.372Z"
     }
   },
   "items": [
@@ -176,6 +177,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_eee3d0d409c3b67d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Is a job guarantee the solution to mass AI unemployment?",
+      "snippet": "An old idea springs anew as a chorus of influential voices predicts that AI may trigger crises of vast magnitude\nIn a preface to his book Capitalism and Freedom, the American economist Milton Friedman famously observed that a crisis can pro",
+      "link": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T10:00:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7c24f53bdea228d1",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -197,6 +211,19 @@
       "link": "https://www.foxnews.com/us/gabby-petito-court-battle-decide-charlie-kirk-family-prevail-utah-wrongful-death-lawsuit",
       "imageUrl": null,
       "publishedAt": "2026-10-23T10:00:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3541ae10a65c70a9",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
+      "snippet": "Plus, the Friday news quiz.",
+      "link": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T10:00:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1354,6 +1381,19 @@
       "link": "https://www.france24.com/en/nyt-reports-plans-for-fresh-strikes-on-iran-after-the-us-midterm-elections",
       "imageUrl": "https://s.france24.com/media/display/247ad3fa-cebc-11f1-9f6f-4d317af013fd/w:1024/p:16x9/EN-20261023-090607-090912-CS-01.jpg",
       "publishedAt": "2026-10-23T08:40:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e8af6b89b470cd98",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Rubio turns to small Indian town as US faces high oil prices",
+      "snippet": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T08:39:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2694,6 @@
       "link": "https://www.cbsnews.com/news/2-pilots-eject-military-aircraft-texas-joint-base-san-antonio/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T03:49:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_33e0f9f23603ea99",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "New Zealand's top military officer resigns over 'inappropriate relationship' - Reuters",
-      "snippet": "New Zealand's top military officer resigns over 'inappropriate relationship'  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOekZkb1pyMXY1c1Z0MXZWWWNpS2x2SjdZWGJFQUpyZGN4Sm9iTkRKSE8zTHYxM0x0RVZEbW5ic3hYS212STFGZGhXb29HQ1VhMndyRVVyLWJlN2t5Z0xNMnlCVEtFTVBSMW80WndFTDAxSUxobWVhYVNTY2hRS1NVaFkwVDJPa2FZZ2dhd3ZPR21QX1F1RDVzSU10eWt4LWZCN2NEZmdfLTRQcWJQYjEzU1NVUE1udFMwellTeDA1QTk1dHpSb3hj?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T03:49:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8baa2f057894b701",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Horse-drawn carriage ban approved by NYC Council",
-      "snippet": "The New York City Council voted Thursday on Romanch's Law, which will ban horse-drawn carriage rides in the city by 2028.",
-      "link": "https://www.cbsnews.com/news/horse-carriage-ban-bill-nyc-council/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T03:40:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_de45d5661effd0b6",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Mother sought advice from Alan Jones after broadcaster’s alleged indecent assault of her son, court hears",
-      "snippet": "Jones, 85, has pleaded not guilty to 21 charges of indecent assault and sexual touching\n\nListen to the podcast Alan Jones on Trial\n\nThe mother of the youngest alleged victim of Alan Jones continued to seek advice from the broadcaster after ",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/23/alan-jones-trial-mother-of-alleged-victim-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T03:24:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
