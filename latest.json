@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-23T18:40:08.101Z",
+  "updatedAt": "2026-10-23T18:45:07.550Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.168Z"
+      "lastSuccess": "2026-10-23T18:45:08.002Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.194Z"
+      "lastSuccess": "2026-10-23T18:45:08.021Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.174Z"
+      "lastSuccess": "2026-10-23T18:45:07.720Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.299Z"
+      "lastSuccess": "2026-10-23T18:45:07.846Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.588Z"
+      "lastSuccess": "2026-10-23T18:45:08.291Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.647Z"
+      "lastSuccess": "2026-10-23T18:45:07.759Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.290Z"
+      "lastSuccess": "2026-10-23T18:45:07.826Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.372Z"
+      "lastSuccess": "2026-10-23T18:45:08.186Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.335Z"
+      "lastSuccess": "2026-10-23T18:45:07.943Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.356Z"
+      "lastSuccess": "2026-10-23T18:45:07.966Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-23T18:40:08.403Z"
+      "lastErrorAt": "2026-10-23T18:45:08.005Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.377Z"
+      "lastSuccess": "2026-10-23T18:45:08.044Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.344Z"
+      "lastSuccess": "2026-10-23T18:45:08.008Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.425Z"
+      "lastSuccess": "2026-10-23T18:45:08.108Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-23T18:40:08.446Z"
+      "lastErrorAt": "2026-10-23T18:45:08.324Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.427Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-23T18:45:07.946Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.339Z"
+      "lastSuccess": "2026-10-23T18:45:08.028Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.402Z"
+      "lastSuccess": "2026-10-23T18:45:08.039Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.435Z"
+      "lastSuccess": "2026-10-23T18:45:08.169Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.563Z"
+      "lastSuccess": "2026-10-23T18:45:08.273Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.444Z"
+      "lastSuccess": "2026-10-23T18:45:08.324Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.574Z"
+      "lastSuccess": "2026-10-23T18:45:08.361Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-23T18:40:08.477Z"
+      "lastSuccess": "2026-10-23T18:45:10.297Z"
     }
   },
   "items": [
+    {
+      "id": "story_b7a5b65204a1256f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israel locks down occupied West Bank after Hebron shooting",
+      "snippet": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:38:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_93bdefecfe919700",
       "source": "The Hill",
@@ -122,6 +136,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e7069ed06b4d7ab4",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Severe flooding in US west triggers rooftop rescues and evacuation orders",
+      "snippet": "Some in the Four Corners region – which includes Colorado, New Mexico, Arizona and Utah – ordered to shelter in place\nSevere flooding in the Four Corners region on Friday led to water rescues – some from rooftops – and impassable roads, wit",
+      "link": "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T18:32:23.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_90ae2dff041f9878",
@@ -1489,6 +1516,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_22a230fa5d4bcd1d",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump expresses concern about NFL game and civil unrest in Paris - AP News",
+      "snippet": "Trump expresses concern about NFL game and civil unrest in Paris  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGRsc3BYbU9uSmxPa3dJQTBRRlpMS2J3RTVGdUZwTlVlWEJVZk5iVXpFSmxiZ1FFb0tURG8zVHBFWXlOZGd4S19zam4zR0Y1enFzY1djUWhnV0pRZC1jMnBnUTRnbTlFVk5jSFZ0bloyMTZDLXJkRGMyOFBEVHNGUjZLb2dSSXNsdWlFZWdIYld2YXJqYWNPY1hySFQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T17:01:00.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9de1432dd1596749",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -2657,45 +2697,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_aa53df98fb203efe",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
-      "snippet": "Israeli settlers and soldiers have made a habit of destroying olive trees grown by Palestinian farmers in the West Bank and, in recent days, a video showing some trees being ripped up has circulated online. Just one problem: this particular",
-      "link": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
-      "imageUrl": "https://s.france24.com/media/display/ce2ffdb4-cef6-11f1-93cf-bdb9616e85cf/w:1024/p:16x9/ban-olivier2-EN.jpg",
-      "publishedAt": "2026-10-23T15:56:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8244800fda827eff",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34 others - AP News",
-      "snippet": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 34 others  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_0e62136c581c6411",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump weighs quick end to Iran war against letting conflict ‘wither’ - Reuters",
-      "snippet": "Trump weighs quick end to Iran war against letting conflict ‘wither’  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGt4QW93RlZCRmRnTV9pMzVTeG55Ty1EbG1wcGU5M0VONm9wM3lEX0lvOEpVcW05OWNSWjJoOTJUSDF5cU1DSFhmZmp2OWdOc1ZPNURIRFF0M3ZzVGxteTRDd2ROZGplLUdWcjJSdUdNUkFoSzYwdDN0dy1yMmttWEdyWGVKeVNmRGE1ODRrcWMzRW9lQTVmMjdsT052QmVFN0Z2cmlRWWM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T15:53:34.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
     }
   ]
 }
