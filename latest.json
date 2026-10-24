@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-24T02:35:05.755Z",
+  "updatedAt": "2026-10-24T02:40:08.223Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:05.885Z"
+      "lastSuccess": "2026-10-24T02:40:08.364Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:05.982Z"
+      "lastSuccess": "2026-10-24T02:40:08.328Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:05.947Z"
+      "lastSuccess": "2026-10-24T02:40:08.291Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:05.965Z"
+      "lastSuccess": "2026-10-24T02:40:08.326Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.229Z"
+      "lastSuccess": "2026-10-24T02:40:08.747Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.002Z"
+      "lastSuccess": "2026-10-24T02:40:08.941Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:05.929Z"
+      "lastSuccess": "2026-10-24T02:40:08.465Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.123Z"
+      "lastSuccess": "2026-10-24T02:40:08.545Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.090Z"
+      "lastSuccess": "2026-10-24T02:40:08.388Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.181Z"
+      "lastSuccess": "2026-10-24T02:40:08.605Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T02:35:06.150Z"
+      "lastErrorAt": "2026-10-24T02:40:08.573Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.131Z"
+      "lastSuccess": "2026-10-24T02:40:08.542Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.142Z"
+      "lastSuccess": "2026-10-24T02:40:08.576Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.063Z"
+      "lastSuccess": "2026-10-24T02:40:08.435Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T02:35:06.161Z"
+      "lastErrorAt": "2026-10-24T02:40:08.582Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.135Z"
+      "lastSuccess": "2026-10-24T02:40:08.751Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:05.971Z"
+      "lastSuccess": "2026-10-24T02:40:08.471Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.121Z"
+      "lastSuccess": "2026-10-24T02:40:08.511Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.155Z"
+      "lastSuccess": "2026-10-24T02:40:08.571Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.275Z"
+      "lastSuccess": "2026-10-24T02:40:08.711Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.201Z"
+      "lastSuccess": "2026-10-24T02:40:08.592Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.314Z"
+      "lastSuccess": "2026-10-24T02:40:08.601Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T02:35:06.639Z"
+      "lastSuccess": "2026-10-24T02:40:08.859Z"
     }
   },
   "items": [
+    {
+      "id": "story_e9df25af40c0c45b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Vanessa Trump says she is ‘cancer-free’ six months after diagnosis",
+      "snippet": "Vanessa Trump, ex-wife of Donald Trump Jr., revealed Friday that she is cancer-free, after beginning treatment for breast cancer earlier this year.",
+      "link": "https://www.nbcnews.com/politics/politics-news/vanessa-trump-cancer-free-breast-cancer-diagnosis-surgery-treatment-rcna605339",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T02:33:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4be00a5f19341573",
       "source": "Guardian",
@@ -2680,19 +2693,6 @@
       "link": "https://thehill.com/policy/defense/6169204-ukraine-starlink-zelensky-trump-musk/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26295629448407-e1792785749385.jpg?w=900",
       "publishedAt": "2026-10-23T20:17:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_74be22ee5d968090",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
-      "snippet": "The agency regularly monitors polling places. But this year's effort on Nov. 3 will more than double the number of federal monitors deployed during the 2022 midterms.",
-      "link": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T20:16:57.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
