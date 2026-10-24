@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-24T07:35:05.691Z",
+  "updatedAt": "2026-10-24T07:40:07.875Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.842Z"
+      "lastSuccess": "2026-10-24T07:40:07.985Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.897Z"
+      "lastSuccess": "2026-10-24T07:40:08.219Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.859Z"
+      "lastSuccess": "2026-10-24T07:40:08.095Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.864Z"
+      "lastSuccess": "2026-10-24T07:40:08.238Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.153Z"
+      "lastSuccess": "2026-10-24T07:40:08.317Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.145Z"
+      "lastSuccess": "2026-10-24T07:40:08.038Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.804Z"
+      "lastSuccess": "2026-10-24T07:40:08.064Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.903Z"
+      "lastSuccess": "2026-10-24T07:40:08.258Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.946Z"
+      "lastSuccess": "2026-10-24T07:40:08.146Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.001Z"
+      "lastSuccess": "2026-10-24T07:40:08.365Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T07:35:05.920Z"
+      "lastErrorAt": "2026-10-24T07:40:08.286Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.432Z"
+      "lastSuccess": "2026-10-24T07:40:08.322Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.918Z"
+      "lastSuccess": "2026-10-24T07:40:08.104Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.035Z"
+      "lastSuccess": "2026-10-24T07:40:08.217Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T07:35:06.048Z"
+      "lastErrorAt": "2026-10-24T07:40:08.277Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.901Z"
+      "lastSuccess": "2026-10-24T07:40:08.222Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.961Z"
+      "lastSuccess": "2026-10-24T07:40:08.079Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.986Z"
+      "lastSuccess": "2026-10-24T07:40:08.127Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:05.969Z"
+      "lastSuccess": "2026-10-24T07:40:08.276Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.121Z"
+      "lastSuccess": "2026-10-24T07:40:08.546Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.126Z"
+      "lastSuccess": "2026-10-24T07:40:08.285Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:06.161Z"
+      "lastSuccess": "2026-10-24T07:40:08.381Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:35:08.143Z"
+      "lastSuccess": "2026-10-24T07:40:08.360Z"
     }
   },
   "items": [
+    {
+      "id": "story_ac767ea307031737",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Paris museums close, shops build barricades ahead of more protests",
+      "snippet": "A week after 3,000 shops were damaged or looted, France braces for more protests.",
+      "link": "https://www.cbsnews.com/news/paris-france-new-protests-riots-museums-shops/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T07:33:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ba184641693677ff",
       "source": "DW",
@@ -613,6 +626,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRGNFRlVtTXd1WEY5R1VKLU9MeElnSzJhZC1Yb2RfaWF6dEVBem9uLWlWSXItYXp3a2hMOVZPWmwyT2x6bnFTRDhlcWM0QzFMNVNVS2JrRTdfR0Ewd1puWTBQdEo1c3MyTVdLal9lVV9KWDlaSUV6cnRyUmcydFRPQUxxX2lfYjdwUDNzQTlvaGxldURWVVE?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-24T04:46:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3044c8fef7a1655c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate - Reuters",
+      "snippet": "Bolsonaro and Lula clash on living costs, corruption in final Brazil election debate  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjFLWHVLdnk5bU5NR3ZxUExTUnJNanRROGszakNPbVlram1hSUUzZHF5SV9obXFDVzhMRnRjZ2xKcjZRNDRBMzRnYTF3ZmpEYXpsVzd4QWdpWTAyTDZVZ0Q3TTIwMGtlOF9mSS1IM2tCa01wTld2Q3cxT01WS18zRmJDLTk1RFBVY2hZb2ZjOGIxUGZoOElvY1BmQXpmS0J2TEVvQi15ZzBNdDNFalRzWGdHa255RVpQNlRvQ04yV1lwaF9kSHBpNnMxTDk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T04:43:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2152,6 +2178,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9dd7af475418c6e0",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Thailand welcomes US-Myanmar engagement, expects ASEAN talks on country's future - Reuters",
+      "snippet": "Thailand welcomes US-Myanmar engagement, expects ASEAN talks on country's future  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUUyZHJ0Mkx3TXIwS2l1TUxobU82RHNUX1NiUzU2dGZyb3l0d09PT3VYOWZuWU5ybEwzXzVudjdWUXRLN2VoZTZvWEJxdlk5dTlFNGtUYmJ6aHdDMFc1NDlySENkZmUtNnJkTHBCdVRjYTc5UmppNlVtV2I3Tk1RdXltalAwbk5rUDFMSnhMWEtrU210UFZrcV8wMHlhQm9rN2hQbk9sa19JakpnWldlclV4Y2phZ19fTlBMRUdfaWJlZnJvVmdHeVZR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T22:57:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0c9a48bd2c493130",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -2464,6 +2503,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_12660d8e1a47559d",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Who actually controls Ukraine's access to Starlink?",
+      "snippet": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T22:24:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3972c2917a44ad20",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2641,58 +2693,6 @@
       "link": "https://www.cbsnews.com/video/justice-department-sues-block-alaska-senate-race-results-if-republican-loses/",
       "imageUrl": null,
       "publishedAt": "2026-10-23T22:15:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0346fb656db2ef28",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nigeria Ebola case linked to virus found in Kenya index case, health minister says - Reuters",
-      "snippet": "Nigeria Ebola case linked to virus found in Kenya index case, health minister says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0hvLXFNbGZpRUpBaFFuYlN1RTRTTnN6bGFBdF85WS1DMzVPT2lGSFBuZTQxTXRGaEx6cXZ1anc3SjdIVVk1NGlKUTE5aTJqdWtvd051RXB4THdSdnVFRE1zcjVIVWZfVm1xc3NKaVlmbGQwV1hWWmRGbEpFUWFhYmxDZGR3U1FBNmJ4QzBkcXNobWFFOVlpMXNNQU9vTXFWLTBtc0tUWkRoTE1sU3RVSWstQjVOX0RtRGV6OTdNQmliVTAtdkF1QTZCb0hNM19UZDBsLVpmV19pdkl2THc2cQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:12:17.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43ae3f9043ae806b",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The Evening: D.O.J. Moves to Block Alaska Result if G.O.P. Loses",
-      "snippet": "Plus, a promising cancer vaccine. Here’s the latest at the end of Friday.",
-      "link": "https://www.nytimes.com/2026/10/23/briefing/alaska-west-bank-melanoma.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:12:12.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7bb20996b7f63bfe",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "US Chamber of Commerce launches advocacy ad campaign in eight battleground House races",
-      "snippet": "EXCLUSIVE – The U.S. Chamber of Commerce is launching a new digital ad campaign touting the economic records of eight incumbent House Republicans as the party fights to retain its majority in November. The issue advocacy ads boost Reps. Mik",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4778222/us-chamber-of-commerce-launches-advocacy-ad-campaign-in-eight-battleground-house-races/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:12:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3f43b41e871e822b",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Deciding with fake images: More candidates are using AI in political ads to get your vote",
-      "snippet": "At least 220 ads— mostly Republican— generated or enhanced with artificial intelligence have circulated in the leadup to the midterms, at a cost of almost $137 million.",
-      "link": "https://www.nbcnews.com/tech/tech-news/deciding-fake-images-candidates-are-using-ai-political-ads-get-vote-rcna605243",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:10:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
