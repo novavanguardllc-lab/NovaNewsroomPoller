@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-10-24T11:40:07.710Z",
+  "updatedAt": "2026-10-24T11:45:07.241Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.827Z"
+      "lastSuccess": "2026-10-24T11:45:07.414Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.007Z"
+      "lastSuccess": "2026-10-24T11:45:07.516Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.909Z"
+      "lastSuccess": "2026-10-24T11:45:07.676Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.003Z"
+      "lastSuccess": "2026-10-24T11:45:07.557Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.790Z"
+      "lastSuccess": "2026-10-24T11:45:07.702Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.992Z"
+      "lastSuccess": "2026-10-24T11:45:07.857Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.964Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-24T11:45:07.436Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.009Z"
+      "lastSuccess": "2026-10-24T11:45:07.434Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.951Z"
+      "lastSuccess": "2026-10-24T11:45:07.574Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.944Z"
+      "lastSuccess": "2026-10-24T11:45:07.904Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.066Z"
+      "lastSuccess": "2026-10-24T11:45:07.544Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.165Z"
+      "lastSuccess": "2026-10-24T11:45:07.479Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.995Z"
+      "lastSuccess": "2026-10-24T11:45:07.896Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.023Z"
+      "lastSuccess": "2026-10-24T11:45:07.939Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.052Z"
+      "lastSuccess": "2026-10-24T11:45:07.720Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.047Z"
+      "lastSuccess": "2026-10-24T11:45:07.823Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T11:40:08.052Z"
+      "lastErrorAt": "2026-10-24T11:45:07.954Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T11:40:08.070Z"
+      "lastErrorAt": "2026-10-24T11:45:08.071Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.077Z"
+      "lastSuccess": "2026-10-24T11:45:07.979Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.135Z"
+      "lastSuccess": "2026-10-24T11:45:08.063Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:07.872Z"
+      "lastSuccess": "2026-10-24T11:45:07.503Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:08.204Z"
+      "lastSuccess": "2026-10-24T11:45:08.090Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:40:10.461Z"
+      "lastSuccess": "2026-10-24T11:45:10.101Z"
     }
   },
   "items": [
+    {
+      "id": "story_6104ceccc2f9b136",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+      "snippet": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+      "link": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T11:43:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6a38e14145ab9355",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Ukraine says Starlink speed restored after long disruption",
+      "snippet": "SpaceX's military-grade version of the Starlink internet service has become the backbone of Ukraine's drone operations.",
+      "link": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T11:40:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_543bc61d3b60d01e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Steve Sarkisian could face college football's hardest call as Arch Manning invokes much higher stakes",
+      "snippet": "Steve Sarkisian's Texas Longhorns have spent over $40 million to contend for a title, but Saturday's Ole Miss game now feels like a season-defining test.",
+      "link": "https://www.foxnews.com/outkick-sports/steve-sarkisian-face-college-footballs-hardest-call-arch-manning-invokes-much-higher-stakes",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T11:37:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_bc48687ca89f976d",
       "source": "France24",
@@ -887,6 +927,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T09:50:51.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_722c7484bb6d4582",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain - AP News",
+      "snippet": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUw3V0JLTVMtaXQ1bm9sVC0yU1VITmZSTW9OVkVZM2JEbUpwaWlCcThLQ1JXUURGSC1IamlEakx1Mm5Ld3QxVlZvaTBJUTJHcHBqSDk3S3B2dmY1cUNFNzZUeFNhZkdhaFU5bVBkS2l1ajFBdnRubERJQ0NrWlVmWGtXLU9ZeFVBTEVFYjl2T0NaWDlpNEJQdGRJVDdYSmQzUFNaVFpJSUhRS3ZL?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T09:50:40.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2644,58 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_a981387505a22d6f",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Hero dad who took down school shooter speaks out: 'I was supposed to be there'",
-      "snippet": "Kaylub Giamanco said he was driving home on Oct. 15 when he saw a person in all black, armed with a gun, jump over the fence at the elementary school.",
-      "link": "https://abcnews.com/US/hero-dad-school-shooter-speaks-supposed/story?id=137526493",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T02:12:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d1369e8be509c4af",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Melania Trump secures \"temporary ceasefire\" in Ukrainian city",
-      "snippet": "First lady Melania Trump's office says she secured a localized ceasefire for the Russian-occupied Ukrainian city of Oleshky.",
-      "link": "https://www.cbsnews.com/news/first-lady-melania-trump-temporary-ceasefire-russia-ukraine-oleshky/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T02:12:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d6e76bc3a3f08906",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Thune campaigns with Ashley Hinson as Senate GOP zeroes in on Iowa",
-      "snippet": "Senate Majority Leader John Thune campaigned with GOP Rep. Ashley Hinson in Iowa on Friday in his latest effort to prop up Republican candidates on the campaign trail.",
-      "link": "https://www.cbsnews.com/news/thune-ashley-hinson-senate-republicans-iowa/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T02:09:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_167f093c65ae5c5a",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  2 rescued from sinking boat off Florida coast",
-      "snippet": "Dramatic video shows the rescue of two people stranded in the ocean after their boat sunk off the coast of Fort Myers, Florida. Both boaters are doing OK.",
-      "link": "https://abcnews.com/video/137527122/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T02:08:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
