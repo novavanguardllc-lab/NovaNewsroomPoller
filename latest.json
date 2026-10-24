@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-24T14:45:08.038Z",
+  "updatedAt": "2026-10-24T14:50:07.900Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.214Z"
+      "lastSuccess": "2026-10-24T14:50:08.042Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.318Z"
+      "lastSuccess": "2026-10-24T14:50:08.123Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.460Z"
+      "lastSuccess": "2026-10-24T14:50:08.120Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.314Z"
+      "lastSuccess": "2026-10-24T14:50:08.064Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.383Z"
+      "lastSuccess": "2026-10-24T14:50:08.035Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.543Z"
+      "lastSuccess": "2026-10-24T14:50:08.171Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.402Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-24T14:50:08.198Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.419Z"
+      "lastSuccess": "2026-10-24T14:50:08.218Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.571Z"
+      "lastSuccess": "2026-10-24T14:50:08.179Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.742Z"
+      "lastSuccess": "2026-10-24T14:50:08.199Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.614Z"
+      "lastSuccess": "2026-10-24T14:50:08.286Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.253Z"
+      "lastSuccess": "2026-10-24T14:50:08.093Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.785Z"
+      "lastSuccess": "2026-10-24T14:50:08.215Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.722Z"
+      "lastSuccess": "2026-10-24T14:50:12.222Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.499Z"
+      "lastSuccess": "2026-10-24T14:50:08.205Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.670Z"
+      "lastSuccess": "2026-10-24T14:50:08.310Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T14:45:08.732Z"
+      "lastErrorAt": "2026-10-24T14:50:08.312Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T14:45:08.773Z"
+      "lastErrorAt": "2026-10-24T14:50:08.340Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.759Z"
+      "lastSuccess": "2026-10-24T14:50:08.339Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.926Z"
+      "lastSuccess": "2026-10-24T14:50:08.274Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.299Z"
+      "lastSuccess": "2026-10-24T14:50:08.409Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.797Z"
+      "lastSuccess": "2026-10-24T14:50:08.390Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:45:08.943Z"
+      "lastSuccess": "2026-10-24T14:50:10.589Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.cbsnews.com/video/102426-48-hours-post-mortem/",
       "imageUrl": null,
       "publishedAt": "2026-10-24T23:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f9a162eb54e8783e",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Alaska Senate race featuring two Dan Sullivans is ‘blatantly corrupt’: Joe Concha",
+      "snippet": "Washington Examiner columnist Joe Concha slammed Democrats in Alaska over voter corruption, saying they “put up a guy named Dan Sullivan” with a different middle name to “confuse” voters. “What we’re seeing there is just a whole bowl of wro",
+      "link": "https://www.washingtonexaminer.com/news/entertainment/4778557/alaska-senate-race-two-dan-sullivan-blatantly-corrupt-joe-concha/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T14:49:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -150,6 +164,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2861c27cad41da6f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Full lockdown of occupied West Bank begins",
+      "snippet": "The Israeli army begins its lockdown and military operations across the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T14:24:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0ca9cd74b718b62a",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -158,6 +185,19 @@
       "link": "https://www.cbsnews.com/video/arian-simone-on-her-fearless-fund-and-her-battle-to-support-black-women-entrepreneurs/",
       "imageUrl": null,
       "publishedAt": "2026-10-24T14:24:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9b5397f83bd460bd",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+      "snippet": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T14:23:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2655,45 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T09:11:16.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5588f1e3131e6cf",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Looting Left Damage and Fear on Paradise Street in Marseille",
-      "snippet": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T09:04:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c25df09c62aba5e8",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans",
-      "snippet": "The fallout from Vivek Ramaswamy’s brutal spot targeting his Democratic rival in the Ohio governor’s race showed that even in the Trump era, a political attack can be seen as going too far.",
-      "link": "https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T09:03:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0566fc330979a823",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-      "snippet": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
-      "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T09:01:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
