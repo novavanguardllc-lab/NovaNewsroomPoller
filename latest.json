@@ -1,99 +1,101 @@
 {
-  "updatedAt": "2026-10-24T04:40:07.836Z",
+  "updatedAt": "2026-10-24T04:45:08.203Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.049Z"
+      "lastSuccess": "2026-10-24T04:45:08.429Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.051Z"
+      "lastSuccess": "2026-10-24T04:45:08.491Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:07.935Z"
+      "lastSuccess": "2026-10-24T04:45:08.353Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.147Z"
+      "lastSuccess": "2026-10-24T04:45:08.495Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-10-24T04:40:07.972Z"
+      "online": false,
+      "lastError": "Status code 503",
+      "lastErrorAt": "2026-10-24T04:45:14.910Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.011Z"
+      "online": false,
+      "lastError": "Status code 503",
+      "lastErrorAt": "2026-10-24T04:45:15.978Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.091Z"
+      "lastSuccess": "2026-10-24T04:45:08.398Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.290Z"
+      "lastSuccess": "2026-10-24T04:45:08.593Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.113Z"
+      "lastSuccess": "2026-10-24T04:45:08.536Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.271Z"
+      "lastSuccess": "2026-10-24T04:45:08.598Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T04:40:08.316Z"
+      "lastErrorAt": "2026-10-24T04:45:08.611Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.289Z"
+      "lastSuccess": "2026-10-24T04:45:08.600Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.068Z"
+      "lastSuccess": "2026-10-24T04:45:08.576Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.231Z"
+      "lastSuccess": "2026-10-24T04:45:08.689Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T04:40:08.303Z"
+      "lastErrorAt": "2026-10-24T04:45:08.836Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.071Z"
+      "lastSuccess": "2026-10-24T04:45:08.454Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.133Z"
+      "lastSuccess": "2026-10-24T04:45:08.502Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.174Z"
+      "lastSuccess": "2026-10-24T04:45:08.483Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.298Z"
+      "lastSuccess": "2026-10-24T04:45:08.735Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.408Z"
+      "lastSuccess": "2026-10-24T04:45:08.821Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.295Z"
+      "lastSuccess": "2026-10-24T04:45:08.836Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.342Z"
+      "lastSuccess": "2026-10-24T04:45:08.857Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T04:40:08.431Z"
+      "lastSuccess": "2026-10-24T04:45:10.806Z"
     }
   },
   "items": [
@@ -496,6 +498,19 @@
       "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
       "imageUrl": null,
       "publishedAt": "2026-10-24T01:57:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_99928135601c8ebc",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Australian MP's condition improves after alleged car attack",
+      "snippet": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T01:55:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2683,19 +2698,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_c1892955fa13633f",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Appeals Court Backs Trump on Constitutionality of Detentions",
-      "snippet": "The ruling, from the U.S. Court of Appeals for the Fifth Circuit, sharply curtails the ability of judges to free undocumented immigrants.",
-      "link": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T20:47:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
