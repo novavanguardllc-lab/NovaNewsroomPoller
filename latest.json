@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-24T21:15:09.034Z",
+  "updatedAt": "2026-10-24T21:20:07.677Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.233Z"
+      "lastSuccess": "2026-10-24T21:20:07.772Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.588Z"
+      "lastSuccess": "2026-10-24T21:20:07.910Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.295Z"
+      "lastSuccess": "2026-10-24T21:20:07.749Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.309Z"
+      "lastSuccess": "2026-10-24T21:20:07.816Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.408Z"
+      "lastSuccess": "2026-10-24T21:20:07.803Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.547Z"
+      "lastSuccess": "2026-10-24T21:20:07.833Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.254Z"
+      "online": false,
+      "lastError": "read ECONNRESET",
+      "lastErrorAt": "2026-10-24T21:20:08.174Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.222Z"
+      "lastSuccess": "2026-10-24T21:20:07.806Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.331Z"
+      "lastSuccess": "2026-10-24T21:20:07.819Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.201Z"
+      "lastSuccess": "2026-10-24T21:20:07.793Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.362Z"
+      "lastSuccess": "2026-10-24T21:20:07.931Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.645Z"
+      "lastSuccess": "2026-10-24T21:20:08.085Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.610Z"
+      "lastSuccess": "2026-10-24T21:20:07.824Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.787Z"
+      "lastSuccess": "2026-10-24T21:20:07.885Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.552Z"
+      "lastSuccess": "2026-10-24T21:20:07.792Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.512Z"
+      "lastSuccess": "2026-10-24T21:20:07.906Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T21:15:09.369Z"
+      "lastErrorAt": "2026-10-24T21:20:07.910Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T21:15:09.805Z"
+      "lastErrorAt": "2026-10-24T21:20:07.914Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.760Z"
+      "lastSuccess": "2026-10-24T21:20:07.919Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.752Z"
+      "lastSuccess": "2026-10-24T21:20:07.880Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.771Z"
+      "lastSuccess": "2026-10-24T21:20:08.143Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:09.814Z"
+      "lastSuccess": "2026-10-24T21:20:07.951Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T21:15:12.514Z"
+      "lastSuccess": "2026-10-24T21:20:09.663Z"
     }
   },
   "items": [
@@ -111,6 +112,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1c8d6ccad88a0eed",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Obama scathes Trump administration in quippy Ohio campaign rally speech",
+      "snippet": "President Obama delivered a harsh assessment Saturday of the Trump administration while rallying supporters for Ohio Democratic midterm candidates former Sen. Sherrod Brown (D) and Amy Acton. The former president directly addressed Republic",
+      "link": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26297751103894-e1792876730124.jpg?w=900",
+      "publishedAt": "2026-10-24T21:13:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4a49320ed6decc67",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -119,6 +133,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/4778781/obama-rips-ramaswamy-after-acton-ad-no-office-worth-stopping-that-low/",
       "imageUrl": null,
       "publishedAt": "2026-10-24T21:12:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0a5bd0ce690d5e0e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "snippet": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T21:09:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T14:28:09.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2a57b83bb9d81c60",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Exclusive discounts from CBS Mornings Deals",
-      "snippet": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
-      "link": "https://www.cbsnews.com/video/cbs-mornings-deals-102426/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T14:26:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2861c27cad41da6f",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Full lockdown of occupied West Bank begins",
-      "snippet": "The Israeli army begins its lockdown and military operations across the West Bank.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T14:24:19.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
