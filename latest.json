@@ -1,103 +1,193 @@
 {
-  "updatedAt": "2026-10-24T10:00:13.273Z",
+  "updatedAt": "2026-10-24T10:05:05.555Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.756Z"
+      "lastSuccess": "2026-10-24T10:05:05.662Z"
     },
     "NPR": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-24T10:00:23.293Z"
+      "online": true,
+      "lastSuccess": "2026-10-24T10:05:05.859Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.531Z"
+      "lastSuccess": "2026-10-24T10:05:05.795Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.496Z"
+      "lastSuccess": "2026-10-24T10:05:05.783Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.459Z"
+      "lastSuccess": "2026-10-24T10:05:05.844Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.431Z"
+      "lastSuccess": "2026-10-24T10:05:05.815Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.841Z"
+      "lastSuccess": "2026-10-24T10:05:05.718Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.698Z"
+      "lastSuccess": "2026-10-24T10:05:05.917Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.800Z"
+      "lastSuccess": "2026-10-24T10:05:05.914Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.777Z"
+      "lastSuccess": "2026-10-24T10:05:05.821Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T10:00:13.921Z"
+      "lastErrorAt": "2026-10-24T10:05:05.895Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.915Z"
+      "lastSuccess": "2026-10-24T10:05:05.949Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.561Z"
+      "lastSuccess": "2026-10-24T10:05:05.857Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.695Z"
+      "lastSuccess": "2026-10-24T10:05:05.947Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T10:00:13.952Z"
+      "lastErrorAt": "2026-10-24T10:05:05.962Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.578Z"
+      "lastSuccess": "2026-10-24T10:05:05.774Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.555Z"
+      "lastSuccess": "2026-10-24T10:05:05.876Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.825Z"
+      "lastSuccess": "2026-10-24T10:05:05.971Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.940Z"
+      "lastSuccess": "2026-10-24T10:05:05.957Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:14.136Z"
+      "lastSuccess": "2026-10-24T10:05:06.227Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.958Z"
+      "lastSuccess": "2026-10-24T10:05:05.981Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:14.000Z"
+      "lastSuccess": "2026-10-24T10:05:06.067Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T10:00:13.991Z"
+      "lastSuccess": "2026-10-24T10:05:06.052Z"
     }
   },
   "items": [
+    {
+      "id": "story_c958f28e092e056f",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Is your Medicare Advantage plan ending next year? Here's what to know",
+      "snippet": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f68cf414657151d7",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "U.S. birth rate drops to record low, but older women are having more babies",
+      "snippet": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9b79b51cca8a51f7",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Katie Britt quietly invests in GOP candidates — and her own political future",
+      "snippet": "EXCLUSIVE — Sen. Katie Britt (R-AL) has spent big money behind the scenes for Republican Senate candidates in key races, a move that could raise her standing among GOP colleagues and buoy future ambitions to rise up the leadership rung. The",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4777997/katie-britt-invests-in-gop-candidates-political-future/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_87a8fb1a5e1d5ab5",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Third round of October Social Security payments goes out in four days ",
+      "snippet": "The third round of October Social Security payments for retirees, now capped at $5,181, will be issued in four days. When will payments arrive? Retirees born on or after the 21st of a month will receive this payment on Wednesday. The first ",
+      "link": "https://www.washingtonexaminer.com/news/4748252/third-round-october-social-security-payments-four-days/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d8a0213c06216086",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Estranged relatives are fair game — unless they hurt Democrats",
+      "snippet": "Much of the legacy media stops at nothing to find “inside information” to help take down Republicans. “Unnamed sources” and “sources close to the president” can always be counted on to spill the fake news beans on matters such as Trump-Russ",
+      "link": "https://www.washingtonexaminer.com/in_focus/4778125/estranged-relatives-fair-game-unless-they-hurt-democrats/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6921e7942e374a13",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "I fled communism. Now I can’t wait to vote",
+      "snippet": "On Oct. 27, 1980, my family and I landed in Miami, newcomers from Colombia. On Nov. 12, 1991, I raised my right hand in the New York State Supreme Court in Rochester and became an American. Next week, I mark 46 years in this country and, ju",
+      "link": "https://www.washingtonexaminer.com/restoring-america/patriotism-unity/4777490/i-fled-communism-cant-wait-to-vote/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5f49a3d8cf00fffc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "GREGG JARRETT: Ilhan Omar could face indictment, denaturalization and deportation",
+      "snippet": "Minn. Rep. Ilhan Omar faces a federal probe into alleged identity fraud, marriage fraud, and false statements that could possibly lead to denaturalization and deportation.",
+      "link": "https://www.foxnews.com/opinion/gregg-jarrett-ilhan-omar-could-face-indictment-denaturalization-deportation",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T09:50:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3fa927cd3c88a357",
       "source": "France24",
@@ -2603,97 +2693,6 @@
       "link": "https://www.nytimes.com/2026/10/23/us/alaska-senate-doj-lawsuit-trump.html",
       "imageUrl": null,
       "publishedAt": "2026-10-23T23:22:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eb76c44d1a761ff0",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Hegseth announces dismantling of Chinese ‘sleeper organizations’ at universities",
-      "snippet": "The Pentagon has dismantled 80 Chinese “propaganda cells” at colleges and universities across the United States in the past two months, Secretary of War Pete Hegseth announced on Friday. In a video posted to X, Hegseth talked about “Confuci",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4778256/hegseth-dismantling-china-organizations-universities/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:20:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6aa8682fc9611b9a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Officer who fatally shot 1-year-old in Walmart parking lot resigns",
-      "snippet": "Hunter Foster, the police officer who fatally shot a 1-year-old boy who was sitting in his mother's lap in a Walmart parking lot in Mississippi has resigned despite being cleared of criminal wrongdoing. Jason Allen reports.",
-      "link": "https://www.cbsnews.com/video/officer-who-fatally-shot-1-year-old-in-walmart-parking-lot-resigns/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:20:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_90ec80047af20a07",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Treasury proposes rule to curb high-tech investments in China and other adversaries",
-      "snippet": "The U.S. Treasury Department proposed a rule Thursday to crack down on American high-tech investments such as supercomputing and artificial intelligence in China, Russia, North Korea and other \"countries of concern.\"",
-      "link": "https://www.pbs.org/newshour/politics/treasury-proposes-rule-to-curb-high-tech-investments-in-china-and-other-adversaries",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:19:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_400b9fa8e5c67993",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "U.S. ambassador to U.N. says Iran war could last another year",
-      "snippet": "U.S. Ambassador to the United Nations Mike Waltz told the Financial Times in a new interview that the Iran war could last another year. CBS News' Olivia Gazis has more.",
-      "link": "https://www.cbsnews.com/video/us-ambassador-to-un-says-iran-war-could-last-another-year/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:18:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3d49131c00c37201",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " In tight race for Ga. gov, Keisha Lance Bottoms has been outspent but still confident",
-      "snippet": "The GOP candidate Rick Jackson is a healthcare executive and billionaire.",
-      "link": "https://abcnews.com/Politics/tight-race-georgia-governor-keisha-lance-bottoms-massively/story?id=137522688",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:15:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_34f2d68ef126ff0a",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Catastrophic floods prompt evacuations",
-      "snippet": "Fast-moving floodwaters are surging across the southwest. Authorities are urging families to evacuate when asked. NBC News’ Steve Patterson with the images coming in.",
-      "link": "https://www.nbcnews.com/nightly-news/video/catastrophic-floods-prompt-evacuations-272144453974",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:13:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9819d81a8a6adee9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Meet the hero dad who took down the Oregon elementary school shooter",
-      "snippet": "Kaylub Giamanco, a 36-year-old father of two, happened to find himself outside his daughters' elementary school in Bend, Oregon, when he spotted an armed figure. Carter Evans has the story.",
-      "link": "https://www.cbsnews.com/video/meet-the-hero-dad-who-took-down-the-oregon-elementary-school-shooter/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T23:13:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
