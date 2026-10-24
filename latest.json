@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-24T15:55:05.481Z",
+  "updatedAt": "2026-10-24T16:00:14.104Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.694Z"
+      "lastSuccess": "2026-10-24T16:00:14.364Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.706Z"
+      "lastSuccess": "2026-10-24T16:00:14.665Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.671Z"
+      "lastSuccess": "2026-10-24T16:00:14.505Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.734Z"
+      "lastSuccess": "2026-10-24T16:00:14.326Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.595Z"
+      "lastSuccess": "2026-10-24T16:00:14.584Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.811Z"
+      "lastSuccess": "2026-10-24T16:00:14.627Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.831Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-24T16:00:14.662Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.815Z"
+      "lastSuccess": "2026-10-24T16:00:14.524Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.991Z"
+      "lastSuccess": "2026-10-24T16:00:14.689Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.765Z"
+      "lastSuccess": "2026-10-24T16:00:14.385Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.955Z"
+      "lastSuccess": "2026-10-24T16:00:14.547Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:06.070Z"
+      "lastSuccess": "2026-10-24T16:00:14.647Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.785Z"
+      "lastSuccess": "2026-10-24T16:00:14.967Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.964Z"
+      "lastSuccess": "2026-10-24T16:00:14.963Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.938Z"
+      "lastSuccess": "2026-10-24T16:00:14.932Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.934Z"
+      "lastSuccess": "2026-10-24T16:00:14.782Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T15:55:05.773Z"
+      "lastErrorAt": "2026-10-24T16:00:14.904Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T15:55:06.007Z"
+      "lastErrorAt": "2026-10-24T16:00:14.992Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:06.058Z"
+      "lastSuccess": "2026-10-24T16:00:14.991Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:06.051Z"
+      "lastSuccess": "2026-10-24T16:00:15.207Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:05.730Z"
+      "lastSuccess": "2026-10-24T16:00:14.865Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:06.091Z"
+      "lastSuccess": "2026-10-24T16:00:15.055Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T15:55:08.424Z"
+      "lastSuccess": "2026-10-24T16:00:15.228Z"
     }
   },
   "items": [
@@ -106,6 +107,58 @@
       "link": "https://www.cbsnews.com/video/102426-48-hours-post-mortem/",
       "imageUrl": null,
       "publishedAt": "2026-10-24T23:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_38dc07aa62de7188",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "snippet": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T15:56:48.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c02688715cb76731",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Bill Maher to Karoline Leavitt: ‘I don’t give a s—’, ‘I like the ballroom’",
+      "snippet": "Bill Maher, a left leaning comedian and talk show host, told former White House Press Secretary Karoline Leavitt he actually likes President Trump’s proposed ballroom in the East Wing, despite frequent criticism from Democrats. “I don’t giv",
+      "link": "https://thehill.com/homenews/administration/6170078-maher-trump-ballroom-leavitt/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26180038584724-e1791892899955.jpg?w=900",
+      "publishedAt": "2026-10-24T15:56:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7aa7087d5e806ea7",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "German national facing trial for alleged attempt to join IS",
+      "snippet": "A 21-year-old suspect is being held in pre-trial detention for allegedly trying to join the \"Islamic State\" terror group.",
+      "link": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T15:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_15171fee142da2cd",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "2000s comedy movies marked a golden age, Hollywood critic argues",
+      "snippet": "Film critic Matt Singer believes the early 2000s were a golden age for comedy movies. His new book \"Funny Business\" details the rise of the \"Frat Pack\" genre.",
+      "link": "https://www.cbsnews.com/video/2000s-comedy-movies-marked-a-golden-age-hollywood-critic-argues/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T15:53:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2644,58 +2697,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bc18568da6fbe55",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "JD Vance - AP News",
-      "snippet": "JD Vance  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82NmsyWVRUUEozTUdXdlVOa3pIbnIwdi1HaVBINEVOS2ZqMWV5aEV3aTNERFlodFNnOVhlbXp3QkZBRUkzQlE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T10:24:10.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_4ebdb696244cb2ba",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
-      "snippet": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots\nEight people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian mi",
-      "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T10:23:13.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_3c59e84754bad299",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "snippet": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T10:22:34.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_8244800fda827eff",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40 - AP News",
-      "snippet": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXJlUlhXa2k4Z0t0c0FMNGlNNWZyM2Y2QkdXeFhqeEFMcmduN2JZZVUwelo1aU41bHZtTUMyamxGUVB5YTVQLVQ1S2p3ZnRtVzU5ZXNsaGd1NXctODdmeEZJbTFpN0l2MlE0MFlVSHZDbWtKaVBJeTd1bkNEeF9sTVRTZVZ2VmFxT0E1X2lrOVpybnlLUHJrUTRUWjl6a1VpNGpDRm5OZ0xqRTA5?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T10:18:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
