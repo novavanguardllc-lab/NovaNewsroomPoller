@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-24T06:40:08.249Z",
+  "updatedAt": "2026-10-24T06:45:07.644Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.388Z"
+      "lastSuccess": "2026-10-24T06:45:08.105Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.419Z"
+      "lastSuccess": "2026-10-24T06:45:07.845Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.406Z"
+      "lastSuccess": "2026-10-24T06:45:08.147Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.479Z"
+      "lastSuccess": "2026-10-24T06:45:07.867Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.783Z"
+      "lastSuccess": "2026-10-24T06:45:08.545Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.702Z"
+      "lastSuccess": "2026-10-24T06:45:08.347Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.361Z"
+      "lastSuccess": "2026-10-24T06:45:07.984Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.446Z"
+      "lastSuccess": "2026-10-24T06:45:08.121Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.547Z"
+      "lastSuccess": "2026-10-24T06:45:08.524Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.521Z"
+      "lastSuccess": "2026-10-24T06:45:08.366Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T06:40:08.625Z"
+      "lastErrorAt": "2026-10-24T06:45:08.402Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.442Z"
+      "lastSuccess": "2026-10-24T06:45:08.368Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.482Z"
+      "lastSuccess": "2026-10-24T06:45:08.222Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.622Z"
+      "lastSuccess": "2026-10-24T06:45:08.485Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T06:40:08.678Z"
+      "lastErrorAt": "2026-10-24T06:45:08.687Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.505Z"
+      "lastSuccess": "2026-10-24T06:45:08.206Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.499Z"
+      "lastSuccess": "2026-10-24T06:45:08.268Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.566Z"
+      "lastSuccess": "2026-10-24T06:45:08.201Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.625Z"
+      "lastSuccess": "2026-10-24T06:45:08.401Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.667Z"
+      "lastSuccess": "2026-10-24T06:45:08.664Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.685Z"
+      "lastSuccess": "2026-10-24T06:45:08.707Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.772Z"
+      "lastSuccess": "2026-10-24T06:45:08.745Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T06:40:08.731Z"
+      "lastSuccess": "2026-10-24T06:45:08.812Z"
     }
   },
   "items": [
@@ -510,6 +510,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T04:02:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0d168ffe9474bca1",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+      "snippet": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T04:01:09.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2682,19 +2695,6 @@
       "publishedAt": "2026-10-23T21:33:59.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6cab397789bf76e4",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Craig Carton explains why the NFL has some questions to ask after bizarre moment in Bears-Patriots game",
-      "snippet": "Craig Carton questions why Chicago Bears DB Malik Muhammad ran away from Rhamondre Stevenson on a late touchdown, demanding an NFL investigation.",
-      "link": "https://www.foxnews.com/outkick-sports/craig-carton-explains-nfl-questions-bizarre-moment-bears-patriots-game",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T21:33:46.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
