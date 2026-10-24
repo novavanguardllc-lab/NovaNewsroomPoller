@@ -1,100 +1,99 @@
 {
-  "updatedAt": "2026-10-24T14:50:07.900Z",
+  "updatedAt": "2026-10-24T14:55:05.658Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.042Z"
+      "lastSuccess": "2026-10-24T14:55:05.822Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.123Z"
+      "lastSuccess": "2026-10-24T14:55:05.831Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.120Z"
+      "lastSuccess": "2026-10-24T14:55:05.857Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.064Z"
+      "lastSuccess": "2026-10-24T14:55:05.836Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.035Z"
+      "lastSuccess": "2026-10-24T14:55:05.811Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.171Z"
+      "lastSuccess": "2026-10-24T14:55:05.932Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-24T14:50:08.198Z"
+      "online": true,
+      "lastSuccess": "2026-10-24T14:55:05.993Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.218Z"
+      "lastSuccess": "2026-10-24T14:55:05.998Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.179Z"
+      "lastSuccess": "2026-10-24T14:55:05.976Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.199Z"
+      "lastSuccess": "2026-10-24T14:55:06.010Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.286Z"
+      "lastSuccess": "2026-10-24T14:55:05.945Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.093Z"
+      "lastSuccess": "2026-10-24T14:55:06.094Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.215Z"
+      "lastSuccess": "2026-10-24T14:55:06.007Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:12.222Z"
+      "lastSuccess": "2026-10-24T14:55:06.021Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.205Z"
+      "lastSuccess": "2026-10-24T14:55:06.014Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.310Z"
+      "lastSuccess": "2026-10-24T14:55:05.917Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T14:50:08.312Z"
+      "lastErrorAt": "2026-10-24T14:55:06.014Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T14:50:08.340Z"
+      "lastErrorAt": "2026-10-24T14:55:06.030Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.339Z"
+      "lastSuccess": "2026-10-24T14:55:06.035Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.274Z"
+      "lastSuccess": "2026-10-24T14:55:06.155Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.409Z"
+      "lastSuccess": "2026-10-24T14:55:05.750Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:08.390Z"
+      "lastSuccess": "2026-10-24T14:55:06.054Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T14:50:10.589Z"
+      "lastSuccess": "2026-10-24T14:55:06.257Z"
     }
   },
   "items": [
@@ -120,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/entertainment/4778557/alaska-senate-race-two-dan-sullivan-blatantly-corrupt-joe-concha/",
       "imageUrl": null,
       "publishedAt": "2026-10-24T14:49:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_db7a4a088b1e185e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis ",
+      "snippet": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T14:45:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2684,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_988ebacbfd134936",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif - Reuters",
-      "snippet": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T09:11:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
