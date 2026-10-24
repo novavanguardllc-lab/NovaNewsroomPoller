@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-24T11:30:10.362Z",
+  "updatedAt": "2026-10-24T11:35:05.613Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.625Z"
+      "lastSuccess": "2026-10-24T11:35:05.661Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.645Z"
+      "lastSuccess": "2026-10-24T11:35:05.762Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.554Z"
+      "lastSuccess": "2026-10-24T11:35:05.671Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.664Z"
+      "lastSuccess": "2026-10-24T11:35:05.758Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.606Z"
+      "lastSuccess": "2026-10-24T11:35:05.656Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.848Z"
+      "lastSuccess": "2026-10-24T11:35:05.692Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.944Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-24T11:35:05.759Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.990Z"
+      "lastSuccess": "2026-10-24T11:35:05.710Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.750Z"
+      "lastSuccess": "2026-10-24T11:35:05.745Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.733Z"
+      "lastSuccess": "2026-10-24T11:35:05.703Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.970Z"
+      "lastSuccess": "2026-10-24T11:35:05.806Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.706Z"
+      "lastSuccess": "2026-10-24T11:35:06.085Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.985Z"
+      "lastSuccess": "2026-10-24T11:35:05.820Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:11.060Z"
+      "lastSuccess": "2026-10-24T11:35:05.785Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:11.006Z"
+      "lastSuccess": "2026-10-24T11:35:05.752Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.922Z"
+      "lastSuccess": "2026-10-24T11:35:05.738Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T11:30:11.067Z"
+      "lastErrorAt": "2026-10-24T11:35:05.909Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T11:30:11.172Z"
+      "lastErrorAt": "2026-10-24T11:35:05.827Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:11.172Z"
+      "lastSuccess": "2026-10-24T11:35:05.908Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:11.163Z"
+      "lastSuccess": "2026-10-24T11:35:05.902Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:10.685Z"
+      "lastSuccess": "2026-10-24T11:35:06.056Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:11.226Z"
+      "lastSuccess": "2026-10-24T11:35:05.970Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T11:30:11.789Z"
+      "lastSuccess": "2026-10-24T11:35:08.259Z"
     }
   },
   "items": [
+    {
+      "id": "story_58e4701fe15e1d11",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Storm Boelo to bring gusts of up to 80mph and heavy rain to parts of UK",
+      "snippet": "Second named storm in as many days will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen\nThe UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel ",
+      "link": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T11:24:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8b4dc9f3945ddbf1",
       "source": "BBC",
@@ -484,6 +498,19 @@
       "imageUrl": "https://s.france24.com/media/display/53e9dbc0-cf95-11f1-b412-4b25c96ec90e/w:1024/p:16x9/EN-20261024-120737-120911-CS.jpg",
       "publishedAt": "2026-10-24T10:30:02.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1d47a6e323ddbb71",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Jordan church attack survivor says assailant pointed handgun at him - Reuters",
+      "snippet": "Jordan church attack survivor says assailant pointed handgun at him  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T10:29:44.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2694,6 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
       "imageUrl": null,
       "publishedAt": "2026-10-24T02:00:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_99928135601c8ebc",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Australian MP's condition improves after alleged car attack",
-      "snippet": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T01:55:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e3634b0a67b64834",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Peltola calls Alaska lawsuit a ‘desperate attempt’ for GOP to ‘cling to power’",
-      "snippet": "Alaska Senate candidate Mary Peltola (D) responded to the Justice Department’s (DOJ) lawsuit seeking to block her state from certifying its election results should her Republican challenger lose, saying Friday the move was “frivolous.” “Thi",
-      "link": "https://thehill.com/blogs/ballot-box/6169725-peltola-slams-alaska-doj-lawsuit-sullivan/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/6a854ec61351e6.96308264-e1792804457101.jpeg?w=900",
-      "publishedAt": "2026-10-24T01:53:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
