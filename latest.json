@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-24T07:25:05.409Z",
+  "updatedAt": "2026-10-24T07:30:11.985Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.559Z"
+      "lastSuccess": "2026-10-24T07:30:12.265Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.619Z"
+      "lastSuccess": "2026-10-24T07:30:12.419Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.596Z"
+      "lastSuccess": "2026-10-24T07:30:12.406Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.624Z"
+      "lastSuccess": "2026-10-24T07:30:12.285Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.588Z"
+      "lastSuccess": "2026-10-24T07:30:12.155Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.950Z"
+      "lastSuccess": "2026-10-24T07:30:12.623Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.526Z"
+      "lastSuccess": "2026-10-24T07:30:12.236Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.746Z"
+      "lastSuccess": "2026-10-24T07:30:12.239Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.679Z"
+      "lastSuccess": "2026-10-24T07:30:12.497Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.854Z"
+      "lastSuccess": "2026-10-24T07:30:12.454Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T07:25:05.842Z"
+      "lastErrorAt": "2026-10-24T07:30:12.574Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.825Z"
+      "lastSuccess": "2026-10-24T07:30:12.579Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.841Z"
+      "lastSuccess": "2026-10-24T07:30:12.509Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.741Z"
+      "lastSuccess": "2026-10-24T07:30:12.385Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T07:25:05.850Z"
+      "lastErrorAt": "2026-10-24T07:30:12.781Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.762Z"
+      "lastSuccess": "2026-10-24T07:30:12.179Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.606Z"
+      "lastSuccess": "2026-10-24T07:30:12.400Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.661Z"
+      "lastSuccess": "2026-10-24T07:30:12.556Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.808Z"
+      "lastSuccess": "2026-10-24T07:30:12.657Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:06.027Z"
+      "lastSuccess": "2026-10-24T07:30:12.756Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.878Z"
+      "lastSuccess": "2026-10-24T07:30:12.765Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.903Z"
+      "lastSuccess": "2026-10-24T07:30:12.813Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:25:05.898Z"
+      "lastSuccess": "2026-10-24T07:30:12.861Z"
     }
   },
   "items": [
+    {
+      "id": "story_55b0f464ca010cd9",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+      "snippet": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+      "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T07:09:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a24112f5c1e489fc",
       "source": "France24",
@@ -109,6 +122,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_d152da5dced3685f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "North Korea’s Kim Jong Un arrives in China, South Korean media says",
+      "snippet": "The visit comes about a week after a major new bridge linking the two countries was officially opened.",
+      "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T07:07:20.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_40b769a71c9a465e",
@@ -774,6 +800,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ec41f165279431f5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens - AP News",
+      "snippet": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHFVREVLS2VXU3ZEeDV3ZjBJcnlDZTdxUlZidHN2bmtRVl9RS1N3aTU5TmZULVRoQU1ld1FtRF8tdktGYTJsbTBGYk5najQwenlYTThpcDhCWXdrR1RQcHRKWWJkNU5LX2xHYVFORW81aFJ1RDJXemc1R1VfZ004VkRYWG1nT0w5?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T03:38:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1b54ae4fee550584",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -1342,6 +1381,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-24T00:37:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a344deb0b7aeece1",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "snippet": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T00:36:47.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2191,6 +2243,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_33a36b73982cf30e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+      "snippet": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-23T22:47:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7966de052882ca20",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2628,71 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkl0UEdpTXV6OFBma24xNHpldWI4Yk1lT2xjX0tlbElGMjZCSkNUNlZCQ1lhWUZYYVFCVHlvT01WZVRGRTVQVFg5U3hwM3B5SjNkNURfLW1QV1lOSUZfVWJheVc0dWlvdGNoU3dHc0owU1BzU0ZsMy1CLXVFcGVtZXB1MmJwV2Fma3otN21jUzhKVlBOMHMw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-23T22:09:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_20b828179cc12446",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Ohio man convicted of murder for running over officer after police killed his son",
-      "snippet": "Rodney Hinton ran over Larry Henderson after he viewed body-cam footage of police shooting dead his son Ryan\nAn Ohio man who killed a deputy with his car just hours after seeing video of his son killed by Cincinnati police was found guilty ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/23/ohio-rodney-hinton-murder-conviction-police",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:07:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_52ab4932660e55a3",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Defense attorneys in case over Charlie Kirk's killing say they need years to prepare for trial",
-      "snippet": "Defense attorneys for the man accused of assassinating conservative activist Charlie Kirk are suggesting a 2029 trial date because they say it could take them that long to prepare their case.",
-      "link": "https://www.pbs.org/newshour/nation/defense-attorneys-in-case-over-charlie-kirks-killing-say-they-need-years-to-prepare-for-trial",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:03:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8b48db5000f3abed",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Why is Israel increasing its presence in the Balkans?",
-      "snippet": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:01:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d4ce3a4d0bc7b7a2",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "France to deploy 70,000 police officers ahead of protests",
-      "snippet": "With new protests in France planned for this weekend, the authorities pledged to do everything in their power to prevent looting, violence and vandalism.",
-      "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:01:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8e4eb0f3ff27cfa4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years - AP News",
-      "snippet": "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T22:00:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
