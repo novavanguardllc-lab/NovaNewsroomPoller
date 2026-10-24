@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-24T07:00:12.993Z",
+  "updatedAt": "2026-10-24T07:05:05.413Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.274Z"
+      "lastSuccess": "2026-10-24T07:05:05.553Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.592Z"
+      "lastSuccess": "2026-10-24T07:05:05.773Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.594Z"
+      "lastSuccess": "2026-10-24T07:05:05.695Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.477Z"
+      "lastSuccess": "2026-10-24T07:05:05.799Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.697Z"
+      "lastSuccess": "2026-10-24T07:05:05.715Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.372Z"
+      "lastSuccess": "2026-10-24T07:05:05.735Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.452Z"
+      "lastSuccess": "2026-10-24T07:05:05.634Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.192Z"
+      "lastSuccess": "2026-10-24T07:05:05.811Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.639Z"
+      "lastSuccess": "2026-10-24T07:05:05.797Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.654Z"
+      "lastSuccess": "2026-10-24T07:05:05.819Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-24T07:00:13.611Z"
+      "lastErrorAt": "2026-10-24T07:05:05.819Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.760Z"
+      "lastSuccess": "2026-10-24T07:05:05.896Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.218Z"
+      "lastSuccess": "2026-10-24T07:05:05.813Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.555Z"
+      "lastSuccess": "2026-10-24T07:05:05.866Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-24T07:00:13.831Z"
+      "lastErrorAt": "2026-10-24T07:05:05.958Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.211Z"
+      "lastSuccess": "2026-10-24T07:05:05.804Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.578Z"
+      "lastSuccess": "2026-10-24T07:05:05.802Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.471Z"
+      "lastSuccess": "2026-10-24T07:05:05.893Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.811Z"
+      "lastSuccess": "2026-10-24T07:05:05.837Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:14.134Z"
+      "lastSuccess": "2026-10-24T07:05:05.951Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.821Z"
+      "lastSuccess": "2026-10-24T07:05:05.957Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.857Z"
+      "lastSuccess": "2026-10-24T07:05:05.996Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-24T07:00:13.881Z"
+      "lastSuccess": "2026-10-24T07:05:06.040Z"
     }
   },
   "items": [
+    {
+      "id": "story_9cb944f3e6d6e5c2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "FBI arrests Georgia man accused of throwing Molotov cocktail at Atlanta ICE facility",
+      "snippet": "Inique Hinton faces up to 20 years after allegedly throwing a Molotov cocktail at the Atlanta ICE building in an act prosecutors called terrorism.",
+      "link": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T06:53:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c3bfbb2c447c6b6f",
       "source": "Al Jazeera",
@@ -135,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_69314b9589da0bf2",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
+      "snippet": "Are we doomscrolling our way into a democratic crisis? That’s what the playwright James Graham fears may be happening, as he suggests that our algorithms have led us into ‘a massive crisis of the new’ and are preventing us from imagining a ",
+      "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
+      "imageUrl": null,
+      "publishedAt": "2026-10-24T06:45:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_5a20ecc2d15e0cfa",
@@ -2667,32 +2693,6 @@
       "link": "https://www.pbs.org/newshour/politics/watch-trump-defends-musk-on-starlink-disturbances-says-hell-never-do-anything-wrong",
       "imageUrl": null,
       "publishedAt": "2026-10-23T21:54:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ddd0764bf17db9aa",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "How Elon Musk's Starlink and Starshield are shaping the war in Ukraine",
-      "snippet": "Elon Musk's Starlink and Starshield satellite networks play different roles in Ukraine's fight against Russia. Here's how the two systems work, how they're used on the battlefield and why Ukraine's reliance on them could be a vulnerability.",
-      "link": "https://www.cbsnews.com/video/starlink-starshield-explained-ukraine-russia-war/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T21:50:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_319465dc471ea706",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Nat Geo’s 'Moment on the Earth' showcases stunning snorkel cam footage",
-      "snippet": "National Geographic’s Wonderlab Snorkel Cam, created by Explorer Anand Varma, captures striking 360-degree views of ocean creatures, including a barnacle-covered mussel and a sea urchin.",
-      "link": "https://abcnews.com/video/137518501/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T21:50:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
