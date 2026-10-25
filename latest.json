@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-25T20:40:08.337Z",
+  "updatedAt": "2026-10-25T20:45:08.730Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.576Z"
+      "lastSuccess": "2026-10-25T20:45:09.216Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.480Z"
+      "lastSuccess": "2026-10-25T20:45:08.909Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.506Z"
+      "lastSuccess": "2026-10-25T20:45:08.954Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.462Z"
+      "lastSuccess": "2026-10-25T20:45:09.036Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.579Z"
+      "lastSuccess": "2026-10-25T20:45:09.234Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.663Z"
+      "lastSuccess": "2026-10-25T20:45:09.337Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.659Z"
+      "lastSuccess": "2026-10-25T20:45:09.353Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.519Z"
+      "lastSuccess": "2026-10-25T20:45:08.914Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.642Z"
+      "lastSuccess": "2026-10-25T20:45:09.417Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T20:40:08.639Z"
+      "lastErrorAt": "2026-10-25T20:45:09.459Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.537Z"
+      "lastSuccess": "2026-10-25T20:45:09.154Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.639Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-25T20:45:09.053Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.496Z"
+      "lastSuccess": "2026-10-25T20:45:09.077Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:13.257Z"
+      "lastSuccess": "2026-10-25T20:45:09.456Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.633Z"
+      "lastSuccess": "2026-10-25T20:45:09.315Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.696Z"
+      "lastSuccess": "2026-10-25T20:45:09.186Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.788Z"
+      "lastSuccess": "2026-10-25T20:45:09.642Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.800Z"
+      "lastSuccess": "2026-10-25T20:45:09.531Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T20:40:08.795Z"
+      "lastErrorAt": "2026-10-25T20:45:09.526Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.879Z"
+      "lastSuccess": "2026-10-25T20:45:09.501Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.816Z"
+      "lastSuccess": "2026-10-25T20:45:09.391Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.863Z"
+      "lastSuccess": "2026-10-25T20:45:09.659Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T20:40:08.946Z"
+      "lastSuccess": "2026-10-25T20:45:09.791Z"
     }
   },
   "items": [
+    {
+      "id": "story_49134767dd3a8ce4",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+      "snippet": "In a surprisingly strong performance, the candidate of the pro-Western reformist opposition, Andrey Gyurov, will face the incumbent leftist president, Iliana Yotova, setting clear lines of division regarding the country's future relationshi",
+      "link": "https://www.pbs.org/newshour/world/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T20:39:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_858466c542a3ff05",
       "source": "NPR",
@@ -213,6 +227,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_9a0261a88c6e2cf9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Musk says SpaceX raised $40 billion in debt for GPUs - Reuters",
+      "snippet": "Musk says SpaceX raised $40 billion in debt for GPUs  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T20:05:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_42d0ed0e37269c81",
@@ -1801,6 +1828,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_6d423620e2937384",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut - AP News",
+      "snippet": "Rodgers throws TD pass in Paris as Steelers beat Saints 16-10 in NFL's regular-season France debut  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ2lzWGt2OGMtYWt3alFkVHZqYWRWdjQzMjdYNUZ6a3RXMjdMOGNnU2Z0SXdMUDgtc3dFdk8zRGo0VVd6U08yWDZ6QlhsTmxHT3dSeGdUd3RSLVMtRnEyaGJhWWE0a1dMS01Bb0puNzRFOWV6MjFtbUd5cGhkTGJUalRCTFFZY0xCOWJ1U20xY2w?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T16:54:00.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5c957a72288a8d7d",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -2654,45 +2694,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-25T15:32:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_15c880d7f9a1c660",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Portuguese police with dogs and batons dismantle housing protest camps",
-      "snippet": "More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto \nPolice in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday",
-      "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T15:32:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea4357a7d54597f2",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "CBS News Battleground Tracker favors Democrats but turnout questions remain",
-      "snippet": "With the midterm elections less than 10 days away, CBS News executive director of elections and surveys Anthony Salvanto dives into the latest Battleground Tracker, which favors Democrats but he says \"turnout is a big factor.\"",
-      "link": "https://www.cbsnews.com/video/cbs-news-battleground-tracker-favors-democrats-but-turnout-questions-remain/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T15:27:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc201e9d41c854d1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
-      "snippet": "Emmanuel Macron vows rioters will pay as 70,000 police deploy across France, while Italy, Belgium and Albania face escalating protest violence.",
-      "link": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T15:24:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
