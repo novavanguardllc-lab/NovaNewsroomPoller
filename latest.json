@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-25T19:50:08.905Z",
+  "updatedAt": "2026-10-25T19:55:05.703Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:08.978Z"
+      "lastSuccess": "2026-10-25T19:55:05.815Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:08.984Z"
+      "lastSuccess": "2026-10-25T19:55:05.839Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.002Z"
+      "lastSuccess": "2026-10-25T19:55:05.893Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.023Z"
+      "lastSuccess": "2026-10-25T19:55:06.093Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.076Z"
+      "lastSuccess": "2026-10-25T19:55:05.856Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.077Z"
+      "lastSuccess": "2026-10-25T19:55:05.990Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.084Z"
+      "lastSuccess": "2026-10-25T19:55:05.996Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.060Z"
+      "lastSuccess": "2026-10-25T19:55:05.876Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.073Z"
+      "lastSuccess": "2026-10-25T19:55:05.999Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T19:50:09.113Z"
+      "lastErrorAt": "2026-10-25T19:55:06.015Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.056Z"
+      "lastSuccess": "2026-10-25T19:55:05.916Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.156Z"
+      "lastSuccess": "2026-10-25T19:55:05.873Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.170Z"
+      "lastSuccess": "2026-10-25T19:55:05.883Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.119Z"
+      "lastSuccess": "2026-10-25T19:55:06.008Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.148Z"
+      "lastSuccess": "2026-10-25T19:55:05.964Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.110Z"
+      "lastSuccess": "2026-10-25T19:55:05.983Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.270Z"
+      "lastSuccess": "2026-10-25T19:55:06.364Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.123Z"
+      "lastSuccess": "2026-10-25T19:55:06.021Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T19:50:09.085Z"
+      "lastErrorAt": "2026-10-25T19:55:06.016Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.043Z"
+      "lastSuccess": "2026-10-25T19:55:06.384Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.030Z"
+      "lastSuccess": "2026-10-25T19:55:06.195Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:50:09.223Z"
+      "lastSuccess": "2026-10-25T19:55:06.068Z"
     },
     "The Hill": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-25T19:50:18.924Z"
+      "online": true,
+      "lastSuccess": "2026-10-25T19:55:06.147Z"
     }
   },
   "items": [
+    {
+      "id": "story_c0ee3ffdcfef8320",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Judge asked to compel Trump administration to disclose emails and texts about Kennedy Center plans",
+      "snippet": "A list of records in the Kennedy Center's possession suggests that Trump has been in \"near-constant contact\" with the center's management, either directly or through intermediaries, plaintiffs' lawyers said in a court filing on Sunday.",
+      "link": "https://www.pbs.org/newshour/politics/judge-asked-to-compel-trump-administration-to-disclose-emails-and-texts-about-kennedy-center-plans",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T19:49:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f167492ba3ef04bc",
       "source": "Fox News",
@@ -2682,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:53:50.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3a41108eb6c726e9",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "snippet": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:47:55.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
