@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-25T15:30:12.315Z",
+  "updatedAt": "2026-10-25T15:35:05.952Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.653Z"
+      "lastSuccess": "2026-10-25T15:35:06.010Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.473Z"
+      "lastSuccess": "2026-10-25T15:35:06.016Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.551Z"
+      "lastSuccess": "2026-10-25T15:35:06.113Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.873Z"
+      "lastSuccess": "2026-10-25T15:35:06.058Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.610Z"
+      "lastSuccess": "2026-10-25T15:35:06.042Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.835Z"
+      "lastSuccess": "2026-10-25T15:35:06.140Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.849Z"
+      "lastSuccess": "2026-10-25T15:35:06.120Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-25T15:30:12.654Z"
+      "online": true,
+      "lastSuccess": "2026-10-25T15:35:06.013Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.869Z"
+      "lastSuccess": "2026-10-25T15:35:06.138Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.658Z"
+      "lastSuccess": "2026-10-25T15:35:06.038Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T15:30:12.833Z"
+      "lastErrorAt": "2026-10-25T15:35:06.159Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.624Z"
+      "lastSuccess": "2026-10-25T15:35:06.034Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.960Z"
+      "lastSuccess": "2026-10-25T15:35:06.169Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.691Z"
+      "lastSuccess": "2026-10-25T15:35:06.055Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.809Z"
+      "lastSuccess": "2026-10-25T15:35:06.094Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.915Z"
+      "lastSuccess": "2026-10-25T15:35:06.156Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T15:30:13.030Z"
+      "lastErrorAt": "2026-10-25T15:35:06.141Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.969Z"
+      "lastSuccess": "2026-10-25T15:35:06.145Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.581Z"
+      "lastSuccess": "2026-10-25T15:35:06.028Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:12.597Z"
+      "lastSuccess": "2026-10-25T15:35:05.990Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:13.017Z"
+      "lastSuccess": "2026-10-25T15:35:06.286Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:13.076Z"
+      "lastSuccess": "2026-10-25T15:35:06.211Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T15:30:13.049Z"
+      "lastSuccess": "2026-10-25T15:35:06.177Z"
     }
   },
   "items": [
+    {
+      "id": "story_dc201e9d41c854d1",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
+      "snippet": "Emmanuel Macron vows rioters will pay as 70,000 police deploy across France, while Italy, Belgium and Albania face escalating protest violence.",
+      "link": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:24:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a9167122c1e15998",
       "source": "CBS News",
@@ -2681,19 +2693,6 @@
       "link": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-25T10:42:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f979e2cd26e84c02",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Suspect in racist gun attack near Paris transferred to psychiatric unit",
-      "snippet": "A shooter suspected of killing one person and wounding five others on Friday in the town of Trappes, near Paris, has had his police custody suspended for a 48-hour psychiatric observation, anti-terror prosecutors said Sunday. The 39-year-ol",
-      "link": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
-      "imageUrl": "https://s.france24.com/media/display/a69c99f4-d05b-11f1-b633-4b25c96ec90e/w:1024/p:16x9/000-D47R7WB.jpg",
-      "publishedAt": "2026-10-25T10:36:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
