@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-25T09:55:05.432Z",
+  "updatedAt": "2026-10-25T10:00:13.153Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.611Z"
+      "lastSuccess": "2026-10-25T10:00:13.470Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.711Z"
+      "lastSuccess": "2026-10-25T10:00:13.510Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.751Z"
+      "lastSuccess": "2026-10-25T10:00:13.615Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.693Z"
+      "lastSuccess": "2026-10-25T10:00:13.695Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.691Z"
+      "lastSuccess": "2026-10-25T10:00:13.376Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.613Z"
+      "lastSuccess": "2026-10-25T10:00:13.631Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.790Z"
+      "lastSuccess": "2026-10-25T10:00:13.650Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.709Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-25T10:00:13.492Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.877Z"
+      "lastSuccess": "2026-10-25T10:00:13.993Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.715Z"
+      "lastSuccess": "2026-10-25T10:00:13.491Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T09:55:05.910Z"
+      "lastErrorAt": "2026-10-25T10:00:13.652Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.559Z"
+      "lastSuccess": "2026-10-25T10:00:13.671Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.888Z"
+      "lastSuccess": "2026-10-25T10:00:13.936Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.675Z"
+      "lastSuccess": "2026-10-25T10:00:13.780Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.869Z"
+      "lastSuccess": "2026-10-25T10:00:13.896Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.775Z"
+      "lastSuccess": "2026-10-25T10:00:13.752Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T09:55:05.882Z"
+      "lastErrorAt": "2026-10-25T10:00:14.231Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.885Z"
+      "lastSuccess": "2026-10-25T10:00:14.073Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.957Z"
+      "lastSuccess": "2026-10-25T10:00:13.971Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.935Z"
+      "lastSuccess": "2026-10-25T10:00:14.014Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:06.070Z"
+      "lastSuccess": "2026-10-25T10:00:14.160Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:06.003Z"
+      "lastSuccess": "2026-10-25T10:00:14.197Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T09:55:05.997Z"
+      "lastSuccess": "2026-10-25T10:00:14.282Z"
     }
   },
   "items": [
@@ -275,6 +276,71 @@
       "link": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-25T09:13:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a9c188b5d059a959",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+      "snippet": "Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms.",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T09:01:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0af402f68076ff0d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+      "snippet": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T09:01:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_130ce1ef14ab9415",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Latinos Are Now America’s Most Important Swing Voters",
+      "snippet": "Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years.",
+      "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T09:01:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e552124a1fc49605",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+      "snippet": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.",
+      "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T09:01:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e7bc0b9c953f7ac2",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Israel’s High-Stakes Election: What to Know",
+      "snippet": "Israelis head to the polls on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to form a new government.",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israels-high-stakes-election-what-to-know.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T09:01:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -462,6 +528,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_343d89310cfb9cc0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Mexico - AP News",
+      "snippet": "Mexico  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsbDhZRnVyak5fWkhUTkVPUVpNS2p0MUVqal8yalItaTZtLVJYOHNtVDUyT2J1SDhzaF9sSndpZWh0aHc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T08:45:13.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_df21383bf8642bea",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -486,6 +565,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_eadd9bcdaacc1686",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "(MNSX.N) | Stock Price & Latest News - Reuters",
+      "snippet": "(MNSX.N) | Stock Price & Latest News  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUeE9wQmotVERlVWJQTkNvNURZWGJkOGFOZDNETGFfYzI2YkpWR0NZMTNDOVN3UDc3SkFHZS1SdF8tdGVPbXRjRmlzWWtINU1OdjdKakZyRzU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T08:36:33.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_b6bf7ac4343ba452",
@@ -746,6 +838,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_81d8b1730e83bb8c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr. - Reuters",
+      "snippet": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T07:28:40.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_e9611135460ebcdd",
@@ -1125,6 +1230,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d49961c8305bfcb4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "snippet": "A timely demographic story we’ve never been able to tell before.",
+      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T05:40:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1a8896615315ed92",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1485,6 +1603,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T04:05:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7edda4acf9e70d5e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "He Helped Deport 200 People. Now He Has Misgivings.",
+      "snippet": "A deputy in small-town Texas became the local face of ICE’s national crackdown.",
+      "link": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T04:01:12.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2564,136 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T00:24:35.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b5a818332fc4859d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Violence breaks out across Europe after another day of protests",
-      "snippet": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:23:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43afc2f270f73b54",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "College Football Full FBS Schedule - AP News",
-      "snippet": "College Football Full FBS Schedule  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16eW1Td0daU1ZoSWxZbzZwUHFJZ1JQRmRnbmRLRXJPZkt4dmtLWDdfenJtZDA3WENFYnZ2eDQ4TlYxOVVGNWpCTndyLUZSSXRyVEVrSDY2QWtYOFBlQzRvcGxfd1U3WE9a?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:23:18.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d2e719b4a7022a60",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Explosion and fire erupt at Quaker Oats plant in Cedar Rapids, Iowa; no injuries",
-      "snippet": "The fire evidently began with an explosion, the fire department said.",
-      "link": "https://abcnews.com/Business/wireStory/fire-breaks-quaker-oats-plant-cedar-rapids-iowa-137544207",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:19:19.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_c92eda8ed01b8683",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "New York City - AP News",
-      "snippet": "New York City  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:16:42.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7e387a717793a175",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "California leaders rebuke Trump administration’s push over alleged noncitizen voting",
-      "snippet": "Election personnel concerned directive to ‘quickly’ verify 20,000 ballots could disenfranchise citizens\nCalifornia’s top leaders have rebuked the Trump administration’s efforts to quash alleged noncitizen voting.\nLess than two weeks before ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:16:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5617365fcd42cc41",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Keyone Jenkins throws TD pass in double OT and UCF knocks off No. 2 BYU 39-31 - AP News",
-      "snippet": "Keyone Jenkins throws TD pass in double OT and UCF knocks off No. 2 BYU 39-31  AP News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KYkZnVWsxcTRjQ3I2UC1YZEFRR0xwVld2MDhtZmkwQ19YN0EtTXBLdU1LYXByMVV6NmtfeTQ1QldIeGlSUkZzREtsM2oyOW15WmtzZ3F0QjFyUGtTbWYxTlpTLWVlWkxGQ2JxUVNrT0pnZGQ1czdIVzVpY0Ewdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:16:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f564896919188b72",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
-      "snippet": "Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket\nBarack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:14:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_13548796aa41e069",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "N.C. State fires football coach Dave Doeren midway through his 14th season - AP News",
-      "snippet": "N.C. State fires football coach Dave Doeren midway through his 14th season  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVBGZmVCT2owbVEzVnBSaXVQMG92S1FKQTlQYUMzTzBCcjdwdktrbTNFS08xYmNpZ3pGamJVRDNCN3loMDBQTUxUV05td2ZMcUhQbVFKUjFzdkFnNkVuQTRjMVhoWkg4SWhveExfRmlBbS1QRm5wV2V4MmdmLUpWWFg4cndUUm41eWl4d09MSQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:12:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aaae882ab1b18e90",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-      "snippet": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:10:07.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_73cc05a53cb6a09e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race - AP News",
-      "snippet": "Sullivan, Peltola seek support from Alaska Native voters ahead of crucial Senate race  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkJ6bmNDUHpoSW1ySWQybWJVQ2Jubng5ZW5yeGJjUUhvSTI5VFlpeWpYbjBONzUtUDVKQURpUVFiM0wwZ21hUF9LYWMzOWQ2X3R1d2t4bTl4YmF0dVdNVk9IQlZYOXNZNUJoLVNza1JZLTlDQjlXQkFzZXEtUDJSU1RtMGJVWlBfNC1BaHRJcG1Day1iQWtCMGg4eUhoZDQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T00:07:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
