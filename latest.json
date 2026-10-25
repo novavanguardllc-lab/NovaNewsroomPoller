@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-25T18:30:10.502Z",
+  "updatedAt": "2026-10-25T18:35:06.424Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.841Z"
+      "lastSuccess": "2026-10-25T18:35:06.501Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.715Z"
+      "lastSuccess": "2026-10-25T18:35:06.603Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.682Z"
+      "lastSuccess": "2026-10-25T18:35:06.546Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.914Z"
+      "lastSuccess": "2026-10-25T18:35:06.644Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.935Z"
+      "lastSuccess": "2026-10-25T18:35:06.702Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.917Z"
+      "lastSuccess": "2026-10-25T18:35:06.717Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.103Z"
+      "lastSuccess": "2026-10-25T18:35:06.770Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.704Z"
+      "lastSuccess": "2026-10-25T18:35:06.607Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.084Z"
+      "lastSuccess": "2026-10-25T18:35:06.765Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T18:30:11.106Z"
+      "lastErrorAt": "2026-10-25T18:35:06.779Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.037Z"
+      "online": false,
+      "lastError": "Status code 404",
+      "lastErrorAt": "2026-10-25T18:35:06.618Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.925Z"
+      "lastSuccess": "2026-10-25T18:35:06.707Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.055Z"
+      "lastSuccess": "2026-10-25T18:35:06.779Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.139Z"
+      "lastSuccess": "2026-10-25T18:35:06.785Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.219Z"
+      "lastSuccess": "2026-10-25T18:35:06.697Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.080Z"
+      "lastSuccess": "2026-10-25T18:35:06.758Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.356Z"
+      "lastSuccess": "2026-10-25T18:35:06.897Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.403Z"
+      "lastSuccess": "2026-10-25T18:35:06.809Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T18:30:11.436Z"
+      "lastErrorAt": "2026-10-25T18:35:06.794Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:10.743Z"
+      "lastSuccess": "2026-10-25T18:35:06.925Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.245Z"
+      "lastSuccess": "2026-10-25T18:35:06.600Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.502Z"
+      "lastSuccess": "2026-10-25T18:35:06.824Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T18:30:11.559Z"
+      "lastSuccess": "2026-10-25T18:35:06.967Z"
     }
   },
   "items": [
@@ -109,6 +110,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
+    },
+    {
+      "id": "story_97730b2bc07e5ab4",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "WATCH LIVE: Trump rallies for Mike Rogers in Michigan",
+      "snippet": "President Donald Trump is holding a rally in Port Huron, Michigan, on Sunday, stumping for Republican candidates just over a week before the midterm elections. The president is set to appear alongside rapper Nicki Minaj in support of former",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4779028/watch-live-trump-rallies-for-mike-rogers-in-michigan/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T18:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_05bf1893b9b36d54",
@@ -2680,19 +2694,6 @@
       "link": "https://abcnews.com/Politics/democrats-aim-deep-red-mississippi-senate-seat-scott/story?id=137484924",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:00:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_985315c6e83f16cb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Hochul faces revolt from unlikely New Yorkers as Democrats deliver scathing verdict on their party",
-      "snippet": "Former Democratic Bronx Assemblyman Stephen Kaufman accuses his own party of being overtaken by socialists while rallying for Bruce Blakeman.",
-      "link": "https://www.foxnews.com/politics/hochul-faces-revolt-unlikely-new-yorkers-democrats-deliver-scathing-verdict-party",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:00:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
