@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-25T14:35:05.905Z",
+  "updatedAt": "2026-10-25T14:40:08.743Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.051Z"
+      "lastSuccess": "2026-10-25T14:40:08.928Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.006Z"
+      "lastSuccess": "2026-10-25T14:40:08.822Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.033Z"
+      "lastSuccess": "2026-10-25T14:40:08.966Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.132Z"
+      "lastSuccess": "2026-10-25T14:40:08.846Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.023Z"
+      "lastSuccess": "2026-10-25T14:40:08.986Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.086Z"
+      "lastSuccess": "2026-10-25T14:40:08.988Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.069Z"
+      "lastSuccess": "2026-10-25T14:40:08.982Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.124Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-25T14:40:08.825Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.109Z"
+      "lastSuccess": "2026-10-25T14:40:09.147Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.084Z"
+      "lastSuccess": "2026-10-25T14:40:09.009Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T14:35:06.148Z"
+      "lastErrorAt": "2026-10-25T14:40:09.163Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.106Z"
+      "lastSuccess": "2026-10-25T14:40:09.026Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.146Z"
+      "lastSuccess": "2026-10-25T14:40:09.151Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.131Z"
+      "lastSuccess": "2026-10-25T14:40:09.068Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.182Z"
+      "lastSuccess": "2026-10-25T14:40:09.108Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.142Z"
+      "lastSuccess": "2026-10-25T14:40:09.126Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T14:35:06.228Z"
+      "lastErrorAt": "2026-10-25T14:40:09.143Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.231Z"
+      "lastSuccess": "2026-10-25T14:40:09.142Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.398Z"
+      "lastSuccess": "2026-10-25T14:40:09.345Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.066Z"
+      "lastSuccess": "2026-10-25T14:40:09.227Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.227Z"
+      "lastSuccess": "2026-10-25T14:40:09.328Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.268Z"
+      "lastSuccess": "2026-10-25T14:40:10.830Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:35:06.332Z"
+      "lastSuccess": "2026-10-25T14:40:09.185Z"
     }
   },
   "items": [
+    {
+      "id": "story_69aefe5d872381aa",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign",
+      "snippet": "Obama remains the Democratic Party's best motivator nearly a decade after leaving the White House. And he's taking his star power on the road in the final days of the midterm elections, which will help determine the balance of power in Amer",
+      "link": "https://www.pbs.org/newshour/politics/obama-in-midwest-assails-cruelty-and-indecency-from-trump-and-his-allies-in-the-midterm-campaign",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:35:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_67783c9d93d4cd69",
       "source": "CBS News",
@@ -223,6 +237,19 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:16:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f12c641a147d0624",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Gaza content creator tells Al Jazeera how much her award win means",
+      "snippet": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:16:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T09:27:52.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_48011804eb0bfd34",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israeli forces turn Hebron homes into military posts amid lockdown",
-      "snippet": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:27:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dbab08492f31ffbb",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-      "snippet": "As Israel prepares to vote, Gadi Eisenkot is leveraging his Moroccan heritage in Likud strongholds such as Sderot. From historical divides to October 7, identity and trauma are redefining the city's political loyalties.",
-      "link": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:27:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
