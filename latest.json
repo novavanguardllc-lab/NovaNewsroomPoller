@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-25T02:55:05.320Z",
+  "updatedAt": "2026-10-25T03:00:13.567Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.477Z"
+      "lastSuccess": "2026-10-25T03:00:13.760Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.491Z"
+      "lastSuccess": "2026-10-25T03:00:13.810Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.454Z"
+      "lastSuccess": "2026-10-25T03:00:13.906Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.498Z"
+      "lastSuccess": "2026-10-25T03:00:13.820Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.517Z"
+      "lastSuccess": "2026-10-25T03:00:13.802Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.630Z"
+      "lastSuccess": "2026-10-25T03:00:14.118Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.692Z"
+      "lastSuccess": "2026-10-25T03:00:14.146Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.535Z"
+      "lastSuccess": "2026-10-25T03:00:14.183Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.650Z"
+      "lastSuccess": "2026-10-25T03:00:14.136Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.688Z"
+      "lastSuccess": "2026-10-25T03:00:14.189Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T02:55:05.694Z"
+      "lastErrorAt": "2026-10-25T03:00:14.140Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.572Z"
+      "lastSuccess": "2026-10-25T03:00:14.099Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.657Z"
+      "lastSuccess": "2026-10-25T03:00:14.204Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.590Z"
+      "lastSuccess": "2026-10-25T03:00:14.043Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.683Z"
+      "lastSuccess": "2026-10-25T03:00:14.016Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.610Z"
+      "lastSuccess": "2026-10-25T03:00:14.179Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T02:55:05.698Z"
+      "lastErrorAt": "2026-10-25T03:00:14.358Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.716Z"
+      "lastSuccess": "2026-10-25T03:00:14.356Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.386Z"
+      "lastSuccess": "2026-10-25T03:00:13.844Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.747Z"
+      "lastSuccess": "2026-10-25T03:00:13.703Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.840Z"
+      "lastSuccess": "2026-10-25T03:00:14.344Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.739Z"
+      "lastSuccess": "2026-10-25T03:00:14.386Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T02:55:05.773Z"
+      "lastSuccess": "2026-10-25T03:00:14.396Z"
     }
   },
   "items": [
@@ -107,6 +107,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T02:46:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8ff3510ef1d1e96b",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "snippet": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T02:45:43.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2680,19 +2693,6 @@
       "link": "https://thehill.com/homenews/campaign/6170235-jolly-nixon-receive-obama-support/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/obamabarack_07272026ap_590e85.jpg?w=900",
       "publishedAt": "2026-10-24T20:01:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_47ff8ced9485791d",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Bulldozers tear down home as Israel cracks down in the West Bank",
-      "snippet": "Bulldozers tore down Palestinian businessman Riyad Mureish’s home in Hebron in the occupied West Bank on Friday, as Israeli officials launched a fresh crackdown on residents there.",
-      "link": "https://www.nbcnews.com/world/israel/bulldozers-tear-home-israel-cracks-west-bank-rcna605365",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T20:00:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
