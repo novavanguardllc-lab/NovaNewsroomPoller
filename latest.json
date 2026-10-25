@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-10-25T13:10:07.534Z",
+  "updatedAt": "2026-10-25T13:15:09.494Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.646Z"
+      "lastSuccess": "2026-10-25T13:15:09.840Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.723Z"
+      "lastSuccess": "2026-10-25T13:15:09.667Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.794Z"
+      "lastSuccess": "2026-10-25T13:15:10.000Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.836Z"
+      "lastSuccess": "2026-10-25T13:15:09.940Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.742Z"
+      "lastSuccess": "2026-10-25T13:15:09.801Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.814Z"
+      "lastSuccess": "2026-10-25T13:15:09.658Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.858Z"
+      "lastSuccess": "2026-10-25T13:15:09.862Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.955Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-25T13:15:09.855Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.840Z"
+      "lastSuccess": "2026-10-25T13:15:10.303Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.853Z"
+      "lastSuccess": "2026-10-25T13:15:10.165Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T13:10:07.858Z"
+      "lastErrorAt": "2026-10-25T13:15:09.875Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.873Z"
+      "lastSuccess": "2026-10-25T13:15:10.171Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.940Z"
+      "lastSuccess": "2026-10-25T13:15:10.034Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.950Z"
+      "lastSuccess": "2026-10-25T13:15:09.934Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.936Z"
+      "lastSuccess": "2026-10-25T13:15:10.157Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.996Z"
+      "lastSuccess": "2026-10-25T13:15:09.976Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T13:10:07.964Z"
+      "lastErrorAt": "2026-10-25T13:15:10.320Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.963Z"
+      "lastSuccess": "2026-10-25T13:15:10.327Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.682Z"
+      "lastSuccess": "2026-10-25T13:15:09.795Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:07.717Z"
+      "lastSuccess": "2026-10-25T13:15:09.743Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:08.079Z"
+      "lastSuccess": "2026-10-25T13:15:10.298Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:08.096Z"
+      "lastSuccess": "2026-10-25T13:15:16.126Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T13:10:08.144Z"
+      "lastSuccess": "2026-10-25T13:15:10.396Z"
     }
   },
   "items": [
+    {
+      "id": "story_3f022b9bd9a7e5ed",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Raising birthrates really does take a village",
+      "snippet": "Mention the low and falling birthrate, and you’re bound to get a hundred bad responses. The two most common explanations are that young people are too selfish and lazy, or that having children is too unaffordable. Those who blame unaffordab",
+      "link": "https://www.washingtonexaminer.com/in_focus/4778756/raising-birthrates-really-does-take-a-village/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:13:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e5a0f3aaf92c59e6",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Israel to close all West Bank land crossings on election day",
+      "snippet": "After a deadly attack which killed two Israeli soldiers on Friday, the Israeli military has said all land border points between Israel and the occupied West Bank will be closed during Tuesday's election.",
+      "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:09:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7a98029d149b90b4",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Live updates: Trump heads to Michigan; Blanche hits Sunday shows amid DOJ lawsuits",
+      "snippet": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states’ election certification efforts. The Justice Department (D",
+      "link": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298060041289-e1792932993242.jpg?w=900",
+      "publishedAt": "2026-10-25T13:07:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_aa4d14faf0aca938",
       "source": "Fox News",
@@ -264,6 +304,45 @@
       "publishedAt": "2026-10-25T12:46:02.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6ddb990a286cde8a",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
+      "snippet": "The victory helped the Kazakh take a big step towards securing the year-end number one ranking.",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:40:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ae0ea6ccebf60fae",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
+      "snippet": "Burnham says Britain should have an 'honest discussion' about how immigration to the UK has changed since Brexit.",
+      "link": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:38:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c593f6c0c54d5411",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
+      "snippet": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors.",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:37:49.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2615,84 +2694,6 @@
       "link": "https://www.theguardian.com/society/2026/oct/25/deaths-cocaine-crime-survey-england-wales",
       "imageUrl": null,
       "publishedAt": "2026-10-25T07:00:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1fce60ca84d16d52",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Cocaine-linked crimes on the rise in Britain as consumption surges",
-      "snippet": "Exclusive: Wastewater analysis in England suggests people took roughly 2.5bn lines of drug in one year\n\nAgeing users and record deaths – the data behind Britain’s £9.8bn-a-year cocaine habit\n\nPubs, festivals and workplaces: how cocaine has ",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/cocaine-linked-crimes-on-the-rise-in-britain-as-consumption-surges",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T07:00:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fd50efd4e0cb22fa",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote - AP News",
-      "snippet": "Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNk9zbWRJZDF1aF9WaWZJWnRLQXhCRmtkbnJLMmt0cC1aX2swYkp1UlpFRVZoZG1TWlBENVNZenhUMWs1eG4tMmR5UVZBNFV4NXAyMjJtbVNmWnJTejlJdFJDVmtlMWdadXJOcTU1d1Q1UUpYNUJLeXhuY21YRW1xcUpBMDJMREZFa29qeXk3WVZEM3h6YktqeFlwMFIxQkVfMV9jbEJB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5141ffd54b05a68c",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Elections cannot produce change in Israel",
-      "snippet": "Political change cannot come from within Israeli society. It can only come from the outside.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T06:54:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1b4768771f9bd76c",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "<a href='https://news.sky.com/video/could-palestinian-voters-tip-israels-election-13602356'>'This is an extremist government': The Israeli Palestinians with the votes that could force Netanyahu out</a>",
-      "snippet": "",
-      "link": "https://news.sky.com/story/could-palestinian-voters-tip-israels-election-13603447",
-      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-israel-palestine_7384005.jpg?20261022183608",
-      "publishedAt": "2026-10-25T06:53:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6102a11f42d081b8",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers - AP News",
-      "snippet": "Drew Rasmusssen can't make it through 4th inning as Rays blow 4-0 lead in Game 2 loss to Brewers  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVktkaDJ2OWhZcXZmV2VPZzdfdlVSVkdDMkEyMWFVRU1FUTVtZWxkMEpOQWp5Y05TWUVBZzlUVkVJdTlKRlZ1NlNFTEF0ejQ1b3VtUVVmZkFTZ25XbDYtcHM5Ym13ZldrNmZLQng4ZWRqU3NOUmtPbHZqc2FFUUU2MVhxcVFYMEk3VjVROGFqMkZadUNHSFhYUmpwdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T06:47:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c6bb4878524e783b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Who Israel elects matters, and not just for Israelis",
-      "snippet": "A new government would not end the occupation, but it could rein in the far right and ease tensions across the region.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T06:41:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
