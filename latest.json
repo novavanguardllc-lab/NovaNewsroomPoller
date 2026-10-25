@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-25T12:55:05.452Z",
+  "updatedAt": "2026-10-25T13:00:13.481Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.568Z"
+      "lastSuccess": "2026-10-25T13:00:13.775Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.575Z"
+      "lastSuccess": "2026-10-25T13:00:13.638Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.770Z"
+      "lastSuccess": "2026-10-25T13:00:13.820Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.799Z"
+      "lastSuccess": "2026-10-25T13:00:13.664Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.797Z"
+      "lastSuccess": "2026-10-25T13:00:13.941Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.653Z"
+      "lastSuccess": "2026-10-25T13:00:13.973Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.806Z"
+      "lastSuccess": "2026-10-25T13:00:13.980Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.780Z"
+      "lastSuccess": "2026-10-25T13:00:13.877Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.872Z"
+      "lastSuccess": "2026-10-25T13:00:14.135Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.777Z"
+      "lastSuccess": "2026-10-25T13:00:13.976Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T12:55:05.873Z"
+      "lastErrorAt": "2026-10-25T13:00:13.991Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.794Z"
+      "lastSuccess": "2026-10-25T13:00:13.923Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.901Z"
+      "lastSuccess": "2026-10-25T13:00:14.171Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.717Z"
+      "lastSuccess": "2026-10-25T13:00:14.018Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.833Z"
+      "lastSuccess": "2026-10-25T13:00:14.119Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.640Z"
+      "lastSuccess": "2026-10-25T13:00:13.861Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T12:55:05.843Z"
+      "lastErrorAt": "2026-10-25T13:00:14.317Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.851Z"
+      "lastSuccess": "2026-10-25T13:00:14.333Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.787Z"
+      "lastSuccess": "2026-10-25T13:00:14.215Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.912Z"
+      "lastSuccess": "2026-10-25T13:00:13.695Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:06.201Z"
+      "lastSuccess": "2026-10-25T13:00:14.305Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:07.818Z"
+      "lastSuccess": "2026-10-25T13:00:14.431Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T12:55:05.891Z"
+      "lastSuccess": "2026-10-25T13:00:14.389Z"
     }
   },
   "items": [
+    {
+      "id": "story_47a1df9cca5b0d3f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Giant robotic claws will grab dead satellites in space",
+      "snippet": "ClearSpace UK's robotic spacecraft with giant claws will chase down dead satellites at 17,000 mph, with a 2029 launch from Scotland planned.",
+      "link": "https://www.foxnews.com/tech/giant-robotic-claws-grab-dead-satellites-space",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:54:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0e785f4e69669c23",
       "source": "CBS News",
@@ -108,6 +121,19 @@
       "publishedAt": "2026-10-25T12:52:30.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1da19bf3f06be752",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Angel Reese blocks social media influencer's 'marriage proposal' after WNBA Finals game",
+      "snippet": "Angel Reese shut down a TikTok influencer's courtside marriage proposal during the WNBA Finals, but her response had fans buzzing online.",
+      "link": "https://www.foxnews.com/outkick-sports/angel-reese-blocks-social-media-influencer-marriage-proposal-wnba-finals-game",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:51:54.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -132,6 +158,19 @@
       "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
       "imageUrl": "https://s.france24.com/media/display/4c3d5810-d06d-11f1-987e-bba4eee3dc72/w:1024/p:16x9/Brazil-vote.jpg",
       "publishedAt": "2026-10-25T12:46:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_68a81b1e4016e6e4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+      "snippet": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:36:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -614,6 +653,19 @@
       "imageUrl": "https://s.france24.com/media/display/a6c5f842-d067-11f1-838f-4d317af013fd/w:1024/p:16x9/EN-20261025-111149-111339-CS.jpg",
       "publishedAt": "2026-10-25T11:36:56.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_79494695418f4165",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "UK endures second big storm of the weekend, with the north bearing the brunt this time - AP News",
+      "snippet": "UK endures second big storm of the weekend, with the north bearing the brunt this time  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUtYV3NNM1R4Vl9aTXJKZ2tJZ2ZxYWdUZ0xOWHQ0UGJYTXNSVTYwMFRuZ216RXNXN2NXTjlhclNEaUstWDgwWW5QNDZGY0V2TlRWbE1MaENMaWRJbDN0U1hEcFBJRDBHOFRuM2U2cktuZGw1WTc1dlI0dWtNb1ZzMTlxWXJfcDR4REpNVExfUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T11:36:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1485,6 +1537,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T09:29:31.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4630d6c93ec280d3",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Clinical Catlin triumphs in Hong Kong Open - Reuters",
+      "snippet": "Clinical Catlin triumphs in Hong Kong Open  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUwxN3BVS01peHZYSlJ1bWxicGltSEZvWl8xejFmVUlWNk11ZUdZRU5BSkowYTR6NThndFB1SmlfbHR4SFRDTjV0VkVWc1RhOWJuUFU4TGd2N2x6enlXa3F1OTlzamQ1OHlTMjdPcXNwNjVTNGw5Zlg5QXQ3eUJ5VFFtRnhwWUlmeHpacHQ3QUM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T09:27:52.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2631,71 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_24b72840c5af3c9d",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " At least 12 people injured in shooting near a football stadium in Florida",
-      "snippet": "Authorities say at least 12 people were injured, including six children, in a shooting near a football stadium in Tallahassee on homecoming weekend for Florida A&M University",
-      "link": "https://abcnews.com/US/wireStory/12-people-injured-shooting-football-stadium-florida-137548110",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T05:54:13.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_f25cafdb58e32b0d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brewers’ Ashby nears postseason scoreless relief record with World Series save - AP News",
-      "snippet": "Brewers’ Ashby nears postseason scoreless relief record with World Series save  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnpTMlo5TXNLTml3Z0ZQenA0bXdQUldENlNMMWY4TXR1VWVRTXlMdGF0MVZ0WFIyS3JZZlFfMnRyQU9Sc0xYZGp3YkRFa2c3aE9XaWw0WnZ3Qzc1bWQ2YmVhY05JeEVKRjRNNGhDbHllNW1PYl9oTWVjSGd3bFlZLWZ2WmdoNmRfN0hFajE0TQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T05:53:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c8d839f31aa658bc",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "snippet": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T05:45:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d49961c8305bfcb4",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Introducing a New Way to Understand the Election: Times Voter Trends",
-      "snippet": "A timely demographic story we’ve never been able to tell before.",
-      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T05:40:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1a8896615315ed92",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Nigeria’s missing: Families in the northeast still wait for answers",
-      "snippet": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T05:33:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
