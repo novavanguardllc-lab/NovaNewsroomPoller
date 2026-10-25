@@ -1,102 +1,154 @@
 {
-  "updatedAt": "2026-10-25T16:05:05.979Z",
+  "updatedAt": "2026-10-25T16:10:08.170Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.137Z"
+      "lastSuccess": "2026-10-25T16:10:08.256Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.170Z"
-    },
-    "Guardian": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.096Z"
-    },
-    "NPR": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.191Z"
+      "lastSuccess": "2026-10-25T16:10:08.272Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.174Z"
+      "lastSuccess": "2026-10-25T16:10:08.285Z"
     },
-    "Sky News": {
+    "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.141Z"
-    },
-    "NYT": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.352Z"
-    },
-    "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.200Z"
-    },
-    "BBC": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.374Z"
+      "lastSuccess": "2026-10-25T16:10:08.320Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.140Z"
+      "lastSuccess": "2026-10-25T16:10:08.357Z"
+    },
+    "Sky News": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.360Z"
+    },
+    "NYT": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.398Z"
+    },
+    "NPR": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.401Z"
+    },
+    "BBC": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.415Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T16:05:06.371Z"
-    },
-    "UPI": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.179Z"
-    },
-    "Wash Examiner": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.391Z"
+      "lastErrorAt": "2026-10-25T16:10:08.416Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.239Z"
+      "lastSuccess": "2026-10-25T16:10:08.454Z"
+    },
+    "France24": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.458Z"
+    },
+    "UPI": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.474Z"
+    },
+    "Wash Examiner": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.481Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.338Z"
+      "lastSuccess": "2026-10-25T16:10:08.529Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.262Z"
+      "lastSuccess": "2026-10-25T16:10:08.540Z"
+    },
+    "Semafor": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.590Z"
+    },
+    "ABC News": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.630Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T16:05:06.402Z"
-    },
-    "ABC News": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.402Z"
+      "lastErrorAt": "2026-10-25T16:10:08.631Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.487Z"
+      "lastSuccess": "2026-10-25T16:10:08.657Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.432Z"
-    },
-    "Semafor": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.557Z"
-    },
-    "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.458Z"
+      "lastSuccess": "2026-10-25T16:10:08.667Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T16:05:06.494Z"
+      "lastSuccess": "2026-10-25T16:10:08.701Z"
+    },
+    "The Hill": {
+      "online": true,
+      "lastSuccess": "2026-10-25T16:10:08.738Z"
     }
   },
   "items": [
+    {
+      "id": "story_52c6d3091e401729",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " US Marine indicted in alleged Okinawa robbery homicide",
+      "snippet": "A 20-year-old U.S. Marine stationed in Okinawa, Japan, has been indicted on charges murder and robbery.",
+      "link": "https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T16:05:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1c19bb8b19b2a8d8",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Early reports suggest record high turnout in Serbia elections",
+      "snippet": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T16:05:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24fe5fb51d8b3149",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Schiff: Hegseth should face Senate questions over Starlink slowdown",
+      "snippet": "Sen. Adam Schiff (D-Calif.) on Sunday called for Defense Secretary Pete Hegseth to testify before the Senate over Starlink’s slowdown to its satellite service in Ukraine, which disrupted the country’s military capabilities. On NBC News’s “M",
+      "link": "https://thehill.com/policy/technology/6170785-schiff-calls-hegseth-testimony/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/schiffadam_073026gn01_w.jpg?w=900",
+      "publishedAt": "2026-10-25T16:03:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_874917b14fe95dd1",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Israelis have changed. Will they change their leadership?",
+      "snippet": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_71038189b2a6598d",
       "source": "Wash Examiner",
@@ -124,6 +176,58 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_236235aaa8ac6485",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "The 3 approaches to daylight saving time considered this year, and what happened to them",
+      "snippet": "There were three possible approaches the U.S. could have taken this year regarding seasonal time change. Instead, our clocks will fall back as usual next month.",
+      "link": "https://thehill.com/policy/energy-environment/6162826-the-3-approaches-to-daylight-saving-time-considered-this-year-and-what-happened-to-them/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/CLOSER-Clocks_103008_AP_Elise-Amendola-e1710076451369.jpg?w=800",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_77d761ab80f3d997",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump fails to change economic headwinds facing GOP candidates",
+      "snippet": "Gas, diesel and food prices are high and expected to remain elevated through Election Day, creating a strong political headwind for Republicans who are at serious risk of losing control of the House and possibly the Senate, as well. Preside",
+      "link": "https://thehill.com/homenews/state-watch/6169590-trump-economy-election-headwinds/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Economy_Bolton_AP_StephanieScarbrough.jpg?w=900",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b9bf71cd842b4b53",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "The myth of special treatment for undocumented immigrant college students ",
+      "snippet": "Undocumented immigrants are taxpayers. Why shouldn't their children, for whom they have often sacrificed so much, enjoy the benefits their parents have worked to earn?",
+      "link": "https://thehill.com/opinion/immigration/6168556-doj-undocumented-tuition-lawsuits/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-1391293130.jpg?w=900",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_74ad5e53b1fe169f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Final round postponed in Bermuda with Monday finish up in air - Reuters",
+      "snippet": "Final round postponed in Bermuda with Monday finish up in air  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUE5TWZFLXJOQzQwelNfczlKSUNBTDg3ai1aUjE3aHRoR09fMWN6MXBFWFk4MlJqQkl1bGtSMHRhUWRKaDhIRE4xallsUUQyenljcDMydUI0U1hBTFRmanBXXzZKWndWZDJpejF0aGJZeW8zckJwVHJiT21sdTd1eTFzRFM4azN3VjllRVI5SGhoX0RXaGRJRWFwYmViQXJmaXBzUXhYT0VTQXhI?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:58:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b1157806909e7fb9",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -145,6 +249,19 @@
       "link": "https://www.cbsnews.com/video/gina-hinojosa-says-theres-deep-disappointment-in-both-political-parties-in-texas-right-now/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T15:53:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_68a81b1e4016e6e4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+      "snippet": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
+      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:50:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -215,6 +332,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4ab764490d9e1784",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia says it hit two cargo vessels and Ukrainian logistics hubs - Reuters",
+      "snippet": "Russia says it hit two cargo vessels and Ukrainian logistics hubs  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tvWFptSmJsT1Z6OERuX3EyU25sZDlDb1JreXFGV0dlUlNMMXJiLWZaVHJxR2w5MnA0MVRqMnZ2NS1GWmxxWVRYN1BWc2NZSWtCdWlJQlFYQkE2Vy1mM2FIRlJud0YtTmR5UGg2YkNjYUl2OGw1ODF1eDRZWF9INjhQLXpldUVCSDZCSmtodTg4M1pyTmNCSWtZdnYzUDNDLXpGUU5tcl83Wkk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:35:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_fa795b3ffb0b56d3",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -231,37 +361,11 @@
       "id": "story_15c880d7f9a1c660",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Police in Portugal ‘use dogs and batons’ to dismantle housing protest camps",
+      "headline": "Portuguese police with dogs and batons dismantle housing protest camps",
       "snippet": "More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto \nPolice in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday",
       "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
       "imageUrl": null,
       "publishedAt": "2026-10-25T15:32:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f7101e866399af15",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Midterms: Obama campaigns for Democrats, slams Trump",
-      "snippet": "Barack Obama hit the campaign trail in Ohio to rally support for Democrats ahead of the US midterms, criticising Donald Trump over the war with Iran.",
-      "link": "https://www.france24.com/en/video/20261025-midterms-obama-campaigns-for-democrats-slams-trump",
-      "imageUrl": "https://s.france24.com/media/display/f03eb826-d088-11f1-ae10-4b25c96ec90e/w:1024/p:16x9/OBAMA-EN.jpg",
-      "publishedAt": "2026-10-25T15:31:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_52c6d3091e401729",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " US Marine indicted in alleged Okinawa robbery homicide",
-      "snippet": "A 20-year-old U.S. Marine stationed in Okinawa, Japan, has been indicted on charges murder and robbery.",
-      "link": "https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T15:29:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -332,6 +436,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9a88eb68df355ff8",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Twelve injured, including six juveniles, in shooting near Florida university",
+      "snippet": "Police say altercation at a homecoming party escalated into gunfire and they are working to identify ‘those responsible’\nA shooting ⁠near a Florida university campus in Tallahassee has left 11 people ⁠with gunshot wounds ⁠and ​another perso",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:19:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e842222816c19204",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -358,6 +475,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_574852269ae4738b",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump says he's weighing deal with Iran against action to \"finish them off\"",
+      "snippet": "President Trump said he's deciding between reaching an agreement with Tehran and taking action to \"finish them off.\"",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:14:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2e1a2bac9a89b788",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -379,19 +509,6 @@
       "link": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-oct-25-2026/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T15:09:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1c19bb8b19b2a8d8",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Early reports suggest record high turnout in Serbia elections",
-      "snippet": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T15:07:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -423,6 +540,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5e573f65128ba11e",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Moore: Key races in South 'in play,' Democrats 'made mistakes' not investing earlier",
+      "snippet": "Maryland Gov. Wes Moore joined \"This Week\" Sunday for an interview about the midterm elections.",
+      "link": "https://abcnews.com/Politics/gov-wes-moore-key-races-south-play-democrats/story?id=137550413",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:04:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0a32bc6119a42e70",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Rybakina brushes aside Fernandez to retain Ningbo crown - Reuters",
+      "snippet": "Rybakina brushes aside Fernandez to retain Ningbo crown  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjlweEtvMXdZVE1kLTMtS25BTVdLc3d5akE2RG4yMnVCQTZtT3hmM1NtQ3Z5WkF3aEF6eUlnUFZpWDBjdHpOWFVyY2lRYTFIVm14MHJ0LTRIZVUzUEU3M1FoaFU5SGJkcTBMN2wyRWVIbjBMd2VsQ0I4ZzU4Q1c3X3VfU3pMVk1vbzNiMHRKVE1OUlY5bG5yalBBLW90Q2Fobzdaag?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T15:03:26.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_dc03b62c5b019450",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -439,25 +582,12 @@
       "id": "story_afdbdba9a74195c6",
       "source": "France24",
       "sourceColor": "#3E5C8A",
-      "headline": "French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
+      "headline": "Live: French far-right leader Le Pen seeks to leverage unrest in presidential campaign kick-off",
       "snippet": "Marine Le Pen, leader of France’s far-right National Rally, is set to address some 10,000 supporters on Sunday in the city of Orleans as she kicks off her presidential campaign, a day after nationwide cost-of-living protests flared again in",
       "link": "https://www.france24.com/en/france/20261025-french-far-right-leader-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
       "imageUrl": "https://s.france24.com/media/display/9f533998-d081-11f1-b5d5-4b25c96ec90e/w:1024/p:16x9/000-D4D734C.jpg",
       "publishedAt": "2026-10-25T15:01:51.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dbfc7792d2b90319",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Dakar Rally 2027 will not be held in Saudi Arabia, organisers say - Reuters",
-      "snippet": "Dakar Rally 2027 will not be held in Saudi Arabia, organisers say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTR4MmdES3EwbUZJY19hTVVVS2FIMEpEclU0RC10ODVqWHlaZm1vNXBVTk91NnpSOHdnUmEtODFLWDJiMjdXYmtDZkR2dEhWNjZ6Q1l2dFJmZHE0YlhFN1FYSjFRZWVLRHlCSkRtb3JObUN5cEQtWlg1anB1RVNacHJ4cDdnRDBRbkpodHo2YkZmSkdWTXkyV2ZYM2JFOVJRRWxrLWZadw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T15:01:34.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -488,19 +618,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5c946c14bc3789ab",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "How America can bring film and television production home",
-      "snippet": "The newly introduced Motion Picture, Television, and Entertainment Revitalization Act seeks to implement a federal tax incentive to combat the trend of film and television production moving overseas.",
-      "link": "https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP24060771679573.jpg?w=900",
-      "publishedAt": "2026-10-25T15:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_8de249a084bddb21",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -508,6 +625,19 @@
       "snippet": "Time is ticking for states to slash their error rates or risk losing a sizable amount of federal funding for SNAP.",
       "link": "https://thehill.com/homenews/state-watch/6067157-snap-winners-and-losers-which-states-are-facing-possible-funding-cuts/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/11/69160d96d22e76.73028054-e1788462440618.jpeg?w=900",
+      "publishedAt": "2026-10-25T15:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5c946c14bc3789ab",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "How America can bring film and television production home",
+      "snippet": "The newly introduced Motion Picture, Television, and Entertainment Revitalization Act seeks to implement a federal tax incentive to combat the trend of film and television production moving overseas.",
+      "link": "https://thehill.com/opinion/finance/6169628-federal-film-tax-incentive/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP24060771679573.jpg?w=900",
       "publishedAt": "2026-10-25T15:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -527,11 +657,24 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_bda53c4352032e4a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake - AP News",
+      "snippet": "Brazil votes in a tense Lula vs Bolsonaro runoff with US influence over Latin America at stake  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElINHZmYXlEYkdaa0FvWkZVOVU3Tm4yQmdjZ2tXMXJveURKTkt6TVJDN2lEc2ozZTM5M0F3cWZsamgwa2ZtVFRKajJuU1NXd21kVGdad2hBdnJwdlZLOXFrNjhTbFZIZE5QX2tzYUhrendRVTFuSHpjcU85NEotX29VdjJvd3hvZmlfaUlHSnl0Ym9IYjROMm5tblBjbXNTYzAxLTdRTjJqcDlQTU0yZUlB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:57:00.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_7abc5f97f7917a53",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
-      "headline": "Michigan Gov. Gretchen Whitmer says America is ready to elect a Woman",
-      "snippet": "Michigan Gov. Gretchen Whitmer on Sunday pushed back on comments made by former first lady Michelle Obama last year that U.S. voters aren’t ready to elect a female president.",
+      "headline": "Michigan Gov. Gretchen Whitmer says America is ready to elect a woman",
+      "snippet": "Michigan Gov. Gretchen Whitmer pushed back Sunday on comments made by former first lady Michelle Obama last year that U.S. voters aren’t ready to elect a female president.",
       "link": "https://www.nbcnews.com/politics/politics-news/gretchen-whitmer-america-ready-elect-woman-president-acton-rcna605512",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:56:28.000Z",
@@ -562,6 +705,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:53:57.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c14721b8564dc73c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Uganda imposes 21-day quarantine on citizens returning from Congo - Reuters",
+      "snippet": "Uganda imposes 21-day quarantine on citizens returning from Congo  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaWEweDRwbzhDSUxWMmNkVVFsa2w4M1dxODllY0tBYW9XU0ZsRkdrWklIU2tSWEhwMW9WT29NenFUMTlWNHBkbl9xdTl3U3hON1Z2MURncExuZWpYN09sUHBGVF9HSkVZb3VqUVUzd3RBYmdwMEVDWnNWQzhpM0QwUGVJNk1XMUxSWFhoSy1La0hvUHQ2UXJMWXBVZWFvV21xZUJTRDhubGNaNFVhaVY2TjUtcHJ4bGQxYl9NMUMyczdGcHZFRkhfcnI4czE4RXAyTjFtU1VkUWR2WFZ5bk9KcElR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:53:50.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -618,27 +774,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_856b45e00f70a4ac",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Wild's Quinn Hughes embraces return to Vancouver to face Canucks - Reuters",
-      "snippet": "Wild's Quinn Hughes embraces return to Vancouver to face Canucks  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUnFIUC1hVXRiX1VBSzVqM0lja2VtRkhKUFVueC04TVpHd3ZZODVaWHJtd2FzOF9WOUlRMU1TT25rODVWUXc1a0dMUUoya1hVQ09oMmR5alJIOHdPUlVldG9mcUFtTnVhUHR1elZPSkFEV1YtZW9aMVRWTWZqZWJOakpnaXV3QWdwSEg4enNaZEZaZ2RFSTZUdV8yUWFCMnN3QUk5X21TWWx0WTdnanc?oc=5",
+      "id": "story_17bbb9e07e27ef2a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "snippet": "Incumbent president lost in first round to senator and son of convicted ex-president \nBrazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva, is attempting an u",
+      "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T14:42:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5e573f65128ba11e",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Moore: Key races in South 'in play,' Democrats 'made mistakes' not investing earlier",
-      "snippet": "Maryland Gov. Wes Moore joined \"This Week\" Sunday for an interview about the midterm elections.",
-      "link": "https://abcnews.com/Politics/gov-wes-moore-key-races-south-play-democrats/story?id=137550413",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:41:28.000Z",
+      "publishedAt": "2026-10-25T14:41:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -670,6 +813,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a7d02e8d70eac086",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Poll finds Democrats still boosted by voters' economic concerns",
+      "snippet": "President Trump is a key factor driving support and opposition; turnout looms large",
+      "link": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:38:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_81d8b1730e83bb8c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr. - Reuters",
+      "snippet": "Brazil votes in tight runoff between leftist Lula and Bolsonaro Jr.  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkpfT3YtQXVCRlQ2RkU5d1JxQ1dSYUY5WXYydnVvN0lGWHB1NkR2MjIyb3BoZ250UVJfSEpTb05SRUx0VmFxS1pzWWNyVFhuZVRPVDRSVmVoTW9WSWFXWjQ2TlVoYTlNWTViSFRiZkMweWxnN2NzRWRUbjVHbFg2T3o4UDNzTmhlaEhTb3JSTDFVNTF4U2hJOE5ZVDFGV0VzR2U4UG1iN1c0cXhGYUsw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:36:13.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_e87a5d211106cb2e",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -696,14 +865,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_c85cd878b1f9bbdb",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
-      "snippet": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "id": "story_a77db52aa3a3111c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Serbia votes in historic election as students seek to end Vucic's long grip on power - Reuters",
+      "snippet": "Serbia votes in historic election as students seek to end Vucic's long grip on power  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjJPNVlseUpvOWt6LUd1UlBrYnBhY3dDUks3Z2VEZHZFcExyQzBfWHZSdUxrLWVSY09DWHc4bEoybF9jVjBxaDFuR2ZuVW9LcDVhYkNHSGZIaUh5cTFGTlB2ajhva1dWM1ZSTUl4WDdFQjhXdjdOZFJ2LTYtMFRHR2w5ZHVIakxEVVRidDQ2bHRZQ2ZkaXBoRXdEQlUtdHozMTZpNA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T14:34:33.000Z",
+      "publishedAt": "2026-10-25T14:35:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b55e32c9c2e2d41e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+      "snippet": "While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.",
+      "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:34:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -722,6 +904,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0e785f4e69669c23",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "This week on \"Sunday Morning\" (Oct. 25)",
+      "snippet": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+      "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-25-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:28:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_fc7e0d5881cf20d2",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -733,6 +928,19 @@
       "tier": "routine",
       "topic": "sports",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_b3341312bdd8b0d3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Russia - AP News",
+      "snippet": "Russia  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE45R0JYQ0dqdWxiMFhWUjVGbTlsRDVOUlNEU1p3aXNZQXVuaHVka1BRV1pxV1VwTVg3WFpjYWtQUlhPekU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:28:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_00fb6a9d6dab9415",
@@ -800,19 +1008,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_43ee4ebcd76d631d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Artturi Lehkonen, Avalanche take aim at Predators - Reuters",
-      "snippet": "Artturi Lehkonen, Avalanche take aim at Predators  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFd2THlBMTNNYWcyREFEYmo4ZUFjUlU1U3RiVkxfV25WbC01enF4bVkxUFlxeHphcDRNSE9NVV82NU4zclRqSVdENDVYTW9pN19tOWFndFVOalprZG9YMFdSdnFacmNLQ1BncjJxRnRoTEwyNERSZTZkSEpQVUFXd25fR0RjSTcxNlpCNF8wOE9FQ21rU1JjYi1reXpWQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:19:46.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_d82969ecc6a83237",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -821,9 +1016,9 @@
       "link": "https://www.nbcnews.com/politics/congress/adam-schiff-pete-hegseth-testify-starlink-slowdown-ukraine-war-rcna605508",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:18:44.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_bf99063bce541c23",
@@ -832,7 +1027,7 @@
       "headline": "Calais, 10 years after the Jungle: Migrants still risk the Channel crossing",
       "snippet": "Ten years ago, in 2016, thousands of #migrants lived in what was known as the “Great #Jungle”, a vast camp on the outskirts of #Calais. It took the authorities seven days to dismantle it.\n \nToday, dozens of smaller “jungles” are scattered a",
       "link": "https://www.france24.com/en/video/20261025-calais-10-years-after-the-jungle-migrants-still-risk-the-channel-crossing",
-      "imageUrl": null,
+      "imageUrl": "https://s.france24.com/media/display/9ae9a830-d084-11f1-9697-4b25c96ec90e/w:1024/p:16x9/Screenshot-2026-10-25-alle-15-58-03.png",
       "publishedAt": "2026-10-25T14:17:32.000Z",
       "tier": "routine",
       "topic": "news",
@@ -873,9 +1068,9 @@
       "link": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:13:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
       "id": "story_0b8c1d66e9c2c4af",
@@ -886,9 +1081,9 @@
       "link": "https://www.cbsnews.com/video/photos-of-the-week-102526/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:12:05.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_b76b70e4f0830359",
@@ -900,19 +1095,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:11:29.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_428141c37198be70",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "PODCAST: France protests, Texas Senate race and West Bank olives - Reuters",
-      "snippet": "PODCAST: France protests, Texas Senate race and West Bank olives  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdGlfSUE1OGh0RVkyYTFKNElvU1Z6TDFVQnk5TVBpekNsb3hyZlVEUVdNcm90OTNrSzhNUHVSYWVtTDZiQ1VRSEZwQlJGZDg4cERoZ3BKc0ltZkE4dHltT2VjLXVWQ1AtRmc3ZDdweDVzSHdrempla21LTDh3OVBMVVlQZndVck1fazZUemVfR0kybnpkb3ZacDRfQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:10:33.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -939,6 +1121,45 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:09:01.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0af402f68076ff0d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
+      "snippet": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America.",
+      "link": "https://www.nytimes.com/2026/10/25/world/americas/brazil-election-lula-bolsonaro-what-to-know.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:08:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_da5de2be6d71ca80",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "(AIVC.N) | Stock Price & Latest News - Reuters",
+      "snippet": "(AIVC.N) | Stock Price & Latest News  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44UXozLWZaYlhrYVU0V0Z4V0k5RUxoR3N1bXVOZ3dQZUNHNnA5V1NhUkdCY3F1aWZIUjhTNGE2Wk1TY1FqOGRQWXgtWGJmUW1kZHA1QThienk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:08:28.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7f8763cd1be21905",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "LeBron James - AP News",
+      "snippet": "LeBron James  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuX19iS3NmRUxTOTI2MEdsQ0g1YUVkWmV3OTRpQ0dZNnYtcnlTWUhEOUdpYkxIUFFYOTFCejhmR255Z3pIZk4teHNvdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:06:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -982,6 +1203,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7863be09896a8463",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "At least 12 injured, including 6 children, in shooting near Florida A&M",
+      "snippet": "Police say a fight broke out before the shooting.",
+      "link": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:02:50.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_3e5a3721b8b36378",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
+      "snippet": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:02:25.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_fe566fdf05d3e1e6",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -990,19 +1237,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SGpHcXB3YzhmTkp0SWpCcTJMazYwMzUzWUJxTkFSUEdhaVZnNXB4VGduam42SGlZRm44aGg5U1FZWExfVXk1UExpVmNqckl5ZTZQS3BUUF8?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:02:10.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a71e162587cbfd8b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Unbeaten 76ers, Pistons test mettle in early-season showdown - Reuters",
-      "snippet": "Unbeaten 76ers, Pistons test mettle in early-season showdown  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWtsX242QVlFYU1TSjhoeHlRRzZNVmpvUENjbTNUVE5tUXh5QWh4UDRQcHptZEtzMzAxVkJSN3hQWERqQUtRVDhKQ0FpanppMllRa0xPNVBjZEFEcDhCeTh1ZUdObjRZNm5GLWZwZkhEUnczTXRZUFYxUG1raDQ3NjhKeGRPbmxwZ3RrVjNOODZwazdEXzNuM1ZIaHcwUGdhYlhNb3hDZWg0dWlOeXc2bXRjb2h0Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:01:43.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1125,19 +1359,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3e5a3721b8b36378",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today - AP News",
-      "snippet": "WNBA Scores & Daily News | WNBA Stats, Scores & News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RellkeWJkeDFvWUtHTHRPOURyM29ReE54N3hpa3NCRUxRQ01yVy1FTjRUS0RaVzNxZzlVakgxUkhZYW1hX0pWemVtcnI5U2s?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:57:31.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_1a7f797e71a66502",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1172,9 +1393,9 @@
       "link": "https://thehill.com/homenews/state-watch/6170659-trump-attacks-murkowski-ranked-choice-voting/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26296691400753-e1792785938632.jpg?w=900",
       "publishedAt": "2026-10-25T13:53:24.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_973022ffbd246efa",
@@ -1242,6 +1463,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_690136186ed5dfb6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Saudi Arabia - AP News",
+      "snippet": "Saudi Arabia  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12VXhMYm1uTGxmeUo1WHZNRUJHb1MzQW1CZ1ktVEV3V29saXhhaHVMZnMwcE1OWHhCSVQ0b1ktQTZ6WUhpYUFQNnptWQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:47:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_2bb2a191288ff507",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1249,8 +1483,21 @@
       "snippet": "In the 1990s actress Parker Posey was dubbed \"The Queen of the Indies.\" The Emmy-nominated star of \"The White Lotus,\" and the new film \"Wild Horse Nine\" talks about her Southern upbringing, and how her parents inspired her acting.",
       "link": "https://www.cbsnews.com/news/parker-posey-wild-horse-nine-the-mob/",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T13:47:17.000Z",
+      "publishedAt": "2026-10-25T13:47:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_79494695418f4165",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "UK endures second big storm of the weekend, with the north bearing the brunt this time - AP News",
+      "snippet": "UK endures second big storm of the weekend, with the north bearing the brunt this time  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUtYV3NNM1R4Vl9aTXJKZ2tJZ2ZxYWdUZ0xOWHQ0UGJYTXNSVTYwMFRuZ216RXNXN2NXTjlhclNEaUstWDgwWW5QNDZGY0V2TlRWbE1MaENMaWRJbDN0U1hEcFBJRDBHOFRuM2U2cktuZGw1WTc1dlI0dWtNb1ZzMTlxWXJfcDR4REpNVExfUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:47:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1298,10 +1545,23 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "snippet": "VW investment creates 4,500 jobs in Georgia comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs\nAudi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company Vo",
+      "snippet": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs\nAudi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company",
       "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
       "imageUrl": null,
       "publishedAt": "2026-10-25T13:43:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_339f5733a3833fca",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
+      "snippet": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America.",
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:42:54.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1369,7 +1629,7 @@
       "publishedAt": "2026-10-25T13:40:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_5d45dde4aab416e5",
@@ -1385,6 +1645,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e68687bba759c5d1",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+      "snippet": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
+      "link": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:38:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_317c0eb3f4823936",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -1393,9 +1666,9 @@
       "link": "https://www.washingtonexaminer.com/news/crime/4778957/at-least-12-people-injured-in-shooting-near-a-football-stadium-in-florida/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T13:36:55.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_bd967be8117c6924",
@@ -1440,14 +1713,27 @@
       "id": "story_ba0b4d973515d60d",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Burnham call for debate on free movement with EU draws mixed Labour response",
-      "snippet": "Angela Rayner backs PM’s plea for ‘honest discussion’ but MPs in heavily pro-Brexit seats may be more cautious\nAndy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers incl",
+      "headline": "Rayner backs Burnham call for debate on return to free movement with EU",
+      "snippet": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs\nAndy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including",
       "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
       "imageUrl": null,
       "publishedAt": "2026-10-25T13:31:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_2632780712ccd8ee",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " 12 injured, including 6 children, in shooting near Florida university, police say",
+      "snippet": "At least 11 of those injured had gunshot wounds, police said.",
+      "link": "https://abcnews.com/US/12-injured-including-6-children-shooting-florida-university/story?id=137549623",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:30:57.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_6ffcdfaa21f3564a",
@@ -1458,9 +1744,9 @@
       "link": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-25T13:29:56.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_113f1fc4453f4b7c",
@@ -1489,27 +1775,40 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4a3d20e10fdc32ba",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations - Reuters",
+      "snippet": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:27:56.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_563f8d214353c4de",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
-      "headline": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "snippet": "On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. How might Israeli policy change if the opposition succeeds?",
+      "headline": "Israeli election to test Netanyahu's ability to hold power",
+      "snippet": "On Tuesday, Israel will hold its first parliamentary elections since the Oct. 7, 2023, terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. How might Israeli policy change if the opposition succeeds?",
       "link": "https://www.cbsnews.com/news/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T13:27:06.000Z",
+      "publishedAt": "2026-10-25T13:27:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_90d18a8b3e47de1f",
+      "id": "story_57a326da8519630d",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
-      "headline": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "snippet": "On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. Matt Gutman reports from Tel Aviv on the divide over Netanyahu",
-      "link": "https://www.cbsnews.com/video/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
+      "headline": "100 years later, the mystery of Houdini's death endures",
+      "snippet": "Harry Houdini, the greatest escape artist who ever lived, died 100 years ago on Halloween – a fact that has only burnished his image as a daredevil who often cheated death. But was there a cover-up involving the circumstances of his death?",
+      "link": "https://www.cbsnews.com/news/the-mystery-of-houdinis-death/",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T13:25:18.000Z",
+      "publishedAt": "2026-10-25T13:25:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1554,54 +1853,54 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_57a326da8519630d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "The mystery of Houdini's death",
-      "snippet": "Harry Houdini, the greatest escape artist who ever lived, died 100 years ago on Halloween – a fact that has only burnished his image as a daredevil who often cheated death. But was there a cover-up involving the circumstances of his death?",
-      "link": "https://www.cbsnews.com/news/the-mystery-of-houdinis-death/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:19:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c85a5fa8f01341b5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Almanac: October 25",
-      "snippet": "\"Sunday Morning\" looks back at historical events on this date.",
-      "link": "https://www.cbsnews.com/video/almanac-october-25-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:19:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_855a8873b0b0f091",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "The mystery of Houdini's death",
-      "snippet": "Harry Houdini, the greatest escape artist who ever lived, died 100 years ago on Halloween – a fact that has only burnished his image as a daredevil who often cheated death. Correspondent David Pogue examines the life, and after-life, of a m",
-      "link": "https://www.cbsnews.com/video/the-mystery-of-houdinis-death/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:17:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_917f72badccbeaee",
+      "id": "story_46cf89f1a6155552",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Carrick drops United captain Fernandes to bench against Bournemouth - Reuters",
-      "snippet": "Carrick drops United captain Fernandes to bench against Bournemouth  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0N6QTJuR0JVZ1RjRHgwQXU1ZXhWa09Nczk2Q3hJaDluU3VNMmF2ak84TDkxOVNCZVJJQmdSWWRVLTJvWlVMdFZBdVVKaVROZWdpazZKdmg2OHRtaXRGMklTM3ZheFNHdW91UmQ0Q00zeXowZ2tIalZhLUZ3OWRhYS04dFFHV1lCcGxDRTRLY1dmcGM4ZHlrem9BQUNyeUw5eVdIX0tWT3RGQWZoT1E?oc=5",
+      "headline": "Most Gulf shares close lower as Saudi-Houthi fighting rages on - Reuters",
+      "snippet": "Most Gulf shares close lower as Saudi-Houthi fighting rages on  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T13:15:30.000Z",
+      "publishedAt": "2026-10-25T13:20:32.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1c28c174b0bd6705",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+      "snippet": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
+      "link": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:20:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ddd255dcd0a0e84b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump campaigns in Michigan a day after Obama rallies Democrats - Reuters",
+      "snippet": "Trump campaigns in Michigan a day after Obama rallies Democrats  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW50b2RKQnYxQ3pEY21lOWdDMTNwTmN6cDFsS1lKVmpWcDZ2U25TVGlELXpFMkZoOXJhU1R4WUF5NHNISmNKejJ2VnFnckRaUWlrVi04SFQxT2xOS19qQWM0ZkZsVmlpOFBjUVlNN3gxU2Y4aTRsZGtLRXZfWlVSV0xoSXd1em0xUUlfZzlIVDJGOElMdlpvVVY3ZGFDcjRGaDRQMlVR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:17:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4a8e69aa6aedc43e",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "More than 82,000 properties without power as Storm Boelo batters UK",
+      "snippet": "Met Office reports gusts of up to 84mph after weather warnings issued across Scotland, Northern Ireland and north of England\nMore than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern Irel",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:14:28.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1645,6 +1944,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5cb673700d2c1833",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "She voted for Trump every time. Then came cancer and the bills - AP News",
+      "snippet": "She voted for Trump every time. Then came cancer and the bills  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW04ZFctMkN6MmhEU0hIazRtc1pOMXluMFZTZmlnWERCY3NQd3Y4Ty04cFBOY3l1Q25UakFsdUxDdmxHMzZ3ZEpXZlFCLWRiVGdRMWtIY0tzdFU3Y1BQMHZlb0tSRWRTNVExenE4VUFDcDZSTDdUREsycVJscGZ6aks3eEF0bzAxdXMyLXdlYkk2WkZhUGhobGx2c1NNZ0xReHdJbUdyZ0tOYTRYRURTLVdtb0s?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T13:10:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e5a0f3aaf92c59e6",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -1653,59 +1965,20 @@
       "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-25T13:09:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4a3d20e10fdc32ba",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations - Reuters",
-      "snippet": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:07:43.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_7a98029d149b90b4",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Live updates: Trump heads to Michigan; Blanche hits Sunday shows amid DOJ lawsuits",
+      "headline": "Live updates: Trump heads to Michigan; Blanche defends DOJ’s Alaska lawsuit",
       "snippet": "With less than two weeks to go before the midterms, the Trump administration is ramping up its warnings about voter fraud and is not ruling out the prospect of weighing in on states’ election certification efforts. The Justice Department (D",
       "link": "https://thehill.com/homenews/administration/6170651-live-updates-trump-michigan-todd-blanche-doj-lawsuits/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298060041289-e1792932993242.jpg?w=900",
       "publishedAt": "2026-10-25T13:07:23.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1a9907bdfa7b21b6",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "What are Brazilian voters' main concerns? - Reuters",
-      "snippet": "What are Brazilian voters' main concerns?  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2pWdjRsTU03Q3V3eDJiLXZnMGVUZlBZOUtBdDlWN080bEZaYTN2UXVZdXdNR0x5ZkxWTjVfMjJnc1J0X1BDejNiY3pONTNzbzZOckF0TkotQmUwMTBBY2RPdExJVjVlMUZjNnJGTnRJc1IzdTNQWmNucFNMZGhDZFlrb0c0cHctOFVxQ3dxNlA1bGVC?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:06:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_690136186ed5dfb6",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Saudi Arabia - AP News",
-      "snippet": "Saudi Arabia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12VXhMYm1uTGxmeUo1WHZNRUJHb1MzQW1CZ1ktVEV3V29saXhhaHVMZnMwcE1OWHhCSVQ0b1ktQTZ6WUhpYUFQNnptWQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:05:07.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1718,19 +1991,6 @@
       "link": "https://www.foxnews.com/us/man-admits-beating-dad-death-picturesque-town-decades-ago-bragging-cops-first-body",
       "imageUrl": null,
       "publishedAt": "2026-10-25T13:00:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a7d02e8d70eac086",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Poll finds Democrats still boosted by voters' economic concerns",
-      "snippet": "President Trump is a key factor driving support and opposition; turnout looms large",
-      "link": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T13:00:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1827,6 +2087,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c14d1a34ca8e289f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Bus crash in Kenya kills 22 near the site of a previous fatal accident - AP News",
+      "snippet": "Bus crash in Kenya kills 22 near the site of a previous fatal accident  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWZCb0VvamtWZU1yamNPNy1KTFBFQTJtNEc5YTFxSXdzTHZwakt2SkZZcXg4X3FIT3p4SThzY3dLek5mdmpSUzlfR1d1a09JQUFNLXV6TFVOOGsxQ1JpNE5rYWJwLWFyUm9CUVJ1M1FUUkNzNjFCV2dMT3NCV0I5MVJpdkY4UmNidV9LR2ZrTFhFZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:58:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e6cbdb2cbe70de83",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -1866,32 +2139,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0e785f4e69669c23",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "This week on \"Sunday Morning\" (Oct. 25)",
-      "snippet": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
-      "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-oct-25-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:52:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6f36fc9bbc33e158",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Medvedev defends Almaty Open title to close in on ATP Finals - Reuters",
-      "snippet": "Medvedev defends Almaty Open title to close in on ATP Finals  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVo2SmxOeHc4bTdicjkyQ1ROVmlTVlNiQ1A1ZVZud0s5RzBxdlZKY2o0NU40MnJ5QWtsUURrSzdXcWZhMzNaUldfdlRYM0Y1WUkzRVNRREo2S093V2dEay1RY0ozcERpaURoellva0VSeFVJaDVlNlRhTF91WndTOHczeXQ2ZlVJZFNLbm9Tb0FHLWxReXphUW5oZ2lmNm5lSzln?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:51:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_1da19bf3f06be752",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1902,6 +2149,19 @@
       "publishedAt": "2026-10-25T12:51:54.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_49225c0c2eb8d9f6",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
+      "snippet": "Fire broke out again overnight at a former mountain retreat used by Nazi dictator Adolf Hitler. Meanwhile, a survey shows most people in Germany feel the days of the governing coalition are numbered. DW has more.",
+      "link": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:51:00.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -1918,14 +2178,53 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4b3a64822c243ad5",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Beirut's $13 chicken sandwich becomes symbol of Lebanon divide - Reuters",
+      "snippet": "Beirut's $13 chicken sandwich becomes symbol of Lebanon divide  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWERrNDJCWllyTDNzSWZjUVB2dHh5bGtoaU82c0tEWGUxclNVWm9MdVVSMTg2M1Z3eHdHdjJaNjRXd0FVdExMR3ktanhTNlF3MlRTbGhuelhQYzM2RWtwYWNiTmUwQWpUYWJzTlRiMGwxMFlpMWU5RUxQeldFTFlhdDJZR0tPeVAteXN5SC00VHJkQTdMbWYzdGhXaWJqT3QxTHFyVDBVb3kyQWVfclZKXw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:48:22.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e03c179ee9da2e20",
       "source": "France24",
       "sourceColor": "#3E5C8A",
-      "headline": "Voting under way across Brazil in tight presidential run-off between Lula and Bolsonaro",
+      "headline": "Voting under way across Brazil in tight presidential run-off between Lula and Flavio Bolsonaro",
       "snippet": "Brazil’s 158 million voters decide between leftist President Luiz Inácio Lula da Silva and right-wing challenger Senator Flavio Bolsonaro – the son of former president and Trump ally Jair Bolsonaro – following a highly charged run-off campa",
       "link": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
       "imageUrl": "https://s.france24.com/media/display/4c3d5810-d06d-11f1-987e-bba4eee3dc72/w:1024/p:16x9/Brazil-vote.jpg",
       "publishedAt": "2026-10-25T12:46:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8dfec49e6b94a207",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Jordan church attack survivor says her cousin died before her eyes - Reuters",
+      "snippet": "Jordan church attack survivor says her cousin died before her eyes  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:45:27.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d49961c8305bfcb4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Introducing a New Way to Understand the Election: Times Voter Trends",
+      "snippet": "A timely demographic story we’ve never been able to tell before.",
+      "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:41:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1957,6 +2256,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_678fea991cdd2f00",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "French protest groups demand more rallies as Macron faces tough choices - Reuters",
+      "snippet": "French protest groups demand more rallies as Macron faces tough choices  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:38:50.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c593f6c0c54d5411",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1967,19 +2279,6 @@
       "publishedAt": "2026-10-25T12:37:49.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_68a81b1e4016e6e4",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
-      "snippet": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again.",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:36:48.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2022,19 +2321,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5cb673700d2c1833",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "She voted for Trump every time. Then came cancer and the bills - AP News",
-      "snippet": "She voted for Trump every time. Then came cancer and the bills  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW04ZFctMkN6MmhEU0hIazRtc1pOMXluMFZTZmlnWERCY3NQd3Y4Ty04cFBOY3l1Q25UakFsdUxDdmxHMzZ3ZEpXZlFCLWRiVGdRMWtIY0tzdFU3Y1BQMHZlb0tSRWRTNVExenE4VUFDcDZSTDdUREsycVJscGZ6aks3eEF0bzAxdXMyLXdlYkk2WkZhUGhobGx2c1NNZ0xReHdJbUdyZ0tOYTRYRURTLVdtb0s?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:34:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_1379e02dfc99c726",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2056,19 +2342,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMEN2Q1hmYmZsdU81ZmZldHBYWWctbmJ5bkxwa2pfMVZFM1IydWhjNldKaUZpZ2JXcVhfdWY4T0lXdXc3RHFyQmZaU2g5b2EtR0dyREthV2VGNjRkUXlUV0JoTkZtUDhDR1VVWG9lTGJvd3VTN0lsVy1USUVXejhPdVNZX2pRSEVqVVNjYUtadGJsaWdfdDFQZkloV0RweFFrTUw3bllNWl8?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-25T12:28:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_678fea991cdd2f00",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "French protest groups demand more rallies as Macron faces tough choices - Reuters",
-      "snippet": "French protest groups demand more rallies as Macron faces tough choices  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmJMN1JUSWphZktVT1hXNmhHdXJYblhCMjFhREdZTzR2ZWhKdWgwRnB1enEwWFp3TWxJY2hvN0tQX0RpSXBFdFJVRUJiYzBvMWJiMTRrUWs4U0tRdE1YQ0xSdmZabkFGWTNROWZLQjBrc1l1LURSU2d1NG1aMXRVTmpHRXpUTHFYR0hzU3VEem9tX3JPWExBZXRidV83VmZYY2g3cTBZX0tkb2pzb3hZVUt0dnhWalN1?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:21:08.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2123,7 +2396,20 @@
       "publishedAt": "2026-10-25T12:15:33.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_0320c49734ecb14a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Elon Musk - AP News",
+      "snippet": "Elon Musk  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wSk9maW5DZ08yYU9WRkhzLXg2MV9oa2tEUVNXRkxhNEE0alNvS3lEODFacEJKOU9MbnhmZmhkeUFuT2N2Q1pJ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:13:14.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_a65c2d96f1afcf1e",
@@ -2134,6 +2420,45 @@
       "link": "https://www.foxnews.com/outkick-sports/more-questions-answers-arch-manning-likes-disrespect-big-12-disaster-cfp-race-disarray",
       "imageUrl": null,
       "publishedAt": "2026-10-25T12:11:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5668c7ec7d5fa31c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College football | Latest News & Updates - AP News",
+      "snippet": "College football | Latest News & Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:09:50.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_feb45f584bbb9ee2",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Kim Jong Un visits China to open new bridge, reaffirm ties",
+      "snippet": "The North Korean leader used the trip to reaffirm ties with its powerful neighbor.",
+      "link": "https://www.cbsnews.com/news/north-korea-kim-jong-un-china-visit-bridge/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:09:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5dbd5e1a6d69b642",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Hundreds of thousands march across France in protests over schools and policing",
+      "snippet": "Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres\nHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s",
+      "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:07:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2160,32 +2485,19 @@
       "link": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-25T12:05:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_b55e32c9c2e2d41e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
-      "snippet": "While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.",
-      "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:03:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_0a32bc6119a42e70",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Rybakina brushes aside Fernandez to retain Ningbo crown - Reuters",
-      "snippet": "Rybakina brushes aside Fernandez to retain Ningbo crown  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSjlweEtvMXdZVE1kLTMtS25BTVdLc3d5akE2RG4yMnVCQTZtT3hmM1NtQ3Z5WkF3aEF6eUlnUFZpWDBjdHpOWFVyY2lRYTFIVm14MHJ0LTRIZVUzUEU3M1FoaFU5SGJkcTBMN2wyRWVIbjBMd2VsQ0I4ZzU4Q1c3X3VfU3pMVk1vbzNiMHRKVE1OUlY5bG5yalBBLW90Q2Fobzdaag?oc=5",
+      "id": "story_a92037489ecefeb3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news - AP News",
+      "snippet": "Saudi Arabia reopens airport as attacks by Houthi rebels persist, and other Mideast news  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDUtVElsazdRYlBXZDhiR2lBRF9VMVFCaEVDSTQ2THNuTlpGM1BOUkF1amNpbE12eHBkNTBlV1IwMmlYRWJLWE5RcEF2Zm0yTXJnazVsV1pMbERNNl8tekRrOHdVNlBUSEVYRURPQXhpakw2aTVtX3VUSnc2aXdndVZyREsxZGF6TUdDdHhrZEQ4UQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T12:02:21.000Z",
+      "publishedAt": "2026-10-25T12:01:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2230,45 +2542,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_10bd27b12cc0bab5",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "ENES KANTER FREEDOM: The WNBA says I'm a man. So why is it still afraid to say who is a woman?",
-      "snippet": "The WNBA has made one thing clear: it is convinced that I am a man. The question now is whether Commissioner Engelbert and the WNBA are willing to tell America what makes someone a woman.",
-      "link": "https://www.foxnews.com/opinion/enes-kanter-freedom-wnba-says-im-man-why-still-afraid-say-who-woman",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:00:30.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b613af96f19eeb7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Jessie James Decker shares 'secret sauce' behind family's food, faith, traditions",
-      "snippet": "Country singer Jessie James Decker reveals her family's game day food traditions, favorite recipes and how Catholic faith shapes life around the dinner table.",
-      "link": "https://www.foxnews.com/food-drink/jessie-james-decker-shares-secret-sauce-behind-familys-food-faith-traditions",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:00:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d2b9cb2c7477536d",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
-      "snippet": "Experts say Bank of England  unlikely to increase rates by full percentage point – and could lower them by end of 2027\nFinancial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or mor",
-      "link": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:00:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_6e5e55b7178a76d8",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -2277,45 +2550,6 @@
       "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
       "imageUrl": null,
       "publishedAt": "2026-10-25T12:00:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7bbb5b67adb70b53",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Two children’s laureates to give Sally Rooney royalties after ban on UK sales",
-      "snippet": "Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity over Rooney’s support for Palestine Action\nThe children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show of solidari",
-      "link": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:00:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4dff99e147663f49",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "What a Muslim baker and a Jewish recipe can teach us about coexistence",
-      "snippet": "We have made coexistence sound far more complicated than it needs to be. We organize panels about it, argue over who qualifies to speak about it, and ask people to defend their decision to reach across a religious or cultural divide. Meanwh",
-      "link": "https://www.washingtonexaminer.com/op-eds/4772422/coexistence-through-food/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4c3ad1092799cb6b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump’s labor chief betrayed you for Mexican beer. Now, expect a Democratic midterm blowout",
-      "snippet": "Once a member of President Donald Trump’s Cabinet, former Labor Secretary Lori Chavez-DeRemer claimed to support American workers and organized labor. This was part of the Republican effort to try to build bridges to organized labor, and ap",
-      "link": "https://www.washingtonexaminer.com/op-eds/4772743/lori-chavez-deremer-mexican-beer-midterm-blowout/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2334,32 +2568,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_a443838465504328",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Why the under makes sense as the 5-0 Kansas City Chiefs visit the Seattle Seahawks",
-      "snippet": "Patrick Mahomes and the 5-0 Kansas City Chiefs face Sam Darnold's struggling Seattle Seahawks on Sunday Night Football in a clash of recent champions.",
-      "link": "https://www.foxnews.com/outkick-betting/why-under-makes-sense-5-0-kansas-city-chiefs-visit-seattle-seahawks",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:59:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bbee63b1cc62a5ca",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Browns vs Titans NFL Week 7 betting preview favors Cleveland's defense on the moneyline",
-      "snippet": "Cleveland Browns enter Week 7 at 4-2 with a stingy defense allowing just 20.3 points per game as they face the 1-5 Tennessee Titans on the moneyline.",
-      "link": "https://www.foxnews.com/outkick-betting/browns-vs-titans-nfl-week-7-betting-preview-favors-cleveland-defense-moneyline",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:58:27.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_f563fd4e30ca7c24",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2373,16 +2581,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_663967d0f43f4664",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Human vs. ChatGPT NFL Week 7 betting picks: Human clings to profit as AI claims third straight win",
-      "snippet": "Human analyst is still profitable by just 0.09 units as he takes on ChatGPT with five more NFL bets, including a Titans upset and a shared Bengals pick.",
-      "link": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-7-betting-picks-human-clings-profit-ai-claims-third-straight-win",
+      "id": "story_9f451fcea05217d3",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+      "snippet": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images\nAll signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investig",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T11:50:08.000Z",
+      "publishedAt": "2026-10-25T11:52:45.000Z",
       "tier": "routine",
-      "topic": "sports",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2412,32 +2620,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_98e004e1435eb8b6",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Bet365 Bonus Code Unlocks $200 in Bonus Bets for Any NFL Week 7 Game",
-      "snippet": "Use the bet365 bonus code during NFL Week 7 to bet $10 and earn $200 in bonus bets. Claim the offer before Sunday’s games and choose from the full Week 7 schedule.",
-      "link": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-unlocks-200-bonus-bets-any-nfl-week-7-game",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:39:57.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_29f2053f8c60a275",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "BetMGM Bonus Code FOXNEWS: Claim $1500 in First Bet Cover for NFL Week 7",
-      "snippet": "Use BetMGM bonus code FOXNEWS during NFL Week 7 to receive up to $1,500 in bonus bets if your first wager loses. Claim the offer before Colts vs. Vikings.",
-      "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-claim-1500-first-bet-cover-nfl-week-7",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:39:45.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_83d9e574cdceff7b",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -2448,19 +2630,6 @@
       "publishedAt": "2026-10-25T11:39:41.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79896c13f042a0b4",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Any NFL Week 7 Matchup",
-      "snippet": "Use Underdog promo code FOXNEWS during NFL Week 7 to play $10 and earn $50 in bonus bets. Claim the offer before Browns vs. Titans or any Sunday matchup.",
-      "link": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-any-nfl-week-7-matchup",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:39:29.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2477,32 +2646,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_7f241f8785009808",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Betr Promo Code FOXNEWS: Claim $200 in Bonuses and Sweat Free Picks in Week 7 of the NFL Season",
-      "snippet": "Use Betr promo code FOXNEWS during NFL Week 7 to earn $200 in bonuses and sweat-free picks. Claim the offer before the 49ers vs. Falcons matchup and use it on Sunday’s games.",
-      "link": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-claim-200-bonuses-sweat-free-picks-week-7-nfl-season",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:39:15.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9492bee475a7036e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fanatics Sportsbook Promo Code FOXNEWS350 Unlocks Bet $20, Get $350 Promo for NFL Week 7",
-      "snippet": "Use Fanatics Sportsbook promo code FOXNEWS350 during NFL Week 7 to bet $20 and earn $350 in FanCash. Claim the offer before Steelers vs. Saints in France.",
-      "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-promo-nfl-week-7",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:38:53.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_d030056bbfb704bb",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2511,19 +2654,6 @@
       "link": "https://www.france24.com/en/israel-demonstrators-rally-against-government-ahead-of-election",
       "imageUrl": "https://s.france24.com/media/display/4abc8a7a-d067-11f1-a9cf-4b25c96ec90e/w:1024/p:16x9/EN-20261025-110931-111122-CS.jpg",
       "publishedAt": "2026-10-25T11:38:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d28466b4e2c4d198",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Chiefs vs Seahawks",
-      "snippet": "New users who sign up with Underdog and use promo code FOXNEWS can receive a special offer before the Kansas City Chiefs take on the Seattle Seahawks.",
-      "link": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-chiefs-vs-seahawks",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:37:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2542,19 +2672,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_79494695418f4165",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "UK endures second big storm of the weekend, with the north bearing the brunt this time - AP News",
-      "snippet": "UK endures second big storm of the weekend, with the north bearing the brunt this time  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUtYV3NNM1R4Vl9aTXJKZ2tJZ2ZxYWdUZ0xOWHQ0UGJYTXNSVTYwMFRuZ216RXNXN2NXTjlhclNEaUstWDgwWW5QNDZGY0V2TlRWbE1MaENMaWRJbDN0U1hEcFBJRDBHOFRuM2U2cktuZGw1WTc1dlI0dWtNb1ZzMTlxWXJfcDR4REpNVExfUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:36:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_bfcdf7b3fcd4a724",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2563,138 +2680,21 @@
       "link": "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron",
       "imageUrl": "https://s.france24.com/media/display/11d151aa-d067-11f1-9d2a-4b25c96ec90e/w:1024/p:16x9/EN-20261025-110725-110909-CS.jpg",
       "publishedAt": "2026-10-25T11:35:30.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d3e38f25feb83ac1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Chiefs-Seahawks",
-      "snippet": "New users who sign up with Fanatics Sportsbook and use promo code FOXNEWS350 get a special offer before tonight's Kansas City Chiefs-Seattle Seahawks game.",
-      "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-chiefs-seahawks",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:33:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_97777b2490a06df7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Lions vs Packers",
-      "snippet": "New users who sign up with Underdog and use promo code FOXNEWS can receive a special offer before the Detroit Lions take on the Green Bay Packers.",
-      "link": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-lions-vs-packers",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:30:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ad0929c61ef670da",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Lions vs Packers",
-      "snippet": "Before the Detroit Lions take on the Green Bay Packers, new users who sign up with Fanatics Sportsbook can use promo code FOXNEWS350 for a special offer.",
-      "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-lions-vs-packers",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:26:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_90e508f8fc16f2de",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-      "snippet": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
-      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:24:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5651e08f9d70e4d3",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "BetMGM Bonus Code FOXNEWS: Bet $10, Get $150 on NFL Week 7 in MI, NJ, PA or WV",
-      "snippet": "Before Week 7 kicks off in the NFL, football fans in Michigan, New Jersey, Pennsylvania and West Virginia can receive a special offer using bonus code FOXNEWS with BetMGM.",
-      "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-bet-10-get-150-nfl-week-7-mi-nj-pa-wv",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:22:54.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bbd2602bb89efbd0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "MIKE DAVIS: Shocking $6M verdict shows why DOJ must investigate MIT",
-      "snippet": "A jury awarded David Sabatini $6 million after rejecting sexual-misconduct claims that ended his MIT career and shuttered his Whitehead lab.",
-      "link": "https://www.foxnews.com/opinion/mike-davis-shocking-6m-verdict-shows-why-doj-must-investigate-mit",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:17:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f9dddb54e0e7529d",
+      "id": "story_c76a876c8db9bdf2",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Massachusetts and Idaho put guns on the ballot. One seeks to restrict them, the other to honor them - AP News",
-      "snippet": "Massachusetts and Idaho put guns on the ballot. One seeks to restrict them, the other to honor them  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGJtN3dMYmFMczVWWHE3WTBoSU5vUzJrYkUwRUtsUXV4VVo1Q1VyQzB4UFdUR2k5VUVfaFU2WjRTREVFZDcwdWZZT3dUZWJDMlJLQndWR1Y1ZTI5VFZoWkpqUVlVYWpaQVppUUtKV0g0VURfaWg1dm5na192ZGlabmsxcUhxUDRjb1U4R2tTLXVTSVRCbVllakE4YTVhSDA2eC04eFlR?oc=5",
+      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+      "snippet": "NBA Scores & Daily News | NBA Stats, Scores & News Today  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-25T11:11:00.000Z",
+      "publishedAt": "2026-10-25T11:31:07.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_12d18e4e79684b21",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Serbia election: Main players, voter concerns and what is at stake - Reuters",
-      "snippet": "Serbia election: Main players, voter concerns and what is at stake  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjRvakxtazFCcGRqcjNhbjdXU2YweVRMVnQ0UGxncEIxZ2tDb19wdXdrb2ZpR3MwZm9qUWRNNzctT2tyNlRZVS1UYmVCUHJFNXZ2cHV1MjA4LUF6eFFkY193UjkzSmljMHhvNlJHUTZ0a01mYVpQRE1NUzl3a0NjYzZKV3dYU3kyeWpEZjlGUVJhcWwxWW1zWFpDaTdaa2VV?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:06:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c694c111914dd64a",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "At least 1,300 people arrested in mass weekend protests across France",
-      "snippet": "At least 1,300 people were arrested on the sidelines of Saturday's protests across France and at least 50 officers and three protesters were hurt, the interior ministry said Sunday. The arrests occurred as clashes broke out on the margins o",
-      "link": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
-      "imageUrl": "https://s.france24.com/media/display/b7dd62bc-d05a-11f1-88d3-5b4a75578ebb/w:1024/p:16x9/AP26297559777844.jpg",
-      "publishedAt": "2026-10-25T11:02:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b16f842c209f71e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Young woman joked about going missing — 10 years later, mom won't rest until she finds out who killed her",
-      "snippet": "Angie Barlow vanished after texting her roommate about a private party gig in Indianapolis. Her mother says prosecutors have gone silent on the case.",
-      "link": "https://www.foxnews.com/us/young-woman-joked-going-missing-10-years-later-mom-wont-rest-until-finds-who-killed-her",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T11:00:59.000Z",
-      "tier": "routine",
-      "topic": "news",
+      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
