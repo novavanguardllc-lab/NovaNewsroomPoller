@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-25T14:30:11.063Z",
+  "updatedAt": "2026-10-25T14:35:05.905Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.346Z"
+      "lastSuccess": "2026-10-25T14:35:06.051Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.262Z"
+      "lastSuccess": "2026-10-25T14:35:06.006Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.466Z"
+      "lastSuccess": "2026-10-25T14:35:06.033Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.532Z"
+      "lastSuccess": "2026-10-25T14:35:06.132Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.283Z"
+      "lastSuccess": "2026-10-25T14:35:06.023Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.543Z"
+      "lastSuccess": "2026-10-25T14:35:06.086Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.622Z"
+      "lastSuccess": "2026-10-25T14:35:06.069Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.586Z"
+      "lastSuccess": "2026-10-25T14:35:06.124Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.101Z"
+      "lastSuccess": "2026-10-25T14:35:06.109Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.566Z"
+      "lastSuccess": "2026-10-25T14:35:06.084Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T14:30:11.602Z"
+      "lastErrorAt": "2026-10-25T14:35:06.148Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.642Z"
+      "lastSuccess": "2026-10-25T14:35:06.106Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.081Z"
+      "lastSuccess": "2026-10-25T14:35:06.146Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.721Z"
+      "lastSuccess": "2026-10-25T14:35:06.131Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.845Z"
+      "lastSuccess": "2026-10-25T14:35:06.182Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:11.665Z"
+      "lastSuccess": "2026-10-25T14:35:06.142Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T14:30:12.166Z"
+      "lastErrorAt": "2026-10-25T14:35:06.228Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.165Z"
+      "lastSuccess": "2026-10-25T14:35:06.231Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.124Z"
+      "lastSuccess": "2026-10-25T14:35:06.398Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.043Z"
+      "lastSuccess": "2026-10-25T14:35:06.066Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.005Z"
+      "lastSuccess": "2026-10-25T14:35:06.227Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.340Z"
+      "lastSuccess": "2026-10-25T14:35:06.268Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T14:30:12.206Z"
+      "lastSuccess": "2026-10-25T14:35:06.332Z"
     }
   },
   "items": [
+    {
+      "id": "story_67783c9d93d4cd69",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Nature: Spiders in Florida",
+      "snippet": "We leave you this Sunday morning with some Golden Orb Weavers at Long Key Natural Area and Nature Center in Davie, Fla. Videographer: Charles Schultz.",
+      "link": "https://www.cbsnews.com/video/nature-spiders-in-florida/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:30:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fc7e0d5881cf20d2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "WNBA Finals hit another scheduling snag as Atlanta Dream face arena conflict for Game 6",
+      "snippet": "The Atlanta Dream face a Game 6 venue crisis as a Hawks-Cavaliers matchup at State Farm Arena conflicts with the WNBA Finals Thursday night.",
+      "link": "https://www.foxnews.com/outkick-sports/wnba-finals-hit-another-scheduling-snag-atlanta-dream-face-arena-conflict-game-6",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:28:47.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_00fb6a9d6dab9415",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Unique national anthem ahead of NFL Paris game between Steelers and Saints draws mixed reviews",
+      "snippet": "The Soul Rebels' jazz national anthem before the Pittsburgh Steelers and New Orleans Saints game in Paris divided fans with its brass-band style.",
+      "link": "https://www.foxnews.com/outkick-sports/unique-national-anthem-ahead-nfl-paris-game-steelers-saints-draws-mixed-reviews",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:28:08.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5f2e0461f1722da1",
       "source": "CBS News",
@@ -176,6 +215,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cdf9ed45b83ec497",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
+      "snippet": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier\nA man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which invol",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:16:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_99ee164ff663de07",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -237,6 +289,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:09:01.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_10ca3570a39461c0",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "France protests, Texas Senate race and West Bank olives - Reuters",
+      "snippet": "France protests, Texas Senate race and West Bank olives  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcU1PcXM5SVpWSk9SOU5XVUN0a19jd0lERVFjUXA3WXNFMzhFWE5mVHczWVViSHpDN0VxTkl3TUFfUWU2dWxJV0dKdWtUcE5WY09SWW50NGdyeFp1eS1sclNyU1dsTWxpeDdyY3ZlOUFaRUFRUnpRX2NncHdVT1o5RHEwOW1RUk42LUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T14:05:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1185,6 +1250,19 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaW04ZFctMkN6MmhEU0hIazRtc1pOMXluMFZTZmlnWERCY3NQd3Y4Ty04cFBOY3l1Q25UakFsdUxDdmxHMzZ3ZEpXZlFCLWRiVGdRMWtIY0tzdFU3Y1BQMHZlb0tSRWRTNVExenE4VUFDcDZSTDdUREsycVJscGZ6aks3eEF0bzAxdXMyLXdlYkk2WkZhUGhobGx2c1NNZ0xReHdJbUdyZ0tOYTRYRURTLVdtb0s?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-25T12:34:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1379e02dfc99c726",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Who's on Air Force One? Trump's midterms entourage includes strategists, aides and aging athletes - AP News",
+      "snippet": "Who's on Air Force One? Trump's midterms entourage includes strategists, aides and aging athletes  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlJodGZhNWdvXzRCbEhmOWt5a2hkWC1FUVNPRGNrSW9yakRBWENtYWZjcFRCcGYzcUZmN1hNWjY3bnEtU18wR3psdlozQTNaVjFmLU4wT2lfZDduckRZd2NqVHhyNlZXV0dTbERFajIxVzM2V2x6MnVrY2I4YVV6dDMwZlNoRW90WWdrRWhhUHdoRUN2cGJIOWJJbERhT2hs?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T12:31:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2616,84 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T09:27:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fe630b2c219383c4",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
-      "snippet": "Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island.",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:26:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9239c240109f0242",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Prague honours Roma resistance fighters against Hitler",
-      "snippet": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague showcases the stories of partisans and soldiers whose fates barely received any attention for decades.",
-      "link": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:17:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_66e64c629867f5ba",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Immigration - AP News",
-      "snippet": "Immigration  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:16:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9a6403afc4fa81ed",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "‘20 Days in Mariupol’ - AP News",
-      "snippet": "‘20 Days in Mariupol’  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fdEpYLUhDOFZNVWxFTXNYVGdoTU5acUhUWlduUnQ3SXpiblBBX0UzV1FTZ1JjSThtTzhnX2RuNXNUb1NsMFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:15:55.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b94e0aeed72461d1",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Thousands of Northern Irish Protestants march ahead of court ruling",
-      "snippet": "Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:14:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c14d1a34ca8e289f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "22 killed in Kenya bus crash near the site of a previous fatal accident - AP News",
-      "snippet": "22 killed in Kenya bus crash near the site of a previous fatal accident  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWZCb0VvamtWZU1yamNPNy1KTFBFQTJtNEc5YTFxSXdzTHZwakt2SkZZcXg4X3FIT3p4SThzY3dLek5mdmpSUzlfR1d1a09JQUFNLXV6TFVOOGsxQ1JpNE5rYWJwLWFyUm9CUVJ1M1FUUkNzNjFCV2dMT3NCV0I5MVJpdkY4UmNidV9LR2ZrTFhFZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:14:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
