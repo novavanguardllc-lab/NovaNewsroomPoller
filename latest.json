@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-25T19:15:08.979Z",
+  "updatedAt": "2026-10-25T19:20:08.482Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.195Z"
+      "lastSuccess": "2026-10-25T19:20:08.542Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.215Z"
+      "lastSuccess": "2026-10-25T19:20:08.557Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.314Z"
+      "lastSuccess": "2026-10-25T19:20:08.600Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.577Z"
+      "lastSuccess": "2026-10-25T19:20:08.682Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.473Z"
+      "lastSuccess": "2026-10-25T19:20:08.787Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.354Z"
+      "lastSuccess": "2026-10-25T19:20:08.757Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.361Z"
+      "lastSuccess": "2026-10-25T19:20:08.717Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.339Z"
+      "lastSuccess": "2026-10-25T19:20:08.564Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.374Z"
+      "lastSuccess": "2026-10-25T19:20:08.723Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T19:15:09.454Z"
+      "lastErrorAt": "2026-10-25T19:20:08.759Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.292Z"
+      "lastSuccess": "2026-10-25T19:20:08.744Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "write EPROTO 00D93D5BE27F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:ssl/record/rec_layer_s3.c:918:SSL alert number 80\n",
-      "lastErrorAt": "2026-10-25T19:15:10.222Z"
+      "online": true,
+      "lastSuccess": "2026-10-25T19:20:08.830Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.335Z"
+      "lastSuccess": "2026-10-25T19:20:08.796Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.393Z"
+      "lastSuccess": "2026-10-25T19:20:08.792Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.555Z"
+      "lastSuccess": "2026-10-25T19:20:08.826Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.451Z"
+      "lastSuccess": "2026-10-25T19:20:08.784Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.743Z"
+      "lastSuccess": "2026-10-25T19:20:08.928Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.757Z"
+      "lastSuccess": "2026-10-25T19:20:08.842Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T19:15:09.758Z"
+      "lastErrorAt": "2026-10-25T19:20:08.835Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.636Z"
+      "lastSuccess": "2026-10-25T19:20:08.950Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.616Z"
+      "lastSuccess": "2026-10-25T19:20:08.963Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.818Z"
+      "lastSuccess": "2026-10-25T19:20:08.939Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T19:15:09.917Z"
+      "lastSuccess": "2026-10-25T19:20:09.059Z"
     }
   },
   "items": [
+    {
+      "id": "story_df0f1df6b092525c",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Elvis Presley’s rights holders sue Anthropic saying it trained AI on his music",
+      "snippet": "The owners of Elvis Presley’s music have sued Anthropic for allegedly using his copyrighted lyrics without permission to train its AI models and generating infringing versions of his songs.",
+      "link": "https://www.nbcnews.com/tech/tech-news/elvis-presleys-rights-holders-sue-anthropic-saying-trained-ai-music-rcna605551",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T19:11:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e54182bd03a11ead",
       "source": "Reuters",
@@ -125,6 +137,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9a879cf5ff86e972",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Mary Peltola delays campaign events after sustaining ‘minor injuries’ in car crash",
+      "snippet": "Former Rep. Mary Peltola is rescheduling several upcoming campaign events after she and her family sustained “minor” injuries in a car crash, her campaign announced on Sunday.",
+      "link": "https://www.nbcnews.com/politics/2026-election/mary-peltola-delays-campaign-events-minor-injury-car-crash-alaska-rcna605556",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T19:08:17.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_cae22825e86aec7a",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -133,6 +158,19 @@
       "link": "https://www.cbsnews.com/news/four-corners-floods-heavy-rain/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T19:03:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7585b0fd19185e38",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+      "snippet": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over the UAE’s human rights record and alleged funding of the RSF in Sudan\nAn Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian aid to ",
+      "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T19:00:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -290,6 +328,32 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T18:27:53.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2d5b01d4fe9fe15f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "DFOP.DE - Reuters",
+      "snippet": "DFOP.DE  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41OUdVS2RFNnF2dWRrNHlVQldaRTE4SXJUMTdfOGtKX3VYS2Q0Y1hpdlVaUEtpYndPTzJMWVR2VzdXVkpFUm1PRWs2ejRETEo1Tmd2bHVoMEZEQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T18:21:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_38b0056d7eccc3f7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Georgia and Indiana back as top-four seeds on CFP bracket based on AP Top 25; Miami, Ohio St are 1-2 - AP News",
+      "snippet": "Georgia and Indiana back as top-four seeds on CFP bracket based on AP Top 25; Miami, Ohio St are 1-2  AP News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11cE1VTEJfcDFua2RYdXJuMjdJYXVIZ1ZmdWxnX2NRWkxkVTZjM3U2ZkN3R0t6Z1FqandsSUMxdDgwTjh5WnJEU0puVkhSWk1oTUVGVU1BLXhmY3hFNU1VT0J2UDVBYkZ3SEZFNUZyRXVLMmhFZVdQcDhXUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T18:21:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2629,71 +2693,6 @@
       "link": "https://www.cbsnews.com/video/david-sedaris-would-like-to-clear-the-air-about-prostate-exams/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T14:26:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7f48dee5ceaed177",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "How punk rock and MTV inspired opera composer Missy Mazzoli",
-      "snippet": "\"Lincoln in the Bardo,\" based on George Saunders' novel, is the first opera composed by a woman to premiere at the Metropolitan Opera. Missy Mazzoli talks about its creation, and the influence that punk rock and music videos had on her work",
-      "link": "https://www.cbsnews.com/news/opera-composer-missy-mazzoli-lincoln-in-the-bardo/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:22:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_50e35f754cdf9d89",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "\"Lincoln in the Bardo\" composer Missy Mazzoli",
-      "snippet": "Composer Missy Mazzoli is the first woman ever to have an opera premiered by the Metropolitan Opera. Based on the award-winning novel by George Saunders, Mazzoli and librettist Royce Vavrek's \"Lincoln in the Bardo\" depicts Abraham Lincoln m",
-      "link": "https://www.cbsnews.com/video/lincoln-in-the-bardo-composer-missy-mazzoli/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:21:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43ee4ebcd76d631d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Artturi Lehkonen, Avalanche take aim at Predators - Reuters",
-      "snippet": "Artturi Lehkonen, Avalanche take aim at Predators  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbFd2THlBMTNNYWcyREFEYmo4ZUFjUlU1U3RiVkxfV25WbC01enF4bVkxUFlxeHphcDRNSE9NVV82NU4zclRqSVdENDVYTW9pN19tOWFndFVOalprZG9YMFdSdnFacmNLQ1BncjJxRnRoTEwyNERSZTZkSEpQVUFXd25fR0RjSTcxNlpCNF8wOE9FQ21rU1JjYi1reXpWQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:19:46.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d82969ecc6a83237",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Sen. Adam Schiff says Pete Hegseth should testify on Starlink slowdown in Ukraine",
-      "snippet": "Sen. Adam Schiff said that Defense Secretary Pete Hegseth should testify before the Senate on the Starlink satellite limitations that disrupted Ukrainian military operations.",
-      "link": "https://www.nbcnews.com/politics/congress/adam-schiff-pete-hegseth-testify-starlink-slowdown-ukraine-war-rcna605508",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:18:44.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_bf99063bce541c23",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Calais, 10 years after the Jungle: Migrants still risk the Channel crossing",
-      "snippet": "Ten years ago, in 2016, thousands of #migrants lived in what was known as the “Great #Jungle”, a vast camp on the outskirts of #Calais. It took the authorities seven days to dismantle it.\n \nToday, dozens of smaller “jungles” are scattered a",
-      "link": "https://www.france24.com/en/video/20261025-calais-10-years-after-the-jungle-migrants-still-risk-the-channel-crossing",
-      "imageUrl": "https://s.france24.com/media/display/9ae9a830-d084-11f1-9697-4b25c96ec90e/w:1024/p:16x9/Screenshot-2026-10-25-alle-15-58-03.png",
-      "publishedAt": "2026-10-25T14:17:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
