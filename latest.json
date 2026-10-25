@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-25T11:15:08.742Z",
+  "updatedAt": "2026-10-25T11:20:07.745Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.024Z"
+      "lastSuccess": "2026-10-25T11:20:07.847Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:08.964Z"
+      "lastSuccess": "2026-10-25T11:20:07.851Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.064Z"
+      "lastSuccess": "2026-10-25T11:20:07.833Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:08.978Z"
+      "lastSuccess": "2026-10-25T11:20:07.861Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.100Z"
+      "lastSuccess": "2026-10-25T11:20:07.868Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:08.908Z"
+      "lastSuccess": "2026-10-25T11:20:07.945Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:08.948Z"
+      "lastSuccess": "2026-10-25T11:20:07.965Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:08.941Z"
+      "lastSuccess": "2026-10-25T11:20:07.923Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.306Z"
+      "lastSuccess": "2026-10-25T11:20:07.961Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:08.925Z"
+      "lastSuccess": "2026-10-25T11:20:07.949Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T11:15:09.320Z"
+      "lastErrorAt": "2026-10-25T11:20:07.982Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.143Z"
+      "lastSuccess": "2026-10-25T11:20:07.864Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.302Z"
+      "lastSuccess": "2026-10-25T11:20:07.970Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.199Z"
+      "lastSuccess": "2026-10-25T11:20:07.893Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.286Z"
+      "lastSuccess": "2026-10-25T11:20:07.917Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.122Z"
+      "lastSuccess": "2026-10-25T11:20:07.883Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T11:15:09.478Z"
+      "lastErrorAt": "2026-10-25T11:20:07.990Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.484Z"
+      "lastSuccess": "2026-10-25T11:20:08.003Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.087Z"
+      "lastSuccess": "2026-10-25T11:20:08.175Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.341Z"
+      "lastSuccess": "2026-10-25T11:20:08.212Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.474Z"
+      "lastSuccess": "2026-10-25T11:20:08.078Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.520Z"
+      "lastSuccess": "2026-10-25T11:20:08.024Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T11:15:09.581Z"
+      "lastSuccess": "2026-10-25T11:20:08.029Z"
     }
   },
   "items": [
@@ -184,6 +184,19 @@
       "link": "https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html",
       "imageUrl": null,
       "publishedAt": "2026-10-25T11:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ab8b36b45ebb7c6a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+      "snippet": "Stakeholders concerned more people at risk of food insecurity after One Big Beautiful Act took effect\nEnrollment in the Supplemental Nutrition Assistance Program (Snap) has decreased significantly over the past year in the US following rest",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T11:00:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2680,19 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEU2emxZdERFMUlGcFEzcnJCR21KMS1BbzdvYXdvakpxU2V0aWpmblZpRmZicERsZUE2R2I1SGNvbWk3T21iajdJWjhOX1pSM21nXy14dTNLVXJTa2w2SUI4QkNFZFNqaGNIUUVHRDU3TzdJQjVmeVN1c2FGUDJYbUpsa1BDbVljTThpQVc0azNrLTlXNS0wRGFkOVVKNE9z?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-25T02:54:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_659bba8c97398c01",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says - Reuters",
-      "snippet": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmFjNlIzWmpXOUo3WWp5enVJbThmQmhPRWlEaDJ2UVZaV0ZmYm5EUVRqeXpzSFpydWZPOFlObEh2MWk2aTJaMXBqN202dThhWms5NF9Jb3hOSjR3V19MczZUOThKTU9kM0FBOVd4Q3kzMTlkaDJfa3N0MmdoNW1uSmVwbUlrbFJ3bWRwc0UwVkdVTjNmVXdoWHVzS25CLUYydGNBOVNPMmt4UEl4anM4YUowS0s?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T02:46:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
