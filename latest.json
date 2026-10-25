@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-25T10:25:05.621Z",
+  "updatedAt": "2026-10-25T10:30:10.708Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.775Z"
+      "lastSuccess": "2026-10-25T10:30:11.014Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.833Z"
+      "lastSuccess": "2026-10-25T10:30:11.030Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.740Z"
+      "lastSuccess": "2026-10-25T10:30:11.205Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.835Z"
+      "lastSuccess": "2026-10-25T10:30:11.072Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.826Z"
+      "lastSuccess": "2026-10-25T10:30:11.069Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.968Z"
+      "lastSuccess": "2026-10-25T10:30:11.247Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.042Z"
+      "lastSuccess": "2026-10-25T10:30:11.469Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.953Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-25T10:30:12.255Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.029Z"
+      "lastSuccess": "2026-10-25T10:30:11.473Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.887Z"
+      "lastSuccess": "2026-10-25T10:30:11.046Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-25T10:25:06.015Z"
+      "lastErrorAt": "2026-10-25T10:30:11.253Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.805Z"
+      "lastSuccess": "2026-10-25T10:30:11.230Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.034Z"
+      "lastSuccess": "2026-10-25T10:30:11.506Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.936Z"
+      "lastSuccess": "2026-10-25T10:30:11.167Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.014Z"
+      "lastSuccess": "2026-10-25T10:30:11.381Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.798Z"
+      "lastSuccess": "2026-10-25T10:30:11.111Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-25T10:25:06.079Z"
+      "lastErrorAt": "2026-10-25T10:30:11.547Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.083Z"
+      "lastSuccess": "2026-10-25T10:30:11.546Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.059Z"
+      "lastSuccess": "2026-10-25T10:30:10.964Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:05.872Z"
+      "lastSuccess": "2026-10-25T10:30:10.893Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.171Z"
+      "lastSuccess": "2026-10-25T10:30:11.650Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.078Z"
+      "lastSuccess": "2026-10-25T10:30:11.694Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-25T10:25:06.101Z"
+      "lastSuccess": "2026-10-25T10:30:11.581Z"
     }
   },
   "items": [
@@ -785,6 +786,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 5
+    },
+    {
+      "id": "story_006474f13e9bf34e",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+      "snippet": "India's opposition leader Rahul Gandhi has accused the ruling BJP of \"vote theft\" and urged people to join a rally in Delhi on November 1. The call comes amid protests over revision of electoral rolls. DW has more.",
+      "link": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T08:29:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_b6bf7ac4343ba452",
@@ -2681,19 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T01:01:20.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_990ea8a205bac338",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Brandon Miller scores 34 as Hornets hold off Heat - Reuters",
-      "snippet": "Brandon Miller scores 34 as Hornets hold off Heat  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHVjMzlhaS1COU5VSldzOWVwU045SC0yRWU1Y1lGX0Fkc1FfN3ZpSWRzRDhuNzZrS0MyclZZLVlnM0RTYVZuYkJkQWY3OW5fa29xalp3Wk15X0RMVk5BUENtWFBtN0VpSFhpbmNwUDBDUmduaTZyZ214ZW5HbFlXc2xwS2NqNmQ1Tmw2Q05OZXZXbkFpUWZ6aHJPdjN2cnliaDJGQVE4T1k?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T01:01:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
