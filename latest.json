@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-26T12:05:06.165Z",
+  "updatedAt": "2026-10-26T12:10:08.241Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.285Z"
+      "lastSuccess": "2026-10-26T12:10:08.400Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.305Z"
+      "lastSuccess": "2026-10-26T12:10:08.489Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.261Z"
+      "lastSuccess": "2026-10-26T12:10:08.442Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.303Z"
+      "lastSuccess": "2026-10-26T12:10:08.788Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.213Z"
+      "lastSuccess": "2026-10-26T12:10:08.429Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.319Z"
+      "lastSuccess": "2026-10-26T12:10:08.688Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.239Z"
+      "lastSuccess": "2026-10-26T12:10:08.347Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.282Z"
+      "lastSuccess": "2026-10-26T12:10:08.520Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.333Z"
+      "lastSuccess": "2026-10-26T12:10:08.553Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.484Z"
+      "lastSuccess": "2026-10-26T12:10:08.600Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.324Z"
+      "lastSuccess": "2026-10-26T12:10:08.501Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.354Z"
+      "lastSuccess": "2026-10-26T12:10:08.460Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.295Z"
+      "lastSuccess": "2026-10-26T12:10:08.543Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T12:05:06.370Z"
+      "lastErrorAt": "2026-10-26T12:10:08.520Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.348Z"
+      "lastSuccess": "2026-10-26T12:10:08.482Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.364Z"
+      "lastSuccess": "2026-10-26T12:10:08.572Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.338Z"
+      "lastSuccess": "2026-10-26T12:10:08.487Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.487Z"
+      "lastSuccess": "2026-10-26T12:10:08.560Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T12:05:06.364Z"
+      "lastErrorAt": "2026-10-26T12:10:08.639Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.378Z"
+      "lastSuccess": "2026-10-26T12:10:08.638Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.427Z"
+      "lastSuccess": "2026-10-26T12:10:08.626Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.459Z"
+      "lastSuccess": "2026-10-26T12:10:10.233Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:05:06.388Z"
+      "lastSuccess": "2026-10-26T12:10:08.701Z"
     }
   },
   "items": [
+    {
+      "id": "story_6fdc8730fda09242",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump critic Lula wins reelection in Brazil",
+      "snippet": "Brazilian President Luiz Inácio Lula da Silva, a critic of President Trump and a champion of the Latin American left, won an unprecedented fourth term on Sunday in a runoff election against Flávio Bolsonaro, the son of Brazil’s former far-r",
+      "link": "https://thehill.com/policy/international/6171633-lula-wins-brazil-runoff-bolsonaro/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/lula_brazil_102526_AP-e1793015761680.jpg?w=900",
+      "publishedAt": "2026-10-26T12:03:18.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
     {
       "id": "story_4ba6c83af8b1fd30",
       "source": "Fox News",
@@ -301,6 +314,19 @@
       "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T11:29:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5119674f2a5d274c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+      "snippet": "Uncertainty remains over key positions after student-led movement deals a blow to longtime leader's political dominance.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T11:28:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1342,6 +1368,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-26T09:52:11.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_46e970ea66346a56",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Audi splits Chinese JVs between AUDI and four-ring brands - Reuters",
+      "snippet": "Audi splits Chinese JVs between AUDI and four-ring brands  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2hCcFZ2cGlxc29UMWo2dlJveC13ekdGbklRQUx2d1hWT0NlWFZYY1BfZHFUU2IzdDNkYjM4WFZWRHJKMk1SbUQ5OE5ZcElySHludkdEZGt6OFZveGk2ajlrRWlzY1NNWEFUbGoxYjNsbG5PczVWRlM5NU1fWlZsUDRXN0lyTG40dWNVT3NsNFNCX3RMSDgyU0loR1Zqc0xNTVNJ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T09:49:41.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2657,45 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_602d70bd918561f6",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU3NYQ0tYUWo1WFMzOGNlaE4zWmp1dUExS1RyRW9VWVJDTWJLWFNDaGhwb3hPc0ExcWNoUk5YNEVfQ0RrNTYzUGl4bmJPazBtcVRUX3ZQMkY1ZGpMeUpTODJSX2VnTDJXcC0tYU9iaGtHYXc0SXZ2SGs3cGN1WjNndVVpNGM3MlF1ckFwM3JNbklTZFh5QXl1bmpGQW9oeUxWNHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:37:19.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7e069d053b4b899e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
-      "snippet": "Talks to be first high-level contact between Iran and the bloc since Houthi rebels escalated attacks on Saudi Arabia.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:33:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_40fc9819aa80b299",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Auto Racing - AP News",
-      "snippet": "Auto Racing  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:33:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
