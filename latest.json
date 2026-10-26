@@ -1,103 +1,128 @@
 {
-  "updatedAt": "2026-10-26T10:10:08.746Z",
+  "updatedAt": "2026-10-26T10:15:08.389Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.947Z"
+      "lastSuccess": "2026-10-26T10:15:08.774Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.909Z"
+      "lastSuccess": "2026-10-26T10:15:08.812Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.849Z"
+      "lastSuccess": "2026-10-26T10:15:08.558Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.206Z"
+      "lastSuccess": "2026-10-26T10:15:08.662Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.846Z"
+      "lastSuccess": "2026-10-26T10:15:08.850Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.194Z"
+      "lastSuccess": "2026-10-26T10:15:08.593Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.829Z"
+      "lastSuccess": "2026-10-26T10:15:08.738Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.906Z"
+      "lastSuccess": "2026-10-26T10:15:08.960Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.955Z"
+      "lastSuccess": "2026-10-26T10:15:08.919Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.993Z"
+      "lastSuccess": "2026-10-26T10:15:09.039Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-26T10:10:08.994Z"
+      "online": true,
+      "lastSuccess": "2026-10-26T10:15:09.043Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.808Z"
+      "lastSuccess": "2026-10-26T10:15:09.081Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.047Z"
+      "lastSuccess": "2026-10-26T10:15:08.938Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T10:10:09.052Z"
+      "lastErrorAt": "2026-10-26T10:15:09.254Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.966Z"
+      "lastSuccess": "2026-10-26T10:15:09.099Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.051Z"
+      "lastSuccess": "2026-10-26T10:15:09.132Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.833Z"
+      "lastSuccess": "2026-10-26T10:15:09.178Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:08.810Z"
+      "lastSuccess": "2026-10-26T10:15:08.856Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T10:10:09.068Z"
+      "lastErrorAt": "2026-10-26T10:15:09.258Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.058Z"
+      "lastSuccess": "2026-10-26T10:15:09.250Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.032Z"
+      "lastSuccess": "2026-10-26T10:15:09.347Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.150Z"
+      "lastSuccess": "2026-10-26T10:15:09.239Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:10:09.126Z"
+      "lastSuccess": "2026-10-26T10:15:09.296Z"
     }
   },
   "items": [
+    {
+      "id": "story_12cfc4b048083067",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Jordan: 3 arrested over deadly church attack",
+      "snippet": "Three men have been arrested in Jordan in connection with an attack on a Greek Orthodox church last week. The arrests took place following a dawn shootout with security forces during which the suspects were wounded.",
+      "link": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T10:12:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0903a788bdc241b9",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Algeria to send troops to Niger in first foreign deployment in over 50 years",
+      "snippet": "Algeria’s parliament on Sunday approved a resolution to send troops to Niger, making the first time Algerian soldiers will be deployed abroad since the 1973 Arab-Israeli war. Niger faces persistent attacks by armed groups, including near it",
+      "link": "https://www.france24.com/en/africa/20261026-algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+      "imageUrl": "https://s.france24.com/media/display/ec70da56-d120-11f1-8043-4b25c96ec90e/w:1024/p:16x9/AP26298690018388.jpg",
+      "publishedAt": "2026-10-26T10:10:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_282b26d2abbb9f4c",
       "source": "NBC News",
@@ -175,6 +200,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_a2b2f06fe24210be",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Brazil’s Election Defies a Right-Wing Trend, and Trump’s Midterm Attacks Enter a New Phase",
+      "snippet": "Plus, can a three-hour documentary lead the box office?",
+      "link": "https://www.nytimes.com/2026/10/26/podcasts/the-headlines/brazil-election-trumps-midterm-attacks.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T10:00:18.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_02b8cbaa224c95bc",
@@ -320,6 +358,45 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e823b9028134d8b6",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
+      "snippet": "Celebrations erupted across several Serbian cities late Sunday (October 25) as people hailed the student-backed movement deposing veteran leader Aleksandar Vucic's party in a snap election.",
+      "link": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat",
+      "imageUrl": "https://s.france24.com/media/display/f5da151c-d11b-11f1-a017-4b25c96ec90e/w:1024/p:16x9/EN-20261026-090715-090917-CS.jpg",
+      "publishedAt": "2026-10-26T09:55:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6f83f983c37c3132",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
+      "snippet": "Asian Cup 2027 to kick off on January 7 with Saudi Arabia facing Palestine in Riyadh as the AFC announces the schedule.",
+      "link": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T09:52:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_009d913e6b148a8c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Algeria’s military deployment to Niger: What’s behind the move?",
+      "snippet": "This will be Algeria's first foreign troop deployment in 50 years as the country shifts its military doctrine.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/algerias-military-deployment-to-niger-whats-behind-the-move?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T09:52:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_81a7dd354a21c0ba",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -328,6 +405,32 @@
       "link": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
       "imageUrl": null,
       "publishedAt": "2026-10-26T09:47:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_97f66aff78066075",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Brazil: What challenges await Lula in his fourth term as president?",
+      "snippet": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday (October 25). He will have to wrestle with a divided Brazil, an unfriendly Congress, feeble publ",
+      "link": "https://www.france24.com/en/brazil-what-challenges-await-lula-in-his-fourth-term-as-president",
+      "imageUrl": "https://s.france24.com/media/display/92b1f50c-d0d7-11f1-9469-bdb9616e85cf/w:1024/p:16x9/0498b5dbd26c81f0b76b2b0960050a2224c1a10b.jpg",
+      "publishedAt": "2026-10-26T09:46:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_975d800f22c2cc09",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Palestinians are opening their doors to the displaced of besieged Hebron",
+      "snippet": "Israel's assault on the West Bank city has forced thousands of people to flee their homes.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T09:45:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -346,6 +449,19 @@
       "corroboratedCount": 4
     },
     {
+      "id": "story_18327f96f0d54092",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Brazil's Lula wins historic fourth term",
+      "snippet": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday (October 26). The leftist leader won 51.7% of the vote, compared to 48.2% for the son of former ",
+      "link": "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term",
+      "imageUrl": "https://s.france24.com/media/display/ceee314c-d119-11f1-9027-5b4a75578ebb/w:1024/p:16x9/EN-20261026-090215-090410-CS.jpg",
+      "publishedAt": "2026-10-26T09:44:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_dd884d0633f099c4",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -357,6 +473,32 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_45058f0246d006ea",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
+      "snippet": "Serbia's Aleksandar Vucic conceded defeat in an historic election on Sunday (October 25) following a near to 70% turnout at polling stations. The snap election followed nearly two years of student-led demonstrations against perceived corrup",
+      "link": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
+      "imageUrl": "https://s.france24.com/media/display/633333c2-d118-11f1-875e-bba4eee3dc72/w:1024/p:16x9/EN-20261026-081316-081819-CS.jpg",
+      "publishedAt": "2026-10-26T09:41:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ae1a4800334cb8c2",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Brazil's Lula seals re-election in surprise win",
+      "snippet": "Brazil's President Luiz Inacio Lula da Silva won an unprecedented fourth term in a tight runoff against Flavio Bolsonaro on Sunday (October 25). The far-right candidate and son of former President Jair Bolsonaro has refused to accept the re",
+      "link": "https://www.france24.com/en/brazil-s-lula-seals-re-election-in-surprise-win",
+      "imageUrl": "https://s.france24.com/media/display/65bc2598-d11f-11f1-8fc5-5b4a75578ebb/w:1024/p:16x9/title-4.png",
+      "publishedAt": "2026-10-26T09:33:25.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_16b2034ef7001c8e",
@@ -448,6 +590,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_94140c0037f03a33",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "India's Ather Energy posts maiden quarterly profit on higher sales - Reuters",
+      "snippet": "India's Ather Energy posts maiden quarterly profit on higher sales  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnhEVHdQMmhvSjlHM0h6dzZuNWJnQi14MW1wa1Q3T1dTekdSaVpxRjVUMGhTWTBHVjF0amdGMkd2ZVNGUDFtTFhXUG54aS0xWU5VYW9nQVZMS05EV2ZQN3RaWjNwYmw4Snh1YTFJckZ2NTd0ZzE4RF9LYmhlQVBUX2xBSl91WlJCY0x0TXQ5Y090YjRKQ19BQWJ1WWYxU1A4bU5OX284WG5MUUF2YTdV?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T09:09:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_378f3db846135e59",
@@ -853,6 +1008,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1a3eb2bd81bae787",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Indonesia meeting Singapore gas terms despite supply cut, minister says - Reuters",
+      "snippet": "Indonesia meeting Singapore gas terms despite supply cut, minister says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGRBUmV5aU1iVUE5Y1pEVTRYUjZjMzNOdEZpY0VvRE02Ym5JaHBBcWljM3k0UnoydFo5bE9yRWRUeFBDWklUMVR2bmxZT1Q0M01FTlFKQlhjTGhXOGxKWHdscnBKM3dKM2NLSWZxXy13OHA3Q1BxUFhzeG1CaENld256Q0U3VTZTckpwOEVCSFlpMHVMQXBSd3RuOFhZUGpqeEhaLVhkTDZXVDFpX3V5RFdsSWVteTlPeUVKenpSUnh6WVJRbUlHQnRfMTU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T08:48:38.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_59e8040d958a371a",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -941,6 +1109,19 @@
       "publishedAt": "2026-10-26T08:39:21.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_00f47a315de2ee7a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Asia-focused banks face capital squeeze due to inflation, bond turbulence - Reuters",
+      "snippet": "Asia-focused banks face capital squeeze due to inflation, bond turbulence  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3c0Nl9IZUxGNGlIRFlNSW0xRUIzUTkxZlZJYVhtWjI5NXlGNFVJcm1IMnNMNVFWZVV4c0toYkxQYjB5Z3VXanB2ZE5ycUxERkRObDhkYUw3RGlrbFlzMVM3OXpyRVZhLTNnMkZhMkhHRU9oeGpuOHBDUWtkNkprSkZuQWVlSWtxYllmX1NlWkdqOHVWZzlubGs0WExDR29iVl95S1paMEhzOEFob1JkQWxpeTlGcnZO?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T08:36:36.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2512,188 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T04:32:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44a4cfec02444770",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
-      "snippet": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth\n\nFollow our Australia politics live blog for latest updates\n\nGet our breaking news email, free app or dai",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:29:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7adef6430ccbac6b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China's domestic car sales seen rising 2% in 2027 after 2026 slump - Reuters",
-      "snippet": "China's domestic car sales seen rising 2% in 2027 after 2026 slump  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUU5hQWxWTTA1TlVlaGFOYTFTSEZvamxNOEg4eXdXVldiUU9teU1pc184cWFvb1dvNFJ2SUJWRzkwS25hM0d2NlRObGZoamZYcjlveldwaWJ2S0x0QU5YMmJHSTlnbWJqWkx2MXREVkZxY3BJN1phNko4OEV3QURwal90VG84eV8zcEdQVVNxdWh2NzdfSXY3QThLU3ZnbnZVTkRnWW4wcDN0NWYyQVVLNS04R0oyOVhEeG5hYlBaWjhrc1VBTXc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:28:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_de8830f27b6dfa0a",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Seahawks defense dominates Patrick Mahomes, Kenneth Walker III in big win",
-      "snippet": "Seattle’s elite defense held Kansas City to its fewest total yards, first downs and red zone drives in any Mahomes start.",
-      "link": "https://www.nbcnews.com/sports/nfl/seattle-seahawks-kansas-city-chiefs-nfl-patrick-mahomes-result-rcna605649",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:25:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dad40283ca7877d6",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Lula is declared winner of Brazil’s election as Bolsonaro rejects results",
-      "snippet": "RIO DE JANEIRO (AP) — Brazil’s President Luiz Inácio Lula da Silva, a vocal critic of U.S. President Donald Trump, was reelected Sunday in a result that provides relief to critics of widening U.S. influence in Latin America. With 100% of th",
-      "link": "https://www.washingtonexaminer.com/news/world/4779377/lula-declared-winner-brazil-elections-bolsonaro-rejects/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:24:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_ce50004f9b313e21",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
-      "snippet": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:21:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_80cd7abf968d1ca5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Soccer - AP News",
-      "snippet": "Soccer  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:16:47.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1e2c1a64212cef34",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI - Reuters",
-      "snippet": "Indonesia strengthens measures against stock manipulation after market rout triggered by MSCI  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUE9yTXpNTi04M0d2WkhjaGJGMHN2amxERHk0TVpPWjY4S2xGN2tIOU05eGxudUcyWW5iSXFIUUJWOUlYZlZFVmlBcGNibk5XQ29XR09lNW15LUZhenNKejJ0TlowVE9zMS1HWW5tQUJMcnNzNWtiVFc3LUZVcThyXzJ2RU4weGdVU3dJbTRXVHBzMmRZT1B3TERGNjBTU3Q3WThOZldPcG9CTFcyblF6WE81LVZ6UWdmeFQ1Y1pnTTR0TmUwaTIyWm5R?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:16:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_020bec9ef01cf109",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs - AP News",
-      "snippet": "Jaxon Smith-Njigba has 150 receiving yards and a score in the Seahawks' 20-3 win over the Chiefs  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWsxLWdVdENlNUVkZ2hKZzhkdk5HbFlseEJVa0dZbGJ1ZGRIQjlHU0czRzZFY29Pcko5OHJ4OFlIX2pVYzd3R2ZjX2tPWWdGLTJUYUxvV05wNjVBZGp3cFVtZjcxR0U5VzJMTGFZS3dqR3B0bXdYWF9Zbl85RllZT3lfM2ZVNWlN?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:13:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a6ae80cf5e816e4b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Caribbean seeks reparations and questions role of monarchy before King Charles III visits - AP News",
-      "snippet": "Caribbean seeks reparations and questions role of monarchy before King Charles III visits  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlZ4QmF4M0h6LU8zLWJycGNvZHBhdFR2OS0tYXR4NnMzRGVLUFlDMTNHQ21vZ1g4X3V1UVN0cnkyZ3BEeEw2Wk1BZS1qLU8yWVdQY1RvMnFrRGV4VE00Q2xwZ1hpZkZaUEN0cjMxSW10eS1oclYtTE1WX0U4WGtPdk1HT05kZW1LMV9DZlVuRHF5a3R5WmpRZG5DRTE2MTFRVkE1OA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d69f3e37f49a3708",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ3Q2Wm9xb1gwY0xqZWtjZmN6SXRpZDdJOS1lLWZuU3pScXhFWU9FTGRjMjhSeDhKSDUzTXlCNlA5cHk1V3hHZWs1V1ZPWkNVWEdOeWpvVGI4a3Y4aXYtMzhQdlBBbmhES2F4UlhVcmtxdWxHS2tyOG1TQlRKdmRXQU51dFFLWUpJdzFNSU5KRFVvWVZfT1E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:10:42.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_2ff5590774d302a8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Investors expect Brazilian stocks, currency to fall after Lula reelected - Reuters",
-      "snippet": "Investors expect Brazilian stocks, currency to fall after Lula reelected  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:09:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2874a73182001142",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Photos of NFL Week 7, from Steelers-Saints in Paris to Cowboys-Eagles - AP News",
-      "snippet": "Photos of NFL Week 7, from Steelers-Saints in Paris to Cowboys-Eagles  AP News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSV9IYnFUUWpsT2R2bUZBZXJWT3B0MFVfZDMtU3ZBRk5ELV9BMW9fVmsyN0NaM1J5bGcwa1hfdllMeXFDOTJXODJweHBpYXE5bHVtaUk1bl80V05CcHpOS1FyUjE2TER5RldNczNWWEJKNG1ETHh0VDhaV2I2RjFjelljTmpIcG9OYk0tNU9ZRkJoYlVLd0JNRFI4cnd4TkZyRTZGWE5fTHRGRk1YQ2N6UnFsUlRnSWg1bldBZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:06:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6144e963ccb213fb",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "US military says it helped Gulf states export 1.5 billion barrels of oil",
-      "snippet": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
-      "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:05:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b06ee7809909295d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Australian murderer loses bid to eat Vegemite in prison",
-      "snippet": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T04:05:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
