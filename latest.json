@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-26T00:30:12.262Z",
+  "updatedAt": "2026-10-26T00:35:05.837Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.536Z"
+      "lastSuccess": "2026-10-26T00:35:05.914Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.438Z"
+      "lastSuccess": "2026-10-26T00:35:05.954Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.475Z"
+      "lastSuccess": "2026-10-26T00:35:05.963Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:13.108Z"
+      "lastSuccess": "2026-10-26T00:35:05.952Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:13.033Z"
+      "lastSuccess": "2026-10-26T00:35:06.022Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.596Z"
+      "lastSuccess": "2026-10-26T00:35:06.010Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.859Z"
+      "lastSuccess": "2026-10-26T00:35:06.026Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.557Z"
+      "lastSuccess": "2026-10-26T00:35:06.099Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.934Z"
+      "lastSuccess": "2026-10-26T00:35:06.008Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T00:30:12.971Z"
+      "lastErrorAt": "2026-10-26T00:35:06.020Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.735Z"
+      "lastSuccess": "2026-10-26T00:35:05.984Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.624Z"
+      "lastSuccess": "2026-10-26T00:35:06.097Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.592Z"
+      "lastSuccess": "2026-10-26T00:35:06.196Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.876Z"
+      "lastSuccess": "2026-10-26T00:35:06.080Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.833Z"
+      "lastSuccess": "2026-10-26T00:35:06.055Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.646Z"
+      "lastSuccess": "2026-10-26T00:35:06.065Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:13.087Z"
+      "lastSuccess": "2026-10-26T00:35:06.173Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.999Z"
+      "lastSuccess": "2026-10-26T00:35:06.093Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T00:30:12.973Z"
+      "lastErrorAt": "2026-10-26T00:35:06.014Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:13.121Z"
+      "lastSuccess": "2026-10-26T00:35:05.994Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:12.920Z"
+      "lastSuccess": "2026-10-26T00:35:05.975Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:13.189Z"
+      "lastSuccess": "2026-10-26T00:35:06.182Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T00:30:13.169Z"
+      "lastSuccess": "2026-10-26T00:35:06.365Z"
     }
   },
   "items": [
+    {
+      "id": "story_a571e94cfe93089b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+      "snippet": "In a tight election, incumbent President Lula da Silva bested Senator Flavio Bolsonaro in Brazil.",
+      "link": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T00:27:54.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_e8b858ab98e7ffd2",
       "source": "France24",
@@ -119,6 +132,32 @@
       "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-26T00:20:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_97a62e1c0a7a138f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "snippet": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro\n\nLula wins election in stunning comeback – live updates\n\nLuiz Inácio Lula da Silva, the Brazilian president, has staged a ",
+      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T00:19:05.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_8ec197d8170752d8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Lula holds off far right with victory in Brazil presidential election",
+      "snippet": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T00:16:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/entertainment/4779102/nicki-minaj-press-secretary-steven-cheung/",
       "imageUrl": null,
       "publishedAt": "2026-10-25T19:21:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3bf4623a77e780db",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Serbia voter turnout highest in decades as students oppose longtime leader",
-      "snippet": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T19:19:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3299d24902ef8702",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Acton wins Cleveland Plain Dealer endorsement in Ohio governor’s race",
-      "snippet": "Ohio Democrat gubernatorial candidate Amy Acton wins the Cleveland Plain Dealer endorsement on Sunday after the newspaper decided earlier this year it would not be endorsing candidates in the state’s toss-up gubernatorial and Senate electio",
-      "link": "https://thehill.com/homenews/campaign/6170989-amy-cton-wins-cleveland-plain-dealer-endorsement-in-ohio-governors-race/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Photo_Split.png?w=900",
-      "publishedAt": "2026-10-25T19:19:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_97e1b3e362682fe6",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Week 8 AP Top 25 Poll sees Big Ten gain equal footing on SEC and unbeaten Utah earn major respect",
-      "snippet": "BYU dropped six spots after a double-overtime loss to UCF, while Texas jumped eight places in the latest AP Top 25 college football rankings.",
-      "link": "https://www.foxnews.com/outkick-sports/week-8-ap-top-25-poll-big-ten-gain-equal-footing-sec-unbeaten-utah-earn-major-respect",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T19:18:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
