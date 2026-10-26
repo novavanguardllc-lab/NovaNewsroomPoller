@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-26T10:45:08.498Z",
+  "updatedAt": "2026-10-26T10:50:08.532Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.746Z"
+      "lastSuccess": "2026-10-26T10:50:08.725Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.957Z"
+      "lastSuccess": "2026-10-26T10:50:08.736Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.658Z"
+      "lastSuccess": "2026-10-26T10:50:08.663Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.177Z"
+      "lastSuccess": "2026-10-26T10:50:09.034Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.864Z"
+      "lastSuccess": "2026-10-26T10:50:08.719Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.685Z"
+      "lastSuccess": "2026-10-26T10:50:09.023Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.821Z"
+      "lastSuccess": "2026-10-26T10:50:08.656Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.963Z"
+      "lastSuccess": "2026-10-26T10:50:08.796Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.946Z"
+      "lastSuccess": "2026-10-26T10:50:08.891Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.082Z"
+      "lastSuccess": "2026-10-26T10:50:08.870Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.882Z"
+      "lastSuccess": "2026-10-26T10:50:08.808Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.867Z"
+      "lastSuccess": "2026-10-26T10:50:08.769Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.984Z"
+      "lastSuccess": "2026-10-26T10:50:08.882Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T10:45:09.136Z"
+      "lastErrorAt": "2026-10-26T10:50:08.892Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.245Z"
+      "lastSuccess": "2026-10-26T10:50:08.778Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.106Z"
+      "lastSuccess": "2026-10-26T10:50:08.818Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:08.890Z"
+      "lastSuccess": "2026-10-26T10:50:08.765Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.002Z"
+      "lastSuccess": "2026-10-26T10:50:08.761Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T10:45:09.271Z"
+      "lastErrorAt": "2026-10-26T10:50:08.901Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.271Z"
+      "lastSuccess": "2026-10-26T10:50:08.979Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.241Z"
+      "lastSuccess": "2026-10-26T10:50:08.965Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:11.275Z"
+      "lastSuccess": "2026-10-26T10:50:08.998Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T10:45:09.291Z"
+      "lastSuccess": "2026-10-26T10:50:09.006Z"
     }
   },
   "items": [
+    {
+      "id": "story_7ac028924220f91d",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Iran shrugs off Trump's attack threats, says diplomacy ongoing",
+      "snippet": "Iran says indirect negotiations with the U.S. continue but rules out bending to Trump's demands, even if he orders new strikes.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T10:45:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2dee2dd0af2b4fbc",
       "source": "Al Jazeera",
@@ -106,6 +119,19 @@
       "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T10:36:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1fc158ac434d6337",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "European gas prices soar to four-year high over winter supply fears",
+      "snippet": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran  \nEuropean gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this win",
+      "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T10:35:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -122,6 +148,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_f13c1a22002f133e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
+      "snippet": "President Luiz Inácio Lula da Silva won a fourth term, halting a string of conservative victories in Latin America. His opponent disputed the result.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T10:31:13.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_6d9a003e8a9d3885",
@@ -2654,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHhmclVEd2h0UmZvT3JkRTNya2hGdk5OOWgyc3NUZzloWXplMWpncXZNVWNDdFhSdE81RWs2WG5SakFVMFVwVFQ4ZGdMeHNGQ1JpX0dpdndVSkdXYzVNWTNEb01mRkhNbnEtV3VsbnlDMjc1dkMxM0lvdzFSTDktVlIxUEdaeU1mV2JRTXlKOE10UWEwX0I5cnJnQlU2T3B6YXJqYk9OdDV5MlZHVWhnVm5ueUpKRk9pZnVENXJWV1hYZTJDTUtz?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-26T05:26:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31d7afd6c41dd4df",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Aleksandar Vucic, the Serbian leader brought down by students",
-      "snippet": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T05:24:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b4c30b6342df55a7",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-      "snippet": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T05:20:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3db533331ea9ff67",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Serbia's strongman leader Vucic concedes defeat to student movement",
-      "snippet": "Serbia's longtime nationalist leader Aleksandar Vucic conceded defeat Sunday in snap parliamentary elections to a student-led opposition movement.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/26/seribia-parlimaentary-elections/1531792987476/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/1531792987476/2026/upi_com/e202190399a217e68a739c55a31438eb/v1.5/Serbias-strongman-leader-Vucic-concedes-defeat-to-student-movement.jpg",
-      "publishedAt": "2026-10-26T05:20:07.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
