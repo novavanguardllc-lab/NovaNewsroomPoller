@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-26T19:55:05.884Z",
+  "updatedAt": "2026-10-26T20:00:13.834Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.061Z"
+      "lastSuccess": "2026-10-26T20:00:14.208Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.065Z"
+      "lastSuccess": "2026-10-26T20:00:14.297Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.046Z"
+      "lastSuccess": "2026-10-26T20:00:14.031Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.035Z"
+      "lastSuccess": "2026-10-26T20:00:14.013Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.013Z"
+      "lastSuccess": "2026-10-26T20:00:14.289Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.112Z"
+      "lastSuccess": "2026-10-26T20:00:14.353Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.091Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-26T20:00:14.210Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.095Z"
+      "lastSuccess": "2026-10-26T20:00:14.048Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T19:55:06.182Z"
+      "lastErrorAt": "2026-10-26T20:00:14.539Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.155Z"
+      "lastSuccess": "2026-10-26T20:00:14.533Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.194Z"
+      "lastSuccess": "2026-10-26T20:00:14.394Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.181Z"
+      "lastSuccess": "2026-10-26T20:00:14.538Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.084Z"
+      "lastSuccess": "2026-10-26T20:00:14.316Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.135Z"
+      "lastSuccess": "2026-10-26T20:00:14.233Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:10.811Z"
+      "lastSuccess": "2026-10-26T20:00:14.594Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.178Z"
+      "lastSuccess": "2026-10-26T20:00:14.530Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.301Z"
+      "lastSuccess": "2026-10-26T20:00:14.742Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.333Z"
+      "lastSuccess": "2026-10-26T20:00:14.089Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.385Z"
+      "lastSuccess": "2026-10-26T20:00:14.133Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.191Z"
+      "lastSuccess": "2026-10-26T20:00:14.634Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T19:55:06.187Z"
+      "lastErrorAt": "2026-10-26T20:00:14.635Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:06.215Z"
+      "lastSuccess": "2026-10-26T20:00:14.692Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T19:55:07.993Z"
+      "lastSuccess": "2026-10-26T20:00:14.652Z"
     }
   },
   "items": [
+    {
+      "id": "story_e249e7f1334accd6",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "A guide to the key ballot measures voters will decide on Election Day",
+      "snippet": "When Americans cast their ballots in this year's midterm elections, they'll not only be picking  who represents them in Congress, but also weighing in on a range of topics that could change their state laws and constitutions.",
+      "link": "https://www.pbs.org/newshour/politics/a-guide-to-the-key-ballot-measures-voters-will-decide-on-election-day",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T19:54:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_afabe52abb42aa9f",
       "source": "PBS",
@@ -735,6 +749,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_417fcd02d19b04b7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUhQRWljVDI5M0l1dTBBT3RDamYxWTVFckMzZTBqaXdpR2lmNk1DSkZiYUV2eFVVR2NTbkxUOHV3Nms3X2lvOHQzYW54aXI5YVR2djNjTnJNcXJTM3RJRWFxbHhOd3EzM1ZGMnlmZDQzNzh6aHlQcE9ua2ZvVUtIX1JXY3c2SWVXaGU3QUlXLXpBQXBJNkxMUjA1MUdFVHpWdGc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T18:24:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_289974fda0304774",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -744,6 +771,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-26T18:22:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5668c7ec7d5fa31c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College football | Latest News & Updates - AP News",
+      "snippet": "College football | Latest News & Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T18:16:21.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2657,45 +2697,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_d9af3acff9b877f8",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "World leaders scoff at Trump mulling Orbán as UN secretary-general",
-      "snippet": "World leaders scoffed at President Trump reportedly mulling the idea of nominating his ally former Hungarian Prime Minister Viktor Orbán as the United Nations secretary-general. Polish Prime Minister Donald Tusk called the possibility “funn",
-      "link": "https://thehill.com/policy/international/6172596-world-leaders-scoff-orban-unsg/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Elsewhere-Orban_041226_AP_Petr-David-Josek.jpg?w=900",
-      "publishedAt": "2026-10-26T16:10:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_71a00aa2789b97ad",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Eric Bauza, modern voice of Bugs Bunny and other Looney Tunes characters, dies at 46",
-      "snippet": "Bauza's career gave voice to beloved Looney Tunes characters in \"Puss in Boots,\" \"Muppet Babies,\" \"Avatar: The Last Airbender,\" and countless others.",
-      "link": "https://www.pbs.org/newshour/arts/eric-bauza-modern-voice-of-bugs-bunny-and-other-looney-tunes-characters-dies-at-46",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T16:10:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1d608892e24665fb",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Judge orders DOJ to reinstate former federal prosecutor Maurene Comey, daughter of former FBI director",
-      "snippet": "A federal judge ruled Monday that former Assistant United States Attorney Maurene Comey, the daughter of former FBI Director James Comey, was “unlawfully terminated” and ordered that she be reinstated to her job.",
-      "link": "https://www.nbcnews.com/politics/trump-administration/doj-justice-maurene-comey-court-reinstate-rcna605720",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T16:10:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
     }
   ]
 }
