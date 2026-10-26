@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-26T20:00:13.834Z",
+  "updatedAt": "2026-10-26T20:05:06.300Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.208Z"
+      "lastSuccess": "2026-10-26T20:05:06.636Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.297Z"
+      "lastSuccess": "2026-10-26T20:05:06.488Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.031Z"
+      "lastSuccess": "2026-10-26T20:05:06.494Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.013Z"
+      "lastSuccess": "2026-10-26T20:05:06.508Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.289Z"
+      "lastSuccess": "2026-10-26T20:05:06.415Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.353Z"
+      "lastSuccess": "2026-10-26T20:05:06.610Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-26T20:00:14.210Z"
+      "online": true,
+      "lastSuccess": "2026-10-26T20:05:06.683Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.048Z"
+      "lastSuccess": "2026-10-26T20:05:06.668Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T20:00:14.539Z"
+      "lastErrorAt": "2026-10-26T20:05:06.690Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.533Z"
+      "lastSuccess": "2026-10-26T20:05:06.652Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.394Z"
+      "lastSuccess": "2026-10-26T20:05:06.687Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.538Z"
+      "lastSuccess": "2026-10-26T20:05:06.680Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.316Z"
+      "lastSuccess": "2026-10-26T20:05:06.642Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.233Z"
+      "lastSuccess": "2026-10-26T20:05:06.532Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.594Z"
+      "lastSuccess": "2026-10-26T20:05:06.694Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.530Z"
+      "lastSuccess": "2026-10-26T20:05:06.719Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.742Z"
+      "lastSuccess": "2026-10-26T20:05:06.797Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.089Z"
+      "lastSuccess": "2026-10-26T20:05:06.472Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.133Z"
+      "lastSuccess": "2026-10-26T20:05:06.437Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.634Z"
+      "lastSuccess": "2026-10-26T20:05:06.673Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T20:00:14.635Z"
+      "lastErrorAt": "2026-10-26T20:05:06.673Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.692Z"
+      "lastSuccess": "2026-10-26T20:05:06.829Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:00:14.652Z"
+      "lastSuccess": "2026-10-26T20:05:07.079Z"
     }
   },
   "items": [
+    {
+      "id": "story_ecfa546f0501842c",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Catholic bishops say White House prayer photo with Trump was used politically",
+      "snippet": "Two Catholic bishops have expressed regret that they agreed to a White House meeting that produced a publicly distributed photo of them praying with President Donald Trump.",
+      "link": "https://www.pbs.org/newshour/politics/catholic-bishops-say-white-house-prayer-photo-with-trump-was-used-politically",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T20:02:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e249e7f1334accd6",
       "source": "PBS",
@@ -1477,6 +1489,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cb4a9f16ed2ab1a4",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Woman treated for Ebola in Nigeria is evacuated to Switzerland",
+      "snippet": "A woman being treated for Ebola in Nigeria has been medically evacuated to Switzerland, authorities say.",
+      "link": "https://news.sky.com/story/woman-treated-for-ebola-in-nigeria-is-evacuated-to-switzerland-13604127",
+      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-ebola-nigeria-switzerland_7388120.jpg?20261026173642",
+      "publishedAt": "2026-10-26T17:25:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e402a344f1a1c020",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2668,32 +2693,6 @@
       "link": "https://www.foxnews.com/us/shot-12-times-ambush-killed-partner-philadelphia-officer-leaves-hospital-cheers",
       "imageUrl": null,
       "publishedAt": "2026-10-26T16:11:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_678e38db796ffb9f",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump calls Bill Maher a ‘total loser’ in 1,300-word Truth Social rant",
-      "snippet": "Trump lashes out on Maher after the host interviewed former White House press secretary Karoline Leavitt\nDonald Trump launched a 1,300-word social media rant against the late-night US TV host Bill Maher on Sunday evening, calling him a “TOT",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-bill-maher-truth-social-rant",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T16:11:30.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_405523d5bd32f219",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Democrats ask Musk for clarification on Starlink shutdown in Ukraine",
-      "snippet": "Democratic lawmakers are demanding answers from SpaceX CEO Elon Musk about disruptions to Ukraine’s satellite communications systems, questioning whether he personally ordered restrictions on Ukrainian forces and who controls access moving ",
-      "link": "https://www.washingtonexaminer.com/policy/technology/4779750/democrats-ask-elon-musk-clarify-starlink-shutdown-ukraine/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T16:10:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
