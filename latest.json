@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-26T20:35:06.257Z",
+  "updatedAt": "2026-10-26T20:40:08.663Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.417Z"
+      "lastSuccess": "2026-10-26T20:40:08.797Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.472Z"
+      "lastSuccess": "2026-10-26T20:40:08.853Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.539Z"
+      "lastSuccess": "2026-10-26T20:40:08.871Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.361Z"
+      "lastSuccess": "2026-10-26T20:40:08.773Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.457Z"
+      "lastSuccess": "2026-10-26T20:40:08.894Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.675Z"
+      "lastSuccess": "2026-10-26T20:40:08.976Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.492Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-26T20:40:08.915Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.494Z"
+      "lastSuccess": "2026-10-26T20:40:08.914Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T20:35:06.533Z"
+      "lastErrorAt": "2026-10-26T20:40:09.030Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.356Z"
+      "lastSuccess": "2026-10-26T20:40:08.916Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.477Z"
+      "lastSuccess": "2026-10-26T20:40:09.034Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.573Z"
+      "lastSuccess": "2026-10-26T20:40:09.015Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.538Z"
+      "lastSuccess": "2026-10-26T20:40:08.936Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.532Z"
+      "lastSuccess": "2026-10-26T20:40:09.012Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:11.093Z"
+      "lastSuccess": "2026-10-26T20:40:13.469Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.711Z"
+      "lastSuccess": "2026-10-26T20:40:09.101Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.655Z"
+      "lastSuccess": "2026-10-26T20:40:09.261Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.501Z"
+      "lastSuccess": "2026-10-26T20:40:09.296Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.558Z"
+      "lastSuccess": "2026-10-26T20:40:08.835Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.727Z"
+      "lastSuccess": "2026-10-26T20:40:09.155Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T20:35:06.716Z"
+      "lastErrorAt": "2026-10-26T20:40:09.273Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.734Z"
+      "lastSuccess": "2026-10-26T20:40:09.272Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T20:35:06.805Z"
+      "lastSuccess": "2026-10-26T20:40:09.351Z"
     }
   },
   "items": [
@@ -106,6 +107,45 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4780211/vance-rubio-2028-republican-poll/",
       "imageUrl": null,
       "publishedAt": "2026-10-26T20:34:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_10bd929c95540bc4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "ESPN fumbles the Holy War by forcing Utah and BYU into a dreaded early-morning kickoff for fans",
+      "snippet": "BYU and Utah fans face a 10 a.m. local kickoff for their rivalry game, and the Big 12 \"Holy War\" deserved a late night college football slot.",
+      "link": "https://www.foxnews.com/outkick-sports/espn-fumbles-holy-war-forcing-utah-byu-dreaded-early-morning-kickoff-fans",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T20:33:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27638b3382ab0193",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "France pledges new university admissions to quell student anger. But only after Macron leaves office",
+      "snippet": "The move announced on Monday seeks to quell student anger after weeks of mass protests over education and living costs.",
+      "link": "https://www.pbs.org/newshour/world/france-pledges-new-university-admissions-to-quell-student-anger-but-only-after-macron-leaves-office",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T20:32:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_96b99c6dc96f606f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Brazilian election sends US progressives into online fever as key irregularity stokes result uncertainty",
+      "snippet": "Lula's Brazil election victory sparked celebration from U.S. progressives like Alexandria Ocasio-Cortez, but a last-minute voting extension drew sharp criticism.",
+      "link": "https://www.foxnews.com/politics/brazilian-election-sends-us-progressives-online-fever-key-irregularity-stokes-result-uncertainty",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T20:31:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2697,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_4f1025984c79f213",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Why Melania Trump's ceasefire will be lifeline for besieged Ukrainians in Oleshky",
-      "snippet": "👉Listen to This Is Why on your podcast app👈",
-      "link": "https://news.sky.com/story/why-melania-trumps-ceasefire-will-be-lifeline-for-besieged-ukrainians-in-oleshky-13604094",
-      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-this-is-why-melania-trump_7388043.jpg?20261026163058",
-      "publishedAt": "2026-10-26T16:34:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d1857281bdb570cc",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "snippet": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T16:31:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a382704f9e64c8e1",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Maurene Comey was illegally fired as federal prosecutor, judge rules",
-      "snippet": "Daughter of ex-FBI director James Comey, a Trump foe, was dismissed in 2025 despite her work being widely praised\nMaurene Comey, the daughter of the former FBI director James Comey, was unlawfully fired from her job as a federal prosecutor ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/maureen-comey-firing-judge-ruling",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T16:31:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 7
     }
   ]
 }
