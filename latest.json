@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-26T05:35:06.307Z",
+  "updatedAt": "2026-10-26T05:40:09.250Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.487Z"
+      "lastSuccess": "2026-10-26T05:40:09.413Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.448Z"
+      "lastSuccess": "2026-10-26T05:40:09.353Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.528Z"
+      "lastSuccess": "2026-10-26T05:40:09.549Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.524Z"
+      "lastSuccess": "2026-10-26T05:40:09.587Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.628Z"
+      "lastSuccess": "2026-10-26T05:40:09.764Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.429Z"
+      "lastSuccess": "2026-10-26T05:40:09.630Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.626Z"
+      "lastSuccess": "2026-10-26T05:40:09.791Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.425Z"
+      "lastSuccess": "2026-10-26T05:40:09.589Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.653Z"
+      "lastSuccess": "2026-10-26T05:40:09.749Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T05:35:06.705Z"
+      "lastErrorAt": "2026-10-26T05:40:09.878Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.650Z"
+      "lastSuccess": "2026-10-26T05:40:09.506Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.444Z"
+      "lastSuccess": "2026-10-26T05:40:09.707Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.531Z"
+      "lastSuccess": "2026-10-26T05:40:09.530Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.658Z"
+      "lastSuccess": "2026-10-26T05:40:10.258Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.592Z"
+      "lastSuccess": "2026-10-26T05:40:09.689Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.605Z"
+      "lastSuccess": "2026-10-26T05:40:09.628Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.874Z"
+      "lastSuccess": "2026-10-26T05:40:09.930Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.671Z"
+      "lastSuccess": "2026-10-26T05:40:09.864Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T05:35:06.687Z"
+      "lastErrorAt": "2026-10-26T05:40:09.848Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.733Z"
+      "lastSuccess": "2026-10-26T05:40:09.831Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.611Z"
+      "lastSuccess": "2026-10-26T05:40:09.786Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.767Z"
+      "lastSuccess": "2026-10-26T05:40:09.887Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:35:06.810Z"
+      "lastSuccess": "2026-10-26T05:40:11.539Z"
     }
   },
   "items": [
@@ -111,6 +111,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_31d7afd6c41dd4df",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Aleksandar Vucic, the Serbian leader brought down by students",
+      "snippet": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T05:24:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3db533331ea9ff67",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -120,6 +133,32 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/1531792987476/2026/upi_com/e202190399a217e68a739c55a31438eb/v1.5/Serbias-strongman-leader-Vucic-concedes-defeat-to-student-movement.jpg",
       "publishedAt": "2026-10-26T05:20:07.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4cc77532cf93956",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "The Gambia’s first blind magistrate tests a system built for the sighted",
+      "snippet": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T05:18:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_be4621eee0f16500",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israel’s election: Five key things to know",
+      "snippet": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
+      "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T05:16:38.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -327,6 +366,19 @@
       "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T04:05:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b06ee7809909295d",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Australian murderer loses bid to eat Vegemite in prison",
+      "snippet": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T04:05:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -665,6 +717,19 @@
       "link": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T02:55:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_63cfd68ed1a2c893",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+      "snippet": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T02:53:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1029,6 +1094,19 @@
       "link": "https://www.foxnews.com/outkick-sports/jd-vance-sees-bengals-making-run-understandable-fan-jamarr-chase",
       "imageUrl": null,
       "publishedAt": "2026-10-26T01:11:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_118fef0bf58c83fd",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "India's cartoonists built an audience online - now their posts are being restricted",
+      "snippet": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T01:09:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1736,6 +1814,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_226eb026b7b0b04a",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "snippet": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T23:44:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_00ad3e43ceb97cce",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1849,6 +1940,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-25T23:33:43.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_be0f10ab2a6ea41f",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "snippet": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-25T23:33:19.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2589,110 +2693,6 @@
       "link": "https://www.foxnews.com/outkick-sports/inexcusable-loss-wisconsin-lincoln-riley-era-usc-nearing-end",
       "imageUrl": null,
       "publishedAt": "2026-10-25T22:31:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e3f7541b87ebd959",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Leafs riding 'great' vibes while Flames try to finish perfect homestand - Reuters",
-      "snippet": "Leafs riding 'great' vibes while Flames try to finish perfect homestand  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDRMdDV5QXE4RVdjMlFCeTlDU0ZBeXpfQ1NhMGpUelBEQUc4TDdteWNNM1dWUTNLWVBaLW15d2tXZDcwLW84UUFwY212eWhyY3RwUk1faXhqWm9KdmU5Q1FTZ2dmRnBjaTd2YnVmU2ZSNmdaQlNZQnAtTTRMdE5UVHFUakQyZ1owcS1GZFE5QmR6WVFzZkNKX0tOdWJLQkVFTk5uYUtuYmRPUHh5aWZpRW5EbU1pamZlZ3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:31:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_be0425c6af6da9cd",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Photos of Serbia’s election and celebrations as student-led opposition defeats long-serving strongman - AP News",
-      "snippet": "Photos of Serbia’s election and celebrations as student-led opposition defeats long-serving strongman  AP News",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNWl6SGtqcXRjSVhUN2xPV0hFdzB4VlhnbVl3Ym4tUlR1QW9mTUItaWdGc2pSejdzRXZfZVF2Sl9tRENvZC1rZFQwT25pM0J2THNUMzVxYzRwVTZBSlVtbWJUMVFYSHc3QTFaQzNJWWYxSktKUGQzb19mMXF6UnJWdlJSdmkxTWtmNzlUUF9CcDhUOXd2WXJEWlk5d0RHcHlYZk16b3hjU3JUeTM0Tk1CNEczbUw2czF0OUI5Tjc1Mkhyd2hYVzNYRmlsaTFiMEY2aVh5TW1xRXhmemhuSWJIVjZZakMwZnBfUW9mWU53?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_30cb33cbc22f151b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
-      "snippet": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900m\nAndy Burnham is to double spending on ending rough sleeping to almost £900m by the end of the curren",
-      "link": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:30:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_99550b263ac1be3b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Harbaugh credits players, including J.J. McCarthy and Cam Skattebo, and 'Lord God in heaven' for Giants OT win",
-      "snippet": "Cam Skattebo rushed for a career-high 124 yards but was flagged for unnecessary roughness on one run in the New York Giants' overtime victory.",
-      "link": "https://www.foxnews.com/outkick-sports/harbaugh-credits-players-jj-mccarthy-cam-skattebo-lord-god-heaven-giants-ot-win",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:30:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1054adbb0a3ebf2a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "10/25: CBS Weekend News",
-      "snippet": "The NFL played its first game in France amid protests; midterm campaigning entered its final stretch.",
-      "link": "https://www.cbsnews.com/video/10252026-cbs-weekend-news/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_89c0313856b62534",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "US to remove some Canadian tariffs ahead of elections",
-      "snippet": "The US announced plans to remove tariffs on certain Canadian products after an embattled Republican senator in Maine lobbied for the move as the White House looks to bolster its candidates ahead of Nov. 3.",
-      "link": "https://www.semafor.com/article/10/25/2026/us-to-remove-some-canadian-tariffs",
-      "imageUrl": "https://img.semafor.com/446422c5ac223f48b71c96070f5b17eeb679dfb4-5500x3668.jpg",
-      "publishedAt": "2026-10-25T22:29:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa4bb40c1fec4d72",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "SEC fines South Carolina $500,000 for allowing fans to storm the field after beating Tennessee - AP News",
-      "snippet": "SEC fines South Carolina $500,000 for allowing fans to storm the field after beating Tennessee  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1hJNkMyRDBiMk1YcjVmdHloVFc5bXQtZEV4V0ZzN3NIMXI2ajFpTk15SGlpWmVFaFFULWROTmxpM2RXUUZyTXRJTUtFTk5VTG9lUjdfR3RkT1Q2aE9tSjdhbC1fV2ZZMXBmOUdLWEVmNTNMLWp2aFN6ekpLSWFVZHdTSkhFaVhYdG54em5TcVJkOVVZZVhTdE1ReTMtT0U?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:29:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_adc663b191baab4a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "New threats could push US and Iran toward war",
-      "snippet": "The US director of national intelligence warned that Iran was in the “advanced stages” of planning attacks against American officials abroad, prompting personnel evacuations and heightening the risk of a return to all-out war.",
-      "link": "https://www.semafor.com/article/10/25/2026/new-threats-push-us-and-iran-toward-war",
-      "imageUrl": "https://img.semafor.com/0d6a05fafe90722cf4a0d4acde960229f86b82d5-5616x3744.jpg",
-      "publishedAt": "2026-10-25T22:28:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
