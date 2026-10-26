@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-10-26T14:05:06.353Z",
+  "updatedAt": "2026-10-26T14:10:09.044Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.608Z"
+      "lastSuccess": "2026-10-26T14:10:09.340Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.486Z"
+      "lastSuccess": "2026-10-26T14:10:09.204Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.585Z"
+      "lastSuccess": "2026-10-26T14:10:09.192Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:07.012Z"
+      "lastSuccess": "2026-10-26T14:10:09.523Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.551Z"
+      "lastSuccess": "2026-10-26T14:10:09.254Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.773Z"
+      "lastSuccess": "2026-10-26T14:10:09.234Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.476Z"
+      "lastSuccess": "2026-10-26T14:10:09.184Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.591Z"
+      "lastSuccess": "2026-10-26T14:10:09.328Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.654Z"
+      "lastSuccess": "2026-10-26T14:10:09.314Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.698Z"
+      "lastSuccess": "2026-10-26T14:10:09.370Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.669Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-26T14:10:09.336Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.701Z"
+      "lastSuccess": "2026-10-26T14:10:09.288Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.569Z"
+      "lastSuccess": "2026-10-26T14:10:09.380Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T14:05:06.721Z"
+      "lastErrorAt": "2026-10-26T14:10:09.343Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.729Z"
+      "lastSuccess": "2026-10-26T14:10:09.324Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.733Z"
+      "lastSuccess": "2026-10-26T14:10:09.383Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.714Z"
+      "lastSuccess": "2026-10-26T14:10:09.333Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.633Z"
+      "lastSuccess": "2026-10-26T14:10:09.321Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T14:05:06.714Z"
+      "lastErrorAt": "2026-10-26T14:10:09.388Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.749Z"
+      "lastSuccess": "2026-10-26T14:10:09.407Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:07.215Z"
+      "lastSuccess": "2026-10-26T14:10:09.469Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:08.908Z"
+      "lastSuccess": "2026-10-26T14:10:11.624Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T14:05:06.743Z"
+      "lastSuccess": "2026-10-26T14:10:09.494Z"
     }
   },
   "items": [
+    {
+      "id": "story_2605ca46eb824daa",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "The Price of Protest",
+      "snippet": "What does it cost an athlete to take a stand?",
+      "link": "https://www.aljazeera.com/video/game-theory/2026/10/26/the-price-of-protest?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T14:01:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bf8a260cb9cbab9c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Christian singer Natalie Grant urges fans not to 'ignore your body' after fall led to emergency surgery",
+      "snippet": "Natalie Grant reveals how a fall outside a restaurant led to kidney bleeding, an ICU stay, and emergency surgery that could have ruptured her bladder.",
+      "link": "https://www.foxnews.com/entertainment/christian-singer-natalie-grant-urges-fans-not-ignore-your-body-after-fall-led-emergency-surgery",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T14:00:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_01f85eb82bf00592",
       "source": "Politico",
@@ -228,6 +255,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_199eecef3d4748e1",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+      "snippet": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T13:54:21.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_6e5dc4e06e7fa9c1",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -278,6 +318,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_a9c4bbdfc4eb4ed0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Golden State Valkyries beat the Atlanta Dream 67-62 to even the WNBA Finals at 2-2 - AP News",
+      "snippet": "Golden State Valkyries beat the Atlanta Dream 67-62 to even the WNBA Finals at 2-2  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUNpdHRaS1FvTFVfVnRpRTFOR01Td20wbDVJYzNrdlRVUnctOHh5N0JlNTlOaDlPN3NnM3hRTmtQUVNCUk1PY1hDbVZGU2ctZlZWN1BZS3R1ckVyV1dMeUZzYnlIem1LNHZBM1FST0ROeF9udFpQTnhHXzZaTllYVWZJa0FZMUowUmF6MnVNc3lEcF83NXpDVQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T13:50:39.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_74f7c58773fa9961",
@@ -1190,6 +1243,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_af209bd99201ec76",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EU accepts Temu plan to remedy Digital Services Act breach - Reuters",
+      "snippet": "EU accepts Temu plan to remedy Digital Services Act breach  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVBDRndDRXdkT0ZRcmR4ZEtyTkpoc3ZRd2J5TVJWUlBvdEViaWZJdFB0QjF2cmlDWldEeTd1dDVOZGxfX0t4NTU5b2lvNXoxZ1JzR2NOYUFvalpjU29rTUplTXBoWjRGZzdWdFREXzJabU1BVkJXSVdRT2tFR29iaEh4U040ckNGaDlleFRKZzVPOHpsdWNjME9EaWVCVHlUd05PWWNFS1c0U2xqa1JhZTY2UXFRLWs?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T12:56:09.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_22724b6ff66c564b",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1331,6 +1397,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_d473b7a2438a7edf",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Police arrest a 15-year-old in shooting near Florida A&M stadium ",
+      "snippet": "Police have arrested a 15-year-old boy in connection with the mass shooting near Florida A&M University’s Bragg Memorial Stadium. NBC News' George Solis reports the latest updates on the investigation and the charges against the suspect.",
+      "link": "https://www.nbcnews.com/now/video/police-arrest-suspect-in-shooting-near-florida-a-m-stadium-272217669952",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T12:37:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_cd3dee1235858882",
@@ -2617,84 +2696,6 @@
       "publishedAt": "2026-10-26T10:41:00.000Z",
       "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2dee2dd0af2b4fbc",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Suwayda remains in stasis as US signals differences with Israel on Syria",
-      "snippet": "Governorate's Druze majority in deadlock with Syrian government.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T10:36:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1fc158ac434d6337",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "European gas prices soar to four-year high over winter supply fears",
-      "snippet": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran  \nEuropean gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this win",
-      "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T10:35:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_995772c346e08779",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WWE star Drew McIntyre offers sobering reminder amid spate of deaths to hit pro wrestling world",
-      "snippet": "Drew McIntyre mourns the deaths of PAC, Rick the Sign Guy, and Dennis Haskins, sharing personal memories of all three men from his WWE career.",
-      "link": "https://www.foxnews.com/outkick-sports/wwe-star-drew-mcintyre-offers-sobering-reminder-amid-spate-deaths-hit-pro-wrestling-world",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T10:34:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f13c1a22002f133e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
-      "snippet": "President Luiz Inácio Lula da Silva won a fourth term, halting a string of conservative victories in Latin America. His opponent disputed the result.",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T10:31:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_4426e4ff373716c4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law - Reuters",
-      "snippet": "EXCLUSIVE: Ambani, Adani outlets among Indian publishers contesting Modi’s privacy law  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanFza21ic1VNOTdSMzhhUTBrQVRqYVhhZWdxYUF5cTJueG9XSEV6NFg4aWc1ZnRHenhTdGtpdDhDdlJjUWFhUnlXN1pUckxqWjMxbENtZ2dNZjh6MHVwOEptMi04QW5WaVBJTUFoM1JMSUpQRENLVE5Ud0JYX3dCM2F6VHBRd2ZHVWkzSGU4VjhQdF9TRVR6RmlYZ05HV2JSVUxPbWN5UTVqNXBuS25OamFEVnVqV0l3Q1RlM2lteXM5MG5pallBZ0hxTW0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T10:26:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d9a003e8a9d3885",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Japan indicts U.S. Marine on murder charge over woman's killing",
-      "snippet": "Police arrested Lance Cpl. Devin Jacob Ballard, 20, on suspicion of strangling Anna Yagi, 39, at a hotel.",
-      "link": "https://www.cbsnews.com/news/us-marine-indicted-murder-charge-woman-killing-japan/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T10:25:09.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
