@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-26T17:10:08.727Z",
+  "updatedAt": "2026-10-26T17:15:08.529Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.806Z"
+      "lastSuccess": "2026-10-26T17:15:08.807Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.882Z"
+      "lastSuccess": "2026-10-26T17:15:08.944Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.982Z"
+      "lastSuccess": "2026-10-26T17:15:08.926Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.770Z"
+      "lastSuccess": "2026-10-26T17:15:08.962Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.933Z"
+      "lastSuccess": "2026-10-26T17:15:09.000Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.050Z"
+      "lastSuccess": "2026-10-26T17:15:09.059Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.020Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-26T17:15:08.967Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.000Z"
+      "lastSuccess": "2026-10-26T17:15:08.905Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T17:10:09.164Z"
+      "lastErrorAt": "2026-10-26T17:15:09.059Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.960Z"
+      "lastSuccess": "2026-10-26T17:15:08.862Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.008Z"
+      "lastSuccess": "2026-10-26T17:15:08.890Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.988Z"
+      "lastSuccess": "2026-10-26T17:15:09.298Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.029Z"
+      "lastSuccess": "2026-10-26T17:15:09.174Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.089Z"
+      "lastSuccess": "2026-10-26T17:15:09.281Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.248Z"
+      "lastSuccess": "2026-10-26T17:15:09.310Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.074Z"
+      "lastSuccess": "2026-10-26T17:15:09.166Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.122Z"
+      "lastSuccess": "2026-10-26T17:15:09.261Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.972Z"
+      "lastSuccess": "2026-10-26T17:15:08.848Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:08.862Z"
+      "lastSuccess": "2026-10-26T17:15:08.740Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.128Z"
+      "lastSuccess": "2026-10-26T17:15:09.348Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T17:10:09.131Z"
+      "lastErrorAt": "2026-10-26T17:15:09.360Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.210Z"
+      "lastSuccess": "2026-10-26T17:15:09.402Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:10:09.162Z"
+      "lastSuccess": "2026-10-26T17:15:09.466Z"
     }
   },
   "items": [
@@ -124,6 +125,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_917fc28c29fb0837",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump isn't done overhauling the White House — and his next move could hit the media where it works",
+      "snippet": "Trump says he's considering relocating the White House press corps to a different location but denies plans to replace the briefing room with an indoor pool.",
+      "link": "https://www.foxnews.com/politics/trump-isnt-done-overhauling-white-house-his-next-move-could-hit-media-where-works",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:05:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_923080308ccf8fb7",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -133,6 +147,19 @@
       "imageUrl": "https://s.france24.com/media/display/efbe6938-d145-11f1-9537-5b4a75578ebb/w:1024/p:16x9/AP26299151844900.jpg",
       "publishedAt": "2026-10-26T17:05:04.000Z",
       "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_792b8a8ed46a7229",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race - AP News",
+      "snippet": "Trump says he ordered the Justice Department’s lawsuit over Alaska’s US Senate race  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2lwdVh1SXlFeWVFaFRvNGN6a0dUaVV1b0diS0ZvaXhmYWJRR3JVYmRudTdhRmg0V18wYVVvenVWaUJJLTRBRkFkZXhIbEdYcHFGOXZiQ1JUMGRadHRMclMxdG9GTE5rTnBlVVoxbUdNM3VuZ0pkN2REZ2hKYWxVcDNubW9ESVMyQmVtS3doVUNLRTk4a1ZBT1hKTVNoT1Qta2U4V28tMW9KaTdpcUI3bDhPYjk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:05:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
     },
@@ -196,6 +223,19 @@
       "snippet": "California Reps. Vince Fong and James Gallagher introduced two joint resolutions to overturn the California Air Resources Board's Vessels At-Berth and Commercial Harbor Craft regulations, which they argue act as hidden climate taxes increas",
       "link": "https://thehill.com/opinion/congress-blog/6171529-vessel-at-berth-rule-cost-relief/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26117787990720.jpg?w=900",
+      "publishedAt": "2026-10-26T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b6177a3a13283b17",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Ballon d’Or 2026 award ceremony LIVE: Winners, reactions and latest news",
+      "snippet": "Follow updates from the 2026 Ballon d'Or ceremony as the world's best male and female footballers are crowned.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/26/ballon-dor-2026-award-ceremony-live-winners-reactions-and-latest-news?traffic_source=rss",
+      "imageUrl": null,
       "publishedAt": "2026-10-26T17:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2654,45 +2694,6 @@
       "link": "https://www.pbs.org/newshour/politics/thousands-of-observers-from-the-right-and-left-will-descend-on-polling-places-to-monitor-the-vote-on-election-day",
       "imageUrl": null,
       "publishedAt": "2026-10-26T14:29:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_68af5a3a85a47d02",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "VIEW Anthropic IPO filing to put AI investment boom to the test - Reuters",
-      "snippet": "VIEW Anthropic IPO filing to put AI investment boom to the test  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlJETmo1Z21kOWpEaXF5T25sQTVFTHE3Y3FRMWtHMEVyNlpNMXU0OVllN3dnRTlhRS1kMUx2T3JLZ0psUVJPQ29UMmNDREpWWGFpVUFEcHgxWjFzSFoydHgwR3o2R01sTVJaQjh6NlZHSV9sbFZTQ0RTSXhsSnNIV3Uxc1NVQUJla1ZZb3I2aDdiQ0x3Mm1wOUxvamE5a1k5dFRxRW5rWEVRZEpoZmc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:28:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_da60d1ea3ed35173",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "US midterms: Obama blasts Trump's 'chaos and cruelty' while campaigning for Democrats",
-      "snippet": "Ten days out from the elections that will determine control of the closely divided Congress, Barack Obama took to the campaign trail to accuse the Republican president of corruption, deride his strategy for Iran and skewer the gilded aesthe",
-      "link": "https://www.france24.com/en/us-midterms-obama-blasts-trump-s-chaos-and-cruelty-while-campaigning-for-democrats",
-      "imageUrl": "https://s.france24.com/media/display/7aa06634-d149-11f1-8d0a-4b25c96ec90e/w:1024/p:16x9/capture-2b4f75ac.jpg",
-      "publishedAt": "2026-10-26T14:28:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_96410e383ccfa6a3",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
-      "snippet": "Iran’s anti-negotiation hardliners turn against President Pezeshkian over negotiations with the US.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:27:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
