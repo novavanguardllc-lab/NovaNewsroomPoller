@@ -1,103 +1,167 @@
 {
-  "updatedAt": "2026-10-26T17:30:11.802Z",
+  "updatedAt": "2026-10-26T17:35:07.053Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.143Z"
+      "lastSuccess": "2026-10-26T17:35:07.223Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:11.966Z"
+      "lastSuccess": "2026-10-26T17:35:07.256Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.146Z"
+      "lastSuccess": "2026-10-26T17:35:07.299Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:11.923Z"
+      "lastSuccess": "2026-10-26T17:35:07.146Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.048Z"
+      "lastSuccess": "2026-10-26T17:35:07.129Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.241Z"
+      "lastSuccess": "2026-10-26T17:35:07.266Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:11.989Z"
+      "lastSuccess": "2026-10-26T17:35:07.227Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.383Z"
+      "lastSuccess": "2026-10-26T17:35:07.242Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T17:30:12.438Z"
+      "lastErrorAt": "2026-10-26T17:35:07.420Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.381Z"
+      "lastSuccess": "2026-10-26T17:35:07.323Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.406Z"
+      "lastSuccess": "2026-10-26T17:35:07.386Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.387Z"
+      "lastSuccess": "2026-10-26T17:35:07.340Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.179Z"
+      "lastSuccess": "2026-10-26T17:35:07.250Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.461Z"
+      "lastSuccess": "2026-10-26T17:35:07.311Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.524Z"
+      "lastSuccess": "2026-10-26T17:35:07.343Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.341Z"
+      "lastSuccess": "2026-10-26T17:35:07.297Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.632Z"
+      "lastSuccess": "2026-10-26T17:35:07.511Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.567Z"
+      "lastSuccess": "2026-10-26T17:35:07.189Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.422Z"
+      "lastSuccess": "2026-10-26T17:35:07.239Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.649Z"
+      "lastSuccess": "2026-10-26T17:35:07.382Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T17:30:12.659Z"
+      "lastErrorAt": "2026-10-26T17:35:07.331Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T17:30:12.723Z"
+      "lastSuccess": "2026-10-26T17:35:07.414Z"
     },
     "The Hill": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-26T17:30:21.822Z"
+      "online": true,
+      "lastSuccess": "2026-10-26T17:35:07.408Z"
     }
   },
   "items": [
+    {
+      "id": "story_8d3f3112e4483958",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Walter Koenig, actor who played Chekov on \"Star Trek,\" dies at 90",
+      "snippet": "Walter Koenig played Pavel Chekov in the original \"Star Trek\" series and several movies.",
+      "link": "https://www.cbsnews.com/news/walter-koenig-dies-age-90-chekov-star-trek/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:30:44.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_6b96d11433db68a5",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Pulte vows action against ‘abusive monopolies’ in mortgage market",
+      "snippet": "Bill Pulte, the director of the Federal Housing Finance Agency (FHFA), said Monday he will not tolerate “abusive monopolies” dominating the mortgage market. “Abusive monopolies will not be allowed to take advantage of consumers anywhere in ",
+      "link": "https://thehill.com/business/6172844-fhfa-director-challenges-fico-monopoly/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/pultbill_062426gn02_w.jpg?w=900",
+      "publishedAt": "2026-10-26T17:29:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_093a669472a9a9f7",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Tennessee inmate convicted of murder escapes from prison, manhunt underway: Officials",
+      "snippet": "Security video shows Jacob Allen Morley breaching a fence at Northwest Correctional Complex while still wearing prison clothing during his escape.",
+      "link": "https://www.foxnews.com/us/tennessee-inmate-convicted-murder-escapes-prison-manhunt-underway-officials",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:27:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_9fd4b5936afd7dfb",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Kansas coach tributes six-year-old son killed in soccer field crash: ‘Love like Cole’",
+      "snippet": "At funeral service Chris Adrian remembers son Cole as ‘capturing the heart’ of everyone, after tragedy killing two\nThe father of Cole Adrian, a six-year-old boy killed when a woman drove through a soccer game at a park in Wichita, Kansas, o",
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/cole-adrian-tribute-kansas-soccer",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:25:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_035698e30f0b85bc",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Netanyahu denies allegations he's escalating tensions with Iran before Israel's election",
+      "snippet": "Israelis are in the final hours of an intense election season amid reports of a clash between Prime Minister Benjamin Netanyahu and the Israeli military over Iran.",
+      "link": "https://www.pbs.org/newshour/world/netanyahu-denies-allegations-hes-escalating-tensions-with-iran-before-israels-election",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:22:36.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_47164b75b4fbcffa",
       "source": "CBS News",
@@ -123,6 +187,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_def02738f68d7c88",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Walter Koenig, actor best known as Chekov on Star Trek, dies aged 90",
+      "snippet": "The actor appeared in the cult 1960s show as well as many of the films but also worked as a writer\nWalter Koenig, the actor known for playing Pavel Chekov throughout the Star Trek franchise, has died, his representative confirmed to the Hol",
+      "link": "https://www.theguardian.com/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T17:18:59.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_7a3ee04f94a30ed2",
@@ -2616,84 +2693,6 @@
       "link": "https://www.cbsnews.com/video/poet-turns-conversations-with-strangers-into-memorable-keepsakes/",
       "imageUrl": null,
       "publishedAt": "2026-10-26T14:37:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5beee1842f249392",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally - AP News",
-      "snippet": "Lula’s win in Brazil bucks a regional shift to the right and denies Trump a powerful ally  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXdnZW1zQllMZHM0bV9NQXpGVW1VWEZUU3ozczVHNjZmTkZOVTRVakJrYXU5RkpId0otb2Z6T3pkTTlaUDV0YklHRTh6R1VEVnBGTG5wQlI2MXByQzhkMGVSX2w5ay1PZUtFVTV2aThFc0J5OXlMRzcwWjRTbW5laWpGcGVOMHJ4NWsyY1Q1X2E1ZVVpRDFpanpPbVNib0E3MVRqb3B3YUpGOHdDQWE0S3RwMWdZUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:37:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9702cc06199e19b0",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Lula wins 4th term as Brazil's president, but Bolsonaro rejects results",
-      "snippet": "Brazil's President Luiz Inácio Lula da Silva, a vocal critic of President Trump, was reelected Sunday in a runoff over right-wing opponent Flávio Bolsonaro, who is refusing to concede defeat.",
-      "link": "https://www.cbsnews.com/video/lula-da-silva-wins-4th-term-brazil-president-bolsonaro-rejects-results/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:36:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8efbdd486b9c3609",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Tina Peters plans Supreme Court bid while convictions are upheld in Colorado",
-      "snippet": "Tina Peters' attorney, Peter Ticktin, told FOX31 that he is preparing to take her case to the U.S. Supreme Court in hopes of overturning her criminal convictions stemming from a 2021 breach of Mesa County's election equipment.",
-      "link": "https://thehill.com/homenews/state-watch/6172205-tina-peters-supreme-court-colorado-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Elsewhere-Peters_040522_AP_David-Zalubowski.jpg?w=900",
-      "publishedAt": "2026-10-26T14:35:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_37150db6c5b3863d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "NYPD detective stabbed 10 times in Bronx robbery recalls chasing attackers while bleeding out",
-      "snippet": "Detective Jose Mercedes reveals on \"One Nation\" how his blood-soaked phone prevented him from calling 911 while chasing attackers in the Bronx.",
-      "link": "https://www.foxnews.com/media/nypd-detective-stabbed-10-times-bronx-robbery-recalls-chasing-attackers-bleeding-out",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:35:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_81bc7b0e59c46bbf",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "snippet": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:34:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_291466067a7ad4a5",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Cam Young was out the door to LIV Golf, wind cuts PGA Tour event short, and gearing up for Mexico",
-      "snippet": "PGA Tour star Cameron Young signed a document of intent to join LIV Golf after the 2022 Open Championship, newly revealed bankruptcy filings show.",
-      "link": "https://www.foxnews.com/outkick-sports/cam-young-door-liv-golf-wind-cuts-pga-tour-event-short-gearing-mexico",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:34:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
