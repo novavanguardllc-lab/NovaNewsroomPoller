@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-26T05:10:08.464Z",
+  "updatedAt": "2026-10-26T05:15:09.009Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.617Z"
+      "lastSuccess": "2026-10-26T05:15:09.416Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.534Z"
+      "lastSuccess": "2026-10-26T05:15:09.431Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.755Z"
+      "lastSuccess": "2026-10-26T05:15:09.267Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.718Z"
+      "lastSuccess": "2026-10-26T05:15:09.232Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.876Z"
+      "lastSuccess": "2026-10-26T05:15:09.614Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.834Z"
+      "lastSuccess": "2026-10-26T05:15:09.618Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.873Z"
+      "lastSuccess": "2026-10-26T05:15:09.603Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.734Z"
+      "lastSuccess": "2026-10-26T05:15:09.445Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.833Z"
+      "lastSuccess": "2026-10-26T05:15:09.606Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T05:10:09.040Z"
+      "lastErrorAt": "2026-10-26T05:15:09.607Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.814Z"
+      "lastSuccess": "2026-10-26T05:15:09.332Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.865Z"
+      "lastSuccess": "2026-10-26T05:15:09.290Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.881Z"
+      "lastSuccess": "2026-10-26T05:15:09.422Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.015Z"
+      "lastSuccess": "2026-10-26T05:15:09.697Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.860Z"
+      "lastSuccess": "2026-10-26T05:15:09.548Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:08.918Z"
+      "lastSuccess": "2026-10-26T05:15:09.669Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.002Z"
+      "lastSuccess": "2026-10-26T05:15:09.788Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.040Z"
+      "lastSuccess": "2026-10-26T05:15:09.795Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T05:10:09.034Z"
+      "lastErrorAt": "2026-10-26T05:15:09.801Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.126Z"
+      "lastSuccess": "2026-10-26T05:15:09.384Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.033Z"
+      "lastSuccess": "2026-10-26T05:15:09.354Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.055Z"
+      "lastSuccess": "2026-10-26T05:15:09.830Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T05:10:09.090Z"
+      "lastSuccess": "2026-10-26T05:15:09.867Z"
     }
   },
   "items": [
+    {
+      "id": "story_5493c3b481b41547",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Social video captures moment Brazil’s election turned",
+      "snippet": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T05:01:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4982de3e4014733b",
       "source": "NYT",
@@ -122,6 +135,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_ac5f8c1610917ccd",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Bolsonaro calls for Brazil election result to be annulled",
+      "snippet": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T04:36:46.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_39f9416d80057fab",
@@ -293,6 +319,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e1a12bf1541e010f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo - AP News",
+      "snippet": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW5kNnNBUl81by05dE9FREZPNFhlUGduU1k5RmRyUEhERml5cG5yX0Q4TFAyV1lNaWFhOGt5MkJ2Vmlac2QxRmpEWERNLWJNRTMyTVViX1FVWWNSdFhrSWRzZ2ZNMnB5MS15LVRPT2JMYkZZWTQ4SUVDeC1WeEw0Q1VkZ1dYUHJFUWt4Z3dDM3V3U25GaDVsLUdyZzFJS1k?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T04:01:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_591c4963646b5f75",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -341,6 +380,32 @@
       "imageUrl": null,
       "publishedAt": "2026-10-26T03:50:12.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ad3a44dc456b4a43",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation - Reuters",
+      "snippet": "Houthis say they attacked East-West oil pumping stations; No Saudi confirmation  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlYwOVl3Z1hlOFdacWVmeXZVNnVhejFlWDVOR0toczJ2MWNjT1FMRWZjVU0xd1hGaGtzNU9VcGdYSnR1Z2NVQjFfRVpKallEcEVuTzNweldmeEdYOE05UXFOejl1ekR1ZjlxUlhHT1NLa3J0cmZYWUxhSEs2eXNGb2xNNUJycVNWci1ZVzZUOXBSNGc0bzRJNWVTTnVlWHhXRlBrLWRTOV9HbmlJTmVfZk95N0FIQnBLQTlTa3N3eFBaVDJMWGptVU1VN3A?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T03:48:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_03cbf69ea9f025f8",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Australian Parliament pays tribute to injured lawmaker under increased security - AP News",
+      "snippet": "Australian Parliament pays tribute to injured lawmaker under increased security  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZklOZllOZDZSdTZlbmJSQjZMb0ZFMUlMaHJjY0hBSVhXSTF6SmwzY2RKVEpDWWIwZlk3QU1CcmVOd0E1dEZ3ZFE4RlFlNFAzUXlPMWM2eUlHTzhqWkQ0Y2NCeDNYSW4zbGRkUmRBdkNZSThUU1l5M3Y0dUQ5aTZjN1IxMTQwX3QzVENnMkdBNUY0RzRuTDFZMzdwOFhBX3FP?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T03:46:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2631,71 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_ec37e8d124b24e31",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "(ESAQ.DE) | Stock Price & Latest News - Reuters",
-      "snippet": "(ESAQ.DE) | Stock Price & Latest News  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qZTVKdnRNcWVHTE1ubUpia2F4OEMtUkRCUUVacDBaTE5PalF0U2tsbjJvVmRtejJZaG4tbndSbE1pLTYwY1p6cFVkbXhJU0JBOTVtNHNsdTlFQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:16:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7a885e0786078aed",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Wizards, Hornets out to capitalize on early-season momentum - Reuters",
-      "snippet": "Wizards, Hornets out to capitalize on early-season momentum  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUlETm4zY2t5WmVyaDZ4aU1TQmFPYTZsdzdYS3QxMUdFNjRyTkprYkZ0NUhzVGpOaFlNd0xYLXRqUEpUTVZXZGhXZWRiRl9kaWxza1hlRFJfbXItWjZWajc4bi1xTC05YzViWUoyX0hWZF9mV3lERUF0RmlBTWtLMTBhOGg3cm44aGtvUE16N0U3RjZyUU0yT0U1YTZ3cFVpLXhiQnozWnA5NVFmcXFQTw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:15:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_61b490c7e36a9898",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "World News: Top & Breaking World News Today - AP News",
-      "snippet": "World News: Top & Breaking World News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:13:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f009192618444100",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Lula re-elected president in Brazil, electoral authority says",
-      "snippet": "President Luiz Inácio Lula da Silva has been re-elected president of Brazil, the electoral authority has said, in a result that defied poll predictions.",
-      "link": "https://news.sky.com/story/lula-re-elected-president-in-brazil-electoral-authority-says-13603818",
-      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
-      "publishedAt": "2026-10-25T22:13:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d33d24266c27fad8",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Deeply divided Israel braces for pivotal election",
-      "snippet": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T22:11:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
