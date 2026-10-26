@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-26T12:25:05.768Z",
+  "updatedAt": "2026-10-26T12:30:12.245Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.082Z"
+      "lastSuccess": "2026-10-26T12:30:12.452Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.022Z"
+      "lastSuccess": "2026-10-26T12:30:12.574Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:05.925Z"
+      "lastSuccess": "2026-10-26T12:30:12.522Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.263Z"
+      "lastSuccess": "2026-10-26T12:30:12.511Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:05.967Z"
+      "lastSuccess": "2026-10-26T12:30:12.687Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.244Z"
+      "lastSuccess": "2026-10-26T12:30:12.643Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:05.903Z"
+      "lastSuccess": "2026-10-26T12:30:12.734Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.069Z"
+      "lastSuccess": "2026-10-26T12:30:12.787Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.060Z"
+      "lastSuccess": "2026-10-26T12:30:12.845Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.135Z"
+      "lastSuccess": "2026-10-26T12:30:12.925Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.169Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-26T12:30:12.553Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.005Z"
+      "lastSuccess": "2026-10-26T12:30:12.530Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.106Z"
+      "lastSuccess": "2026-10-26T12:30:12.811Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T12:25:06.031Z"
+      "lastErrorAt": "2026-10-26T12:30:12.746Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.003Z"
+      "lastSuccess": "2026-10-26T12:30:12.791Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.176Z"
+      "lastSuccess": "2026-10-26T12:30:12.770Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.031Z"
+      "lastSuccess": "2026-10-26T12:30:12.569Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.019Z"
+      "lastSuccess": "2026-10-26T12:30:12.550Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T12:25:06.224Z"
+      "lastErrorAt": "2026-10-26T12:30:13.052Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.231Z"
+      "lastSuccess": "2026-10-26T12:30:13.050Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.165Z"
+      "lastSuccess": "2026-10-26T12:30:13.029Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.310Z"
+      "lastSuccess": "2026-10-26T12:30:13.185Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T12:25:06.250Z"
+      "lastSuccess": "2026-10-26T12:30:13.087Z"
     }
   },
   "items": [
+    {
+      "id": "story_05dc7481aa7eb626",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "El-Sayed to Trump: ‘I will be Senator Muhammad to you bro’",
+      "snippet": "Michigan Senate candidate Abdul El-Sayed (D) on Sunday fired back at President Trump’s anti-Muslim rhetoric toward him, telling supporters that the president will be referring to him as “Senator Muhammad” if he wins in November. “I get that",
+      "link": "https://thehill.com/homenews/state-watch/6171651-el-sayed-fires-back-trump-attacks/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26231678858038-e1792615938951.jpg?w=900",
+      "publishedAt": "2026-10-26T12:26:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a7d9892a7ed9568f",
       "source": "CBS News",
@@ -159,6 +173,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-26T12:09:58.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5fd6a8e2b4ca85db",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "In China, the AI bubble has already burst - Reuters",
+      "snippet": "In China, the AI bubble has already burst  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnhLb1ZGYUdnbENkWmMyZDZqTHlsckJwbEsxWVZGTnI5U2lPcFNXLXFoYmRRZm1rU2NWREZrWGVRblRES2FmdkwtUVIzMDlTS2N4ZW5vNno1Y2JCR1FzclhmdUVBOU5jMElCd2FwTlN1VzdfOU94YXlFc2VSWmRObXZyMVhyNnlf?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T12:09:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -277,6 +304,19 @@
       "publishedAt": "2026-10-26T11:45:58.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8987565f3dd4aaed",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Kremlin hails defeated Serbian ally Vucic as student election win adds to its geopolitical woes - Reuters",
+      "snippet": "Kremlin hails defeated Serbian ally Vucic as student election win adds to its geopolitical woes  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNU5NcVYxMk1JeGN0c1ZnRWJXaVo0OGdWTk9Vd1JfSmRRbUxsNXZON3ZJXzFYQUg2NlM4bmlDUjdndVhXQlpnNHB4VWp1TzRIclNfSHpQbThQb2RtNzd6Y3pYUWpTLWJCSkQ0bXdJY0lSYlZnNTlaZUJCU3ROal9kZzN5ZXc2RWpKcmtMX1kzaC1DaEdTMDJpbFkzMnFyOGViOENqN1o1eEFWY2dWTFdFQ0VObHlwVE1td3QzaGJPRTY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T11:42:59.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2654,45 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXdnZW1zQllMZHM0bV9NQXpGVW1VWEZUU3ozczVHNjZmTkZOVTRVakJrYXU5RkpId0otb2Z6T3pkTTlaUDV0YklHRTh6R1VEVnBGTG5wQlI2MXByQzhkMGVSX2w5ay1PZUtFVTV2aThFc0J5OXlMRzcwWjRTbW5laWpGcGVOMHJ4NWsyY1Q1X2E1ZVVpRDFpanpPbVNib0E3MVRqb3B3YUpGOHdDQWE0S3RwMWdZUQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-26T08:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e4a27f3940fef59",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brazil - AP News",
-      "snippet": "Brazil  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T08:01:17.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 7
-    },
-    {
-      "id": "story_0f6aa78a34ceb5e1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump's fingerprints seen on Latin America's rightward shift as Brazil becomes next test",
-      "snippet": "Trump's political influence is fueling right-leaning shifts across Latin American countries, with Javier Milei leading Argentina's charge.",
-      "link": "https://www.foxnews.com/politics/trumps-fingerprints-latin-americas-rightward-shift-brazil-becomes-next-test",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T08:00:17.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_6f226cf360f5eb4e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Audi CEO's appearance at Trump rally was 'deeply embarrassing', IG Metall head says - Reuters",
-      "snippet": "Audi CEO's appearance at Trump rally was 'deeply embarrassing', IG Metall head says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaC1sRVBIdlJKRXRwLVp2Y2RtYjVoUFRoSU00anpHOHdsMzR0ZUJfcmoybHF5UG5PRW1uZVc0VTdIV1hJWVR3R0t0cGljZDlkNGppY0VjaXVmRlBQMWs3alMxS2NCbjRpakVTbzVoOTRZYVdxbmRJVmE0NnZ6MGdHM1VYUmhCMmlERHFrX3BnR1lhSjJFY1htZlhvbWxUWERzWWJCVGh1WEhJeUF2UW8xVm50ME1rNDJ1Y2pjQVp1dG1UTVd4dEp2aHZPdE5jMWI0ekNPNzhnY1V0UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:59:52.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
