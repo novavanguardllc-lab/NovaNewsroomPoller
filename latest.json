@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-26T11:45:07.844Z",
+  "updatedAt": "2026-10-26T11:50:08.270Z",
   "sourceStatus": {
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.198Z"
+      "lastSuccess": "2026-10-26T11:50:08.474Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.400Z"
+      "lastSuccess": "2026-10-26T11:50:08.518Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:07.995Z"
+      "lastSuccess": "2026-10-26T11:50:08.453Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.551Z"
+      "lastSuccess": "2026-10-26T11:50:08.809Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.179Z"
+      "lastSuccess": "2026-10-26T11:50:08.510Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.577Z"
+      "lastSuccess": "2026-10-26T11:50:08.438Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.130Z"
+      "lastSuccess": "2026-10-26T11:50:08.396Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.041Z"
+      "lastSuccess": "2026-10-26T11:50:08.587Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.301Z"
+      "lastSuccess": "2026-10-26T11:50:08.548Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.374Z"
+      "lastSuccess": "2026-10-26T11:50:08.647Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.220Z"
+      "lastSuccess": "2026-10-26T11:50:08.666Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.211Z"
+      "lastSuccess": "2026-10-26T11:50:08.571Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.433Z"
+      "lastSuccess": "2026-10-26T11:50:08.691Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-26T11:45:08.435Z"
+      "lastErrorAt": "2026-10-26T11:50:08.659Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.452Z"
+      "lastSuccess": "2026-10-26T11:50:08.561Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.480Z"
+      "lastSuccess": "2026-10-26T11:50:08.663Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.439Z"
+      "lastSuccess": "2026-10-26T11:50:08.651Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.216Z"
+      "lastSuccess": "2026-10-26T11:50:08.658Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-26T11:45:08.661Z"
+      "lastErrorAt": "2026-10-26T11:50:08.659Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.592Z"
+      "lastSuccess": "2026-10-26T11:50:08.678Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.654Z"
+      "lastSuccess": "2026-10-26T11:50:08.755Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.681Z"
+      "lastSuccess": "2026-10-26T11:50:08.792Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-26T11:45:08.730Z"
+      "lastSuccess": "2026-10-26T11:50:08.775Z"
     }
   },
   "items": [
+    {
+      "id": "story_9cce4c1ff7b5a77e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "ESPN star calls out Jets head coach following team's loss to winless Dolphins",
+      "snippet": "Mike Greenberg called New York Jets coach Aaron Glenn's game management \"inexcusable\" after a timeout blunder led to a costly Dolphins touchdown.",
+      "link": "https://www.foxnews.com/outkick-sports/espn-star-calls-out-jets-head-coach-following-team-loss-winless-dolphins",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T11:45:58.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_717c608eed39648c",
       "source": "UPI",
@@ -107,6 +120,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/8011793006555/2026/upi_com/20d2a0682b55077f6bba673324265a50/v1.5/Recovery-underway-after-deadly-back-to-back-storms-batter-Britain.jpg",
       "publishedAt": "2026-10-26T11:40:05.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6333a388ac31bd96",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "snippet": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’\n\nGet our daily political email, free app or daily news podcast\n\nAustralians should prepare for more basic and important online s",
+      "link": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T11:30:40.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -184,6 +210,19 @@
       "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/eric-bauza-voice-bugs-bunny-daffy-duck-porky-pig-dies-46-rcna605663",
       "imageUrl": null,
       "publishedAt": "2026-10-26T11:17:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f86af31522ee622b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Israelis Set to Vote in First Election Since Oct. 7 Attacks",
+      "snippet": "Israelis will get the opportunity to vote whether to keep Prime Minister Benjamin Netanyahu or replace him in the first election since the Oct. 7 attacks in 2023. New polls show Netanyahu is in a tight race with former Israeli Army Chief of",
+      "link": "https://www.today.com/video/new-polls-show-netanyahu-in-tight-race-against-main-rival-272215621721",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T11:16:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_105cb9eeeae68a6d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML - Reuters",
-      "snippet": "EXCLUSIVE: Vietnam's first chip plant unlikely to meet 2027 target, sources say no deal yet with ASML  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUWx2akllRU5PaXFQc1RpYXNpX0g1czVlak9RcmVyenpqeUstcklpemh0M3RzRWhBdGVFd3VFU0w0aGZtUjI2NXdJRlF3dkwxX1ctUUxjSXpnSGh0bG05UG1iMmQ0OG05cHVpWFV4VGdsTlFBQzJoTGk4QlhuQkpWRzh0NjZGa1JIVzJGUE40QnZRMl9JQ3Y4aEl6eFFFRXVSTDIwSWRwQlBhSkphN0ZTNF8yMkl5d2VNeVpnVmFScENpMm9GQkpKVjhRdGxPNm1T?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:16:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c822f091f041de24",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Chinese beauty brands, flush with success at home, start to vie for global shelf space - Reuters",
-      "snippet": "Chinese beauty brands, flush with success at home, start to vie for global shelf space  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd29zTzc4XzJ1dmVYNkJkaVUxMERuVUhjRGZWWUI5RURGV3BxWWw1S1BHODlpS0xFOWotenNSMHQyMHJtVDVkNHdYb3FtbnpSMWE0WXNKLVJBLUxtQ08zc3VvY0Y0WVhxbklRVFlSRFJJVU9XTzdhcTRBSVBRcUtJVkhNaElrU0lJTGJZc2YxeWFOV1QzaE5tQ3pSZFB1MFhCa0dsUERmQ0dYbm5lX3hGX0Z2ZnpBay0tQ0R6TVZQLVJ4OXpEUkkzU2hyam1mQXBS?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:16:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f809e0beda705203",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Paralympic Games - AP News",
-      "snippet": "Paralympic Games  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPVHdaM1k0eGhEVDZra0dSMXlDbWVZNDF2VXpfcTRldEplbjlueWdSU21MZmpic2NRR2dON1ZzZjJfZHdXZUl1VUhVVnJ0VXkx?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:16:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
