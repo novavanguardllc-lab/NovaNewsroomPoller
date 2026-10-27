@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-27T02:10:09.693Z",
+  "updatedAt": "2026-10-27T02:15:08.688Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.742Z"
+      "lastSuccess": "2026-10-27T02:15:08.970Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.771Z"
+      "lastSuccess": "2026-10-27T02:15:08.911Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.833Z"
+      "lastSuccess": "2026-10-27T02:15:08.989Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.754Z"
+      "lastSuccess": "2026-10-27T02:15:08.871Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.849Z"
+      "lastSuccess": "2026-10-27T02:15:09.192Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.830Z"
+      "lastSuccess": "2026-10-27T02:15:09.209Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.817Z"
+      "lastSuccess": "2026-10-27T02:15:09.151Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:10.020Z"
+      "lastSuccess": "2026-10-27T02:15:09.374Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T02:10:09.941Z"
+      "lastErrorAt": "2026-10-27T02:15:09.404Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.897Z"
+      "lastSuccess": "2026-10-27T02:15:09.388Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.901Z"
+      "lastSuccess": "2026-10-27T02:15:09.451Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.903Z"
+      "lastSuccess": "2026-10-27T02:15:09.387Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.811Z"
+      "lastSuccess": "2026-10-27T02:15:09.230Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.805Z"
+      "lastSuccess": "2026-10-27T02:15:09.332Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.917Z"
+      "lastSuccess": "2026-10-27T02:15:09.445Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.881Z"
+      "lastSuccess": "2026-10-27T02:15:09.145Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.994Z"
+      "lastSuccess": "2026-10-27T02:15:09.616Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.765Z"
+      "lastSuccess": "2026-10-27T02:15:09.393Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.750Z"
+      "lastSuccess": "2026-10-27T02:15:09.370Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.910Z"
+      "lastSuccess": "2026-10-27T02:15:09.410Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T02:10:09.895Z"
+      "lastErrorAt": "2026-10-27T02:15:09.651Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:09.930Z"
+      "lastSuccess": "2026-10-27T02:15:09.509Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:10:10.260Z"
+      "lastSuccess": "2026-10-27T02:15:09.650Z"
     }
   },
   "items": [
@@ -108,6 +108,32 @@
       "publishedAt": "2026-10-27T02:09:42.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1ab5871f34341438",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+      "snippet": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:01:27.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_4525debbd553a444",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Stranded hikers cling to steep California mountain ridge as helicopter crew swoops in",
+      "snippet": "Three people trapped on a Northern California cliff were hoisted by helicopter after a Garmin inReach SOS alerted Sierra County authorities.",
+      "link": "https://www.foxnews.com/us/stranded-hikers-cling-steep-california-mountain-ridge-helicopter-crew-swoops",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:56:49.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -561,6 +587,19 @@
       "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:31:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_687f591224b285de",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "snippet": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:31:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2693,6 @@
       "link": "https://www.cbsnews.com/video/trump-campaigning-red-states-reassure-republican-voters/",
       "imageUrl": null,
       "publishedAt": "2026-10-26T20:58:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e7b8185aeaba55c6",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "UN sounds the alarm over Israel's West Bank military operation",
-      "snippet": "The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced at the weekend. Israel has ordered the military to demolish homes after soldiers were killed there.",
-      "link": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T20:56:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79dc29f1185fdb7d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "What will Lula’s fourth term mean for Brazil?",
-      "snippet": "Luiz Inacio Lula da Silva wins a fourth term as Bolsonaro disputes the result. Can he deliver on his promises of change?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T20:55:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_14588643389307e6",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Former Colombian president accused of exploiting dozens of women for presidential parties",
-      "snippet": "Former Colombian president Gustavo Petro rejected claims he traded public contracts for sex amid broader allegations of corruption and drug trafficking.",
-      "link": "https://www.foxnews.com/world/former-colombian-president-accused-exploiting-dozens-women-presidential-parties",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T20:55:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
