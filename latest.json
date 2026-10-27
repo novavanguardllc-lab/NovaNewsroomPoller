@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T02:45:08.221Z",
+  "updatedAt": "2026-10-27T02:50:08.638Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.473Z"
+      "lastSuccess": "2026-10-27T02:50:08.811Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.517Z"
+      "lastSuccess": "2026-10-27T02:50:08.725Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.502Z"
+      "lastSuccess": "2026-10-27T02:50:08.856Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.373Z"
+      "lastSuccess": "2026-10-27T02:50:08.701Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.593Z"
+      "lastSuccess": "2026-10-27T02:50:08.779Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.717Z"
+      "lastSuccess": "2026-10-27T02:50:08.902Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.495Z"
+      "lastSuccess": "2026-10-27T02:50:09.003Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.521Z"
+      "lastSuccess": "2026-10-27T02:50:08.947Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T02:45:08.797Z"
+      "lastErrorAt": "2026-10-27T02:50:08.902Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.477Z"
+      "lastSuccess": "2026-10-27T02:50:08.875Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.531Z"
+      "lastSuccess": "2026-10-27T02:50:08.917Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.752Z"
+      "lastSuccess": "2026-10-27T02:50:08.892Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.396Z"
+      "lastSuccess": "2026-10-27T02:50:08.909Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.545Z"
+      "lastSuccess": "2026-10-27T02:50:08.965Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.781Z"
+      "lastSuccess": "2026-10-27T02:50:08.921Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.697Z"
+      "lastSuccess": "2026-10-27T02:50:08.945Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.864Z"
+      "lastSuccess": "2026-10-27T02:50:08.998Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.900Z"
+      "lastSuccess": "2026-10-27T02:50:08.821Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.888Z"
+      "lastSuccess": "2026-10-27T02:50:08.853Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.872Z"
+      "lastSuccess": "2026-10-27T02:50:09.021Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T02:45:08.902Z"
+      "lastErrorAt": "2026-10-27T02:50:09.022Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:08.954Z"
+      "lastSuccess": "2026-10-27T02:50:09.087Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T02:45:09.010Z"
+      "lastSuccess": "2026-10-27T02:50:09.342Z"
     }
   },
   "items": [
+    {
+      "id": "story_fe0d68ff46fb44ea",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Moroccan police intercept migrant swimming back towards Ceuta",
+      "snippet": "Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:38:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_89f9d49f68d239af",
       "source": "CBS News",
@@ -122,6 +135,19 @@
       "tier": "major",
       "topic": "sports",
       "corroboratedCount": 4
+    },
+    {
+      "id": "story_bf6ef63acf66bf5e",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+      "snippet": "The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:29:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_28b7c31febcc5c08",
@@ -2503,6 +2529,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d6e3766d67e7d06b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NASCAR racing - AP News",
+      "snippet": "NASCAR racing  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93S0RrRnNPWXYwZnhucjQ5cVJjb0U2TDJCMTdvdGxLbjk1UUFuaDU3Q3Z6b1BGTjJuVmRnSUxOaEtxOVpPN1I0d1pnWW0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T21:42:08.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b8a9a2d6fb41823e",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2654,45 +2693,6 @@
       "link": "https://www.france24.com/en/the-fall-of-el-fasher-one-year-on",
       "imageUrl": "https://s.france24.com/media/display/2c8190e2-d183-11f1-ad8e-bba4eee3dc72/w:1024/p:16x9/DL00006282-VOD-00023652-01.jpg",
       "publishedAt": "2026-10-26T21:26:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a7fe04c4a9630a64",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens - AP News",
-      "snippet": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZZeW5oRDRXSUxqNjJ1cjM0U2lmSTZlc3M1TkVQenFnX19fUGJxN0M4TW95N0taTHJEcjBSLTVVVkExbWJTVUlZeWlzVmd4NUVRUDRhcWNkb29HdUxiNEZfT1NRdk9CX2lSN1M0cVFhdG9YekVBZkluV1VxVnR6ajFiOUx3d3RlWnJtY3ZOWnhFQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:25:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7f8fb1bc03a3a023",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Bessent mocks Obama outside Cheesecake Factory in DC",
-      "snippet": "Treasury Secretary Scott Bessent mocked former President Obama outside a Cheesecake Factory in Washington on Monday after the former president likened recent White House renovations to the famous restaurant chain.  “Well, two things. This i",
-      "link": "https://thehill.com/homenews/administration/6173437-bessent-mocks-obama-cheesecake-factory/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/BondMarketWoesExplained_Stanage_AP_JacquelynMartin.jpg?w=900",
-      "publishedAt": "2026-10-26T21:23:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b290f6ce2c11528",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Analyzing Democratic, Republican strategies to sway voters",
-      "snippet": "The countdown to the midterm elections is on, and both sides of the aisle have deployed strategies to appeal to voters. CBS News contributor Chuck Rocha and former RNC spokesperson Kevin Sheridan break down the different approaches.",
-      "link": "https://www.cbsnews.com/video/analyzing-democratic-republican-strategies-to-sway-voters/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:22:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
