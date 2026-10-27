@@ -1,102 +1,155 @@
 {
-  "updatedAt": "2026-10-27T20:15:08.431Z",
+  "updatedAt": "2026-10-27T20:20:09.374Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.834Z"
+      "lastSuccess": "2026-10-27T20:20:09.652Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.674Z"
+      "lastSuccess": "2026-10-27T20:20:09.473Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.796Z"
+      "lastSuccess": "2026-10-27T20:20:09.539Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.227Z"
+      "lastSuccess": "2026-10-27T20:20:09.625Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.935Z"
+      "lastSuccess": "2026-10-27T20:20:09.485Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.949Z"
+      "lastSuccess": "2026-10-27T20:20:09.633Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.907Z"
+      "lastSuccess": "2026-10-27T20:20:09.457Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.990Z"
+      "lastSuccess": "2026-10-27T20:20:09.663Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.093Z"
+      "lastSuccess": "2026-10-27T20:20:09.722Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.649Z"
+      "lastSuccess": "2026-10-27T20:20:09.571Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.170Z"
+      "lastSuccess": "2026-10-27T20:20:09.687Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.688Z"
+      "lastSuccess": "2026-10-27T20:20:09.585Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T20:15:09.231Z"
+      "lastErrorAt": "2026-10-27T20:20:09.696Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.187Z"
+      "lastSuccess": "2026-10-27T20:20:09.751Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T20:15:08.705Z"
+      "lastErrorAt": "2026-10-27T20:20:09.694Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.928Z"
+      "lastSuccess": "2026-10-27T20:20:09.666Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.669Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-27T20:20:09.587Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.127Z"
+      "lastSuccess": "2026-10-27T20:20:14.946Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.749Z"
+      "lastSuccess": "2026-10-27T20:20:09.611Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:08.866Z"
+      "lastSuccess": "2026-10-27T20:20:09.678Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.250Z"
+      "lastSuccess": "2026-10-27T20:20:09.783Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.418Z"
+      "lastSuccess": "2026-10-27T20:20:09.823Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:15:09.327Z"
+      "lastSuccess": "2026-10-27T20:20:09.850Z"
     }
   },
   "items": [
+    {
+      "id": "story_0e96da27290fe5c8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Exit polls following Israeli elections indicate no clear winner",
+      "snippet": "The official results are due to be published on November 4, more than a week after the vote.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:18:18.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_b509154e4426161d",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "No clear winner in Israeli election, exit polls indicate, as Netanyahu's fate hangs in the balance",
+      "snippet": "Final results are expected in the coming days and may vary from the exit polls.",
+      "link": "https://www.pbs.org/newshour/world/no-clear-winner-in-israeli-election-exit-polls-indicate-as-netanyahus-fate-hangs-in-the-balance",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:11:31.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_78b5d25a4122d132",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
+      "snippet": "Caitlin Clark's absence from the WNBA Finals exposed how the national anthem controversy went unnoticed all season for the Dream and Valkyries.",
+      "link": "https://www.foxnews.com/outkick-sports/wnba-bizarre-national-anthem-controversy-shows-how-much-league-needs-caitlin-clark",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:11:12.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_222d302361142ded",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Israelis vote in record numbers in first national election since the Oct. 7 Hamas massacre",
+      "snippet": "Israel election exit polls show Benjamin Netanyahu's Likud and Gadi Eisenkot's Yashar locked in a fight with neither bloc reaching 61 Knesset seats.",
+      "link": "https://www.foxnews.com/world/israelis-vote-record-numbers-first-national-election-since-oct-7-hamas-massacre",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:10:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_851dcd93c9f47b56",
       "source": "NYT",
@@ -148,6 +201,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_3140916c3637ef72",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+      "snippet": "Lissu, who faces treason charge carrying a possible death sentence, refused food after being denied access to lawyers.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:00:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_74b94f42ad1b9b0b",
@@ -328,6 +394,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T19:51:26.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f3888ebf919abc63",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "New York woman is convicted of Islamic State training after becoming a teen bride to a fighter - AP News",
+      "snippet": "New York woman is convicted of Islamic State training after becoming a teen bride to a fighter  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFF3SlBBbzlmeTV2bGR3UnZLamVFNW5sMVNfc2FFbTBkLWdXWmJQYlB2V0RUc29pemlpRHNLeHd2UktkSlpiRGdtWTFmZGdqOVVITzNnVmx1QmVBTzVoaEp3ejJzWERSeEdQNjhhTjJNUHpXaTQ4N25uclFIMU5CbUxsUGxtN002Y0hoLXlnUWhVZUZkUkRXVnRwVFoxM2w1?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T19:49:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2615,84 +2694,6 @@
       "link": "https://thehill.com/homenews/administration/6175318-trump-midterm-election-interference-honest/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300564801382-e1793116382921.jpg?w=900",
       "publishedAt": "2026-10-27T16:46:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ebd40076714c9de8",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Africa Finance Corporation names Lobito Corridor builders ",
-      "snippet": "The multibillion-dollar development is part of Washington’s attempt to challenge China’s dominance in Africa’s mining export market.",
-      "link": "https://www.semafor.com/article/10/27/2026/africa-finance-corporation-names-lobito-corridor-builders",
-      "imageUrl": "https://img.semafor.com/317a288a2fce0caaf74bccf05d87c0bf33498323-3936x2624.jpg",
-      "publishedAt": "2026-10-27T16:45:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_35decd22288c0797",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Maine banned cellphones in schools to help teens focus and connect. Consensus is it’s working - AP News",
-      "snippet": "Maine banned cellphones in schools to help teens focus and connect. Consensus is it’s working  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVRRTnJ0bF9LYkVFdDZmVlYyV0pPQUtZVEFVbHpUMmxUYl9VdlFZSmN5bkRjeUppRnFSeGllRF9tSHRVNW5YQ3o2LXFUc3JJSm9DMWVxTk04ZXk5TmE4WVB5S1dBeFJubUtmTHhjVzVZbjlra2Nxa2ptWWpOOFJibTdra1d1YjNVNENvU1p5cTdBVGQzWmtfdlB6NXo?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T16:45:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3577e11d6bb53cfd",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Rights' monitors raise concerns over senior UAE diplomat bid for next UN boss - Reuters",
-      "snippet": "Rights' monitors raise concerns over senior UAE diplomat bid for next UN boss  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEo2NDgyNjdJcHpxNTlUcGpCRURGc2JWTjhjSUx0aHBYUEhCcVlTajg1QjRhczNUeVBRS0JURTlMYU9VMGtUVks5MnBCal8wOWI5TTA1eFA4SU8xZDBHanZ2eUZSTVMwbWVVQTRpS2VWNW5STjRVYjBsVHBKRGZEaG1nRERnS1ExTGxad1NfUllEc28tc2k2NnpiU0l6V0h5dF83WmswWUV5YWpaM1Z0UENqTlpFVFFRanI0Z21aaFZ5cGpD?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T16:40:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_60b91f566c8e6b59",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "House report says NYC prosecutors tailored plea deals to shield illegal immigrants from deportation",
-      "snippet": "House Judiciary Committee claims New York City district attorneys trained prosecutors to craft immigration-safe plea deals for noncitizen defendants.",
-      "link": "https://www.foxnews.com/politics/house-report-nyc-prosecutors-tailored-plea-deals-shield-illegal-immigrants-deportation",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T16:39:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8615912055b4de14",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Brazil monitors borders amid fears Flávio Bolsonaro may flee",
-      "snippet": "Brazil's Federal Police were monitoring border crossings Tuesday amid suspicions that Sen. Flávio Bolsonaro may attempt to leave the country.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/10/27/latam-brazil-flavio-bolsonaro-watched/8161793115511/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/8161793115511/2026/i/17931156193688/v1.5/Brazil-monitors-borders-amid-fears-Flvio-Bolsonaro-may-flee.jpg",
-      "publishedAt": "2026-10-27T16:38:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_115a2445647010de",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Police bodycam debunks ‘too good’ claim as parents of 3-year-old soccer prodigy push GoFundMe",
-      "snippet": "Bodycam footage from Winter Park police reveals why officers were actually called to a youth soccer game, contradicting the family's viral GoFundMe claims.",
-      "link": "https://www.foxnews.com/outkick-sports/police-bodycam-debunks-too-good-claim-parents-3-year-old-soccer-prodigy-push-gofundme",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T16:36:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
