@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-27T08:15:08.407Z",
+  "updatedAt": "2026-10-27T08:20:08.627Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.565Z"
+      "lastSuccess": "2026-10-27T08:20:08.702Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.815Z"
+      "lastSuccess": "2026-10-27T08:20:08.788Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.887Z"
+      "lastSuccess": "2026-10-27T08:20:09.101Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.625Z"
+      "lastSuccess": "2026-10-27T08:20:08.851Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.786Z"
+      "lastSuccess": "2026-10-27T08:20:08.746Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.891Z"
+      "lastSuccess": "2026-10-27T08:20:08.842Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.864Z"
+      "lastSuccess": "2026-10-27T08:20:08.908Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.930Z"
+      "lastSuccess": "2026-10-27T08:20:08.847Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.665Z"
+      "lastSuccess": "2026-10-27T08:20:08.866Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.726Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-27T08:20:08.860Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.024Z"
+      "lastSuccess": "2026-10-27T08:20:08.945Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.710Z"
+      "lastSuccess": "2026-10-27T08:20:08.827Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.043Z"
+      "lastSuccess": "2026-10-27T08:20:08.821Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.670Z"
+      "lastSuccess": "2026-10-27T08:20:08.863Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.950Z"
+      "lastSuccess": "2026-10-27T08:20:08.954Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.064Z"
+      "lastSuccess": "2026-10-27T08:20:09.029Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T08:15:08.742Z"
+      "lastErrorAt": "2026-10-27T08:20:08.851Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:08.922Z"
+      "lastSuccess": "2026-10-27T08:20:08.874Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.193Z"
+      "lastSuccess": "2026-10-27T08:20:09.069Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.109Z"
+      "lastSuccess": "2026-10-27T08:20:08.966Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T08:15:09.081Z"
+      "lastErrorAt": "2026-10-27T08:20:08.960Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.251Z"
+      "lastSuccess": "2026-10-27T08:20:09.076Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:15:09.212Z"
+      "lastSuccess": "2026-10-27T08:20:09.087Z"
     }
   },
   "items": [
@@ -275,6 +276,19 @@
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:08:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d6740ad40e1a442a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "AP investigation: Documents support claim ICE has detained a mentally ill US citizen since January - AP News",
+      "snippet": "AP investigation: Documents support claim ICE has detained a mentally ill US citizen since January  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGZoOE9qaHRaSjhtT3RISTZ6NUJBQnNQclNOYUFxaU1xemhBOVhqQ20wSGFQNE9DaTFaQnd5UXJSbEJTZ0tQc1BpcDl4NmNqTFp3MGRkdmUxMGVVUWp6a0F5SDZ1aEdzV2JvQjVsUFUtODlBZ2VuQlY5SjRqTDJmbzdDSzhjZVZMVy05ZVYzdXR2TndKTGY5NnlWT2NGV09BeExhSw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T07:08:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2681,19 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:27:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7e19bba61ada9b2a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "LA residents sue city over Hollywood sign crowds: \"Reached its peak\"",
-      "snippet": "A group of residents who live near the world-famous Hollywood Sign, which attracts millions of visitors from around the world every year, have filed public nuisance lawsuits against the city of Los Angeles, asking officials to do more.",
-      "link": "https://www.cbsnews.com/losangeles/news/hollywood-sign-los-angeles-residents-file-public-nuisance-lawsuit/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:24:50.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
