@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-27T08:30:11.853Z",
+  "updatedAt": "2026-10-27T08:35:05.977Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.095Z"
+      "lastSuccess": "2026-10-27T08:35:06.058Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.451Z"
+      "lastSuccess": "2026-10-27T08:35:06.056Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.776Z"
+      "lastSuccess": "2026-10-27T08:35:06.414Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.073Z"
+      "lastSuccess": "2026-10-27T08:35:06.061Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.272Z"
+      "lastSuccess": "2026-10-27T08:35:06.035Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.111Z"
+      "lastSuccess": "2026-10-27T08:35:06.201Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.615Z"
+      "lastSuccess": "2026-10-27T08:35:06.154Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.197Z"
+      "lastSuccess": "2026-10-27T08:35:06.119Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.153Z"
+      "lastSuccess": "2026-10-27T08:35:06.082Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.136Z"
+      "lastSuccess": "2026-10-27T08:35:06.133Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.417Z"
+      "lastSuccess": "2026-10-27T08:35:06.199Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.177Z"
+      "lastSuccess": "2026-10-27T08:35:06.093Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.653Z"
+      "lastSuccess": "2026-10-27T08:35:06.136Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.116Z"
+      "lastSuccess": "2026-10-27T08:35:06.109Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.515Z"
+      "lastSuccess": "2026-10-27T08:35:06.232Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.697Z"
+      "lastSuccess": "2026-10-27T08:35:06.486Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T08:30:12.210Z"
+      "lastErrorAt": "2026-10-27T08:35:06.203Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.474Z"
+      "lastSuccess": "2026-10-27T08:35:06.158Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.594Z"
+      "lastSuccess": "2026-10-27T08:35:06.271Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.674Z"
+      "lastSuccess": "2026-10-27T08:35:06.281Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T08:30:12.778Z"
+      "lastErrorAt": "2026-10-27T08:35:06.234Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.806Z"
+      "lastSuccess": "2026-10-27T08:35:06.302Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-10-27T08:30:12.822Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-27T08:35:16.002Z"
     }
   },
   "items": [
@@ -184,6 +185,19 @@
       "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:49:53.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e48f709161f1ce82",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says - Reuters",
+      "snippet": "Attackers kill 60 people in Ethiopia's conflict-hit Oromiya region, Orthodox church says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGtvS3dNTTA0X053NTVISG1ZNDktWDFhR3YtdEM2ODVjd0NiSEVBclZMazRXakZyVmoyVndQQ2Z2Y2VIcExKMjJnMXVvUkVQUDZsOGx1SDJZbkh2X3o4VFJHenpqQWkzWDVzM1A5emt5SndWUGt0LWdsUlU4a0phcUlEQ01ITGRSMDI3MVlPOE5YdTl3NmlPbnZvaExtWTlsMDdZclF3TzY5VzZFR1pSOEdHLTVxUE55WkcxTWdFa3BSY1hoQnc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T07:47:43.000Z",
       "tier": "major",
       "topic": "sports",
       "corroboratedCount": 1
@@ -735,6 +749,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_12864f7f071ffef6",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Israel heads to polls for pivotal election defined by security and democracy",
+      "snippet": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+      "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T05:45:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0bf5bcb6f9fe2851",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -848,6 +875,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T05:13:57.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_54dec6a4e5b76e4f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Thousands evacuate India's eastern coast ahead of Cyclone Arnab - Reuters",
+      "snippet": "Thousands evacuate India's eastern coast ahead of Cyclone Arnab  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTNPb2Z0WW9ZaHZ4QmJkc0J0dDlxcnR5d2xEWHU3TFpLMlBRMlZNMmtrU0I0Q3pobXR4ZGZ5dVpsOGV1TWJMejV3TTVqZDNrcXdQY3VWSHhsRkVmSFhpU19Ya0FGRDJXclUteFpyWldRZlBnZVA2eWtqaXNJOUV2T29mMGw5RUc5UmtXbXJscHhEcld0WlNuakNkNlFHMFRhUFlPdTZTRUQteTZLdDJHaWpOX2s1c28?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T05:08:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1120,6 +1160,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkZSOUw3U0tLdEdHZUF4ckFzWXBYOTVzSThCRFU4a1B5dWFXSG9jLTNZanJGOXo1Q0ktS3FFeUpJMEpUMkhPOVl0RTVPalVrYlZOS0hGM09ISWxyMmZuVUE0dmp6RTEzZHA1N3BiUHRYbUw4eUw5WTdOZm9ZdWo3ZjBoQ1B4WlVqbVdMYW85TkFSSFY2SFI4MHA1OS1ZX0t6Z191MGEwRUkwOHRxQmtlYQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-27T04:07:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_18ae423f03707d6d",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "US futures and Asian stocks advance following a rally on Wall Street - AP News",
+      "snippet": "US futures and Asian stocks advance following a rally on Wall Street  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkFDb1lyemxMSmp3U1lrVDd0a2pQZUhWT25KcmI4S1hCbkVyMm1wdVhfSHp3VXpfejFTc0VTeUlCNTNzVHRvMHBfQm43UUVOOS12anFRSGphX1pFS2V2Q1FPVm05ZHd1Q3JjdUZWWm1LWVphakxzLURUc1pjbENNbTVQS1o1ZTZmUDhMZ0RYaTdabW9F?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T04:05:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2048,6 +2101,19 @@
       "corroboratedCount": 5
     },
     {
+      "id": "story_167d0964e22cd241",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "China's industrial profit growth picks up amid deepening economic divergence - Reuters",
+      "snippet": "China's industrial profit growth picks up amid deepening economic divergence  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHdJdXJZYTVUYzhMU3FQMV9NQklLQTJsck9tSG5tV09VNGxqMFRSZ3NRRU51aXhpNUw1YlZnU3FjU3pIUFBpSHZ2QjdpbEpRcnpubFlMRi1DVXV1bnFoak9lVmJtX3FvaUNBekxPTEloSXQtWi1PZ2pDV3g0Yk1PT2NQYmdNNFZnNDVWdGQ3bE5CWnVUcllYQmFXTjAtNzl6SjV6Y3FOMlQ4dFZrMjQxd21meGNLcjVBcXc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:52:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5d92c10501088a06",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2628,71 +2694,6 @@
       "link": "https://www.foxnews.com/politics/dhs-suspends-visa-free-travel-program-chinese-nationals-amid-birth-tourism-security-concerns",
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:37:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7129039b71518a1b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:37:47.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_65fd74f3a543cdd2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive - Reuters",
-      "snippet": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOamRMeXF1dF9xaFlNcFlIalRnaGZBQUs2SUwtNThkNExtMzBQa2dYdExLbnJVckRGM3BpMWpjWkhGbEdQUGFHQ1FOWER6SUhadU04ams5RkNXR0tOVDdRTkExX2xnRWhCd3gxUl9icTE4Sk5nSHZFVU1vXzVidVRhOEdESWJCRGR2M3Z3NDVVY2JjZ1dQdjRGelQwTTVnakd6ckIzd2x4bEo5VnFnTjNRaHdNajdIZElQb2pnampYMDZnZW81OTR0NQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:37:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4af9eed6da2baa4c",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump fires back at Obama’s Cheesecake Factory jab",
-      "snippet": "President Trump fired back at former President Obama during a Monday night rally in Corinth, Miss., after the former commander in chief likened Trump’s White House renovations to a Cheesecake Factory while on the campaign trail over the wee",
-      "link": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300002151778-e1793060967725.jpg?w=900",
-      "publishedAt": "2026-10-27T00:33:45.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_a46dcda1cdf587be",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Romania says Russia-run sabotage network set fire near weapons factory",
-      "snippet": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:33:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_203ca7599457d7d0",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Vance announces $57M grant boost for meatpacking facilities",
-      "snippet": "Vice President Vance announced Monday that the Agriculture Department is investing millions of dollars in new grants toward meatpacking facilities. He made the announcement while campaigning for Sen. Roger Marshall (R) in Kansas. The vice p",
-      "link": "https://thehill.com/homenews/administration/6173839-vance-announces-meatpacking-grants/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26299844728019-e1793061137579.jpg?w=900",
-      "publishedAt": "2026-10-27T00:33:04.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
