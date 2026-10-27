@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-27T03:40:08.671Z",
+  "updatedAt": "2026-10-27T03:45:07.870Z",
   "sourceStatus": {
-    "Fox News": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.801Z"
-    },
-    "PBS": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.877Z"
-    },
-    "NPR": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.819Z"
-    },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.755Z"
+      "lastSuccess": "2026-10-27T03:45:08.007Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.984Z"
+      "lastSuccess": "2026-10-27T03:45:08.067Z"
+    },
+    "AP": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.128Z"
+    },
+    "PBS": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.146Z"
+    },
+    "Fox News": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.169Z"
+    },
+    "NPR": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.225Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.996Z"
+      "lastSuccess": "2026-10-27T03:45:08.259Z"
     },
-    "France24": {
+    "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.999Z"
+      "lastSuccess": "2026-10-27T03:45:08.267Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.858Z"
+      "lastSuccess": "2026-10-27T03:45:08.284Z"
+    },
+    "France24": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.305Z"
+    },
+    "ProPublica": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.384Z"
+    },
+    "NYT": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.426Z"
+    },
+    "BBC": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.431Z"
+    },
+    "Sky News": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.440Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.466Z"
+    },
+    "Reuters": {
+      "online": true,
+      "lastSuccess": "2026-10-27T03:45:08.488Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T03:40:09.035Z"
-    },
-    "Sky News": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.047Z"
-    },
-    "NYT": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.045Z"
-    },
-    "BBC": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.059Z"
-    },
-    "UPI": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.884Z"
-    },
-    "DW": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.905Z"
+      "lastErrorAt": "2026-10-27T03:45:08.502Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.057Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.963Z"
+      "lastSuccess": "2026-10-27T03:45:08.542Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.222Z"
-    },
-    "AP": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.250Z"
-    },
-    "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-10-27T03:40:08.845Z"
+      "lastSuccess": "2026-10-27T03:45:08.605Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.068Z"
+      "lastSuccess": "2026-10-27T03:45:08.626Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T03:40:09.070Z"
+      "lastErrorAt": "2026-10-27T03:45:08.639Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.077Z"
+      "lastSuccess": "2026-10-27T03:45:08.702Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T03:40:09.397Z"
+      "lastSuccess": "2026-10-27T03:45:08.783Z"
     }
   },
   "items": [
+    {
+      "id": "story_f75de8b558f895e0",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  Record early voting in key states as Trump, Obama appeal to voters on campaign trail",
+      "snippet": "President Trump is campaigning in traditionally red states as voters worry about rising prices.",
+      "link": "https://abcnews.com/video/137585748/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T03:39:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_09456571b6e06c3f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Australian politics live: Coalition demands ‘straight answer’ from Albanese on $6m golf grant as question time starts; Labor promises ‘swift response’ on MP safety",
+      "snippet": "Follow the day’s news live\n\nGet our breaking news email, free app or daily news podcast\n\nPolitical debate should be ‘robust but respectful’, Anne Ruston says\nA day after MPs addressed the House of Representatives paying tribute to the indep",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T03:34:46.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_ac308669bd75f4ce",
       "source": "Fox News",
@@ -109,6 +135,19 @@
       "tier": "routine",
       "topic": "sports",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_fea443726a6a126f",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Jay-Z  announced as Super Bowl LXI halftime show performer",
+      "snippet": "Jay-Z is taking the Super Bowl LXI halftime stage. Super Bowl LXI will take place on Sunday, Feb. 14, 2027, at SoFi Stadium in Inglewood, California.",
+      "link": "https://abcnews.com/GMA/Culture/jay-announced-super-bowl-lxi-halftime-show-performer/story?id=137415711",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T03:20:47.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 4
     },
     {
       "id": "story_74de870718014159",
@@ -132,9 +171,9 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-27T03:17:40.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_a88b119908fa5ba5",
@@ -147,6 +186,32 @@
       "publishedAt": "2026-10-27T03:15:06.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3200b12adef9db7c",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Jay-Z to perform at Super Bowl half-time show",
+      "snippet": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T03:10:55.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_31aab4622c25f1bb",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump campaigns in Mississippi, highlighting Republicans’ challenges - AP News",
+      "snippet": "Trump campaigns in Mississippi, highlighting Republicans’ challenges  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkZHeDk4QUpKb1pUNFJwT3FEMEpzSGdqUjdJcGdNTFM3ZkRMU3hnbkNkTHlRSjl4dVNwR3JyZTJEdVdZR0Jaa1lPNmpHenlpNzVlaVdRYlp1UlczRFpKLVQ4bmNJQ2JSMjUtUUl4U19wZHhCUGhpT2Yxdkh0enhLakhoZy1YZk1MUTdLcERFVGZhdEIz?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T03:08:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -170,10 +235,10 @@
       "snippet": "The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
       "link": "https://www.cbsnews.com/news/jay-z-super-bowl-halftime-show-headliner/",
       "imageUrl": null,
-      "publishedAt": "2026-10-27T03:03:46.000Z",
+      "publishedAt": "2026-10-27T03:03:00.000Z",
       "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 6
+      "corroboratedCount": 4
     },
     {
       "id": "story_68bad04a4c998f1b",
@@ -189,6 +254,32 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_b75b87e4f35032ab",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
+      "snippet": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:57:44.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_556fbbe2f2f8efd9",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Eric Bauza, actor who voiced Bugs Bunny and Daffy Duck, dies at 46",
+      "snippet": "Eric Bauza, the Emmy-winning actor who voiced iconic \"Looney Tunes\" characters Bugs Bunny and Daffy Duck, died on Sunday, according to his manager. He was 46.",
+      "link": "https://www.cbsnews.com/news/eric-bauza-death-at-46-bugs-bunny-daffy-duck-looney-tunes/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:54:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_85b97442e79b539d",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -202,23 +293,23 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3200b12adef9db7c",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Jay-Z to perform at Super Bowl half-time show",
-      "snippet": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "id": "story_89f9d49f68d239af",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Judge continues to block Trump from cutting down trees at D.C. golf course",
+      "snippet": "\"The Court earlier stated, 'I am not the Lorax. I do not speak for the trees,'\" U.S. District Judge Ana Reyes wrote. \"The Court still does not speak for the trees. It speaks only for the rule of law.\"",
+      "link": "https://www.cbsnews.com/news/judge-trump-trees-dc-golf-course-lorax/",
       "imageUrl": null,
-      "publishedAt": "2026-10-27T02:43:25.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 6
+      "publishedAt": "2026-10-27T02:49:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_12bda8609c193e90",
       "source": "BBC",
       "sourceColor": "#6A57B8",
-      "headline": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "headline": "Jordan carries out deadly strike in Syria in retaliation for church attack",
       "snippet": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -241,6 +332,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ac2dc021eefeb33a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics - AP News",
+      "snippet": "A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFhjem5hOW1XbXZZTnJESmMxeWlFdG1YTGtvelljekZnNXktbkZRdlJCT1hZZkpqaG8zdUoxZTVWckQ1MHhiYVNfc2VhckpsaF8xd0ozWm5zbWpGUjhidklQcTZQejdUM0lSR3BNSmdxZG5xb0sxdVhUaWd0Ukplb1lfemozX3A5Q1UwcDFTTWFZS0hYano2WmJWNjA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:37:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_783b45db32b82b5f",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -249,22 +353,22 @@
       "link": "https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26283691465336-e1792430102284.jpg?w=900",
       "publishedAt": "2026-10-27T02:36:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_89f9d49f68d239af",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Judge continues to block Trump from cutting down trees at D.C. golf course",
-      "snippet": "\"The Court earlier stated, 'I am not the Lorax. I do not speak for the trees,'\" U.S. District Judge Ana Reyes wrote. \"The Court still does not speak for the trees. It speaks only for the rule of law.\"",
-      "link": "https://www.cbsnews.com/news/judge-trump-trees-dc-golf-course-lorax/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T02:34:54.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_d0238b4d6410206f",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Appeals court declines to step in on Trump administration's California voting case",
+      "snippet": "Appeals court rejects DOJ request for immediate order demanding California segregate 20,000 mail-in ballots from those Trump administration says are likely non-citizens.",
+      "link": "https://abcnews.com/Politics/appeals-court-rejects-trump-admins-voting-lawsuit-california/story?id=137586284",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:35:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_260ed17004dca3e3",
@@ -291,6 +395,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_aec320107445879e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Politics - AP News",
+      "snippet": "Politics  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:23:05.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_28b7c31febcc5c08",
@@ -322,7 +439,7 @@
       "id": "story_2a74eb6e2a406632",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Beau Lamarre-Condon claims friend ‘flat-out lied to police’ in accused’s first statement in murder trial",
+      "headline": "Beau Lamarre-Condon tells jury he wanted to report deaths but friend encouraged him to dispose of bodies",
       "snippet": "NSW police officer accused of murdering Jesse Baird and Luke Davies tells court he wanted to do ‘right thing’ by their families\n\nFollow our Australian politics live blog for latest updates\n\nGet our breaking news email, free app or daily new",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/beau-lamarre-condon-claims-friend-lied-to-police-first-statement-to-trial-ntwnfb",
       "imageUrl": null,
@@ -358,17 +475,30 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_be47e3a5b2598749",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Virginia - AP News",
+      "snippet": "Virginia  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZNE91SFYwcWcwVDY0TE1rckpKNXZPX09IX3pjOExGQnNwX21CNG1Nd3JxWnV4VWREZzNUSWtHaTdNdjAyQnc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:14:37.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a2d4ffdae758bc46",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
-      "headline": "Jay-Z to headline Super Bowl Halftime Show  ",
-      "snippet": "Jay-Z has helped select artists for the last several Super Bowl Halftime shows.",
+      "headline": "Jay-Z to headline Super Bowl halftime show  ",
+      "snippet": "Jay-Z has helped select artists for the last several Super Bowl halftime shows.",
       "link": "https://www.nbcnews.com/pop-culture/music/jay-z-headline-super-bowl-halftime-show-rcna605847",
       "imageUrl": null,
       "publishedAt": "2026-10-27T02:14:21.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 3
+      "corroboratedCount": 5
     },
     {
       "id": "story_06a963b4a390c824",
@@ -397,16 +527,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fea443726a6a126f",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Jay-Z  announced as Super Bowl LXI halftime show performer",
-      "snippet": "Jay-Z is taking the Super Bowl LXI halftime stage. Super Bowl LXI will take place on Sunday, Feb. 14, 2027, at SoFi Stadium in Inglewood, California.",
-      "link": "https://abcnews.com/GMA/Culture/jay-announced-super-bowl-lxi-halftime-show-performer/story?id=137415711",
+      "id": "story_5d88f54711e06d84",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Kane becomes first Englishman in 25 years to win Ballon d’Or and Putellas wins her third - AP News",
+      "snippet": "Kane becomes first Englishman in 25 years to win Ballon d’Or and Putellas wins her third  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFRV0NrZERLS0JsYi0ybFV2UTh0bU82S1NxOW11NUE4U01CcVhlcWxqN0FQZmRRTk1OV3ZneGVMWW41ZksycldfX21HcTUtRmJHYjIxWC1JM0pJczRNX3BxbkctaDlVdnlNT0VvOUwxQWgwRzFYY3UtdmJhR1JyT19mdkY1WDdoSGFpWFdBb3JoemtYeFNsR2REVEZld1M5YU56d1l3?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-27T02:09:42.000Z",
-      "tier": "routine",
-      "topic": "sports",
+      "publishedAt": "2026-10-27T02:04:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -436,6 +566,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0b09811305104dcd",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
+      "snippet": "This live blog is now closed.\n\nWhat are the US midterm elections and why do they matter?\n\n\nSign up for Breaking News US email\n\nIn a post to social media on Monday, Ukrainian president Volodymyr Zelenskyy said that Ukraine was facing dwindli",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:55:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_956827e535fa3f71",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Dollar General overcharged people at checkout for years, FTC says",
+      "snippet": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities.",
+      "link": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:53:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_fb6215d6dc7a77c4",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -446,7 +602,7 @@
       "publishedAt": "2026-10-27T01:52:00.000Z",
       "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 2
+      "corroboratedCount": 5
     },
     {
       "id": "story_5d92c10501088a06",
@@ -475,14 +631,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_aec320107445879e",
+      "id": "story_421903a479cf3ab9",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Politics - AP News",
-      "snippet": "Politics  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "headline": "Appeals court declines to block California from counting 20,000 disputed ballots - AP News",
+      "snippet": "Appeals court declines to block California from counting 20,000 disputed ballots  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1E5VGNUTXoyTi1QbzBfRzRvaHRpQmZEeUE2YU9XclBCUTVVNFBWVngzNExHalRvQ2N0c0VlaVRnSTdrQTFNaXdyaHBWOHJjRXh3RlhQak02cUdJNTgydEx2Tms2Y04xSWI3bFNJU0RwbTZ0bHY3ekU1VlVGTnhWUEtjdkZqUlFLU0w1VU9IVTl2Z2c1b01KSUFRcnBCWllIbEZJXzk3aHNfQ0tiVkNuRWpyRmc3Zw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-27T01:45:00.000Z",
+      "publishedAt": "2026-10-27T01:49:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -491,14 +647,14 @@
       "id": "story_b9b493b73bbcd5f0",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
-      "headline": "Ceasefire brokered by Melania Trump comes into effect in Russian-occupied town ‘on the brink of disaster’",
-      "snippet": "A rare humanitarian ceasefire brokered by First Lady Melania Trump to save people trapped inside a Russian occupied Ukrainian town is set to come into force.",
+      "headline": "Ceasefire brokered by Melania Trump goes into effect in Russian-occupied town ‘on the brink of disaster’",
+      "snippet": "The agreement would “temporarily stop all military action in Oleshky to allow for humanitarian aid to enter and to prepare a civilian evacuation,” the White House said.",
       "link": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
       "imageUrl": null,
       "publishedAt": "2026-10-27T01:42:33.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_dbbd0017ae5a2fd8",
@@ -522,9 +678,48 @@
       "link": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-27T01:39:00.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7b349492b8abe9e9",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+      "snippet": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:36:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9cebc3e0578c0875",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "snippet": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:34:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b8a9a2d6fb41823e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump administration attempting to prosecute former FBI Director James Comey again - AP News",
+      "snippet": "Trump administration attempting to prosecute former FBI Director James Comey again  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVFhiQXJoSHJjeFJsN3VtWEpEbTEzcktHWnRFU0ZpSW02MXJQcVpWaUEyMW81U19Ea2lBQnA2Nk10QlI5cTlMUGhuZG9ZSDlQVWh3OEV4STB2WXYwc2FCelZRak5PV1hCYmNHWGFCLWhMSUt4WFRKVFlaeldwdExWaXlHR210NllvNFR3ekxNakxOWVVuR08xU0lSSUo?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:34:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_62467ba41f3ef98a",
@@ -540,19 +735,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b75b87e4f35032ab",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
-      "snippet": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T01:29:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_7aef1a59265f6456",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -561,9 +743,9 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-washington-ballots-aside-noncitizen-voters",
       "imageUrl": null,
       "publishedAt": "2026-10-27T01:26:57.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_51c648957f28a205",
@@ -592,6 +774,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5effbc06f4be6aee",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
+      "snippet": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0EyQnBGR2diemlHNFhYQXNlelZIRmRZeW13MjhVZFRwX2prOUtIenZvSXdZOF9RbEtOUHZicExLUnFSd0pwX2VBRVd2YzRZZDBaSjVjc2ttVUlsTUxJbHk3c213OTdrM01XODJaSnRVenJUS2R6M2Zvbm1PX3YxNHZ0dUJPOTNud2VqSEVqdDVUOGR3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:19:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_51d8330b6245d225",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -618,6 +813,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_dbf06332b3db4c15",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Ohio - AP News",
+      "snippet": "Ohio  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xOXluQWtwTGprc2dkRnBmUEJuU1BmWjlsNFNmb1pZRF9NYTJySnF0WTVnTDZDZEZETXZHQkpZdWU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:12:47.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8019a2817ff78494",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -639,6 +847,19 @@
       "link": "https://www.cbsnews.com/video/7-year-old-yoga-instructor-sets-record/",
       "imageUrl": null,
       "publishedAt": "2026-10-27T01:10:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0df1933a55670f0e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "These factors could decide Netanyahu's fate in Israel's election",
+      "snippet": "Israelis are about to vote to choose their next government. The race is wide open, and Benjamin Netanyahu's political fate could hinge on a couple key factors.",
+      "link": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:09:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -683,19 +904,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5effbc06f4be6aee",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington - AP News",
-      "snippet": "Judge extends court-ordered block on Trump’s renovation plans for public golf course in Washington  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0EyQnBGR2diemlHNFhYQXNlelZIRmRZeW13MjhVZFRwX2prOUtIenZvSXdZOF9RbEtOUHZicExLUnFSd0pwX2VBRVd2YzRZZDBaSjVjc2ttVUlsTUxJbHk3c213OTdrM01XODJaSnRVenJUS2R6M2Zvbm1PX3YxNHZ0dUJPOTNud2VqSEVqdDVUOGR3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T01:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_eea9c1b13236a71b",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -735,6 +943,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_92c6c2fc55785d10",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "DOJ takes steps to charge James Comey again",
+      "snippet": "The DOJ took steps to charge James Comey with leaking information earlier this month, in its third attempt to bring criminal charges against the former FBI director and Trump foe.",
+      "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:03:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_6c15f2a35f7a0f63",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -756,19 +977,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-27T01:01:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3fdb4c720e6fb1b8",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Manhunt underway for escaped murderer in Tennessee",
-      "snippet": "Jacob Morley, a convicted murderer, escaped from a medium security prison in Tennessee over the weekend. Authorities are asking local residents to check their home security cameras for any sign of the escapee. Tom Hanson reports.",
-      "link": "https://www.cbsnews.com/video/manhunt-underway-escaped-murderer-tennessee/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T01:00:36.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
@@ -782,9 +990,22 @@
       "link": "https://www.foxnews.com/media/white-house-defends-trump-after-archbishop-calls-prayer-moment-manipulated-ahead-midterms",
       "imageUrl": null,
       "publishedAt": "2026-10-27T01:00:00.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3fdb4c720e6fb1b8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Manhunt underway for escaped murderer in Tennessee",
+      "snippet": "Jacob Morley, a convicted murderer, escaped from a medium security prison in Tennessee over the weekend. Authorities are asking local residents to check their home security cameras for any sign of the escapee. Tom Hanson reports.",
+      "link": "https://www.cbsnews.com/video/manhunt-underway-escaped-murderer-tennessee/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T01:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_1001200c0765e703",
@@ -813,6 +1034,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a0719666802b4db0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Flood-weary US Southwest eyes forecast for more rain - AP News",
+      "snippet": "Flood-weary US Southwest eyes forecast for more rain  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTg2ZTlKdVdmc1RKN1FvSWp1YlVVa3E0TEJxc2FUa1F5bTlnSnFMMkF5ZWlfa0V2NkVQWVNTRGdLQ0tQTWVWNWpkSVZ1YmRSU1RyX0N3U0R3OWg4c0lwczBPQ1dMMG42bjdadmNlRGR3MnNta3hRcXU2UFhma1E1WjF6U3VmenMwME1HRklRSUIySGJ1R0ZaeUtvQllQbWt0Yzk2NEJQc3Y?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:55:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2ca980370244dac4",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -822,19 +1056,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:54:03.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d253a745599a2cd9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing - Reuters",
-      "snippet": "USTR Greer tells EU that loan to Airbus threatens trade truce on aircraft financing  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRWRKSlpLR3l4cENjelFuU0tPXzRLc21PTTZ4QUpCNHBnZDZ0MW85NFVpYnlvLXhiaFQ3SnZ3aDhEZXRfOXg3LURobjdQWHAtSGNKalZMcVNhWGRCeDRpYzVYb1BTOXZydlFJVVFqbXRaWDlsbUozS0lSc1BsUDdhaWRuV3dpUDFFT3VXRjg4cklMT3NvOEs4T1hOX0lvUC1Yek5kcXd0TmhIaUItS3RVRFUxejN1amZIMmJmcHE3M0k5VGVGOGs3LU5GTWk3R0ZCNzBURk41dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:54:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -852,6 +1073,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cb731b2388fa72f9",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+      "snippet": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:45:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_50fb9d1e3d641899",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -862,6 +1096,19 @@
       "publishedAt": "2026-10-27T00:37:54.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7129039b71518a1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:37:47.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -882,13 +1129,13 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Trump fires back at Obama’s Cheesecake Factory jab",
-      "snippet": "President Trump fired back at former President Obama during a Monday night rally in Mississippi after his predecessor likened Trump’s White House renovations to a Cheesecake Factory while on the campaign trail over the weekend.  “Donald Tru",
+      "snippet": "President Trump fired back at former President Obama during a Monday night rally in Corinth, Miss., after the former commander in chief likened Trump’s White House renovations to a Cheesecake Factory while on the campaign trail over the wee",
       "link": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300002151778-e1793060967725.jpg?w=900",
       "publishedAt": "2026-10-27T00:33:45.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_a46dcda1cdf587be",
@@ -908,7 +1155,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Vance announces $57M grant boost for meatpacking facilities",
-      "snippet": "Vice President Vance announced Monday that the Agriculture Department is announcing millions of dollars in new grants toward meatpacking facilities. He made the announcement while campaigning for Sen. Roger Marshall (R) in Kansas. He said t",
+      "snippet": "Vice President Vance announced Monday that the Agriculture Department is investing millions of dollars in new grants toward meatpacking facilities. He made the announcement while campaigning for Sen. Roger Marshall (R) in Kansas. The vice p",
       "link": "https://thehill.com/homenews/administration/6173839-vance-announces-meatpacking-grants/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26299844728019-e1793061137579.jpg?w=900",
       "publishedAt": "2026-10-27T00:33:04.000Z",
@@ -943,6 +1190,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3cf6f42ee646f074",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
+      "snippet": "Newsom accuses Trump of ‘assault on democracy’ as DoJ claims 20,000 registered voters in state are non-citizens\nA US federal appeals court rejected the Trump administration’s move to block California from counting the ballots of 20,000 regi",
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:31:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_687f591224b285de",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -956,6 +1216,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_bb4405b640b785ac",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+      "snippet": "Russia-Ukraine | Breaking News & Live Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:31:06.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f5d314cdb5508e78",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Carney says Trump moving closer to Canada’s trade demands as midterms loom - AP News",
+      "snippet": "Carney says Trump moving closer to Canada’s trade demands as midterms loom  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUloWF9CMm92M2l6X1Y4c3dNWS1TQ0tOZkdMekFPbEk2UFJfYWVNR2o1ZHJTaThZT2lPc1FHNXNVSDhMaXBlZ3J5ZjBvcHpqMlNENU9hWmtSYy1HOENVZks1NkszNTlja0NyeHhQMFp5dER0ZG5ocWxOT3JJQzh3VDRtXzVmYUJ3bU5RZldfb2lBMm45YVdJVlRVNVhYa0NjQWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:27:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7e19bba61ada9b2a",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -964,6 +1250,19 @@
       "link": "https://www.cbsnews.com/losangeles/news/hollywood-sign-los-angeles-residents-file-public-nuisance-lawsuit/",
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:24:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_26d93cb6b3d32b7c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
+      "snippet": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:24:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1073,6 +1372,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3417322f9cf5e311",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Quirky Tropicana Field isn’t a pretty ballpark, but the Rays love their home - AP News",
+      "snippet": "Quirky Tropicana Field isn’t a pretty ballpark, but the Rays love their home  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0JIYWRNdlZXYlJLNnBiMnJHNDBjYzVqd1lhQjhIaG1YUm1HNmlJd05RNVhiNUFCbk5BLVhPUWNVNnlYLWFJWk5qeFgyT2txbnh1SEdUdmlfc3J1aE5oSWRtakNSU19UbFJjTnFXZnJ1aDVlQWxCMzA4NUdmMlFRQXJjLUtKQTZmM252V3gxQVBfZ0ZOR05CQ2t2NHZoNXQ1QWtF?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:10:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_11d18d55cfe5b129",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -1099,6 +1411,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a7fe04c4a9630a64",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens - AP News",
+      "snippet": "Trump administration asks Washington to set aside ballots from 400 voters it says may be noncitizens  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmZZeW5oRDRXSUxqNjJ1cjM0U2lmSTZlc3M1TkVQenFnX19fUGJxN0M4TW95N0taTHJEcjBSLTVVVkExbWJTVUlZeWlzVmd4NUVRUDRhcWNkb29HdUxiNEZfT1NRdk9CX2lSN1M0cVFhdG9YekVBZkluV1VxVnR6ajFiOUx3d3RlWnJtY3ZOWnhFQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:08:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_516b1a76e095137d",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Live updates: Trump brings midterm campaign swing to Mississippi",
+      "snippet": "With eight days to go before the midterms, President Trump is in one of the most reliably red states — Mississippi — to campaign for Republican Sen. Cindy Hyde-Smith, as Democrats see a sliver of optimism in the state. The Democratic-aligne",
+      "link": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300000217634-e1793059616980.jpg?w=900",
+      "publishedAt": "2026-10-27T00:07:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_acf32c95ddaf3ffb",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1112,11 +1450,37 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_afd0afc9e23631b7",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+      "snippet": "By a 2-1 vote, a federal appeals court panel denied the Trump administration’s request that it immediately order the state to set aside 20,000 mail-in ballots.",
+      "link": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:04:44.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_e1a12bf1541e010f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo - AP News",
+      "snippet": "Baby orangutans in India expose illegal wildlife trade as experts question a billionaire’s zoo  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYW5kNnNBUl81by05dE9FREZPNFhlUGduU1k5RmRyUEhERml5cG5yX0Q4TFAyV1lNaWFhOGt5MkJ2Vmlac2QxRmpEWERNLWJNRTMyTVViX1FVWWNSdFhrSWRzZ2ZNMnB5MS15LVRPT2JMYkZZWTQ4SUVDeC1WeEw0Q1VkZ1dYUHJFUWt4Z3dDM3V3U25GaDVsLUdyZzFJS1k?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T00:04:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_167023960cc443fe",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Explainer: Israel election: What happens after polls close? - Reuters",
-      "snippet": "Explainer: Israel election: What happens after polls close?  Reuters",
+      "headline": "Israel election: What happens after polls close? - Reuters",
+      "snippet": "Israel election: What happens after polls close?  Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFVuMXc0NG9yVWhJX1dwRGhpU2lNLW1IUVlIQl9nNlV6NllfazByZ1NqZ2pIN2ZTMExWRnQ0ZWM4RnNmeDg4dkN0c0VmRGhpSXRWMTBWTVJOc0tuaEFMTHFoZFpVYXVkV01qdlFKRmpCdERNLWxzcTRrd2ZTbV9MQ2lNWGNOY2YtbUZNLU01R0YwNk1BbDlOT2pxdGtuenpPZ2c?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:03:00.000Z",
@@ -1164,19 +1528,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e759919307ca743b",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "What to Know About the Cease-Fire for a Besieged Ukrainian City",
-      "snippet": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce set to begin early Tuesday is supposed to allow aid in and civilians out.",
-      "link": "https://www.nytimes.com/2026/10/26/todayspaper/oleshky-cease-fire.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:00:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_77056fb56845d3c5",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -1211,19 +1562,6 @@
       "link": "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
       "imageUrl": "https://s.france24.com/media/display/d4a27d8e-d194-11f1-a254-5b4a75578ebb/w:1024/p:16x9/AP26298431483131.jpg",
       "publishedAt": "2026-10-26T23:56:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f75de8b558f895e0",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Record early voting in key states as Trump, Obama appeal to voters on campaign trail",
-      "snippet": "President Trump is campaigning in traditionally red states as voters worry about rising prices.",
-      "link": "https://abcnews.com/video/137585748/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:55:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1268,12 +1606,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d6d737c5797b2740",
+      "id": "story_a0c8b5a599a6f876",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "James Reimer makes his Rangers debut as the team gives Dylan Garand a break - AP News",
-      "snippet": "James Reimer makes his Rangers debut as the team gives Dylan Garand a break  AP News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3h3bDUzd1RyellGdHNqRTVLZnVSbEZRYTk5em9YZGUtMU1UYVF2ZXlmOFJud1E5WW5KdUNMNzV2eS10bm5qM1BsZnFZVUg5QmFGd0NLb1VUTjRoVDVPUGRYVjRERzliM3pORlA2MUtZcXJhX19HMzdUUFd4S0psU29FaExOc0E?oc=5",
+      "headline": "The Anthropic IPO by the numbers, from a possible valuation in the trillions to surging revenue - AP News",
+      "snippet": "The Anthropic IPO by the numbers, from a possible valuation in the trillions to surging revenue  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDRJRVVNZ1VRRENaRXhEa082OGJYREE1ZmxlWHhLZ3FxYmpqQVQwZ3ZyNG4wNngwMjVFb1R1WTVZOFliSWU3N01ObFduZ2lCUWs0VFZiczkwVFBrR09jaml4N29ESndYUF9FeHZtRHpqeGE0QjZ5ZldVT3FuemFCVGJqSzBYQjA0c2tXblVHQ3NTaWNS?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:53:00.000Z",
       "tier": "major",
@@ -1281,12 +1619,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_a0c8b5a599a6f876",
+      "id": "story_d6d737c5797b2740",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "The Anthropic IPO by the numbers, from a possible valuation in the trillions to surging revenue - AP News",
-      "snippet": "The Anthropic IPO by the numbers, from a possible valuation in the trillions to surging revenue  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDRJRVVNZ1VRRENaRXhEa082OGJYREE1ZmxlWHhLZ3FxYmpqQVQwZ3ZyNG4wNngwMjVFb1R1WTVZOFliSWU3N01ObFduZ2lCUWs0VFZiczkwVFBrR09jaml4N29ESndYUF9FeHZtRHpqeGE0QjZ5ZldVT3FuemFCVGJqSzBYQjA0c2tXblVHQ3NTaWNS?oc=5",
+      "headline": "James Reimer makes his Rangers debut as the team gives Dylan Garand a break - AP News",
+      "snippet": "James Reimer makes his Rangers debut as the team gives Dylan Garand a break  AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3h3bDUzd1RyellGdHNqRTVLZnVSbEZRYTk5em9YZGUtMU1UYVF2ZXlmOFJud1E5WW5KdUNMNzV2eS10bm5qM1BsZnFZVUg5QmFGd0NLb1VUTjRoVDVPUGRYVjRERzliM3pORlA2MUtZcXJhX19HMzdUUFd4S0psU29FaExOc0E?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:53:00.000Z",
       "tier": "major",
@@ -1315,17 +1653,17 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4780657/appeals-court-doj-california-mail-ballots/",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:51:12.000Z",
-      "tier": "major",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 1
     },
     {
-      "id": "story_665b23b68f1b92d5",
+      "id": "story_1e74a048ecad6070",
       "source": "Fox News",
       "sourceColor": "#B4453F",
-      "headline": "Raiders coach keeping Kirk Cousins as starting QB despite 4-game win streak, top pick Fernando Mendoza waiting",
+      "headline": "Raiders coach keeping Kirk Cousins as starting QB despite 4-game losing streak, Fernando Mendoza waiting",
       "snippet": "Kirk Cousins leads the NFL with 16 passing touchdowns, but the Las Vegas Raiders' four-game skid has fans calling for Fernando Mendoza's debut.",
-      "link": "https://www.foxnews.com/outkick-sports/raiders-coach-keeping-kirk-cousins-starting-qb-despite-4-game-win-streak-top-pick-fernando-mendoza-waiting",
+      "link": "https://www.foxnews.com/outkick-sports/raiders-coach-keeping-kirk-cousins-starting-qb-despite-4-game-losing-streak-fernando-mendoza-waiting",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:50:59.000Z",
       "tier": "routine",
@@ -1336,8 +1674,8 @@
       "id": "story_25cfbc19dbf647d1",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
-      "headline": "Jordan launches air strikes in Syria in response to a fatal church shooting",
-      "snippet": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "headline": "Jordan strikes Syria after church attack, killing at least seven people",
+      "snippet": "Syria closes border crossings with Jordan after air strikes kill seven people in Deraa and Suweyda, including children.",
       "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:50:11.000Z",
@@ -1354,9 +1692,9 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-attacks-syria-in-response-to-karak-church-attack?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:48:51.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_09f0a3fc0ab2caae",
@@ -1393,9 +1731,22 @@
       "link": "https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas",
       "imageUrl": "https://s.france24.com/media/display/23d66ae0-d196-11f1-a0cd-4b25c96ec90e/w:1024/p:16x9/a87952700e7615cda57f1779147c524a2f3b16a8.jpg",
       "publishedAt": "2026-10-26T23:45:07.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_67d0fd1e70bb633a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump administration loses push to block California votes from alleged noncitizens - Reuters",
+      "snippet": "Trump administration loses push to block California votes from alleged noncitizens  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T23:43:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_3eb553079a1a7867",
@@ -1414,8 +1765,8 @@
       "id": "story_7eae5c6c8b568853",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
-      "headline": "Authorities launch manhunt for convicted killer who escaped Tennessee prison",
-      "snippet": "Authorities in Tennessee launched an intense manhunt for a convicted murderer who escaped from a state prison, allegedly stole a work truck and remains on the loose.",
+      "headline": "Authorities launch manhunt for convicted killer who escaped from Tennessee prison",
+      "snippet": "Jacob Allen Morley, 28, is alleged to have stolen a Ford F-350 flatbed truck after breaking out, state prison authorities said.",
       "link": "https://www.nbcnews.com/news/us-news/manhunt-murderer-escaped-tennessee-rcna605826",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:40:38.000Z",
@@ -1431,21 +1782,8 @@
       "snippet": "President Trump visited deep-red Mississippi on Monday, rallying for incumbent Republican Sen. Cindy Hyde-Smith, who is facing off against Democrat Scott Colom. CBS News correspondent Skyler Henry has more from Corinth.",
       "link": "https://www.cbsnews.com/video/trump-encourages-republicans-support-down-ballot-races/",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T23:40:35.000Z",
+      "publishedAt": "2026-10-26T23:40:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a53a3f1827dd9062",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDAzc093S2pUSDhOdWlyWEczSmZWdjRnUnhONmVPN0Y1YS1pUEJWYzFtNHVtSlFmM185bG45ejMycHdkc2tlRHRWdWI2RWYxdzZGeDl3U2ZTS2RROXRMei1BZ1dIMTAwMVVRYnAxdy1mNXZ5WUFsOW5kWm83bGpjN1BkV3hDcWtDS1poSFBTeVY5TXJwdnN3dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:37:45.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1463,56 +1801,56 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_def526d5250093cf",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " DOJ seeking to charge Comey with conspiring to disclose national defense information",
-      "snippet": "The case relates to disclosures published in the New York Times in 2016.",
-      "link": "https://abcnews.com/Politics/doj-seeks-charge-comey-conspiring-disclose-national-defense/story?id=137584148",
+      "id": "story_5015b1bac01b58dd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Equities end higher as Anthropic's IPO filing buoys AI stocks - Reuters",
+      "snippet": "Equities end higher as Anthropic's IPO filing buoys AI stocks  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVlfUU5UYnVIOHVRRHJCaWJNQ0NtM0V5aXdZUE5QSEhGVTAxWmdXcU1KeGVEaEtYTXlEal9YNjMwblR6bGZQcm5HODd6N2xnNUppZzdXMDVTSWwtZEc3a3p3Q0M4VzRtaHo3QTd1VDJpaGNPQmw0WjFNaEMyQ2JyOVpGcmZEbktIdk45OHp4blZxdzc5UllRT2V1cnllVTVVTjVYZm1IZ0VjWDlwTnc?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T23:28:08.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-26T23:28:41.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_6aa80e97b9a6fd6b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department - Reuters",
+      "snippet": "Ex-FBI chief Comey faces third prosecution attempt by Trump Justice Department  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjhLRWY2TklCLUNVM1FrTnE3emllZURtQlRkb1VRQmtESF9PNk4tbmlyU1ppYjZaZVo2d3Y4MjhjTFcwOFFnZi14TUljaEhKUmk3alpJcXNlSUN1RFVLQnl6ajdja2tvcUk4cXczVzdDSXRkbms4bHlTLXNfQzRIN29zdklUUjZwODhWd002SW5Ub0s3NTdKQ2JhVTBrbXhfWTBZc29RenpXVlBlUFhpQTJPaVFmQ0k1b0pZ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T23:25:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_7cc840bd25265904",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
       "headline": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
-      "snippet": "Bayern Munich striker the first Englishman to win the prestigious award in 25 years, after Michael Owen won it in 2001.",
+      "snippet": "Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.",
       "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:25:29.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_db35f2ddfafc3b80",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Appeals court rules against DOJ in California ballot fight",
-      "snippet": "A federal appeals court panel on Monday refused to order California to set aside 20,000 mail ballots that the Trump administration says are likely from noncitizens. In a 2-1 vote, the panel found it has no jurisdiction and the administratio",
+      "snippet": "A federal appeals court panel Monday refused to order California to set aside 20,000 mail ballots that the Trump administration says are likely from noncitizens. In a 2-1 vote, the panel found it has no jurisdiction and the administration n",
       "link": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Zoom-In-DOJ_050426_AP_Julia-Demaree-Nikhinson.jpg?w=900",
       "publishedAt": "2026-10-26T23:25:14.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_421903a479cf3ab9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Appeals court declines to rule on federal bid to set aside California ballots of alleged noncitizens - AP News",
-      "snippet": "Appeals court declines to rule on federal bid to set aside California ballots of alleged noncitizens  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1E5VGNUTXoyTi1QbzBfRzRvaHRpQmZEeUE2YU9XclBCUTVVNFBWVngzNExHalRvQ2N0c0VlaVRnSTdrQTFNaXdyaHBWOHJjRXh3RlhQak02cUdJNTgydEx2Tms2Y04xSWI3bFNJU0RwbTZ0bHY3ekU1VlVGTnhWUEtjdkZqUlFLU0w1VU9IVTl2Z2c1b01KSUFRcnBCWllIbEZJXzk3aHNfQ0tiVkNuRWpyRmc3Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:25:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 1
     },
     {
       "id": "story_8f76b61143d94137",
@@ -1523,32 +1861,6 @@
       "link": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
       "imageUrl": "https://s.france24.com/media/display/484996fa-cd8f-11f1-8da3-4da0d2c6855d/w:1024/p:16x9/2f310afab0f2ee355e67e96c836f9f342820c590.jpg",
       "publishedAt": "2026-10-26T23:24:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b9b9918d31215772",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Business - AP News",
-      "snippet": "Business  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB0d05vWXR6YjNHTUJRSzlCR1N4VTNGMUdsb3lpUDRYbXpmOE9oWE5vSHhBcHRXZlhKcFN2N1NLWks?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:23:47.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_12abb6c25f2dfbed",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Extended Interview: Homeland Security's James Percival on third-country deportations",
-      "snippet": "In an extended interview with 60 Minutes contributor Gianna Toboni, Department of Homeland Security General Counsel James Percival talks about third-country deportations.",
-      "link": "https://www.cbsnews.com/video/homeland-security-james-percival-third-country-deportations-interview/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:23:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1580,17 +1892,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d0238b4d6410206f",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Appeals court rejects Trump admin's voting lawsuit against California",
-      "snippet": "The court sent the suit back to a district court, which will hear it on Tuesday.",
-      "link": "https://abcnews.com/Politics/appeals-court-rejects-trump-admins-voting-lawsuit-california/story?id=137586284",
+      "id": "story_3768746d3f533cdc",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Illinois man charged with mailing white powder to members of Congress - AP News",
+      "snippet": "Illinois man charged with mailing white powder to members of Congress  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkJVR2x5YmMxQldjckVGOWZ2T1l5RnkxZDZfejlWOU5BZnBlZVl5Z1U1TVFJeno3RXpPUmo0WUtJbkxZQXIzQjd5RXdCeVRodl9nbDBqQTdyZklISnNNajBPMmxnMTVPY0FFd3MwM0RQcnNGdm54ckNoSHh6a0hTN2REWDhLQzFqNnpWd0w2WWhPQXBfSXRTV0lnNWh6dlZLQ0NV?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T23:18:52.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-10-26T23:21:00.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_4a01c051dc068be5",
@@ -1606,32 +1918,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_9095dc8524f565ec",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Republican, Democratic strategists break down pre-midterm rhetoric from Trump, Obama",
-      "snippet": "Republican strategist Erin Maguire and Democratic strategist John McCarthy join \"The Takeout\" to discuss campaign rhetoric from President Trump and former President Barack Obama ahead of the midterms.",
-      "link": "https://www.cbsnews.com/video/republican-democratic-strategists-pre-midterm-rhetoric-trump-obama/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:16:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_afd0afc9e23631b7",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
-      "snippet": "By a 2-1 vote, a federal appeals court panel denied the Trump administration’s request that it immediately order the state to set aside 20,000 mail-in ballots.",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:13:15.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_cbd354f9b12576c7",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1642,7 +1928,7 @@
       "publishedAt": "2026-10-26T23:13:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_f68662c358a76b03",
@@ -1671,11 +1957,24 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9c7717c2623a286a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran - Reuters",
+      "snippet": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T23:06:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d609dc92324a92ba",
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-      "snippet": "Kane is the first Englishman in over two decades to win the award.",
+      "snippet": "The England captain ends his country's 25-year wait for the prestigious award after scoring 73 goals for club and country last season, beating competition from Lamine Yamal and Kylian Mbappe.",
       "link": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:06:00.000Z",
@@ -1697,6 +1996,45 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2dc0d6f399c32c8a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump approval rises from record low to 32% ahead of midterm election, Reuters Ipsos poll finds - Reuters",
+      "snippet": "Trump approval rises from record low to 32% ahead of midterm election, Reuters Ipsos poll finds  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlF1QkdkM3ZoYlE2Qmh4Qjl3bTViNGQteUtzeTR0Sno0OVc2Ri1sMDRJS2J5SVpULW5oNzlTdmVwdVNsRHNPMDh1dEdLT1R4UVpuaUQ2eEdnOUh1TXk0ZENtYWxZYXFBRUdnX0tfT3FveUI5aFRvZkZBVUNuNTExa01ucmR3UE1YQUpQbVEtWkg4cTJPUElPN0dHZ1RpdWlJaGh3d2VQU3pQUUdRWGljaEdLRXhlLVRUT21IZWhR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T23:04:25.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8f3901af0008b22d",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Judge: Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor - AP News",
+      "snippet": "Judge: Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlRQeTlsV0JqcVB1Wm9YcWhFMFBmX3lOdXVwUnJyMm1LQjlrbndRMDBMZTBEeFdJNDUxUG1XS1dqaEVaRlJhUm93WWNyenYtZTNDelJnc01vaHJoeUZUUFAyRTBTdUZoZlI3TGNMMkJpR2pzUFhYdEFmRy1ZR1lqNU9rR1VXYTkwbGJrYlN2V25fbDJObkJTa1Nva0RFcTg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T23:04:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d7a1fd79d5b5368c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+      "snippet": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case\nThe far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours a",
+      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T23:02:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e5e49692674858b8",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1705,19 +2043,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGJjWTFGMk9ycWp1UHQwZWwtZWVkU25QRmg2NzVIVkpUdXhvR3dtTjNtY3FCSkJacUtkbE9vOGItMlRtaGduTm83Y1lkOUtOT09SanAxOWhQd2IzTGRpYmpIUVhhcmV4YmtvR3A4VFJ1dEJscVVHYVl1QzJRYkVzLTBXRXI0WkFyaHlKUVhEbDZIdFhLT1VaUzhiNEJsX1B2bU85MHVtdkhhWmUzbTZOMWFMRnJuNVBnUnRv?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-26T23:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a0719666802b4db0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Flood-weary US Southwest eyes forecast for more rain ahead - AP News",
-      "snippet": "Flood-weary US Southwest eyes forecast for more rain ahead  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTg2ZTlKdVdmc1RKN1FvSWp1YlVVa3E0TEJxc2FUa1F5bTlnSnFMMkF5ZWlfa0V2NkVQWVNTRGdLQ0tQTWVWNWpkSVZ1YmRSU1RyX0N3U0R3OWg4c0lwczBPQ1dMMG42bjdadmNlRGR3MnNta3hRcXU2UFhma1E1WjF6U3VmenMwME1HRklRSUIySGJ1R0ZaeUtvQllQbWt0Yzk2NEJQc3Y?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:59:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1736,14 +2061,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5d88f54711e06d84",
+      "id": "story_9798c15f3cefc357",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Harry Kane becomes first Englishman in 25 years to win Ballon d’Or - AP News",
-      "snippet": "Harry Kane becomes first Englishman in 25 years to win Ballon d’Or  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVFRV0NrZERLS0JsYi0ybFV2UTh0bU82S1NxOW11NUE4U01CcVhlcWxqN0FQZmRRTk1OV3ZneGVMWW41ZksycldfX21HcTUtRmJHYjIxWC1JM0pJczRNX3BxbkctaDlVdnlNT0VvOUwxQWgwRzFYY3UtdmJhR1JyT19mdkY1WDdoSGFpWFdBb3JoemtYeFNsR2REVEZld1M5YU56d1l3?oc=5",
+      "headline": "Jordan says it attacked militants in Syria tied to church assault. Syria says civilians killed - AP News",
+      "snippet": "Jordan says it attacked militants in Syria tied to church assault. Syria says civilians killed  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFZuQkxtWGYzR1lVa1pka0JWN3dZYmFCMWQ2TEJneXFwWVdfWlc2eE5OLUUyT2kyNnhfUm5aWWdTNlRYY2YyeEFkeW1ZQmZHdmtNVVZLTDdKNGZNX0ZUOHlWR2ZPY1p6czZKb043WG1wdkt0NWNyeDdadHZaWEJIWk1GZWlXQkp4alNmZXFyUThQQmlHTjA1aWx6LWg?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:58:00.000Z",
+      "publishedAt": "2026-10-26T22:57:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1762,15 +2087,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_26d93cb6b3d32b7c",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
-      "snippet": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
+      "id": "story_cbe36315cbfad758",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Thunder’s Jalen Williams will need surgery for a broken leg and dislocated ankle - AP News",
+      "snippet": "Thunder’s Jalen Williams will need surgery for a broken leg and dislocated ankle  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDJmQThPV3RTMlBfU2RRQlBsUW9OQTJnTXYwTndsd2NrU3ZYYWo5a0JNZDByNTlmUFhRNHpaUnEzZjNfUUpGVnRtS2NoSHZPZm4ta1dWeGRBczc5U2FNUmVnWlltOGdMREFtemFzSXpFV2VKX1dIUHExck5WbjlBX1JsY1dQanBhYV9ZVzIxUmpxYUk?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:54:12.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-10-26T22:54:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1788,32 +2113,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_67d0fd1e70bb633a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump administration loses push to block California votes from alleged noncitizens - Reuters",
-      "snippet": "Trump administration loses push to block California votes from alleged noncitizens  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTW01WVRuSHIxWnkzWXd6czZLd3cwc1ZIRUFvTEt6VFNnNndPT2pNeFg1NXk0SXFiMXlGU0w2TWt0Z2d2b2tfcGNqUFdWRVdvenI5eHN0OTAxM01feU5BYjk1WU5EYjFheGFFbzBmN2FtOU5fYnprc21Iejl3VzA2MmN5aHl6NEZmbS0yZlNvYW91TjF1Y2VvYmQzRl9tYml5YU5JMGg3VmIzcXdZNDlUUGVpVWNqc3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:51:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ac92d651c2b94c87",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Does America Need More Police? With Malcolm Gladwell",
-      "snippet": "Malcolm Gladwell explains why America has been dishonest about gun violence and why the answer to combating murder is more cops, not fewer. If you'd like to share your own great question, email us at greatquestion@cbsnews.com.",
-      "link": "https://www.cbsnews.com/video/malcolm-gladwell-great-question/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:51:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_4997489ae2c7b0ec",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -1822,9 +2121,9 @@
       "link": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:50:40.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_3170bf37600fb558",
@@ -1835,6 +2134,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckctdmhsdjZTU1FZLThLMWZNbUtFTHlmNDB6bE9ZT2tOeU9yd2NQLTEzVExNeHBJSTZUM1lIYjZpZDhCMmRENGV0aml4ZmpDQWpIUm5YSlVxb2JEdTRaLXJlcHFOSUhLR3M1VGFIVUZNbGJaRklpbGJZWDJldjF3ZlZaN3Y3eDJmaXpMTHZOMGI4ODRHbHFqcHVJTXBQaThUTUdxbktSaFcxQQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:48:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b1f55ac5a79ca4d4",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Average price of gasoline during Trump's term now exceeds Biden's, as midterms loom - Reuters",
+      "snippet": "Average price of gasoline during Trump's term now exceeds Biden's, as midterms loom  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRHRWSHRWQUxUU1NzMl9hMEl1YkZQNFUzVlc0MklmZEtfSjZOeFV6UnNuT0ZMdGlQVHBYQmp3RkQ3UHh6MWNSNnJPXzR2VnQ2MU1feEFTa1pKLTdnSmlnQ1d5NVduSUpVbFRBMWNoendaM0tEajRHc3hJbHN2a2h0VHJ4SjlJYmxwYTBtYmVCa1VjZzRsUWFtTHVsMFVlM0JZTFF5X3o4VDJwM2tYT2RaLW1yX2lLd3hZMmdLTHdpQjRhTjVyQ2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T22:46:59.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1853,23 +2165,10 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_1bc54c55a9590469",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Breaking down the legal battle over California's election process",
-      "snippet": "Over the weekend, Attorney General Todd Blanche insisted on \"Face the Nation\" that the Department of Justice is not laying the groundwork to overturn unfavorable election results. CBS News election law expert and contributor David Becker ha",
-      "link": "https://www.cbsnews.com/video/breaking-down-legal-battle-over-californias-election-process/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:46:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_c39752b5cebbe20f",
       "source": "Fox News",
       "sourceColor": "#B4453F",
-      "headline": "Jon Gosselin claims he's 'perfect strangers now' with six of his kids after years of no-contact",
+      "headline": "Jon Gosselin claims he's 'perfect strangers now' with six of his kids after years of no contact",
       "snippet": "Jon Gosselin reveals he hasn't spoken to six of his eight children in years, calling them \"perfect strangers\" amid Collin Gosselin's memoir.",
       "link": "https://www.foxnews.com/entertainment/jon-gosselin-claims-hes-perfect-strangers-now-six-his-kids-after-years-no-contact",
       "imageUrl": null,
@@ -1892,41 +2191,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_54b74df0bbb8956f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Court dismisses DOJ's request to force California to set aside ballots",
-      "snippet": "A federal appeals court on Monday dismissed the DOJ's effort to force California election officials to set aside thousands of ballots that the Trump administration claims may have been cast by alleged noncitizens.",
-      "link": "https://www.cbsnews.com/news/appeals-court-dismisses-doj-trump-california-ballots/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:44:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3cf6f42ee646f074",
+      "id": "story_88dbc3c2dc950ba7",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
-      "snippet": "California counties were told by DoJ to set aside and verify ballots administration claims belong to noncitizen voters\nA ⁠US appeals court on Monday ruled against Donald ⁠Trump’s ​justice department in a major voting dispute ahead ⁠of the m",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
+      "headline": "The chaos in France is a ‘warning signal’ for Australia’s public spending and rising costs",
+      "snippet": "Australia’s public debt may be well below that of France but there are lessons to be taken from its economic woes\n\nGet our daily political email, free app or daily news podcast\n\nThe explosion of discontent that led to major protests and vio",
+      "link": "https://www.theguardian.com/business/2026/oct/27/the-chaos-in-france-is-a-warning-signal-for-australias-public-spending-and-rising-costs",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:44:19.000Z",
+      "publishedAt": "2026-10-26T22:45:35.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ba8f0e3a06b5309a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state - AP News",
-      "snippet": "Trump announces at a Georgia campaign rally that Audi will build a new auto factory in the state  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTFJejhGVHpHM3RQVWQ4UzVmaWJfSUVsUkJJaENrN1h0bjA0aHhvaDVvREd0QllZQnU1Q3J4RnBKNmg3aVRWRWxBeDNuMmdQRVpKamNEWmQ4bnlxYzJGVTRMdGpjaU5kNGZ1Skt5VE5WNi1Sa1d5UENGVUo1dko1YVM4OGFMcENiTHVBU2RTV0psdks0ZkVzU0N4Nm5IM3BhY2R4ZEN3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:43:12.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2004,9 +2277,9 @@
       "link": "https://www.semafor.com/article/10/26/2026/brazilian-markets-plunge-after-lulas-surprise-election-victory",
       "imageUrl": "https://img.semafor.com/6b293d39132d10e5b1aafbc3f4f97c1130664130-3490x2327.jpg",
       "publishedAt": "2026-10-26T22:34:03.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_4e5f2c09f9d7a84c",
@@ -2017,19 +2290,6 @@
       "link": "https://www.foxnews.com/travel/deadly-security-risks-prompt-updated-travel-warnings-13-countries",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:33:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aebc7bb78f54188a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Rep. Jake Auchincloss says Americans \"know who Democrats are against,\" but not who they're for",
-      "snippet": "Democrats are starting to plan beyond the midterms, preparing for the 2028 presidential race. There's a moderate group called Majority Democrats that will hold a summit called \"What's Next.\" The group's chair, Rep. Jake Auchincloss of Massa",
-      "link": "https://www.cbsnews.com/video/rep-jake-auchincloss-americans-democrats-against-not-who-for/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:33:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2082,33 +2342,20 @@
       "link": "https://www.cbsnews.com/video/102626-cbs-evening-news/",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:30:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_2dc0d6f399c32c8a",
+      "id": "story_a456ce08fbd124d9",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Trump approval rises from record low to 32% ahead of midterm election, Reuters Ipsos poll finds - Reuters",
-      "snippet": "Trump approval rises from record low to 32% ahead of midterm election, Reuters Ipsos poll finds  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlF1QkdkM3ZoYlE2Qmh4Qjl3bTViNGQteUtzeTR0Sno0OVc2Ri1sMDRJS2J5SVpULW5oNzlTdmVwdVNsRHNPMDh1dEdLT1R4UVpuaUQ2eEdnOUh1TXk0ZENtYWxZYXFBRUdnX0tfT3FveUI5aFRvZkZBVUNuNTExa01ucmR3UE1YQUpQbVEtWkg4cTJPUElPN0dHZ1RpdWlJaGh3d2VQU3pQUUdRWGljaEdLRXhlLVRUT21IZWhR?oc=5",
+      "headline": "Russian attack on Kyiv kills one, injures 10, hits educational institution, metro station - Reuters",
+      "snippet": "Russian attack on Kyiv kills one, injures 10, hits educational institution, metro station  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1lvb3NtSFNTVXN2bERVdG5oajNaWW1RQUktQVhWS0NKQzNqS2RrR19kdmlmRE9qSHh0RzlSRnU0Q3FSLXp3THV0ZkN1b1VQNjkycEtSWW5wbnhhSkZwZ2FzZXA3TVd2WkNUWmhWcWNmeng0REhYRkFOeTB5S0tDYmVYYmNiNVpaNUtqRTJ1eFAydUduYUtfdTEzZ1JGSkJFTlI0eg?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:27:47.000Z",
+      "publishedAt": "2026-10-26T22:28:21.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_64aaf573c1b9c865",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Johnny Garcia, Democrat running for Congress, says Republican voters are \"fed up\" with GOP policies",
-      "snippet": "Johnny Garcia, the Democratic candidate for Texas' 35th congressional district, joins \"The Takeout\" to discuss disaffected Republicans, Hispanic voter frustration and more ahead of the midterms.",
-      "link": "https://www.cbsnews.com/video/johnny-garcia-democrat-congress-says-republican-voters-fed-up-gop-policies/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:27:23.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2126,40 +2373,27 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9acb878a9d20402c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A wounded Ukrainian soldier waited 2 days to be rescued. Then a drone flew him to safety - AP News",
+      "snippet": "A wounded Ukrainian soldier waited 2 days to be rescued. Then a drone flew him to safety  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUs0eDh0RzAtVDBrbkdSQ215ZmNTcGpBWUI5R0tVUTVWMlRVYXFwSzNKb1V6OVlxemdfcTlONTd3R3NmUXZ3TFJtV1VOMXR4STRaUHhZYVE4Vmx6Z0tuN202VG84aWxXTF8yeFpkeklyb1RZYUpXUHlLNHdOcVJTU1lxTHNzZU5PM0k5M21ldDc4bS1peU9Xa0xzamhyeks2?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T22:25:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_690353a417278470",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Lula bucks prediction markets with Brazilian presidential win",
-      "snippet": "Brazilian President Luiz Inácio Lula da Silva bucks prediction market odds with his unlikely win in the Brazilian presidential runoff election this weekend. On Sunday, Lula was rated an underdog in the election, as his odds were at 20.2 per",
+      "snippet": "Brazilian President Luiz Inácio Lula da Silva bucked prediction market odds with his unlikely win in the Brazilian presidential runoff election this weekend. On Sunday, Lula was rated an underdog in the election, as his odds were at 20.2 pe",
       "link": "https://thehill.com/policy/technology/6173602-lula-brazil-election-prediction-markets/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/lula_brazil_102526_AP-e1793015761680.jpg?w=900",
       "publishedAt": "2026-10-26T22:23:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31f2e11f3b588cfd",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump issues $1m reward for reporting voter fraud in past or upcoming elections",
-      "snippet": "His comments come ahead of the November midterm elections and follow his claims of widespread voter fraud\nDonald Trump has announced a $1m reward for reports of voter fraud in past elections and the upcoming midterm elections, with payment ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-reward-reporting-voter-fraud",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:23:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7aea0a39e9f8d404",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "France Makes Concessions to Students, but Not Enough to Halt Protests",
-      "snippet": "The government promised to phase out an unpopular university admissions system by 2028. Student groups are pushing for more.",
-      "link": "https://www.nytimes.com/2026/10/26/world/europe/france-student-protests.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:22:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2178,19 +2412,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_dbf06332b3db4c15",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ohio - AP News",
-      "snippet": "Ohio  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xOXluQWtwTGprc2dkRnBmUEJuU1BmWjlsNFNmb1pZRF9NYTJySnF0WTVnTDZDZEZETXZHQkpZdWU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:22:15.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_22a74090127c6622",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -2200,6 +2421,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:20:37.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9de7ad56fa44cbfd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Machete-wielding mob attack health workers responding to Ebola in Congo - Reuters",
+      "snippet": "Machete-wielding mob attack health workers responding to Ebola in Congo  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVF6VmdLdHFYM0cwNjlRZGY0a0VjTkpjQUJwa05yUGhvNWF0ODZ6YmptRkxWeXRucmN1UmpFZkJpdGhUWGlKRHhZWlduMTVRWExXQnNSb1FtaHgzdkNMcUd2ZkM3TW16YlVMbS1SMDhxbUxkWkhWbDVZaHh5VU0zcDZVOUoySG0xeHM1N3REbGRnYU5oVnpfNDBYYjItQjdHUmYxUHVEU0diZm5mS1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T22:18:50.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2217,79 +2451,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3fe2fc5a9a8835d6",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Justice department charges ex-FBI director James Comey for third time",
-      "snippet": "Comey, an outspoken critic of Donald Trump, accused of leaking information related to US national defense\nThe justice department charged former FBI director James Comey on Monday with two counts of leaking information related to national de",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj",
+      "id": "story_23d2793d96c107f3",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+      "snippet": "Jordanian armed forces carried out strikes on \"militant hideouts\" in Syria that it said were linked to a deadly church attack on the kingdom last week. Syria gave a different account.",
+      "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:17:09.000Z",
-      "tier": "major",
+      "publishedAt": "2026-10-26T22:15:00.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 6
+      "corroboratedCount": 2
     },
     {
-      "id": "story_5744d68eb7e1582d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Breaking down how Israel's elections work as Netanyahu faces opposition threat",
-      "snippet": "On Tuesday, Israel will hold its first parliamentary elections since the Hamas terrorist attacks on Oct. 7, 2023. Israel has been on a war footing ever since. This election is in part a referendum on Prime Minister Benjamin Netanyahu's aggr",
-      "link": "https://www.cbsnews.com/video/breaking-down-how-israels-elections-work-netanyahu-faces-opposition-threat/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:16:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_272cbfcb00887365",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "DOJ trying to charge Trump-foe James Comey for third time, records show",
-      "snippet": "The Justice Department is working to bring a third criminal case against former FBI director James Comey, court records show. He said, \"I'm still innocent. I'm still not afraid of these people and I still believe in the independent federal ",
-      "link": "https://www.cbsnews.com/video/doj-trying-charge-trump-foe-james-comey-third-time-records-show/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:14:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_b401730bd3f7a4d1",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Brazil’s Vote Is a Victory for the Amazon, Environmentalists Say",
-      "snippet": "The re-election of President Luiz Inácio Lula da Silva is expected to lead to continued rainforest protections. His opponent wanted to make it easier to clear land.",
-      "link": "https://www.nytimes.com/2026/10/26/climate/brazil-lula-bolsonaro-amazon.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:13:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cbe36315cbfad758",
+      "id": "story_e144bde4b815500b",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Thunder’s Jalen Williams has fractured leg, dislocated ankle and will need surgery - AP News",
-      "snippet": "Thunder’s Jalen Williams has fractured leg, dislocated ankle and will need surgery  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDJmQThPV3RTMlBfU2RRQlBsUW9OQTJnTXYwTndsd2NrU3ZYYWo5a0JNZDByNTlmUFhRNHpaUnEzZjNfUUpGVnRtS2NoSHZPZm4ta1dWeGRBczc5U2FNUmVnWlltOGdMREFtemFzSXpFV2VKX1dIUHExck5WbjlBX1JsY1dQanBhYV9ZVzIxUmpxYUk?oc=5",
+      "headline": "Luiz Inácio Lula da Silva - AP News",
+      "snippet": "Luiz Inácio Lula da Silva  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4cnZhUWR5YUZiWm9ZUFo5cjRtS0tMbF8wNnN5YUc2NS02bDZYdEJmRUx1V0lseXRsWjhDel85UWIxRFMydzJoTEhpb2d3WnhwS2dZc2xPTG9xMDFl?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5d314cdb5508e78",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Carney says Trump moving closer to Canada’s trade demands as midterms loom - AP News",
-      "snippet": "Carney says Trump moving closer to Canada’s trade demands as midterms loom  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUloWF9CMm92M2l6X1Y4c3dNWS1TQ0tOZkdMekFPbEk2UFJfYWVNR2o1ZHJTaThZT2lPc1FHNXNVSDhMaXBlZ3J5ZjBvcHpqMlNENU9hWmtSYy1HOENVZks1NkszNTlja0NyeHhQMFp5dER0ZG5ocWxOT3JJQzh3VDRtXzVmYUJ3bU5RZldfb2lBMm45YVdJVlRVNVhYa0NjQWc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:11:00.000Z",
+      "publishedAt": "2026-10-26T22:12:52.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2303,22 +2485,22 @@
       "link": "https://thehill.com/homenews/administration/6173577-trump-voter-fraud-reward-announcement/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298794332206-e1792966062757.jpg?w=900",
       "publishedAt": "2026-10-26T22:10:57.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_294e1f8025d34d5c",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
       "headline": "Trump offers $1 million reward for voter fraud tips that lead to convictions",
-      "snippet": "President Donald Trump said Monday that he is offering $1 million to anyone who reports voter fraud in the upcoming election or past ones.",
+      "snippet": "It’s unclear where the money would come from for Trump’s latest effort to crack down on purported voter fraud ahead of the midterm elections.",
       "link": "https://www.nbcnews.com/politics/2026-election/trump-offers-1-million-reward-voter-fraud-tips-lead-convictions-rcna605798",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:09:48.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_a0b1885af39049da",
@@ -2329,19 +2511,19 @@
       "link": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:08:38.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_9acb878a9d20402c",
+      "id": "story_5668c7ec7d5fa31c",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "A wounded Ukrainian soldier waited 2 days to be rescued. Then a drone flew him to safety - AP News",
-      "snippet": "A wounded Ukrainian soldier waited 2 days to be rescued. Then a drone flew him to safety  AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUs0eDh0RzAtVDBrbkdSQ215ZmNTcGpBWUI5R0tVUTVWMlRVYXFwSzNKb1V6OVlxemdfcTlONTd3R3NmUXZ3TFJtV1VOMXR4STRaUHhZYVE4Vmx6Z0tuN202VG84aWxXTF8yeFpkeklyb1RZYUpXUHlLNHdOcVJTU1lxTHNzZU5PM0k5M21ldDc4bS1peU9Xa0xzamhyeks2?oc=5",
+      "headline": "College football | Latest News & Updates - AP News",
+      "snippet": "College football | Latest News & Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T22:05:00.000Z",
+      "publishedAt": "2026-10-26T22:05:18.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2351,13 +2533,13 @@
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
       "headline": "Former FBI director James Comey hit with third set of charges under Trump",
-      "snippet": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information",
+      "snippet": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information.",
       "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:03:26.000Z",
-      "tier": "major",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 6
+      "corroboratedCount": 1
     },
     {
       "id": "story_a50d5a4a5096aaac",
@@ -2368,9 +2550,9 @@
       "link": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:01:32.000Z",
-      "tier": "major",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 5
+      "corroboratedCount": 1
     },
     {
       "id": "story_8a6a1da62f8e7afc",
@@ -2382,6 +2564,19 @@
       "imageUrl": "https://s.france24.com/media/display/b8b37604-d186-11f1-9cf6-4d317af013fd/w:1024/p:16x9/202606241200WD-ANTHROPIC-ARCHIVE-O.png",
       "publishedAt": "2026-10-26T22:01:25.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c7b04a807b625670",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane - AP News",
+      "snippet": "'Crash ur row only': United flight turned around after passenger allegedly said he'd 'hijack' plane  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVW5sN01FekVUMFR0MzhHS3psel8xR2NjbXQ2elFOSGdjVEl1WFhseU5tX1RvWDQ2SC1XamtIVnA5YThoN25seEdPV1hRb2pMUE5vMURNQ1hLVzBuRDZBNXNVSWpCbXYySkJFRVVGb09OTmRPMVY3U2ZmOWZpcGxYLWNHLWhxbllsenNIaThPeEg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T22:01:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2415,77 +2610,25 @@
       "id": "story_50fbada0ea9d6726",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Watch live: Trump rallies in deep-red Mississippi",
-      "snippet": "President Trump will travel to deep-red Mississippi on Monday, seeking to turn out GOP voters for Sen. Cindy Hyde-Smith (R-Miss.). Hyde-Smith is facing a surprisingly competitive race against Democrat Scott Colom, a district attorney. Forme",
+      "headline": "Watch live: Trump rallies in deep red Mississippi",
+      "snippet": "President Trump will travel to deep red Mississippi on Monday, seeking to turn out GOP voters for incumbent Sen. Cindy Hyde-Smith (R-Miss.). Hyde-Smith is facing a surprisingly competitive race against Democrat Scott Colom, a district attor",
       "link": "https://thehill.com/homenews/state-watch/6173095-trump-mississippi-hyde-smith-gop/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298060374440-e1792944824162.jpg?w=900",
       "publishedAt": "2026-10-26T22:00:00.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
-      "id": "story_e144bde4b815500b",
+      "id": "story_d6e3766d67e7d06b",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Luiz Inácio Lula da Silva - AP News",
-      "snippet": "Luiz Inácio Lula da Silva  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4cnZhUWR5YUZiWm9ZUFo5cjRtS0tMbF8wNnN5YUc2NS02bDZYdEJmRUx1V0lseXRsWjhDel85UWIxRFMydzJoTEhpb2d3WnhwS2dZc2xPTG9xMDFl?oc=5",
+      "headline": "NASCAR racing - AP News",
+      "snippet": "NASCAR racing  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93S0RrRnNPWXYwZnhucjQ5cVJjb0U2TDJCMTdvdGxLbjk1UUFuaDU3Q3Z6b1BGTjJuVmRnSUxOaEtxOVpPN1I0d1pnWW0?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T21:59:02.000Z",
+      "publishedAt": "2026-10-26T21:59:18.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2ae8269cf19b72b2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Robert Griffin III says he would '100%' take Baylor's vacant head football coach job",
-      "snippet": "Robert Griffin III says he'd \"100%\" take the Baylor Bears head coaching job, revealing he's already spoken with athletic director Doug McNamee.",
-      "link": "https://www.foxnews.com/outkick-sports/robert-griffin-iii-100-percent-take-baylor-vacant-head-football-coach-job",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:58:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a854501ac51e685b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "James Comey charged with leaking national defense information",
-      "snippet": "Former FBI Director James Comey is facing his third federal indictment in just under two years after the Justice Department charged him with unlawfully sharing national defense information and conspiring to disclose it, according to a court",
-      "link": "https://www.washingtonexaminer.com/news/justice/4780591/james-comey-charged-doj-leak-national-defense/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:57:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d7a1fd79d5b5368c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-      "snippet": "Far-right senator banned from leaving country as supreme court judge’s ruling makes reference to money-laundering case\nThe far-right senator Flávio Bolsonaro was banned from leaving Brazil and ordered to surrender his passports just hours a",
-      "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:56:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92c6c2fc55785d10",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "DOJ takes steps to charge James Comey again",
-      "snippet": "The DOJ took steps to charge James Comey with leaking information earlier this month, in its third attempt to bring criminal charges against the former FBI director and Trump foe.",
-      "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:55:12.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2501,19 +2644,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_3768746d3f533cdc",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Illinois man charged with mailing white powder to members of Congress - AP News",
-      "snippet": "Illinois man charged with mailing white powder to members of Congress  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkJVR2x5YmMxQldjckVGOWZ2T1l5RnkxZDZfejlWOU5BZnBlZVl5Z1U1TVFJeno3RXpPUmo0WUtJbkxZQXIzQjd5RXdCeVRodl9nbDBqQTdyZklISnNNajBPMmxnMTVPY0FFd3MwM0RQcnNGdm54ckNoSHh6a0hTN2REWDhLQzFqNnpWd0w2WWhPQXBfSXRTV0lnNWh6dlZLQ0NV?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:53:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     },
     {
       "id": "story_745ee38477da121b",
@@ -2537,35 +2667,22 @@
       "link": "https://www.nbcnews.com/video/james-comey-faces-two-new-federal-charges-272257605808",
       "imageUrl": null,
       "publishedAt": "2026-10-26T21:52:44.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_cb731b2388fa72f9",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
-      "snippet": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
-      "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:51:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_99e15cf56cd0de83",
+      "id": "story_f1746125f0880d8b",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Universal Music Group discussed going private with buyout firms, Bloomberg News reports - Reuters",
-      "snippet": "Universal Music Group discussed going private with buyout firms, Bloomberg News reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVU5Nbjk2QmtVb0dHRzNmaFlYdmRYaXZfVk1uWWxGSHpkd2xadExGdm1DUGMtUjBhVXlvUWV4UkJtYzFvdE11UHRUTEJiRTJQTzJyZkRyTFRwRnc5clJTVGRuYjRueFdBR2MwNHUydGxCakEwRGw1TF9yVC15aUw0VFZiWEtxWnpsNlUxbTdBVkQ2MXlHZlA3UFJnbXJwOEk5M28zei1nWmRzZFBpV09uWG5KVUwzVWtfUUE1TjRKZ0xOM3ZIeEp0TDBmbF9KbWdHb3NR?oc=5",
+      "headline": "Trading Day: AI light, Brazil flight - Reuters",
+      "snippet": "Trading Day: AI light, Brazil flight  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeGtjajJzcHA3THZRdGdBS1B0Tm9tZFhzU2ZhdE1ETng2dU1BdDFrckpuYng5YnhHT0g3UkwtWnR5U2RpMWt6OXlMTW53c2MteHZPMHhiNEZ5TnFwbGg4TFU4M3VIME5haDI1dTZSMkdNNzdRUFZSSXJ3Qmt3U3JsRTVmYjVkNGJYNU5Qcmo4VExKSzJac1J3MUl2aXIzSzhDalJaTWtB?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-10-26T21:50:24.000Z",
+      "publishedAt": "2026-10-26T21:52:23.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_17d80dcd00846567",
@@ -2576,123 +2693,6 @@
       "link": "https://www.france24.com/en/europe/20261026-serbia-elections-tracking-fraud-had-an-impact-on-results-vote-fraud",
       "imageUrl": "https://s.france24.com/media/display/ebe69ffe-d174-11f1-98c4-4d317af013fd/w:1024/p:16x9/Serbie-cover.jpg",
       "publishedAt": "2026-10-26T21:49:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f6138caddbaa1331",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene",
-      "snippet": "Oregon Ducks football dropped from the AP Poll after seven turnovers against UCLA and a stunning loss at Illinois despite being 10.5-point favorites.",
-      "link": "https://www.foxnews.com/outkick-sports/oregon-ducks-collapse-continues-loss-illinois-puts-dan-lanning-hot-seat-eugene",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:48:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c743c5f0a5bf7d84",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "DOJ charges Comey for third time",
-      "snippet": "Former FBI Director James Comey has been charged again by the Justice Department for allegedly disclosing sensitive national defense information in 2016, according to newly unsealed court documents. Comey was charged with two counts on Oct.",
-      "link": "https://thehill.com/regulation/court-battles/6173552-james-comey-doj-charges-third-time/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/05/Leading-Comey_121718_AP_Scott-Applewhite.jpg?w=900",
-      "publishedAt": "2026-10-26T21:48:04.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_41f1afb014ebeb85",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "DOJ seeks to prosecute Comey over alleged national defense disclosure",
-      "snippet": "The Justice Department filed a two-count criminal information accusing James Comey of communicating national defense information and conspiracy.",
-      "link": "https://www.foxnews.com/politics/doj-seeks-prosecute-comey-over-alleged-national-defense-disclosure",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:46:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_87903198765386d0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "James Comey faces new DOJ case over alleged national defense disclosure",
-      "snippet": "The Justice Department filed a two-count criminal information accusing James Comey of communicating national defense information and conspiracy.",
-      "link": "https://www.foxnews.com/politics/james-comey-faces-new-doj-case-over-alleged-national-defense-disclosure",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:46:28.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_7b349492b8abe9e9",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
-      "snippet": "Lawyers for Mr. Comey said that the case centers on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
-      "link": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:44:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9cebc3e0578c0875",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
-      "snippet": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
-      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:44:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_755ac944b4082ff5",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Tens of thousands of Israelis living abroad are expected to fly in for pivotal vote",
-      "snippet": "Tens of thousands of Israelis living abroad are expected to fly in for this month's election. That's according to AID Coalition, a U.S.-based nonprofit focused on strengthening Israel's democracy.",
-      "link": "https://www.pbs.org/newshour/politics/tens-of-thousands-of-israelis-living-abroad-are-expected-to-fly-in-for-pivotal-vote",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:44:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6f3389402a1679bd",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump stumps for Republicans in deep-red Mississippi",
-      "snippet": "As gas prices remain essentially the same as during the Biden administration, President Trump is stumping for Republican candidates in deep-red states like Mississippi. CBS News' Weijia Jiang reports on the White House's midterm strategy, a",
-      "link": "https://www.cbsnews.com/video/trump-stumps-republicans-deep-red-mississippi/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:42:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_56e164ae8df4065b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Africa food security under threat due to Iran war, trade officials warn",
-      "snippet": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
-      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T21:42:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
