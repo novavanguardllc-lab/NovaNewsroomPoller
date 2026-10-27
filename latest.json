@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T08:50:08.424Z",
+  "updatedAt": "2026-10-27T08:55:06.094Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.474Z"
+      "lastSuccess": "2026-10-27T08:55:06.277Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.518Z"
+      "lastSuccess": "2026-10-27T08:55:06.270Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.485Z"
+      "lastSuccess": "2026-10-27T08:55:06.515Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.525Z"
+      "lastSuccess": "2026-10-27T08:55:06.220Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.469Z"
+      "lastSuccess": "2026-10-27T08:55:06.201Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.527Z"
+      "lastSuccess": "2026-10-27T08:55:06.419Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.500Z"
+      "lastSuccess": "2026-10-27T08:55:06.359Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.581Z"
+      "lastSuccess": "2026-10-27T08:55:06.325Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.554Z"
+      "lastSuccess": "2026-10-27T08:55:06.315Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.550Z"
+      "lastSuccess": "2026-10-27T08:55:06.304Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.620Z"
+      "lastSuccess": "2026-10-27T08:55:06.417Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.563Z"
+      "lastSuccess": "2026-10-27T08:55:06.477Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.545Z"
+      "lastSuccess": "2026-10-27T08:55:06.335Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.541Z"
+      "lastSuccess": "2026-10-27T08:55:06.297Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.685Z"
+      "lastSuccess": "2026-10-27T08:55:06.388Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.834Z"
+      "lastSuccess": "2026-10-27T08:55:06.583Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T08:50:08.576Z"
+      "lastErrorAt": "2026-10-27T08:55:06.418Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.587Z"
+      "lastSuccess": "2026-10-27T08:55:06.376Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.659Z"
+      "lastSuccess": "2026-10-27T08:55:06.449Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.672Z"
+      "lastSuccess": "2026-10-27T08:55:06.504Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T08:50:08.621Z"
+      "lastErrorAt": "2026-10-27T08:55:06.496Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:08.744Z"
+      "lastSuccess": "2026-10-27T08:55:06.541Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T08:50:10.829Z"
+      "lastSuccess": "2026-10-27T08:55:08.327Z"
     }
   },
   "items": [
+    {
+      "id": "story_0652dc7b1c157497",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Morning news brief",
+      "snippet": "A new NPR poll reveals Democrats' advantage going into Election Day, congressional Democrats are forming a task force to protect the election, Netanyahu vies for reelection as polls open in Israel.",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6012225/morning-news-brief",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T08:48:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9b4f203c45431bb5",
       "source": "Politico",
@@ -1187,6 +1200,19 @@
       "publishedAt": "2026-10-27T04:26:00.000Z",
       "tier": "major",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_26f40f30bad18ea0",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "IEA flags concentration of clean energy supply chains as emerging challenge - Reuters",
+      "snippet": "IEA flags concentration of clean energy supply chains as emerging challenge  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTNqb1FZSDBNTWQ5VG5YbjNaOU5GbzJvWXRXY1FxMHRDa1hpbGFYb3FoMFQ0ZVlrTEtzUDk0aGx1TXV1U0FfWFExdzBMY1pSZ0JrUUJXV2F2SzVJTmI5WTkxV2tRNXFpSkhvQ2o5b3lFRVBqQzEzVHVkTGdIeFdvZENxbzhFR3dfOXEyRGpjWUlSdjRIYkw2WWtFQlNzTFVnUkI1Y2dTYnNQSnhka3U3VlM1NkZJbldXdEpPbW13?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T04:22:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2668,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T00:59:04.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5c50b819a4cb290",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Portland officials say city did not approve policies that led to removal of women's sports supporters",
-      "snippet": "Officials say the city of Portland is reviewing the Providence Park incident where women's sports supporters were struck and forcibly removed by security.",
-      "link": "https://www.foxnews.com/outkick-sports/portland-official-say-city-did-not-approve-policies-led-removal-womens-sports-supporters",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:56:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a0719666802b4db0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Flood-weary US Southwest eyes forecast for more rain - AP News",
-      "snippet": "Flood-weary US Southwest eyes forecast for more rain  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTg2ZTlKdVdmc1RKN1FvSWp1YlVVa3E0TEJxc2FUa1F5bTlnSnFMMkF5ZWlfa0V2NkVQWVNTRGdLQ0tQTWVWNWpkSVZ1YmRSU1RyX0N3U0R3OWg4c0lwczBPQ1dMMG42bjdadmNlRGR3MnNta3hRcXU2UFhma1E1WjF6U3VmenMwME1HRklRSUIySGJ1R0ZaeUtvQllQbWt0Yzk2NEJQc3Y?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:55:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
