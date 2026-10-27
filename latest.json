@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T20:10:08.672Z",
+  "updatedAt": "2026-10-27T20:15:08.431Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.791Z"
+      "lastSuccess": "2026-10-27T20:15:08.834Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.882Z"
+      "lastSuccess": "2026-10-27T20:15:08.674Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.842Z"
+      "lastSuccess": "2026-10-27T20:15:08.796Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.192Z"
+      "lastSuccess": "2026-10-27T20:15:09.227Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.959Z"
+      "lastSuccess": "2026-10-27T20:15:08.935Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.946Z"
+      "lastSuccess": "2026-10-27T20:15:08.949Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.868Z"
+      "lastSuccess": "2026-10-27T20:15:08.907Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.986Z"
+      "lastSuccess": "2026-10-27T20:15:08.990Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.026Z"
+      "lastSuccess": "2026-10-27T20:15:09.093Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.862Z"
+      "lastSuccess": "2026-10-27T20:15:08.649Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.936Z"
+      "lastSuccess": "2026-10-27T20:15:09.170Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.899Z"
+      "lastSuccess": "2026-10-27T20:15:08.688Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T20:10:09.062Z"
+      "lastErrorAt": "2026-10-27T20:15:09.231Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.078Z"
+      "lastSuccess": "2026-10-27T20:15:09.187Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T20:10:09.030Z"
+      "lastErrorAt": "2026-10-27T20:15:08.705Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.905Z"
+      "lastSuccess": "2026-10-27T20:15:08.928Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.030Z"
+      "lastSuccess": "2026-10-27T20:15:08.669Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.036Z"
+      "lastSuccess": "2026-10-27T20:15:09.127Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.061Z"
+      "lastSuccess": "2026-10-27T20:15:08.749Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:08.925Z"
+      "lastSuccess": "2026-10-27T20:15:08.866Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.148Z"
+      "lastSuccess": "2026-10-27T20:15:09.250Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:09.179Z"
+      "lastSuccess": "2026-10-27T20:15:09.418Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T20:10:10.967Z"
+      "lastSuccess": "2026-10-27T20:15:09.327Z"
     }
   },
   "items": [
+    {
+      "id": "story_851dcd93c9f47b56",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Flávio Bolsonaro Flees Brazil for the. U.S. After Election Defeat",
+      "snippet": "Mr. Bolsonaro was trying to get to the United States after the Brazilian police asked him to hand over his passports because of his links to an investigation.",
+      "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:07:22.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_35cfac32e6914717",
       "source": "The Hill",
@@ -106,6 +119,19 @@
       "link": "https://thehill.com/policy/international/6175889-israel-elections-netanyahu-what-to-know/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300399654100-e1793131751797.jpg?w=900",
       "publishedAt": "2026-10-27T20:05:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a05957d9bbd329ef",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Florida mom arrested after leaving 4 kids home alone during dayslong trip to Vegas",
+      "snippet": "A Florida mom was arrested and charged with child neglect after she left her four kids home alone for nearly three days while she was in Las Vegas, the local sheriff reported Monday.",
+      "link": "https://www.nbcnews.com/news/us-news/florida-mom-arrested-leaving-4-kids-home-alone-dayslong-trip-vegas-rcna605993",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T20:04:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2670,32 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_8d1aaea6910d3ea8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "FTC to sue to block Cintas-UniFirst deal, Semafor reports - Reuters",
-      "snippet": "FTC to sue to block Cintas-UniFirst deal, Semafor reports  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDQtaVdmQzlRSjFfYzNkVnRNMmhHQVpsYjNOMjQtQ0xqakYtX2FlR2FWbWpQVjRZWEl2QkxBSnNSY3duQzNrcm9rZ09RY0dkY0ZiV1J2SnJEQWRvUGFQZlY1YVV6bGVQaGw4VWJZdnFhQUVUVGRGeVB0dTBDMXJsQUFZS3FGZndEUXJncGY4Z0dGSVJCYzdEZ1BXUi1oQ1g2TlU3M0RR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T16:36:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a6dcec033a11d048",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "FBI searches California home tied to Eric Swalwell probe",
-      "snippet": "The Federal Bureau of Investigation (FBI) reportedly searched a California home tied to its current investigation into former Rep. Eric Swalwell (D-Calif.). The Beverly Hills mansion, owned by a donor of Swalwell’s, was searched as part of ",
-      "link": "https://thehill.com/homenews/house/6175253-fbi-searches-swalwell-donor-mansion/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Leading-Swalwell_040826_AP_Rich-Pedroncelli.jpg?w=900",
-      "publishedAt": "2026-10-27T16:35:27.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
