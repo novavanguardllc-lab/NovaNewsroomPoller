@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T05:25:06.157Z",
+  "updatedAt": "2026-10-27T05:30:11.809Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.240Z"
+      "lastSuccess": "2026-10-27T05:30:12.346Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.232Z"
+      "lastSuccess": "2026-10-27T05:30:12.389Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.558Z"
+      "lastSuccess": "2026-10-27T05:30:12.725Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.337Z"
+      "lastSuccess": "2026-10-27T05:30:12.146Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.377Z"
+      "lastSuccess": "2026-10-27T05:30:12.309Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.333Z"
+      "lastSuccess": "2026-10-27T05:30:12.328Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.331Z"
+      "lastSuccess": "2026-10-27T05:30:12.428Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.352Z"
+      "lastSuccess": "2026-10-27T05:30:12.463Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.441Z"
+      "lastSuccess": "2026-10-27T05:30:12.167Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.436Z"
+      "lastSuccess": "2026-10-27T05:30:12.222Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.429Z"
+      "lastSuccess": "2026-10-27T05:30:12.704Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.461Z"
+      "lastSuccess": "2026-10-27T05:30:12.248Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.474Z"
+      "lastSuccess": "2026-10-27T05:30:12.482Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.438Z"
+      "lastSuccess": "2026-10-27T05:30:12.108Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.494Z"
+      "lastSuccess": "2026-10-27T05:30:12.512Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.617Z"
+      "lastSuccess": "2026-10-27T05:30:12.103Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T05:25:06.500Z"
+      "lastErrorAt": "2026-10-27T05:30:12.182Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.511Z"
+      "lastSuccess": "2026-10-27T05:30:15.993Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.601Z"
+      "lastSuccess": "2026-10-27T05:30:12.607Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.539Z"
+      "lastSuccess": "2026-10-27T05:30:12.747Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T05:25:06.514Z"
+      "lastErrorAt": "2026-10-27T05:30:12.749Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.622Z"
+      "lastSuccess": "2026-10-27T05:30:12.822Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T05:25:06.783Z"
+      "lastSuccess": "2026-10-27T05:30:12.897Z"
     }
   },
   "items": [
+    {
+      "id": "story_a1592e13da01e6c5",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+      "snippet": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T05:22:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b476d2e871f88cf4",
       "source": "Guardian",
@@ -936,6 +949,19 @@
       "headline": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom - Reuters",
       "snippet": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom  Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkE2MkVyd2dKcU5mTWp1VmY5c0pENUN0WjhPTHJDTXZQRENZU2JQa09JbWJaTUpicnN0RkFuTllzRHE0bUtOSjdrSDBiZ3FMYVVhdjVtVFRZLXJoRmRmNldVWXg0SjUxVFppSjQyYXhVajhydnFRRS0yRmNEcW9XWjJZWWpUYjBUR1NCSWFFa3AzNFhDWDVYeVU2VHdQd2ZMcHM1NDhLM3RrTnY5MVlPU0szSWN4ZUlVRmN1OERpcFM3UTBtNGxUNXBVNzltalU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T02:17:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_883d00bb49f770ae",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows - Reuters",
+      "snippet": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ0MzWm5aTnVXVkhBQ2lxYVFWOGlTWmQtUXZnbEZrZ01aVS1oZVQ3ci0ySkNubUtybEJRTkRvbmRjaUJJRThaSHZPTjlteUYweS1PUE90VGJTeDF3M0ZsNmJNejBRdkctOXFXQ2NDODVBd29VUHZiMlRWaVF5YWxrTDlES2lUZ1dmajMySTdCQnVLMVdWUDBheGdzbERMWnp0NG9FSFN1TWNUa1hOSy1ucEZKNGs1T0V0U1daYkxJNC15N0FsQTdj?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-27T02:17:00.000Z",
       "tier": "major",
@@ -2667,32 +2693,6 @@
       "link": "https://www.nbcnews.com/nightly-news/video/manhunt-underway-for-convicted-murderer-who-escaped-from-tennessee-prison-272262213778",
       "imageUrl": null,
       "publishedAt": "2026-10-26T22:58:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9798c15f3cefc357",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Jordan says it attacked militants in Syria tied to church assault. Syria says civilians killed - AP News",
-      "snippet": "Jordan says it attacked militants in Syria tied to church assault. Syria says civilians killed  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFZuQkxtWGYzR1lVa1pka0JWN3dZYmFCMWQ2TEJneXFwWVdfWlc2eE5OLUUyT2kyNnhfUm5aWWdTNlRYY2YyeEFkeW1ZQmZHdmtNVVZLTDdKNGZNX0ZUOHlWR2ZPY1p6czZKb043WG1wdkt0NWNyeDdadHZaWEJIWk1GZWlXQkp4alNmZXFyUThQQmlHTjA1aWx6LWg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:57:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fdf78e3952a3bf6b",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Candidates enter final week of campaigning with control of Congress at stake",
-      "snippet": "It's crunch time for candidates across the country with Election Day just over a week away. On Monday, President Trump campaigned in ruby-red Mississippi, a state he won by almost 23 points two years ago. Over the weekend, the battleground ",
-      "link": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T22:55:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
