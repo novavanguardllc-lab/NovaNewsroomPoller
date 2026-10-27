@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T16:40:08.754Z",
+  "updatedAt": "2026-10-27T16:45:08.577Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:08.977Z"
+      "lastSuccess": "2026-10-27T16:45:08.953Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.060Z"
+      "lastSuccess": "2026-10-27T16:45:08.957Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:08.837Z"
+      "lastSuccess": "2026-10-27T16:45:08.877Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:08.917Z"
+      "lastSuccess": "2026-10-27T16:45:11.338Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:08.997Z"
+      "lastSuccess": "2026-10-27T16:45:08.757Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.241Z"
+      "lastSuccess": "2026-10-27T16:45:09.120Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:08.858Z"
+      "lastSuccess": "2026-10-27T16:45:08.734Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.032Z"
+      "lastSuccess": "2026-10-27T16:45:09.036Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.111Z"
+      "lastSuccess": "2026-10-27T16:45:09.236Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:08.954Z"
+      "lastSuccess": "2026-10-27T16:45:08.815Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.078Z"
+      "lastSuccess": "2026-10-27T16:45:09.166Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.000Z"
+      "lastSuccess": "2026-10-27T16:45:09.057Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T16:40:09.130Z"
+      "lastErrorAt": "2026-10-27T16:45:09.380Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.091Z"
+      "lastSuccess": "2026-10-27T16:45:09.379Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T16:40:09.071Z"
+      "lastErrorAt": "2026-10-27T16:45:09.174Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.049Z"
+      "lastSuccess": "2026-10-27T16:45:09.063Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.037Z"
+      "lastSuccess": "2026-10-27T16:45:09.075Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.075Z"
+      "lastSuccess": "2026-10-27T16:45:13.752Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.124Z"
+      "lastSuccess": "2026-10-27T16:45:09.162Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.058Z"
+      "lastSuccess": "2026-10-27T16:45:09.082Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.270Z"
+      "lastSuccess": "2026-10-27T16:45:09.403Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.233Z"
+      "lastSuccess": "2026-10-27T16:45:09.356Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T16:40:09.153Z"
+      "lastSuccess": "2026-10-27T16:45:17.288Z"
     }
   },
   "items": [
+    {
+      "id": "story_60b91f566c8e6b59",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "House report says NYC prosecutors tailored plea deals to shield illegal immigrants from deportation",
+      "snippet": "House Judiciary Committee claims New York City district attorneys trained prosecutors to craft immigration-safe plea deals for noncitizen defendants.",
+      "link": "https://www.foxnews.com/politics/house-report-nyc-prosecutors-tailored-plea-deals-shield-illegal-immigrants-deportation",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T16:39:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8615912055b4de14",
       "source": "UPI",
@@ -107,6 +120,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/8161793115511/2026/i/17931156193688/v1.5/Brazil-monitors-borders-amid-fears-Flvio-Bolsonaro-may-flee.jpg",
       "publishedAt": "2026-10-27T16:38:05.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_115a2445647010de",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Police bodycam debunks ‘too good’ claim as parents of 3-year-old soccer prodigy push GoFundMe",
+      "snippet": "Bodycam footage from Winter Park police reveals why officers were actually called to a youth soccer game, contradicting the family's viral GoFundMe claims.",
+      "link": "https://www.foxnews.com/outkick-sports/police-bodycam-debunks-too-good-claim-parents-3-year-old-soccer-prodigy-push-gofundme",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T16:36:21.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1238,6 +1264,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T14:58:01.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ba853cbf593e14c6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
+      "snippet": "US consumer confidence recovers in October as gas prices eased a bit  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkp3Y2pHeVVWMm1DT1NJUm1veTh6QWNhN0JGVHFjWElMTWw3eklNc0hUVVBhM3ZOdnpkUFRsU01wSjdsbFFjNzlfd1RYTGdXVWpJY055ZV9VczZXSTNKRzVZNktiZlFSTUJtQ3RYay1Qa1BKM3RTQmdBZHhyVVR3TnFORjI4MkpjQzcwU2dGRkZ6TENIeFZKUGlRblF0cHNRWFE0VE5DaTFidw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T14:58:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2656,45 +2695,6 @@
       "publishedAt": "2026-10-27T13:43:47.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2f98c7b2da30650",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "How Trump’s ‘little detour’ to Iran became a roadblock in the midterm elections - AP News",
-      "snippet": "How Trump’s ‘little detour’ to Iran became a roadblock in the midterm elections  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHFMd19DUDYxZ0pKcWZCVl9qaHlDT0o5Ulo0T0pKZnlSVUVNUEZ5bVh1bHlMZm9kTkhOb1NYTmxYZTNJR19NRkctck1KVkpjZnJ0b19EdjBOUTJyNlQ5eUFXdzZmblZEbEpIYkpLQVRDS0FMUjhOdTk2Wm5wVVBSeWdBUXk0RXBaVzFUX2YzWUplTzdjYXV0NlM5LTVSaGdKSGZzTVR3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T13:43:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f9fc7b8bc8a407c3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump on the defense in red states; Ilhan Omar campaigns with Hasan Piker",
-      "snippet": "President Trump continues to campaign for Republican candidates ahead of the midterms. Plus, more details on races in Minnesota and Ohio, where notable figures are rallying for candidates. CBS News' Fin Gómez and Taurean Small report.",
-      "link": "https://www.cbsnews.com/video/trump-on-the-defense-in-red-states-ilhan-omar-campaigns-with-hasan-piker/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T13:42:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3f56b058b59a39c1",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "High inflation to persist globally into next year, Reuters poll shows - Reuters",
-      "snippet": "High inflation to persist globally into next year, Reuters poll shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSGlkNFRUdUxnaVVWLTVGV2pJeEdyQzVIUTBoak15M0dBVjMzcGZrV0NjMnVISDZud2U2RGdDcXc3NUZpSU5QNGtSS0xpc2F3QkR0Y05OOE00czlTSUV6ZUQ1V1Vrdk9BT2x6Qzk1a1IycThjeEJ0bk5MT3FjN0FxTEpvdFV1aEZ6MkRfTkJpbVU5eEZVdlhOVzdxVkJENXpjazlRVk0yZlROcTByLVluVXp0MA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T13:41:44.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
