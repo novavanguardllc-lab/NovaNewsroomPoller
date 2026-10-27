@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T07:25:05.860Z",
+  "updatedAt": "2026-10-27T07:30:11.836Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.001Z"
+      "lastSuccess": "2026-10-27T07:30:13.558Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:05.941Z"
+      "lastSuccess": "2026-10-27T07:30:12.225Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.324Z"
+      "lastSuccess": "2026-10-27T07:30:12.309Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.022Z"
+      "lastSuccess": "2026-10-27T07:30:12.005Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:05.980Z"
+      "lastSuccess": "2026-10-27T07:30:12.085Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.027Z"
+      "lastSuccess": "2026-10-27T07:30:12.334Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.071Z"
+      "lastSuccess": "2026-10-27T07:30:12.185Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.008Z"
+      "lastSuccess": "2026-10-27T07:30:12.346Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.109Z"
+      "lastSuccess": "2026-10-27T07:30:12.127Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.165Z"
+      "lastSuccess": "2026-10-27T07:30:12.106Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.105Z"
+      "lastSuccess": "2026-10-27T07:30:12.447Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.120Z"
+      "lastSuccess": "2026-10-27T07:30:12.288Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.145Z"
+      "lastSuccess": "2026-10-27T07:30:14.715Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.107Z"
+      "lastSuccess": "2026-10-27T07:30:12.351Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.139Z"
+      "lastSuccess": "2026-10-27T07:30:12.272Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.063Z"
+      "lastSuccess": "2026-10-27T07:30:12.246Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T07:25:06.146Z"
+      "lastErrorAt": "2026-10-27T07:30:12.354Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.162Z"
+      "lastSuccess": "2026-10-27T07:30:12.489Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.250Z"
+      "lastSuccess": "2026-10-27T07:30:12.559Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.168Z"
+      "lastSuccess": "2026-10-27T07:30:12.569Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T07:25:06.166Z"
+      "lastErrorAt": "2026-10-27T07:30:12.584Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:06.224Z"
+      "lastSuccess": "2026-10-27T07:30:12.603Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T07:25:08.095Z"
+      "lastSuccess": "2026-10-27T07:30:12.677Z"
     }
   },
   "items": [
+    {
+      "id": "story_e7016c03eca0c093",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "India news: Arunachal sees fresh violence over proposed dam",
+      "snippet": "More violence erupted in India's northeastern state of Arunachal Pradesh over proposed hydroelectric projects that locals are protesting. Also, India's top court will hear pleas against the poll body chief. More on DW.",
+      "link": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T07:23:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_f8a0b434e80f1b8a",
       "source": "BBC",
@@ -106,6 +119,19 @@
       "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:15:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5f1b7e8739a9c2fd",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Wales first minister : ‘We’re within a union that is not a union of equals’",
+      "snippet": "Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T07:14:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -171,6 +197,19 @@
       "link": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:00:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a32590f8ee16e776",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+      "snippet": "Countries also urge Sudan's warring parties to 'lift all impediments on humanitarian assistance'.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T06:56:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2656,45 +2695,6 @@
       "publishedAt": "2026-10-27T00:03:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7805a88dfaa4f6f9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Netanyahu's political survival on the line as Israel votes - Reuters",
-      "snippet": "Netanyahu's political survival on the line as Israel votes  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3lQVU9MdTNicEFJNm5HS2VmVmV4Mks3SGc4Um1XWDFBTjBPVHJUMzFUNGNicDItS0FGZ3gxelpIenRsTU5kZDhlRWJOUUowVFM4czRZdHRZSHV3LU5xa2xNQU9BTGVZVFlkRUFYT1dnTjRiYXQ4MUNZdXNMNVFQcXl2RUhYbnU0ZHVjcXExTjdaN2U4N28ycjBRZlVzRTA1eUNz?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b49141b8be4d51ca",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
-      "snippet": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group \nAI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, acc",
-      "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:01:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6a600d39cab661fa",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
-      "snippet": "British Retail Consortium says ‘dam is starting to break on the huge wave of costs’ being kept from consumers\nShop price inflation has risen to the highest level in two and a half years, according to the British Retail Consortium, which war",
-      "link": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:01:02.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
