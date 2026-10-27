@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-27T19:10:08.534Z",
+  "updatedAt": "2026-10-27T19:15:09.091Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.783Z"
+      "lastSuccess": "2026-10-27T19:15:09.519Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.692Z"
+      "lastSuccess": "2026-10-27T19:15:09.616Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.673Z"
+      "lastSuccess": "2026-10-27T19:15:09.601Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.979Z"
+      "lastSuccess": "2026-10-27T19:15:09.697Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.714Z"
+      "lastSuccess": "2026-10-27T19:15:09.337Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.813Z"
+      "lastSuccess": "2026-10-27T19:15:09.674Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.707Z"
+      "lastSuccess": "2026-10-27T19:15:09.259Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.836Z"
+      "lastSuccess": "2026-10-27T19:15:09.657Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.864Z"
+      "lastSuccess": "2026-10-27T19:15:09.441Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:09.077Z"
+      "lastSuccess": "2026-10-27T19:15:09.716Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.906Z"
+      "lastSuccess": "2026-10-27T19:15:09.684Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.871Z"
+      "lastSuccess": "2026-10-27T19:15:09.243Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T19:10:08.935Z"
+      "lastErrorAt": "2026-10-27T19:15:09.904Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.945Z"
+      "lastSuccess": "2026-10-27T19:15:09.893Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T19:10:08.932Z"
+      "lastErrorAt": "2026-10-27T19:15:09.611Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.869Z"
+      "lastSuccess": "2026-10-27T19:15:09.317Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.910Z"
+      "lastSuccess": "2026-10-27T19:15:09.295Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:09.274Z"
+      "lastSuccess": "2026-10-27T19:15:09.758Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.805Z"
+      "lastSuccess": "2026-10-27T19:15:09.876Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.887Z"
+      "lastSuccess": "2026-10-27T19:15:09.312Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:08.996Z"
+      "lastSuccess": "2026-10-27T19:15:09.922Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:09.062Z"
+      "lastSuccess": "2026-10-27T19:15:09.841Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T19:10:11.668Z"
+      "lastSuccess": "2026-10-27T19:15:14.586Z"
     }
   },
   "items": [
+    {
+      "id": "story_04938f8f428d236b",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "How often should you update your financial plan?",
+      "snippet": "Your financial plan shouldn't stay static. Here's when it makes sense to take another look.",
+      "link": "https://www.cbsnews.com/news/how-often-should-you-update-your-financial-plan/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T19:13:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_440b8fb0f25ea5c3",
       "source": "Wash Examiner",
@@ -106,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/opinion/columnists/4781546/josh-shapiro-promises-restraint-democrats-eye-pennsylvania-sweep/",
       "imageUrl": null,
       "publishedAt": "2026-10-27T19:08:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7369e7580bb31884",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "175 Democrats demand Trump admin stop Ilhan Omar investigation, warn it could hurt her re-election bid",
+      "snippet": "Rep. Pramila Jayapal led 175 House Democrats in accusing DHS and DOJ of weaponizing the federal investigation into Ilhan Omar's immigration history.",
+      "link": "https://www.foxnews.com/politics/175-democrats-demand-trump-admin-stop-ilhan-omar-investigation-warn-could-hurt-her-re-election-bid",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T19:06:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -327,6 +353,19 @@
       "link": "https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26299720801143-e1793121235949.jpg?w=900",
       "publishedAt": "2026-10-27T18:44:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c911cf8a7271aa1d",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "snippet": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T18:43:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2655,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T15:35:42.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea224132fb650983",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Flavio Bolsonaro misses deadline to turn in passports to Brazil police - Reuters",
-      "snippet": "Flavio Bolsonaro misses deadline to turn in passports to Brazil police  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnROWC1LNTZRLVpEbGdRRUI3YWN4X3FBbEJNeW0tX1ZqVzFfZ3ZGYXVGcVV4U194V3hEU1RROVFUemxNT0pRVkdPNFllWDE5ZjNxNnhJeC1HWmJ5QVZVdEZ2TUxVQ09kc203ZGl5NzlxV2RBcVFmMFgxamZYYzFzWkk0bWZRMXVYUzBSNGJRSlhRRlFyUzVUUlhSUWVCVWFYa2lnQ2FybW1Rb05xUU8xTHFB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:35:21.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b09670a60d65c6fd",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Florida mom left kids home alone while on trip to Vegas, deputies say",
-      "snippet": "The investigation began when a child called 911 reporting a dumbbell fell on her brother's head, deputies say.",
-      "link": "https://www.cbsnews.com/news/florida-mom-leaves-kids-home-alone-las-vegas-trip/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:33:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e1193e6631ff332a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Tennessee inmate serving life for murder stole a truck after slipping through the prison fence - AP News",
-      "snippet": "Tennessee inmate serving life for murder stole a truck after slipping through the prison fence  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSG10bVl3THRNOXZNWVpLNDhKWjFpQ0J1Qm9FeHZ2eTMzQ0Vkd29IcnZFVTM2aGpfOVB3UTZhQU1vNlV5SE5NMWhTRDdXS19kVE94eHkwNW5yck9zeV9hNmx6Z1k5MlQ2N0h6T3NLbGh3WGN5bXhSSXpFSkkxS1B3d196WkI2MnkxRFY0YjJIMkhWTXE0ODZYdTk4YUZNaWN2bmhN?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:33:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
