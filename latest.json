@@ -1,103 +1,154 @@
 {
-  "updatedAt": "2026-10-27T18:50:08.667Z",
+  "updatedAt": "2026-10-27T18:55:05.983Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.891Z"
+      "lastSuccess": "2026-10-27T18:55:06.118Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.914Z"
+      "lastSuccess": "2026-10-27T18:55:06.089Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.840Z"
+      "lastSuccess": "2026-10-27T18:55:06.051Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:09.200Z"
+      "lastSuccess": "2026-10-27T18:55:06.082Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.912Z"
+      "lastSuccess": "2026-10-27T18:55:06.094Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.905Z"
+      "lastSuccess": "2026-10-27T18:55:06.162Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.761Z"
+      "lastSuccess": "2026-10-27T18:55:06.087Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.939Z"
+      "lastSuccess": "2026-10-27T18:55:06.154Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.966Z"
+      "lastSuccess": "2026-10-27T18:55:06.214Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:09.151Z"
+      "lastSuccess": "2026-10-27T18:55:06.444Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.780Z"
+      "lastSuccess": "2026-10-27T18:55:06.136Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.868Z"
+      "lastSuccess": "2026-10-27T18:55:06.138Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-27T18:50:08.974Z"
+      "lastErrorAt": "2026-10-27T18:55:06.170Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.990Z"
+      "lastSuccess": "2026-10-27T18:55:06.195Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-27T18:50:08.901Z"
+      "lastErrorAt": "2026-10-27T18:55:06.154Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.796Z"
+      "lastSuccess": "2026-10-27T18:55:06.142Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-27T18:50:08.913Z"
+      "online": true,
+      "lastSuccess": "2026-10-27T18:55:06.173Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:13.336Z"
+      "lastSuccess": "2026-10-27T18:55:06.178Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.929Z"
+      "lastSuccess": "2026-10-27T18:55:06.226Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:08.864Z"
+      "lastSuccess": "2026-10-27T18:55:06.166Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:09.030Z"
+      "lastSuccess": "2026-10-27T18:55:06.262Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:09.184Z"
+      "lastSuccess": "2026-10-27T18:55:06.256Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-27T18:50:11.123Z"
+      "lastSuccess": "2026-10-27T18:55:06.284Z"
     }
   },
   "items": [
+    {
+      "id": "story_e885f7cf12cdd546",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Serial killer Ted Bundy linked to another Utah girl's cold case murder",
+      "snippet": "A Utah prosecutor said Ted Bundy was responsible for killing 17-year-old Melissa Ann Smith in 1974, a death that had long been listed as a cold case.",
+      "link": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T18:54:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fc711997fbf855a7",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " SCOTUS won't restore policy that lets immigration judges close deportation cases",
+      "snippet": "The Supreme Court has declined to unfreeze a Biden-era policy that allowed immigration judges to temporarily close deportation cases for immigrants.",
+      "link": "https://abcnews.com/US/supreme-court-declines-restore-policy-allowing-immigration-judges/story?id=137614314",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T18:51:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_36a4066b8aa06874",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "4 in 10 say personal finances worsening: Survey",
+      "snippet": "Four in 10 Americans say their personal finances are deteriorating, according to a new poll released shortly before November’s midterm elections. In the NPR/PBS News/Marist Poll, 40 percent of people said their “personal family finances” ha",
+      "link": "https://thehill.com/business/6175688-americans-personal-finances-declining/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26007102723405-e1793126360391.jpg?w=900",
+      "publishedAt": "2026-10-27T18:50:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_61f70835a0e9a521",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Democrats seize on Machado’s return to push for Venezuela elections",
+      "snippet": "Democratic lawmakers urged the Venezuelan government to hold elections following opposition leader María Corina Machado’s recent return to the country after nearly a year in exile. Sen. Jeanne Shaheen (D-N.H.), the top Democrat on the Senat",
+      "link": "https://thehill.com/homenews/senate/6175609-lawmakers-urge-venezuela-elections-machado-return/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26298862786633-e1793126736428.jpg?w=900",
+      "publishedAt": "2026-10-27T18:45:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7656e8e9a49a308d",
       "source": "Wash Examiner",
@@ -268,6 +319,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fdaf507ee37ec644",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Hate cleaning pine needles? These artificial Christmas trees are for you",
+      "snippet": "Artificial Christmas trees are reusable for 10 to 20 years if stored properly, experts say. Shop  top-rated options from Amazon, Target, Balsam Hill and more.",
+      "link": "https://www.nbcnews.com/select/shopping/best-artificial-christmas-trees-rcna605922",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T18:29:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_81219471efacabe7",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -396,6 +460,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_71c8f67225e2aa58",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Alex Pretti’s Parents Say Federal Government Is Silent on Investigation",
+      "snippet": "The parents of the Minneapolis nurse who was fatally shot by federal agents in January said on Tuesday that the government had ignored and misled them.",
+      "link": "https://www.nytimes.com/2026/10/27/us/alex-pretti-parents-federal-investigation.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T18:20:27.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_e76a5e7ef3fe2c4c",
@@ -2616,84 +2693,6 @@
       "link": "https://www.semafor.com/article/10/27/2026/ftc-flexes-its-muscles-on-5-billion-uniform-deal",
       "imageUrl": "https://img.semafor.com/b914b9c7fcfca9120320fa3baf9bb9f1a5162927-6655x4437.jpg",
       "publishedAt": "2026-10-27T15:14:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bd1c4179d3196fe6",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Israeli police arrest man with knife near left-wing leader",
-      "snippet": "A man with a knife was arrested at an Israeli election event for left-wing leader Yair Golan as Israelis vote in a crucial election.",
-      "link": "https://www.cbsnews.com/news/israel-yair-golan-police-arrest-man-knife-election-day/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:12:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92f75cadc60e2630",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Multi-state manhunt underway as murder victim's close friend fears escaped killer could strike again",
-      "snippet": "Jacob Allen Morley breached the Northwest Correctional Complex perimeter fence and stole a pickup truck, triggering a massive multi-state manhunt.",
-      "link": "https://www.foxnews.com/us/multi-state-manhunt-underway-murder-victim-close-friend-fears-escaped-killer-could-strike-again",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:11:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa0cacede1106d06",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Cyclone Arnab batters India’s east coast",
-      "snippet": "Heavy rains and coastal floodings hit India’s east coast on Tuesday as cyclone Arnab is making landfall.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cyclone-arnab-batters-indias-east-coast?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:11:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9d392375cd6cd279",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Russian satellites help Iran’s allies strike Saudi Arabia, data and officials say - AP News",
-      "snippet": "Russian satellites help Iran’s allies strike Saudi Arabia, data and officials say  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWpwZ3lIbV9zY3hiUWNRTzdnUy1HUU9sNXJ2cDhsa2RUc3ppdUZ5VGtBdDhEclVtSnlxVC03SzhnQk9hV1pRcWFKX0hNLTdmOFBsQ09zdzFtN3RzVUdDdXU4bUVMNXd5YzBkcGZtNFpKekstS0xQT0xqY3hqekxLMVRvaVp2NDZ3dEg5SmtteVJYeW1WZUgyRmRoRERNSm1KU1JpY1U5Q2FzbGFZcjhPY1F6M0xXZjVp?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c983b9bd4537098b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israeli military detains Egyptian national who crossed border",
-      "snippet": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:10:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bd2c915281d1659",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-      "snippet": "The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:08:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
