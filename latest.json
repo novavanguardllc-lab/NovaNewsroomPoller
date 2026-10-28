@@ -1,103 +1,194 @@
 {
-  "updatedAt": "2026-10-28T13:10:09.144Z",
+  "updatedAt": "2026-10-28T13:15:10.075Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.281Z"
+      "lastSuccess": "2026-10-28T13:15:10.311Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.292Z"
+      "lastSuccess": "2026-10-28T13:15:10.344Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.666Z"
+      "lastSuccess": "2026-10-28T13:15:10.824Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.628Z"
+      "lastSuccess": "2026-10-28T13:15:10.303Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.346Z"
+      "lastSuccess": "2026-10-28T13:15:10.276Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.396Z"
+      "lastSuccess": "2026-10-28T13:15:10.483Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.361Z"
+      "lastSuccess": "2026-10-28T13:15:10.361Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.510Z"
+      "lastSuccess": "2026-10-28T13:15:10.356Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.349Z"
+      "lastSuccess": "2026-10-28T13:15:10.421Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T13:10:09.511Z"
+      "lastErrorAt": "2026-10-28T13:15:10.525Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.263Z"
+      "lastSuccess": "2026-10-28T13:15:10.427Z"
     },
     "UPI": {
-      "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.306Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-28T13:15:20.091Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.382Z"
+      "lastSuccess": "2026-10-28T13:15:10.416Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.579Z"
+      "lastSuccess": "2026-10-28T13:15:10.523Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.248Z"
+      "lastSuccess": "2026-10-28T13:15:10.222Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.463Z"
+      "lastSuccess": "2026-10-28T13:15:10.626Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.523Z"
+      "lastSuccess": "2026-10-28T13:15:10.796Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.509Z"
+      "lastSuccess": "2026-10-28T13:15:10.498Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T13:10:09.517Z"
+      "lastErrorAt": "2026-10-28T13:15:10.716Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.775Z"
+      "lastSuccess": "2026-10-28T13:15:10.696Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.748Z"
+      "lastSuccess": "2026-10-28T13:15:10.768Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:10:09.583Z"
+      "lastSuccess": "2026-10-28T13:15:10.865Z"
     },
     "The Hill": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-28T13:10:19.175Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T13:15:10.848Z"
     }
   },
   "items": [
+    {
+      "id": "story_1ef57d96beb990e5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "How to get rid of unwanted AI on your phone",
+      "snippet": "Google AI Overviews can't be permanently turned off, but adding -AI to your searches and using the built-in Web filter can help bypass AI summaries.",
+      "link": "https://www.foxnews.com/tech/how-get-rid-unwanted-ai-your-phone",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:12:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_65486ea181ec04f6",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Death toll in Spain train crash rises to at least 64, with rescue and recovery operations ongoing",
+      "snippet": "Two high-speed trains carrying hundreds of passengers collided in central Spain south of Madrid. Officials warn that the death toll is likely to increase. Follow DW.",
+      "link": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-64-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:12:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f7511e7edfbf4195",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Paige Spiranac leaves her fans speechless with 'fall golf' content series, Raiders fan fight & hot dog prices",
+      "snippet": "Screencaps, America's Best Daily Column, covers Paige Spiranac's fall golf bat signal, golf cart heaters, and Costco hand warmers for cold rounds.",
+      "link": "https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-fans-speechless-fall-golf-content-series-raiders-fan-fight-hot-dog-prices",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:11:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5810113f8680b7c3",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Canada, UAE boost trade network under new deal",
+      "snippet": "Prime Minister Mark Carney is seeking to offset the strain in the trade relationship with the US.",
+      "link": "https://www.semafor.com/article/10/28/2026/the-uae-pitches-itself-as-a-global-trade-gateway",
+      "imageUrl": "https://img.semafor.com/f4cf6bf95f2ec17cb5f88671c0a0042625b97d95-1920x1242.jpg",
+      "publishedAt": "2026-10-28T13:10:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0ab1da7a7a1c592e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Leftist streamer triggers fury after mocking 'funny' injuries to ICE agents at Ilhan Omar event: ‘Disgusting’",
+      "snippet": "Hasan Piker mocked injured ICE agents during a Minneapolis campaign event with Rep. Ilhan Omar, drawing swift condemnation from conservatives.",
+      "link": "https://www.foxnews.com/politics/leftist-streamer-triggers-fury-mocking-funny-injuries-ice-agents-ilhan-omar-event-disgusting",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:10:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d202261d18f501e7",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "No official winner yet in Israeli election as votes continue to be counted",
+      "snippet": "Votes are still being counted in the Israeli election between front-runners Prime Minister Benjamin Netanyahu and Gadi Eisenkot with neither likely to obtain a majority. Matt Gutman reports.",
+      "link": "https://www.cbsnews.com/video/no-official-winner-yet-in-israeli-election-as-votes-continue-to-be-counted/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:09:27.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_0403cc82c487a8c4",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Israel's election results are unclear. Here's what comes next.",
+      "snippet": "The vote count is still underway in Israel's elections, but no clear winner has emerged. CBS News' Dov Lieber reports.",
+      "link": "https://www.cbsnews.com/video/israels-election-results-are-unclear-heres-what-comes-next/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:07:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3f960aa330fceb1b",
       "source": "Wash Examiner",
@@ -107,6 +198,19 @@
       "link": "https://www.washingtonexaminer.com/news/entertainment/4782471/piker-sues-scott-jennings-for-72-5-million-defamation-lawsuit/",
       "imageUrl": null,
       "publishedAt": "2026-10-28T13:05:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b4e983722f54a13f",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "What's gone up even faster than gas or rent? The cost of caregiving",
+      "snippet": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:05:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1252,6 +1356,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T11:11:32.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_11e0c306454ce5c9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro - Reuters",
+      "snippet": "Brazil Supreme Court says no search warrant issued against Senator Flavio Bolsonaro  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa3haOWdlVTZzOVIzZk9zZE11UHhGeDBtOVJXeEo3c3NWeHRWd3F2SU5BOE4zcWRpeVFuVVUwYkl4eFJDbDVPNVVKaUhSREFwSENKWkF1NFloTlg2c1NrQkJhdzFJcW42dXV2UmgxUE44YWJvbkp5b3YwdEE3b1ROZy1sZ0d5YkFPeTFjTWwwZDZOVFQ5cEwyeTBIZURidDFEMzBwZVZPQlkzYmNlUEprQmVNbW8xcTlISWVvLV9GX0VZUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:09:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2577,123 +2694,6 @@
       "link": "https://thehill.com/homenews/house/6176452-jeffries-hegseth-house-impeachment/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/jeffrieshakeem_093026gn12_w.jpg?w=900",
       "publishedAt": "2026-10-28T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2e557ad5be528a67",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Stellantis operating profit rises as cost cuts gain traction - Reuters",
-      "snippet": "Stellantis operating profit rises as cost cuts gain traction  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcy04bFRZODBHbmRnMHpGWWVIcW1ab0NoLWZVeXFkdWszd0dHYWwyQVI4dFJLVVdGTy1KbHZTa0lUYi1NNGtIVWg5eWlxcktWQ0lDMDR3VFd1al83ZFB5TlBnX1ZMdGlpVmhUNGJzNmVSQWUwbEFFcXluaWlQZ0NyUUtrXzlNMHJRZ2ZuNWJFeUpfS0VQTDd1T1hicWcxTzlSR0x5bDNjWmRoTGc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:59:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa39d7ab2fea2a3d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israel’s stock market drops as exit polls show no clear election winner",
-      "snippet": "Benchmark Tel Aviv 125 index falls more than 3 percent amid uncertainty over who will lead the next government.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:55:47.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7b13a132a118b9dc",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Healey poised to overturn cut to cash Isa allowance in first budget",
-      "snippet": "Chancellor’s predecessor Rachel Reeves had planned to reduce allowance from £20,000 to £12,000 a year from April \n\nBusiness live – latest updates\n\nWhat to expect from the budget: who wins, who pays?\n\nJohn Healey is to use his first budget t",
-      "link": "https://www.theguardian.com/money/2026/oct/28/healey-poised-to-overturn-cut-to-cash-isa-allowance-in-first-budget",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:55:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b74a9465c71c0344",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Viral explorer finishes 500-mile paddle through Africa",
-      "snippet": "ABC News' Danny New talks to Ash Dykes, an explorer who kayaked for 500 miles down the Congo Basin in Africa, paddling alongside monkeys and hippos.",
-      "link": "https://abcnews.com/video/137632558/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:54:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fdfc3e76f40f171f",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "At least 10 dead after two trains collide in Spain",
-      "snippet": "At least 10 people were killed when two high-speed trains crashed into each other in central Spain on Wednesday, officials in the country said.",
-      "link": "https://www.nbcnews.com/world/spain/spain-train-crash-high-speed-collision-toledo-rcna606070",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:50:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 9
-    },
-    {
-      "id": "story_6216349f6fa54cf8",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "JONATHAN TURLEY: Supreme Court must take Herridge case and protect reporters' sources",
-      "snippet": "Former Fox News investigative reporter Catherine Herridge has asked the Supreme Court to hear an appeal centered on her refusal to reveal her confidential sources.",
-      "link": "https://www.foxnews.com/opinion/jonathan-turley-supreme-court-must-take-herridge-case-protect-reporters-sources",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:50:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5738378edfd0ec0",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Ten reported dead after two trains collide in Spain – latest updates",
-      "snippet": "Spain’s rail system operator ADIF said the crash occurred Wednesday morning in the province of Toledo\nLocal government spokesperson told TVE that the death toll “will almost certainly rise.”\nEsther Padilla told the broadcaster the situation",
-      "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:48:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_6d4c38fea3130d3a",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Russia in Africa: What is Putin hoping to achieve?",
-      "snippet": "Following its invasion of Ukraine and the resulting rift with the West, Russia has declared that it intends to make a \"historic return\" to Africa. What have we seen of this so far?",
-      "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:48:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8216a8df2abd9133",
-      "source": "Politico",
-      "sourceColor": "#A65A2E",
-      "headline": "Republicans rethink their attacks on AOC",
-      "snippet": "",
-      "link": "https://www.politico.com/video/2026/10/28/republicans-rethink-their-attacks-on-aoc-2214551",
-      "imageUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/2e63fb4c-2e39-4801-b4a1-41425e417b10/180a7696-6cef-4df0-bcc2-560710af0ab5/1280x720/match/image.jpg",
-      "publishedAt": "2026-10-28T09:45:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
