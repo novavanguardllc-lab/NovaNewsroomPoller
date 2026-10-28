@@ -1,104 +1,115 @@
 {
-  "updatedAt": "2026-10-28T01:10:08.327Z",
+  "updatedAt": "2026-10-28T01:15:08.567Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.373Z"
+      "lastSuccess": "2026-10-28T01:15:08.740Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.387Z"
+      "lastSuccess": "2026-10-28T01:15:08.891Z"
     },
     "AP": {
-      "online": false,
-      "lastError": "Status code 503",
-      "lastErrorAt": "2026-10-28T01:10:16.589Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T01:15:08.796Z"
     },
     "Reuters": {
-      "online": false,
-      "lastError": "Status code 503",
-      "lastErrorAt": "2026-10-28T01:10:15.788Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T01:15:08.844Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.826Z"
+      "lastSuccess": "2026-10-28T01:15:09.003Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.511Z"
+      "lastSuccess": "2026-10-28T01:15:09.058Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.439Z"
+      "lastSuccess": "2026-10-28T01:15:08.880Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.537Z"
+      "lastSuccess": "2026-10-28T01:15:08.856Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.411Z"
+      "lastSuccess": "2026-10-28T01:15:08.866Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T01:10:08.565Z"
+      "lastErrorAt": "2026-10-28T01:15:08.956Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.505Z"
+      "lastSuccess": "2026-10-28T01:15:09.205Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.500Z"
+      "lastSuccess": "2026-10-28T01:15:08.918Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.544Z"
+      "lastSuccess": "2026-10-28T01:15:08.946Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.432Z"
+      "lastSuccess": "2026-10-28T01:15:09.022Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.409Z"
+      "lastSuccess": "2026-10-28T01:15:09.202Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.536Z"
+      "lastSuccess": "2026-10-28T01:15:09.180Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.549Z"
+      "lastSuccess": "2026-10-28T01:15:09.318Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.539Z"
+      "lastSuccess": "2026-10-28T01:15:09.244Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T01:10:08.554Z"
+      "lastErrorAt": "2026-10-28T01:15:09.400Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:12.707Z"
+      "lastSuccess": "2026-10-28T01:15:09.297Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.645Z"
+      "lastSuccess": "2026-10-28T01:15:09.388Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.606Z"
+      "lastSuccess": "2026-10-28T01:15:09.419Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T01:10:08.652Z"
+      "lastSuccess": "2026-10-28T01:15:09.711Z"
     }
   },
   "items": [
+    {
+      "id": "story_384a9f72ca1002a1",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Timberwolves lose Anthony Edwards for 2 months after arthroscopic procedure on right knee: report",
+      "snippet": "Anthony Edwards dropped 47 points against Cleveland before the Timberwolves announced he needs arthroscopic knee surgery and a two-month absence.",
+      "link": "https://www.foxnews.com/outkick-sports/timberwolves-lose-anthony-edwards-2-months-arthroscopic-procedure-right-knee-report",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T01:05:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_548eb3b2809b3ae9",
       "source": "The Hill",
@@ -421,6 +432,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T00:16:58.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9d9089a1391333ef",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Disinformation videos, likely from Russia, are exploiting real people to malign Senate candidates - AP News",
+      "snippet": "Disinformation videos, likely from Russia, are exploiting real people to malign Senate candidates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXBRQWtGd3R6TThQTzE1bG5tc2FRd3djYVVsd0JiYl9MbTV4dWtXV2RsOTNiV3E4T2Nmdm1hYS1CazJPdVNKUG92aWJIcEdiQnhIaXJmbmZQZzNrZTgzMWswSmIzOUFvcll4NHhKYWNBR0hKaEJVaDNsNjJNMW5XM1VSdXRvUFd2cUFRcW9POWl6T1FyUWhGSmpPUnk2Mndtb1k5V2Fray15NGJDTzA0Y1NzTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:15:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2669,32 +2693,6 @@
       "link": "https://www.foxnews.com/outkick-sports/kylian-mbappe-joins-lebron-james-john-cena-athletes-bending-knee-china",
       "imageUrl": null,
       "publishedAt": "2026-10-27T21:18:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7aad41a3dc14eaf3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Serial killer Ted Bundy is linked to another Utah teenager's 1974 murder through DNA testing - AP News",
-      "snippet": "Serial killer Ted Bundy is linked to another Utah teenager's 1974 murder through DNA testing  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE4ybTBpY3ItMkNXQTVVZFJsMW0zYWt6aTUtdnJRVWNqVzlEMTZtLTVPTmx5REVUT2ZFWmRISV9BSFVuWjNGSDc4Y3JXbldvWnJPamdObkJqbjFTTTdaRms2YWdoX2J4YzRYUi1NUl9aeE9FNVFVcW5tcHV2NGlIU2kxd0xvTXhqSFRjQUdMWG1kdkNhRjFmV2djVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T21:18:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_01386c06e01ec190",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-      "snippet": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T21:17:57.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
