@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-10-28T11:20:08.827Z",
+  "updatedAt": "2026-10-28T11:25:06.131Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.890Z"
+      "lastSuccess": "2026-10-28T11:25:06.209Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.897Z"
+      "lastSuccess": "2026-10-28T11:25:06.284Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.467Z"
+      "lastSuccess": "2026-10-28T11:25:06.625Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.263Z"
+      "lastSuccess": "2026-10-28T11:25:06.641Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.872Z"
+      "lastSuccess": "2026-10-28T11:25:06.406Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.950Z"
+      "lastSuccess": "2026-10-28T11:25:06.325Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.922Z"
+      "lastSuccess": "2026-10-28T11:25:06.309Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.907Z"
+      "lastSuccess": "2026-10-28T11:25:06.415Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.909Z"
+      "lastSuccess": "2026-10-28T11:25:06.305Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T11:20:08.957Z"
+      "lastErrorAt": "2026-10-28T11:25:06.434Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.953Z"
+      "lastSuccess": "2026-10-28T11:25:06.289Z"
     },
     "UPI": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-28T11:20:18.836Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T11:25:07.471Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.059Z"
+      "lastSuccess": "2026-10-28T11:25:06.428Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.918Z"
+      "lastSuccess": "2026-10-28T11:25:06.490Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.886Z"
+      "lastSuccess": "2026-10-28T11:25:06.263Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.991Z"
+      "lastSuccess": "2026-10-28T11:25:06.393Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.076Z"
+      "lastSuccess": "2026-10-28T11:25:06.452Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.929Z"
+      "lastSuccess": "2026-10-28T11:25:06.432Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T11:20:09.064Z"
+      "lastErrorAt": "2026-10-28T11:25:06.438Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:08.996Z"
+      "lastSuccess": "2026-10-28T11:25:06.498Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.048Z"
+      "lastSuccess": "2026-10-28T11:25:06.559Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.129Z"
+      "lastSuccess": "2026-10-28T11:25:06.514Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:20:09.109Z"
+      "lastSuccess": "2026-10-28T11:25:08.856Z"
     }
   },
   "items": [
+    {
+      "id": "story_26b6c2e437d5f753",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Energy costs force U.S. residential cruise ship to disembark in Cambodia",
+      "snippet": "A 42-month round the world residential cruise came to a sudden end in Cambodia due to the soaring cost of fuel, leaving around 200 passengers marooned.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/28/Cambodia-residential-cruise-ends-early/8751793178786/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/8751793178786/2026/upi/c70bc4877e4eae25254b2c8eb78d1f79/v1.5/Energy-costs-force-US-residential-cruise-ship-to-disembark-in-Cambodia.jpg",
+      "publishedAt": "2026-10-28T11:17:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_512a7ebeb1581af3",
       "source": "Al Jazeera",
@@ -563,6 +575,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T10:40:52.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_85f78faba278238c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Real Madrid issues public apology to China over Mbappé’s Mao Zedong comments - AP News",
+      "snippet": "Real Madrid issues public apology to China over Mbappé’s Mao Zedong comments  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEx2MVZ4bm1WY3RYLXNBT2VTVUpJR0k3MzRNTVhkaE5HcFNPcXBMb3Q0bjFhUmcxR29Eb29TcmZGMUdkTTRXTDBmNEpKNzE3d3Z5UGVsYUJvNDJzcDJ3U0VHTGJhOHE2WWxrZEQ5ckdEWXBlZDItRFN5YllSS25rSEtjeHdYb3pDb01SU2lpVWVGMGhTQ0c1VHpOdjZ5Y0NS?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:39:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2669,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T07:08:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eed23395d9587741",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Germany set for record trade deficit with Asia-Pacific in 2026, report says - Reuters",
-      "snippet": "Germany set for record trade deficit with Asia-Pacific in 2026, report says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTdlT0t1VVBXRElsZDdIX1BRQnlMaVM0emdXanFrVVJlQ0FHdUNqVU1NSHd4cTNUd2FyQ1M5VHJUdy1ORDBocmhTa0V6enRRQi1CQ05PYy1VSUZzRlgyLTFWcktjc0NCd3FrczUwcnBHcHFrQ2NObGdHOS1SSnhmRDhPOXlCYlRmQnJzdVRGLTV3Qy1OTXJ2SmF4U3dLdUpsazdhY0dQX0xzVjl4QmU1YlFiS0Y4dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T07:07:46.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0bd3527a229b4295",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Islamic militants kill at least 20 Somali soldiers in ambush, officer says - AP News",
-      "snippet": "Islamic militants kill at least 20 Somali soldiers in ambush, officer says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1R6cFJtRnJNLVZ1REo4U0QtaHBGWk54OUtFMFI4VEFLSU4xallBR0RFX1FtajNxYVQxNDZlcmFZckFqbWdMRktHNFJFZmpJbEFFS1BObG1OSElMbzFiV01vb2Z3ZmppZ3FFVmZ3anpmMzNfT0lJanpVM2Fab3NBd1NXZzZvSkkxMUtRcG13?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T07:07:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
