@@ -1,102 +1,154 @@
 {
-  "updatedAt": "2026-10-28T09:50:08.730Z",
+  "updatedAt": "2026-10-28T09:55:06.056Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.830Z"
+      "lastSuccess": "2026-10-28T09:55:06.156Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.853Z"
+      "lastSuccess": "2026-10-28T09:55:06.334Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.994Z"
+      "lastSuccess": "2026-10-28T09:55:06.553Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.281Z"
+      "lastSuccess": "2026-10-28T09:55:06.411Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.912Z"
+      "lastSuccess": "2026-10-28T09:55:06.271Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.041Z"
+      "lastSuccess": "2026-10-28T09:55:06.327Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.858Z"
+      "lastSuccess": "2026-10-28T09:55:06.336Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.836Z"
+      "lastSuccess": "2026-10-28T09:55:06.169Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.968Z"
+      "lastSuccess": "2026-10-28T09:55:06.186Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T09:50:09.076Z"
+      "lastErrorAt": "2026-10-28T09:55:06.328Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.972Z"
+      "lastSuccess": "2026-10-28T09:55:06.311Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.781Z"
+      "lastSuccess": "2026-10-28T09:55:06.226Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.091Z"
+      "lastSuccess": "2026-10-28T09:55:06.393Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.011Z"
+      "lastSuccess": "2026-10-28T09:55:06.289Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:08.949Z"
+      "lastSuccess": "2026-10-28T09:55:06.310Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.075Z"
+      "lastSuccess": "2026-10-28T09:55:06.494Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.169Z"
+      "lastSuccess": "2026-10-28T09:55:06.514Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.028Z"
+      "lastSuccess": "2026-10-28T09:55:06.413Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T09:50:09.150Z"
+      "lastErrorAt": "2026-10-28T09:55:06.530Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:13.994Z"
+      "lastSuccess": "2026-10-28T09:55:06.428Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.136Z"
+      "lastSuccess": "2026-10-28T09:55:06.470Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.237Z"
+      "lastSuccess": "2026-10-28T09:55:06.589Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:50:09.214Z"
+      "lastSuccess": "2026-10-28T09:55:06.596Z"
     }
   },
   "items": [
+    {
+      "id": "story_fdfc3e76f40f171f",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "At least 10 dead after two trains collide in Spain",
+      "snippet": "At least 10 people were killed when two high-speed trains crashed into each other in central Spain on Wednesday, officials in the country said.",
+      "link": "https://www.nbcnews.com/world/spain/spain-train-crash-high-speed-collision-toledo-rcna606070",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:50:57.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 9
+    },
+    {
+      "id": "story_6216349f6fa54cf8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "JONATHAN TURLEY: Supreme Court must take Herridge case and protect reporters' sources",
+      "snippet": "Former Fox News investigative reporter Catherine Herridge has asked the Supreme Court to hear an appeal centered on her refusal to reveal her confidential sources.",
+      "link": "https://www.foxnews.com/opinion/jonathan-turley-supreme-court-must-take-herridge-case-protect-reporters-sources",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:50:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f5738378edfd0ec0",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Ten reported dead after two trains collide in Spain – latest updates",
+      "snippet": "Spain’s rail system operator ADIF said the crash occurred Wednesday morning in the province of Toledo\nLocal government spokesperson told TVE that the death toll “will almost certainly rise.”\nEsther Padilla told the broadcaster the situation",
+      "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:48:35.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_6d4c38fea3130d3a",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Russia in Africa: What is Putin hoping to achieve?",
+      "snippet": "Following its invasion of Ukraine and the resulting rift with the West, Russia has declared that it intends to make a \"historic return\" to Africa. What have we seen of this so far?",
+      "link": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:48:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8216a8df2abd9133",
       "source": "Politico",
@@ -145,6 +197,19 @@
       "link": "https://www.france24.com/en/israel-election-there-s-no-clear-winner",
       "imageUrl": "https://s.france24.com/media/display/3ae9d138-d2b1-11f1-bfca-47de50b3c1e4/w:1024/p:16x9/EN-20261028-100155-100340-CS.jpg",
       "publishedAt": "2026-10-28T09:40:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7d394da3018e3f1e",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "snippet": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment\nThe “unprecedented” spread of the Ebola outbreak means it could reach the UK and other ",
+      "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:37:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1172,6 +1237,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTdlT0t1VVBXRElsZDdIX1BRQnlMaVM0emdXanFrVVJlQ0FHdUNqVU1NSHd4cTNUd2FyQ1M5VHJUdy1ORDBocmhTa0V6enRRQi1CQ05PYy1VSUZzRlgyLTFWcktjc0NCd3FrczUwcnBHcHFrQ2NObGdHOS1SSnhmRDhPOXlCYlRmQnJzdVRGLTV3Qy1OTXJ2SmF4U3dLdUpsazdhY0dQX0xzVjl4QmU1YlFiS0Y4dw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-28T07:07:46.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0bd3527a229b4295",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Islamic militants kill at least 20 Somali soldiers in ambush, officer says - AP News",
+      "snippet": "Islamic militants kill at least 20 Somali soldiers in ambush, officer says  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1R6cFJtRnJNLVZ1REo4U0QtaHBGWk54OUtFMFI4VEFLSU4xallBR0RFX1FtajNxYVQxNDZlcmFZckFqbWdMRktHNFJFZmpJbEFFS1BObG1OSElMbzFiV01vb2Z3ZmppZ3FFVmZ3anpmMzNfT0lJanpVM2Fab3NBd1NXZzZvSkkxMUtRcG13?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T07:07:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2615,84 +2693,6 @@
       "link": "https://www.foxnews.com/outkick-sports/timberwolves-lose-anthony-edwards-2-months-arthroscopic-procedure-right-knee-report",
       "imageUrl": null,
       "publishedAt": "2026-10-28T01:05:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_548eb3b2809b3ae9",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Johnson says there will be ‘peaceful transfer of power’ on Jan 3",
-      "snippet": "House Speaker Mike Johnson (R-La.) said Tuesday that there will be a “peaceful transfer of power” when new House members are set to join the lower chamber next year. “Of course, we’ll have a peaceful transfer of power, but it will not be tr",
-      "link": "https://thehill.com/homenews/house/6176705-johnson-promises-peaceful-transfer-power/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/johnsonmike_090126gn05_w.jpg?w=900",
-      "publishedAt": "2026-10-28T01:03:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b2c90eb7a4eb805",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Three South Korean financial firms including Bithumb report data breaches, Yonhap says - Reuters",
-      "snippet": "Three South Korean financial firms including Bithumb report data breaches, Yonhap says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaG1KU3lMLUUxUmFqT1NrWk5iSFNUdzhHQW8wQnhpa3ZNRkVyR1VOVUlXNXFfdG1Za1BsYml1cUxoY1ViOGU4bGhGTkM4X3pHaVhhWktpTHZ2NDlEeDZLRjBFVlIxa3VMSkIwb1BTTFlXZE5UQWF1dkM4V28temZxWTd6RDRhUGxJekdfR0I3YlQwLVJTQl9KRmZ2dU9lRTRnR0JNS2tLWnpjM2kzNzBKeHBDeVNCeC16Y204SkdkUkJPTWVuTHNHSEFHOGJWQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T01:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f68afd2556f229c8",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "snippet": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T01:01:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a50323da5b40ab00",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate - Reuters",
-      "snippet": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclRmNndRN0ZxR18wcDdQUy01TjRUZnN3V2NOMGRPcmF1WnZCVDM0TzgzWHdHSVpISFgzWnFYbDlpazlmZVpIVEltalZ0cHVSak1YQ1ZkVmtTbXFvcFhUVFFoSE5NTWR1UTFWdnp0bGtxVXJYM0c0VmgxbS1KS1EtUW9qb2xCVEhHVWdNWVdvTWpVZnp6QW13TWVGOEhPeXF1MVlPTWhpTmV2Q0N3MjUxaVdEeU5MZFRLLWRCOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T01:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_66a33b1b2af4490a",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Fourth Circuit grills DOJ on lawsuit over Virginia’s crackdown on local police cooperation with ICE",
-      "snippet": "A federal appeals court grilled the Department of Justice on Tuesday over its challenge of Virginia laws that the Trump administration says unconstitutionally impede on federal immigration enforcement operations, as similar efforts to limit",
-      "link": "https://www.washingtonexaminer.com/news/justice/4781017/fourth-circuit-doj-lawsuit-virginia-crackdown-ice-cooperation/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T01:00:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_04f07d688d188b84",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Alex Pretti's parents seek answers from DOJ months after son's killing",
-      "snippet": "It's been nine months since Veterans Affairs nurse Alex Pretti was shot by federal agents in Minnesota, and his parents are calling on the  government for answers.",
-      "link": "https://abcnews.com/Politics/alex-prettis-parents-seek-answers-federal-government-9/story?id=137601904",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T00:58:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
