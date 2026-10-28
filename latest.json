@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-28T00:10:08.910Z",
+  "updatedAt": "2026-10-28T00:15:08.995Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.043Z"
+      "lastSuccess": "2026-10-28T00:15:09.431Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.074Z"
+      "lastSuccess": "2026-10-28T00:15:09.320Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.035Z"
+      "lastSuccess": "2026-10-28T00:15:09.520Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.174Z"
+      "lastSuccess": "2026-10-28T00:15:09.780Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:08.997Z"
+      "lastSuccess": "2026-10-28T00:15:09.223Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.255Z"
+      "lastSuccess": "2026-10-28T00:15:09.632Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.226Z"
+      "lastSuccess": "2026-10-28T00:15:09.389Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.205Z"
+      "lastSuccess": "2026-10-28T00:15:09.358Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.311Z"
+      "lastSuccess": "2026-10-28T00:15:09.398Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T00:10:09.216Z"
+      "lastErrorAt": "2026-10-28T00:15:09.637Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.055Z"
+      "lastSuccess": "2026-10-28T00:15:09.435Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.232Z"
+      "lastSuccess": "2026-10-28T00:15:09.418Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.269Z"
+      "lastSuccess": "2026-10-28T00:15:09.501Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.242Z"
+      "lastSuccess": "2026-10-28T00:15:09.304Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.104Z"
+      "lastSuccess": "2026-10-28T00:15:09.295Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.303Z"
+      "lastSuccess": "2026-10-28T00:15:09.604Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.322Z"
+      "lastSuccess": "2026-10-28T00:15:09.816Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.220Z"
+      "lastSuccess": "2026-10-28T00:15:09.373Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T00:10:09.317Z"
+      "lastErrorAt": "2026-10-28T00:15:09.817Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.307Z"
+      "lastSuccess": "2026-10-28T00:15:09.476Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.438Z"
+      "lastSuccess": "2026-10-28T00:15:09.731Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.345Z"
+      "lastSuccess": "2026-10-28T00:15:09.834Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:10:09.360Z"
+      "lastSuccess": "2026-10-28T00:15:09.902Z"
     }
   },
   "items": [
+    {
+      "id": "story_38c40936bc086270",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Climate change is a 'global health emergency,' new report says",
+      "snippet": "Many detrimental health indicators linked to climate change are moving in the wrong direction, the report's authors said.",
+      "link": "https://abcnews.com/US/climate-change-global-health-emergency-harms-accelerating-lancet/story?id=137598966",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:11:20.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_6c2771ca39e93a45",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Video of police being called to youth soccer game draws outrage",
+      "snippet": "One of the league's directors said the parents were being disruptive, but 3-year-old Nevada's mother said, \"They're literally kicking him out of this place because he's good at soccer.\"",
+      "link": "https://www.cbsnews.com/news/youth-soccer-911-call-florida-nevada-3-year-old/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:11:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_46c5a5e5de7b2273",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "High tides break records, closing several roadways, flooding neighborhoods on both coasts",
+      "snippet": "In Southern California, waves battered homes near the water as record-setting king tides flooded both coasts. In Southern Florida, strong offshore winds washed out parts of the shoreline. Carter Evans reports and Rob Marciano has the foreca",
+      "link": "https://www.cbsnews.com/video/high-tides-break-records-closing-several-roadways-flooding-neighborhoods-both-coasts/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:07:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c1a7f5e6e069d414",
       "source": "DW",
@@ -106,6 +145,19 @@
       "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-28T00:05:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c35647b6f2e9087b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "EA shuts down legendary game studio BioWare after recent high-profile disappointments, controversies",
+      "snippet": "Electronic Arts shut down BioWare after 31 years, ending early development on the next \"Mass Effect\" project after several recent flops.",
+      "link": "https://www.foxnews.com/media/ea-shuts-down-legendary-game-studio-bioware-after-recent-high-profile-disappointments-controversies",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:03:36.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2642,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T20:56:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e503f4942eeb5eb8",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Exit polls are in, but it could be weeks or months before the winner of Israel's election is known - AP News",
-      "snippet": "Exit polls are in, but it could be weeks or months before the winner of Israel's election is known  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXy11cjF5OV80d2xMX3p3VEtWVUE4U2tZYThmNHplTThGT3drU2tYTVNTdEdQdUtiTjFxVVdrMXFXUW8xLWRTVXBLZHl4eEdtNzJrWmJCYlFSRVctREpsZXR0aTFoVmhZNFZ1ZWRCOWk2VUx0Smt3U2M4MUJSWUM1d3VuNU9xQUVDWUtCTkd2Q2F0N3NBc1c3V0JIdU9GUnRTYk04MXFB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T20:55:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_2834adbdb5c904aa",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "US says it killed five people in strike on alleged drug boat",
-      "snippet": "Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T20:54:38.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_af57c2b755a9bcbd",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "European Leaders Split Over Phone Call to Putin",
-      "snippet": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T20:49:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_97dee64b779b6f50",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "🔴Brazil's defeated candidate Flavio Bolsonaro heads to US, sources say",
-      "snippet": "",
-      "link": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T20:49:40.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
