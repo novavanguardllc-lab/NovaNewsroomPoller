@@ -1,103 +1,193 @@
 {
-  "updatedAt": "2026-10-28T15:25:06.165Z",
+  "updatedAt": "2026-10-28T15:30:11.878Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.416Z"
+      "lastSuccess": "2026-10-28T15:30:12.241Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.231Z"
+      "lastSuccess": "2026-10-28T15:30:12.044Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.300Z"
+      "lastSuccess": "2026-10-28T15:30:12.364Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.255Z"
+      "lastSuccess": "2026-10-28T15:30:12.427Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.355Z"
+      "lastSuccess": "2026-10-28T15:30:12.080Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.337Z"
+      "lastSuccess": "2026-10-28T15:30:12.544Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.513Z"
+      "lastSuccess": "2026-10-28T15:30:12.424Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.242Z"
+      "lastSuccess": "2026-10-28T15:30:12.378Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.544Z"
+      "lastSuccess": "2026-10-28T15:30:12.386Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.496Z"
+      "lastSuccess": "2026-10-28T15:30:12.561Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-10-28T15:25:06.350Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T15:30:12.401Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.564Z"
+      "lastSuccess": "2026-10-28T15:30:12.464Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.622Z"
+      "lastSuccess": "2026-10-28T15:30:12.806Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.375Z"
+      "lastSuccess": "2026-10-28T15:30:12.419Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.478Z"
+      "lastSuccess": "2026-10-28T15:30:12.635Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.644Z"
+      "lastSuccess": "2026-10-28T15:30:12.707Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T15:25:06.544Z"
+      "lastErrorAt": "2026-10-28T15:30:12.375Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.534Z"
+      "lastSuccess": "2026-10-28T15:30:12.660Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T15:25:06.565Z"
+      "lastErrorAt": "2026-10-28T15:30:12.662Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.629Z"
+      "lastSuccess": "2026-10-28T15:30:12.819Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.664Z"
+      "lastSuccess": "2026-10-28T15:30:12.163Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.821Z"
+      "lastSuccess": "2026-10-28T15:30:12.279Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:25:06.486Z"
+      "lastSuccess": "2026-10-28T15:30:12.406Z"
     }
   },
   "items": [
+    {
+      "id": "story_aeccf4beef2c433c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Is the Federal Reserve likely to raise interest rates today?",
+      "snippet": "Fed officials will unveil their latest interest rate move this week, following the September rate hike, the first in three years.",
+      "link": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:29:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5649f7ca731317de",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Alexandria, Virginia, moves to shut down Flock cameras after council and community backlash",
+      "snippet": "Alexandria, Virginia, officials announced Tuesday that they will deactivate Flock cameras and have the automated license plate readers completely removed by December. The city council first began discussing ending its contract with Flock Sa",
+      "link": "https://www.washingtonexaminer.com/policy/technology/4782666/alexandria-virginia-shut-down-flock-cameras/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:28:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3ba97d77156d7271",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Alaska’s GOP-led government asks court to block DOJ Senate race certification lawsuit",
+      "snippet": "Alaska’s GOP-led government is urging a federal court to dismiss the Department of Justice’s (DOJ) lawsuit seeking to bar the state from certifying its midterm election results, according to a Mondy court filing. The DOJ lawsuit, filed last",
+      "link": "https://thehill.com/homenews/campaign/6177625-alaska-gop-moves-dismiss-doj-lawsuit/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/judge_chambers_books_gavel_07142010_AP24101721194195-2.jpg?w=900",
+      "publishedAt": "2026-10-28T15:28:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_767a3128f19e4df8",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Russell Brand says no one would testify on his behalf in rape trial",
+      "snippet": "Russell Brand testified in the rape trial against him in London, telling the court that he could not find anyone to testify on his behalf.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/28/russell-brand-testifies-rape-trial/5301793200408/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/5301793200408/2026/upi/84cf63fe6cf49a305a995ca3639f6678/v1.5/Russell-Brand-says-no-one-would-testify-on-his-behalf-in-rape-trial.jpg",
+      "publishedAt": "2026-10-28T15:26:32.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_4faac53d472c8bfc",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Top federal prosecutor in LA not legally serving, judge rules",
+      "snippet": "A federal judge on Tuesday ruled that Bill Essayli, the First Assistant U.S. Attorney for the Central District of California, is unlawfully serving as the top prosecutor in Los Angeles. U.S. District Judge J. Michael Seabright wrote in his ",
+      "link": "https://thehill.com/homenews/state-watch/6177658-judge-rules-essayli-unlawful-designation/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/10/6901ec95d8a897.15671656-e1793196547465.jpeg?w=900",
+      "publishedAt": "2026-10-28T15:25:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_580bb1b969f67e1c",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Infiltrating the Left: Going undercover and attending radical, left-wing ‘ICE Out’ trainings",
+      "snippet": "Philadelphia made news this year when, inexplicably, the city’s district attorney, Larry Krasner, County Sheriff Rochelle Bilal, and the City Council all took aggressive and radical positions against illegal immigration enforcement operatio",
+      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4782421/anti-ice-trainings-undercover/",
+      "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/10/image4.png?w=1024",
+      "publishedAt": "2026-10-28T15:25:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e9659bacf307bc23",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Fans debate Brewers decision to keep Jacob Misiorowski in dugout with chance to win first ever World Series",
+      "snippet": "The Milwaukee Brewers were three outs from a World Series sweep before Pat Murphy's decision to hold Jacob Misiorowski sparked fierce debate.",
+      "link": "https://www.foxnews.com/outkick-sports/fans-debate-brewers-decision-keep-jacob-misiorowski-dugout-chance-win-first-ever-world-series",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:24:26.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dc83738b4e59197e",
       "source": "Wash Examiner",
@@ -107,6 +197,32 @@
       "link": "https://www.washingtonexaminer.com/policy/defense/4782535/uss-spruance-break-record-longest-deployed-destroyer-didnt-return-with-lincoln/",
       "imageUrl": null,
       "publishedAt": "2026-10-28T15:22:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_691f05aaa1431b87",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "What's in Walmart's $3.50 per person \"holiday meal basket\"?",
+      "snippet": "Walmart touts its holiday dinner kit this year as offering more food for less money. Read on to see what items are included in the meal.",
+      "link": "https://www.cbsnews.com/news/walmart-holiday-meal-basket-deal-what-you-get/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:21:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f1e943506506d538",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Iran war will end \"whenever I want it to end,\" Trump says as cost tops $47 billion",
+      "snippet": "The Iran war looms over the midterm elections as costs mount and gas prices squeeze voters' wallets. CBS News' Weijia Jiang has more on this, plus Lana Zak reports on races in Iowa.",
+      "link": "https://www.cbsnews.com/video/iran-war-will-end-whenever-i-want-it-to-end-trump-says-as-cost-tops-47-billion/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:16:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -643,6 +759,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_575cc10d362ca1e0",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Spain: High-speed train crash kills dozens, rescue operations ongoing",
+      "snippet": "Two high-speed trains carrying hundreds of passengers collided south of Madrid. Spain's transport minister said one of the trains was told to continue its journey despite a \"red signal\" being in effect. Follow DW.",
+      "link": "https://www.dw.com/en/spain-high-speed-train-crash-kills-dozens-rescue-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T14:33:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_9017ce1963912460",
@@ -2565,136 +2694,6 @@
       "imageUrl": "https://s.france24.com/media/display/f06a6ef4-d2cb-11f1-9aeb-a7bbbeea0b20/w:1024/p:16x9/mini-38.jpg",
       "publishedAt": "2026-10-28T12:42:31.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_86f0f48fd8a15683",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Nigeria president seeks $22B infrastructure loan approval",
-      "snippet": "The request comes as the president and his chief rivals step up campaigning ahead of January’s election.",
-      "link": "https://www.semafor.com/article/10/28/2026/nigeria-president-seeks-22b-loan-approval-to-fund-infrastructure",
-      "imageUrl": "https://img.semafor.com/6618eab8525741ec5497426759b53c12005a8b6f-6500x4333.jpg",
-      "publishedAt": "2026-10-28T12:41:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9acac25cd16a6928",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Dozens dead as two trains collide in Spain",
-      "snippet": "A high-speed train crashed into a stopped train in Spain, causing at least 30 deaths. Leigh Kiniry reports.",
-      "link": "https://www.cbsnews.com/video/dozens-dead-as-two-trains-collide-in-spain/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:40:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_500e105c20726ad4",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Dangote IPO puts African capital to work",
-      "snippet": "The continent’s largest-ever initial public offering has been embraced by investors from across Africa, the company says.",
-      "link": "https://www.semafor.com/article/10/28/2026/dangote-ipo-puts-african-capital-to-work-in-continents-largest-ever-ipo",
-      "imageUrl": "https://img.semafor.com/16a285ac5a61972a1d7b7752ae4031bffa6a1067-1280x960.jpg",
-      "publishedAt": "2026-10-28T12:39:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5c1ff868eca49acb",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Israel’s Election: When Will We Know Who Will Be Prime Minister?",
-      "snippet": "Most votes were expected to be counted by Wednesday, but forming a government could take weeks of negotiations — or require another election.",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:38:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_59327c975838b670",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Iran sentences acclaimed film director Jafar Panahi to new prison term after his return home - AP News",
-      "snippet": "Iran sentences acclaimed film director Jafar Panahi to new prison term after his return home  AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTU4Smh0alBRejloQjVla2lUMnNaZ3kwTnJiRkhKUmpiaVdzVFhDcDNKb3M2bHF0VjJEaGszd2p4VmllbW5ORERhQ3VCUmRuelFOMUN6WmxrS0x2Y3pSUVJYa0FRRGxQMmJXQjg2ekZvVkpybUJFS0RXWXAzdlJNZkV5dm1idm1GUjFWcEtJaFRxRjhkX21WUnBDX2FFUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:37:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_708eeca7eccd2d0e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Victims of Jordan’s air strikes in Syria",
-      "snippet": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:35:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c50cbc601580ce73",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kathy Hochul 'excited' about prospect of Democrats tying Trump up in investigations",
-      "snippet": "Kathy Hochul told Politico she's \"excited\" about Democrats using investigations and subpoenas to halt President Donald Trump's agenda if they retake Congress.",
-      "link": "https://www.foxnews.com/media/kathy-hochul-excited-about-prospect-democrats-tying-trump-up-investigations",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:33:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bd4b79cc8fb8d309",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Lula is an uncomfortable but necessary trading partner",
-      "snippet": "The relationship with Brazil will require a twofold effort: to contain Chinese expansion and to negotiate with an awkward, unreliable — yet inevitably necessary — partner.",
-      "link": "https://thehill.com/opinion/international/6175478-lula-brazil-election-trade-impact/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/lula_luiz-inacio-da-silva_brazil_10252026_AP26299061936255-2.jpg?w=900",
-      "publishedAt": "2026-10-28T12:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4385273748d46264",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Ethiopia says it has taken delivery of 12 Russian Su-35 fighter jets - Reuters",
-      "snippet": "Ethiopia says it has taken delivery of 12 Russian Su-35 fighter jets  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFFKVlhvVHNVYnBybVFJNEZPNEZ4Y2hRTjJac0NVMkxLb2tBbTVYOGVkblBNOWRHck4xSnV2WGpGV3lzTm5fckZNaldFSVltUERCQ3lIUFo3aDc5MVZkVzdRSklkcXFQbGR5OGlOTjBjaWNISnlFaVlyb3MzbFY5VGJiS2FBbENTdTVCYzlaX0JoTjRoYksyczJwQWdHX1NtcGliQ1pZejZoMEh4bjJsZ2JHdm8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:28:41.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_73f66179e0340247",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Fed likely to go into wait-and-see mode on rates - Reuters",
-      "snippet": "Fed likely to go into wait-and-see mode on rates  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaU93czlpTHJXMTJGby0yOGppZGVlVkZzZW4tNC11WTcwVk1yQUZHTVMza0dTLURMRi0tTUtYTHhITkI2OVBWN2k0anZCN2liNnlyNFpaTmFTaWlFTHItWmtBXzh1VWhkRjZBNjVDejQxOGNUTW1HWWRBUzNjbGdKUDV0MlFSWXRsaWQwMXpWQXI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:28:25.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
