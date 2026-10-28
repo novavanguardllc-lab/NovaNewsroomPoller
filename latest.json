@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-28T11:05:06.593Z",
+  "updatedAt": "2026-10-28T11:10:08.294Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.652Z"
+      "lastSuccess": "2026-10-28T11:10:08.443Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.687Z"
+      "lastSuccess": "2026-10-28T11:10:08.470Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:07.112Z"
+      "lastSuccess": "2026-10-28T11:10:08.536Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:07.037Z"
+      "lastSuccess": "2026-10-28T11:10:08.526Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.719Z"
+      "lastSuccess": "2026-10-28T11:10:08.412Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.855Z"
+      "lastSuccess": "2026-10-28T11:10:08.565Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.770Z"
+      "lastSuccess": "2026-10-28T11:10:08.618Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.807Z"
+      "lastSuccess": "2026-10-28T11:10:08.620Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.766Z"
+      "lastSuccess": "2026-10-28T11:10:08.622Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T11:05:06.886Z"
+      "lastErrorAt": "2026-10-28T11:10:08.689Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.668Z"
+      "lastSuccess": "2026-10-28T11:10:08.573Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:07.908Z"
+      "lastSuccess": "2026-10-28T11:10:08.688Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.804Z"
+      "lastSuccess": "2026-10-28T11:10:08.655Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.815Z"
+      "lastSuccess": "2026-10-28T11:10:08.697Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.748Z"
+      "lastSuccess": "2026-10-28T11:10:08.507Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.846Z"
+      "lastSuccess": "2026-10-28T11:10:08.615Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.874Z"
+      "lastSuccess": "2026-10-28T11:10:08.728Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.863Z"
+      "lastSuccess": "2026-10-28T11:10:08.634Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T11:05:06.869Z"
+      "lastErrorAt": "2026-10-28T11:10:08.715Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.884Z"
+      "lastSuccess": "2026-10-28T11:10:08.672Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:07.024Z"
+      "lastSuccess": "2026-10-28T11:10:08.806Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.902Z"
+      "lastSuccess": "2026-10-28T11:10:08.818Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:05:06.948Z"
+      "lastSuccess": "2026-10-28T11:10:08.763Z"
     }
   },
   "items": [
+    {
+      "id": "story_4996a6ecac2759a3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "American who was ISIS teen bride convicted of getting weapons training",
+      "snippet": "Prosecutors said U.S. citizen Halima Salman, now 27, pledged loyalty to the extremist group and willingly participated in its activities.",
+      "link": "https://www.cbsnews.com/news/us-woman-isis-teen-bride-convicted-weapons-training-new-york/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:06:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9edd5f2c357fc8b7",
       "source": "Semafor",
@@ -2680,19 +2693,6 @@
       "link": "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-28T06:33:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36b143d30f425209",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Australia must ‘re-win the argument for democratic politics’ in wake of Haines incident, Alastair Campbell says",
-      "snippet": "Tony Blair’s former spokesperson says attacks on UK MPs did not bring about lasting cultural change and overheated rhetoric quickly returned to politics\n\nGet our breaking news email, free app or daily news podcast\n\nTony Blair’s former commu",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/28/australia-democratic-politics-argument-helen-haines-incident-alastair-campbell-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:24:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
