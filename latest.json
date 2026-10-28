@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-28T15:20:08.755Z",
+  "updatedAt": "2026-10-28T15:25:06.165Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.814Z"
+      "lastSuccess": "2026-10-28T15:25:06.416Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.876Z"
+      "lastSuccess": "2026-10-28T15:25:06.231Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.935Z"
+      "lastSuccess": "2026-10-28T15:25:06.300Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.829Z"
+      "lastSuccess": "2026-10-28T15:25:06.255Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.898Z"
+      "lastSuccess": "2026-10-28T15:25:06.355Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.918Z"
+      "lastSuccess": "2026-10-28T15:25:06.337Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.840Z"
+      "lastSuccess": "2026-10-28T15:25:06.513Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.952Z"
+      "lastSuccess": "2026-10-28T15:25:06.242Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.939Z"
+      "lastSuccess": "2026-10-28T15:25:06.544Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.954Z"
+      "lastSuccess": "2026-10-28T15:25:06.496Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.844Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-28T15:25:06.350Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.993Z"
+      "lastSuccess": "2026-10-28T15:25:06.564Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:09.070Z"
+      "lastSuccess": "2026-10-28T15:25:06.622Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.872Z"
+      "lastSuccess": "2026-10-28T15:25:06.375Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:09.103Z"
+      "lastSuccess": "2026-10-28T15:25:06.478Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:09.033Z"
+      "lastSuccess": "2026-10-28T15:25:06.644Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T15:20:08.968Z"
+      "lastErrorAt": "2026-10-28T15:25:06.544Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.964Z"
+      "lastSuccess": "2026-10-28T15:25:06.534Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T15:20:08.973Z"
+      "lastErrorAt": "2026-10-28T15:25:06.565Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:09.076Z"
+      "lastSuccess": "2026-10-28T15:25:06.629Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:09.348Z"
+      "lastSuccess": "2026-10-28T15:25:06.664Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.824Z"
+      "lastSuccess": "2026-10-28T15:25:06.821Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T15:20:08.981Z"
+      "lastSuccess": "2026-10-28T15:25:06.486Z"
     }
   },
   "items": [
+    {
+      "id": "story_dc83738b4e59197e",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "USS Spruance breaks record for longest deployed destroyer since WWII",
+      "snippet": "The destroyer USS Spruance broke the record for the longest-deployed destroyer since World War II, after its deployment was extended by nearly double the intended tour due to the war with Iran. The Spruance left Naval Base San Diego on Nov.",
+      "link": "https://www.washingtonexaminer.com/policy/defense/4782535/uss-spruance-break-record-longest-deployed-destroyer-didnt-return-with-lincoln/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:22:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e89e6751e5f6369f",
       "source": "CBS News",
@@ -161,6 +175,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_2039ae8d6ec5c165",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Israel election: what we know so far",
+      "snippet": "With nearly all votes counted, Netanyahu’s coalition government has lost its majority, but main opponents also fail to gain outright majority; marked gains by Palestinian parties\n\nIsrael election – live updates\n\nFull report: Coalition talks",
+      "link": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T15:08:58.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_1d089f1bc9a01e1d",
@@ -562,6 +589,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T14:36:22.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_49ad621428fc8bda",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Putin woos African leaders at showcase summit, says Russia is better partner than 'colonial' West - Reuters",
+      "snippet": "Putin woos African leaders at showcase summit, says Russia is better partner than 'colonial' West  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONnpMOGgtNnRZazVKZ1ItVDVLZnVlaWt5WDRvSUp4dGF0MmN1azBUM3pSWFRObWpCaFg2R3pETm9oNUd1dFJTQmFqOUtsWHdZdnViSWxJZUNIamp3cHZBRUhVcmRsS2tTY1RKVHFYTGNWckVlazRtNVFwOTFvWGtTS1poN2ROb2dKUW04SzEzQWJLSUNNVkQ3ZFNuZXVIQnVYRm1JWjFDUjBvdDEtRGh2Vkt1dUpMMHNEM0sybjI3ZDJhdklZ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T14:35:53.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1147,6 +1187,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T13:52:09.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_abd3a4dffdc98ffc",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "The struggling burger chain Wendy’s gets a buyout offer from activist investor Nelson Peltz - AP News",
+      "snippet": "The struggling burger chain Wendy’s gets a buyout offer from activist investor Nelson Peltz  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzloNlJFcFRGdXY5azdsVm1XVm1IV0VYem1YcU5jb2VvTl9XaUxwbEJxajZ5dDZ0SUdMblR1T2RreEFKZkdKNnQwMjRiNVRpNnJuc0xsV1dEQ0E5OFdPLW1vS1BZWEwxcXRYb3VnQlhNUlV5Nk8wSmxhWUZfOWE4XzNVbm1hbzZ3RFZGRzZB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:52:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2282,6 +2335,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_79f44cd31f5a957a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Putin seeks to expand ties with African countries at Russia-Africa summit - AP News",
+      "snippet": "Putin seeks to expand ties with African countries at Russia-Africa summit  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1pvcjY2M21FUVRNbWtjYkYyTkt1OTlGdGZXTTBEX25UUWd3Znh6dmZmc0NmNWZ2VVVvbG52YmkwaV92SHdKNXRqbmhOZzc3MEExalFwb2p5eDFIeEcyZ0dFT3BZbXZkXzM4dmNKQnBVdTduc282Yk11WC1rbE9rS0xUSzFFWjNSUHdwLU44TQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T12:51:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7018a44d66a26df0",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -2629,71 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T12:28:25.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2fc19e0afd43ca9d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "What Our New Senate Polls Tell Us About the State of the Midterms",
-      "snippet": "South Carolina seems like a serious race; Minnesota may not be; and Florida still appears out of reach for Democrats.",
-      "link": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:26:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_146a1379d1c59ff0",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "At least 30 dead in crash between 2 trains in central Spain",
-      "snippet": "BARCELONA, Spain (AP) — A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, authorities said. The regional president of Castilla La Man",
-      "link": "https://www.washingtonexaminer.com/news/world/4782425/many-killed-crash-trains-central-spain/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:26:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_5af5fc276eedeb02",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "LIVE:  ABC News Live",
-      "snippet": "24/7 coverage of breaking news and live events",
-      "link": "https://abcnews.com/video/41463246/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:24:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d91b53be451e7aa4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "As forest fires rage, hundreds of Indonesian students protest government response - Reuters",
-      "snippet": "As forest fires rage, hundreds of Indonesian students protest government response  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWZTWUkyUHE5V0p0b3B1TmJZWmpaM2JpMXVfRnhYbG53VEJycjFwNEpnSmROU0duVENhalpFV1JjZzdUb05MQXRnLW1nTnE0dWRuWWJ4VFNVUmlvWFVpZW1DVFVua201N1o3MTVZMGpfMk5ybW03Y1laRkZjcHFxX0Z6dUJiNnpKWjRqb1hRLUZiN3k4bG15QTZUV1c4eTZ2RlQ0ZWkxN01EQndxek8tMjFTeVJDUDJC?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:23:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e260ee193ab55acc",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israel’s election: The battle between change and anti-Palestinian sentiment",
-      "snippet": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:22:20.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
