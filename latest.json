@@ -1,103 +1,128 @@
 {
-  "updatedAt": "2026-10-28T10:25:06.136Z",
+  "updatedAt": "2026-10-28T10:30:12.584Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.331Z"
+      "lastSuccess": "2026-10-28T10:30:12.748Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.353Z"
+      "lastSuccess": "2026-10-28T10:30:13.035Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.303Z"
+      "lastSuccess": "2026-10-28T10:30:13.335Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.777Z"
+      "lastSuccess": "2026-10-28T10:30:13.282Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.280Z"
+      "lastSuccess": "2026-10-28T10:30:12.960Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.380Z"
+      "lastSuccess": "2026-10-28T10:30:12.850Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.398Z"
+      "lastSuccess": "2026-10-28T10:30:13.032Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.402Z"
+      "lastSuccess": "2026-10-28T10:30:12.765Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.401Z"
+      "lastSuccess": "2026-10-28T10:30:12.781Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T10:25:06.531Z"
+      "lastErrorAt": "2026-10-28T10:30:13.260Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.356Z"
+      "lastSuccess": "2026-10-28T10:30:13.027Z"
     },
     "UPI": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-28T10:25:16.145Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T10:30:12.888Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.552Z"
+      "lastSuccess": "2026-10-28T10:30:13.011Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.526Z"
+      "lastSuccess": "2026-10-28T10:30:12.789Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.245Z"
+      "lastSuccess": "2026-10-28T10:30:12.993Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.518Z"
+      "lastSuccess": "2026-10-28T10:30:13.225Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.632Z"
+      "lastSuccess": "2026-10-28T10:30:13.343Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.457Z"
+      "lastSuccess": "2026-10-28T10:30:13.146Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T10:25:06.633Z"
+      "lastErrorAt": "2026-10-28T10:30:13.261Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.561Z"
+      "lastSuccess": "2026-10-28T10:30:13.143Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.620Z"
+      "lastSuccess": "2026-10-28T10:30:13.110Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.651Z"
+      "lastSuccess": "2026-10-28T10:30:13.361Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:25:06.704Z"
+      "lastSuccess": "2026-10-28T10:30:13.392Z"
     }
   },
   "items": [
+    {
+      "id": "story_9b2725a911d6afc7",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "U.S. military strike alleged drug boat in Pacific, killing 5 people",
+      "snippet": "The latest attack brings the number of people who have been killed by the U.S. military's boat strikes to at least 240 in more than 70 strikes.",
+      "link": "https://www.cbsnews.com/news/us-military-destroys-alleged-drug-boat-pacific-5-killed/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:28:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a18c0bffdc849c8f",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "EU's 'Made in Europe' push unnerves global auto suppliers",
+      "snippet": "In shielding Europe's carmakers from Chinese rivals, the EU risks hurting close partners from Turkey and Morocco to Japan and South Korea. Billions in trade and hundreds of thousands of European jobs are at stake.",
+      "link": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:24:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_58e2656c28266f18",
       "source": "CBS News",
@@ -125,6 +150,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3a9430ebd14b4421",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Israel: Netanyahu edges closer to a majority",
+      "snippet": "The final results are expected tonight or tomorrow morning. For now, the picture is looking increasingly favourable for Benjamin Netanyahu and his bloc, but the Israeli prime minister is still short of a clear victory, as he needs 61 seats ",
+      "link": "https://www.france24.com/en/israel-netanyahu-edges-closer-to-a-majority",
+      "imageUrl": "https://s.france24.com/media/display/6fc071c2-d2b7-11f1-b3c1-efcc5769f1db/w:1024/p:16x9/EN-20261028-103209-103550-CS.jpg",
+      "publishedAt": "2026-10-28T10:20:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_855efafbfd4a12a9",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Spain: Local authorities confirm at least 10 dead in train accident",
+      "snippet": "Two trains travelling in opposite directions have collided in southern Spain, on the route between Madrid and Seville. At least 10 deaths have been confirmed, although some media reports put the toll as high as 39. The crash brings back pai",
+      "link": "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
+      "imageUrl": "https://s.france24.com/media/display/11d5ea82-d2b8-11f1-be52-a7bbbeea0b20/w:1024/p:16x9/EN-20261028-103645-103913-CS.jpg",
+      "publishedAt": "2026-10-28T10:17:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
       "id": "story_10f358c6582969e3",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -133,6 +184,32 @@
       "link": "https://www.theguardian.com/uk-news/live/2026/oct/28/russell-brand-evidence-trial-latest-news-updates",
       "imageUrl": null,
       "publishedAt": "2026-10-28T10:16:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4d48d4507349a0a3",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Israeli election: 'Wishful thinking' for pro- and anti-Netanyahu parties?",
+      "snippet": "PRESS REVIEW – Wednesday, October 28: Papers react to the ongoing election results in Israel. Next: Macklemore's Free Palestine tour is coming to Paris. Also: antidepressants don't work the way we thought. Finally: a sneak peek into boomer ",
+      "link": "https://www.france24.com/en/tv-shows/press-review/20261028-israeli-election-wishful-thinking-for-pro-and-anti-netanyahu-parties",
+      "imageUrl": "https://s.france24.com/media/display/738802ce-d2b8-11f1-aa78-75c7729144f1/w:1024/p:16x9/capture-01a71472.jpg",
+      "publishedAt": "2026-10-28T10:15:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e244060bdfaabc48",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Flavio Bolsonaro on way to Ecuador from Argentina after fleeing Brazil",
+      "snippet": "Defeated right-wing presidential candidate Flavio Bolsonaro was on his way to Ecuador after fleeing Brazil, Argentina's government said on Wednesday, October 28. The 45-year-old senator and his family were granted United States visas the da",
+      "link": "https://www.france24.com/en/video/20261028-flavio-bolsonaro-on-way-to-ecuador-from-argentina-after-fleeing-brazil",
+      "imageUrl": "https://s.france24.com/media/display/4bb548ba-d2b8-11f1-8e09-a7bbbeea0b20/w:1024/p:16x9/2026-10-26T022137Z-995936666-RC2PAOAXW1YT-RTRMADP-3-BRAZIL-ELECTION.jpg",
+      "publishedAt": "2026-10-28T10:14:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1854,6 +1931,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d9ef1ec92d737b27",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Flavio Bolsonaro and family board flight bound for Ecuador, Argentina says - Reuters",
+      "snippet": "Flavio Bolsonaro and family board flight bound for Ecuador, Argentina says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnNMS2lBUVFULUhGUE5DQnNXTXpRSkw2MDNPa2Nwd3ItWGdkVnl3Y1FLQ2YxRmt1dVd5SU9TZWFLYlRtVGpNRGMycVJwNm9tT3JlUTRMcm1XajR0Z0VDYlZTdHUxQ09jcERkOE9oTnZuTEhoQjAtRXpRSWRxZ0NzbEtELS1iVmdhMzhlOHZ3WnhWUWtqZEpydV8yaFZNTEZzR0JTWlRRYUt1VWtqVXJhTDdBZlhKUFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T07:20:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_dbf06332b3db4c15",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2604,97 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T04:13:28.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2c7f92bd92a6668",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "StanChart shares soar after it hikes full-year targets and trounces profit estimates - Reuters",
-      "snippet": "StanChart shares soar after it hikes full-year targets and trounces profit estimates  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjdKcHNBRWZiYWhjMnM3MWN5RGUxaVAyQXhnbmJVSzJxUXRGYUh0ejZ0S3ZJRmRvSHFSM0h0eWF2ZEdpeGVSeTY1a1NNeHJSdGZ6dHl0MXROWVFXUTBfRlNRYlhHdTl4eExkSFlRcFFZTzJoTUJNSENkVUExb1kwYnVYTzBWWU5vcmJma0g4MThEd2FuY3dyRUUwTlFBbVBMdmZuRW9ra2Nnd2wxUnlHT0x4WQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:13:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_392b7bede943a64f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "France minerals envoy says rare earths diversification from China possible within 3-5 years - Reuters",
-      "snippet": "France minerals envoy says rare earths diversification from China possible within 3-5 years  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXhQdjlWb3R4UkhZNXliXzFIZGQ2NTduaXJDUlItdWljbUM4S3VuVXdXZElpckF6OFBUZlJRYWhwQzN4eG5lNmJpSHJXYWJsampleEZFcGk4MmxLUXdIdVpVNlNnYlNIYzZCU0Uzc2dXSnQzZjM5c29jSUlXWTVlTXh5anpYZ01XZGlEWmZTSWJ2YnJ5NGR3YUZHbDRHU3RlOS11VW5fbU9kck4zSTNuNC1TdlFuTnF4Mm90bjRfUHpySzViT05n?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:07:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e42566dedf8291f4",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "US military kills five in eastern Pacific strike on suspected drug-trafficking vessel",
-      "snippet": "Video shows a go-fast vessel erupt into a massive fireball as SOUTHCOM confirms five narco-terrorists were killed in the eastern Pacific strike.",
-      "link": "https://www.foxnews.com/us/us-military-kills-five-eastern-pacific-strike-suspected-drug-trafficking-vessel",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:05:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_63ece74880ea9590",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump’s cure for Republicans’ midterm woes is more Trump. Will it work? - AP News",
-      "snippet": "Trump’s cure for Republicans’ midterm woes is more Trump. Will it work?  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1pFSEtqelM5YWpsM2NjSGl6M3NGSGUyeV9MZ3JjTFRwcHE5VTM4SWs5TE1HZEVobk9yLUs2anpIb3dybkRodTUwZmlEaHl6T2FuTjNEZmJXa1F0cmxQQzhUWlc2M3FDSjRWTVZrSy1lc1k1UGlIeXlycXpVa0lUbl9kN1dTRE9jdDBuU014SEdLbF9PVXdzYTdEaw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:04:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5c1ff868eca49acb",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Israel’s Election: When Will We Know the Next Prime Minister?",
-      "snippet": "Israelis turned out in huge numbers on Tuesday for an election that will determine the country’s next prime minister. But it can take weeks, months or longer to determine who that will be.",
-      "link": "https://www.nytimes.com/2026/10/25/world/middleeast/israel-election-guide-netanyahu-eisenkot.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:03:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_801c7782fd9b08f7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AI worries expose dollar's hot-money problem - Reuters",
-      "snippet": "AI worries expose dollar's hot-money problem  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0NWaVVKX3pobnFkV1YzZUZicHYzOEU2M0R3NHdqZTQ0emFvQl9pQzhMZGV3dzNHckp6MldEd1Q3WjZlRnpfeUdMQTc4YnRCMldzTWJscGpYRnpPQ25JZDhoQ0VzSnlDMndZZTFuNGRlb2R3LUVGU3AxS0NkX1ozbmlhbS1ia2pFRU5hQzlra1FPLVlhU1FjQS1zRHZwUnM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dfe5d08de23d863b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Republicans emphasize transgender ads, putting cultural issues over voters' economic anxiety - AP News",
-      "snippet": "Republicans emphasize transgender ads, putting cultural issues over voters' economic anxiety  AP News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSmN0dlNkMjlLTkpRdHgyc1RRaUlsVEg2czlOdkhoZkhlUEtySVoyaWNpY2l3VUpaLWRld2ExX1dJUnNzTUdvc1diQ0VoRVFMZjlmNkZtSktaMjFPbC1EYUZNRDFaMFVWd25MbG1tY3B2ekF3RXRWUHM2WWwxTmZLcGpnXzNjeTdCMk9zbnVoZ1RkejQxUW4wbmdwTnJmZl9ONnFMYk9Ib1I4MjFZd0wtVjk5VHpCdG51M3JMa1F3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:03:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
