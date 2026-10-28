@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-28T05:50:08.351Z",
+  "updatedAt": "2026-10-28T05:55:05.889Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.455Z"
+      "lastSuccess": "2026-10-28T05:55:06.066Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.650Z"
+      "lastSuccess": "2026-10-28T05:55:06.089Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.889Z"
+      "lastSuccess": "2026-10-28T05:55:06.134Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.925Z"
+      "lastSuccess": "2026-10-28T05:55:06.398Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.491Z"
+      "lastSuccess": "2026-10-28T05:55:06.033Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.687Z"
+      "lastSuccess": "2026-10-28T05:55:06.152Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.610Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-28T05:55:06.135Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.595Z"
+      "lastSuccess": "2026-10-28T05:55:06.265Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.627Z"
+      "lastSuccess": "2026-10-28T05:55:06.112Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T05:50:08.946Z"
+      "lastErrorAt": "2026-10-28T05:55:06.308Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.646Z"
+      "lastSuccess": "2026-10-28T05:55:06.105Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.632Z"
+      "lastSuccess": "2026-10-28T05:55:06.696Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.711Z"
+      "lastSuccess": "2026-10-28T05:55:06.212Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.728Z"
+      "lastSuccess": "2026-10-28T05:55:06.312Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.588Z"
+      "lastSuccess": "2026-10-28T05:55:06.190Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.777Z"
+      "lastSuccess": "2026-10-28T05:55:06.254Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.850Z"
+      "lastSuccess": "2026-10-28T05:55:06.355Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.732Z"
+      "lastSuccess": "2026-10-28T05:55:06.290Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T05:50:08.949Z"
+      "lastErrorAt": "2026-10-28T05:55:06.350Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.748Z"
+      "lastSuccess": "2026-10-28T05:55:06.307Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.826Z"
+      "lastSuccess": "2026-10-28T05:55:06.432Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.987Z"
+      "lastSuccess": "2026-10-28T05:55:06.392Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T05:50:08.984Z"
+      "lastSuccess": "2026-10-28T05:55:07.788Z"
     }
   },
   "items": [
+    {
+      "id": "story_55ea92430a2b9d61",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Why India has soured on Trump ahead of US midterms",
+      "snippet": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
+      "link": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T05:43:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c9877579a91d2cfd",
       "source": "Guardian",
@@ -1723,6 +1737,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c6b7805e88b8869a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Hegseth likely to face questions on US role in Indo-Pacific at ASEAN summit - Reuters",
+      "snippet": "Hegseth likely to face questions on US role in Indo-Pacific at ASEAN summit  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONll3Q29YU0J4a1d4cjRXanpGWDdNc1YwM0dpM1BxX1UtWFZKMkk2MjIyVElVRlUxVVhQUU93bTBwWHdPTk5iM2FhdDVKMU9rVDZDMG55Xzc1d0IzYWwzV2RMZVdzTFhBTTlUSnM4NGFuM1ExcUVZcXBWcklWNm1YM2FFSzRPbUxIZHdnazFqLUJTa29zYWlvU2JnSDJoVTNMXzFVbl9GbW85S2tpcUd3Yg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T23:29:04.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c269bb3feebbb9ac",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2667,32 +2694,6 @@
       "link": "https://www.semafor.com/article/10/27/2026/us-consumer-confidence-ticks-up-in-october",
       "imageUrl": "https://img.semafor.com/486ae70bda3e5a425c770b3ef727be634f8e3c37-6000x4000.jpg",
       "publishedAt": "2026-10-27T22:30:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2d27ef900c672871",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
-      "snippet": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds\nAI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the U",
-      "link": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:30:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_85f1976054cdf569",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Why Trump's coalition of evangelical voters could be fraying",
-      "snippet": "White evangelical Christians have been among President Trump's most loyal supporters for more than a decade, and our new PBS News/NPR/Marist poll shows that most still approve of him. But signs of slippage are emerging ahead of the midterms",
-      "link": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:30:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
