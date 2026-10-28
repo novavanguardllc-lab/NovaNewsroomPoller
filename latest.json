@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-28T10:30:12.584Z",
+  "updatedAt": "2026-10-28T10:35:06.274Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.748Z"
+      "lastSuccess": "2026-10-28T10:35:06.468Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.035Z"
+      "lastSuccess": "2026-10-28T10:35:06.489Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.335Z"
+      "lastSuccess": "2026-10-28T10:35:06.778Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.282Z"
+      "lastSuccess": "2026-10-28T10:35:06.525Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.960Z"
+      "lastSuccess": "2026-10-28T10:35:06.401Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.850Z"
+      "lastSuccess": "2026-10-28T10:35:06.542Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.032Z"
+      "lastSuccess": "2026-10-28T10:35:06.635Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.765Z"
+      "lastSuccess": "2026-10-28T10:35:06.564Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.781Z"
+      "lastSuccess": "2026-10-28T10:35:06.570Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T10:30:13.260Z"
+      "lastErrorAt": "2026-10-28T10:35:06.593Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.027Z"
+      "lastSuccess": "2026-10-28T10:35:06.549Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.888Z"
+      "lastSuccess": "2026-10-28T10:35:06.507Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.011Z"
+      "lastSuccess": "2026-10-28T10:35:06.658Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.789Z"
+      "lastSuccess": "2026-10-28T10:35:06.626Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:12.993Z"
+      "lastSuccess": "2026-10-28T10:35:06.460Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.225Z"
+      "lastSuccess": "2026-10-28T10:35:06.621Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.343Z"
+      "lastSuccess": "2026-10-28T10:35:06.644Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.146Z"
+      "lastSuccess": "2026-10-28T10:35:06.583Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T10:30:13.261Z"
+      "lastErrorAt": "2026-10-28T10:35:06.629Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.143Z"
+      "lastSuccess": "2026-10-28T10:35:10.467Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.110Z"
+      "lastSuccess": "2026-10-28T10:35:06.743Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.361Z"
+      "lastSuccess": "2026-10-28T10:35:06.810Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T10:30:13.392Z"
+      "lastSuccess": "2026-10-28T10:35:06.762Z"
     }
   },
   "items": [
+    {
+      "id": "story_f95242d4a7c3954d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Deep in Trump country, a new generation reveals the divide behind Texas' tight Senate race",
+      "snippet": "Three Texas Tech roommates reveal how abortion rights, oil and gas policy, and cost of living shape their votes in the Paxton-Talarico race.",
+      "link": "https://www.foxnews.com/politics/deep-trump-country-new-generation-reveals-divide-behind-texas-tight-senate-race",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:30:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9b2725a911d6afc7",
       "source": "CBS News",
@@ -280,6 +293,19 @@
       "corroboratedCount": 7
     },
     {
+      "id": "story_b45624c53127cfd6",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Hormuz oil spill forces closure of UAE beaches",
+      "snippet": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:02:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_6f29031bed9e6dc8",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -343,6 +369,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_6c711eb18aec777f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Netanyahu or Eisenkot? Can you form Israel’s next coalition government?",
+      "snippet": "Israel has only ever been governed by coalitions. Can you put one together that reaches 61 of the Knesset's 120 seats?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:00:11.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_b53eef19266761a6",
@@ -629,6 +668,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_fa39d7ab2fea2a3d",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israel’s stock market drops as exit polls show no clear election winner",
+      "snippet": "Benchmark Tel Aviv 125 index falls more than 3 percent amid uncertainty over who will lead the next government.",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:55:47.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_7b13a132a118b9dc",
@@ -2644,58 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_5d3ef0a9cf1b65f8",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Mbappe faces backlash in China for meme fiasco",
-      "snippet": "Three major Chinese brands have ended partnerships with French football star Kylian Mbappe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:28:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd14b09195749201",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Judge to appoint special master in California voting case in setback to Trump admin",
-      "snippet": "The judge appeared skeptical of the DOJ's request for a restraining order.",
-      "link": "https://abcnews.com/Politics/judge-appoint-special-master-california-voting-case-setback/story?id=137622503",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:17:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_64494e6a888c011a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Israel election results live: exit polls point to tie between Netanyahu and Eisenkot blocs",
-      "snippet": "Both blocs would fall short of the 61 seats needed to form a government as support for Palestinian parties surges\n\nFull report: Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats\n\nAnalysis: Rise of Pale",
-      "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:16:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f59c346eb5902716",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
-      "snippet": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents",
-      "link": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T04:13:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
