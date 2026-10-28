@@ -1,102 +1,130 @@
 {
-  "updatedAt": "2026-10-28T00:55:05.687Z",
+  "updatedAt": "2026-10-28T01:00:14.821Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.802Z"
+      "lastSuccess": "2026-10-28T01:00:14.977Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.763Z"
+      "lastSuccess": "2026-10-28T01:00:15.018Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.757Z"
+      "online": false,
+      "lastError": "Status code 503",
+      "lastErrorAt": "2026-10-28T01:00:20.943Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-10-28T00:55:06.123Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-28T01:00:24.839Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.749Z"
+      "lastSuccess": "2026-10-28T01:00:15.324Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.790Z"
+      "lastSuccess": "2026-10-28T01:00:15.144Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.807Z"
+      "lastSuccess": "2026-10-28T01:00:14.984Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.779Z"
+      "lastSuccess": "2026-10-28T01:00:14.946Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.773Z"
+      "lastSuccess": "2026-10-28T01:00:14.956Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T00:55:05.822Z"
+      "lastErrorAt": "2026-10-28T01:00:15.178Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.768Z"
+      "lastSuccess": "2026-10-28T01:00:15.159Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.797Z"
+      "lastSuccess": "2026-10-28T01:00:15.177Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.919Z"
+      "lastSuccess": "2026-10-28T01:00:15.106Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.814Z"
+      "lastSuccess": "2026-10-28T01:00:15.163Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.732Z"
+      "lastSuccess": "2026-10-28T01:00:15.083Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.852Z"
+      "lastSuccess": "2026-10-28T01:00:15.217Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.926Z"
+      "lastSuccess": "2026-10-28T01:00:15.311Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.821Z"
+      "lastSuccess": "2026-10-28T01:00:15.026Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T00:55:05.873Z"
+      "lastErrorAt": "2026-10-28T01:00:15.335Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.866Z"
+      "lastSuccess": "2026-10-28T01:00:15.226Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.905Z"
+      "lastSuccess": "2026-10-28T01:00:15.299Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:05.934Z"
+      "lastSuccess": "2026-10-28T01:00:15.382Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T00:55:08.728Z"
+      "lastSuccess": "2026-10-28T01:00:15.394Z"
     }
   },
   "items": [
+    {
+      "id": "story_e9ad2914b5e3335c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan. 6 testimony fails: sources",
+      "snippet": "Cassidy Hutchinson avoided indictment after a D.C. grand jury declined to charge her over statements made to the Jan. 6 House select committee.",
+      "link": "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:51:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dc4662dfd218fb25",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Man accused of threatening to hijack United flight says it was a drunken joke",
+      "snippet": "Cockpit audio captures the pilot explaining the diverted United Airlines flight while Dante Milne allegedly slept, unaware he caused the emergency.",
+      "link": "https://www.foxnews.com/us/man-accused-threatening-hijack-united-flight-says-drunken-joke",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:50:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_20901aa775a9cc8c",
       "source": "Fox News",
@@ -2668,32 +2696,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-27T21:12:39.000Z",
       "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_ec33971c6eb557e0",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Dream postponed: Hebron groom caught in Israeli military lockdown",
-      "snippet": "Israel's military operation in West Bank's Hebron has disrupted Palestinian life, including a postponed wedding.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/dream-postponed-hebron-groom-caught-in-israeli-military-lockdown?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T21:12:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6435ba252d3f3eb5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump makes last-minute push to keep Texas in Republican hands with third trip - AP News",
-      "snippet": "Trump makes last-minute push to keep Texas in Republican hands with third trip  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYU9QN3kwR2JnU0lwVlhGZ0xxM0VaYVNFNWJwUk1lZlVVV0N0ZlhpLW91VGtXUGg2LUlfRDNxSy1YU1RPX3NOeElMYXJZME5odnZ0SHJfaFU3R3k3MXJ4Q19HLThBSHVTdUN2SkR3RDByWkpOSE1FRmVoNVZ3NE1xQ1JrXy0zM3NobTRGUEU0b3VvY3BUYXRGVGRrMXQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T21:12:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
     }
