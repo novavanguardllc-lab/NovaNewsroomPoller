@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-10-28T13:25:05.982Z",
+  "updatedAt": "2026-10-28T13:30:12.160Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.042Z"
+      "lastSuccess": "2026-10-28T13:30:12.622Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.046Z"
+      "lastSuccess": "2026-10-28T13:30:12.680Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.066Z"
+      "lastSuccess": "2026-10-28T13:30:12.377Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.082Z"
+      "lastSuccess": "2026-10-28T13:30:12.486Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.089Z"
+      "lastSuccess": "2026-10-28T13:30:12.507Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.103Z"
+      "lastSuccess": "2026-10-28T13:30:12.838Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.107Z"
+      "lastSuccess": "2026-10-28T13:30:12.658Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.110Z"
+      "lastSuccess": "2026-10-28T13:30:12.420Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.131Z"
+      "lastSuccess": "2026-10-28T13:30:12.465Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.153Z"
+      "lastSuccess": "2026-10-28T13:30:12.699Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.162Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-28T13:30:12.424Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.173Z"
+      "lastSuccess": "2026-10-28T13:30:12.907Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.219Z"
+      "lastSuccess": "2026-10-28T13:30:12.981Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.235Z"
+      "lastSuccess": "2026-10-28T13:30:12.543Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.289Z"
+      "lastSuccess": "2026-10-28T13:30:12.806Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.304Z"
+      "lastSuccess": "2026-10-28T13:30:13.763Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T13:25:06.308Z"
+      "lastErrorAt": "2026-10-28T13:30:12.625Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.315Z"
+      "lastSuccess": "2026-10-28T13:30:12.994Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T13:25:06.315Z"
+      "lastErrorAt": "2026-10-28T13:30:13.024Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.330Z"
+      "lastSuccess": "2026-10-28T13:30:13.040Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.447Z"
+      "lastSuccess": "2026-10-28T13:30:12.401Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:06.470Z"
+      "lastSuccess": "2026-10-28T13:30:13.006Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:25:09.966Z"
+      "lastSuccess": "2026-10-28T13:30:12.845Z"
     }
   },
   "items": [
+    {
+      "id": "story_558719353ba11435",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Can a prenatal vitamin impact your child's IQ?",
+      "snippet": "Dr. Céline Gounder joins \"CBS Mornings\" to discuss new research that shows a certain prenatal supplement could impact your child's IQ.",
+      "link": "https://www.cbsnews.com/video/can-a-prenatal-vitamin-impact-your-childs-iq/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:25:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a938eb31b508a379",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Wall St titans skip Riyadh, still come to Gulf",
+      "snippet": "Houthi attacks forced the postponement of FII, but the likes of BlackRock’s Larry Fink made the trip anyway.",
+      "link": "https://www.semafor.com/article/10/28/2026/finance-titans-travel-to-gulf-despite-skipping-riyadh-events",
+      "imageUrl": "https://img.semafor.com/fc4b89da34dbda4d1cbb9f005d3de9a5aac2246f-1480x1110.png",
+      "publishedAt": "2026-10-28T13:24:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c9dc158b39b1b715",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  CDC report warns of 'urgent' threat of drug-resistant bacteria",
+      "snippet": "ABC News contributor Dr. Alok Patel explains the report and what people can do for treatment and prevention.",
+      "link": "https://abcnews.com/video/137638049/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:24:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_86a5762e5d11ca6b",
       "source": "Wash Examiner",
@@ -106,6 +146,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4782338/voters-helped-trump-michigan-second-thoughts/",
       "imageUrl": null,
       "publishedAt": "2026-10-28T13:22:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_00537d31902592bb",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Latest on Florida mom arrested for leaving children while on work trip",
+      "snippet": "A Florida mother was arrested while deboarding a plane after leaving her four children, ages 9 through 14, at home with a part-time babysitter while on a work trip to Las Vegas. Tom Hanson reports.",
+      "link": "https://www.cbsnews.com/video/latest-on-florida-mom-arrested-for-leaving-children-while-on-work-trip/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:21:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -145,6 +198,19 @@
       "link": "https://www.cbsnews.com/news/ted-bundy-utah-teenager-cold-case-murder-dna/",
       "imageUrl": null,
       "publishedAt": "2026-10-28T13:19:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_574881d2657586e3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Evidence links Ted Bundy to cold case murder in Utah",
+      "snippet": "DNA evidence has linked serial killer Ted Bundy to an unsolved murder in Utah. Jericka Duncan reports.",
+      "link": "https://www.cbsnews.com/video/evidence-links-ted-bundy-to-cold-case-murder-in-utah/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:19:31.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -197,6 +263,19 @@
       "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
       "imageUrl": null,
       "publishedAt": "2026-10-28T13:16:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_528f7002ac7f2c55",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "New evidence emerges in \"The People's Court\" murder trial",
+      "snippet": "New evidence is emerging on the murder of Michelle Parker in 2011 by her ex-fiancée, Dale Smith Jr. Cristian Benavides reports.",
+      "link": "https://www.cbsnews.com/video/new-evidence-emerges-in-the-peoples-court-murder-trial/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:16:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1541,6 +1620,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_fd12814f785856ca",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Rays stun Brewers with rally in 12th inning and force World Series Game 5",
+      "snippet": "Jonny DeLuca and pinch-hitter Ben Williamson singled home runs in a stunning 12th-inning rally, and the Tampa Bay Rays staved off World Series elimination with a 4-3 win over the Milwaukee Brewers that forced Game 5",
+      "link": "https://abcnews.com/Sports/wireStory/rays-stun-brewers-2-run-rally-12th-inning-137629987",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:50:46.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f7a0f8e3c6c8949c",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2603,97 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T10:24:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1c7f1afcdbd594d5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Flávio Bolsonaro flees Brazil through Argentina and is expected to land in Miami - AP News",
-      "snippet": "Flávio Bolsonaro flees Brazil through Argentina and is expected to land in Miami  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTlDM3hOQUxUMmVMYTJUeWxDVXAyRnh6Y0xSaFR0cTdHeDY0aW9LNnFDdUxXczNGenlLM2FpbXhrLWpnbFVVYkRUUFJfUDdMX3Y2YktHa1prTi1TRE9NSndVWjQtbkIybHRJdTZxUmYtR00wMHE0ZnZvcTFUSnRNMHY5OFJCbUE5dVVseExuVHNOUG53bXVfbmpZYThFSmlwQkpERnV4YnR4TjhZLUhV?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T10:22:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_3a9430ebd14b4421",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Israel: Netanyahu edges closer to a majority",
-      "snippet": "The final results are expected tonight or tomorrow morning. For now, the picture is looking increasingly favourable for Benjamin Netanyahu and his bloc, but the Israeli prime minister is still short of a clear victory, as he needs 61 seats ",
-      "link": "https://www.france24.com/en/israel-netanyahu-edges-closer-to-a-majority",
-      "imageUrl": "https://s.france24.com/media/display/6fc071c2-d2b7-11f1-b3c1-efcc5769f1db/w:1024/p:16x9/EN-20261028-103209-103550-CS.jpg",
-      "publishedAt": "2026-10-28T10:20:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9c664eba5ae102dc",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Germany news: Parties debate who should succeed President Steinmeier, with several women under discussion",
-      "snippet": "Germany's political parties are weighing possible successors to President Frank-Walter Steinmeier, with no candidate agreed yet. Meanwhile, a poll suggests most Germans are giving Halloween a miss this year. Follow DW.",
-      "link": "https://www.dw.com/en/germany-news-parties-debate-who-should-succeed-president-steinmeier-with-several-women-under-discussion/live-79783779?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T10:20:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_26a8ef5d58edc37d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "snippet": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T10:18:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36cb54dc27024ed1",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "snippet": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T10:17:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_855efafbfd4a12a9",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Spain: Local authorities confirm at least 10 dead in train accident",
-      "snippet": "Two trains travelling in opposite directions have collided in southern Spain, on the route between Madrid and Seville. At least 10 deaths have been confirmed, although some media reports put the toll as high as 39. The crash brings back pai",
-      "link": "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
-      "imageUrl": "https://s.france24.com/media/display/11d5ea82-d2b8-11f1-be52-a7bbbeea0b20/w:1024/p:16x9/EN-20261028-103645-103913-CS.jpg",
-      "publishedAt": "2026-10-28T10:17:48.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_7464cb5f81f258ac",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - AP News",
-      "snippet": "Malaysia seizes servers with advanced AI chips suspected of violating export controls  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTNpQXVCYkdWTzZ2Q0VQYVVKb1BSV0hRZWttLXhtNUhDY0JoNGJrZlJnUmJZSUt2NmQwU3JqUEJ0bnJxRk9Qdi1iSkx3dENILXZrWFlzTER3OEpxbWdaMklxbmp4QUlZSmJFTUVrSktYV2twbkQzVFFWV25WbGUtZnZiYnZxSjNpaVhzYkprbDdhTFVHcXdvNHl0WUw2cHMzSUVINkkwUTl1Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T10:16:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
