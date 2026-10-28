@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-28T07:55:05.678Z",
+  "updatedAt": "2026-10-28T08:00:14.312Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.904Z"
+      "lastSuccess": "2026-10-28T08:00:14.636Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.924Z"
+      "lastSuccess": "2026-10-28T08:00:14.610Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.123Z"
+      "lastSuccess": "2026-10-28T08:00:15.054Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.196Z"
+      "lastSuccess": "2026-10-28T08:00:14.973Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.785Z"
+      "lastSuccess": "2026-10-28T08:00:14.540Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.962Z"
+      "lastSuccess": "2026-10-28T08:00:14.696Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.987Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-28T08:00:14.629Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.989Z"
+      "lastSuccess": "2026-10-28T08:00:14.557Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.024Z"
+      "lastSuccess": "2026-10-28T08:00:14.796Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T07:55:06.103Z"
+      "lastErrorAt": "2026-10-28T08:00:14.789Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.005Z"
+      "lastSuccess": "2026-10-28T08:00:14.590Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.995Z"
+      "lastSuccess": "2026-10-28T08:00:16.658Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.044Z"
+      "lastSuccess": "2026-10-28T08:00:14.719Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.109Z"
+      "lastSuccess": "2026-10-28T08:00:14.576Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:05.863Z"
+      "lastSuccess": "2026-10-28T08:00:14.759Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.102Z"
+      "lastSuccess": "2026-10-28T08:00:14.949Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.132Z"
+      "lastSuccess": "2026-10-28T08:00:14.999Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.010Z"
+      "lastSuccess": "2026-10-28T08:00:14.831Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T07:55:06.125Z"
+      "lastErrorAt": "2026-10-28T08:00:15.000Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.049Z"
+      "lastSuccess": "2026-10-28T08:00:14.819Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.188Z"
+      "lastSuccess": "2026-10-28T08:00:15.121Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.222Z"
+      "lastSuccess": "2026-10-28T08:00:15.160Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T07:55:06.211Z"
+      "lastSuccess": "2026-10-28T08:00:15.152Z"
     }
   },
   "items": [
+    {
+      "id": "story_b4fc0a2c1d411647",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
+      "snippet": "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel.",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T07:57:51.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_57747bac1862c9ae",
       "source": "DW",
@@ -2680,19 +2694,6 @@
       "link": "https://www.cbsnews.com/video/former-luxury-real-estate-brothers-sentenced-to-30-years-in-prison-over-sex-trafficking-ring/",
       "imageUrl": null,
       "publishedAt": "2026-10-27T23:00:04.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_67d3edf64e33846f",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Israel election: Record turnout as Netanyahu and Eisenkot remain deadlocked",
-      "snippet": "Israel's election remained deadlocked on Tuesday, exit polls showed, with opposition leader Gadi Eisenkot's bloc narrowly ahead of Prime Minister Benjamin Netanyahu's camp by 52 seats to 50. Neither side had a clear path to forming a govern",
-      "link": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
-      "imageUrl": "https://s.france24.com/media/display/e0844dc0-d24e-11f1-bac3-bf69a9ce9852/w:1024/p:16x9/2026-10-27T201655Z-2088081210-RC2WBOANCXWD-RTRMADP-3-ISRAEL-ELECTION.jpg",
-      "publishedAt": "2026-10-27T22:58:53.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
