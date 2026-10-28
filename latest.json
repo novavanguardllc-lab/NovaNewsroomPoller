@@ -1,103 +1,117 @@
 {
-  "updatedAt": "2026-10-28T13:15:10.075Z",
+  "updatedAt": "2026-10-28T13:20:08.557Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.311Z"
+      "lastSuccess": "2026-10-28T13:20:08.630Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.344Z"
+      "lastSuccess": "2026-10-28T13:20:08.688Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.824Z"
+      "lastSuccess": "2026-10-28T13:20:09.075Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.303Z"
+      "lastSuccess": "2026-10-28T13:20:09.100Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.276Z"
+      "lastSuccess": "2026-10-28T13:20:08.683Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.483Z"
+      "lastSuccess": "2026-10-28T13:20:08.869Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.361Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-28T13:20:08.853Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.356Z"
+      "lastSuccess": "2026-10-28T13:20:08.754Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.421Z"
+      "lastSuccess": "2026-10-28T13:20:08.844Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T13:15:10.525Z"
+      "lastErrorAt": "2026-10-28T13:20:08.844Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.427Z"
+      "lastSuccess": "2026-10-28T13:20:08.638Z"
     },
     "UPI": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-10-28T13:15:20.091Z"
+      "online": true,
+      "lastSuccess": "2026-10-28T13:20:08.883Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.416Z"
+      "lastSuccess": "2026-10-28T13:20:08.781Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.523Z"
+      "lastSuccess": "2026-10-28T13:20:08.851Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.222Z"
+      "lastSuccess": "2026-10-28T13:20:08.726Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.626Z"
+      "lastSuccess": "2026-10-28T13:20:08.841Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.796Z"
+      "lastSuccess": "2026-10-28T13:20:08.899Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.498Z"
+      "lastSuccess": "2026-10-28T13:20:08.760Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T13:15:10.716Z"
+      "lastErrorAt": "2026-10-28T13:20:08.890Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.696Z"
+      "lastSuccess": "2026-10-28T13:20:08.879Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.768Z"
+      "lastSuccess": "2026-10-28T13:20:08.990Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.865Z"
+      "lastSuccess": "2026-10-28T13:20:08.905Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-10-28T13:15:10.848Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-28T13:20:18.581Z"
     }
   },
   "items": [
+    {
+      "id": "story_1cb24ccb78c474a2",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "WhatsApp messages from one firm drive Gulf tanker rates",
+      "snippet": "Sinokor, controlled by a South Korean billionaire, now carries more than a third of the oil passing through the Strait of Hormuz, according to Bloomberg.",
+      "link": "https://www.semafor.com/article/10/28/2026/whatsapp-messages-from-shipping-firm-drive-gulf-tanker-rates",
+      "imageUrl": "https://img.semafor.com/418364447029ba3a410fec0bc5d8dc284a9c9cd8-3000x2078.jpg",
+      "publishedAt": "2026-10-28T13:16:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_1ef57d96beb990e5",
       "source": "Fox News",
@@ -151,6 +165,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8eb3362241b519fc",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Former election official weighs in on DOJ suit trying to force California to set aside ballots",
+      "snippet": "A federal judge will rule on a Department of Justice lawsuit seeking to compel California to separate mail ballots from suspected noncitizens. California officials have denounced the lawsuit as a political stunt intended to cast doubt on th",
+      "link": "https://www.cbsnews.com/video/former-election-official-weighs-in-on-doj-suit-trying-to-force-california-to-set-aside-ballots/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:10:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0ab1da7a7a1c592e",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -159,6 +186,19 @@
       "link": "https://www.foxnews.com/politics/leftist-streamer-triggers-fury-mocking-funny-injuries-ice-agents-ilhan-omar-event-disgusting",
       "imageUrl": null,
       "publishedAt": "2026-10-28T13:10:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9c66ce3af3abc1f4",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump backs Paxton in Texas; Rogers repeats Muslim Brotherhood claims against El-Sayed in Michigan",
+      "snippet": "President Trump rallied for Republican Senate candidate Ken Paxton in Texas. Meanwhile, Michigan Republican Senate candidate Mike Rogers took aim at opponent Abdul El-Sayed. CBS News' Olivia Rinaldi and Aaron Navarro report.",
+      "link": "https://www.cbsnews.com/video/trump-backs-paxton-in-texas-rogers-repeats-muslim-brotherhood-claims-against-el-sayed-in-michigan/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T13:09:31.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -307,6 +347,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_380598e1b106550a",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
+      "snippet": "Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe's Real.",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T12:56:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_aad612d871833cf9",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -328,6 +381,19 @@
       "link": "https://www.foxnews.com/travel/tsa-finds-sharp-object-straight-out-horror-movie-airport-security-checkpoint",
       "imageUrl": null,
       "publishedAt": "2026-10-28T12:53:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cd234106c77e5222",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
+      "snippet": "Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is 'perfect'.",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T12:53:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2628,71 +2694,6 @@
       "snippet": "The cryptocurrency industry has spent more on Ohio’s Senate election than any other in the nation, pouring tens of millions of dollars into an effort to prevent former Sen. Sherrod Brown (D-OH) from coming back to office. The crypto sector’",
       "link": "https://www.washingtonexaminer.com/policy/finance-and-economy/4781954/crypto-industry-spending-big-stop-sherrod-brown/",
       "imageUrl": null,
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bf6a6f51c5934a70",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump, Congress set to clash over Hegseth, Iran war, Ukraine after election",
-      "snippet": "President Trump is headed for a showdown with Democrats and members of his party after Election Day over Secretary of Defense Pete Hegseth’s future leadership of the Pentagon, the Iran war and the Russia-Ukraine war. Democrats are stepping ",
-      "link": "https://thehill.com/homenews/administration/6176148-trump-hegseth-defense-funding-battle/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26294694444631-e1793134829744.jpg?w=900",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6a00c47c10cfcd68",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Fed likely to hold rates steady ahead of midterms",
-      "snippet": "Federal Reserve officials will decide whether to raise interest rates again on Wednesday, as persistent inflation strains Americans ahead of the midterm elections. Annual inflation was 3.7 percent in September, according to the consumer pri",
-      "link": "https://thehill.com/business/6175539-fed-to-decide-interest-rates-midterms/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26289223272188-e1793123807205.jpg?w=900",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ff6c3e068fb8039e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Silicon Valley braces for firestorm of Dem scrutiny in 2027",
-      "snippet": "Silicon Valley is bracing for a firestorm of scrutiny should Democrats take control of Congress next year, underscoring how the industry’s efforts to get on President Trump’s good side last year became a political liability.  After two year",
-      "link": "https://thehill.com/policy/technology/6176186-silicon-valley-democrats-scrutiny/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26300557583645-e1793134692316.jpg?w=900",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bf690380e4ce0a7e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "The Memo: DOJ targets Trump foes in flurry of activity in election’s shadow",
-      "snippet": "FBI agents raided a California home as part of an investigation into former Rep. Eric Swalwell (D-Calif.) on Tuesday, adding to a rapidly lengthening list of law enforcement actions that have a political component, just one week before the ",
-      "link": "https://thehill.com/homenews/analysis/6176336-justice-department-midterm-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6aad65492fa729.90834060-e1792710146454.jpeg?w=900",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b03044f10bc31eb8",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Jeffries tiptoes around Hegseth impeachment",
-      "snippet": "House Minority Leader Hakeem Jeffries (D-N.Y.) is tiptoeing around the impeachment of Defense Secretary Pete Hegseth, denouncing the Pentagon chief in the sharpest terms but without taking the further step of endorsing Hegseth’s forced remo",
-      "link": "https://thehill.com/homenews/house/6176452-jeffries-hegseth-house-impeachment/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/jeffrieshakeem_093026gn12_w.jpg?w=900",
       "publishedAt": "2026-10-28T10:00:00.000Z",
       "tier": "routine",
       "topic": "news",
