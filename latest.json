@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-28T04:10:08.862Z",
+  "updatedAt": "2026-10-28T04:15:08.402Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.053Z"
+      "lastSuccess": "2026-10-28T04:15:08.573Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.091Z"
+      "lastSuccess": "2026-10-28T04:15:08.600Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.077Z"
+      "lastSuccess": "2026-10-28T04:15:09.083Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.046Z"
+      "lastSuccess": "2026-10-28T04:15:09.043Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.015Z"
+      "lastSuccess": "2026-10-28T04:15:08.693Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.312Z"
+      "lastSuccess": "2026-10-28T04:15:09.308Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.256Z"
+      "lastSuccess": "2026-10-28T04:15:08.782Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.231Z"
+      "lastSuccess": "2026-10-28T04:15:08.938Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.243Z"
+      "lastSuccess": "2026-10-28T04:15:08.843Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T04:10:09.246Z"
+      "lastErrorAt": "2026-10-28T04:15:08.793Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.056Z"
+      "lastSuccess": "2026-10-28T04:15:08.856Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:10.341Z"
+      "lastSuccess": "2026-10-28T04:15:08.835Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.290Z"
+      "lastSuccess": "2026-10-28T04:15:08.914Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.239Z"
+      "lastSuccess": "2026-10-28T04:15:08.933Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:08.981Z"
+      "lastSuccess": "2026-10-28T04:15:08.763Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.221Z"
+      "lastSuccess": "2026-10-28T04:15:09.021Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.375Z"
+      "lastSuccess": "2026-10-28T04:15:09.185Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.230Z"
+      "lastSuccess": "2026-10-28T04:15:08.941Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T04:10:09.368Z"
+      "lastErrorAt": "2026-10-28T04:15:09.186Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.252Z"
+      "lastSuccess": "2026-10-28T04:15:08.876Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.366Z"
+      "lastSuccess": "2026-10-28T04:15:09.176Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.426Z"
+      "lastSuccess": "2026-10-28T04:15:09.266Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T04:10:09.439Z"
+      "lastSuccess": "2026-10-28T04:15:09.323Z"
     }
   },
   "items": [
+    {
+      "id": "story_e42566dedf8291f4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "US military kills five in eastern Pacific strike on suspected drug-trafficking vessel",
+      "snippet": "Video shows a go-fast vessel erupt into a massive fireball as SOUTHCOM confirms five narco-terrorists were killed in the eastern Pacific strike.",
+      "link": "https://www.foxnews.com/us/us-military-kills-five-eastern-pacific-strike-suspected-drug-trafficking-vessel",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T04:05:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_416945a942e19942",
       "source": "NYT",
@@ -106,6 +119,32 @@
       "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
       "imageUrl": null,
       "publishedAt": "2026-10-28T04:01:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_80478de5966f517e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Florida girlfriend allegedly tracks cheating boyfriend, shoots woman in his car: reports",
+      "snippet": "Katherine Dale Kelly allegedly used an Uber to track her boyfriend to a late-night meeting before opening fire on the woman inside the vehicle.",
+      "link": "https://www.foxnews.com/us/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-his-car",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T03:57:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bb1808e6d5b446e8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
+      "snippet": "Flavio Bolsonaro’s former campaign manager says the senator did not inform him that he planned to flee Brazil.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T03:49:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1788,6 +1827,19 @@
       "corroboratedCount": 6
     },
     {
+      "id": "story_11c79a66c5482b84",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump holds two rallies in critical Texas battleground",
+      "snippet": "President Trump is holding two rallies in Texas where Republican Ken Paxton is locked in a tight race with Democrat James Talarico. NBC News’ Gabe Gutierrez reports.",
+      "link": "https://www.nbcnews.com/nightly-news/video/trump-holds-two-rallies-in-critical-texas-battleground-272370245884",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T22:54:32.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_851dcd93c9f47b56",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -1941,6 +1993,19 @@
       "publishedAt": "2026-10-27T22:48:19.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b57f2a9eec8bd795",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Colts send All-Pro guard Quenton Nelson to Seahawks, DeForest Buckner to 49ers for draft picks - AP News",
+      "snippet": "Colts send All-Pro guard Quenton Nelson to Seahawks, DeForest Buckner to 49ers for draft picks  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0hIcEIzSkZCRWZaM0ZOX0UtRWxSazJxUmFVWW1TV1oyQWJya1RBYmFDYjBOYUF3cVBTbWdrX3JJTjQ0akoybkYxWHYzY0hyQThCSXdIQkZ3b3lLLTQwUW5wREkycWJuamRqdFVRbEIwVUNFN183YWpZYTJxeXhYV211Z1VjR29yLTh2UmZXU0tTNnJzX1doVWRMaFhvaXBud0RRZUYyQkJ0SDY1eEx3UWVDdnJoRGc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T22:48:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2631,71 +2696,6 @@
       "tier": "routine",
       "topic": "sports",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_191f79f07904629f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Arizona coach gives back in big way by buying fans $2,000 worth of tequila and 1,000 game tickets",
-      "snippet": "Brent Brennan's wild weekend included a $2,000 bar tab at \"Dirtbag's\" and 1,000 donated tickets for local youth ahead of Arizona's Big 12 win.",
-      "link": "https://www.foxnews.com/outkick-sports/arizona-coach-gives-back-big-way-buying-fans-2000-worth-tequila-1000-game-tickets",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:15:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ba49c8bef46113ff",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Grand Jury Declines to Bring Charges Against Cassidy Hutchinson",
-      "snippet": "The rejection of the indictment was the latest extraordinary setback in President Trump’s wide-ranging campaign to go after his political opponents.",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:11:48.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_4ce40386cade254d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "snippet": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:11:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2d457700ff9c06da",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Grand jury refuses to indict ex-White House aide Cassidy Hutchinson, AP sources say - AP News",
-      "snippet": "Grand jury refuses to indict ex-White House aide Cassidy Hutchinson, AP sources say  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnBPa2VzUUoxM3RCb0cyd0Fmem05T0lHMVJrejNkdGdGLU1xRmZGQ0g4UDA5N2g2NVRSU0QyTkVWUTFaYXYxUVhDVUZuZElEaDA3dkNZTW9nM3VjXzlyR2R0LXA5a0doNmh5SF9WVVd0UDlYb3hRRHVnalJuZjdGSkNxYWVmUnVLZlJVMXFzX0tReVV0MnVDQ2Jodw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 6
-    },
-    {
-      "id": "story_ce199027ea1677b2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election - AP News",
-      "snippet": "Exit polls suggest a rebuke of Netanyahu but no clear winner in Israel’s election  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjZwSHA4OFBaR3JuMHQxem5wOWlIX3ppalRJRHZOLWs0aHk5V3Zlei1KR2FrZzRGX2Q3UmhxZ25YYm5WNzBvVmFSX1I4N3ZTeldBOUdRck1nSm9PMWt5MmNtcDlYTWZOR0hfSUhvb3h1NlRJUlJsRVNqNGhJMGZaZ01zM0U4NWRlTGxQR0Y4dGE2dkZEMllzaU1B?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:10:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 6
     }
   ]
 }
