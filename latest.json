@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-28T20:25:06.183Z",
+  "updatedAt": "2026-10-28T20:30:12.802Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.474Z"
+      "lastSuccess": "2026-10-28T20:30:13.337Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.364Z"
+      "lastSuccess": "2026-10-28T20:30:13.097Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.334Z"
+      "lastSuccess": "2026-10-28T20:30:13.278Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.384Z"
+      "lastSuccess": "2026-10-28T20:30:13.155Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.290Z"
+      "lastSuccess": "2026-10-28T20:30:13.075Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.377Z"
+      "lastSuccess": "2026-10-28T20:30:13.434Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.269Z"
+      "lastSuccess": "2026-10-28T20:30:13.018Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.273Z"
+      "lastSuccess": "2026-10-28T20:30:13.032Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.459Z"
+      "lastSuccess": "2026-10-28T20:30:13.437Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.510Z"
+      "lastSuccess": "2026-10-28T20:30:13.757Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.294Z"
+      "lastSuccess": "2026-10-28T20:30:13.134Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.569Z"
+      "lastSuccess": "2026-10-28T20:30:13.601Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.780Z"
+      "lastSuccess": "2026-10-28T20:30:13.752Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.484Z"
+      "lastSuccess": "2026-10-28T20:30:13.217Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.454Z"
+      "lastSuccess": "2026-10-28T20:30:13.559Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:09.248Z"
+      "lastSuccess": "2026-10-28T20:30:15.651Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T20:25:06.517Z"
+      "lastErrorAt": "2026-10-28T20:30:13.351Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.507Z"
+      "lastSuccess": "2026-10-28T20:30:13.839Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T20:25:06.520Z"
+      "lastErrorAt": "2026-10-28T20:30:13.893Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.554Z"
+      "lastSuccess": "2026-10-28T20:30:13.933Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.684Z"
+      "lastSuccess": "2026-10-28T20:30:13.814Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.692Z"
+      "lastSuccess": "2026-10-28T20:30:13.856Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T20:25:06.350Z"
+      "lastSuccess": "2026-10-28T20:30:13.454Z"
     }
   },
   "items": [
+    {
+      "id": "story_5732b53dcf71f5e7",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Spain Train Crash Kills at Least 68",
+      "snippet": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T20:26:04.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_b2c185a306a99b36",
       "source": "France24",
@@ -421,6 +434,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_c34a6fdcb7266d3c",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Defeated election candidate Bolsonaro thanks Trump and says he will lead Brazil opposition from US",
+      "snippet": "Flavio Bolsonaro has insisted he is the \"true elected president of Brazil\" despite losing the country's run-off vote to incumbent leader Luiz Inacio Lula da Silva.",
+      "link": "https://news.sky.com/story/flavio-bolsonaro-insists-he-is-true-elected-brazil-president-despite-losing-run-off-vote-13605006",
+      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
+      "publishedAt": "2026-10-28T19:48:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_10ab94599d0eb39d",
@@ -2667,32 +2693,6 @@
       "link": "https://www.france24.com/en/video/20261028-france-racist-attack-in-trappes-deeply-scars-local-community",
       "imageUrl": "https://s.france24.com/media/display/a476116e-d1f5-11f1-8114-bdb9616e85cf/w:1024/p:16x9/2026-10-26T185301Z-1414144200-RC26BOAZJ25N-RTRMADP-3-FRANCE-SECURITY-SHOOTING-PROTEST.jpg",
       "publishedAt": "2026-10-28T16:53:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_990c3b39d52d0fcf",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "LEE ZELDIN: Biden's energy rules cost billions. Trump's EPA is lowering costs",
-      "snippet": "The EPA proposal to overhaul Biden-era oil and gas rules is expected to save Americans $45 billion and unleash 210 million more barrels of oil.",
-      "link": "https://www.foxnews.com/opinion/lee-zeldin-bidens-energy-rules-cost-billions-trumps-epa-lowering-costs",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T16:50:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4732b87449491094",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "How House Democrats revamped their college outreach in a bid to win back youth voters",
-      "snippet": "House Democrats are looking to an inaugural program to supercharge college voters in key races for the Nov. 3 elections and flip the script against Republicans this cycle after the youth vote in 2024 helped send President Donald Trump back ",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4782014/how-house-democrats-revamped-their-college-outreach-in-bid-to-win-back-youth-voters/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T16:50:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
