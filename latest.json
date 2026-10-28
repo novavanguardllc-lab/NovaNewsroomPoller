@@ -1,102 +1,298 @@
 {
-  "updatedAt": "2026-10-28T09:00:15.407Z",
+  "updatedAt": "2026-10-28T09:05:06.684Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.585Z"
+      "lastSuccess": "2026-10-28T09:05:06.985Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.649Z"
+      "lastSuccess": "2026-10-28T09:05:06.949Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.752Z"
+      "lastSuccess": "2026-10-28T09:05:07.166Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.771Z"
+      "lastSuccess": "2026-10-28T09:05:06.777Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.725Z"
+      "lastSuccess": "2026-10-28T09:05:06.870Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.851Z"
+      "lastSuccess": "2026-10-28T09:05:07.011Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.621Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-28T09:05:06.974Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.022Z"
+      "lastSuccess": "2026-10-28T09:05:07.076Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.826Z"
+      "lastSuccess": "2026-10-28T09:05:06.967Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T09:00:16.044Z"
+      "lastErrorAt": "2026-10-28T09:05:06.987Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.821Z"
+      "lastSuccess": "2026-10-28T09:05:06.976Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.985Z"
+      "lastSuccess": "2026-10-28T09:05:06.974Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.811Z"
+      "lastSuccess": "2026-10-28T09:05:06.923Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.101Z"
+      "lastSuccess": "2026-10-28T09:05:06.931Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.690Z"
+      "lastSuccess": "2026-10-28T09:05:06.847Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:15.980Z"
+      "lastSuccess": "2026-10-28T09:05:07.074Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.084Z"
+      "lastSuccess": "2026-10-28T09:05:07.107Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.024Z"
+      "lastSuccess": "2026-10-28T09:05:07.092Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T09:00:16.070Z"
+      "lastErrorAt": "2026-10-28T09:05:07.093Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.061Z"
+      "lastSuccess": "2026-10-28T09:05:07.102Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.285Z"
+      "lastSuccess": "2026-10-28T09:05:07.313Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.109Z"
+      "lastSuccess": "2026-10-28T09:05:07.185Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T09:00:16.158Z"
+      "lastSuccess": "2026-10-28T09:05:07.181Z"
     }
   },
   "items": [
+    {
+      "id": "story_015e7b14686fd639",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Across Africa, parents embrace AI math tutor",
+      "snippet": "Rori has reached roughly 250,000 students across Liberia, Rwanda, Ghana, and Sierra Leone.",
+      "link": "https://www.semafor.com/article/10/26/2026/across-africa-parents-embrace-ai-math-tutor",
+      "imageUrl": "https://img.semafor.com/e80630187b3b47215213b0f16be41d41ae0c9e6a-7087x5315.jpg",
+      "publishedAt": "2026-10-28T09:00:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5a28d3dfa3ba60f6",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Taobao’s AI-enabled deliveries help close pay gap for deaf couriers  ",
+      "snippet": "A simple AI tool reduced the discrepancy in hourly pay by roughly a third.",
+      "link": "https://www.semafor.com/article/10/26/2026/taobaos-ai-enabled-deliveries-help-close-pay-gap-for-deaf-couriers",
+      "imageUrl": "https://img.semafor.com/e75538a3d25cb22eb5910f7c91dc62dae4ab411e-7087x5315.jpg",
+      "publishedAt": "2026-10-28T09:00:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e2c86cd51703de85",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "AI takes on the paperwork clogging India’s court system",
+      "snippet": "Adalat AI says its tools are being used in 6,000 courtrooms across 11 states, speeding up the pace of the justice system.",
+      "link": "https://www.semafor.com/article/10/26/2026/ai-takes-on-the-paperwork-clogging-indias-court-system",
+      "imageUrl": "https://img.semafor.com/b075a11378c3e88e35c1744141582e6fe5679c71-7087x5315.jpg",
+      "publishedAt": "2026-10-28T09:00:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fe6c062c9f8eefbf",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "A free AI tool speeds up the search for new antibiotics ",
+      "snippet": "McMaster University’s ESKAPE model lets researchers screen compounds for antibacterial potential, helping speed up drug discovery.",
+      "link": "https://www.semafor.com/article/10/26/2026/a-free-ai-tool-speeds-up-the-search-for-new-antibiotics",
+      "imageUrl": "https://img.semafor.com/e27588715d9a65d20fe67f57440e60514a4ec335-7087x5315.jpg",
+      "publishedAt": "2026-10-28T09:00:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ed7ff12fbeddfe78",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Using AI to map disaster damage for faster rescue and recovery  ",
+      "snippet": "CLARKE, developed by researchers at Texas A&M University, can assess up to 2,000 homes in seven minutes.",
+      "link": "https://www.semafor.com/article/10/26/2026/using-ai-to-map-disaster-damage-for-faster-rescue-and-recovery",
+      "imageUrl": "https://img.semafor.com/08c281a71487a1b807b9d18d97be4ad0c4560b0a-7087x5315.jpg",
+      "publishedAt": "2026-10-28T09:00:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d55da0c55eae5cff",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "New teachers union president wants to steer educators away from partisan politics",
+      "snippet": "NEA President Princess Moss wants to move her organization, the nation's largest labor union, toward issue-based advocacy — and away from party politics.",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b5110552e926b25f",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Here's how Democrats in Congress are preparing for election fraud claims",
+      "snippet": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.",
+      "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_23a4aa9aa5d4537a",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "How a lifelong Republican came to lead the data center battle in Ohio",
+      "snippet": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a9ed8cd812dd7c38",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Why many student voters have a right to choose where to register to vote",
+      "snippet": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0a9d2cbc8068b1d2",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "Dems have lost in the rural Midwest for years. This might be their time to win it back.",
+      "snippet": "Voters from western Wisconsin over to southern Minnesota and down to eastern Iowa are hurting. The question is whether they blame the president’s policies enough to elect Democrats.",
+      "link": "https://www.politico.com/news/2026/10/28/democrats-rural-midwest-rebecca-cooke-01137050",
+      "imageUrl": "https://static.politico.com/ec/c5/3a80f29744f299594c815f81a073/img-0769.jpg",
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f16dc17883777ed7",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Inside Scoop: Can Talarico take Texas? France in flames, Trump’s reality TV",
+      "snippet": "Jim Antle, the magazine’s executive editor, brings to life the pages of the Washington Examiner’s magazine in the show Inside Scoop. Each episode features exclusive insight from the article authors and expert analysis. Antle starts the show",
+      "link": "https://www.washingtonexaminer.com/videos/4781694/inside-scoop-jim-antle-james-talarico-texas-france-protest-trump-rally-heckler/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a514026a79990675",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Impeach Trump again? Ohio Democrats grapple with divisive question ahead of midterm elections",
+      "snippet": "EXCLUSIVE — House Democratic nominees in competitive races in Ohio are contending with whether to campaign on impeaching President Donald Trump — again. The issue has created fissures among Democrats across the country as they try to motiva",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4782020/ohio-democrats-grapple-trump-impeachment-midterms/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_40f2bab0f7600dff",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "We can fight Medicare fraud without abandoning high-needs patients",
+      "snippet": "A recent proposal from the Centers for Medicare & Medicaid Services has presented Congress with an opportunity to address two important priorities: protecting access to lifesaving care for patients who need it most and ensuring taxpayer dol",
+      "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4781708/protect-medicare-remote-patient-monitoring-rural-seniors/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_df936fa09520dc54",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Don’t reward illegal immigrants for breaking the law",
+      "snippet": "Should foreigners who enter the United States illegally enjoy the same privileges as those who submit to inspection and are lawfully admitted? That was the question before the Fifth Circuit Court of Appeals this term, and it rightly decided",
+      "link": "https://www.washingtonexaminer.com/opinion/4780911/dont-reward-illegal-immigrants-for-breaking-the-law/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_55510b1c9b1cea42",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Election lawsuits to watch one week before the midterm elections",
+      "snippet": "Less than a week before polls close, courts are still weighing a growing array of election-related lawsuits over voter identification, citizenship checks, access to registration records, and the federal government’s authority to intervene i",
+      "link": "https://www.washingtonexaminer.com/news/justice/4779763/election-lawsuits-to-watch-midterm-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_66f3b6db3ad60707",
       "source": "Semafor",
@@ -2498,201 +2694,6 @@
       "link": "https://www.cbsnews.com/video/high-tides-break-records-closing-several-roadways-flooding-neighborhoods-both-coasts/",
       "imageUrl": null,
       "publishedAt": "2026-10-28T00:07:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a9093683d36cc969",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-      "snippet": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks\nKing Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean to",
-      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T00:07:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c1a7f5e6e069d414",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Experts urge 'global health emergency' as climate harms accelerate",
-      "snippet": "Heat, drought and storms linked to climate change are already killing millions worldwide. Researchers want global warming to be declared a global health emergency as the health harms from it escalate faster than ever.",
-      "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T00:05:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c35647b6f2e9087b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "EA shuts down legendary game studio BioWare after recent high-profile disappointments, controversies",
-      "snippet": "Electronic Arts shut down BioWare after 31 years, ending early development on the next \"Mass Effect\" project after several recent flops.",
-      "link": "https://www.foxnews.com/media/ea-shuts-down-legendary-game-studio-bioware-after-recent-high-profile-disappointments-controversies",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T00:03:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5757e540ed32e3eb",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Healey seeks to steer UK through 'difficult moment' with low-key budget - Reuters",
-      "snippet": "Healey seeks to steer UK through 'difficult moment' with low-key budget  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWt5eEVYVG40UkFvRGh3TmhBeFAzMDdOdVp1aW5kekhwRFUzRWxJdTVPRl8xZUt5QVl5bm9xbXczdE5DMHlpdE5JSWR6eEZGREI5VnU0TVFreVdyZ3lJQ2lRQnJqTjQydFphUmZaOFg3YlNRdlBsZ0s3TGVaQndkby16NkZMU3I1Q0FucHgyekp0MjFsWmI1YXBkMlpNRjVFNFlSVTJDeFhQQlowaHVzeQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T00:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0948be8f41d1f1c4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Russia has a sustained pattern of harassing US national security space satellites: DIA",
-      "snippet": "A Russian military satellite that got dangerously close to a U.S.-registered one earlier this month is the latest in a string of similar incidents, according to a new report from the Defense Intelligence Agency. The Russian satellite, Cosmo",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4781419/russia-sustained-pattern-harassing-us-national-security-space-satellites/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T00:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7ac59ec9caecef99",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Judge berates DOJ attorney in court over new charge filed against former FBI officials",
-      "snippet": "The judge tossed a new obstruction charge against Nikki Floris and Bradley Benavides and told the Justice Department attorney that “everything is a sideshow on top of a sideshow” in this case.",
-      "link": "https://www.nbcnews.com/politics/justice-department/judge-berates-doj-attorney-new-charge-filed-former-fbi-officials-rcna606013",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:59:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ce12ad2338d09916",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts - Reuters",
-      "snippet": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcy1XMnJsZEJsNUwxOVB1LWhGV2dXellEM1dVVmYxc0ZKYk9oMEs2WEJGcmZsLWFiUUQxREdWOFFvUXYwV2VUWHF6M2NBbURtWVJqWHd2clVISmdKVGEzQzdJRngwcUFPYUlBZFJndG5WRTBUcENrUG9Hci1NMGxpSFV5X3hRWXdmZ05ISkpwZUpaRmdTemFrYXk5Qk1BbWN2dEZXY05hTS1lWHc2QTQtZ1NB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:54:28.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e861a9d2db581992",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "U.S. Defends Military Campaign Against Cartels as Leaders Gather in Caribbean",
-      "snippet": "A regional coalition convened as part of a U.S. military effort to disrupt and combat drug traffickers that officials have compared to the campaign against the Islamic State and Al Qaeda.",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:53:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ded9e2e6143b1fb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Mamdani under fire over NYC schools as critics say mayor is devoid of education agenda despite $38B budget",
-      "snippet": "Zohran Mamdani campaigned on progressive K-12 education reform, but advocates say the New York City mayor has produced few substantive changes.",
-      "link": "https://www.foxnews.com/media/mamdani-fire-nyc-schools-critics-say-mayor-devoid-education-agenda-despite-38b-budget",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:52:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_504c68817ab99b74",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "White House Has Tight Grip Over FBI in Pursuing Trump Targets, Agent Says",
-      "snippet": "In court testimony, the agent outlined the willingness of Kash Patel, the F.B.I. director, to take orders from President Trump to investigate his perceived enemies.",
-      "link": "https://www.nytimes.com/2026/10/27/us/politics/fbi-trump-patel-witt-testimony.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:48:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_35df203ab39bac5a",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "They bought cabins on a luxury cruise ship. High fuel costs got them kicked off in Cambodia.",
-      "snippet": "A residential cruise ship halted operations in Cambodia on Tuesday amid soaring fuel costs, leaving passengers in limbo after the U.S. company that operates the vessel ordered them to disembark.",
-      "link": "https://www.nbcnews.com/news/us-news/luxury-cruise-ship-high-fuel-costs-got-kicked-cambodia-rcna606031",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:47:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8cf59ebd1b45ce84",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
-      "snippet": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
-      "link": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:46:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_001590d79e9b6d21",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "FBI advised ESPN star Pat McAfee to wear a bulletproof vest after Charlie Kirk’s assassination",
-      "snippet": "The FBI advised Pat McAfee to wear a bulletproof vest after the Charlie Kirk assassination, a source says, as safety fears grow for media figures.",
-      "link": "https://www.foxnews.com/outkick-sports/fbi-advised-espn-star-pat-mcafee-wear-bulletproof-vest-charlie-kirk-assassination",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:44:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b26591fa18e2fed6",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Guardrails Alliance hits Husted over ties to Marc Andreessen in new ad",
-      "snippet": "Super PAC Guardrails Alliance will launch a digital ad campaign Wednesday seeking to tie Ohio Sen. Jon Husted (R)’s past support for data centers to campaign donations he received from tech executives like venture capitalist Marc Andreessen",
-      "link": "https://thehill.com/policy/technology/6176397-guardrails-alliance-husted-ad-tech-ties/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26277064880362-e1793144504806.jpg?w=900",
-      "publishedAt": "2026-10-27T23:43:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2decdbbdac4738ce",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rep. Tom Tiffany claims Kamala Harris visit signals weakness in David Crowley’s Wisconsin campaign",
-      "snippet": "Tom Tiffany says Kamala Harris' Milwaukee rally for David Crowley reveals Democrats are struggling to energize their base before Wisconsin's election.",
-      "link": "https://www.foxnews.com/politics/rep-tom-tiffany-claims-kamala-harris-visit-signals-weakness-david-crowleys-wisconsin-campaign",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:41:54.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
