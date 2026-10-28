@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-28T14:25:06.044Z",
+  "updatedAt": "2026-10-28T14:30:11.646Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.111Z"
+      "lastSuccess": "2026-10-28T14:30:11.974Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.172Z"
+      "lastSuccess": "2026-10-28T14:30:11.757Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.132Z"
+      "lastSuccess": "2026-10-28T14:30:11.833Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.260Z"
+      "lastSuccess": "2026-10-28T14:30:11.918Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.140Z"
+      "lastSuccess": "2026-10-28T14:30:11.848Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.163Z"
+      "lastSuccess": "2026-10-28T14:30:12.057Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.197Z"
+      "lastSuccess": "2026-10-28T14:30:12.116Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.180Z"
+      "lastSuccess": "2026-10-28T14:30:12.098Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.231Z"
+      "lastSuccess": "2026-10-28T14:30:12.113Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.233Z"
+      "lastSuccess": "2026-10-28T14:30:12.190Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.194Z"
+      "lastSuccess": "2026-10-28T14:30:12.151Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.257Z"
+      "lastSuccess": "2026-10-28T14:30:12.349Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.311Z"
+      "lastSuccess": "2026-10-28T14:30:12.461Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.221Z"
+      "lastSuccess": "2026-10-28T14:30:12.093Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.355Z"
+      "lastSuccess": "2026-10-28T14:30:12.311Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:08.292Z"
+      "lastSuccess": "2026-10-28T14:30:14.252Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T14:25:06.358Z"
+      "lastErrorAt": "2026-10-28T14:30:12.152Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.317Z"
+      "lastSuccess": "2026-10-28T14:30:12.370Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T14:25:06.254Z"
+      "lastErrorAt": "2026-10-28T14:30:12.463Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.401Z"
+      "lastSuccess": "2026-10-28T14:30:12.491Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.531Z"
+      "lastSuccess": "2026-10-28T14:30:11.911Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.153Z"
+      "lastSuccess": "2026-10-28T14:30:12.140Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-28T14:25:06.178Z"
+      "lastSuccess": "2026-10-28T14:30:12.174Z"
     }
   },
   "items": [
+    {
+      "id": "story_b05f61009473f339",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Israel's election result is messy - here's why",
+      "snippet": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T14:26:24.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_bb9fee4eaa983ff4",
       "source": "DW",
@@ -106,6 +119,19 @@
       "link": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-28T14:20:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4dcb65ea60eaa495",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump's unusual legal gambit against Biden-era deportation rule pays off at Supreme Court",
+      "snippet": "The Supreme Court allowed a Texas-DOJ agreement ending the Biden-era administrative closure rule that let judges delay deportation proceedings.",
+      "link": "https://www.foxnews.com/politics/trumps-unusual-legal-gambit-against-biden-era-deportation-rule-pays-off-supreme-court",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T14:19:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -262,6 +288,19 @@
       "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
       "imageUrl": null,
       "publishedAt": "2026-10-28T14:06:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c44ce4120c4da743",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Espionage threats blur lines between security and dissent in Iran",
+      "snippet": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T14:03:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2696,6 @@
       "tier": "major",
       "topic": "sports",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_40fc9819aa80b299",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Auto Racing - AP News",
-      "snippet": "Auto Racing  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T11:18:54.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d4cd264bf1e65e1a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Aleksandar Vucic - AP News",
-      "snippet": "Aleksandar Vucic  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aZk00dEN4NzhtNzMxNDJXOTBPUEM1WFBhUFZQWHp0SjBkeHpqWmwzYkxIMXRPdVhlbjRtSThRcUpxR0ppUFVIblJIdkJUQll0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T11:18:51.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1dc6309e13b0936a",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "No Clear Winner Yet in Israeli Election",
-      "snippet": "Vote counting is underway in Israel following the pivotal elections on Tuesday. It could take days, if not longer, to know if Prime Minister Benjamin Netanyahu will hold onto power. NBC’s Richard Engel reports for TODAY.",
-      "link": "https://www.today.com/video/israel-election-no-clear-winner-yet-as-votes-still-being-counted-272390213582",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T11:18:48.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
     }
   ]
 }
