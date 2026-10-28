@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-28T11:10:08.294Z",
+  "updatedAt": "2026-10-28T11:15:08.772Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.443Z"
+      "lastSuccess": "2026-10-28T11:15:08.939Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.470Z"
+      "lastSuccess": "2026-10-28T11:15:08.986Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.536Z"
+      "lastSuccess": "2026-10-28T11:15:09.565Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.526Z"
+      "lastSuccess": "2026-10-28T11:15:09.029Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.412Z"
+      "lastSuccess": "2026-10-28T11:15:09.112Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.565Z"
+      "lastSuccess": "2026-10-28T11:15:09.213Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.618Z"
+      "lastSuccess": "2026-10-28T11:15:09.236Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.620Z"
+      "lastSuccess": "2026-10-28T11:15:09.216Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.622Z"
+      "lastSuccess": "2026-10-28T11:15:09.230Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-28T11:10:08.689Z"
+      "lastErrorAt": "2026-10-28T11:15:09.214Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.573Z"
+      "lastSuccess": "2026-10-28T11:15:08.949Z"
     },
     "UPI": {
-      "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.688Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-28T11:15:18.808Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.655Z"
+      "lastSuccess": "2026-10-28T11:15:09.287Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.697Z"
+      "lastSuccess": "2026-10-28T11:15:09.364Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.507Z"
+      "lastSuccess": "2026-10-28T11:15:09.153Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.615Z"
+      "lastSuccess": "2026-10-28T11:15:09.346Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.728Z"
+      "lastSuccess": "2026-10-28T11:15:09.550Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.634Z"
+      "lastSuccess": "2026-10-28T11:15:09.370Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-28T11:10:08.715Z"
+      "lastErrorAt": "2026-10-28T11:15:09.576Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.672Z"
+      "lastSuccess": "2026-10-28T11:15:09.529Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.806Z"
+      "lastSuccess": "2026-10-28T11:15:09.512Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.818Z"
+      "lastSuccess": "2026-10-28T11:15:09.594Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-28T11:10:08.763Z"
+      "lastSuccess": "2026-10-28T11:15:11.515Z"
     }
   },
   "items": [
+    {
+      "id": "story_f67062fe37d360bc",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Spain high-speed train crash kills at least 10",
+      "snippet": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 10 people on Wednesday.",
+      "link": "https://www.foxnews.com/world/spain-high-speed-train-crash-deaths",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:08:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
+    },
     {
       "id": "story_4996a6ecac2759a3",
       "source": "CBS News",
@@ -106,6 +120,32 @@
       "link": "https://www.cbsnews.com/news/us-woman-isis-teen-bride-convicted-weapons-training-new-york/",
       "imageUrl": null,
       "publishedAt": "2026-10-28T11:06:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_38c2f5c1b0956596",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A.I. by the Numbers",
+      "snippet": "Intro TK: minus “good morning”",
+      "link": "https://www.nytimes.com/2026/10/28/briefing/ai-by-the-numbers.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:06:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e1030f80c5eeff6b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump fights for votes in Texas and deadlock in Israeli election: Morning Rundown",
+      "snippet": "Texas’ Senate candidates rally at dueling events just a few miles apart.",
+      "link": "https://www.nbcnews.com/news/us-news/trump-talarico-lubbock-fed-interest-rates-morning-rundown-rcna606063",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:04:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -484,6 +524,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T10:40:52.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d76d52b6015ba3a7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders - Reuters",
+      "snippet": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZyZkFCWm1xNUhablhhMUdOY3B2R2xBUmhGYWNMd09SUUxuXzVLaFVhLVBvOEl3aXJIUWxEdVlfaE9xMk9MX2lsS1VocjB1TnlRazdzRG50MWhMX1dzbUtoS2dBTjk1NWhEd003MVg3bkk5N1RRT2QtaVFWMk1NYXU1QldsRDVtUGZZSF9jYmo3ek5WYWJFdllmUzZoeDUxUHJqekVJd2UxR1FWNi15U0JfcjBEYjhRYzJxNA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T10:37:59.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1422,6 +1475,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 6
+    },
+    {
+      "id": "story_911b9d2f4085edda",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Several people killed after high-speed trains collide in central Spain",
+      "snippet": "At least 10 people have been killed in a train crash in central Spain, local authorities have confirmed. Rail services between Madrid and Seville have been suspended.",
+      "link": "https://www.dw.com/en/several-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:17:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_2fc19e0afd43ca9d",
@@ -2628,71 +2694,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-28T06:53:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_68edcffc0d357ec5",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " UN holds annual vote on condemning US embargo on Cuba as tensions spill into public",
-      "snippet": "The United Nations is set to vote on a resolution condemning the decades-long U.S. economic embargo on Cuba as the Trump administration intensifies its campaign to undermine Cuba’s socialist government",
-      "link": "https://abcnews.com/US/wireStory/holds-annual-vote-condemning-us-embargo-cuba-tensions-137630117",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:49:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c090c980fb407a08",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Federal judge rules top US prosecutor in Los Angeles isn't legally serving",
-      "snippet": "A federal judge has ruled that Republican Bill Essayli is not legally serving as the top U.S. prosecutor in Los Angeles",
-      "link": "https://abcnews.com/US/wireStory/federal-judge-rules-top-us-prosecutor-los-angeles-137630207",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:47:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_09e4b5c3ddc059bc",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Wednesday briefing: We asked you - what do you want from the Burnham government’s first budget?",
-      "snippet": "In today’s newsletter: First Edition readers and people struggling with the cost of living tell us what the government could do to improve their lives\nGood morning. Don’t expect anything radical. This, the Treasury has been at pains to tell",
-      "link": "https://www.theguardian.com/world/2026/oct/28/wednesday-briefing-we-asked-you-what-do-you-want-from-the-burnham-governments-first-budget",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:43:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_13b9afdca2b95b76",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "The next phase of military rule in Egypt is here",
-      "snippet": "El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:36:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2a7a8e2defce6fff",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Experts defer to AI in decision-making, Anthropic study finds",
-      "snippet": "Professional analysts chose options that matched AI assistant's preference 86 percent of the time, research finds.",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:33:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
