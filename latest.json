@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-10-29T12:20:08.606Z",
+  "updatedAt": "2026-10-29T12:25:06.080Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.713Z"
+      "lastSuccess": "2026-10-29T12:25:06.238Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.776Z"
+      "lastSuccess": "2026-10-29T12:25:06.277Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.814Z"
+      "lastSuccess": "2026-10-29T12:25:06.313Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.041Z"
+      "lastSuccess": "2026-10-29T12:25:06.194Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.816Z"
+      "lastSuccess": "2026-10-29T12:25:06.337Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.980Z"
+      "lastSuccess": "2026-10-29T12:25:06.293Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.853Z"
+      "lastSuccess": "2026-10-29T12:25:06.417Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.997Z"
+      "lastSuccess": "2026-10-29T12:25:06.451Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.995Z"
+      "lastSuccess": "2026-10-29T12:25:06.651Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T12:20:09.018Z"
+      "lastErrorAt": "2026-10-29T12:25:06.675Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.031Z"
+      "lastSuccess": "2026-10-29T12:25:06.655Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.017Z"
+      "lastSuccess": "2026-10-29T12:25:06.673Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.992Z"
+      "lastSuccess": "2026-10-29T12:25:06.456Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T12:20:09.073Z"
+      "lastErrorAt": "2026-10-29T12:25:06.697Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.079Z"
+      "lastSuccess": "2026-10-29T12:25:06.792Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.055Z"
+      "lastSuccess": "2026-10-29T12:25:06.478Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.232Z"
+      "lastSuccess": "2026-10-29T12:25:06.812Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.973Z"
+      "lastSuccess": "2026-10-29T12:25:06.552Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.215Z"
+      "lastSuccess": "2026-10-29T12:25:06.779Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.095Z"
+      "lastSuccess": "2026-10-29T12:25:06.819Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.114Z"
+      "lastSuccess": "2026-10-29T12:25:06.836Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:08.771Z"
+      "lastSuccess": "2026-10-29T12:25:06.436Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T12:20:09.076Z"
+      "lastSuccess": "2026-10-29T12:25:06.696Z"
     }
   },
   "items": [
+    {
+      "id": "story_a47a4aef8c25eaec",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Alaska governor orders probe into alleged effort to confuse Senate voters",
+      "snippet": "Alaska Gov. Mike Dunleavy is ordering an investigation into an effort to recruit candidates for the Senate race, including one with the same name as the sitting senator.",
+      "link": "https://abcnews.com/Politics/alaska-governor-orders-probe-alleged-effort-confuse-senate/story?id=137667167",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T12:21:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
+      "id": "story_8335eb60a8e4e632",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Bolsonaro declares himself 'leader' of Brazil after fleeing country, arriving in Miami",
+      "snippet": "Brazilian Sen. Flávio Bolsonaro fled to Florida through Argentina after a Supreme Court justice ordered his passport seizure minutes after Lula won.",
+      "link": "https://www.foxnews.com/politics/brazils-bolsonaro-arrives-miami-following-exodus-passport-seizure-order-investigation",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T12:18:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c61376299142827d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "How Laura Loomer and Trump allies amplified ‘Muslim Brotherhood’ lie dogging Abdul El-Sayed",
+      "snippet": "Michigan US Senate candidate signaled support for Egypt’s pro-democracy movement in 2012, not Islamist group\nThe Republican campaign to defeat Democrat Abdul El-Sayed in the Michigan Senate race by casting him as an Islamic extremist is bas",
+      "link": "https://www.theguardian.com/us-news/2026/oct/29/laura-loomer-trump-abdul-el-sayed-muslim-brotherhood",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T12:13:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4cd7729e01847b19",
       "source": "CBS News",
@@ -291,6 +330,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_bc1421d905cb2666",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "'Horrific' Russian drone strike kills 13 at Ukraine train station: Kyiv",
+      "snippet": "A Russian drone slammed into a busy platform at a railway station in Ukraine's Dnipro on Thursday killing at least 13 people in what President Volodymyr Zelensky called a \"horrific\" attack that demands a response from Kyiv's allies.",
+      "link": "https://www.france24.com/en/live-news/20261029-horrific-russian-drone-strike-kills-13-at-ukraine-train-station-kyiv",
+      "imageUrl": "https://s.france24.com/media/display/fe97efda-d38c-11f1-a1fd-75c7729144f1/w:1024/p:16x9/3d3a95728130c1087947bbbdf2f78f92fe5529da.jpg",
+      "publishedAt": "2026-10-29T11:36:35.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_4052e4dfd8a1441e",
@@ -2639,58 +2691,6 @@
       "headline": "State ballots let voters decide on abortion, taxes, transgender restrictions",
       "snippet": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
       "link": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_49676c9c58dc3be7",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-      "snippet": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_a5f739fceb73027f",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Tariffs, diesel and computer chips are driving up costs for automakers",
-      "snippet": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6130af64b9509748",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Business as a liberal art? Some high schools say yes",
-      "snippet": "Learning about money is becoming a growing part of the high school curriculum.",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b1e2f1c6a68ab0bb",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Ahead of midterms, Missourians defend transgender healthcare",
-      "snippet": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
       "imageUrl": null,
       "publishedAt": "2026-10-29T09:00:00.000Z",
       "tier": "routine",
