@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-29T23:10:08.567Z",
+  "updatedAt": "2026-10-29T23:15:08.039Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.728Z"
+      "lastSuccess": "2026-10-29T23:15:08.222Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.827Z"
+      "lastSuccess": "2026-10-29T23:15:08.205Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.823Z"
+      "lastSuccess": "2026-10-29T23:15:08.375Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.104Z"
+      "lastSuccess": "2026-10-29T23:15:08.703Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.723Z"
+      "lastSuccess": "2026-10-29T23:15:08.458Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.848Z"
+      "lastSuccess": "2026-10-29T23:15:08.160Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.985Z"
+      "lastSuccess": "2026-10-29T23:15:08.584Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.886Z"
+      "lastSuccess": "2026-10-29T23:15:08.407Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.074Z"
+      "lastSuccess": "2026-10-29T23:15:08.257Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.063Z"
+      "lastSuccess": "2026-10-29T23:15:08.516Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.947Z"
+      "lastSuccess": "2026-10-29T23:15:08.463Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.945Z"
+      "lastSuccess": "2026-10-29T23:15:08.522Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T23:10:09.082Z"
+      "lastErrorAt": "2026-10-29T23:15:08.598Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.066Z"
+      "lastSuccess": "2026-10-29T23:15:08.540Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:08.928Z"
+      "lastSuccess": "2026-10-29T23:15:08.675Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.046Z"
+      "lastSuccess": "2026-10-29T23:15:08.556Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.128Z"
+      "lastSuccess": "2026-10-29T23:15:08.283Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.172Z"
+      "lastSuccess": "2026-10-29T23:15:08.840Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T23:10:09.107Z"
+      "lastErrorAt": "2026-10-29T23:15:08.843Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.168Z"
+      "lastSuccess": "2026-10-29T23:15:08.827Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.227Z"
+      "lastSuccess": "2026-10-29T23:15:08.880Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.290Z"
+      "lastSuccess": "2026-10-29T23:15:08.960Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T23:10:09.070Z"
+      "lastSuccess": "2026-10-29T23:15:12.775Z"
     }
   },
   "items": [
+    {
+      "id": "story_c265a4ee4335b175",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "What early voting numbers tell us about the midterms as campaigns make final push",
+      "snippet": "CBS News executive director of elections and surveys Anthony Salvanto, and the head of data science at VoteHub, Zachary Donnini, break down early voting numbers with just days to go before the midterms.",
+      "link": "https://www.cbsnews.com/video/what-early-voting-numbers-tell-us-about-the-midterms-as-campaigns-make-final-push/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T23:05:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_70cae7a87b46451b",
       "source": "Guardian",
@@ -171,6 +184,19 @@
       "link": "https://www.pbs.org/newshour/show/republicans-seize-on-controversy-in-alaskas-closely-watched-senate-race",
       "imageUrl": null,
       "publishedAt": "2026-10-29T22:55:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6b689c0f0ee94165",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
+      "snippet": "Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.",
+      "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T22:54:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -444,6 +470,19 @@
       "link": "https://www.nbcnews.com/politics/justice-department/us-attorney-jeanine-pirros-team-acknowledged-screwup-case-former-fbi-o-rcna606387",
       "imageUrl": null,
       "publishedAt": "2026-10-29T22:28:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b7e57a6b26bebd2e",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "How colleges are helping students build social skills for the workforce",
+      "snippet": "Much of the debate over higher education today centers on cost, career prospects and whether a college degree can prepare students for a rapidly changing job market. But in an era increasingly shaped by artificial intelligence, one of the o",
+      "link": "https://www.pbs.org/newshour/show/how-colleges-are-helping-students-build-social-skills-for-the-workforce",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T22:25:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_8793ac8a64acf021",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "World Series MVP William Contreras achieves feat not seen since 1938 in historic performance",
-      "snippet": "Milwaukee Brewers star William Contreras joined an elite list of World Series MVP catchers while making history with his arm and his bat against the Tampa Bay Rays.",
-      "link": "https://www.foxnews.com/outkick-sports/world-series-mvp-william-contreras-achieves-feat-not-seen-since-1938-historic-performance",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T19:13:47.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_121eb227afed1152",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Why Miami Is a Destination for Latin America’s Political Exiles",
-      "snippet": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.",
-      "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T19:13:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a81dda4147e7b22",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
-      "snippet": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T19:10:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
