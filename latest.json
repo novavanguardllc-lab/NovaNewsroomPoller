@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-29T06:50:08.450Z",
+  "updatedAt": "2026-10-29T06:55:05.824Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.561Z"
+      "lastSuccess": "2026-10-29T06:55:05.917Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.648Z"
+      "lastSuccess": "2026-10-29T06:55:05.996Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.748Z"
+      "lastSuccess": "2026-10-29T06:55:06.138Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.766Z"
+      "lastSuccess": "2026-10-29T06:55:06.150Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.759Z"
+      "lastSuccess": "2026-10-29T06:55:06.106Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.630Z"
+      "lastSuccess": "2026-10-29T06:55:05.977Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.615Z"
+      "lastSuccess": "2026-10-29T06:55:06.029Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.567Z"
+      "lastSuccess": "2026-10-29T06:55:05.988Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.730Z"
+      "lastSuccess": "2026-10-29T06:55:06.010Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.711Z"
+      "lastSuccess": "2026-10-29T06:55:06.072Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.763Z"
+      "lastSuccess": "2026-10-29T06:55:06.190Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.757Z"
+      "lastSuccess": "2026-10-29T06:55:06.147Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T06:50:08.771Z"
+      "lastErrorAt": "2026-10-29T06:55:06.151Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.909Z"
+      "lastSuccess": "2026-10-29T06:55:06.048Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.805Z"
+      "lastSuccess": "2026-10-29T06:55:06.135Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.929Z"
+      "lastSuccess": "2026-10-29T06:55:05.971Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.754Z"
+      "lastSuccess": "2026-10-29T06:55:06.169Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.743Z"
+      "lastSuccess": "2026-10-29T06:55:06.091Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.816Z"
+      "lastSuccess": "2026-10-29T06:55:06.219Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T06:50:08.807Z"
+      "lastErrorAt": "2026-10-29T06:55:06.207Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.891Z"
+      "lastSuccess": "2026-10-29T06:55:06.260Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.941Z"
+      "lastSuccess": "2026-10-29T06:55:06.281Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T06:50:08.915Z"
+      "lastSuccess": "2026-10-29T06:55:06.288Z"
     }
   },
   "items": [
@@ -342,6 +342,19 @@
       "publishedAt": "2026-10-29T05:04:00.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2eee86d9715e2232",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Milwaukee Brewers win first World Series title",
+      "snippet": "The Milwaukee Brewers secured their first World Series title with a 4-1 win over the Tampa Bay Rays in Game 5 at Tropicana Field in St. Petersburg, Florida.",
+      "link": "https://www.nbcnews.com/video/milwaukee-brewers-win-first-world-series-title-272451141979",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T05:00:29.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2680,19 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXZ6TzNnOExPZmEyc0F6ckNhMURBcndMTUFfaC1TTDZkY1lqRGVhNm05YjlqeUo0a2hOdmdlWVYtV3M3bkVRbHhpNUJRRXVzcEhFSjNkUzRlVmJVYTBHWEgyeXdUZnpwSENKS1AyVTg4ekROcGljemJOdnJQSkh5WmgzSThGTlRfVDdHWGcxdHZ0NmkzcWdOd011MndzSWJxZFdYZFhnV1Z3NENTdjAxN2p6T3pJc2JY?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-28T23:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea2d8486fdae3019",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say - Reuters",
-      "snippet": "EXCLUSIVE: LME plans metal tokens push tied to Hong Kong's 5-year plan, sources say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVZlWTY1ZE1YVmgwU05DR3MwRW5wM0ZpVk12ckpEZGl4UThvUUtfdTNVTDZyVkhpVFQxV3Rwd0V4azZpX1Y0N0tBd0FQQWpSTmZwUmdmNmxxZzhHQmFaOG95b2cwTFYzTjg0c2tnSVdxZFRTUi1ISV9SYW9VVEIwZ0tYcEtxUzNKbjl5YkpWQTdxcl92V2NkbmZjR3I1Q2lIOXRlUkZrb2UtLWpWX3hlNzg1dFNCdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T23:01:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
