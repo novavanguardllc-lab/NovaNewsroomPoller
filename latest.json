@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-29T16:20:09.798Z",
+  "updatedAt": "2026-10-29T16:25:06.664Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:09.958Z"
+      "lastSuccess": "2026-10-29T16:25:06.833Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:09.993Z"
+      "lastSuccess": "2026-10-29T16:25:06.898Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:09.978Z"
+      "lastSuccess": "2026-10-29T16:25:06.881Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:09.918Z"
+      "lastSuccess": "2026-10-29T16:25:06.785Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:09.981Z"
+      "lastSuccess": "2026-10-29T16:25:06.901Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:09.999Z"
+      "lastSuccess": "2026-10-29T16:25:06.894Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.054Z"
+      "lastSuccess": "2026-10-29T16:25:06.874Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.078Z"
+      "lastSuccess": "2026-10-29T16:25:07.027Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.080Z"
+      "lastSuccess": "2026-10-29T16:25:06.933Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T16:20:10.127Z"
+      "lastErrorAt": "2026-10-29T16:25:07.035Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.094Z"
+      "lastSuccess": "2026-10-29T16:25:07.059Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.084Z"
+      "lastSuccess": "2026-10-29T16:25:07.002Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.075Z"
+      "lastSuccess": "2026-10-29T16:25:07.023Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T16:20:10.131Z"
+      "lastErrorAt": "2026-10-29T16:25:07.078Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.151Z"
+      "lastSuccess": "2026-10-29T16:25:07.084Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.161Z"
+      "lastSuccess": "2026-10-29T16:25:07.017Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:12.762Z"
+      "lastSuccess": "2026-10-29T16:25:09.120Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.126Z"
+      "lastSuccess": "2026-10-29T16:25:06.995Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.583Z"
+      "lastSuccess": "2026-10-29T16:25:07.142Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.309Z"
+      "lastSuccess": "2026-10-29T16:25:07.222Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.175Z"
+      "lastSuccess": "2026-10-29T16:25:07.103Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:10.255Z"
+      "lastSuccess": "2026-10-29T16:25:07.199Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T16:20:15.044Z"
+      "lastSuccess": "2026-10-29T16:25:07.032Z"
     }
   },
   "items": [
+    {
+      "id": "story_36083b858a612071",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Oscar-nominated actor Barbara Barrie dies with medical assistance at 95",
+      "snippet": "Oscar-nominated actor Barbara Barrie died at her New York City home with medical assistance.",
+      "link": "https://www.nbcnews.com/news/us-news/barbara-barrie-dies-medical-assistance-95-rcna606361",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T16:22:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_92358cba95e51ccd",
       "source": "Wash Examiner",
@@ -137,12 +150,51 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_31241ea8803813b4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump DOJ's fight over 20K suspected noncitizen voters takes sharp turn as California ballots pour in",
+      "snippet": "A federal judge blocked the Justice Department's bid to sequester ballots from over 20,000 suspected noncitizen voters on California's voter rolls.",
+      "link": "https://www.foxnews.com/politics/trump-dojs-fight-over-20k-suspected-noncitizen-voters-takes-sharp-turn-california-ballots-pour",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T16:18:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cc16a40b305fae67",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Our team's favorite pillows — plus early holiday deals and gifts",
+      "snippet": "Find editor-loved sleep upgrades, iPhone deals and holiday steals including Advent calendars, kids' toys and more.",
+      "link": "https://www.foxnews.com/deals/fox-news-deals-newsletter-october-29",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T16:18:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_254ba2880ac53a85",
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "CCP leaders demand both more loyalty and more initiative",
       "snippet": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
       "link": "https://www.dw.com/en/ccp-leaders-demand-both-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T16:16:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_017f9c9ed991333d",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "China leaders demand more loyalty and more initiative",
+      "snippet": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
+      "link": "https://www.dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-10-29T16:16:00.000Z",
       "tier": "routine",
@@ -158,6 +210,19 @@
       "link": "https://www.france24.com/en/tv-shows/people-profit/20261029-a-tale-of-two-economies-how-america-s-cost-of-living-crisis-is-shaping-us-midterm-elections",
       "imageUrl": "https://s.france24.com/media/display/69b9495e-d38c-11f1-a445-efcc5769f1db/w:1024/p:16x9/P-P-US-ECONOMY-oct-29.png",
       "publishedAt": "2026-10-29T16:13:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_50a11708a1615d44",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "The ‘breathing space budget’ – breathing space for the government, that is | John Crace",
+      "snippet": "John Healey aced the morning-after media round because his Martin Lewis measures left nothing to challenge him on \nMaybe it had been one of the greatest acts of political genius after all. The day after the budget is usually the moment when",
+      "link": "https://www.theguardian.com/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T16:11:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -288,6 +353,19 @@
       "link": "https://www.upi.com/Top_News/World-News/2026/10/29/latam-ecuador-extradites-drug-suspects-US/9821793288864/",
       "imageUrl": "https://cdnph.upi.com/ph/st/th/9821793288864/2026/i/17932892545999/v1.5/Ecuador-extradites-three-suspects-to-US-on-drug-trafficking-charges.jpg",
       "publishedAt": "2026-10-29T15:55:18.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bd5d37fa77b1671e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Democratic divisions linger in Michigan Senate race. Will frustration with Trump outweigh them? - AP News",
+      "snippet": "Democratic divisions linger in Michigan Senate race. Will frustration with Trump outweigh them?  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWRmVENUbWVMY0dndWNDRTZKNUFJS2ExVTQxRXR1X05lQ0ZKS3dYaHBHMEtwMy1XTUxUMjRZeFM5Z0pLeThyVHZ4V2M2ZmhLaHN4cy1DYVI5dXNjMzlqUW5NUGJfNEF6anQzc2FvZG1qV0U1VlZvc21mcU9sZTkyTmRCNElfSkhNeXQwbzdUdVBvemhDWFk0bEtCNF9CLXpCREc0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T15:54:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2615,84 +2693,6 @@
       "link": "https://www.semafor.com/article/10/29/2026/tpg-rolls-out-10-billion-climate-fund",
       "imageUrl": "https://img.semafor.com/b3e63acbdb3b9f4331bf324a8fef71adc7b1f1aa-5586x3724.jpg",
       "publishedAt": "2026-10-29T12:57:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f923a3e0cfa37e8d",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Two Colorado college students found dead after going missing during hike",
-      "snippet": "Kaden Matsuda and Jackson Donlon were on a trip in Rocky Mountains last weekend when heavy snowstorm hit\nTwo Colorado college students have been found dead after going missing during a hiking trip in the Rocky Mountains last weekend when a ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/29/colorado-college-students-found-dead-hike",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T12:57:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_feb9333d5e53e484",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Trump's methane rollback could backfire",
-      "snippet": "The rollback is really more of a favor for small producers, and may actually hand more regulatory sway to Europe.",
-      "link": "https://www.semafor.com/article/10/29/2026/trumps-methane-rollback-could-backfire",
-      "imageUrl": "https://img.semafor.com/b61f942d312c5caa180ea218370d5c6154d22a51-3958x2881.jpg",
-      "publishedAt": "2026-10-29T12:56:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a144fb1db7ecab04",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Hegseth fires top Pentagon strategist amid Iran planning who allegedly failed polygraph tests",
-      "snippet": "Secretary Pete Hegseth has removed Army Lt. Gen. Brett Sylvia, the Pentagon's top military planner, according to a Pentagon official. CBS News' Olivia Rinaldi reports.",
-      "link": "https://www.cbsnews.com/video/hegseth-fires-top-pentagon-strategist-amid-iran-planning/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T12:55:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_be101160d3ae81a1",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "​Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin",
-      "snippet": "With no single European representative negotiating directly with Moscow, some leaders are establishing their own channels – with messy results\nThe Nordic countries rarely fall out in public over foreign policy, least of all over Russia.\nBut",
-      "link": "https://www.theguardian.com/world/2026/oct/29/pragmatic-or-pointless-europe-rift-over-pick-up-phone-putin",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T12:55:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4e77bd1c3ec18a5f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "US economy grows at brisk 3.4% pace in third quarter on strong consumer spending and AI investment - AP News",
-      "snippet": "US economy grows at brisk 3.4% pace in third quarter on strong consumer spending and AI investment  AP News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYX1ZvM3RmNE1xbUFIc3MwZDVzVWVXa3NWdkF2cGVndGVuZjVyVDVBQ05nN2NlNFVsbkZabnBBU1JlREljc1VHczhVNmkybDc4cWNLQzVuMXRTLVJTSWVuLUJJUDFaZkhKeHI2NDFPMENNLWp2UWdOV3FSTQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T12:55:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_90413d21ea9ecef8",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "HMRC puts 200 billionaires on UK tax crackdown hitlist",
-      "snippet": "‘Compliance managers’ to have discussions with authority’s wealthiest customers in aim to raise tax revenues\n\nBusiness live – latest updates\n\nThe UK’s tax authority is assigning dedicated “customer compliance managers” to more than 200 bill",
-      "link": "https://www.theguardian.com/news/2026/oct/29/hmrc-billionaires-uk-tax-crackdown-compliance-managers",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T12:54:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
