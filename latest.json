@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-29T13:55:05.877Z",
+  "updatedAt": "2026-10-29T14:00:14.800Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.313Z"
+      "lastSuccess": "2026-10-29T14:00:15.110Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:05.991Z"
+      "lastSuccess": "2026-10-29T14:00:14.990Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.180Z"
+      "lastSuccess": "2026-10-29T14:00:15.164Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.162Z"
+      "lastSuccess": "2026-10-29T14:00:15.329Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.137Z"
+      "lastSuccess": "2026-10-29T14:00:15.238Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.177Z"
+      "lastSuccess": "2026-10-29T14:00:15.370Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.198Z"
+      "lastSuccess": "2026-10-29T14:00:15.271Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.315Z"
+      "lastSuccess": "2026-10-29T14:00:15.333Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:05.996Z"
+      "lastSuccess": "2026-10-29T14:00:15.183Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T13:55:06.275Z"
+      "lastErrorAt": "2026-10-29T14:00:15.427Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.573Z"
+      "lastSuccess": "2026-10-29T14:00:15.394Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.214Z"
+      "lastSuccess": "2026-10-29T14:00:15.450Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.174Z"
+      "lastSuccess": "2026-10-29T14:00:15.205Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T13:55:06.429Z"
+      "lastErrorAt": "2026-10-29T14:00:15.744Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.405Z"
+      "lastSuccess": "2026-10-29T14:00:15.754Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.258Z"
+      "lastSuccess": "2026-10-29T14:00:15.425Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:08.276Z"
+      "lastSuccess": "2026-10-29T14:00:17.888Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.251Z"
+      "lastSuccess": "2026-10-29T14:00:15.668Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.385Z"
+      "lastSuccess": "2026-10-29T14:00:15.570Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.131Z"
+      "lastSuccess": "2026-10-29T14:00:15.040Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.436Z"
+      "lastSuccess": "2026-10-29T14:00:15.767Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.031Z"
+      "lastSuccess": "2026-10-29T14:00:15.733Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T13:55:06.393Z"
+      "lastSuccess": "2026-10-29T14:00:15.702Z"
     }
   },
   "items": [
+    {
+      "id": "story_ae1ab2a28189aa5c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Emotional Brewers fans celebrate team's first World Series",
+      "snippet": "Milwaukee Brewers fans were elated after the team won its first World Series in franchise history against the Tampa Bay Rays. Ian Lee reports.",
+      "link": "https://www.cbsnews.com/video/emotional-brewers-fans-celebrate-teams-first-world-series/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T13:54:36.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7dc1bfdecf5ac387",
       "source": "Wash Examiner",
@@ -106,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/entertainment/4783927/joe-concha-predicts-world-series-matchup-brewers-win/",
       "imageUrl": null,
       "publishedAt": "2026-10-29T13:53:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_71fd112db9d005dd",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Spain train collision sparks protest",
+      "snippet": "The train collision in Spain that killed at least 68 people and injured dozens more sparked a protest outside the country's transport ministry. Leigh Kiniry reports.",
+      "link": "https://www.cbsnews.com/video/spain-train-collision-sparks-protest/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T13:52:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -419,6 +445,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T13:23:15.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3e0399e1e01b7b36",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Finland launches criminal probe of suspected environmental damage at Google data centre site - Reuters",
+      "snippet": "Finland launches criminal probe of suspected environmental damage at Google data centre site  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZk1Mbjlqa3B2RFBxMXpXbTcwVjdMYVpwYkhDVmcyWkpKSEpDTDFzZG9QeHVWOERzNDRJYmNwRHFYWUY0dHV6RDRvaEl4QUYxVVZtOTFZNUNqa18zR2ZiVlJ5eTYtQ0hOcEswMGt3TzdCV0tJazJnMzlBZmZuWXdLZUhQRURmbEZfVTJFbUJKdUJGekNIY28zT182eFBlM2FnaWRJN0dRa3JhX0Exbm9xRTV5T1ptMl8tLUVYUFNmWUthLVQ0YVhMaFU1cw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T13:22:51.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2693,6 @@
       "link": "https://www.france24.com/en/video/20261029-somalia-lower-house-of-parliament-passes-bill-on-sexual-violence",
       "imageUrl": "https://s.france24.com/media/display/bc348a58-d37e-11f1-986c-75c7729144f1/w:1024/p:16x9/EN-20261028-215145-215503-CS.jpg",
       "publishedAt": "2026-10-29T10:42:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_db841171012a7d07",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Who is to blame for Hong Kong's deadly 2025 fire? - Reuters",
-      "snippet": "Who is to blame for Hong Kong's deadly 2025 fire?  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGh3elhWSDF2Wm1yZEdQdFcySGwyY1dJeERZR01KNUtWTTdJckpMbU9SWThKRm5aTGVyU1I1ZmRaa3lSM29jVGlHbUdqMmk0bVUyNzBia1FyZWY2cnNiaktiT1pidV9aNy04N01ZQWJGb08xenp0bVVQTzRPQ3p0OF9nNGpiRjNyd0xkNm9tTnBmZktoYldSZEVoMA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T10:42:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0abada8a9bf8d779",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AI data center boom faces backlash at US ballot box - Reuters",
-      "snippet": "AI data center boom faces backlash at US ballot box  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkZ4N25va01lZDFPNDY5czBzMEpWY0dmZEZ1WG9ONU1Uc0VOUURXWGVfRWNDX3R6b2VYQktHWTZiTHJsazI4UGxXaDhGaUJyQjVTOV9QWUJZcTliNlZnNXhIaUpJYlQzWFJGT1hZM3B0eU9Ob183Nks5NVdfbVhtcXNTT1VHVjFYbzRFS096SUxwdWdMcTVuYXZMQVdkQk5hZTZR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T10:41:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3aac56c1a7dec07f",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "🔴 Suspect in deadly shooting near Paris admits racist intent, French anti-terrorism prosecutor says",
-      "snippet": "",
-      "link": "https://www.france24.com/en/france/20261029-live-french-anti-terrorism-prosecutor-to-give-press-conference-on-racist-paris-shooting",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T10:41:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
