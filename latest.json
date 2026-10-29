@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-29T14:55:06.191Z",
+  "updatedAt": "2026-10-29T15:00:15.193Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.349Z"
+      "lastSuccess": "2026-10-29T15:00:15.388Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.274Z"
+      "lastSuccess": "2026-10-29T15:00:15.289Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.458Z"
+      "lastSuccess": "2026-10-29T15:00:15.453Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.411Z"
+      "lastSuccess": "2026-10-29T15:00:15.515Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.278Z"
+      "lastSuccess": "2026-10-29T15:00:15.530Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.454Z"
+      "lastSuccess": "2026-10-29T15:00:15.661Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.449Z"
+      "lastSuccess": "2026-10-29T15:00:15.709Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.468Z"
+      "lastSuccess": "2026-10-29T15:00:15.634Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.562Z"
+      "lastSuccess": "2026-10-29T15:00:15.568Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T14:55:06.600Z"
+      "lastErrorAt": "2026-10-29T15:00:15.653Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.572Z"
+      "lastSuccess": "2026-10-29T15:00:15.849Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.568Z"
+      "lastSuccess": "2026-10-29T15:00:15.841Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.484Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-29T15:00:15.616Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T14:55:06.576Z"
+      "lastErrorAt": "2026-10-29T15:00:15.869Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.590Z"
+      "lastSuccess": "2026-10-29T15:00:15.877Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.387Z"
+      "lastSuccess": "2026-10-29T15:00:15.613Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:08.985Z"
+      "lastSuccess": "2026-10-29T15:00:16.049Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.552Z"
+      "lastSuccess": "2026-10-29T15:00:15.835Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.775Z"
+      "lastSuccess": "2026-10-29T15:00:16.030Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.649Z"
+      "lastSuccess": "2026-10-29T15:00:21.249Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.599Z"
+      "lastSuccess": "2026-10-29T15:00:15.948Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:06.311Z"
+      "lastSuccess": "2026-10-29T15:00:15.418Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T14:55:11.326Z"
+      "lastSuccess": "2026-10-29T15:00:18.199Z"
     }
   },
   "items": [
@@ -119,6 +120,19 @@
       "link": "https://www.france24.com/en/video/20261029-spain-reckons-with-second-deadly-train-crash-of-the-year-ahead-of-national-election",
       "imageUrl": "https://s.france24.com/media/display/e1d1f28e-d3a4-11f1-8926-27b8c5a16f5e/w:1024/p:16x9/EN-20261029-143126-143322-CS.jpg",
       "publishedAt": "2026-10-29T14:50:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_909addb52658f8aa",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Alaska governor orders investigation into Peltola camp after report they recruited second Dan Sullivan",
+      "snippet": "Alaska Gov. Mike Dunleavy announced Thursday that he is ordering an investigation into Democrat Mary Peltola’s Senate campaign after a report that it recruited a candidate with the same name as her Republican rival, Sen.",
+      "link": "https://www.nbcnews.com/politics/2020-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T14:50:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -212,6 +226,19 @@
       "publishedAt": "2026-10-29T14:46:36.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7f9f45b2fcba1ed8",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Ernie Johnson set to hang up his NBA microphone after this season ",
+      "snippet": "Longtime “Inside the NBA” host Ernie Johnson announced Wednesday that this season behind the desk will be his last, ending a career that made him one of the most prominent voices of pro basketball.",
+      "link": "https://www.nbcnews.com/news/us-news/ernie-johnson-set-hang-nba-microphone-season-rcna606323",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T14:46:25.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -366,6 +393,19 @@
       "link": "https://www.france24.com/en/video/20261029-why-is-donald-trump-avoiding-the-epstein-case-at-all-costs",
       "imageUrl": "https://s.france24.com/media/display/1306183a-d3a5-11f1-acf7-79db0eb73735/w:1024/p:16x9/capture-a74547dd.jpg",
       "publishedAt": "2026-10-29T14:37:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_016d88261586ba23",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Can a $500 Keurig earn its counter space?",
+      "snippet": "The plastic-free Keurig Alta Coffee and Espresso Maker recently launched and we put it to the test for three weeks to see if it was actually worth the upgrade. Here’s who it’s best for and whether it’s worth the $499 price tag.",
+      "link": "https://www.nbcnews.com/select/shopping/keurig-alta-review-2026-rcna606214",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T14:35:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2697,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_b7d4a2fee5d5a4dc",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Ukraine: 14 killed in Russian drone strike on crowded Dnipro train station",
-      "snippet": "A jet-powered drone struck a crowded platform at a civilian station in Dnipro, killing and injuring passengers who were waiting to board a train. Ukrainian President Zelenskyy called the attack \"horrific.\"",
-      "link": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T11:33:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9ea949e1df65a588",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-      "snippet": "The deal combines the country’s largest restaurant delivery service with its biggest online grocery platform.",
-      "link": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T11:32:42.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_0f8915176fd4a651",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Could she stand? Lagarde quits European Central Bank ahead of French election",
-      "snippet": "The French head of the European Central Bank (ECB) is to step down from the role, just months ahead of the troubled country's presidential election.",
-      "link": "https://news.sky.com/story/lagarde-quits-european-central-bank-ahead-of-french-election-13605291",
-      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-christine-lagarde_7390814.jpg?20261029114914",
-      "publishedAt": "2026-10-29T11:31:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
