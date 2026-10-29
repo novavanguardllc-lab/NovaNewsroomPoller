@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-29T01:10:08.659Z",
+  "updatedAt": "2026-10-29T01:15:08.067Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.811Z"
+      "lastSuccess": "2026-10-29T01:15:08.856Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.911Z"
+      "lastSuccess": "2026-10-29T01:15:08.841Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.073Z"
+      "lastSuccess": "2026-10-29T01:15:08.279Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.929Z"
+      "lastSuccess": "2026-10-29T01:15:08.432Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.877Z"
+      "lastSuccess": "2026-10-29T01:15:08.258Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.880Z"
+      "lastSuccess": "2026-10-29T01:15:08.291Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.875Z"
+      "lastSuccess": "2026-10-29T01:15:08.349Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.831Z"
+      "lastSuccess": "2026-10-29T01:15:08.251Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.065Z"
+      "lastSuccess": "2026-10-29T01:15:08.472Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.906Z"
+      "lastSuccess": "2026-10-29T01:15:08.419Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.078Z"
+      "lastSuccess": "2026-10-29T01:15:08.679Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.085Z"
+      "lastSuccess": "2026-10-29T01:15:08.478Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T01:10:09.057Z"
+      "lastErrorAt": "2026-10-29T01:15:08.350Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.788Z"
+      "lastSuccess": "2026-10-29T01:15:08.818Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.055Z"
+      "lastSuccess": "2026-10-29T01:15:08.632Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.206Z"
+      "lastSuccess": "2026-10-29T01:15:08.836Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.070Z"
+      "lastSuccess": "2026-10-29T01:15:08.658Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:08.990Z"
+      "lastSuccess": "2026-10-29T01:15:08.379Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.099Z"
+      "lastSuccess": "2026-10-29T01:15:08.753Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T01:10:09.086Z"
+      "lastErrorAt": "2026-10-29T01:15:08.908Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.196Z"
+      "lastSuccess": "2026-10-29T01:15:08.556Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.285Z"
+      "lastSuccess": "2026-10-29T01:15:11.577Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T01:10:09.106Z"
+      "lastSuccess": "2026-10-29T01:15:08.886Z"
     }
   },
   "items": [
+    {
+      "id": "story_41748db9c91b966a",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Judge rejects Trump admin request for order to segregate 20,000 Calif. ballots",
+      "snippet": "The Justice Department sought an emergency order in the case.",
+      "link": "https://abcnews.com/Politics/judge-rejects-trump-administration-request-order-segregate-20000/story?id=137660006",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T01:06:29.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_422a9b046a52aa8d",
       "source": "The Hill",
@@ -119,6 +132,19 @@
       "link": "https://www.washingtonexaminer.com/news/white-house/4783651/trump-vance-peace-talks-iran-war/",
       "imageUrl": null,
       "publishedAt": "2026-10-29T00:59:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8709ab74582daed8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Attorney compares SEC commissioner Greg Sankey to ‘Kim Jong’ in LSU-RJ Luis eligibility lawsuit",
+      "snippet": "RJ Luis' injunction gives the LSU Tigers legal cover to roster him this season, but the SEC's threats could push the case toward monetary damages.",
+      "link": "https://www.foxnews.com/outkick-sports/attorney-compares-sec-commissioner-greg-sankey-kim-jong-lsu-rj-luis-eligibility-lawsuit",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T00:59:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -329,6 +355,19 @@
       "publishedAt": "2026-10-29T00:25:45.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cd92ce59f76303f5",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters",
+      "snippet": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T00:21:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -757,6 +796,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-28T23:33:20.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_65d5e9dad14de247",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead - Reuters",
+      "snippet": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2picUVQd3dYWDhKUnVJWUlEbmFULTE2RUF5NlBYemZiSHQzejU3OS05d3FrbHJXRXI2clNabXhwQ1RMSkJxU0VVTy1GT3VBbDFWSmozLWl1V3dybzVBZFd2bGdnWUVQelNhQ3psMmpVQXlEOFNHZURtaDZQLTR2aHY1T2FkSk9KbklCQTV6eXA2Z3h3V05xQVVTRVo3ZkNua25RTEotVi1JR0U4MXNodExiUFBBTmZFOTBJd1h3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T23:32:08.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2644,58 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_8e37314e3d346ca5",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Is a water leak detector worth it? Here’s what home experts say",
-      "snippet": "I reached out to home experts to learn more about water leak detectors and exactly how they work. Here’s how you can use them to avoid frozen pipes.",
-      "link": "https://www.nbcnews.com/select/shopping/do-water-leak-detectors-work-rcna606203",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T20:55:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c88b1300750b0d82",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump, Obama pound campaign trail in closing week of US midterm election - Reuters",
-      "snippet": "Trump, Obama pound campaign trail in closing week of US midterm election  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGliVUEtTWswR19TNllzcEY1MkVwX2xIX1pIX0E0Zkl0bUVzYk8zcnNhWFVDY1VtMEx3bjJleHZpUUo3S2lFLVF2anF5TzNpT3RPZ2pHVk9wbUtoS1k4OXF2YU5WYWlKVlpYMUNDZUZvWjR3a3VzZGQ4Zm5DalpzWHpQLVEyZG5TTzk5Z1hKNkpNTkY3T1BXQUU3MVZFa3J5Z2w3MHZ6cUFmdmluRDV5Y0FLczk0dV9JTnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T20:54:34.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f5738378edfd0ec0",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain",
-      "snippet": "Pedro Sánchez says the government will act with urgency to ‘clarify what has happened, why this tragedy occurred’\n\nFull report from Spain\n\nAt least 30 people are believed to have died after two high-speed trains collided in the province of ",
-      "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T20:53:55.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_2291479335bfa4ae",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Woman wearing burka escorted out of Florida county meeting after playing call to prayer recording",
-      "snippet": "A woman wearing a burka played an Islamic call to prayer recording at a Pinellas County commissioners meeting before a sheriff's deputy escorted her out.",
-      "link": "https://www.foxnews.com/us/woman-covered-veil-escorted-florida-county-meeting-playing-call-prayer-recording",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T20:53:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
