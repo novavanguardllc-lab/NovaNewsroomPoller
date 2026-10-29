@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-10-29T10:35:05.843Z",
+  "updatedAt": "2026-10-29T10:40:08.068Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:05.993Z"
+      "lastSuccess": "2026-10-29T10:40:08.254Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.151Z"
+      "lastSuccess": "2026-10-29T10:40:08.224Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.122Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-29T10:40:08.410Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.110Z"
+      "lastSuccess": "2026-10-29T10:40:08.416Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.104Z"
+      "lastSuccess": "2026-10-29T10:40:08.338Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.126Z"
+      "lastSuccess": "2026-10-29T10:40:08.271Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:05.963Z"
+      "lastSuccess": "2026-10-29T10:40:08.192Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.051Z"
+      "lastSuccess": "2026-10-29T10:40:08.209Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.133Z"
+      "lastSuccess": "2026-10-29T10:40:08.414Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.226Z"
+      "lastSuccess": "2026-10-29T10:40:08.325Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.287Z"
+      "lastSuccess": "2026-10-29T10:40:08.351Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.476Z"
+      "lastSuccess": "2026-10-29T10:40:08.334Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T10:35:06.289Z"
+      "lastErrorAt": "2026-10-29T10:40:08.463Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.042Z"
+      "lastSuccess": "2026-10-29T10:40:08.563Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.214Z"
+      "lastSuccess": "2026-10-29T10:40:08.311Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.016Z"
+      "lastSuccess": "2026-10-29T10:40:08.531Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:11.031Z"
+      "lastSuccess": "2026-10-29T10:40:08.462Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.091Z"
+      "lastSuccess": "2026-10-29T10:40:08.389Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.268Z"
+      "lastSuccess": "2026-10-29T10:40:08.477Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T10:35:06.291Z"
+      "lastErrorAt": "2026-10-29T10:40:08.469Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.445Z"
+      "lastSuccess": "2026-10-29T10:40:08.456Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.318Z"
+      "lastSuccess": "2026-10-29T10:40:08.548Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:35:06.356Z"
+      "lastSuccess": "2026-10-29T10:40:08.487Z"
     }
   },
   "items": [
+    {
+      "id": "story_7a66d883faad35d0",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Ship sunk by infamous Nazi sub in 1944 found off coast of Maine",
+      "snippet": "The U-boat that landed two Nazi spies on the Maine coast sank the 400-foot steamship SS Cornwallis four days later.",
+      "link": "https://www.cbsnews.com/news/ss-cornwallis-sunk-nazi-sub-found-maine/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:39:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f82446ba1c5e0277",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Germany news: Volkswagen posts 3rd quarter losses of nearly €6 billion amid competition from China",
+      "snippet": "Germany's largest car maker reported third quarter losses of €5.8 billion as its major financial struggles continue. And Chancellor Friedrich Merz concludes his tour of Asia with a visit to South Korea. DW has more.",
+      "link": "https://www.dw.com/en/germany-news-volkswagen-posts-3rd-quarter-losses-of-nearly-€6-billion-amid-competition-from-china/live-79792915?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:37:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4a2d51cf5def6bb4",
       "source": "France24",
@@ -106,6 +133,32 @@
       "link": "https://www.france24.com/en/video/20261029-from-election-defeat-to-miami-what-to-know-about-brazil-s-bolsonaro-s-dramatic-departure-to-the-us",
       "imageUrl": "https://s.france24.com/media/display/a1072a14-d2f3-11f1-9d81-47de50b3c1e4/w:1024/p:16x9/2026-10-28T145818Z-134357008-RC2DCOAOYAG4-RTRMADP-3-BRAZIL-USA.jpg",
       "publishedAt": "2026-10-29T10:33:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b94426eba20e5fb",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "ECB head Christine Lagarde to step down in February",
+      "snippet": "European Central Bank (ECB) President Christine Lagarde is to resign nine months ahead of the end of her 8-year term. European Council President Antonio Costa has said the process to find a successor is underway.",
+      "link": "https://www.dw.com/en/ecb-head-christine-lagarde-to-step-down-in-february/a-79794353?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:33:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_f7a7aceec3214c38",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Lloyds executive criticises Healey for linking bank tax rises to energy bill support",
+      "snippet": "Bank’s chief financial officer hopes measure in budget is temporary as sector provides loans that could fuel growth\nA top Lloyds Banking Group executive has criticised the chancellor for linking bank tax increases to energy bill support for",
+      "link": "https://www.theguardian.com/business/2026/oct/29/lloyds-executive-criticises-healey-for-linking-bank-tax-rises-to-energy-bill-support",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:31:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -158,6 +211,19 @@
       "link": "https://www.france24.com/en/video/20261029-us-cruise-ship-halts-world-voyage-over-fuel-costs-200-passengers-stranded-in-cambodia",
       "imageUrl": "https://s.france24.com/media/display/43cc3454-d382-11f1-9ad0-811458fcf026/w:1024/p:16x9/EN-20261029-102609-102740-CS.jpg",
       "publishedAt": "2026-10-29T10:25:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f63e57297db18a14",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Trump demands Alaska candidates be removed over alleged ballot scheme",
+      "snippet": "A New York Times investigation links Democratic operatives to a namesake candidate in Alaska’s Senate race.",
+      "link": "https://www.aljazeera.com/news/2026/10/29/trump-demands-alaska-candidates-be-removed-over-alleged-ballot-scheme?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:22:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -522,6 +588,19 @@
       "link": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
       "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/20251010-Maney-Detroit-Concrete-100-PDedit3_maxHeight_3000_maxWidth_3000.jpg?w=1149",
       "publishedAt": "2026-10-29T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_707b30c52fd32c64",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " 2 college students found dead after going missing while hiking, police say",
+      "snippet": "A pair of Colorado hikers were found dead after gong missing on Friday.",
+      "link": "https://abcnews.com/US/2-college-students-hiking-remain-missing-tent-found/story?id=137641736",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T09:58:04.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1125,6 +1204,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9df16e05025fa777",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Three bodies recovered in Gabon following sinking of Borr Drilling rig - Reuters",
+      "snippet": "Three bodies recovered in Gabon following sinking of Borr Drilling rig  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWW1ZUEJIbUhTRXRRMUMybDFYdUE4ZUs4X0JCa04tV21UT1dTR3MzOWNKQVJhNWhxcGxVbFBtNmdjeVFBTnZxd1lPc1NFYnM4N2laZFNDd3BXNUdkWnE1aUhYcVgzSS1UTGlHek90RWp0RE83Tm9mcGotUUVFTWtVOWMxakZ3LU11WGd0c3hOSDlnV3lacUJTZGR0X0JrZXRGLXlKdlY5TktvV1VfTmpkdHhicw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T08:58:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9c43a5fa0b478560",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -1250,6 +1342,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0SjBaeTFwLW1ncFVzUElyWFpVeG5BQ0E4b3g5Sk5wY1BiME5FUGVHN0ZPNWpZQ3lRWGVwUQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-29T08:46:55.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5d2502fd6834b264",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Lloyds shares drop on muted third quarter results as higher taxes loom - Reuters",
+      "snippet": "Lloyds shares drop on muted third quarter results as higher taxes loom  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlBTMnFidXphUDIycWFBZG8xQkFfdEZCR3oyRlMwY3JIRTZZOE1tX1ZpM0JCb1BnQ1Y3LUxUVWZqT3ZUazJBZVJoWnpuQkMydUFvZmVsVkR4ZnlBbVJIZHFPMzlidFpSXzB2VmNkenJubEJaTng5ME1vNVBWSUUxdnZJWHJucVUyaDBEUDB1NDZMRUtSVnZCMFNIUWdMOG5UR19hVVBIZ3RtWDhubDV6dEJLN3hBYThNWTNRTDJUR2Roem9y?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T08:44:59.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2048,6 +2153,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_94e08241b0208920",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "How could the oil spill off the UAE coast affect desalination plants? - Reuters",
+      "snippet": "How could the oil spill off the UAE coast affect desalination plants?  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU5JejdRZjhyTnRhQjVwOFVubXBzeWpJa2JJWkF0MmNKMlg5cWJnUi1FeFN6czdwUEFfTy1UTjRZVU1oS1lLb3ZVa0hlQzU3T3dwZVV1M0JmUTNZVEtfd3hscEVuclQ1UjloZEFWQWRqc2FiOEZpczRYY3V1RmJYaUJFVENfeml6Ymktc29qZW1LOTRSVUl0XzVoU1hfXzN1SUNlVTBiRkVzd0NxWmp6Q2ZvTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T06:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_49c48d65f58bf969",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -2576,123 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmYxUGlBNmlhRFVjRU1sVXFiZ1RSZVNRTGhickVFME9vd19VcHRkb2NhR1J5bFJWTUc4N0RXOGwxUXlkZ29tdlA2bEV2bl9kR2ctRHd4YlMyc0s3OENSbDRnanRQZWQ3NVNHc3N3cU1ZbmhBMVgzYk5vQWVLQWd4Y0VXWXQ1MFpkUzluQ1ZyMUViT2x0aGx2eF9jdDU1MHVWQXFMMHZiMnNDVHhnQW1Wb3ZjRGVWTThfejdhbWVfel9XXzB0al8tbHRLQko?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-29T04:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b314b2110978c42",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is - AP News",
-      "snippet": "Stolen election rhetoric from Trump isn’t new. His ability to act on those claims is  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWNadjQwUkZmWTB2UXh1dmFJaE45enJZWnhzeko4VE9HM3lYNlpQUFdYNHpwdlhYTVl3alphNGlzOTgxYnlNZW9iX3JuSDVZR2lNbHdFbWYyVjFvQWlYVEY3b2tzRjltdnBhUndZTXJBM0o2UVBfdnBGSUVBTFJSY2ViandJdHRWNEcxNDJBZ1NaWVVvODlualNRVTd6NnFBazlfNEJR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:04:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_060b953d12496bbc",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-      "snippet": "A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:01:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92456ed1ef27e93e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-      "snippet": "A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
-      "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:01:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_781e395366a7b9f0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms - AP News",
-      "snippet": "How Trump's immigration crackdown sparked a backlash that could boomerang in the midterms  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGlyaXhKeXluN1Y1MnJQc25rQXB6RnBWQnJWbXF4dTRaN0RYczBaRWZSdkZzQ0VXN1hDR2ZROExTT2hQell6N3g1dE5kM0sxUlk4Z0R1a2VLNW4xaXBHQml1VHUtNHNpVXFpMmZhdkJPMFJ3MHpGcUZDM2FMdGlGdVlLM0VCT0tIYmlSTVE5aHFVczhBUEh3Y0lQMHhZN29LakZCa3V5V19VZ2tiX2VhQ3Z4UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_17f5f368725a566f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Spain reckons with 2nd deadly train crash of the year ahead of national election - AP News",
-      "snippet": "Spain reckons with 2nd deadly train crash of the year ahead of national election  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUNNM01hdUhtOFpKaGo4Z1pYaGRza1FQajlzVlBrWnZycFJWajlBMEl3QldEVXJtVHo0SW5GdEJ6Zm5DVjJRQVNpQUp5d3otRGpSMEJWczFFa2lJd3pWQ1Z0WlBBc2lkQkdxZ0tjbWM5QVZTcVgtejVqWnI0NXJmWnVjVGZPME9DdTVBaGF0NXdLWmM5WTJSR293?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d7dee28265562b59",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams - AP News",
-      "snippet": "As war strains Kremlin finances, Putin reaches into more pockets in search of new revenue streams  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkdacW5ISTg1djZDV3kzbVhqOUVkNXhyQVh2bFJRT25NZ3VpSHBwZlBLZ3l4Q1lWU0lpdUhCY21BOVRMbzJtbmxxeHZ3b3VkQUZPRUNCVXY5OXdpS056emN4VU5VQjgtbFYwVjdSalkxeF84NWxHTGNoeTFlUGJvQlM2bkRaTlFTTnVQa0REX2Q4eGdISkwwdjIyc2tTYjg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b61c53774cbfc882",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says - Reuters",
-      "snippet": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnZ5bUJlNUMySGJ0bkRrSWk0b0RFeXVlLVZEU1FJbHBQUTNESXZyWkdtdm5hOFY3T1UzaTNmWGJXNkNIcDJrUGR2MUd0djRRUTJ3WHcyS1VncEt4VnpELUhvdk9ZVlNod0I2djAyVHUzeDZQd004bHNkZTNKQWdsVk9udEE4SWFuemZFS1liUnNYNnY4MFdVX1B4UlJDNVNrYlJEZmk4cHdEVWw0LUtnNkd0bmw3a1JOQUtGU0pRcUtVTlN2dlZEdUNnWXN3UUdm?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:59:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_5d98e7634ae98c04",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Long Island couple sues over real estate broker’s allegedly racist text",
-      "snippet": "ABC News’ Linsey Davis speaks with a Long Island couple suing a now-former broker at realtor Douglas Elliman for housing discrimination, after the broker sent a text saying “Ugh they are black.”",
-      "link": "https://abcnews.com/video/137661032/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:54:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f71ed54447bd32f5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "North Korea launches an unidentified projectile off its east coast, South Korea says - AP News",
-      "snippet": "North Korea launches an unidentified projectile off its east coast, South Korea says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:54:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
