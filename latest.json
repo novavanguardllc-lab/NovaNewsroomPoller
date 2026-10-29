@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-29T10:25:05.765Z",
+  "updatedAt": "2026-10-29T10:30:11.447Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:05.884Z"
+      "lastSuccess": "2026-10-29T10:30:11.787Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.001Z"
+      "lastSuccess": "2026-10-29T10:30:11.623Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.128Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-29T10:30:12.062Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.112Z"
+      "lastSuccess": "2026-10-29T10:30:11.871Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.081Z"
+      "lastSuccess": "2026-10-29T10:30:11.684Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.029Z"
+      "lastSuccess": "2026-10-29T10:30:11.704Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.026Z"
+      "lastSuccess": "2026-10-29T10:30:11.751Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:05.962Z"
+      "lastSuccess": "2026-10-29T10:30:11.592Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:05.947Z"
+      "lastSuccess": "2026-10-29T10:30:12.030Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:05.992Z"
+      "lastSuccess": "2026-10-29T10:30:12.147Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.123Z"
+      "lastSuccess": "2026-10-29T10:30:11.867Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.119Z"
+      "lastSuccess": "2026-10-29T10:30:12.211Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T10:25:06.124Z"
+      "lastErrorAt": "2026-10-29T10:30:12.153Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.358Z"
+      "lastSuccess": "2026-10-29T10:30:11.656Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.159Z"
+      "lastSuccess": "2026-10-29T10:30:11.987Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:05.919Z"
+      "lastSuccess": "2026-10-29T10:30:12.240Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.164Z"
+      "lastSuccess": "2026-10-29T10:30:12.114Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.053Z"
+      "lastSuccess": "2026-10-29T10:30:11.846Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.178Z"
+      "lastSuccess": "2026-10-29T10:30:12.232Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T10:25:06.169Z"
+      "lastErrorAt": "2026-10-29T10:30:12.247Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.252Z"
+      "lastSuccess": "2026-10-29T10:30:12.206Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:08.291Z"
+      "lastSuccess": "2026-10-29T10:30:12.313Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T10:25:06.271Z"
+      "lastSuccess": "2026-10-29T10:30:12.319Z"
     }
   },
   "items": [
@@ -122,6 +123,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_42f73a25871243a0",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Osaka says she’ll return stronger after latest low, Tokyo exit to Pohankova",
+      "snippet": "Four-time Grand Slam champ Naomi Osaka loses 6-3, 7-5 to 18-year-old Slovak Mia Pohankova, ranked 144 in the world.",
+      "link": "https://www.aljazeera.com/sports/2026/10/29/osaka-vows-to-return-stronger-after-latest-low-in-tokyo-exit-to-pohankova?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:17:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ab0743bfd09279fe",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "ECB President Lagarde resigns effective Feb 7 - Reuters",
+      "snippet": "ECB President Lagarde resigns effective Feb 7  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3FmVnJnVlFQYVZ3U0k0TFpoWDdmQWVHZ0lZU21uOVZLZUVhZ2d3djg0YzJNc2RURmxMTkVULURKZTBKcy1wMlJ5ZldxTjRQSkJ3ak55MU0yU1ItalNRYmZDbHZzWkh6UmN3OHlucWFhQWhrSkYtcjZnSnNINWhybXdLLTh3elNvY3dvenVUQnp3TmpQUExzUkpzYzkzcU0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:16:39.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_126b1b307e4122cd",
@@ -639,6 +666,19 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-29T09:17:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4d7ac58c86fed39b",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "snippet": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T09:17:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2655,45 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T03:28:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9d235a978c9bf413",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Brewers beat the Rays 4-1 to win the first World Series title in franchise history",
-      "snippet": "The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time in franchise history",
-      "link": "https://abcnews.com/Sports/wireStory/brewers-beat-rays-4-1-game-5-win-137662472",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:24:36.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_36e5ba0f4842f32a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history - AP News",
-      "snippet": "Brewers beat the Rays 4-1 in Game 5 to win the first World Series title in franchise history  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFZ2anRlVUNUajFKLW1RSnltNXo3dWs2U1NRWms5a2pQTkxGNHJBTzJIVjhQRjlGX0p3OG11U2NISlBvdjJjZnMySnpzZ3haUUI3aVp4b1E1VnNTZkIyYjhUYWNsVjYydzFPWWJ5OWpiSDFlOS1ydGlpdUcxWGRQWEJJcVM0eG8wV2NLaGptamJKMFVvWVpR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:24:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_d140d06d1df9dedc",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "US: Department of Homeland Security data leak exposes details of more than 40,000 employees",
-      "snippet": "The leaked information reportedly includes names, phone numbers and email addresses of personnel across several US security agencies. This follows recent data breaches involving the FBI and the Defense Department.",
-      "link": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:21:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
