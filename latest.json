@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-29T07:55:05.710Z",
+  "updatedAt": "2026-10-29T08:00:14.204Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.874Z"
+      "lastSuccess": "2026-10-29T08:00:14.557Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.888Z"
+      "lastSuccess": "2026-10-29T08:00:14.416Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.965Z"
+      "lastSuccess": "2026-10-29T08:00:14.637Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.958Z"
+      "lastSuccess": "2026-10-29T08:00:14.698Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.947Z"
+      "lastSuccess": "2026-10-29T08:00:14.640Z"
     },
     "NPR": {
-      "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.848Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-29T08:00:24.223Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.815Z"
+      "lastSuccess": "2026-10-29T08:00:14.476Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.846Z"
+      "lastSuccess": "2026-10-29T08:00:14.576Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.905Z"
+      "lastSuccess": "2026-10-29T08:00:14.662Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.929Z"
+      "lastSuccess": "2026-10-29T08:00:14.616Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.987Z"
+      "lastSuccess": "2026-10-29T08:00:14.839Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.969Z"
+      "lastSuccess": "2026-10-29T08:00:14.741Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-29T07:55:05.989Z"
+      "lastErrorAt": "2026-10-29T08:00:14.834Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.160Z"
+      "lastSuccess": "2026-10-29T08:00:14.386Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.024Z"
+      "lastSuccess": "2026-10-29T08:00:14.818Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.230Z"
+      "lastSuccess": "2026-10-29T08:00:14.943Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.028Z"
+      "lastSuccess": "2026-10-29T08:00:14.878Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.982Z"
+      "lastSuccess": "2026-10-29T08:00:14.690Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:05.996Z"
+      "lastSuccess": "2026-10-29T08:00:14.845Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-29T07:55:06.028Z"
+      "lastErrorAt": "2026-10-29T08:00:15.063Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.144Z"
+      "lastSuccess": "2026-10-29T08:00:15.058Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.066Z"
+      "lastSuccess": "2026-10-29T08:00:15.080Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-29T07:55:06.165Z"
+      "lastSuccess": "2026-10-29T08:00:15.130Z"
     }
   },
   "items": [
+    {
+      "id": "story_2256853c677f4d19",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "How to stop the US-Israel war on Iran",
+      "snippet": "Arab states must reject Israeli hegemony and build a regional security framework independent of Washington.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T07:54:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_54e7e280813ba047",
       "source": "DW",
@@ -2680,19 +2694,6 @@
       "link": "https://news.sky.com/story/us-federal-reserve-holds-interest-rates-ahead-of-possible-bank-of-england-hike-13605142",
       "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-dollar-banknote_7390517.jpg?20261029032055",
       "publishedAt": "2026-10-28T23:51:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f4a1f886251c9463",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "King Charles III can't escape Britain's role in slavery as he tours Caribbean nations",
-      "snippet": "Facing demands that Britain apologize and pay reparations, palace officials say Charles will reiterate previous comments that slavery was an \"atrocity that forever stains our history,\" while stopping short of an apology.",
-      "link": "https://www.pbs.org/newshour/world/king-charles-iii-cant-escape-britains-role-in-slavery-as-he-tours-caribbean-nations",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T23:49:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
