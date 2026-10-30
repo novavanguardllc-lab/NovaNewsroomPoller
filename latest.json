@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-30T00:00:15.833Z",
+  "updatedAt": "2026-10-30T00:05:06.796Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:15.980Z"
+      "lastSuccess": "2026-10-30T00:05:06.974Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.013Z"
+      "lastSuccess": "2026-10-30T00:05:06.989Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.358Z"
+      "lastSuccess": "2026-10-30T00:05:07.005Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.124Z"
+      "lastSuccess": "2026-10-30T00:05:07.316Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.102Z"
+      "lastSuccess": "2026-10-30T00:05:06.913Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:15.998Z"
+      "lastSuccess": "2026-10-30T00:05:06.918Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.533Z"
+      "lastSuccess": "2026-10-30T00:05:07.154Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.322Z"
+      "lastSuccess": "2026-10-30T00:05:07.076Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.458Z"
+      "lastSuccess": "2026-10-30T00:05:07.016Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.443Z"
+      "lastSuccess": "2026-10-30T00:05:07.188Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.394Z"
+      "lastSuccess": "2026-10-30T00:05:07.097Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.482Z"
+      "lastSuccess": "2026-10-30T00:05:07.116Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-30T00:00:16.483Z"
+      "lastErrorAt": "2026-10-30T00:05:07.194Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.398Z"
+      "lastSuccess": "2026-10-30T00:05:07.118Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.278Z"
+      "lastSuccess": "2026-10-30T00:05:07.183Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.583Z"
+      "lastSuccess": "2026-10-30T00:05:07.142Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.145Z"
+      "lastSuccess": "2026-10-30T00:05:06.960Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.606Z"
+      "lastSuccess": "2026-10-30T00:05:07.201Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-30T00:00:16.607Z"
+      "lastErrorAt": "2026-10-30T00:05:07.184Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.722Z"
+      "lastSuccess": "2026-10-30T00:05:07.302Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.634Z"
+      "lastSuccess": "2026-10-30T00:05:07.219Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:18.603Z"
+      "lastSuccess": "2026-10-30T00:05:09.295Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-30T00:00:16.555Z"
+      "lastSuccess": "2026-10-30T00:05:07.127Z"
     }
   },
   "items": [
+    {
+      "id": "story_8e53baee8325eac9",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+      "snippet": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_303f9ed9018666d3",
       "source": "CBS News",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-29T20:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_693abbef6d6f38d8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US proposes Venezuela elections for 2027, opposition leader Machado says - Reuters",
-      "snippet": "US proposes Venezuela elections for 2027, opposition leader Machado says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1oV2Q3R1NFRGppUVBKSVRCQVlfaUc1TDhOZWw0TkV1Z0xxZDdyMmhnQXhrUUdaN2Q1WDIzUXhCcnpSSTczd1Vsb01MX2plMkc2R3ZaRFNiU3Z3b0tRdm1qZWtZazhETEhQQVQzSWdqby1tenNSU2ZiSGFIeXo0bXRkLXBndXktbFUxektqb1hYc3l1VjN0MG9wLWVid3RKVHQ5bC1vTmR0RjY1WExra0g0ZXQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T19:59:32.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
