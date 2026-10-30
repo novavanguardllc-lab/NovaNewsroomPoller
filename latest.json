@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-30T22:10:08.290Z",
+  "updatedAt": "2026-10-30T22:15:08.813Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.486Z"
+      "lastSuccess": "2026-10-30T22:15:09.122Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.397Z"
+      "lastSuccess": "2026-10-30T22:15:08.932Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.515Z"
+      "lastSuccess": "2026-10-30T22:15:09.023Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.535Z"
+      "lastSuccess": "2026-10-30T22:15:09.156Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.596Z"
+      "lastSuccess": "2026-10-30T22:15:09.399Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.648Z"
+      "online": false,
+      "lastError": "Status code 406",
+      "lastErrorAt": "2026-10-30T22:15:09.176Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.621Z"
+      "lastSuccess": "2026-10-30T22:15:09.376Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.379Z"
+      "lastSuccess": "2026-10-30T22:15:09.200Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.670Z"
+      "lastSuccess": "2026-10-30T22:15:09.167Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.418Z"
+      "lastSuccess": "2026-10-30T22:15:08.993Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.939Z"
+      "lastSuccess": "2026-10-30T22:15:09.353Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.540Z"
+      "lastSuccess": "2026-10-30T22:15:09.360Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.560Z"
+      "lastSuccess": "2026-10-30T22:15:09.364Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-30T22:10:08.635Z"
+      "lastErrorAt": "2026-10-30T22:15:09.505Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.675Z"
+      "lastSuccess": "2026-10-30T22:15:09.529Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.633Z"
+      "lastSuccess": "2026-10-30T22:15:09.424Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-30T22:10:08.718Z"
+      "lastErrorAt": "2026-10-30T22:15:09.454Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.668Z"
+      "lastSuccess": "2026-10-30T22:15:09.294Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.567Z"
+      "lastSuccess": "2026-10-30T22:15:09.418Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.742Z"
+      "lastSuccess": "2026-10-30T22:15:09.593Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.716Z"
+      "lastSuccess": "2026-10-30T22:15:09.690Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.807Z"
+      "lastSuccess": "2026-10-30T22:15:09.615Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-30T22:10:08.581Z"
+      "lastSuccess": "2026-10-30T22:15:09.444Z"
     }
   },
   "items": [
@@ -119,6 +120,19 @@
       "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
       "imageUrl": null,
       "publishedAt": "2026-10-30T22:06:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_573e4a3e71f8fb10",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Latest on midterms as campaigns make final push",
+      "snippet": "Adam Mockler, host of \"The Adam Mocker Show,\" and Elizabeth Pipko, former RNC spokesperson and host of \"Made in America with Elizabeth Pipko,\" join \"The Takeout\" to discuss the upcoming midterms.",
+      "link": "https://www.cbsnews.com/video/latest-on-midterms-as-campaigns-make-final-push/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T22:04:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -315,6 +329,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-30T21:34:04.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_09797d54b5da46c1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Injuries beginning to take their toll on the Panthers’ secondary, offensive line - AP News",
+      "snippet": "Injuries beginning to take their toll on the Panthers’ secondary, offensive line  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcElVakQ5V29URE1TbGlzRzhILUZGamNRamt1X2l5c29xX1lYZEloakppaVNQR2JLbDBrQzdoVm40MktSRWFuNWhGQ1JFMzAtSmRUUzRhUFpzd25LQ0FiQzJLSGRoWEs2SExKQzdwUjBOYlZleHNwSnhVVjE5RXo0V3daYUhvZFlFS3VwVDVjdmhxM0JQNldqSFB3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T21:32:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -683,6 +710,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b797a5975f9efcef",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+      "snippet": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+      "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T20:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_651441e9c803d0f9",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -731,6 +771,19 @@
       "imageUrl": "https://s.france24.com/media/display/f0b7382a-d4a0-11f1-a95a-a575454bc579/w:1024/p:16x9/000-D4J497F.jpg",
       "publishedAt": "2026-10-30T20:52:22.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_707cdaf017d38085",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "SoftBank-backed OPay raises $304 million in US IPO - Reuters",
+      "snippet": "SoftBank-backed OPay raises $304 million in US IPO  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0lONGtsRElTTDlfS1hzMThPcHZZbGhwcHJ6VWZQYk5QUVhHOFQteXF6NVpSX0VDZmJEQllsbEFsSzhQbnVZWTFCV3FYeEtfN1g5dTNTa0VpM3BvSGlKUVA3NjJhT1RZd2FKX1RBNUh0anctTXNhWXNINkpuRFZNdTZidDVuUEh5TE5rbTVUUGxTT2JkbEQtNFozdV9ldjBCUEI3Mg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T20:52:09.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2230,6 +2283,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8a4c48402539a097",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "CAS rules that Russia can compete in world championships - Reuters",
+      "snippet": "CAS rules that Russia can compete in world championships  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclFMVlhROTY1TlhEQW9JV1FoeWNST2daUmVRekQxd3IzOC1xczFuckdRam82TFQ4TXFscFVpM01kdDd5SHRGeXJzdWZvRk9QQzhZVG80UmpFM0lCNUwyVVBtUUtId191aklEbHZCWDVVS3Nsbm9WekczQl9Jb0N3c1lNZ0duUHVOd2VvbmhDSGNDLXRiU3ZmTzFlRm0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T18:03:17.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2b04907e5d20c2cd",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2629,71 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-30T17:35:43.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e2684dd615361506",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
-      "snippet": "Investigation finds that years-long operation sought to portray Qatar as driving force behind mass migration to Europe.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T17:34:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_727fa2134f234786",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "From the archives: Sir Patrick Stewart and Sir Ian McKellan",
-      "snippet": "Sir Patrick Stewart, the Shakespearean actor best-known for his role in the \"Star Trek\" franchise, died on Oct. 28, 2026 at age 86. In this \"Sunday Morning\" interview that aired Oct. 13, 2013, Stewart and fellow player Ian McKellan talked w",
-      "link": "https://www.cbsnews.com/video/from-the-archives-sir-patrick-stewart-and-sir-ian-mckellan/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T17:32:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5885b748a080c98a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "From the archives: Sir Patrick Stewart and Sir Ian McKellen",
-      "snippet": "Sir Patrick Stewart, the Shakespearean actor best-known for his role in the \"Star Trek\" franchise, died on Oct. 28, 2026 at age 86. In this \"Sunday Morning\" interview that aired Oct. 13, 2013, Stewart and fellow player Ian McKellen talked w",
-      "link": "https://www.cbsnews.com/video/from-the-archives-sir-patrick-stewart-and-sir-ian-mckellen/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T17:32:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e74afc8564b11512",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Charges dropped against man arrested in mass shooting at Ohio festival that wounded 12",
-      "snippet": "Eljay Crisp-Carr, 20, spent five months behind bars before prosecutors asked to dismiss charges\nOhio prosecutors on Friday dropped charges against a man arrested in connection with the 6 June shooting at Toledo’s Old West End festival that ",
-      "link": "https://www.theguardian.com/us-news/2026/oct/30/ohio-festival-shooting-charges-dropped",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T17:31:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1642f49ce746f685",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Collins accuses top Senate Dem of blocking protections for Maine lobstermen as Cruz vows action",
-      "snippet": "Sen. Ted Cruz pledged to advance the Northeast Lobsterman Protection Act as Susan Collins accused a Democratic senator of blocking the bill.",
-      "link": "https://www.foxnews.com/politics/collins-accuses-top-senate-dem-blocking-protections-maine-lobstermen-cruz-vows-action",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T17:30:22.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
