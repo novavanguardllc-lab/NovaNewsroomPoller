@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-30T12:30:12.625Z",
+  "updatedAt": "2026-10-30T12:35:07.028Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.988Z"
+      "lastSuccess": "2026-10-30T12:35:07.167Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.824Z"
+      "lastSuccess": "2026-10-30T12:35:07.312Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.785Z"
+      "lastSuccess": "2026-10-30T12:35:07.227Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.054Z"
+      "lastSuccess": "2026-10-30T12:35:07.253Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.922Z"
+      "lastSuccess": "2026-10-30T12:35:07.209Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.432Z"
+      "lastSuccess": "2026-10-30T12:35:07.404Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.795Z"
+      "lastSuccess": "2026-10-30T12:35:07.402Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.109Z"
+      "lastSuccess": "2026-10-30T12:35:07.306Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.289Z"
+      "lastSuccess": "2026-10-30T12:35:07.457Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.102Z"
+      "lastSuccess": "2026-10-30T12:35:07.351Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.030Z"
+      "lastSuccess": "2026-10-30T12:35:07.386Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.772Z"
+      "lastSuccess": "2026-10-30T12:35:07.353Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.061Z"
+      "lastSuccess": "2026-10-30T12:35:07.338Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.275Z"
+      "lastSuccess": "2026-10-30T12:35:07.416Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.346Z"
+      "lastSuccess": "2026-10-30T12:35:07.422Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.196Z"
+      "lastSuccess": "2026-10-30T12:35:07.450Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.427Z"
+      "lastSuccess": "2026-10-30T12:35:07.580Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-30T12:30:13.347Z"
+      "lastErrorAt": "2026-10-30T12:35:07.451Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-30T12:30:13.457Z"
+      "lastErrorAt": "2026-10-30T12:35:07.484Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.471Z"
+      "lastSuccess": "2026-10-30T12:35:07.472Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:13.505Z"
+      "lastSuccess": "2026-10-30T12:35:07.525Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:12.867Z"
+      "lastSuccess": "2026-10-30T12:35:07.277Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-30T12:30:15.651Z"
+      "lastSuccess": "2026-10-30T12:35:07.597Z"
     }
   },
   "items": [
+    {
+      "id": "story_0517f362e61a10a0",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Woman jailed for mushroom poison murders given harsher sentence",
+      "snippet": "Erin Patterson is only the second woman in Australia to be imprisoned for life without the possibility of parole.",
+      "link": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T12:31:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a7a6c4e015b163dc",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Can new leaders stop Israel’s slide into isolation?",
+      "snippet": "Americans may not much care who holds power in Jerusalem, but they should.",
+      "link": "https://thehill.com/opinion/international/6180614-israel-us-relations-crisis/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/netanyahu_benjamin_10282026_AP26301069753352-2.jpg?w=900",
+      "publishedAt": "2026-10-30T12:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2b71001b8401818b",
       "source": "France24",
@@ -106,6 +132,19 @@
       "link": "https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers",
       "imageUrl": "https://s.france24.com/media/display/2e2330d6-cbd4-11f1-a9eb-2d1c143cdef3/w:1024/p:16x9/main-dans-les-champs.jpg",
       "publishedAt": "2026-10-30T12:28:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_debcda746186b1b4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Peltola insists 'I knew nothing' about alleged 'Decoy Dan' scheme as Sullivan alleges she is 'still lying'",
+      "snippet": "Mary Peltola claims she \"knew nothing\" about the alleged scheme to recruit candidates named Dan Sullivan, but the incumbent says she is \"still lying.\"",
+      "link": "https://www.foxnews.com/politics/peltola-insists-knew-nothing-alleged-decoy-dan-scheme-sullivan-alleges-still-lying",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T12:27:04.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFZyd3NxaE4xeTFxaDd0LWFBM3B1alpIb19iVS1hb1ZZWk0yRUhXcV9VODJNQmVESHZIRmJydjdQbHF5aTlRX2VnQ0tORVRlNVAxeGdxQmhzTVBmbDdVZjEwem10TzdwU0NPWW1jZmtLU3Q3amZtTk5tYkxDb0ZFUHZmSEN1Y0tIc1ZyRV9FOVE0bVQ4MFBJV24xTHVXaXVjb2tpQmFGWnRmUkd1?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-30T08:59:07.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8610d06d514b3a1a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Spain continues to investigate causes of deadly Toledo train crash – Europe live",
-      "snippet": "The full investigation is likely to take at least weeks to conclude\nSpain continues investigating Wednesday’s deadly train crash in Toledo province, which killed 69 people, and left many more injured.\nAn initial interim report by the indepe",
-      "link": "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T08:58:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4cb683b8274ce260",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes - Reuters",
-      "snippet": "Nasdaq futures tumble as Amazon, Intel results deepen AI spending woes  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T08:57:28.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_90d7f2796836a512",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China conducts combat readiness patrols around disputed shoal in South China Sea - Reuters",
-      "snippet": "China conducts combat readiness patrols around disputed shoal in South China Sea  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLVZHNlp6YnVjYmw4N0c2cjlxQ3hCcEZuR1pLUko3aXp3SE9jdEtiVXZqeC1UZTRhMzZaTTdWTVo2Rmdyck1scDFMVk5Ga1U5WkZVZm4zUWVzZVptV09zUVhHdUdQYnJ0YlVzV3NmWVVna3IwRVhBOU5BcHRyUHk0eDh5bUhTaWVpMlhvNG9CU0h2OG9vWWhtdmFhdnVLbzRtTVk0MkNFM1lXVWtTUmZOQ0Zwcnpld2lkU0kwa1oyeGNQRlE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T08:53:06.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
