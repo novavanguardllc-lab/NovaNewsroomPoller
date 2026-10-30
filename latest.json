@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-10-30T05:15:08.479Z",
+  "updatedAt": "2026-10-30T05:20:09.037Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.916Z"
+      "lastSuccess": "2026-10-30T05:20:09.143Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.856Z"
+      "lastSuccess": "2026-10-30T05:20:09.277Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.719Z"
+      "lastSuccess": "2026-10-30T05:20:09.317Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.837Z"
+      "lastSuccess": "2026-10-30T05:20:09.532Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.762Z"
+      "lastSuccess": "2026-10-30T05:20:09.335Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.941Z"
+      "lastSuccess": "2026-10-30T05:20:09.179Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.078Z"
+      "lastSuccess": "2026-10-30T05:20:09.219Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.998Z"
+      "lastSuccess": "2026-10-30T05:20:09.356Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.117Z"
+      "lastSuccess": "2026-10-30T05:20:09.239Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.097Z"
+      "lastSuccess": "2026-10-30T05:20:09.224Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.282Z"
+      "lastSuccess": "2026-10-30T05:20:09.157Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.297Z"
+      "lastSuccess": "2026-10-30T05:20:09.459Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-30T05:15:09.318Z"
+      "lastErrorAt": "2026-10-30T05:20:09.258Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.081Z"
+      "lastSuccess": "2026-10-30T05:20:09.176Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.278Z"
+      "lastSuccess": "2026-10-30T05:20:09.455Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.302Z"
+      "lastSuccess": "2026-10-30T05:20:09.257Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:08.895Z"
+      "lastSuccess": "2026-10-30T05:20:09.506Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.379Z"
+      "lastSuccess": "2026-10-30T05:20:09.482Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-30T05:15:09.380Z"
+      "lastErrorAt": "2026-10-30T05:20:09.495Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.462Z"
+      "lastSuccess": "2026-10-30T05:20:09.400Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.489Z"
+      "lastSuccess": "2026-10-30T05:20:09.550Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-10-30T05:15:11.356Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-10-30T05:20:19.057Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-30T05:15:09.342Z"
+      "lastSuccess": "2026-10-30T05:20:09.282Z"
     }
   },
   "items": [
+    {
+      "id": "story_2e677210ffa7139a",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Binance suffers 'security incident'; N. Korea suspected in $6.3B theft",
+      "snippet": "Binance acknowledged Thursday that it was experiencing a \"security incident\" that is believed to be a North Korean theft of some $6.3 billion.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/10/30/Binance-North-Korea-theft/8961793332095/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/8961793332095/2026/upi/c2fd941eb0aea3ab6977d637d8b64ed1/v1.5/Binance-suffers-security-incident-N-Korea-suspected-in-63B-theft.jpg",
+      "publishedAt": "2026-10-30T05:18:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b804dc3ad369072a",
       "source": "Guardian",
@@ -263,6 +277,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-30T04:19:49.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1f0795a698516ec5",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists - Reuters",
+      "snippet": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T04:19:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2061,6 +2088,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1fea1d83fca3e044",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Rivian says it's on track for $250 million Uber funding by year-end, R2 demand strong - Reuters",
+      "snippet": "Rivian says it's on track for $250 million Uber funding by year-end, R2 demand strong  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHFFRWRUZGI1M01TQkx0bG5jMFQ4WXdXOUg3d0tYSUVXS2hYWldBck9Yd2dBTFFJVlMzS25Qbkp6cnVNU1oxMks4cDNKM182MUZiVjM4SlFQaUNUNmtFQWNIYWRiUWREX0RoUy04cU0ya19qVlVKejRpWFFTcUxVVXhOWWlydU5RSWs4aXNNYTlBcXNPMkIxU2h3MVZZYWlqZE5uT2Y3ME9VVXA0OGxCczhkaC1ZaFhGSldIeg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T23:05:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c265a4ee4335b175",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2654,45 +2694,6 @@
       "link": "https://www.pbs.org/newshour/politics/senate-is-skeptical-about-making-daylight-saving-time-permanent-despite-trumps-pressure",
       "imageUrl": null,
       "publishedAt": "2026-10-29T22:19:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b7017de8a0083101",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Brazil's Petrobras makes third oil discovery in block off Amapa state - Reuters",
-      "snippet": "Brazil's Petrobras makes third oil discovery in block off Amapa state  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE0ydV9qSC02Q1dUUU5hQm1DSExua2JkeWFRN0dfemViNGhNWjQzY2VuOXFRZjZuRFdjUldYOFJBZkhLX29DeUV0VWFneXhWRG1jMXA3RGJZTGpaN2tWUEZMQmRHT05FcUVMRHp4SWx5Nnl4SFZhWmNFbDFOQWNOQ2xlYjIwbHgwd3FKX1lwSjB3N2s3UU10ZlV0NjMtS0plTGJJVWJkWEJwcGRPbElJWE1WSUtJRUdj?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T22:19:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0e06e30f32921b88",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "House Judiciary report accuses NYC DAs of downgrading charges to protect illegal immigrants from deportation",
-      "snippet": "Letitia James, Melinda Katz, and Eric Gonzalez faced pointed questions about a House Judiciary Committee report on immigration-safe plea bargains.",
-      "link": "https://www.foxnews.com/us/house-judiciary-report-accuses-nyc-das-downgrading-charges-protect-illegal-immigrants-deportation",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T22:18:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8973c51a9dcbaa98",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Top Pentagon general Brett Sylvia fired over alleged leaks",
-      "snippet": "Defense Secretary Pete Hegseth has fired Top Pentagon general Brett Sylvia over allegations that he leaked classified information to journalists. Ravi Agrawal, editor-in-chief of Foreign Policy magazine, joins \"The Takeout\" to share more.",
-      "link": "https://www.cbsnews.com/video/top-pentagon-general-brett-sylvia-fired-over-alleged-leaks/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T22:17:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
