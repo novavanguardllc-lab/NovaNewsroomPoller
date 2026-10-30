@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-30T04:05:05.829Z",
+  "updatedAt": "2026-10-30T04:10:08.034Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.006Z"
+      "lastSuccess": "2026-10-30T04:10:08.242Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.023Z"
+      "lastSuccess": "2026-10-30T04:10:08.247Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:05.946Z"
+      "lastSuccess": "2026-10-30T04:10:08.209Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.065Z"
+      "lastSuccess": "2026-10-30T04:10:08.227Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:05.989Z"
+      "lastSuccess": "2026-10-30T04:10:08.238Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.025Z"
+      "lastSuccess": "2026-10-30T04:10:08.171Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.129Z"
+      "lastSuccess": "2026-10-30T04:10:08.356Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.105Z"
+      "lastSuccess": "2026-10-30T04:10:08.169Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.093Z"
+      "lastSuccess": "2026-10-30T04:10:08.278Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.160Z"
+      "lastSuccess": "2026-10-30T04:10:08.290Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.146Z"
+      "lastSuccess": "2026-10-30T04:10:08.260Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.186Z"
+      "lastSuccess": "2026-10-30T04:10:08.314Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-30T04:05:06.187Z"
+      "lastErrorAt": "2026-10-30T04:10:08.317Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.191Z"
+      "lastSuccess": "2026-10-30T04:10:08.272Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.253Z"
+      "lastSuccess": "2026-10-30T04:10:08.417Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.269Z"
+      "lastSuccess": "2026-10-30T04:10:08.297Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.045Z"
+      "lastSuccess": "2026-10-30T04:10:08.218Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.262Z"
+      "lastSuccess": "2026-10-30T04:10:08.536Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-30T04:05:06.272Z"
+      "lastErrorAt": "2026-10-30T04:10:08.437Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.376Z"
+      "lastSuccess": "2026-10-30T04:10:08.528Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.315Z"
+      "lastSuccess": "2026-10-30T04:10:08.555Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.332Z"
+      "lastSuccess": "2026-10-30T04:10:08.639Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-30T04:05:06.182Z"
+      "lastSuccess": "2026-10-30T04:10:08.432Z"
     }
   },
   "items": [
+    {
+      "id": "story_e903526724a4673e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Packers top Panthers, Brewers storm Lambeau and Christian Watson returns from hospital",
+      "snippet": "Jordan Love threw for 288 yards and three touchdowns as the Green Bay Packers held off Bryce Young and the Carolina Panthers at Lambeau Field.",
+      "link": "https://www.foxnews.com/outkick-sports/packers-top-panthers-brewers-storm-lambeau-christian-watson-returns-hospital",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T03:59:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_26ecbd1dfac50d43",
       "source": "Politico",
@@ -2680,19 +2693,6 @@
       "link": "https://www.france24.com/en/tunisians-drawn-into-russia-s-war-in-ukraine",
       "imageUrl": "https://s.france24.com/media/display/2cadb6f8-d3e1-11f1-a5ad-1beafce15fea/w:1024/p:16x9/DN00001661-VOD-00013390-01.jpg",
       "publishedAt": "2026-10-29T21:48:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6ba1891ca3ca0599",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "National Democrats leave Mary Peltola to fend for herself amid Alaska Senate scandal",
-      "snippet": "National Democrats are largely staying silent as Mary Peltola faces mounting scrutiny over an alleged scheme by campaign and party operatives to confuse Alaskan voters with a second “decoy” Republican candidate named Dan Sullivan, leaving t",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4784856/national-democrats-mary-peltola-fend-for-herself/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T21:47:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
