@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-10-30T15:40:08.844Z",
+  "updatedAt": "2026-10-30T15:45:08.615Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.010Z"
+      "lastSuccess": "2026-10-30T15:45:08.984Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.025Z"
+      "lastSuccess": "2026-10-30T15:45:08.794Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.013Z"
+      "lastSuccess": "2026-10-30T15:45:08.762Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:08.978Z"
+      "lastSuccess": "2026-10-30T15:45:08.855Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:08.952Z"
+      "lastSuccess": "2026-10-30T15:45:09.287Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.093Z"
+      "lastSuccess": "2026-10-30T15:45:08.942Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.098Z"
+      "lastSuccess": "2026-10-30T15:45:08.991Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.034Z"
+      "lastSuccess": "2026-10-30T15:45:09.063Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.152Z"
+      "lastSuccess": "2026-10-30T15:45:09.105Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.061Z"
+      "lastSuccess": "2026-10-30T15:45:09.037Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.115Z"
+      "lastSuccess": "2026-10-30T15:45:08.915Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:08.915Z"
+      "lastSuccess": "2026-10-30T15:45:09.083Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.096Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-30T15:45:08.986Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.124Z"
+      "lastSuccess": "2026-10-30T15:45:09.097Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.132Z"
+      "lastSuccess": "2026-10-30T15:45:13.533Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.087Z"
+      "lastSuccess": "2026-10-30T15:45:09.190Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.239Z"
+      "lastSuccess": "2026-10-30T15:45:09.343Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-30T15:40:09.125Z"
+      "lastErrorAt": "2026-10-30T15:45:09.205Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-30T15:40:09.153Z"
+      "lastErrorAt": "2026-10-30T15:45:09.256Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.168Z"
+      "lastSuccess": "2026-10-30T15:45:09.278Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.276Z"
+      "lastSuccess": "2026-10-30T15:45:09.366Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:09.342Z"
+      "lastSuccess": "2026-10-30T15:45:09.224Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-30T15:40:11.423Z"
+      "lastSuccess": "2026-10-30T15:45:11.303Z"
     }
   },
   "items": [
+    {
+      "id": "story_2a098316847ea1f2",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Alaska Democrats’ voting scheme shows they think voters are ‘stupid’: Salena Zito",
+      "snippet": "Washington Examiner columnist Salena Zito ripped Alaska Democratic Senate candidate Mary Peltola’s campaign for allegedly orchestrating a scheme to confuse voters and undermine Sen. Dan Sullivan’s (R-AK) reelection bid. “There’s always been",
+      "link": "https://www.washingtonexaminer.com/news/justice/4785926/alaska-democrats-voting-scheme-voters-stupid-salena-zito/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T15:44:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0b7cfe41b68a6226",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "North Korea linked to $6.3B Binance hack",
+      "snippet": "A North Korea-based cybercrime group appears to be behind a $6.3 billion hack of the cryptocurrency exchange Binance, according to two blockchain intelligence firms. Both TRM Labs and Chainalysis tied the largest crypto hack on record to Tr",
+      "link": "https://thehill.com/policy/technology/6184178-north-korea-binance-crypto-hack/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP23060676723891-e1793374421182.jpg?w=900",
+      "publishedAt": "2026-10-30T15:40:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ea9d390419921b0c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "DOJ accuses Peltola, Democrats of misleading a federal court",
+      "snippet": "The Justice Department on Thursday accused Mary Peltola of misleading a federal court in the latest filing in their lawsuit seeking to block certification of the Alaska Senate election. “Apparently emboldened by the success of their reporte",
+      "link": "https://thehill.com/homenews/campaign/6183999-doj-accuses-peltola-misleading-court/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Peltola-reax_102926_Huiskes_AP_Becky-Bohrer.jpg?w=900",
+      "publishedAt": "2026-10-30T15:39:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8a5fba0d16f7cdc8",
       "source": "Wash Examiner",
@@ -106,6 +146,45 @@
       "link": "https://www.washingtonexaminer.com/news/washington-secrets/4785701/white-house-report-card-ohio-poll-acton-ramaswamy-ad-debacle/",
       "imageUrl": null,
       "publishedAt": "2026-10-30T15:36:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6a10838403bc0d5b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Two Maine high school girls ask federal officials to intervene over transgender soccer player",
+      "snippet": "Two Maine high school girls plan a Title IX complaint alleging a transgender soccer player's dominance denied them fair competition in girls' sports.",
+      "link": "https://www.foxnews.com/outkick-sports/two-maine-high-school-girls-ask-federal-officials-intervene-transgender-soccer-player",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T15:34:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b5844403199c939b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "College football coaching carousel could explode as Lincoln Riley and Deion Sanders face mounting pressure",
+      "snippet": "Colorado's Deion Sanders era has soured at 2-5 as patience runs out in Boulder and questions swirl about a reported $25 million buyout scenario.",
+      "link": "https://www.foxnews.com/outkick-sports/college-football-coaching-carousel-could-explode-lincoln-riley-deion-sanders-face-mounting-pressure",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T15:34:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5b496d8687e2f035",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "The silent majority problem and why campaign pollsters keep 'fighting the last war' on elections",
+      "snippet": "From Literary Digest's 1936 disaster to partisan polls skewing primaries, Tevi Troy traces 90 years of polling mishaps and why errors keep recurring.",
+      "link": "https://www.foxnews.com/opinion/silent-majority-problem-why-campaign-pollsters-keep-fighting-last-war-elections",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T15:34:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1225,6 +1304,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-30T14:06:23.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dfa4bd37941a547c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Strikes on camp in Ethiopia kill at least 15, sources say - Reuters",
+      "snippet": "Strikes on camp in Ethiopia kill at least 15, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWxFck1EbEF1MjVtOFo5RFpsbHh0TFJDa251X2pPeEtISEI4UDVRZzR2ME5qS2NyRWw2Zi0wVWlUTkFIRVZ0d3JoanhFc3MzdlMtWlJaRTh1amh6cng0S0lDOFlvY2VUWDNabFpQaUl4clVLY0pHUXM0bzJZRzhJSzB3RmhiTE81eURZQUEzQzRKRzhSUjV4UFBVcmE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T14:05:16.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2464,6 +2556,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ee29c7e2a9c9a00a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Swiss foreign minister discusses security issues with North Korea - Reuters",
+      "snippet": "Swiss foreign minister discusses security issues with North Korea  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTjhrMjZTNE5WVzB1R3BMeEQzVDdlTDhmYkhlN2kwODlxT1pXRUdUWmRpamEyMFpFQzdyMHU4Um01aVBjcmZ5Z2JUcDVmSnFsTGRFZjlKZk85OV9uNDZyeVY3SlhRUWxSa0hobmhDbEtUeEplc2dpZ0M3T1lVLUN6YnVrLXAyUHRyRGhFSEZUWkpMaTYwQkVmSGhiTW9RNW1wZld4ZUlNelFjODZmelE1ekZSLTR5a3hEazJpUg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T12:53:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1ddea7573eb787f1",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2589,110 +2694,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-30T12:38:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc75bbaa527713d4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Meet Tracy Pennycuick, the trailblazing Pennsylvania state senator pioneering AI safeguards to protect children",
-      "snippet": "Pennsylvania state Sen. Tracy Pennycuick, a Montgomery County Republican, has been a selfless protector for most of her professional career. Ever since she was in college, Pennycuick has been a watchful guardian, a protector of the defensel",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4785639/tracy-pennycuick-pennsylvania-state-senator-ai-safeguards-protect-children/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:37:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_955dfe173dd252f0",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Academic says he has been barred from UK over event with Palestine Action founder",
-      "snippet": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:36:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b5b15ed0ee1763c7",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Canada and EU seek closer ties beyond US as leaders push associate membership - AP News",
-      "snippet": "Canada and EU seek closer ties beyond US as leaders push associate membership  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXYwSnRTOGhSNzN0ekpKMjZreU8tS3RqZ1h1UXhiRjR6d0ttbFljQV9LQ1dlbHhNM3o5bzhwejFXMXV3akVmT19rYU1xYURiUGYtTXFHSmoyalJsV1F4TUNYcXJyN0FkcUdlVGFaVXJ5ZXJDSGRpWFYxUllCR3lVNEs4VlZacFJ2c2c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:33:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0517f362e61a10a0",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Woman jailed for mushroom poison murders given harsher sentence",
-      "snippet": "Erin Patterson is only the second woman in Australia to be imprisoned for life without the possibility of parole.",
-      "link": "https://www.cbsnews.com/news/mushroom-poison-murders-australia-erin-patterson-harsher-sentence/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:31:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a7a6c4e015b163dc",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Can new leaders stop Israel’s slide into isolation?",
-      "snippet": "Americans may not much care who holds power in Jerusalem, but they should.",
-      "link": "https://thehill.com/opinion/international/6180614-israel-us-relations-crisis/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/netanyahu_benjamin_10282026_AP26301069753352-2.jpg?w=900",
-      "publishedAt": "2026-10-30T12:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8018c3fb85675053",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Patrick Stewart, Known for 'Star Trek' and 'X-Men' Roles, Dies at 86",
-      "snippet": "Actor Patrick Stewart, known for his roles in \"Star Trek\" and \"X-Men\" has died after a brief battle with Alzheimer’s disease and Lewy body dementia, according to a statement. Now, tributes are pouring in for the legendary actor whose career",
-      "link": "https://www.today.com/video/patrick-stewart-iconic-star-trek-and-x-men-actor-dies-at-86-272529989956",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:29:21.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_2b71001b8401818b",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "‘Scared of crossing the border’: The Arizona farmers who rely on Mexican workers",
-      "snippet": "The vast produce farms of Yuma County, Arizona, rely heavily on foreign workers who cross the border every day from Mexico. John Boelts, a farmer and staunch supporter of US President Donald Trump, praises the administration’s strict border",
-      "link": "https://www.france24.com/en/americas/20261030-scared-of-crossing-the-border-the-arizona-farmers-who-rely-on-mexican-workers",
-      "imageUrl": "https://s.france24.com/media/display/2e2330d6-cbd4-11f1-a9eb-2d1c143cdef3/w:1024/p:16x9/main-dans-les-champs.jpg",
-      "publishedAt": "2026-10-30T12:28:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9d53d0842ee7601b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Man who ran over cyclist and dragged him under car for a mile convicted of murder",
-      "snippet": "Simon Richardson knew headteacher Michael Mullins was under his 4×4 as he kept driving in Manchester, jury heard\nA motorist who mowed down a cyclist and dragged him under his car for more than a mile has been found guilty of murder.\nHeadtea",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:28:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
