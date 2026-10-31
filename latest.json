@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-31T11:50:08.518Z",
+  "updatedAt": "2026-10-31T11:55:05.981Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.650Z"
+      "lastSuccess": "2026-10-31T11:55:06.075Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.794Z"
+      "lastSuccess": "2026-10-31T11:55:06.186Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.770Z"
+      "lastSuccess": "2026-10-31T11:55:06.192Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.780Z"
+      "lastSuccess": "2026-10-31T11:55:06.295Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.605Z"
+      "lastSuccess": "2026-10-31T11:55:06.035Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.763Z"
+      "lastSuccess": "2026-10-31T11:55:06.267Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.816Z"
+      "lastSuccess": "2026-10-31T11:55:06.234Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.750Z"
+      "lastSuccess": "2026-10-31T11:55:06.220Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.728Z"
+      "lastSuccess": "2026-10-31T11:55:06.262Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.845Z"
+      "lastSuccess": "2026-10-31T11:55:06.249Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.627Z"
+      "lastSuccess": "2026-10-31T11:55:06.243Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T11:50:08.764Z"
+      "lastErrorAt": "2026-10-31T11:55:06.280Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.804Z"
+      "lastSuccess": "2026-10-31T11:55:06.313Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.774Z"
+      "lastSuccess": "2026-10-31T11:55:06.280Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.862Z"
+      "lastSuccess": "2026-10-31T11:55:06.288Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.838Z"
+      "lastSuccess": "2026-10-31T11:55:06.344Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.873Z"
+      "lastSuccess": "2026-10-31T11:55:06.365Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.977Z"
+      "lastSuccess": "2026-10-31T11:55:06.433Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T11:50:08.873Z"
+      "lastErrorAt": "2026-10-31T11:55:06.350Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.748Z"
+      "lastSuccess": "2026-10-31T11:55:06.551Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.705Z"
+      "lastSuccess": "2026-10-31T11:55:06.467Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.937Z"
+      "lastSuccess": "2026-10-31T11:55:06.450Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:50:08.911Z"
+      "lastSuccess": "2026-10-31T11:55:06.477Z"
     }
   },
   "items": [
+    {
+      "id": "story_a2d285edc7e6f525",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Daniel J. Sullivan left his Alaska hometown before Senate election",
+      "snippet": "Daniel J. Sullivan, the independent Alaska Senate candidate whose name is almost identical to the Republican incumbent, left his hometown of Petersburg earlier this week, multiple sources confirmed to CBS News.",
+      "link": "https://www.cbsnews.com/news/daniel-j-sullivan-left-alaska-hometown-senate-election/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T11:50:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_49a908818ecbe88a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Healey to veto new offshore wind projects if they will not lower bills",
+      "snippet": "Chancellor’s plans add to concerns that government is moving away from pro-renewables agenda\nJohn Healey has said he will veto new offshore wind projects if they will not lower bills, adding to concerns that the government is moving away fr",
+      "link": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T11:48:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5a7d5164c434f3bc",
       "source": "Fox News",
@@ -111,6 +137,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5fa7d2207395c11f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "UN closes Somalia mission, ending three decades of political engagement",
+      "snippet": "Somalia hails the UN mission's closure as a milestone amid political tensions and cuts to international support.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T11:37:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6010e5774076bcbc",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Do tough laws deter drug crimes? Lessons from Singapore and Malaysia",
+      "snippet": "As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse.",
+      "link": "https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T11:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_be4683e2306f16ef",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -119,6 +171,19 @@
       "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
       "imageUrl": null,
       "publishedAt": "2026-10-31T11:27:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bb02b36e4643a602",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Protests outside Poland’s constitutional court: What’s the crisis about?",
+      "snippet": "Poland’s centrist government says it is restoring judicial independence after years of far-right political interference.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T11:27:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2628,71 +2693,6 @@
       "link": "https://www.nytimes.com/2026/10/30/world/europe/britain-burnham-charles-apology-slavery.html",
       "imageUrl": null,
       "publishedAt": "2026-10-31T03:32:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9c02e205de5d7d01",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Suspected sailboat thief killed in Rhode Island police shootout",
-      "snippet": "Body camera footage shows the dramatic police shootout that left a suspected sailboat thief dead in Newport, Rhode Island. The 40-foot boat was stolen back in August.",
-      "link": "https://abcnews.com/video/137724767/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T03:29:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_049b0ac1e603fed8",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
-      "snippet": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T03:27:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c76a876c8db9bdf2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
-      "snippet": "NBA Scores & Daily News | NBA Stats, Scores & News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T03:23:11.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0e65fe87b9af0aa3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Press Releases - AP News",
-      "snippet": "Press Releases  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CelNmUzhqNnQ2ajlNcEtLVlVuenpZSUtDVk01WG9VU2lRYnp2RHVzSjhtLV9KbFdnYll6V3Z5VkdqZEhWelRPYQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T03:21:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1d4949f97f384c7",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Burnham 'open' to slavery apology - as King continues tour of the Caribbean",
-      "snippet": "Andy Burnham has said he is \"open\" to calls for Britain to make a formal apology for its role in the slave trade as the King continues his tour of the Caribbean.",
-      "link": "https://news.sky.com/story/king-arrives-in-antigua-and-barbuda-as-burnham-open-to-slavery-apology-13606019",
-      "imageUrl": "https://e3.365dm.com/26/10/1920x1080/skynews-andy-bunrham-brexit_7387656.jpg?20261026103048",
-      "publishedAt": "2026-10-31T03:11:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
