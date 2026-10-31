@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-31T10:50:07.813Z",
+  "updatedAt": "2026-10-31T10:55:05.795Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.876Z"
+      "lastSuccess": "2026-10-31T10:55:05.867Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.895Z"
+      "lastSuccess": "2026-10-31T10:55:05.965Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.949Z"
+      "lastSuccess": "2026-10-31T10:55:05.977Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.955Z"
+      "lastSuccess": "2026-10-31T10:55:06.004Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.238Z"
+      "lastSuccess": "2026-10-31T10:55:05.985Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.921Z"
+      "lastSuccess": "2026-10-31T10:55:06.064Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.945Z"
+      "lastSuccess": "2026-10-31T10:55:06.135Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.957Z"
+      "lastSuccess": "2026-10-31T10:55:06.032Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.984Z"
+      "lastSuccess": "2026-10-31T10:55:06.100Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.208Z"
+      "lastSuccess": "2026-10-31T10:55:06.043Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:07.996Z"
+      "lastSuccess": "2026-10-31T10:55:06.083Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T10:50:08.003Z"
+      "lastErrorAt": "2026-10-31T10:55:06.084Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.124Z"
+      "lastSuccess": "2026-10-31T10:55:06.255Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.001Z"
+      "lastSuccess": "2026-10-31T10:55:06.080Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.023Z"
+      "lastSuccess": "2026-10-31T10:55:06.142Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.115Z"
+      "lastSuccess": "2026-10-31T10:55:06.190Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.135Z"
+      "lastSuccess": "2026-10-31T10:55:06.264Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.087Z"
+      "lastSuccess": "2026-10-31T10:55:06.231Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T10:50:08.130Z"
+      "lastErrorAt": "2026-10-31T10:55:06.236Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.291Z"
+      "lastSuccess": "2026-10-31T10:55:06.577Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.354Z"
+      "lastSuccess": "2026-10-31T10:55:06.283Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.231Z"
+      "lastSuccess": "2026-10-31T10:55:08.616Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T10:50:08.151Z"
+      "lastSuccess": "2026-10-31T10:55:06.363Z"
     }
   },
   "items": [
@@ -353,6 +353,19 @@
       "link": "https://thehill.com/policy/defense/6185793-pete-hegseth-blackburn-tennessee-senate-seat/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/hegsethpete_burchetttim_101726ap01_w.jpg?w=900",
       "publishedAt": "2026-10-31T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_08c260bc19adfadb",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Stage Fright",
+      "snippet": "Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear.",
+      "link": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T09:58:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T01:18:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4608675db8c962e0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Hulk Hogan's widow faces negligence claim after minor was allegedly raped at son's party: report",
-      "snippet": "Sky Daily allegedly supplied alcohol to minors before a party where a girl was sexually assaulted, according to a lawsuit first reported by TMZ.",
-      "link": "https://www.foxnews.com/outkick-sports/hulk-hogan-widow-faces-negligence-claim-minor-allegedly-raped-son-party-report",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T01:16:48.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
