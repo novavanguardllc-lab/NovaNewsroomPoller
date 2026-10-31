@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-31T08:55:06.015Z",
+  "updatedAt": "2026-10-31T09:00:15.068Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.120Z"
+      "lastSuccess": "2026-10-31T09:00:15.348Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.180Z"
+      "lastSuccess": "2026-10-31T09:00:15.407Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.359Z"
+      "lastSuccess": "2026-10-31T09:00:15.275Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.322Z"
+      "lastSuccess": "2026-10-31T09:00:15.247Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.319Z"
+      "lastSuccess": "2026-10-31T09:00:15.216Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.302Z"
+      "lastSuccess": "2026-10-31T09:00:15.452Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.298Z"
+      "lastSuccess": "2026-10-31T09:00:15.507Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.421Z"
+      "lastSuccess": "2026-10-31T09:00:15.470Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.515Z"
+      "lastSuccess": "2026-10-31T09:00:15.675Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.520Z"
+      "lastSuccess": "2026-10-31T09:00:15.678Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.436Z"
+      "lastSuccess": "2026-10-31T09:00:15.518Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T08:55:06.516Z"
+      "lastErrorAt": "2026-10-31T09:00:15.770Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.498Z"
+      "lastSuccess": "2026-10-31T09:00:15.670Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.439Z"
+      "lastSuccess": "2026-10-31T09:00:15.419Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.538Z"
+      "lastSuccess": "2026-10-31T09:00:15.756Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.417Z"
+      "lastSuccess": "2026-10-31T09:00:15.609Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.562Z"
+      "lastSuccess": "2026-10-31T09:00:15.877Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.742Z"
+      "lastSuccess": "2026-10-31T09:00:15.854Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T08:55:06.555Z"
+      "lastErrorAt": "2026-10-31T09:00:15.877Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.505Z"
+      "lastSuccess": "2026-10-31T09:00:15.727Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.355Z"
+      "lastSuccess": "2026-10-31T09:00:15.702Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.605Z"
+      "lastSuccess": "2026-10-31T09:00:15.977Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:55:06.622Z"
+      "lastSuccess": "2026-10-31T09:00:15.936Z"
     }
   },
   "items": [
+    {
+      "id": "story_0e8b5c6b490f56a2",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "A UN protection force must be urgently deployed to Palestine",
+      "snippet": "Israel is making Palestinian existence in Palestine increasingly impossible.",
+      "link": "https://www.aljazeera.com/opinions/2026/10/31/a-un-protection-force-must-be-urgently-deployed-to-palestine?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T08:57:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dcd06f0c7e9b94fd",
       "source": "CBS News",
@@ -2683,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_5524db15821fc5e8",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Feds ‘intensely’ probing alleged Alaska ballot scheme, US attorney confirms",
-      "snippet": "Federal authorities are investigating whether Democrat Mary Peltola’s campaign’s reported effort to recruit a candidate in the Alaska Senate race with the same name as incumbent Sen. Dan Sullivan (R) violated the law, the state’s top federa",
-      "link": "https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26303764494869-e1793400091776.jpg?w=900",
-      "publishedAt": "2026-10-30T22:43:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
