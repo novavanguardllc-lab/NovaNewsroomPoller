@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-31T22:25:05.824Z",
+  "updatedAt": "2026-10-31T22:30:12.204Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.003Z"
+      "lastSuccess": "2026-10-31T22:30:12.963Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:05.965Z"
+      "lastSuccess": "2026-10-31T22:30:12.884Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:05.892Z"
+      "lastSuccess": "2026-10-31T22:30:12.644Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:05.869Z"
+      "lastSuccess": "2026-10-31T22:30:12.684Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.152Z"
+      "lastSuccess": "2026-10-31T22:30:12.481Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.147Z"
+      "lastSuccess": "2026-10-31T22:30:12.988Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.074Z"
+      "lastSuccess": "2026-10-31T22:30:13.060Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.105Z"
+      "lastSuccess": "2026-10-31T22:30:13.240Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T22:25:06.204Z"
+      "lastErrorAt": "2026-10-31T22:30:12.978Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.101Z"
+      "lastSuccess": "2026-10-31T22:30:12.501Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.211Z"
+      "lastSuccess": "2026-10-31T22:30:12.625Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.173Z"
+      "lastSuccess": "2026-10-31T22:30:12.583Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.131Z"
+      "lastSuccess": "2026-10-31T22:30:12.605Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.209Z"
+      "lastSuccess": "2026-10-31T22:30:12.982Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.202Z"
+      "lastSuccess": "2026-10-31T22:30:13.185Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.249Z"
+      "lastSuccess": "2026-10-31T22:30:13.266Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.373Z"
+      "lastSuccess": "2026-10-31T22:30:13.298Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T22:25:06.111Z"
+      "lastErrorAt": "2026-10-31T22:30:13.267Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.327Z"
+      "lastSuccess": "2026-10-31T22:30:13.489Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.432Z"
+      "lastSuccess": "2026-10-31T22:30:13.369Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.041Z"
+      "lastSuccess": "2026-10-31T22:30:12.741Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.027Z"
+      "lastSuccess": "2026-10-31T22:30:12.779Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T22:25:06.219Z"
+      "lastSuccess": "2026-10-31T22:30:13.222Z"
     }
   },
   "items": [
+    {
+      "id": "story_9b477d164766596a",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+      "snippet": "The Department of Justice on Friday added a request that the judge separate all ballots showing votes for the second Dan Sullivan until it can be determined whether voters were fooled into wasting their votes for a spoiler candidate.",
+      "link": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T22:22:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4ce76ed343cf59e0",
       "source": "ABC News",
@@ -315,6 +328,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T21:15:39.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0ee40b2e12ffd3f0",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Mixed economic forecast weighs heavy ahead of midterms",
+      "snippet": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices.  For now at least, interest rates are staying the same.  What does that mean for the midterm elections?",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T21:14:35.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlQ0UWRIVU80WS1PUURWQldEV1ZqM3ZGNGxkN3E1YTRKaHo4aUlLTjJ2SkFzYnJoNE1zUkwzMkJHcmNpVGJhNTB2X1BqTk16d1RSMzA0UGxTcHY2aFZkTzhyVERTM19DR2lfeWlaeG5zMXdxU3Q5bTQ4RzFaRzMtTW1JMDdYREJoTk1talpCSU9ockdoUkRodw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-10-31T16:39:55.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44e8d86d9bfa9454",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "FSB says US warned Russia of possible Moscow attack - Reuters",
-      "snippet": "FSB says US warned Russia of possible Moscow attack  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01mVmZKa0N0UWNiYkxZaDY4a0J5ekhBX2NKVi1xUDh5cmpEeHhzX3U3VE9GU21KUjlvQ0FuWGVlalZMVjJTY1FnVlJxR0YxNHpLMl9YTG5hNW9yQUVzbzB2RkFHV3JRTTVUVVdwRUkyeE9KRVBVdTQ5R3NYM1p6dF9lZFU0TkNCTVJWb2UyZ2h3eXAx?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T16:37:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9a6403afc4fa81ed",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "‘20 Days in Mariupol’ - AP News",
-      "snippet": "‘20 Days in Mariupol’  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fdEpYLUhDOFZNVWxFTXNYVGdoTU5acUhUWlduUnQ3SXpiblBBX0UzV1FTZ1JjSThtTzhnX2RuNXNUb1NsMFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T16:36:18.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
