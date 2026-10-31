@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-10-31T08:35:06.079Z",
+  "updatedAt": "2026-10-31T08:40:07.862Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.151Z"
+      "lastSuccess": "2026-10-31T08:40:07.939Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.199Z"
+      "lastSuccess": "2026-10-31T08:40:08.055Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.339Z"
+      "lastSuccess": "2026-10-31T08:40:08.057Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.354Z"
+      "lastSuccess": "2026-10-31T08:40:07.992Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.321Z"
+      "lastSuccess": "2026-10-31T08:40:07.999Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.335Z"
+      "lastSuccess": "2026-10-31T08:40:08.121Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.299Z"
+      "lastSuccess": "2026-10-31T08:40:08.155Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.474Z"
+      "lastSuccess": "2026-10-31T08:40:08.092Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.556Z"
+      "lastSuccess": "2026-10-31T08:40:08.111Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.531Z"
+      "lastSuccess": "2026-10-31T08:40:08.098Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.358Z"
+      "lastSuccess": "2026-10-31T08:40:08.115Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T08:35:06.552Z"
+      "lastErrorAt": "2026-10-31T08:40:08.177Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.471Z"
+      "lastSuccess": "2026-10-31T08:40:08.173Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.441Z"
+      "lastSuccess": "2026-10-31T08:40:08.078Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.552Z"
+      "lastSuccess": "2026-10-31T08:40:08.185Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.433Z"
+      "lastSuccess": "2026-10-31T08:40:08.214Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.563Z"
+      "lastSuccess": "2026-10-31T08:40:08.318Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.810Z"
+      "lastSuccess": "2026-10-31T08:40:08.256Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T08:35:06.517Z"
+      "lastErrorAt": "2026-10-31T08:40:08.259Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.516Z"
+      "lastSuccess": "2026-10-31T08:40:08.300Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.600Z"
+      "lastSuccess": "2026-10-31T08:40:08.280Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.611Z"
+      "lastSuccess": "2026-10-31T08:40:08.372Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T08:35:06.617Z"
+      "lastSuccess": "2026-10-31T08:40:08.337Z"
     }
   },
   "items": [
@@ -108,6 +108,19 @@
       "publishedAt": "2026-10-31T08:31:21.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5cca8f8ab2849d1c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Chelsea vs Manchester United: LIVE – Premier League",
+      "snippet": "Follow updates with build-up and team news coverage from our live text commentary stream, as Bruno Fernandes headlines.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/31/chelsea-vs-manchester-united-live-premier-league?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T08:30:54.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2680,19 +2693,6 @@
       "link": "https://thehill.com/homenews/administration/6184682-trump-daylight-saving-clocks-fallback/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/DaylightSavingsWinnersLosers_Wilson_AP_DavidZalubowski.jpg?w=900",
       "publishedAt": "2026-10-30T22:43:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e92613b2df242674",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Inside a Ukrainian city hit by Russian drones during the Starlink disruption",
-      "snippet": "In Ukraine, President Zelenskyy made the clearest indication yet that a disruption of Starlink technology contributed to civilian deaths. Elon Musk admitted last week to ordering the slowdown of the service. The intentional hindrance of Ukr",
-      "link": "https://www.pbs.org/newshour/show/inside-a-ukrainian-city-hit-by-russian-drones-during-the-starlink-disruption",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T22:40:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
