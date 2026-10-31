@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-31T14:10:08.915Z",
+  "updatedAt": "2026-10-31T14:15:08.630Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.045Z"
+      "lastSuccess": "2026-10-31T14:15:09.017Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.110Z"
+      "lastSuccess": "2026-10-31T14:15:08.897Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.113Z"
+      "lastSuccess": "2026-10-31T14:15:09.161Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.148Z"
+      "lastSuccess": "2026-10-31T14:15:08.819Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.055Z"
+      "lastSuccess": "2026-10-31T14:15:08.794Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.185Z"
+      "lastSuccess": "2026-10-31T14:15:09.294Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.210Z"
+      "lastSuccess": "2026-10-31T14:15:09.059Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.228Z"
+      "lastSuccess": "2026-10-31T14:15:09.156Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.259Z"
+      "lastSuccess": "2026-10-31T14:15:09.282Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.261Z"
+      "lastSuccess": "2026-10-31T14:15:09.274Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.255Z"
+      "lastSuccess": "2026-10-31T14:15:09.310Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T14:10:09.265Z"
+      "lastErrorAt": "2026-10-31T14:15:09.269Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.291Z"
+      "lastSuccess": "2026-10-31T14:15:09.250Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.270Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-31T14:15:09.175Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.296Z"
+      "lastSuccess": "2026-10-31T14:15:09.322Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.252Z"
+      "lastSuccess": "2026-10-31T14:15:09.134Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.337Z"
+      "lastSuccess": "2026-10-31T14:15:09.351Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.411Z"
+      "lastSuccess": "2026-10-31T14:15:09.519Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T14:10:09.332Z"
+      "lastErrorAt": "2026-10-31T14:15:09.353Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.134Z"
+      "lastSuccess": "2026-10-31T14:15:08.970Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.168Z"
+      "lastSuccess": "2026-10-31T14:15:08.938Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.433Z"
+      "lastSuccess": "2026-10-31T14:15:11.470Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T14:10:09.360Z"
+      "lastSuccess": "2026-10-31T14:15:09.424Z"
     }
   },
   "items": [
@@ -119,6 +120,32 @@
       "link": "https://thehill.com/homenews/campaign/6186054-ricketts-osborn-nebraska-senate/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26279036374702-e1793454658886.jpg?w=900",
       "publishedAt": "2026-10-31T14:03:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bb801998d6f33a09",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Liam Neeson, 74, says he doesn't need a gym to stay ready for action scenes",
+      "snippet": "Liam Neeson reveals he skips the gym entirely at 74, relying on daily walks and a year-round fitness approach to keep doing his own action scenes.",
+      "link": "https://www.foxnews.com/entertainment/liam-neeson-74-says-doesnt-need-gym-stay-ready-action-scenes",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T14:00:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_81219591d0b71e4e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ancient 'rusty treasure' emerges from river with enough iron to forge 500 swords",
+      "snippet": "Over 500 iron bars pulled from the Danube River in Austria may point to a shipwreck that sank a massive Iron Age cargo over 2,000 years ago, researchers say.",
+      "link": "https://www.foxnews.com/travel/ancient-rusty-treasure-emerges-river-enough-iron-forge-500-swords",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T14:00:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -653,6 +680,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T12:13:42.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a9611351f7a88819",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iranian leader threatens response to potential attack as fears of war mount, and other Mideast news - AP News",
+      "snippet": "Iranian leader threatens response to potential attack as fears of war mount, and other Mideast news  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T12:09:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2656,45 +2696,6 @@
       "publishedAt": "2026-10-31T08:30:54.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a9577ad02f9b96b9",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea",
-      "snippet": "Conflict devastates Black Sea marine life, killing more than 120,000 dolphins and causing ecological damage.",
-      "link": "https://www.aljazeera.com/news/2026/10/31/dead-dolphins-naval-mines-russia-ukraine-war-destroys-the-black-sea?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T08:27:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a53637d3192c3c4e",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "U.S. approves sale of 500 Patriot missiles to Ukraine",
-      "snippet": "Ukrainian President Volodymyr Zelenskyy urged his allies to speed up deliveries of the critical munition.",
-      "link": "https://www.cbsnews.com/news/ukraine-patriot-missiles-us-lockheed-martin-sale-zelenskyy/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T08:22:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_064f877500995f8e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Egypt fears escalation in Iran war would be more destructive, foreign minister says - Reuters",
-      "snippet": "Egypt fears escalation in Iran war would be more destructive, foreign minister says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUNZU3g2dW4xamJOV3lTQ251RzhyLXd4dHY5eTRvVFkwOXF6Vm4zUkxCdVEzaEE1R3BxQS16NlE2WlFQYlpsaUlxQkhNSHlTeGNzSmZGbXB1eFVGdUJkbExRZFUxcnJBZ0JXVklVaEpQdXExWWpyQ3FUSzg5alJFak9TSllUbUt4LWl6WHlMcWR3TU9kV3pXN3E1dUlyLUFnai1UdzhIY1RDdS1NWXQxQUU4X1FYalpRVUtWcWVBUGIwb0lNb3JrdENIVzYzdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T08:21:43.000Z",
-      "tier": "major",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
