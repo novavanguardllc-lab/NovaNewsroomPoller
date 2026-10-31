@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-31T15:25:06.114Z",
+  "updatedAt": "2026-10-31T15:30:12.547Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.350Z"
+      "lastSuccess": "2026-10-31T15:30:12.793Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.254Z"
+      "lastSuccess": "2026-10-31T15:30:12.889Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.472Z"
+      "lastSuccess": "2026-10-31T15:30:12.909Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.312Z"
+      "lastSuccess": "2026-10-31T15:30:12.927Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.273Z"
+      "lastSuccess": "2026-10-31T15:30:12.732Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.459Z"
+      "lastSuccess": "2026-10-31T15:30:13.172Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.358Z"
+      "lastSuccess": "2026-10-31T15:30:13.153Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.460Z"
+      "lastSuccess": "2026-10-31T15:30:13.253Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.516Z"
+      "lastSuccess": "2026-10-31T15:30:13.267Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.489Z"
+      "lastSuccess": "2026-10-31T15:30:13.294Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.461Z"
+      "lastSuccess": "2026-10-31T15:30:13.276Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T15:25:06.498Z"
+      "lastErrorAt": "2026-10-31T15:30:13.328Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.410Z"
+      "lastSuccess": "2026-10-31T15:30:13.126Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.670Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-31T15:30:13.070Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.816Z"
+      "lastSuccess": "2026-10-31T15:30:13.326Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.455Z"
+      "lastSuccess": "2026-10-31T15:30:13.053Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.491Z"
+      "lastSuccess": "2026-10-31T15:30:13.350Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.654Z"
+      "lastSuccess": "2026-10-31T15:30:13.626Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T15:25:06.492Z"
+      "lastErrorAt": "2026-10-31T15:30:13.351Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.610Z"
+      "lastSuccess": "2026-10-31T15:30:13.247Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.692Z"
+      "lastSuccess": "2026-10-31T15:30:12.715Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:08.784Z"
+      "lastSuccess": "2026-10-31T15:30:13.397Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T15:25:06.513Z"
+      "lastSuccess": "2026-10-31T15:30:13.378Z"
     }
   },
   "items": [
@@ -111,6 +112,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_140f1fccca216dc4",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+      "snippet": "Data from the Congolese Ministry of Health showed that the disease has killed 5,026 people out of 10,351 infected, at a nearly 50% lethality rate.",
+      "link": "https://www.pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T15:25:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4efd2687fd265dec",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -122,6 +136,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_3699e0d316a23d81",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Jets superstar Garrett Wilson off trade market despite interest from other teams: report",
+      "snippet": "The New York Jets will reportedly not be trading away superstar wide receiver Garrett Wilson at the trade deadline despite another slow start to the season.",
+      "link": "https://www.foxnews.com/outkick-sports/jets-superstar-garrett-wilson-off-trade-market-despite-interest-other-teams-report",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T15:20:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_74d4d5da5e2e4cf8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Identity thieves don’t need your password anymore. Here are 6 new account takeover threats",
+      "snippet": "Account takeover threats go beyond stolen passwords as criminals exploit session cookies, SIM swaps and MFA fatigue to bypass your login security.",
+      "link": "https://www.foxnews.com/tech/identity-thieves-dont-need-password-6-new-account-takeover-threats",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T15:19:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_69ed12f6d98fdf52",
@@ -2657,45 +2697,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_db90d29e6ca871f0",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Protesters gather at Poland's Top court",
-      "snippet": "Police in Poland have stepped up security around the country’s Constitutional Tribunal after dozens of protesters gathered on Friday to oppose the government’s suspension of its president, which they say was unlawful. Police say several peo",
-      "link": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court",
-      "imageUrl": "https://s.france24.com/media/display/7fc37982-d50c-11f1-990b-1beafce15fea/w:1024/p:16x9/EN-20261031-100702-100845-CS.jpg",
-      "publishedAt": "2026-10-31T09:31:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5f2912bd1f3d9377",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Russia's presence divides G20 ministers",
-      "snippet": "The G20 foreign ministers’ meeting in the US is wrapping up two days of talks without agreement on several key global security issues. On the sidelines, US Secretary of State Marco Rubio signed an Arctic cooperation deal with Japan and Sout",
-      "link": "https://www.france24.com/en/russia-s-presence-divides-g20-ministers",
-      "imageUrl": "https://s.france24.com/media/display/b0aed1cc-d50c-11f1-957a-695cb59fade5/w:1024/p:16x9/EN-20261031-100952-101118-CS.jpg",
-      "publishedAt": "2026-10-31T09:30:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa5e9ea070967fc0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ukraine - AP News",
-      "snippet": "Ukraine  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T09:28:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
