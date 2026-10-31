@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-10-31T20:45:08.682Z",
+  "updatedAt": "2026-10-31T20:50:08.011Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.131Z"
+      "lastSuccess": "2026-10-31T20:50:08.222Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.019Z"
+      "lastSuccess": "2026-10-31T20:50:08.099Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:08.848Z"
+      "lastSuccess": "2026-10-31T20:50:08.116Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.162Z"
+      "lastSuccess": "2026-10-31T20:50:08.191Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:08.874Z"
+      "lastSuccess": "2026-10-31T20:50:08.237Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.083Z"
+      "lastSuccess": "2026-10-31T20:50:08.284Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.074Z"
+      "lastSuccess": "2026-10-31T20:50:08.309Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.255Z"
+      "lastSuccess": "2026-10-31T20:50:08.265Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T20:45:09.238Z"
+      "lastErrorAt": "2026-10-31T20:50:08.321Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.140Z"
+      "lastSuccess": "2026-10-31T20:50:08.242Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.167Z"
+      "lastSuccess": "2026-10-31T20:50:08.240Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.214Z"
+      "lastSuccess": "2026-10-31T20:50:08.346Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.158Z"
+      "lastSuccess": "2026-10-31T20:50:08.358Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.176Z"
+      "lastSuccess": "2026-10-31T20:50:08.247Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.339Z"
+      "lastSuccess": "2026-10-31T20:50:08.387Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.457Z"
+      "lastSuccess": "2026-10-31T20:50:08.437Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.619Z"
+      "lastSuccess": "2026-10-31T20:50:08.510Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T20:45:09.459Z"
+      "lastErrorAt": "2026-10-31T20:50:08.360Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.524Z"
+      "lastSuccess": "2026-10-31T20:50:08.425Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.598Z"
+      "lastSuccess": "2026-10-31T20:50:08.485Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.543Z"
+      "lastSuccess": "2026-10-31T20:50:08.523Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:08.922Z"
+      "lastSuccess": "2026-10-31T20:50:08.166Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T20:45:09.383Z"
+      "lastSuccess": "2026-10-31T20:50:08.320Z"
     }
   },
   "items": [
+    {
+      "id": "story_cf66f7b4ce87850d",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Federal officials investigate fire at beleaguered police department in Mississippi",
+      "snippet": "The U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives and local agencies are investigating a fire at a beleaguered police department in Mississippi",
+      "link": "https://abcnews.com/US/wireStory/federal-officials-investigate-fire-beleaguered-police-department-mississippi-137739234",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T20:46:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_781e83177a08d1e6",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "USA Sports and NBC claim record WNBA Finals ratings, but the comparisons leave out important context",
+      "snippet": "WNBA Finals TV ratings claims face scrutiny as USA Sports combines streaming and TV numbers without clear breakdowns or independent verification.",
+      "link": "https://www.foxnews.com/outkick-sports/usa-sports-nbc-claim-record-wnba-finals-ratings-comparisons-leave-out-important-context",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T20:41:21.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_960f2683a32a3194",
       "source": "Fox News",
@@ -236,6 +262,19 @@
       "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-10-31T20:09:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ea5ffaf9c4b4394a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Susan Collins Is Always Keeping Score",
+      "snippet": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
+      "link": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T20:06:57.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_2c9113883a352e03",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "G20 foreign ministers in Atlanta meeting head to an ending without consensus on key issues - AP News",
-      "snippet": "G20 foreign ministers in Atlanta meeting head to an ending without consensus on key issues  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzNPdDBVU2FTV3NVXzdETklrdGtSQXZBVWFZVm1pNGYxRDY4aHR5QlUzbjBHWVljNnFHU0lUbzVOSWxWNE5TYUdIVXJzX2d3Q2IwYndMZzJqQUhSMGM2amlNVjdCTTdWZGp6cnJEMnk5LVV4NklLd2FZLXdiTEZmNlNLTTh3WWhPcldua0I3bVI4Nk9jUVE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T15:21:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_74c303bcd831fc74",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Meet the legendary comic book creator who redefined \"Batman\" as \"a mythic hero\"",
-      "snippet": "Comic book artist and writer Frank Miller redefined old heroes, transforming the world of comics into what it is today. Vlad Duthiers spoke with Miller about his creative process and his new memoir, \"Push the Wall.\"",
-      "link": "https://www.cbsnews.com/video/meet-the-legendary-comic-book-creator-who-redefined-batman-as-a-mythic-hero/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T15:20:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3699e0d316a23d81",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Jets superstar Garrett Wilson off trade market despite interest from other teams: report",
-      "snippet": "The New York Jets will reportedly not be trading away superstar wide receiver Garrett Wilson at the trade deadline despite another slow start to the season.",
-      "link": "https://www.foxnews.com/outkick-sports/jets-superstar-garrett-wilson-off-trade-market-despite-interest-other-teams-report",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T15:20:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
