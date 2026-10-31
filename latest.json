@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-31T11:20:09.039Z",
+  "updatedAt": "2026-10-31T11:25:05.768Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.136Z"
+      "lastSuccess": "2026-10-31T11:25:05.873Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.214Z"
+      "lastSuccess": "2026-10-31T11:25:05.947Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.258Z"
+      "lastSuccess": "2026-10-31T11:25:05.987Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.218Z"
+      "lastSuccess": "2026-10-31T11:25:05.966Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.158Z"
+      "lastSuccess": "2026-10-31T11:25:05.837Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.519Z"
+      "lastSuccess": "2026-10-31T11:25:05.985Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.316Z"
+      "lastSuccess": "2026-10-31T11:25:06.031Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.295Z"
+      "lastSuccess": "2026-10-31T11:25:05.990Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.347Z"
+      "lastSuccess": "2026-10-31T11:25:06.128Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.328Z"
+      "lastSuccess": "2026-10-31T11:25:06.122Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.331Z"
+      "lastSuccess": "2026-10-31T11:25:05.993Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T11:20:09.348Z"
+      "lastErrorAt": "2026-10-31T11:25:06.176Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.396Z"
+      "lastSuccess": "2026-10-31T11:25:06.116Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.299Z"
+      "lastSuccess": "2026-10-31T11:25:06.006Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.409Z"
+      "lastSuccess": "2026-10-31T11:25:06.165Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.382Z"
+      "lastSuccess": "2026-10-31T11:25:06.105Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.416Z"
+      "lastSuccess": "2026-10-31T11:25:06.233Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.497Z"
+      "lastSuccess": "2026-10-31T11:25:06.225Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T11:20:09.331Z"
+      "lastErrorAt": "2026-10-31T11:25:06.177Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.256Z"
+      "lastSuccess": "2026-10-31T11:25:06.273Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.238Z"
+      "lastSuccess": "2026-10-31T11:25:06.246Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.514Z"
+      "lastSuccess": "2026-10-31T11:25:06.257Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T11:20:09.558Z"
+      "lastSuccess": "2026-10-31T11:25:06.317Z"
     }
   },
   "items": [
+    {
+      "id": "story_1d8c4e1b50dd6d5a",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Germany news: Merkel calls for first female president",
+      "snippet": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to enter coalition talks. DW has more.",
+      "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T11:18:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_f2346af2c495eb9e",
       "source": "Wash Examiner",
@@ -445,6 +458,19 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T10:17:37.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_237f26d95a212bb4",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Police detain 3 protesters during overnight rally as Polish president backs suspended judge - AP News",
+      "snippet": "Police detain 3 protesters during overnight rally as Polish president backs suspended judge  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T10:17:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2670,32 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_aa037de76711f90d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China willing to import more German goods, Premier Li says - Reuters",
-      "snippet": "China willing to import more German goods, Premier Li says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2ZDVGVDQUhtbjF4cTk2bE4tRTloNnBzNW9yaXRFdnE3SklzNVBTSWpWc21vZTBTdGVhd0dQMml6LUxWTE8tYUV4TFYzMWJWTzc3Q2pqMkk2eUtuX2RScl9kMGlhUTNiVk5HcmQ1N2I0b3lhMDFEYUR5eVd1UGtYRFF2blZoNjduTXJVQUNhZllIWm0wRGpVc2FMUFh0Qkkyb3NHcw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T02:21:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc8f5a417ea9c5aa",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Judge orders Trump administration to stop threatening election officials",
-      "snippet": "A federal judge issued a sweeping order blocking the Trump administration from threatening or intimidating election officials amid pressure tactics used by the administration in the weeks leading up to next week’s midterm elections.",
-      "link": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T02:19:44.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
