@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-31T04:30:12.805Z",
+  "updatedAt": "2026-10-31T04:35:07.162Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.082Z"
+      "lastSuccess": "2026-10-31T04:35:07.245Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.145Z"
+      "lastSuccess": "2026-10-31T04:35:07.303Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.283Z"
+      "lastSuccess": "2026-10-31T04:35:07.461Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:12.984Z"
+      "lastSuccess": "2026-10-31T04:35:07.440Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:12.968Z"
+      "lastSuccess": "2026-10-31T04:35:07.387Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.292Z"
+      "lastSuccess": "2026-10-31T04:35:07.411Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.266Z"
+      "lastSuccess": "2026-10-31T04:35:07.482Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.163Z"
+      "lastSuccess": "2026-10-31T04:35:07.564Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.346Z"
+      "lastSuccess": "2026-10-31T04:35:07.590Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.547Z"
+      "lastSuccess": "2026-10-31T04:35:07.723Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.173Z"
+      "lastSuccess": "2026-10-31T04:35:07.601Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T04:30:13.352Z"
+      "lastErrorAt": "2026-10-31T04:35:07.598Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.622Z"
+      "lastSuccess": "2026-10-31T04:35:07.552Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.169Z"
+      "lastSuccess": "2026-10-31T04:35:07.447Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.330Z"
+      "lastSuccess": "2026-10-31T04:35:07.595Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.408Z"
+      "lastSuccess": "2026-10-31T04:35:07.535Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.562Z"
+      "lastSuccess": "2026-10-31T04:35:07.612Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.540Z"
+      "lastSuccess": "2026-10-31T04:35:07.781Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T04:30:13.662Z"
+      "lastErrorAt": "2026-10-31T04:35:07.571Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.583Z"
+      "lastSuccess": "2026-10-31T04:35:07.492Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.210Z"
+      "lastSuccess": "2026-10-31T04:35:07.370Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.711Z"
+      "lastSuccess": "2026-10-31T04:35:08.014Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T04:30:13.744Z"
+      "lastSuccess": "2026-10-31T04:35:07.647Z"
     }
   },
   "items": [
+    {
+      "id": "story_27b50d1672c82ea6",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Suited and booted: How Joseph Kabila went from president to rebel leader ",
+      "snippet": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T04:32:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ea7026f449ed84e7",
       "source": "DW",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-30T21:12:29.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7393452aa22e3ba9",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "As early voting surges, Trump reshuffles his schedule to add back rallies in Iowa and Kansas",
-      "snippet": "The Republican president will now visit Iowa and Kansas for back-to-back campaign rallies on Sunday. Both events had previously been canceled for a slew of telerallies.",
-      "link": "https://www.pbs.org/newshour/politics/as-early-voting-surges-trump-reshuffles-his-schedule-to-add-back-rallies-in-iowa-and-kansas",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T21:12:12.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
