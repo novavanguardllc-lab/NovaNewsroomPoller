@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-10-31T16:25:06.328Z",
+  "updatedAt": "2026-10-31T16:30:12.290Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.545Z"
+      "lastSuccess": "2026-10-31T16:30:12.490Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.636Z"
+      "lastSuccess": "2026-10-31T16:30:12.701Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.606Z"
+      "lastSuccess": "2026-10-31T16:30:12.626Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.568Z"
+      "lastSuccess": "2026-10-31T16:30:12.823Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.464Z"
+      "lastSuccess": "2026-10-31T16:30:12.506Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.487Z"
+      "lastSuccess": "2026-10-31T16:30:12.850Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.528Z"
+      "lastSuccess": "2026-10-31T16:30:12.924Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.445Z"
+      "lastSuccess": "2026-10-31T16:30:12.587Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.430Z"
+      "lastSuccess": "2026-10-31T16:30:12.807Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.495Z"
+      "lastSuccess": "2026-10-31T16:30:12.968Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.435Z"
+      "lastSuccess": "2026-10-31T16:30:12.802Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T16:25:06.431Z"
+      "lastErrorAt": "2026-10-31T16:30:12.886Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.622Z"
+      "lastSuccess": "2026-10-31T16:30:12.765Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.571Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-10-31T16:30:12.603Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:10.187Z"
+      "lastSuccess": "2026-10-31T16:30:12.885Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.604Z"
+      "lastSuccess": "2026-10-31T16:30:13.022Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.707Z"
+      "lastSuccess": "2026-10-31T16:30:13.063Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.682Z"
+      "lastSuccess": "2026-10-31T16:30:13.242Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T16:25:06.685Z"
+      "lastErrorAt": "2026-10-31T16:30:13.089Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.909Z"
+      "lastSuccess": "2026-10-31T16:30:12.544Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.855Z"
+      "lastSuccess": "2026-10-31T16:30:12.583Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.767Z"
+      "lastSuccess": "2026-10-31T16:30:13.163Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T16:25:06.787Z"
+      "lastSuccess": "2026-10-31T16:30:13.169Z"
     }
   },
   "items": [
@@ -119,6 +120,19 @@
       "link": "https://www.cbsnews.com/video/actress-selma-blair-addresses-midair-meltdown/",
       "imageUrl": null,
       "publishedAt": "2026-10-31T16:18:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1581f6cb400fb1cd",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+      "snippet": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information\nThere has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compare",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T16:13:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2681,19 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T10:15:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_05d571da074cd2b1",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Rubio to host meeting of Indo-Pacific Quad, wrap up G20 gathering - Reuters",
-      "snippet": "Rubio to host meeting of Indo-Pacific Quad, wrap up G20 gathering  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcjhmcnV5dnZWRFFnSkw0WUF5b3hld3Q2RmhYWjAzYVM4STJWUno1b1ZMMmpzMUZseDltNkgxZWdlbWdJQTVjZ2FoMVptRkZfdUlxcnZZMlpORXRoQTFCM1pBRjhrdU05Q1dQbU54WE5wejBhQnpmdjh4SF85RkVQMnViNTE4eWpyeU9FVF9feGpNTEpvQmpjbXhGSHZwMFlycmdTT1ZTQ0hWQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T10:12:36.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
