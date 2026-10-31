@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-10-31T03:30:12.225Z",
+  "updatedAt": "2026-10-31T03:35:06.252Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.494Z"
+      "lastSuccess": "2026-10-31T03:35:06.355Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.367Z"
+      "lastSuccess": "2026-10-31T03:35:06.366Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.703Z"
+      "lastSuccess": "2026-10-31T03:35:06.745Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.410Z"
+      "lastSuccess": "2026-10-31T03:35:06.726Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.589Z"
+      "lastSuccess": "2026-10-31T03:35:06.391Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.651Z"
+      "lastSuccess": "2026-10-31T03:35:06.381Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.712Z"
+      "lastSuccess": "2026-10-31T03:35:06.406Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.568Z"
+      "lastSuccess": "2026-10-31T03:35:06.329Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.665Z"
+      "lastSuccess": "2026-10-31T03:35:06.547Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:13.612Z"
+      "lastSuccess": "2026-10-31T03:35:06.423Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.784Z"
+      "lastSuccess": "2026-10-31T03:35:06.522Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.708Z"
+      "lastSuccess": "2026-10-31T03:35:06.397Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.789Z"
+      "lastSuccess": "2026-10-31T03:35:06.426Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-10-31T03:30:13.063Z"
+      "lastErrorAt": "2026-10-31T03:35:06.465Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:13.048Z"
+      "lastSuccess": "2026-10-31T03:35:06.472Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.724Z"
+      "lastSuccess": "2026-10-31T03:35:06.419Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-10-31T03:30:12.902Z"
+      "lastErrorAt": "2026-10-31T03:35:06.427Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.891Z"
+      "lastSuccess": "2026-10-31T03:35:06.461Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.811Z"
+      "lastSuccess": "2026-10-31T03:35:06.412Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:13.128Z"
+      "lastSuccess": "2026-10-31T03:35:06.572Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:13.035Z"
+      "lastSuccess": "2026-10-31T03:35:06.511Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:13.149Z"
+      "lastSuccess": "2026-10-31T03:35:06.881Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-10-31T03:30:12.846Z"
+      "lastSuccess": "2026-10-31T03:35:06.435Z"
     }
   },
   "items": [
+    {
+      "id": "story_9c02e205de5d7d01",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  Suspected sailboat thief killed in Rhode Island police shootout",
+      "snippet": "Body camera footage shows the dramatic police shootout that left a suspected sailboat thief dead in Newport, Rhode Island. The 40-foot boat was stolen back in August.",
+      "link": "https://abcnews.com/video/137724767/",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T03:29:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_267c63846b98f14c",
       "source": "ABC News",
@@ -2680,19 +2693,6 @@
       "link": "https://www.nbcnews.com/select/shopping/dandruff-shampoos-for-acne-rcna606608",
       "imageUrl": null,
       "publishedAt": "2026-10-30T20:45:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_deed17ee673fc7da",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "G20 foreign ministers scrap ‘family photo’ as Lavrov crashes party",
-      "snippet": "The U.S. hosts of the Group of 20 (G20) Foreign Ministers’ Meeting opted to skip the traditional “family photo” Friday after several top diplomats objected to being photographed with a Russian official.  Russian Foreign Minister Sergey Lavr",
-      "link": "https://thehill.com/policy/international/6185283-g20-foreign-ministers-skip-russia-photo/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26303587639115-e1793392901985.jpg?w=900",
-      "publishedAt": "2026-10-30T20:45:07.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
