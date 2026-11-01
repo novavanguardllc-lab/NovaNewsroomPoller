@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-01T07:30:12.289Z",
+  "updatedAt": "2026-11-01T07:35:05.448Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.547Z"
+      "lastSuccess": "2026-11-01T07:35:05.606Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.592Z"
+      "lastSuccess": "2026-11-01T07:35:05.567Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.495Z"
+      "lastSuccess": "2026-11-01T07:35:05.613Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.428Z"
+      "lastSuccess": "2026-11-01T07:35:05.779Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.453Z"
+      "lastSuccess": "2026-11-01T07:35:05.634Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.555Z"
+      "lastSuccess": "2026-11-01T07:35:05.664Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.679Z"
+      "lastSuccess": "2026-11-01T07:35:05.777Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.898Z"
+      "lastSuccess": "2026-11-01T07:35:05.796Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T07:30:12.967Z"
+      "lastErrorAt": "2026-11-01T07:35:05.811Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.932Z"
+      "lastSuccess": "2026-11-01T07:35:05.791Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.892Z"
+      "lastSuccess": "2026-11-01T07:35:05.814Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.732Z"
+      "lastSuccess": "2026-11-01T07:35:05.766Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.853Z"
+      "lastSuccess": "2026-11-01T07:35:05.810Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.888Z"
+      "lastSuccess": "2026-11-01T07:35:05.831Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.815Z"
+      "lastSuccess": "2026-11-01T07:35:05.731Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.989Z"
+      "lastSuccess": "2026-11-01T07:35:05.840Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:13.015Z"
+      "lastSuccess": "2026-11-01T07:35:05.908Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T07:30:12.990Z"
+      "lastErrorAt": "2026-11-01T07:35:05.807Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:13.118Z"
+      "lastSuccess": "2026-11-01T07:35:05.988Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:13.056Z"
+      "lastSuccess": "2026-11-01T07:35:05.867Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.629Z"
+      "lastSuccess": "2026-11-01T07:35:05.849Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.612Z"
+      "lastSuccess": "2026-11-01T07:35:05.894Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:30:12.966Z"
+      "lastSuccess": "2026-11-01T07:35:05.805Z"
     }
   },
   "items": [
+    {
+      "id": "story_bb88447e37c49aee",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
+      "snippet": "The TV personality went viral in 2022 when she arrived at a party encased in a slithering worm costume.",
+      "link": "https://www.cbsnews.com/news/heidi-klum-halloween-2026-costume-hand/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:28:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_fa5e9ea070967fc0",
       "source": "AP",
@@ -2683,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_f9209ab7a3890fd4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Pete Hegseth’s father says el Sayed has ‘little man syndrome’",
-      "snippet": "War Secretary Pete Hegseth’s father weighed in on the Michigan Senate race on Friday by going after Democratic nominee Abdul el Sayed. While speaking on comedian Hasan Minhaj’s podcast earlier in the week, el Sayed discussed a topic that’s ",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4787174/pete-hegseth-father-el-sayed-little-man-syndrome/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T22:04:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
