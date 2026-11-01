@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-11-01T14:40:08.591Z",
+  "updatedAt": "2026-11-01T14:45:08.175Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.840Z"
+      "lastSuccess": "2026-11-01T14:45:08.536Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.883Z"
+      "lastSuccess": "2026-11-01T14:45:08.576Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.668Z"
+      "lastSuccess": "2026-11-01T14:45:08.298Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.708Z"
+      "lastSuccess": "2026-11-01T14:45:08.594Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.728Z"
+      "lastSuccess": "2026-11-01T14:45:08.372Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.696Z"
+      "lastSuccess": "2026-11-01T14:45:08.400Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.816Z"
+      "lastSuccess": "2026-11-01T14:45:08.767Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.921Z"
+      "lastSuccess": "2026-11-01T14:45:08.754Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.869Z"
+      "lastSuccess": "2026-11-01T14:45:08.483Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.900Z"
+      "lastSuccess": "2026-11-01T14:45:08.613Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.940Z"
+      "lastSuccess": "2026-11-01T14:45:08.681Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.747Z"
+      "lastSuccess": "2026-11-01T14:45:08.653Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.930Z"
+      "lastSuccess": "2026-11-01T14:45:08.684Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.897Z"
+      "lastSuccess": "2026-11-01T14:45:08.677Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T14:40:08.937Z"
+      "lastErrorAt": "2026-11-01T14:45:08.678Z"
     },
     "Wash Examiner": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-11-01T14:40:18.615Z"
+      "online": true,
+      "lastSuccess": "2026-11-01T14:45:08.812Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:09.033Z"
+      "lastSuccess": "2026-11-01T14:45:08.663Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:08.936Z"
+      "lastSuccess": "2026-11-01T14:45:08.877Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T14:40:08.930Z"
+      "lastErrorAt": "2026-11-01T14:45:08.877Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:09.115Z"
+      "lastSuccess": "2026-11-01T14:45:08.986Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:09.188Z"
+      "lastSuccess": "2026-11-01T14:45:08.856Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:09.000Z"
+      "lastSuccess": "2026-11-01T14:45:11.826Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T14:40:09.050Z"
+      "lastSuccess": "2026-11-01T14:45:09.014Z"
     }
   },
   "items": [
+    {
+      "id": "story_eed91e44d81b5d07",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Judge permanently tosses Trump suit against Wall Street Journal over Epstein letter",
+      "snippet": "Obama-appointed U.S. District Judge Darrin P. Gayles dismissed President Donald Trump’s lawsuit against the Wall Street Journal over the outlet’s reporting on a birthday letter Trump allegedly sent Jeffrey Epstein. Gayles issued the order g",
+      "link": "https://www.washingtonexaminer.com/news/white-house/4787237/judge-trump-lawsuit-wall-street-journal-epstein-letter/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T14:39:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b6dff73e9d04c24f",
       "source": "CBS News",
@@ -120,6 +132,19 @@
       "link": "https://www.cbsnews.com/video/texas-senate-race-james-talarico-ken-paxton/",
       "imageUrl": null,
       "publishedAt": "2026-11-01T14:36:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_55a7a0a75ac1cea7",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Green party must avoid being taken over by hard left, says former leader",
+      "snippet": "Adrian Ramsay says some new members would be ‘more at home’ in Your Party or Socialist Workers party\nThe former Green party leader Adrian Ramsay has said the party must fix its internal democracy to avoid a takeover by the hard left, saying",
+      "link": "https://www.theguardian.com/politics/2026/nov/01/green-party-must-avoid-hard-left-takeover-says-former-leader-adrian-ramsay",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T14:35:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -240,6 +265,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_60a210b53ea78bfb",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "AP Top Stories November 1 - AP News",
+      "snippet": "AP Top Stories November 1  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDRKZ3YxRWlUMGxDWjZxQmdPYy1WeEpqVUVWUTJIVmpsSUgwQkhnSnlORTJRNEx4ZHNTRXZoLTh4RkhzLXNqU3B2UUFKQ2huc2ZRa2doTzFNcElGV08tMXc1eTZLdWNpbGVlcTJyYXljdEFpb3dNVnR4RkF6dzRmc1NoMVdOdDVfMklr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T14:11:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_4f74f56acb7bdd4d",
@@ -485,6 +523,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T13:54:36.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fe812f370982aad6",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Qatar surges, bucking Gulf market slide on Iran war concerns - Reuters",
+      "snippet": "Qatar surges, bucking Gulf market slide on Iran war concerns  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3lNbXVYLVNtdGZwSDFpT0ZvTHVaWmp3bi1abjBPelhQbDQ4bmNST1VyRGktWHRJXy1yTnhMMGREWUVPdjRJS3BxXzJYOGVGSkZvdk5YYTJpbU5JM215MUxWTE12R01nTldxbnpETXliMExhV3g5eHB2dFdEb1dYd3ZnTkNULTdoWXk0Y2dHOWNPTVJ4MldXUU5xMkxNeU8yQnhiVlRma1RBN2NUbElR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T13:53:09.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2643,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T10:00:04.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_550b5d661d97b15b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "A look inside the Somali mall where Omar reappeared after DC raid raises more failed assimilation concerns",
-      "snippet": "Karmel Mall owner Basim Sabri gave a tour of the massive Somali mall in Minneapolis, raising questions about cultural assimilation in America.",
-      "link": "https://www.foxnews.com/politics/look-inside-somali-mall-omar-reappeared-dc-raid-raises-failed-assimilation-concerns",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:00:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ec9c49d43fc2aa1",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Democrats plan to use majorities to force GOP to take tough votes on Trump tariffs",
-      "snippet": "Democrats are poised to combat President Donald Trump’s tariffs if they win congressional majorities in the midterm elections. While they are unlikely able to get Trump to sign bills undoing his own agenda, they could force Republicans to t",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4785199/democrats-majorities-force-gop-votes-trump-tariffs/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d5468f90ddbfe51d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Government unions set to grab more power in blue states",
-      "snippet": "Government unions already wield enormous power in blue states, where they help elect the Democrats who negotiate their contracts and approve their budgets. After Tuesday’s elections, they could wield even more. Ballot measures in Maryland, ",
-      "link": "https://www.washingtonexaminer.com/opinion/editorials/4785661/government-unions-set-grab-power-blue-states/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4b0b4d11329d0be1",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "No. 2 Ohio St set to take fall in AP Top 25 after losing at USC, bottom of rankings due for shakeup - AP News",
-      "snippet": "No. 2 Ohio St set to take fall in AP Top 25 after losing at USC, bottom of rankings due for shakeup  AP News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UZjgxQ05mNWE2aEpubW0zVE5oZnlkLXV0SjBab05UUGZHc3dMcHlvNzlGV0ZpNnJhLURJZ3FQZTB3aDRud1NBUndCVlpCM2VXSk9wTFNxTlVmMTRvSjhienVta2d1UXg3UXl1d2JTOHp5a01rSk9UNQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:00:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
