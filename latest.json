@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-01T12:45:09.385Z",
+  "updatedAt": "2026-11-01T12:50:08.314Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.665Z"
+      "lastSuccess": "2026-11-01T12:50:08.403Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.740Z"
+      "lastSuccess": "2026-11-01T12:50:08.446Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.548Z"
+      "lastSuccess": "2026-11-01T12:50:08.483Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.758Z"
+      "lastSuccess": "2026-11-01T12:50:08.640Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.580Z"
+      "lastSuccess": "2026-11-01T12:50:08.584Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.885Z"
+      "lastSuccess": "2026-11-01T12:50:08.606Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.807Z"
+      "lastSuccess": "2026-11-01T12:50:08.565Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.923Z"
+      "lastSuccess": "2026-11-01T12:50:08.755Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.040Z"
+      "lastSuccess": "2026-11-01T12:50:08.667Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.926Z"
+      "lastSuccess": "2026-11-01T12:50:08.681Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.947Z"
+      "lastSuccess": "2026-11-01T12:50:08.710Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.840Z"
+      "lastSuccess": "2026-11-01T12:50:08.701Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.821Z"
+      "lastSuccess": "2026-11-01T12:50:08.719Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:09.940Z"
+      "lastSuccess": "2026-11-01T12:50:08.684Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T12:45:09.936Z"
+      "lastErrorAt": "2026-11-01T12:50:08.710Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.261Z"
+      "lastSuccess": "2026-11-01T12:50:08.696Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.067Z"
+      "lastSuccess": "2026-11-01T12:50:08.770Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.301Z"
+      "lastSuccess": "2026-11-01T12:50:08.716Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T12:45:10.303Z"
+      "lastErrorAt": "2026-11-01T12:50:08.697Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.191Z"
+      "lastSuccess": "2026-11-01T12:50:08.928Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.211Z"
+      "lastSuccess": "2026-11-01T12:50:08.627Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.563Z"
+      "lastSuccess": "2026-11-01T12:50:08.742Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T12:45:10.401Z"
+      "lastSuccess": "2026-11-01T12:50:08.728Z"
     }
   },
   "items": [
+    {
+      "id": "story_1da5e24db4cea93c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’",
+      "snippet": "MotoGP says Yamaha's non-participation at the November 6–8 event in Lusail 'carries sporting implications'.",
+      "link": "https://www.aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T12:32:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_728cf33da2f9a94a",
       "source": "DW",
@@ -2680,19 +2693,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
       "imageUrl": null,
       "publishedAt": "2026-11-01T06:20:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8411e2c9494dcd45",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
-      "snippet": "President Rodrigo Paz warned of severe droughts and flooding as El Nino intensifies, with at least 78,000 families already affected by drought.",
-      "link": "https://www.dw.com/en/bolivia-declares-emergency-as-el-nino-intensifies-threatens-severe-weather/a-79820253?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T06:19:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
