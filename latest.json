@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-01T21:35:06.016Z",
+  "updatedAt": "2026-11-01T21:40:08.432Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.130Z"
+      "lastSuccess": "2026-11-01T21:40:08.581Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.467Z"
+      "lastSuccess": "2026-11-01T21:40:08.612Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.176Z"
+      "lastSuccess": "2026-11-01T21:40:08.478Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.075Z"
+      "lastSuccess": "2026-11-01T21:40:08.583Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.172Z"
+      "lastSuccess": "2026-11-01T21:40:08.640Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.192Z"
+      "lastSuccess": "2026-11-01T21:40:08.720Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.155Z"
+      "lastSuccess": "2026-11-01T21:40:08.636Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.302Z"
+      "lastSuccess": "2026-11-01T21:40:08.749Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.261Z"
+      "lastSuccess": "2026-11-01T21:40:08.713Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.271Z"
+      "lastSuccess": "2026-11-01T21:40:08.735Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.291Z"
+      "lastSuccess": "2026-11-01T21:40:08.738Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.197Z"
+      "lastSuccess": "2026-11-01T21:40:08.725Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.276Z"
+      "lastSuccess": "2026-11-01T21:40:08.860Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.283Z"
+      "lastSuccess": "2026-11-01T21:40:08.731Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T21:35:06.303Z"
+      "lastErrorAt": "2026-11-01T21:40:08.792Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.312Z"
+      "lastSuccess": "2026-11-01T21:40:08.758Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.409Z"
+      "lastSuccess": "2026-11-01T21:40:08.534Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.332Z"
+      "lastSuccess": "2026-11-01T21:40:08.791Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T21:35:06.320Z"
+      "lastErrorAt": "2026-11-01T21:40:08.992Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.694Z"
+      "lastSuccess": "2026-11-01T21:40:08.856Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.479Z"
+      "lastSuccess": "2026-11-01T21:40:08.880Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.709Z"
+      "lastSuccess": "2026-11-01T21:40:08.979Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T21:35:06.379Z"
+      "lastSuccess": "2026-11-01T21:40:08.909Z"
     }
   },
   "items": [
+    {
+      "id": "story_5db1a76494e3728b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "9 Dead in Small Plane Crash in Palm Beach County, Fla., Officials Say",
+      "snippet": "Photos and video posted online showed the plane plunging to the ground and exploding. What led up to the crash was not immediately known.",
+      "link": "https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T21:30:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_052627e7b914a967",
       "source": "Al Jazeera",
@@ -471,6 +484,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T20:26:38.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_837214324c4eb10d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "El Sayed's left-wing allies attack 'evil' Stevens after bombshell Rogers endorsement",
+      "snippet": "Hasan Piker, Mehdi Hasan and others attacked Haley Stevens on X after she surprisingly endorsed Republican Mike Rogers in the heated Michigan Senate race.",
+      "link": "https://www.foxnews.com/media/el-sayeds-left-wing-allies-attack-evil-stevens-after-bombshell-rogers-endorsement",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T20:25:28.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-01T16:17:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_70dfebaa9cbe66dc",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Five teenagers hurt in stabbing at Halloween party in Hampshire",
-      "snippet": "Police searching for ‘unknown group’ that gained entry to property in Chandler’s Ford on Saturday night \nFive teenage boys have been seriously hurt after being stabbed at a Halloween party in Hampshire, leading police to launch a search for",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/01/teenagers-stabbing-halloween-party-hampshire",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T16:14:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0b5d86390e2e1d0b",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "‘Please help us’: Savannah Guthrie issues new plea for help in mother’s kidnapping",
-      "snippet": "Heartbroken “TODAY” co-host Savannah Guthrie on Sunday renewed her plea for information about the kidnapping of her 84-year-old mother, Nancy Guthrie, from her Tucson, Ariz.",
-      "link": "https://www.nbcnews.com/news/us-news/savannah-guthrie-issues-new-plea-mothers-kidnapping-rcna606816",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T16:14:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
