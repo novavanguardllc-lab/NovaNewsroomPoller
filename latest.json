@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-01T11:20:08.984Z",
+  "updatedAt": "2026-11-01T11:25:06.140Z",
   "sourceStatus": {
-    "Guardian": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.162Z"
-    },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.114Z"
+      "lastSuccess": "2026-11-01T11:25:06.244Z"
+    },
+    "Guardian": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.283Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.218Z"
+      "lastSuccess": "2026-11-01T11:25:06.298Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.204Z"
+      "lastSuccess": "2026-11-01T11:25:06.305Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.200Z"
+      "lastSuccess": "2026-11-01T11:25:06.331Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.178Z"
+      "lastSuccess": "2026-11-01T11:25:06.376Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.249Z"
+      "lastSuccess": "2026-11-01T11:25:06.437Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.467Z"
+    },
+    "ProPublica": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.501Z"
+    },
+    "Sky News": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.504Z"
+    },
+    "NYT": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.518Z"
+    },
+    "France24": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.521Z"
+    },
+    "CBS News": {
+      "online": true,
+      "lastSuccess": "2026-11-01T11:25:06.524Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.346Z"
+      "lastSuccess": "2026-11-01T11:25:06.545Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T11:20:09.395Z"
+      "lastErrorAt": "2026-11-01T11:25:06.546Z"
     },
-    "Sky News": {
+    "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.350Z"
+      "lastSuccess": "2026-11-01T11:25:06.562Z"
     },
-    "CBS News": {
+    "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.279Z"
-    },
-    "DW": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.265Z"
-    },
-    "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.223Z"
-    },
-    "NYT": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.375Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.337Z"
+      "lastSuccess": "2026-11-01T11:25:06.573Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.364Z"
-    },
-    "NBC News": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.464Z"
+      "lastSuccess": "2026-11-01T11:25:06.591Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T11:20:09.356Z"
+      "lastErrorAt": "2026-11-01T11:25:06.599Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.518Z"
-    },
-    "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-11-01T11:20:11.427Z"
+      "lastSuccess": "2026-11-01T11:25:06.641Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.536Z"
+      "lastSuccess": "2026-11-01T11:25:06.650Z"
     },
-    "Reuters": {
+    "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:09.427Z"
+      "lastSuccess": "2026-11-01T11:25:06.684Z"
     },
-    "Wash Examiner": {
+    "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T11:20:11.010Z"
+      "lastSuccess": "2026-11-01T11:25:06.729Z"
     }
   },
   "items": [
+    {
+      "id": "story_b690e69eaebe3159",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Portugal police storm housing protest camps in Lisbon, Porto",
+      "snippet": "Clashes broke out as officers again dispersed housing protesters from tent camps in Lisbon and Porto. Portuguese police have repeatedly cleared tent camps erected across both cities in recent weeks.",
+      "link": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T11:20:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_85dc4556f38fc705",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Midterm elections live updates: Trump feeling 'very good' ahead of midterms",
+      "snippet": "President Donald Trump is scheduled to visit Iowa and Kansas on Sunday.",
+      "link": "https://abcnews.com/Politics/live-updates/midterm-elections-2026-1-week-high-stakes-elections/?id=137578278",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T11:16:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9178b16b4cc482e7",
       "source": "France24",
@@ -133,6 +159,45 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T11:10:58.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_56b9abfbdcca8e82",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "AI and Legal Ethics - Reuters",
+      "snippet": "AI and Legal Ethics  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGplSnpobUpvREgzUWZwRlBXR0RES0FBbWhFbWxDcmpKbDEtc1ZOTVVzQTNRZkt4ek9GOFlsUGxlbDBKQnJuYl9wT2ZtSXN4empaaEhNQzl4QlFMYS1XaGZTZlEyOWh3VUZROXkxR2pGdEdkTGpUZVBTVU5rUEpDSU1GeHBQaHFnZ1d5Vkp1SkZMYURobFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T11:03:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b6061f0de5041f93",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "GC Agenda: November 2026 - Reuters",
+      "snippet": "GC Agenda: November 2026  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2g0N21waEtTVjl5RXhJNl9qdlRWdU1xR0RPZnp6aTFSV0V4WHF4Z0tFUzZzTkFZS282ek9heGlFUWt5cFQyRFRyOXRZQlNkNVpmR0g2NEVhRTNXNmw5cW44NmVHanpHWFRURVdVLV9tQTFvX010VjBDYTFMQUxlUU9WWkxEOTZ5Z3IwV3VscnE0SWxkVXYyNHN1NUlJeFlu?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T11:03:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de77300dcc63145a",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "snippet": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T11:03:36.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -293,6 +358,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_eed06119b58ba055",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
+      "snippet": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’\nThe Guardian has done extensive reporting on Britain’s centuries-long trafficking of enslaved African people, a po",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:53:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b84f4351503d2ac8",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -327,9 +405,9 @@
       "link": "https://www.aljazeera.com/gallery/2026/11/1/photos-youth-led-rallies-sweep-germany?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-01T10:41:13.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_b32a6d716192b087",
@@ -462,6 +540,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_15295ab89b5a0fc1",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+      "snippet": "Thousands are expected to take part in the Indian opposition's planned mega march in New Delhi over a controversial revision of electoral rolls. DW has more.",
+      "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:26:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_39152bcda6af0c8e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Joe Biden - AP News",
+      "snippet": "Joe Biden  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwUThXYXJHUzBGd0cwbFV6UkZPNWVkOHBwRzRTOFdsTkRBNU5ZbEE2TnE2WUZHX3Rid1I2RjdBNnlDN1VTZmc4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:22:21.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9947d9715741a019",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -497,6 +601,32 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T10:15:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dcd06f0c7e9b94fd",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump says U.S. still has to \"take care\" of more targets in Iran",
+      "snippet": "After Iran's Supreme Leader warned against restarting the war, President Trump suggested there are still targets to \"take care of.\"",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:13:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_10349e9b4ef62a67",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Men’s college basketball - AP News",
+      "snippet": "Men’s college basketball  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNkNoaUZuSmkyb0o3VmM1UGJQbkRxS21KTmR3VWJnekJEUUpDWnk0VXQ1ZDVfY0VHYkdlZWl0UnJaRm5lNE1naG54TGVpTHZ0ejlWaXhqVWpmUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:11:30.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -657,12 +787,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_eca8d5a6576aa5c8",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Daylight saving time ended today. Here's what to know.",
-      "snippet": "Millions of Americans gained an hour of sleep this weekend when the time change commonly known as daylight saving ended for 2026, meaning clocks \"fell back.\"",
-      "link": "https://www.cbsnews.com/news/daylight-saving-time-ends-2026/",
+      "id": "story_7be53fef8a24903d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "American Culture Quiz: Test yourself country cooking and park preservation",
+      "snippet": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of country cooking, park preservation and a lot more.",
+      "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-country-cooking-park-preservation",
       "imageUrl": null,
       "publishedAt": "2026-11-01T10:00:20.000Z",
       "tier": "routine",
@@ -670,12 +800,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_7be53fef8a24903d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "American Culture Quiz: Test yourself country cooking and park preservation",
-      "snippet": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of country cooking, park preservation and a lot more.",
-      "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-country-cooking-park-preservation",
+      "id": "story_eca8d5a6576aa5c8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Daylight saving time ended today. Here's what to know.",
+      "snippet": "Millions of Americans gained an hour of sleep this weekend when the time change commonly known as daylight saving ended for 2026, meaning clocks \"fell back.\"",
+      "link": "https://www.cbsnews.com/news/daylight-saving-time-ends-2026/",
       "imageUrl": null,
       "publishedAt": "2026-11-01T10:00:20.000Z",
       "tier": "routine",
@@ -748,19 +878,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d5468f90ddbfe51d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Government unions set to grab more power in blue states",
-      "snippet": "Government unions already wield enormous power in blue states, where they help elect the Democrats who negotiate their contracts and approve their budgets. After Tuesday’s elections, they could wield even more. Ballot measures in Maryland, ",
-      "link": "https://www.washingtonexaminer.com/opinion/editorials/4785661/government-unions-set-grab-power-blue-states/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_0ec9c49d43fc2aa1",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -774,6 +891,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d5468f90ddbfe51d",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Government unions set to grab more power in blue states",
+      "snippet": "Government unions already wield enormous power in blue states, where they help elect the Democrats who negotiate their contracts and approve their budgets. After Tuesday’s elections, they could wield even more. Ballot measures in Maryland, ",
+      "link": "https://www.washingtonexaminer.com/opinion/editorials/4785661/government-unions-set-grab-power-blue-states/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5668c7ec7d5fa31c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College football | Latest News & Updates - AP News",
+      "snippet": "College football | Latest News & Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:58:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_15d5cbdb3d225b17",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -783,6 +926,45 @@
       "imageUrl": "https://s.france24.com/media/display/75a22272-d5da-11f1-80a7-1beafce15fea/w:1024/p:16x9/EN-20261101-101101-101232-CS.jpg",
       "publishedAt": "2026-11-01T09:58:13.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7af52f266eee7f62",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+      "snippet": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’\nThe former chancellor Rachel Reeves has argued Britain’s future should be back in the European Union, saying Brexit has made the UK “poorer, wea",
+      "link": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:55:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_16304d8522abe94a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran war - AP News",
+      "snippet": "Iran war  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:54:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8d3613ff7b3bae07",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
+      "snippet": "Middle East News | Latest News From The Middle East Today  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:50:49.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -813,6 +995,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_bf7af1948bf3782a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "2026 General Election Results: Senate, House and Governor Races - AP News",
+      "snippet": "2026 General Election Results: Senate, House and Governor Races  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:46:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_5a259cc035057a96",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -834,6 +1029,19 @@
       "link": "https://www.france24.com/en/video/20261101-the-world-celebrates-halloween-traditions-costumes-and-pumpkins",
       "imageUrl": "https://s.france24.com/media/display/c77de66c-d5d5-11f1-a352-1beafce15fea/w:1024/p:16x9/EN-20261101-092411-092555-CS.jpg",
       "publishedAt": "2026-11-01T09:43:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_edc679757d8d6578",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+      "snippet": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed a hit on a Russian rocket fuel plant. DW has more.",
+      "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:43:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -899,9 +1107,9 @@
       "link": "https://www.france24.com/en/youth-led-rallies-sweep-europe",
       "imageUrl": "https://s.france24.com/media/display/7b7566f6-d5d4-11f1-94ac-bf1914cabd52/w:1024/p:16x9/EN-20261101-090621-090756-CS.jpg",
       "publishedAt": "2026-11-01T09:38:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_e60e2a8ee00386dc",
@@ -943,6 +1151,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_641fcec3e146e5fc",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "snippet": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:28:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9acee05d5e4351ab",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -956,16 +1177,29 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_eed06119b58ba055",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Minister says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
-      "snippet": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’\nGood morning and welcome to our Sunday UK politics blog.\nBudget week conversation has moved on a bit; Tory leader ",
-      "link": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
+      "id": "story_b2ae056f78b42209",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College Basketball News: Rankings, Scores, Stats & More - AP News",
+      "snippet": "College Basketball News: Rankings, Scores, Stats & More  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55MXM5MlpRTTFlUTBkcGw2VnpuTERsQWdubVBLNDBiNmNveU5WVE1VU2hFbXhpZWpDSlh5Ujllb0tnazQwRnAzc3BQWHBhcXRDanRJ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T09:18:40.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-01T09:19:24.000Z",
+      "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1b7beba5670f9add",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "March Madness | 2026 NCAA Tournament - AP News",
+      "snippet": "March Madness | 2026 NCAA Tournament  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ET1V0NzRXSmNVQXdpWVV1MTJsSWN5SVdsdjJXeVl2X3hNUGJ5eTRTQnEtSFM0XzduZXNIWUtDckVZTFpYc0Z1TmFtTzA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:19:21.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -982,29 +1216,29 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_ae4fd6febb52d22b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Stocks gain as Fed official backs quarter-point hike - Reuters",
-      "snippet": "Stocks gain as Fed official backs quarter-point hike  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EemRIeUxQaTBjVndZZ0ZRbGpUSzNJa2hJZHhpUHVDUFVWdVhweTN4eUFIdG04QTZrNG1ldzZCMmdPeVNQTEFUYU83UEZiYVRNNGdwUHlVcmFkOFVFVzAtSUFNM1g5NHc?oc=5",
+      "id": "story_cd9f25e4ebbd402e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "India’s Congress Party Holds Mass Protest in New Delhi",
+      "snippet": "Many more are still streaming into the city for what organizers hope will be one of the biggest demonstrations yet in a string of recent rallies.",
+      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T09:15:15.000Z",
-      "tier": "major",
+      "publishedAt": "2026-11-01T09:14:18.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_3491bd6e5ef2e76c",
+      "id": "story_80db9651d05126c3",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Music - AP News",
-      "snippet": "Music  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FQWF3bmRaX2NPTlZiaFhIZ2JhTFVUYXdDcjZnRWMzT2RHQkRVbzJLSlZZQ0VXSmY4Nk5HS2lYZzRvQQ?oc=5",
+      "headline": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 - AP News",
+      "snippet": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2lBQVM2dU1OS3Nvb21jTmphSEdXdGhfdGp4Z2pIT1RwSWRybmJSZC1neV9WQ0pqMTNsUmRPd2hJdmd6NUREV3o0akVCODUxQ2lvaThjMjUxcGJNRUw0RjlBTmFGS1hRN3Rjd3Vha19lRlR3X3U4VS1fWmIzYjZFNnBhbGNMY3p2eGdiNEVPNTRKRzlrRmFnYm53?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T09:10:45.000Z",
+      "publishedAt": "2026-11-01T09:12:00.000Z",
       "tier": "major",
-      "topic": "news",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1021,17 +1255,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e7c130ca89ea65fc",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Iran live updates: Trump says US not in 'a hurry' to agree deal",
-      "snippet": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
-      "link": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
+      "id": "story_343d89310cfb9cc0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Mexico - AP News",
+      "snippet": "Mexico  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsbDhZRnVyak5fWkhUTkVPUVpNS2p0MUVqal8yalItaTZtLVJYOHNtVDUyT2J1SDhzaF9sSndpZWh0aHc?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T09:06:29.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-01T09:07:34.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 4
     },
     {
       "id": "story_680985f7e1006f62",
@@ -1043,6 +1277,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T09:04:44.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3310ff53defa8367",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College sports - AP News",
+      "snippet": "College sports  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fSTVmVF9lbm9YLWNlRWlMU3hCTEYtNGg5X2xxZm5JLTlMSkkwS2JweXFTdDRzRnRLaVhtaG12OHhjR3hwdGVpTno2RzIwQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T09:02:57.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1086,12 +1333,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_027ef3105b26fa2d",
+      "id": "story_6c4d19360d79cf1f",
       "source": "NPR",
       "sourceColor": "#8D68B8",
-      "headline": "What's it like to run for Congress when the odds are stacked heavily against you?",
-      "snippet": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party face near impossible odds.",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
+      "headline": "Here's how to watch election night as the polls close, hour-by-hour",
+      "snippet": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
+      "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
       "imageUrl": null,
       "publishedAt": "2026-11-01T09:00:00.000Z",
       "tier": "routine",
@@ -1099,12 +1346,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_49dd0f3a1946f013",
+      "id": "story_027ef3105b26fa2d",
       "source": "NPR",
       "sourceColor": "#8D68B8",
-      "headline": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-      "snippet": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning.",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+      "headline": "What's it like to run for Congress when the odds are stacked heavily against you?",
+      "snippet": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party face near impossible odds.",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
       "imageUrl": null,
       "publishedAt": "2026-11-01T09:00:00.000Z",
       "tier": "routine",
@@ -1138,12 +1385,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_6c4d19360d79cf1f",
+      "id": "story_49dd0f3a1946f013",
       "source": "NPR",
       "sourceColor": "#8D68B8",
-      "headline": "Here's how to watch election night as the polls close, hour-by-hour",
-      "snippet": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
-      "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+      "headline": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+      "snippet": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning.",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
       "imageUrl": null,
       "publishedAt": "2026-11-01T09:00:00.000Z",
       "tier": "routine",
@@ -1180,51 +1427,12 @@
       "id": "story_70e57682df23e773",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
-      "headline": "US midterms: 2 days to go – what polls say as Trump, El-Sayed hit the trail",
+      "headline": "US midterms: 2 days to go – what polls say as Trump makes final push",
       "snippet": "Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day.",
       "link": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-01T08:47:19.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7af52f266eee7f62",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
-      "snippet": "Former chancellor says leaving European Union has made Britain ‘poorer, weaker and less secure’\nThe former chancellor Rachel Reeves has argued the UK’s future should be inside the EU, saying Brexit has made the UK “poorer, weaker and less s",
-      "link": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:37:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c854a687a8094b93",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Reuters Misinformation Monitor - Reuters",
-      "snippet": "Reuters Misinformation Monitor  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQTENMNThTMVFyYVJhOThPdEhwaEkyNWlnTWpWRlh0Mm80UV9Ha1ZCMHBGYk40ajFFNTNtQWVCbC1DdU9ycXlERk9IcE5qMGtIcVY3WTduWmxPMWd2XzYtQzhmdThkSnFoa3c5MGpURnA2b21mZVpXNVl4dzBtRElQdFd3MEZhV2dXbVBkcUxNQ09ENGdjcDBhRTFScmZXR0E3V1M4a1Z4V1FubktvcTNIc1dfUzdrR3FCcnhPUDNTUkgxbG9JY21lbC1jNjFoN0MxQlMyZmd6Z2JlU0VkdXZQMFJ0SlpXSmFoclN1QTVlYkxZOHJjOXZtNzhVVGhSSG1hVTRWZ2x4ckstNDB0TWllV1VfWkFOYV94V1VqX2FMSllFcF9N?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:35:15.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1829763cb9743c68",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Iranians protest at UK embassy in Tehran, demand closure - Reuters",
-      "snippet": "Iranians protest at UK embassy in Tehran, demand closure  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44V2hnYnpkTjhqWEtOUFdvcWxXbGlCZ0I2cE0waU1DdlhaZGgtTTRHLWpkb1AtUEk4MWZpVzVxMkwyMnJHSkN1cDFQRFh4WUVYblF0OF9KbUZIMGJu?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:31:31.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1237,20 +1445,7 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-01T08:24:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_24d9676c63156218",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Kentucky - AP News",
-      "snippet": "Kentucky  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15QS1obUtTbmJ4UlFxSTdHdkg3U0R0SlhxcWJ4VjRsZTAtZlRvOWFpNG5wTGZYTHVSbmVWZkZrbkxKR2ZkRXc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:20:30.000Z",
-      "tier": "major",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1264,19 +1459,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T08:20:19.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_10349e9b4ef62a67",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Men’s college basketball - AP News",
-      "snippet": "Men’s college basketball  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNkNoaUZuSmkyb0o3VmM1UGJQbkRxS21KTmR3VWJnekJEUUpDWnk0VXQ1ZDVfY0VHYkdlZWl0UnJaRm5lNE1naG54TGVpTHZ0ejlWaXhqVWpmUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:19:22.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1300,61 +1482,9 @@
       "headline": "Former Ireland European 1,500m champion dies from cancer aged 34",
       "snippet": "Former European 1,500m champion Ciara Mageean has died at the age of 34.",
       "link": "https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579",
-      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
+      "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-ciara-mageean-european_7393707.jpg?20261101104505",
       "publishedAt": "2026-11-01T08:15:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4146e5997a98e97a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "MLB | Latest News, Stats, and Scores - AP News",
-      "snippet": "MLB | Latest News, Stats, and Scores  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:14:34.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8d3613ff7b3bae07",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Middle East News | Latest News From The Middle East Today - AP News",
-      "snippet": "Middle East News | Latest News From The Middle East Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05b1dqSlZ2X2tIcTFyZ0NfdEQzaGpTQzBhWUV5Rk5tZkowNU95RWd5ZkJqQWRINDFkSGhCM19BazF6VndzclpBNHhB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:14:32.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_08d0f51f93174c22",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Connecticut - AP News",
-      "snippet": "Connecticut  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0tR3FYUmlJRlpMaURWbi1lV1NrTEY2TjNUalBBRmphOTFfQVlCU1ZhUEJNMFVkcEdscVoxRzlaMlplQWtvQ3dJZUt3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:14:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_80cd7abf968d1ca5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Soccer - AP News",
-      "snippet": "Soccer  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:14:29.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1385,32 +1515,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_bf37fdaa5cc5325b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "ANNA WILDER - AP News",
-      "snippet": "ANNA WILDER  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LTi01RkpIbmVvS3pGYnpsVFRXWlNUclM1c3UzTjVnR1gwRHdmX1dYSEZYLTZkLXJRWjV0Z1haR3hhb01DYVZDOEhtazBCQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:12:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1bd45be4ed26472",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "DAN GELSTON - AP News",
-      "snippet": "DAN GELSTON  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eThoeURTWlJNamJtazZLSkJEa24tdURSNVJuYTRCQ1hWU1REeUhMdG9oUHpvZTRtcUk2UElZN1FuUVhZS2VSOUFkVmo3dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T08:12:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_e61fb9bb11a007b3",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -1424,6 +1528,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f809e0beda705203",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Paralympic Games - AP News",
+      "snippet": "Paralympic Games  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPVHdaM1k0eGhEVDZra0dSMXlDbWVZNDF2VXpfcTRldEplbjlueWdSU21MZmpic2NRR2dON1ZzZjJfZHdXZUl1VUhVVnJ0VXkx?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:10:25.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_448d43493cacb54b",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -1433,6 +1550,32 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T08:06:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7129039b71518a1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:03:58.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_783cf64b6323fd75",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Gun violence - AP News",
+      "snippet": "Gun violence  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tWG9GY0F1alREcV9mMFBVUmFSeGkweWdZVC1QZkpjbHByWEVNeDZkVEFTUlotZDdidWJ0T1NWeGNjLTM1aWZpSXpmOA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:02:35.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1460,6 +1603,19 @@
       "publishedAt": "2026-11-01T08:00:05.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c76a876c8db9bdf2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today - AP News",
+      "snippet": "NBA Scores & Daily News | NBA Stats, Scores & News Today  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:59:32.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1502,6 +1658,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8b772cc6adc878e8",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Pope Leo XIV - AP News",
+      "snippet": "Pope Leo XIV  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BXzFaTC1GN3pKdEVBTmZXQkZPamZ2Uk1icE4wVkVUdEFqY1J1SV9FRTZfal95NlB5OHQ5ZnNVSVozNlFsRU5HM0NmUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:48:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_76333fa9de80e0a4",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1528,28 +1697,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_22b40e14dd8aeda1",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Indian opposition parties stage new protest against the elections chief - AP News",
-      "snippet": "Indian opposition parties stage new protest against the elections chief  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX083V3gwMU1WcFdtN25FbDB0TVNXZFNoUmJOdVN5TlBqQUdVSHh5ZHI2S1lweF9pNjN4YldFQmZJZ0ttRjA3MGx5bzYyaUQ2MXRmV2dVZXQ4QjNFZE0xQnpWZGFlNjEzWWVzMWk3RVluUXdlZjkxRy1acHh2SHU4Wm5vazlUN0gwM2V2bmxoWUJGZ25RUk8wRFkwbHJQRUJXNU9ERXpiQ3lRS3UySGRfRExxYzdzLWVyeHc?oc=5",
+      "id": "story_1c70fcd9c86136ad",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "snippet": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+      "link": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T07:34:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_39152bcda6af0c8e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Joe Biden - AP News",
-      "snippet": "Joe Biden  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwUThXYXJHUzBGd0cwbFV6UkZPNWVkOHBwRzRTOFdsTkRBNU5ZbEE2TnE2WUZHX3Rid1I2RjdBNnlDN1VTZmc4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:30:03.000Z",
-      "tier": "major",
+      "publishedAt": "2026-11-01T07:33:00.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1567,14 +1723,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_30d06e2cda270d42",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AstraZeneca effective against Brazil variant – source - Reuters",
-      "snippet": "AstraZeneca effective against Brazil variant – source  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTSGZkOGJRNUVXaU9jY3JIeG5yRHFVRGItZFpEVWJDck1Zd3ozNmtsOEtINE5JWksyME9KVW51cTJ0N2h3Q3J0SjZnWkRJZHdhUWdnRzlNY09XT3Jo?oc=5",
+      "id": "story_0bd204d6c6753411",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Volodymyr Zelenskyy - AP News",
+      "snippet": "Volodymyr Zelenskyy  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xb1ltODYxdGFUVGUzdHFuOXJoaGZQLXE4LS03ZTl3bTJkZXluNlRVTmtZaWFDQWhkX09IM2VYVURYcVVIcjJGM0p4UUhyVjdxSWViaA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T07:26:25.000Z",
+      "publishedAt": "2026-11-01T07:26:46.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1593,136 +1749,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_fa5e9ea070967fc0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ukraine - AP News",
-      "snippet": "Ukraine  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoLUFxWVlhd0NHcHV5UjVHdVQtVjc0LUx3V08zeVNpdE5IS2Jtc3BFOUJnRktJVDdzczRIN1ZZaTNTbjd4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:20:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_1b7beba5670f9add",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "March Madness | 2026 NCAA Tournament - AP News",
-      "snippet": "March Madness | 2026 NCAA Tournament  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ET1V0NzRXSmNVQXdpWVV1MTJsSWN5SVdsdjJXeVl2X3hNUGJ5eTRTQnEtSFM0XzduZXNIWUtDckVZTFpYc0Z1TmFtTzA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:19:10.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_04b3a57fb8a7be95",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Green Bay Packers - AP News",
-      "snippet": "Green Bay Packers  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93ejZFdEVFTGdEZ210MmdPY3dkM25Da21Rek0zbjdhOUxfQzhDQ3pPaEg0Q2xVMEFTcjRablM0UFB3c2JBRzJ2V1ZyX21OWGJ2N2c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:19:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_91f75b53c97db37d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Homicide - AP News",
-      "snippet": "Homicide  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBILWlfdlN0dW1EbWx6RzNrWmw0R0djSmZSZHQ3d2dtWkczYmtmdkJ6UWZkN1B4ZzM1ZENvRkQwQ3dLeUwwYmc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b2ae056f78b42209",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "College Basketball News: Rankings, Scores, Stats & More - AP News",
-      "snippet": "College Basketball News: Rankings, Scores, Stats & More  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55MXM5MlpRTTFlUTBkcGw2VnpuTERsQWdubVBLNDBiNmNveU5WVE1VU2hFbXhpZWpDSlh5Ujllb0tnazQwRnAzc3BQWHBhcXRDanRJ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_be47e3a5b2598749",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Virginia - AP News",
-      "snippet": "Virginia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZNE91SFYwcWcwVDY0TE1rckpKNXZPX09IX3pjOExGQnNwX21CNG1Nd3JxWnV4VWREZzNUSWtHaTdNdjAyQnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:04.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_dbf06332b3db4c15",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ohio - AP News",
-      "snippet": "Ohio  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xOXluQWtwTGprc2dkRnBmUEJuU1BmWjlsNFNmb1pZRF9NYTJySnF0WTVnTDZDZEZETXZHQkpZdWU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_1e3fe08f2d8616b8",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Wisconsin - AP News",
-      "snippet": "Wisconsin  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNWVXNWR0Yzdoay1BdVRkLXFNcktSU0RyWU9xR1pFWlJCc1V5bGpBUG1aWXMwTE1ERzlzZ0FBNlJGRjBwbGVN?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:02.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_f55f6b5ec4882c41",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Crime - AP News",
-      "snippet": "Crime  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nNV9HSjd2YV9uVDgwYmYzWUZES2p3SGFWeFBQNFlxVEViNHU0MndFbUp3cTR1REJCMS1DT21sVW9sUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_40fc9819aa80b299",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Auto Racing - AP News",
-      "snippet": "Auto Racing  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qekN5SGJkSzNLUkszajRtNDl4MTVkWWlqc3JqbTl6VmIwdTFuRUZxQ29xOVhJY3gtOUJxLVFQTm1RZVI2a3kyMVdn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:17:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_97bc6f9ac5313f4d",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -1736,160 +1762,30 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b3341312bdd8b0d3",
+      "id": "story_66e64c629867f5ba",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Russia - AP News",
-      "snippet": "Russia  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE45R0JYQ0dqdWxiMFhWUjVGbTlsRDVOUlNEU1p3aXNZQXVuaHVka1BRV1pxV1VwTVg3WFpjYWtQUlhPekU?oc=5",
+      "headline": "Immigration - AP News",
+      "snippet": "Immigration  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBySVUtSnV5U1NPYXI2a2tlb1BidXFsSGNrOUdRUFo5b29xanY5RmtOYzZ6YXBDbk4yODJsTEd4ZC1kckdwLXdQa0h3?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T07:14:58.000Z",
+      "publishedAt": "2026-11-01T07:10:47.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_cfc8bd12301ae680",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Kansas - AP News",
-      "snippet": "Kansas  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBzcWlNU2VpS1JrVm1IVE5samU2RnBfUWkzZFRyTHFJWXk4b1g3ZkpoTmxaOWtCZThGcnBwdEJ3VXZfbDA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:13:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3f35b4b9148d89b3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Minnesota - AP News",
-      "snippet": "Minnesota  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xN09ZUnVnbW1ScFVDRkt2TmFyM1VvV3hiVEJxMmwwZmlXLV9mTktrS3p0Mi1CVHBTSTZneEdsbWtCb3NUclJF?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:13:10.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_46f99d55ffbce6ea",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Michigan - AP News",
-      "snippet": "Michigan  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BTWtOdGNlc2xxQVVTcnE5b0FuUy1HT056Xy1VWk5pQWJ6TEgwT2pkUnZaN2JIcEE3Z242STNLOGR0VjRIdFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:11:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_18d9031b39df14c4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Cricket - AP News",
-      "snippet": "Cricket  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfY1ozNUxwdEpqZFVSUXZlNG5IM3FGMzFJVUg2ZjIwVXpxWmMxNmppaUJDbTNWQS0zR1NPbW5pZTJzTGY3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_7dfff7a362420b5c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "New Jersey - AP News",
-      "snippet": "New Jersey  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GOWlXdFd1M3Byd0VFWkVhODlFQm1EQTFhZHpTaVJlYktTZ1g4V2dIOUFYTVZOdTZlbGJUZjU1ZmhQZnZrSERiSQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_16304d8522abe94a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Iran war - AP News",
-      "snippet": "Iran war  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c92eda8ed01b8683",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "New York City - AP News",
-      "snippet": "New York City  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:10:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c6ce5be8c285c5c2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Central America - AP News",
-      "snippet": "Central America  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XSWlYQmNKM2ZFVlFhdnFlRHh2ZE9MNGZseENncnBGZmRrSWs1LWtLTGE0NTRsZlUzSnVibXByR0s2d25OMG5OSWI3TERvNFU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:10:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e744c463481ed4df",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Deportes - AP News",
-      "snippet": "Deportes  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:10:56.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9258a833ab662ffb",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Latin American News | Latest Latin American News - AP News",
-      "snippet": "Latin American News | Latest Latin American News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T07:07:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 4
     },
     {
       "id": "story_06c6bccca458fe91",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
-      "headline": "Police storm Portugal housing protest camps",
+      "headline": "Police storm Portugal housing protest camp",
       "snippet": "Dozens of officers, some accompanied by police dogs, moved into Rossio Square in Lisbon early on Sunday.",
       "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-01T07:06:21.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_cc2cc6655dba27c4",
@@ -1918,14 +1814,53 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_79ee05b1db1559f1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Atlanta - AP News",
+      "snippet": "Atlanta  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoakctbEt4SW1XSVhZNU9XUmhlOTA5X2IzZTltdkYtbnk3RkFJQnNGZ05KWUV3QjlHQ3hQZFpKYTNkR2t0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:02:41.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
       "id": "story_5a936712c1f078f4",
       "source": "France24",
       "sourceColor": "#3E5C8A",
-      "headline": "Binance says resuming withdrawals after major hack",
-      "snippet": "",
+      "headline": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
+      "snippet": "Binance, the world’s biggest cryptocurrency exchange, on Sunday said it would resume withdrawals after a suspension due to a major hack, which the FBI has tied ​to North Korea. The exchange said it covered 95% of the $6.3 billion in tokens ",
       "link": "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
       "imageUrl": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1024/p:16x9/Part-GTY-1496426886-1-1-2.jpg",
       "publishedAt": "2026-11-01T07:01:49.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_8fa2de3423129063",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "India's opposition holds mega rally seeking election chief's resignation",
+      "snippet": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:00:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e4c792dd4b0f718e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "\"48 Hours\" show schedule",
+      "snippet": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
+      "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:00:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1944,19 +1879,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_50c9aeac4a8e93af",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps - Reuters",
-      "snippet": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb0s3MDQ2QklmZmpMU05CQ2hDRmFhMUoyMnBsdUo0dVhzQm5KZWpUNktScUxlY3BTYmNsazJtUU5pU08wZHhveTlJR1VFcjlrNWVPNTV4QTR3aktmM0Y1WUZGSnZVUVQ1WUQyV1ZRRXpnVkR6VVI1VUd3Z2g3ZFBUTUV3aGVvUnZfZVIwNE1UdFpzTVVuWjNRNXhIZi1QcExzaFBSSTZQSUp2eGllcnpoc0F5N242empXRDR3Y2lIOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T06:54:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_52bf705bb74e35a7",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -1970,28 +1892,41 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_493bbaee09fd6d7f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion - Reuters",
-      "snippet": "Binance resumes bitcoin withdrawals after covering bulk of stolen $6.3 billion  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+      "id": "story_49fc6e1403de9494",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+      "snippet": "Cryptocurrency exchange says withdrawals starting to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor\n\nCryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack ",
+      "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T06:49:00.000Z",
-      "tier": "major",
+      "publishedAt": "2026-11-01T06:53:18.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_dceab169cdb5485b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
-      "snippet": "Trump says defeated presidential candidate, who faces investigation in Brazil, can stay in the US 'as long as he wants'.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss",
+      "id": "story_6e4a27f3940fef59",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Brazil - AP News",
+      "snippet": "Brazil  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T06:34:20.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-01T06:50:47.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_5be64b8df51ea6a9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "From Italy to Croatia, a warming climate threatens prized white truffles - AP News",
+      "snippet": "From Italy to Croatia, a warming climate threatens prized white truffles  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWw5alkzN19HNEZVcFNNdVF4a19kcVNsajdkeDlDY0FvYjFscFNwU2dkOXhWMmtDVjJ5Y3pIUHJhYXNyNG01ODF2QnpORGotMUFsc055VWtfbGRwdElONU9sS09PSzVxbGpseXVuTjNwaUhTdFM1ejJ3ZlFrRUczMVhxbjFkREJyV1ZqSV9nT2twVU5LRmk0T2s3dEVJZHJNRnlVakRmWjViV1A0XzdfTA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T06:50:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1999,10 +1934,10 @@
       "id": "story_bc7022d1015a27c7",
       "source": "France24",
       "sourceColor": "#3E5C8A",
-      "headline": "India tightens security as opposition holds mega rally demanding election chief’s resignation",
-      "snippet": "Indian law enforcement officials armed with batons and shields on Sunday surrounded the site of a planned opposition rally in New Delhi. India's main opposition parties and the youth-led Cockroach Janta Party ‌are demanding the resignation ",
+      "headline": "Indian opposition parties stage mega rally seeking election chief’s resignation",
+      "snippet": "Thousands of demonstrators on Sunday joined a protest in New Delhi called by Indian opposition leader Rahul Gandhi and backed by the youth “Cockroach” movement amid tight security. Protesters are demanding the resignation of the country's e",
       "link": "https://www.france24.com/en/asia-pacific/20261101-india-tightens-security-as-opposition-holds-mega-rally-demanding-election-chief-s-resignation",
-      "imageUrl": "https://s.france24.com/media/display/18d0de2a-d5b8-11f1-b2b6-a575454bc579/w:1024/p:16x9/2026-11-01T041504Z-1619866819-RC2REOAWHLHS-RTRMADP-3-INDIA-POLITICS.jpg",
+      "imageUrl": "https://s.france24.com/media/display/2e7f6500-d5d8-11f1-ac7a-1beafce15fea/w:1024/p:16x9/AP26305338577567.jpg",
       "publishedAt": "2026-11-01T06:24:17.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2035,19 +1970,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_52ede81c13042296",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
-      "snippet": "Mexican boxing star wins 12-round decision to defeat the French fighter and regain the super middleweight belt.",
-      "link": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T06:19:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_8411e2c9494dcd45",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -2061,16 +1983,42 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_1d26ff0b59671914",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
-      "snippet": "Gabby Williams, named Most Valuable Player, set records for most points (137) and most steals (18) in the WNBA Finals.",
-      "link": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
+      "id": "story_02f8418784aea4be",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
+      "snippet": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T06:17:45.000Z",
-      "tier": "routine",
-      "topic": "sports",
+      "publishedAt": "2026-11-01T06:19:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_63ab6372bfbbc3d7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Mexico comes alive during annual Day of the Dead celebrations - AP News",
+      "snippet": "Mexico comes alive during annual Day of the Dead celebrations  AP News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzBQTDZUakxvUmladWlway1jeFNxLWVDRk5hNW1SN3JYbDRGZ0QzaUpwTDFKX1c0ZGM4RUxESHN4czJWaThQcWItNzI3ODl5RzRhWVdwZ0pXd0VXeW01Z2JJd1YteWFjcHJ4WXV0LTNaOUtBSlczSEV2WHRGQkhCNGRsbFk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T06:19:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d6e3766d67e7d06b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NASCAR racing - AP News",
+      "snippet": "NASCAR racing  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93S0RrRnNPWXYwZnhucjQ5cVJjb0U2TDJCMTdvdGxLbjk1UUFuaDU3Q3Z6b1BGTjJuVmRnSUxOaEtxOVpPN1I0d1pnWW0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T06:08:51.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2087,54 +2035,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0fa9b894754ab9da",
+      "id": "story_bb4405b640b785ac",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "World Vegan Day: Dutch sexual wellness web shop offers vegan products - AP News",
-      "snippet": "World Vegan Day: Dutch sexual wellness web shop offers vegan products  AP News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDY4RDJpbGlMMkVlMWxJT2U5T25lUXg3VXlYNERiX0xacXdnWU00V0tUd2oxWm9ORmVNRXNKNTktYi1DdnhqRWFIOTQ0cGJIZGc0b1VSdE1CSkNIbC1NeHo0Mk85THREUmdXSENXUTlNX0Y3bk56dF8xM2VWZFRCX0hBbVJNeHBwVVVNNWdPNnN2LXk1ZnRPc1ItN3VZWkdrbW53ZERSb1JDempoekc0QXFKWlAxbnh5cmZaZW8tall6NnZp?oc=5",
+      "headline": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+      "snippet": "Russia-Ukraine | Breaking News & Live Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T06:02:00.000Z",
+      "publishedAt": "2026-11-01T06:00:48.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b3e301f9e2745a51",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Xtrackers II Eurozone Government Green Bond UCITS ETF (XGEZ.DE) | Stock Price & Latest News - Reuters",
-      "snippet": "Xtrackers II Eurozone Government Green Bond UCITS ETF (XGEZ.DE) | Stock Price & Latest News  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5keE9LUWp5WmtCOEgxbXdwcDU1YV91LTdhZURQUHVtRDFqVWRMeWhvLW9XZnFha1NCU3VIT2lXNW9XeldGUlRPTmdzYjRmQ2M5TUoxR2NQODV5UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T06:01:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 13
-    },
-    {
-      "id": "story_4327656681d8316b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Shnaider downs Fernandez in Pan Pacific Open final in Tokyo - Reuters",
-      "snippet": "Shnaider downs Fernandez in Pan Pacific Open final in Tokyo  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkJPd2d4dDRqSXBqT0E2RVIxTmx1SktyUW56eDZMa1VJb2RTbWlsclNuU2tpUFBBWWlWc3c2ZFhoNFZfWUVkN0Q1cE5YMzFPSkVfeDh1YVlnZUhUUDhxN0ZMc3lJclR0MEMway16ekQxaU1jUnZfVDFGREg5d0wzUXhMSHZfZjN0MEpUOGp1bnVwend5QXQ3empzb3p0aDFUcExmd2N3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T06:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a387dd969496100d",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Pope Leo XIV, the Tough Guy of High T Christianity",
-      "snippet": "The pontiff draws on his missionary background for a show of fortitude.",
-      "link": "https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T06:00:03.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2152,17 +2061,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_15295ab89b5a0fc1",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "India news: Opposition holds major rally in Delhi over voter roll revisions",
-      "snippet": "Thousands are expected to take part in the Indian opposition's planned mega march in New Delhi over a controversial revision of electoral rolls. DW has more.",
-      "link": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+      "id": "story_5be8426eee553895",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Nashville chef's date night with football scout turns deadly",
+      "snippet": "What started out as a special dinner date between Jade Benning, a Nashville chef, and Blaise Taylor, an assistant football scout, at her Nashville apartment ended in her call to a friend — and his call to 911.",
+      "link": "https://www.cbsnews.com/news/jade-benning-blaise-taylor-nashville-death-48-hours/",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T05:56:00.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-11-01T05:59:12.000Z",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_8a0ab9f080cae7d3",
@@ -2178,69 +2087,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_bf7af1948bf3782a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 General Election Results: Senate, House and Governor Races - AP News",
-      "snippet": "2026 General Election Results: Senate, House and Governor Races  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:52:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5be64b8df51ea6a9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "From Italy to Croatia, a warming climate threatens prized white truffles - AP News",
-      "snippet": "From Italy to Croatia, a warming climate threatens prized white truffles  AP News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWw5alkzN19HNEZVcFNNdVF4a19kcVNsajdkeDlDY0FvYjFscFNwU2dkOXhWMmtDVjJ5Y3pIUHJhYXNyNG01ODF2QnpORGotMUFsc055VWtfbGRwdElONU9sS09PSzVxbGpseXVuTjNwaUhTdFM1ejJ3ZlFrRUczMVhxbjFkREJyV1ZqSV9nT2twVU5LRmk0T2s3dEVJZHJNRnlVakRmWjViV1A0XzdfTA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:50:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b635d2b66a145ea3",
+      "id": "story_493bbaee09fd6d7f",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Hong Kong police fire blue-dyed water from water cannon - Reuters",
-      "snippet": "Hong Kong police fire blue-dyed water from water cannon  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oYkdjUmhRLU1MWVZ0Vy1RaElSS2xHekpfN2FGTm94YTdvcnlkQUQ2RmhDQjE4dWJ6aFc4VXJZclAtVW1WSzBya0FBWjRzSGZEdzFhM1FqQnBiaHNO?oc=5",
+      "headline": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion - Reuters",
+      "snippet": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T05:48:09.000Z",
+      "publishedAt": "2026-11-01T05:49:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c049ce23ffc495da",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "View from the Bench - Reuters",
-      "snippet": "View from the Bench  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmpyTC0tZXBvT1oxejhlWlBUSjFDUTdZRVNnUlRKalU5TFpqQS1EaGZwTDRveXh6ekx4QThlUi0yREJQZWMxcS1uUGZ6YmJ1ZDRXYXlvTFpaUWRfMVM2SUd0OFZ1djhVTVluZXRNOWNuaFV2d2g4YnhNVVN6MEloNXVWSUc4SURMcUo4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:28:29.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_56b9abfbdcca8e82",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AI and Legal Ethics - Reuters",
-      "snippet": "AI and Legal Ethics  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGplSnpobUpvREgzUWZwRlBXR0RES0FBbWhFbWxDcmpKbDEtc1ZOTVVzQTNRZkt4ek9GOFlsUGxlbDBKQnJuYl9wT2ZtSXN4empaaEhNQzl4QlFMYS1XaGZTZlEyOWh3VUZROXkxR2pGdEdkTGpUZVBTVU5rUEpDSU1GeHBQaHFnZ1d5Vkp1SkZMYURobFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:28:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_63401d82373666bc",
@@ -2256,131 +2113,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_f2c7a74c5f01c157",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "‘Like Kashmir’: How a toxic marble dump yard became a tourist spot in India",
-      "snippet": "Vast 'snow yard' in otherwise arid Rajasthan attracts hundreds of tourists daily, but residents face major health risks.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/like-kashmir-how-a-toxic-marble-dump-yard-became-a-tourist-spot-in-india?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:25:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7b602045e167a502",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Roger’s cynical gift basket for El-Sayed on his birthday",
-      "snippet": "Republican Michigan Senate candidate Mike Rogers mocked Democratic rival Abdul El-Sayed with a sarcastic gift basket.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/rogers-cynical-gift-basket-for-el-sayed-on-his-birthday?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:21:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_02f8418784aea4be",
+      "id": "story_c3af7b82fd3cd607",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
-      "snippet": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years  AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
+      "headline": "Benjamin Netanyahu - AP News",
+      "snippet": "Benjamin Netanyahu  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTllFQUh1RklaanJvME5aZjcyVWdOMW5tM0xxcV9pQTBWbExzaDJWYmdSUmZYeEpfcjQzdGhjTGlVRTZaWWcxTlRvVXZTWHJmX3g4?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T05:19:00.000Z",
+      "publishedAt": "2026-11-01T05:25:58.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_8226e0ab3db7a950",
+      "id": "story_162345c9504cf0ef",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "MATTHEW LEE - AP News",
-      "snippet": "MATTHEW LEE  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wZkp0Y1FVMFRTcGdaRFp5ZVJMWXE0Nk9TODlhVkhpTUJGWmFJMUl1LWVOX1V1Um04OW95d1lOUVRsSVRnTm9vLWlqaHhQZw?oc=5",
+      "headline": "Fletcher’s go-ahead score, Lightfoot’s defensive play help No. 1 Miami rally past UNC 38-35 - AP News",
+      "snippet": "Fletcher’s go-ahead score, Lightfoot’s defensive play help No. 1 Miami rally past UNC 38-35  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWZ3Sl9mMXM5TUdtTjVaOXdpUWVLbTNmUDFwZjY2YW5ZVHlwMy11d1ZDX1BDWHZUeWNON2VBWjNCV044ZEw4NmNpa0VkQXIwaDdFREVUWGJBSDd1YzE0dTlxNVRDY2RuLVAyZGRzS1NPM2ZhUGItRGVtSXVpY1duemlZTFl6MUNGcG92Z2tkYw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T05:16:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1252c2b6f7e3444",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "CYBELE MAYES-OSTERMAN - AP News",
-      "snippet": "CYBELE MAYES-OSTERMAN  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OM0pORFFUcU1DZE85N0ZqZVBSS01HdGZjVjlTaHczQmpvNjg5dldyNXJBQmF2S0NzQjJLam8yNC1rSFZacUlRNUpoOGxmci1heUs4RzAwbTRIUE0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:10:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4661b59f2f86ffa2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Design Patent Application Prosecution - Reuters",
-      "snippet": "Design Patent Application Prosecution  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFJCQ3N6Q0dDSUh1dEpYeHE0ZWNJRU52T3lrMjhOSFo5eHhOVjJ4bk4zdjhwUUt5QjlJdWxuSk1sdjZqQUxJZHRfNS10bDJtMDItQVJIY29fQW9EQTh5SFZ5NDFaYzdQTHRYaEdoUy02MTlVQVQwNGZ0ZWx0NlZYR19HTDZGLXBXeWxxSTV5X2VFT2JZQ3F4SVU5SjluNkZQOWxRU0FjeGMzLXI3cGJuR3IxMA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:08:19.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7e7e35db78424d4f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Elder Financial Exploitation Risk Management - Reuters",
-      "snippet": "Elder Financial Exploitation Risk Management  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME9XUWhCSHZDU1ZFZTlURHpDMGNYZDlfT3NoMHVqQ1F0V01sVDRDYUlsQ0JfaHhneFM4VGdVZjJTNVpQSXMyaEQxRG9WN0RMV3ZuQk92M3RPRVhvem40WVgyRk93c3YwbXN1bGd2QkhyeHAxUmtleTZJMExtdFd5Rzhvb2xMYU12MUxPenFlY3RfUllUVW1rUU9BNGIwQzBzUkY3bDY1SVhtbnQ4ODlzUzc4a2E5RHphdDhOcA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:08:19.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b6061f0de5041f93",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "GC Agenda: November 2026 - Reuters",
-      "snippet": "GC Agenda: November 2026  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2g0N21waEtTVjl5RXhJNl9qdlRWdU1xR0RPZnp6aTFSV0V4WHF4Z0tFUzZzTkFZS282ek9heGlFUWt5cFQyRFRyOXRZQlNkNVpmR0g2NEVhRTNXNmw5cW44NmVHanpHWFRURVdVLV9tQTFvX010VjBDYTFMQUxlUU9WWkxEOTZ5Z3IwV3VscnE0SWxkVXYyNHN1NUlJeFlu?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:08:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1e08940360d116ac",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "In-House Counsel File - Reuters",
-      "snippet": "In-House Counsel File  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmU3b1RqOW5tUEZ3X3dIU2VPZ2x2LXF6eEdfTFBVcm9NbnVJYkluQkVYTmY3cTZPVjA5NE1VU2RfekFtdURoREh6WkRraVFEcFJSWXNVYTBxM0ZUMU9SNC05N29xS3djekpoQWhWWnNtMGN3aUdMZllKbzZpVGxTeGw2M2F3Rmt0MmctNDBFQ01XNVpkYXkxM0NuTk05UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:08:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8f4d891b54fe02ef",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Fact Gathering for In-House Privacy Counsel - Reuters",
-      "snippet": "Fact Gathering for In-House Privacy Counsel  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdmlrWXZoOWVxYjBwMnRzMHJvRHZ4T3cwYzlFRGhzTU5wb2dsQ0MxUUt5ZFhjTW1NWFRyTjZWdHhGV0JmeWlqZGRmQ2thMTZRamRtN2pXb1pIZWVTRUpROW1KOXNDUUc5OW5uYm83VndMdEJJUXlOYlU5S1ZDcFpIa2hrOHYwTjY4NjRILXUzWHdyd2pSX2xCQ09BVnctNUhablpjdFVBQXhNWjRBUkdjcU44OUdnQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:08:10.000Z",
+      "publishedAt": "2026-11-01T05:05:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2399,14 +2152,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_216bdfcb8926ecd7",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Sports - AP News",
-      "snippet": "Sports  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5tUkV5MHdMcTdZamNZUmVsUHU1N0FSQ2daMXpzdmRQajFDanhlNGJ4QXJubmU1bmZlcEF0elRn?oc=5",
+      "id": "story_4327656681d8316b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Shnaider downs Fernandez in Pan Pacific Open final in Tokyo - Reuters",
+      "snippet": "Shnaider downs Fernandez in Pan Pacific Open final in Tokyo  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUkJPd2d4dDRqSXBqT0E2RVIxTmx1SktyUW56eDZMa1VJb2RTbWlsclNuU2tpUFBBWWlWc3c2ZFhoNFZfWUVkN0Q1cE5YMzFPSkVfeDh1YVlnZUhUUDhxN0ZMc3lJclR0MEMway16ekQxaU1jUnZfVDFGREg5d0wzUXhMSHZfZjN0MEpUOGp1bnVwend5QXQ3empzb3p0aDFUcExmd2N3?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T05:01:02.000Z",
+      "publishedAt": "2026-11-01T05:01:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2451,19 +2204,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_608e24c78fbdd45d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-      "snippet": "Mohammad el-Shami had been held since June 2024, when he and many other UN and NGO workers were accused of being spies.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T04:49:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_98c414b2206db3a6",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -2472,19 +2212,6 @@
       "link": "https://abcnews.com/video/137733772/",
       "imageUrl": null,
       "publishedAt": "2026-11-01T04:36:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fc9683a709a69213",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "France protests enter third week as police fire tear gas",
-      "snippet": "Police used tear gas to disperse protesters as demonstrations entered a third week ahead in France.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T04:31:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2503,24 +2230,11 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5c078ad55e040ea4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRnJ5UFgycFN4dXRiMk9uZ2dlN3l2elpVRklvZVFJRmMzbnVTMTN5TUQ0bWEwQy1lT3lNbUY1NkFpMzFPNlpKeXowOWNPWmdKNnJaRUptV01wbzg0SWZoS2RZNE9mYzhwNUp0Y0VNaXlRYlFQNHh0WnUwVkFsb3Y1RzNseUFwREVTSGdTNy1zMGg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T04:21:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_f3c4d7066a60a6ea",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Indian authorities tighten security ahead of big opposition march in Delhi - Reuters",
-      "snippet": "Indian authorities tighten security ahead of big opposition march in Delhi  Reuters",
+      "headline": "Thousands join Indian opposition protest demanding poll chief's resignation - Reuters",
+      "snippet": "Thousands join Indian opposition protest demanding poll chief's resignation  Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakVrd3NyN2t0ZzZVTURGaTFwXzREVHc3eEUzd214OHdGOFcwQTdwYnMwSUN3dVhXV0RlTGtqNjJWV2xtSnVfbmJHUDBwX1c1R0VJaGx5V3IxTDdpUGttcHNrOGQxUWtMTk53WmhnempCczJLOUU3V0xfSjlJS0VicGQ3UEtxenEzaHhwNlYxeENNRmEtZUl4M0g1MjlkelRUdjZNdVc5SjBxQkoxVnhTNGFjd0oydWs?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-01T04:20:00.000Z",
@@ -2529,17 +2243,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_07b2ebd35334b1d5",
+      "id": "story_8fd471f4879a5a6b",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Washington - AP News",
-      "snippet": "Washington  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QR3huWGxwNU5TM3lzQ2VHTXc0UWR5VURxMmNIQjlsQkRfeklWc21VazJCYkQ1UHRmOEhENEVJdW9COUt3WGdMTg?oc=5",
+      "headline": "Israel - AP News",
+      "snippet": "Israel  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T04:14:27.000Z",
+      "publishedAt": "2026-11-01T04:16:49.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 5
     },
     {
       "id": "story_0c86c0807f241072",
@@ -2568,14 +2282,40 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_bc9a0bc514d49370",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Bolivia declares state of emergency over El Nino weather pattern",
-      "snippet": "Drought is affecting 78,000 families and has led to loss of over 75,000 cattle, as El Nino due to peak in late 2026.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
+      "id": "story_4f37d5b85c4d4773",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "2026 elections live updates: Trump supports Republicans with telerallies",
+      "snippet": "The November 2026 midterm elections are just two days away. Candidates in key races — and President Trump — are making their closing arguments to voters.",
+      "link": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T04:04:40.000Z",
+      "publishedAt": "2026-11-01T04:07:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_a0d9da7153bd106c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "No. 2 Ohio State continues season of chaos with 38-10 loss to Southern California - AP News",
+      "snippet": "No. 2 Ohio State continues season of chaos with 38-10 loss to Southern California  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWhHamZGTmZIZzllNWZGUWNDVW15eVQ5enBZTEF2bkpFNXViNnpWMzR0aU1xbDJvcndobEhJZFluVV9nVzhERzBjZUJ4T2ozaXlRckFTYUZqTWNRNEtMb0NYb0hUZmhaSmZuSUluRjdNR210OWFfMFQwQjhKX3dSR1F3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T03:59:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3cd8b2a86b335030",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’",
+      "snippet": "A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head\nAbdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, wants Democratic congresswoman Haley Stevens to sta",
+      "link": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T03:56:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2594,40 +2334,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_cd9f25e4ebbd402e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "India’s Congress Party Plans Mass Protest in New Delhi",
-      "snippet": "Organizers are calling for one of the biggest demonstrations yet, in a string of rallies that has racked India since the summer.",
-      "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+      "id": "story_fbb4abd67628709f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "This week on \"Sunday Morning\" (Nov. 1)",
+      "snippet": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+      "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-1-2026/",
       "imageUrl": null,
-      "publishedAt": "2026-11-01T03:44:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a7b4c2543dfe4f2e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXVpOVM0QmxtbEZCN0huWnE2ekN4bFNPTklnTmdUUE5OdXlpeXg4VVJFWlBiS0RRbmdaT0RJc25yVU8yZ09CLVY4UFNXU1RYT2xXN3NSN3RLUm43RjFjZmc5UHlzNGZvYzlCZ1NoRXFvTHBlSUtTUkVSVWFEY1NRZ2tURkVLaVFrbDZDQzJBMVFyT0pDc2ZJNC13?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T03:43:53.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_78a871dd5e2c44ef",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "  ICE officer accused of intentionally striking man expected to surrender on Monday",
-      "snippet": "The officer was indicted by a grand jury in Houston.",
-      "link": "https://abcnews.com/US/indicted-ice-officer-accused-intentionally-striking-man-expected-surrender/story?id=137742480",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T03:40:52.000Z",
+      "publishedAt": "2026-11-01T03:44:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2646,19 +2360,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3bc92ec7802ea3c6",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
-      "snippet": "Starved and exhausted residents of Oleshky arrive in Ukraine after months of isolation, but some stay behind.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T03:37:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_25011f2daee52442",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2672,19 +2373,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4dc8fc04d09b93c4",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "  ICE officer accused of intentionally ramming man expected to surrender on Monday",
-      "snippet": "The officer was indicted by a grand jury in Houston.",
-      "link": "https://abcnews.com/US/indicted-ice-officer-accused-intentionally-ramming-man-expected/story?id=137742480",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T03:36:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_ed77b6f79111c514",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2693,6 +2381,318 @@
       "link": "https://www.foxnews.com/outkick-sports/byu-survives-unranked-arizona-state-second-half-rally-stays-unbeaten-home",
       "imageUrl": null,
       "publishedAt": "2026-11-01T03:29:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_52988a87cb8e16d3",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Chargers place standout S Derwin James (hamstring) on IR - Reuters",
+      "snippet": "Chargers place standout S Derwin James (hamstring) on IR  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUN3TzlQOFB0YUtlQy1QalZOc256RWZXa2VFU19XdlExSDFjQXNKWXg3dW4xZVJOWjZldXh6WUl0bjdxY25pSzE2eHdJQWZyTVBvVFRTNW90VnhBVHE2dXdHQXNZdEJhMTc5MnkyalgxUGhTUWRoblFYY0JuYlAyNWY5OWk3Y1lBSFpqaGNMUjFVR2N2cTJodmlOUmJMZXI0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T03:23:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_63f339870166e82c",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+      "snippet": "Javits Frimpong was on his way to school when he was shot in a neighborhood in the Bronx. He was 15 years old.",
+      "link": "https://www.dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T03:12:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e55d2a77e54cd870",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "The King to speak about slavery with 'unflinching honesty'",
+      "snippet": "The King will speak about slavery with \"unflinching honesty\" and \"sincere sorrow\" in a speech to Commonwealth leaders amid increasing pressure for Britain to offer an apology over its role in the transatlantic slave trade.",
+      "link": "https://news.sky.com/story/the-king-to-speak-about-slavery-with-unflinching-honesty-13606556",
+      "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-charles-guyana_7393591.jpg?20261101035036",
+      "publishedAt": "2026-11-01T03:07:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_83a9f5dc52a6d3f4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship",
+      "snippet": "Angel Reese scored just one fourth-quarter point in Game 7 as Gabby Williams erupted for 30 points to lead the Golden State Valkyries to a title.",
+      "link": "https://www.foxnews.com/outkick-sports/angel-reese-atlanta-dream-fall-short-game-7-golden-state-valkyries-win-first-wnba-championship",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T03:02:04.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9fe283790086305d",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Victor Wembanyama (43 points), Spurs handle short-handed Wolves - Reuters",
+      "snippet": "Victor Wembanyama (43 points), Spurs handle short-handed Wolves  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3M2Q1l0LXRMNGpjcTVkVk9sTXp1XzYxN1QyS0lxSDNqek9wdHhMT01jdFdWTmttN2luX3IwY0MyMUFLSjNOWHdObXN2TmFMUG9UZkZYV19rT0dUSzRmSmt4UVN6TDBsVzQtbDFpNnk1N1RRamktb0l2YVlpVHVVTlk2eVlyVE95UUpMVHVBR1lMRHRGSmw5NmVBNmlINFBRQlZheUlNTzBONm5GWFJTWDJTY19FbHJpaGZr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:59:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de1634497f90bf4e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Bangladesh forms wage board as garment protests turn violent - Reuters",
+      "snippet": "Bangladesh forms wage board as garment protests turn violent  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjhSamRicmVUSnUzRXhIZmkzVC1pVlhFWk1MRGFiM0VpOW9WTHRUQmd0a3BobkV3cUwxeHpzSkNLQWVmUWowb1BTTjE4MUlvaThta2YtaWZDUHpSdkxHZUtXNFhFQjlZMTNCM050QXJrc2FIV2JOVjNkWTFHZGE1bjMxek9PX1dEeWJiNDZNcWlhNDVOd1hoZ01DYXByQThDTEZqckVCeWVWQVIzVVNiV0lSNHhFVTdNdmh3TmtGT2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:58:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ca9d284bdf486853",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Jake Oettinger leads Stars past Blue Jackets - Reuters",
+      "snippet": "Jake Oettinger leads Stars past Blue Jackets  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXkyVXR2ZlN4Y1VKNDllZkJFMkZUWkhfR3huQ1BEanBOWTN2NFhSY1UtdnRCeFNfb015MnVENlFlZGtfNXcyMGswZmJRaERNTTRTUVFIMVVvdzNWajJ4V2tSRjAxa0xZUWNJZkZTRkhtYTRSemh1bFlsMVhBckR3TWdrYzlLbDdpZWhGU3A5WnltVExUdjhBbmtJRnY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:57:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c94329dcbadff988",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Boozer, Stewart lead Memphis to a 136-105 victory over Kings as Grizzlies remain unbeaten - AP News",
+      "snippet": "Boozer, Stewart lead Memphis to a 136-105 victory over Kings as Grizzlies remain unbeaten  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1ItRFdxTFpnTEVQa1pxNFlkbHJIaGFYWGNKX0RzdjJWRi1Gbk5VR0JKS2l5RnRNMmNLUU1laVRZQ3hHU1dvQklOMVllcEFsUTVoNHQ2bFlKdXpEd0FESmVzNnd2V2hrcEd0X2gzekFFdV9uRFkxZWVsSWpXcjVSOHRTX2NKeWZ2?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:56:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1583111e4202f3d3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump administration's social media posts ahead of elections criticized for being inflammatory - AP News",
+      "snippet": "Trump administration's social media posts ahead of elections criticized for being inflammatory  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVpYZEM5bzlYX3ZRemdXLXBKZVRUNi0tZ0J4MDFXYUJTOTROVk9KOVg1ekJDNzFadm1JN0xMdHdEcHota2pWY1ctY055eUxNV2pPY0ltMThDdU9jT2RCZXVFUlFZanQ1cjFKaUZBb1ZEOHktZG52dkJWSTZ4UHpvRDBNTENRRGNTTjJFcmxzTVVoNDBERjNXQUh0WEUtNTI4SDR5bTFPY290MVAzWTluUGJhTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:52:00.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9467efc68f7f6233",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRHZFaHRhT0hnMExoYm5QdkY5dkVUZ1JOU1hhN09VV2YycUV5TUVIQUw0NjJlaVRNd0VVQlk4THZPWkhrUnp4M3duSnNhNk5uNl8yM2FjV3VwX21CR0dnbU94MjUwX19vMERjN0podnhoU1JqWG54TGVnaEdVOXRBQWVHQWN3eEdKdkd5SC1IX2xzU1MxSHBPbkZUSE9KTG82V3UyTk4yOA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:51:46.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_5390b1e026f0e6ba",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Evan Mobley, Jarrett Allen lead Cavaliers to first road win at Bucks - Reuters",
+      "snippet": "Evan Mobley, Jarrett Allen lead Cavaliers to first road win at Bucks  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU241c0V1MHJWUnRjY3pQdmJxMEVLUkhGcFI5bm11VmhlX2ZMRnAxVmh3ZUNHUnhab0NtTnFUSm42MXFuSERkUmgyNi1ralMwbGszc1N5Rk82d3VLdDlCRktVZXFWb3lIcm1wSnNqZ21vWjV6OUNLU0xjTWk5N1VRWS1yTTladFRWR1RpazJDSTlLVThNQzgxb1ppQ043RkRzd1VxU0x1aE9QX1FSbTBEX2tiY01jZldEXzFFLQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:41:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_34302cbcdf2cd62a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens - AP News",
+      "snippet": "FBI visits Dan J. Sullivan donor in candidate’s hometown as Alaska Senate inquiry widens  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRV9KLUhEZ0cwNXhZaFZjbnNSVFdwZW5WdHp0NFZhYUtSNnpaNUVwd3h3TVd5eVBMNHIyNlBoRjFpeUMtaEtVTEYzcU5WMl9VTTZLY0xrYW5PRkNoc05sdU5QRHBCVUVXb0YyQ1ZUangwTHZLUWloaWRuOVVOLWVxbjh5UHhWZk5JTUtsRFY2MEFEV1pmT0J6UDNFWHNDQ3V2WVplcjA1UUo5S2NYalE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:40:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_34a0d196ea3c1fc3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Golden State wins first WNBA title in franchise history",
+      "snippet": "The title was won in the first Game 7 in WNBA Finals history.",
+      "link": "https://www.cbsnews.com/news/golden-state-wins-first-wnba-title-franchise-history/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:38:06.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_218bae68154709c7",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
+      "snippet": "In only their second season in existence, the Golden State Valkyries are WNBA champions.",
+      "link": "https://www.nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:25:29.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9b1025c24ed4f301",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Paul Skenes and Livvy Dunne's Halloween costume will enrage anyone tired of rushing through holidays",
+      "snippet": "Paul Skenes and Livvy Dunne dressed as Buddy the Elf and a Mrs. Butterworth's syrup bottle for Halloween, jumping straight to Christmas mode.",
+      "link": "https://www.foxnews.com/outkick-sports/paul-skenes-livvy-dunne-halloween-costume-enrage-anyone-tired-rushing-holidays",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:22:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dd419eace9f2963a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable' - Reuters",
+      "snippet": "Trump calls $50 million contract for ex-lawyer Habba Mildon 'not acceptable'  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjgzV092eGo2OEhXRVd2aGsxOTl5Zzc0V25lSHBSNW9Qd3FLTXVpQUszdEdqanpLdVVscjZlMUoxTllTYVhsd0ZqYzJfbGl6Ry1YRjhNY0NyY1hjdmNRdE9jTDdpck1VSVhuRUFKblRicVAwVERrMU9sTkU0d0ppaFM4OVoxYTlpb2otQUw0MlBNaDFTbVUxTzA0UExNTWU3MTlucVFCbGFiNzAwOE5BRjBTampMT2Y0U183dWxyRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:22:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1aa9d5af2cac0099",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Josh Anderson, Canadiens edge Penguins - Reuters",
+      "snippet": "Josh Anderson, Canadiens edge Penguins  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWhLMkE4Y3J3V3NKV1NoQmlQbXFYNDhLaUtrNG1ZcldLNFdDcWhSQ0prdlgzSXZ4ZXZ4UUdDbnlxbXJPQm4zYkRIZ2hDSlU3dzVzSjhhNUVPQUx3NHBpQ21oMEZGYVdlX1U2UTNfc2VmMnE0dXZ3bUZocnBZRGJmVFRUbU5kWmtXRDZfV1EzVzkwcDg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:22:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cc617cbeb5d0b7c1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Animals - AP News",
+      "snippet": "Animals  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBid3FvSVgxLUEwQTFhU1ZOd3d6dzVBX0JfWEdtN2VWUEhfMkNsZmx4bWRtZXdCbEwyTkt0dm9QWnNkTHVh?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:11:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_f92d366b9e67b704",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "William Nylander, Maple Leafs keep Canucks reeling - Reuters",
+      "snippet": "William Nylander, Maple Leafs keep Canucks reeling  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWV2LUNHcHFqLXVkZFI4cWVKd1FSb0lPaXBuZ0VvNWpWVlEyX3UzNEhfQU4wa0ZycVRNY3pLSV9Vblk0R1N3T0NOZDJMNjYxUGVkbGpycG05Y3pISXFoLVpIcWJveVhtcjFFT2lFY1kwZXEzY3FXX3lOV0VRWjFkSUtRajdwSHBKVy1jWXMyVVFGOTU4b1F4Y0QwZE91Q3JRN2Vr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:05:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5683f34c4b44ca5b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Alaska officials ask judge to deny DOJ’s ‘impossible’ demand to set aside ballots",
+      "snippet": "The Republican-led state government in Alaska implored a federal judge on Saturday to permanently dismiss the Trump administration’s lawsuit that seeks to block the certification of the Alaska Senate race if GOP Sen.",
+      "link": "https://www.nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:00:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f827976685269be4",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Saddiq Bey provides lift for Pelicans in victory over Hawks - Reuters",
+      "snippet": "Saddiq Bey provides lift for Pelicans in victory over Hawks  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRVZuVmtHM0E5M1lZUlZqZFNFQjQ5LWJ6bVJFX2lCT01ZenJ2elRuQTBZMjdIWHZobE1ORE9rYXJVSE91RmpycllyU2R1cDVScEt6SUs4ZVdKaC03blB1Sm5ydy1OTVhZSmFxNThHVFQ2WXk0VTMxWEU2M3JlVWpNMnBSNXV0eUJTb1A0SkpEMWlkZ0txY2FHYW9hN3luQjEtRUQ4Y21TYkZ1alA2cXFSag?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T02:00:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6d1d2be514e53afc",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Youth Olympics open in Senegal marking the first Olympic event in Africa - AP News",
+      "snippet": "Youth Olympics open in Senegal marking the first Olympic event in Africa  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUp2Y2VBQ0IwLTJjMDd0TzZsclI1ZFdETjlKMnFVZmRkMEc0WlVEYnJvQjhoMm40OVJWa2tDRm51ekdPYjhaOGZWTlgtY19SX2IzNDJvRDRjYTB1cjRNZkJwMFZVRXk4b0tLa1k2NlpES2Z2X01renlkc0JvbXBtVGNEQ2pPY2kybWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T01:50:00.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_bc935d504c78e072",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Republicans on defense in Texas while Democrats in Michigan can’t get on the same page - AP News",
+      "snippet": "Republicans on defense in Texas while Democrats in Michigan can’t get on the same page  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHloVEIzZEI3TmxoR0JDdWdRWWhlTHB3eFBtcDRnZDFDMEl6RkpzSlRZd3NHM0EtUnRqX1F4Vlh0OGxvaUkyM21RdGlWdlNPT1Q4Mlh1X2ZtbjZqRi1GdWY2TFlCYjdpVDNVaHhQR25WY29MbWdybFFmb3ZXc0ZqSExhS3VRVElxdU9Wa3BjRlY5YVJkdWp2QTh4ZDhQNWZHaGxYbWhkU2M0QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T01:48:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5bdb4a392b66927f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "NYC woman critically injured after being stabbed multiple times while jogging along Brooklyn waterfront",
+      "snippet": "A 28-year-old woman was stabbed in the neck while jogging along Brooklyn's Shore Parkway in New York City, and NYPD has no suspect identified.",
+      "link": "https://www.foxnews.com/us/nyc-woman-critically-injured-stabbed-multiple-times-jogging-brooklyn-waterfront",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T01:45:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
