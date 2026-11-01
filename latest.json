@@ -1,102 +1,118 @@
 {
-  "updatedAt": "2026-11-01T08:10:09.365Z",
+  "updatedAt": "2026-11-01T08:15:08.624Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.540Z"
+      "lastSuccess": "2026-11-01T08:15:08.971Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.468Z"
+      "lastSuccess": "2026-11-01T08:15:08.928Z"
     },
     "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.563Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-01T08:15:08.746Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.793Z"
+      "lastSuccess": "2026-11-01T08:15:09.083Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.582Z"
+      "lastSuccess": "2026-11-01T08:15:09.064Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.638Z"
+      "lastSuccess": "2026-11-01T08:15:09.030Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.607Z"
+      "lastSuccess": "2026-11-01T08:15:09.176Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.630Z"
+      "lastSuccess": "2026-11-01T08:15:09.154Z"
     },
     "Washington Post": {
       "online": false,
-      "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T08:10:09.942Z"
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-01T08:15:09.269Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.632Z"
+      "lastSuccess": "2026-11-01T08:15:09.004Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.643Z"
+      "lastSuccess": "2026-11-01T08:15:09.012Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.734Z"
+      "lastSuccess": "2026-11-01T08:15:09.130Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.791Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-01T08:15:09.089Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.721Z"
+      "lastSuccess": "2026-11-01T08:15:09.150Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.718Z"
+      "lastSuccess": "2026-11-01T08:15:09.266Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.817Z"
+      "lastSuccess": "2026-11-01T08:15:09.307Z"
     },
     "NBC News": {
-      "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.903Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-01T08:15:09.069Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T08:10:09.661Z"
+      "lastErrorAt": "2026-11-01T08:15:09.282Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.779Z"
+      "lastSuccess": "2026-11-01T08:15:09.606Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.892Z"
+      "lastSuccess": "2026-11-01T08:15:09.386Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.848Z"
+      "lastSuccess": "2026-11-01T08:15:08.792Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.827Z"
+      "lastSuccess": "2026-11-01T08:15:08.850Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T08:10:09.800Z"
+      "lastSuccess": "2026-11-01T08:15:09.462Z"
     }
   },
   "items": [
+    {
+      "id": "story_e61fb9bb11a007b3",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Donald Trump loses allies after elections in Serbia and Brazil",
+      "snippet": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US President Trump is crying electoral fraud.",
+      "link": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:11:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_448d43493cacb54b",
       "source": "DW",
@@ -108,6 +124,32 @@
       "publishedAt": "2026-11-01T08:06:00.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f2c395c84c785c08",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "English children’s homes are in crisis. Does Denmark hold the answers?",
+      "snippet": "UK children’s minister Josh MacAlister has travelled to Copenhagen to see what can be learned from Danish system\nIn a quiet suburb on the outskirts of Copenhagen sits a large white house, set back from the road behind a purple-leaved plum t",
+      "link": "https://www.theguardian.com/society/2026/nov/01/english-childrens-homes-crisis-denmark-care-system-model",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:00:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e6c1510a507c2b0f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Marquez wins Malaysian GP, extending MotoGP championship lead - Reuters",
+      "snippet": "Marquez wins Malaysian GP, extending MotoGP championship lead  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWpySVVUMXpweUNTOS1fbUZMSmljVWxJMGVJSF8xdC1raFZldW1jOVVrbldmQVpDLWFKMUZHVF95dm9kbUNlTW1CVjNiOVZfc01ETDhvSVdXaWJBWktTWXZmTzJPTTJYZjRqN1p6SlhIcGdxWXN0akc4WnBaN2NzU2QyN3ZjT282R1NjNlpfTnlyMkZYNXp5VUU2U3RZRHBYVVFnWktB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:53:23.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -551,6 +593,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_b3e301f9e2745a51",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Xtrackers II Eurozone Government Green Bond UCITS ETF (XGEZ.DE) | Stock Price & Latest News - Reuters",
+      "snippet": "Xtrackers II Eurozone Government Green Bond UCITS ETF (XGEZ.DE) | Stock Price & Latest News  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5keE9LUWp5WmtCOEgxbXdwcDU1YV91LTdhZURQUHVtRDFqVWRMeWhvLW9XZnFha1NCU3VIT2lXNW9XeldGUlRPTmdzYjRmQ2M5TUoxR2NQODV5UQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T06:01:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 13
     },
     {
       "id": "story_4327656681d8316b",
@@ -2642,58 +2697,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T22:36:41.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36ccc7f4115ccb48",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Vietnam cuts retail electricity price, removes gasoline tax from November 1 - Reuters",
-      "snippet": "Vietnam cuts retail electricity price, removes gasoline tax from November 1  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0MxaERXNWw4U25McV9YQUtQNllvaUxPdDgyUTZEZ2hBMlNEQ3U2ZThXTWwtNTU3UnVjbFdTQ3E3QkhUMVVxclMxcWY3UUdtaVNKTVpwSHk5REdMNUJ3SHN5NUxES2U5eEtkeGFkUTNEejBnWVFCMHZxdE50Zi1uT0ZIcEs1Qk5tQjFyT3FfMDdIZ2tNTUI2Z1diSU0teC1NVndvOGw3Wmduczc2WWxXTUh6aC1xUWZaM2ltbG1n?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T22:30:26.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_364f03134af4fb5a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "10/31: CBS Weekend News",
-      "snippet": "Trump rallies in Iowa, Kansas before midterms; Higher airfares, gas prices roil travelers.",
-      "link": "https://www.cbsnews.com/video/103126-cbs-weekend-news/",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T22:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bc4a5ea758ddbb51",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Jonathan Taylor trade talks 'active and ongoing' as Colts now fielding calls on All-Pro running back: report",
-      "snippet": "The Broncos, Packers, Vikings, Giants and Seahawks have all called about Jonathan Taylor as the Colts' NFL trade deadline fire sale heats up.",
-      "link": "https://www.foxnews.com/outkick-sports/jonathan-taylor-trade-talks-active-ongoing-colts-fielding-calls-all-pro-running-back-report",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T22:27:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_48b58210fb0dcba1",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Hamilton takes first proper pole for Ferrari, Antonelli starts fourth - Reuters",
-      "snippet": "Hamilton takes first proper pole for Ferrari, Antonelli starts fourth  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGlWdjVINldIeWxNTExNV01jTlZKOVJqWTdPMmRPRTBNZmFnWXBXeGtacmJkMUJldC1FTU0zTlVsMVQ5WVdhYUk2QmZqeG5ZM0U4UFpmeTEwSGNJR1Y1THVzZVZWU1Q5Z2pCcHJyTHpOc3hGVDdxWV9VVndkdzhvVXItQWlyZ3Frb1VSOVB5TWJ4aGdkbk8xeg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T22:27:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
