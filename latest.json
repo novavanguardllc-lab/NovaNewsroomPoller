@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-01T17:25:06.054Z",
+  "updatedAt": "2026-11-01T17:30:12.595Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.342Z"
+      "lastSuccess": "2026-11-01T17:30:13.229Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.397Z"
+      "lastSuccess": "2026-11-01T17:30:12.938Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.276Z"
+      "lastSuccess": "2026-11-01T17:30:12.813Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.279Z"
+      "lastSuccess": "2026-11-01T17:30:12.807Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.162Z"
+      "lastSuccess": "2026-11-01T17:30:12.788Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.240Z"
+      "lastSuccess": "2026-11-01T17:30:12.994Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.404Z"
+      "lastSuccess": "2026-11-01T17:30:13.270Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.378Z"
+      "lastSuccess": "2026-11-01T17:30:13.153Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.437Z"
+      "lastSuccess": "2026-11-01T17:30:13.116Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.179Z"
+      "lastSuccess": "2026-11-01T17:30:13.006Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.440Z"
+      "lastSuccess": "2026-11-01T17:30:13.246Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.197Z"
+      "lastSuccess": "2026-11-01T17:30:13.275Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.219Z"
+      "lastSuccess": "2026-11-01T17:30:13.014Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.459Z"
+      "lastSuccess": "2026-11-01T17:30:13.233Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T17:25:06.444Z"
+      "lastErrorAt": "2026-11-01T17:30:13.327Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.478Z"
+      "lastSuccess": "2026-11-01T17:30:13.310Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.602Z"
+      "lastSuccess": "2026-11-01T17:30:12.836Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.498Z"
+      "lastSuccess": "2026-11-01T17:30:13.437Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T17:25:06.602Z"
+      "lastErrorAt": "2026-11-01T17:30:13.438Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.585Z"
+      "lastSuccess": "2026-11-01T17:30:13.429Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.361Z"
+      "lastSuccess": "2026-11-01T17:30:12.766Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.620Z"
+      "lastSuccess": "2026-11-01T17:30:13.485Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T17:25:06.640Z"
+      "lastSuccess": "2026-11-01T17:30:13.530Z"
     }
   },
   "items": [
+    {
+      "id": "story_05712e3908391239",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Filmmaker Michael Mann suffers \"superficial injury\" at gun range",
+      "snippet": "Filmmaker Michael Mann was injured at a gun range in Los Angeles, his representative said.",
+      "link": "https://www.cbsnews.com/news/filmmaker-michael-mann-superficial-injury-gun-range/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T17:26:24.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_53a9518b1d447af7",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Ukraine defies Trump to resume attacks on Russian oil",
+      "snippet": "Reported strikes on two refineries risk angering the US president days before his country’s midterm elections\nUkraine has resumed its attacks on Russian oil refineries in defiance of pressure from Donald Trump ahead of the US midterm electi",
+      "link": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T17:20:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_107181c4345d67ef",
       "source": "DW",
@@ -122,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_2d93e6ebb9aeca7f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+      "snippet": "New electricity generating capacity would enable north-east to attract investment for major datacentre projects\nNational Grid has taken a step towards building Britain’s biggest electricity substation on Teesside, which could supply power t",
+      "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T17:10:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_92a673c5423b9524",
@@ -197,6 +236,32 @@
       "link": "https://thehill.com/opinion/national-security/6184776-economic-threat-epic-fury/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/hegseth_pete_trump_donald_10212026_AP26294694444631-2.jpg?w=900",
       "publishedAt": "2026-11-01T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_10829201c6058177",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "snippet": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T16:59:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_444d79bd6258e4f6",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Bangladesh workers clash with police in protests over low pay",
+      "snippet": "Dozens of garment workers in Bangladesh clashed with police in the capital Dhaka.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T16:52:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1318,6 +1383,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e3d59462e3a879c5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump's rallies in Iowa and Kansas come as Republicans fight to keep Senate and House control - AP News",
+      "snippet": "Trump's rallies in Iowa and Kansas come as Republicans fight to keep Senate and House control  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC13c2s2am5reGJsV1BBRXVWdjdfakxxb1RITFltVWdlVTZfX0lrUUN1MDZULUVvYktETVZtMHM5LUtWU3ZfbDdoYlZ1dDJfa0pPeS01ZEhKXzFBbU9hbWdlNXR1VGZPLVJFVlRCc1Zqd3VVNG5Xdm9BQ1VXdzk0dUVxOTVIV1ZjTkptV3NmNW91cGpWQmZuNXptcEdaUkE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T14:16:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_93551a9005dd28d9",
@@ -2615,84 +2693,6 @@
       "link": "https://news.sky.com/story/suspected-far-right-activists-from-britain-with-tear-gas-bombs-detained-in-france-say-authorities-13606604",
       "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-france-police-officers_7393706.jpg?20261101104422",
       "publishedAt": "2026-11-01T12:09:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8b799992b8bd6f45",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Popular seafood staple contains up to 64% less of key heart-healthy nutrient than older data showed",
-      "snippet": "Celebrity chef Andrew Zimmern argues improving aquaculture beats abandoning farmed salmon after USDA research revealed sharp drops in omega-3 fatty acid levels.",
-      "link": "https://www.foxnews.com/food-drink/popular-seafood-staple-contains-up-64-less-key-heart-healthy-nutrient-than-older-data-showed",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T12:07:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5fe5968bfdbfbab3",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Why daylight saving time ended so early this year",
-      "snippet": "Believe it or not, it's time again for the twice-a-year clock change.",
-      "link": "https://thehill.com/policy/energy-environment/6163315-why-daylight-saving-time-ends-so-early-this-year/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/GettyImages-851602378-e1730146169756.jpg?w=800",
-      "publishedAt": "2026-11-01T12:02:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31cd360d7f1ce680",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Amazon's No. 1 bestselling book and 9 reading essentials for your next page-turner",
-      "snippet": "Discover Amazon's No. 1 bestselling book, popular reads and must-have reading essentials, including Kindles, cozy chairs and clever accessories for your reading nook.",
-      "link": "https://www.foxnews.com/deals/books-and-reading-essentials",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T12:00:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a066061826b27e7f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "‘Cult mom’ Lori Vallow wanted him dead – 7 years later he gets last word on surviving doomsday killer’s plot",
-      "snippet": "A bullet missed Brandon Boudreaux's head by inches in 2019. He is now sharing his story after \"cult mom\" Lori Vallow Daybell's conviction.",
-      "link": "https://www.foxnews.com/us/cult-mom-lori-vallow-wanted-him-dead-7-years-later-he-gets-last-word-surviving-doomsday-killers-plot",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T12:00:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2cc57a1d29ec00b5",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Congress can save America’s unique history and boost the economy with just one move",
-      "snippet": "Trump urged Congress to pass a federal film tax credit as the U.S. share of global production has dropped from 65% to 39%, threatening American jobs.",
-      "link": "https://www.foxnews.com/opinion/congress-save-americas-unique-history-boost-economy-one-move",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T12:00:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_325bf9aefa6f6354",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "snippet": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities\nDonald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the ",
-      "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T12:00:12.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
