@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-01T15:05:06.753Z",
+  "updatedAt": "2026-11-01T15:10:08.571Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:06.860Z"
+      "lastSuccess": "2026-11-01T15:10:08.699Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:06.978Z"
+      "lastSuccess": "2026-11-01T15:10:08.658Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:06.893Z"
+      "lastSuccess": "2026-11-01T15:10:08.800Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:06.994Z"
+      "lastSuccess": "2026-11-01T15:10:08.884Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:06.982Z"
+      "lastSuccess": "2026-11-01T15:10:08.821Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.029Z"
+      "lastSuccess": "2026-11-01T15:10:08.841Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.037Z"
+      "lastSuccess": "2026-11-01T15:10:08.882Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.074Z"
+      "lastSuccess": "2026-11-01T15:10:08.909Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.100Z"
+      "lastSuccess": "2026-11-01T15:10:08.870Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.048Z"
+      "lastSuccess": "2026-11-01T15:10:08.889Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.109Z"
+      "lastSuccess": "2026-11-01T15:10:08.949Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.045Z"
+      "lastSuccess": "2026-11-01T15:10:08.887Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.060Z"
+      "lastSuccess": "2026-11-01T15:10:08.897Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.042Z"
+      "lastSuccess": "2026-11-01T15:10:08.912Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T15:05:07.052Z"
+      "lastErrorAt": "2026-11-01T15:10:08.940Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.104Z"
+      "lastSuccess": "2026-11-01T15:10:08.926Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.003Z"
+      "lastSuccess": "2026-11-01T15:10:08.744Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.140Z"
+      "lastSuccess": "2026-11-01T15:10:08.938Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T15:05:07.121Z"
+      "lastErrorAt": "2026-11-01T15:10:08.931Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.290Z"
+      "lastSuccess": "2026-11-01T15:10:09.146Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:06.922Z"
+      "lastSuccess": "2026-11-01T15:10:09.162Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:09.367Z"
+      "lastSuccess": "2026-11-01T15:10:09.226Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:05:07.214Z"
+      "lastSuccess": "2026-11-01T15:10:08.960Z"
     }
   },
   "items": [
+    {
+      "id": "story_2663790bf1a6619b",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Shooting after Alabama football game leaves 1 dead, 8 injured",
+      "snippet": "The shooting outside Legion Field in Birmingham, Alabama, was among several violent incidents nationwide on Halloween weekend.",
+      "link": "https://www.cbsnews.com/news/birmingham-alabama-football-game-shooting/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T15:04:33.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_8e072f3c944fbdd6",
       "source": "The Hill",
@@ -185,6 +198,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/Iowa_Fortinsky_AP_Bryon-Houlgrave_a0a6c6.jpg?w=900",
       "publishedAt": "2026-11-01T14:55:56.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a6ffa26a0d6d9c81",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia's FSB says minor detained over park attack threat after US tip-off - Reuters",
+      "snippet": "Russia's FSB says minor detained over park attack threat after US tip-off  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T14:55:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -991,6 +1017,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T13:02:10.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5363b13038cac4ee",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Director calls Broadway revival of ‘In the Heights’ at NY City Center a ‘balm for these times’ - AP News",
+      "snippet": "Director calls Broadway revival of ‘In the Heights’ at NY City Center a ‘balm for these times’  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUlsQkpkWFNoX0JDeUVyZWd4RU03VGp6RWhpaDlMMTc1Vk1ZaERWTm42Ym9zYURkN2ZienI1ZE02eUhsLTFPR2VBUWc3V0xqVnY5NVRHVFU5bkhFWVpKaE53SkRrQXlBZFExTUZGdzk3N2NkSlk2NWdqbkFjblc3TGh0bnlTNm9rbm1rT09haC1ZVzJGQzRV?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T13:02:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNkNoaUZuSmkyb0o3VmM1UGJQbkRxS21KTmR3VWJnekJEUUpDWnk0VXQ1ZDVfY0VHYkdlZWl0UnJaRm5lNE1naG54TGVpTHZ0ejlWaXhqVWpmUQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-01T10:11:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_81f2c2b64919ab8c",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Jamaal Bowman: ‘If I had kept my mouth shut, I’d be in Congress’",
-      "snippet": "Marc Lamont Hill speaks to Jamaal Bowman about the growing battle between progressives and the Democratic establishment.",
-      "link": "https://www.aljazeera.com/video/upfront/2026/11/1/jamaal-bowman-if-i-had-kept-my-mouth-shut-id-be-in-congress?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:10:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f9f2aef502074a5e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Philadelphia 76ers - AP News",
-      "snippet": "Philadelphia 76ers  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IYi16Z1Jwd3A5UjJvMGZiaGN0OTNBWG5hUWh4V1hSRWhiVXFXaHU1SnJzODJjcVBORkVLTUUwU3QzS2ZkLUI3ZVBMRG44S3Zwcy13?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:09:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1bd45be4ed26472",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "DAN GELSTON - AP News",
-      "snippet": "DAN GELSTON  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94eThoeURTWlJNamJtazZLSkJEa24tdURSNVJuYTRCQ1hWU1REeUhMdG9oUHpvZTRtcUk2UElZN1FuUVhZS2VSOUFkVmo3dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:09:29.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
