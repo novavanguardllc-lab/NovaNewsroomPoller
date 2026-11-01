@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-01T15:45:08.804Z",
+  "updatedAt": "2026-11-01T15:50:08.863Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.163Z"
+      "lastSuccess": "2026-11-01T15:50:08.989Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.424Z"
+      "lastSuccess": "2026-11-01T15:50:09.083Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.065Z"
+      "lastSuccess": "2026-11-01T15:50:09.107Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.284Z"
+      "lastSuccess": "2026-11-01T15:50:09.147Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.309Z"
+      "lastSuccess": "2026-11-01T15:50:09.142Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.564Z"
+      "lastSuccess": "2026-11-01T15:50:09.364Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.525Z"
+      "lastSuccess": "2026-11-01T15:50:09.406Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.501Z"
+      "lastSuccess": "2026-11-01T15:50:09.412Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.652Z"
+      "lastSuccess": "2026-11-01T15:50:09.285Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.768Z"
+      "lastSuccess": "2026-11-01T15:50:09.342Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.222Z"
+      "lastSuccess": "2026-11-01T15:50:09.384Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.265Z"
+      "lastSuccess": "2026-11-01T15:50:09.325Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.184Z"
+      "lastSuccess": "2026-11-01T15:50:09.328Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.783Z"
+      "lastSuccess": "2026-11-01T15:50:09.386Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T15:45:09.200Z"
+      "lastErrorAt": "2026-11-01T15:50:09.422Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.791Z"
+      "lastSuccess": "2026-11-01T15:50:09.445Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.688Z"
+      "lastSuccess": "2026-11-01T15:50:09.441Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.972Z"
+      "lastSuccess": "2026-11-01T15:50:09.468Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T15:45:09.981Z"
+      "lastErrorAt": "2026-11-01T15:50:09.463Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.942Z"
+      "lastSuccess": "2026-11-01T15:50:09.566Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:09.709Z"
+      "lastSuccess": "2026-11-01T15:50:09.201Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:10.139Z"
+      "lastSuccess": "2026-11-01T15:50:12.424Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T15:45:10.003Z"
+      "lastSuccess": "2026-11-01T15:50:09.620Z"
     }
   },
   "items": [
+    {
+      "id": "story_d8de2ed6525ac990",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+      "snippet": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T15:40:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_17e1160779e43130",
       "source": "Guardian",
@@ -111,6 +124,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_d23a87aed05fac2a",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+      "snippet": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T15:38:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7e4b6f218f73b2f3",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -122,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_5ab75cc4cb4b349c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Serbia arrests police chief over abuse of office allegations",
+      "snippet": "Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down.",
+      "link": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T15:36:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_37d4ba4a3dea0549",
@@ -306,6 +345,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9e4e7d17b9f06ce5",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Data centres on the ballot: could the AI infrastructure shape US midterms?",
+      "snippet": "Voters from Ohio to Illinois decide dozens of local measures on Tuesday, as opposition to the giant buildings powering AI cuts across party lines.",
+      "link": "https://www.france24.com/en/data-centres-on-the-ballot-could-the-ai-infrastructure-shape-us-midterms",
+      "imageUrl": "https://s.france24.com/media/display/c3162cc2-d604-11f1-8753-bf1914cabd52/w:1024/p:16x9/01-11-2026-13-59-ING33-PGM-B-FF.jpg",
+      "publishedAt": "2026-11-01T15:11:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2663790bf1a6619b",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -405,6 +457,19 @@
       "link": "https://www.cbsnews.com/video/the-legacy-of-milwaukees-socialist-mayors/",
       "imageUrl": null,
       "publishedAt": "2026-11-01T14:58:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5582d8ffe6b8daf3",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Oleshky residents return to Ukraine",
+      "snippet": "Residents evacuated from Russian-occupied Oleshky have reached Ukrainian-held territory following a rare local truce. They described years of isolation, food shortages and regular shelling, with some saying they were forced to eat grass and",
+      "link": "https://www.france24.com/en/oleshky-residents-return-to-ukraine",
+      "imageUrl": "https://s.france24.com/media/display/e35562ea-d5fb-11f1-b3a1-bf1914cabd52/w:1024/p:16x9/EN-20261101-140341-140954-CS.jpg",
+      "publishedAt": "2026-11-01T14:56:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2628,71 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/op-eds/4784814/political-islam-sharia-law-us-constitution/",
       "imageUrl": null,
       "publishedAt": "2026-11-01T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eabd67d4f2c1d23a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Vance road tests 2028 campaign as Trump’s midterm sideshow",
-      "snippet": "Weatherton, TEXAS — Vice President Vance is honing in on his campaign message ahead of Election Day in what many see as a preview of a presidential bid in 2028 that seems all but certain.  As Trump has criss-crossed the country for almost d",
-      "link": "https://thehill.com/homenews/administration/6185794-vance-hones-2028-campaign-message-midterms/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Vance_Manchester_Illo_CJ-GN.png?w=900",
-      "publishedAt": "2026-11-01T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e104f8796fe8ff4f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "2028 hopefuls with the most riding on the midterms",
-      "snippet": "The candidates with the most at stake in Tuesday’s midterm elections won’t necessarily be the ones on the ballot.  For a growing field of prospective 2028 presidential contenders in both parties, the results could offer an early test of the",
-      "link": "https://thehill.com/homenews/campaign/6185322-2028-presidential-contenders-midterm-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Stakes_110126_Parnes_AP_Jeffrey-Collins.jpg?w=900",
-      "publishedAt": "2026-11-01T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_077f9294a83c0843",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "The 10 races that will decide House control",
-      "snippet": "The battle for the House majority will come down to a handful of battleground districts. Republicans are playing defense as they seek to defend their 218-214 majority while facing tough political headwinds. All 435 House seats are up for gr",
-      "link": "https://thehill.com/homenews/house/6185022-key-house-battleground-districts/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/HouseControl_Karlin_illo_SamanthaWong-AdobeStock.jpg?w=900",
-      "publishedAt": "2026-11-01T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fff1c9efc769a0f6",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Talking Shop with Becky G",
-      "snippet": "Singer Becky G takes gift giving very seriously. These are some of her favorite products to give to loved ones, especially from small businesses.",
-      "link": "https://www.nbcnews.com/select/shopping/becky-g-favorite-gifts-rcna606615",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dfee2290dfe6d639",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Bulgarians vote in presidential run-off amid Black Sea tensions",
-      "snippet": "Voters in Bulgaria weigh economic challenges and attacks on ships in a race marked by record low turnout.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarians-vote-in-presidential-run-off-amid-black-sea-tensions?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:57:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
