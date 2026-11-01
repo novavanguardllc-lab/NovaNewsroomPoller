@@ -1,102 +1,168 @@
 {
-  "updatedAt": "2026-11-01T07:10:08.170Z",
+  "updatedAt": "2026-11-01T07:15:08.526Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.339Z"
+      "lastSuccess": "2026-11-01T07:15:08.801Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.292Z"
+      "lastSuccess": "2026-11-01T07:15:08.731Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.370Z"
+      "lastSuccess": "2026-11-01T07:15:08.745Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.299Z"
+      "lastSuccess": "2026-11-01T07:15:08.807Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.374Z"
+      "lastSuccess": "2026-11-01T07:15:08.858Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.390Z"
+      "lastSuccess": "2026-11-01T07:15:08.865Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.419Z"
+      "online": false,
+      "lastError": "Status code 406",
+      "lastErrorAt": "2026-11-01T07:15:08.968Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.500Z"
+      "lastSuccess": "2026-11-01T07:15:09.242Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T07:10:08.519Z"
+      "lastErrorAt": "2026-11-01T07:15:09.208Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.494Z"
+      "lastSuccess": "2026-11-01T07:15:09.002Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.518Z"
+      "lastSuccess": "2026-11-01T07:15:09.019Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.478Z"
+      "lastSuccess": "2026-11-01T07:15:09.061Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.512Z"
+      "lastSuccess": "2026-11-01T07:15:09.011Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.555Z"
+      "lastSuccess": "2026-11-01T07:15:09.025Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.463Z"
+      "lastSuccess": "2026-11-01T07:15:08.967Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.539Z"
+      "lastSuccess": "2026-11-01T07:15:09.256Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.627Z"
+      "lastSuccess": "2026-11-01T07:15:09.328Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T07:10:08.514Z"
+      "lastErrorAt": "2026-11-01T07:15:09.250Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.679Z"
+      "lastSuccess": "2026-11-01T07:15:09.206Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.620Z"
+      "lastSuccess": "2026-11-01T07:15:09.369Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.357Z"
+      "lastSuccess": "2026-11-01T07:15:09.235Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.583Z"
+      "lastSuccess": "2026-11-01T07:15:09.222Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T07:10:08.546Z"
+      "lastSuccess": "2026-11-01T07:15:08.989Z"
     }
   },
   "items": [
+    {
+      "id": "story_46f99d55ffbce6ea",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Michigan - AP News",
+      "snippet": "Michigan  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BTWtOdGNlc2xxQVVTcnE5b0FuUy1HT056Xy1VWk5pQWJ6TEgwT2pkUnZaN2JIcEE3Z242STNLOGR0VjRIdFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:11:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_18d9031b39df14c4",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Cricket - AP News",
+      "snippet": "Cricket  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBfY1ozNUxwdEpqZFVSUXZlNG5IM3FGMzFJVUg2ZjIwVXpxWmMxNmppaUJDbTNWQS0zR1NPbW5pZTJzTGY3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:11:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c92eda8ed01b8683",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "New York City - AP News",
+      "snippet": "New York City  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aUE95RnBsNG43aExLc2FpVnVpRDlBdi1RWE9ISWxnNUdlbzNUajk2c04yMVlrTHEtOEV0NEFOVlZwMUNWeWNsZDJZOUI?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:10:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e744c463481ed4df",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Deportes - AP News",
+      "snippet": "Deportes  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:10:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_9258a833ab662ffb",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Latin American News | Latest Latin American News - AP News",
+      "snippet": "Latin American News | Latest Latin American News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T07:07:01.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dcac04b6e194497a",
       "source": "Reuters",
@@ -2629,71 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-10-31T21:36:15.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a9231df1b62fa728",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Some 320,000 demonstrators take part in largely peaceful protests across France",
-      "snippet": "Around 320,000 protesters took part in a third mass protest over living costs across France on Saturday, the interior ministry estimated, while organizers counted nearly half a million. Tensions flared ​at the end of marches in ​some cities",
-      "link": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france",
-      "imageUrl": "https://s.france24.com/media/display/6cab939e-d53d-11f1-afa5-d18c5759e759/w:1024/p:16x9/dd3945a172f536507377aa257ecac6087cc17aa8.jpg",
-      "publishedAt": "2026-10-31T21:34:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d4f004203196c2d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Rubio says the US government did not facilitate Bolsonaro’s flight to the US - AP News",
-      "snippet": "Rubio says the US government did not facilitate Bolsonaro’s flight to the US  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVg0V2VkUXZFZ2RqeDZXUE82RnFiS1NqTzhDSG5HZjU4QnNtTWFJMGtzelgySGU1ZndRX1NLU1pVelIwS1RDMDlyczAxU1hpQmhVUnc2Rzl3WHhPbXM3a2p0LUMyNzZjUnVJcWpuNEV2dS1PMW1la2xNdFRRd3EtWGNHUmF1M24wTHBOZ1g4QWZCMDBpMFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T21:34:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5579866f60d4174d",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
-      "snippet": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law.",
-      "link": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T21:32:54.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_7794c1936fa69ed7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "5820.JNX - | Stock Price & Latest News - Reuters",
-      "snippet": "5820.JNX - | Stock Price & Latest News  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nekRaVUw3Q2RNaDRJd0swWUppSlJ5S19jTnk1eVpjalRFY29nN2xzZjl1LTFCM0xFX1g0YlVjYUJnc1lLQ2FRVE9jc2wzbUNOTTlaMzdGNmVoaWZjc3FZMGZDbDZlLWpHVkpPTkZob19Pa2dqT1RDWmtB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T21:31:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_4fa27dfd1d6273fb",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Europe’s youth return to the streets for another weekend of protests, in photos - AP News",
-      "snippet": "Europe’s youth return to the streets for another weekend of protests, in photos  AP News",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU01GS0VtU3VXajdBT2I4aUM3aUFXT0tydFo2LVBWUmZGcUoxRF90bmhBRFBEMWZNcE5XQ2pPNHpTYm5pd1BrWHI1Vk9CZEVIOG9mdXRnYU5PWnAtM0dXRXlUbmFVRlFjMjV0bXh1Y1lkN2NRXzhxU1JDWTBrY0ZzNEhkNDZCUi02VllHc2prZ2hJbm80SWU0TWZHSU9scUs0UXNvTzFVOGlBTVlnM2hvRzFZeGpZXzY0SW9BVmpLVElVdVY5WWc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T21:31:18.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
