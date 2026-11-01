@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-11-01T20:45:08.328Z",
+  "updatedAt": "2026-11-01T20:50:09.116Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.634Z"
+      "lastSuccess": "2026-11-01T20:50:09.590Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.598Z"
+      "lastSuccess": "2026-11-01T20:50:09.233Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.539Z"
+      "lastSuccess": "2026-11-01T20:50:09.179Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.681Z"
+      "lastSuccess": "2026-11-01T20:50:09.271Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.555Z"
+      "lastSuccess": "2026-11-01T20:50:09.253Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.955Z"
+      "lastSuccess": "2026-11-01T20:50:09.269Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.810Z"
+      "lastSuccess": "2026-11-01T20:50:09.359Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.729Z"
+      "lastSuccess": "2026-11-01T20:50:09.406Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.948Z"
+      "lastSuccess": "2026-11-01T20:50:09.387Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.855Z"
+      "lastSuccess": "2026-11-01T20:50:09.409Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.818Z"
+      "lastSuccess": "2026-11-01T20:50:09.392Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.814Z"
+      "lastSuccess": "2026-11-01T20:50:09.248Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.734Z"
+      "lastSuccess": "2026-11-01T20:50:09.420Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.850Z"
+      "lastSuccess": "2026-11-01T20:50:09.389Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-01T20:45:08.867Z"
+      "lastErrorAt": "2026-11-01T20:50:09.407Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:14.211Z"
+      "lastSuccess": "2026-11-01T20:50:09.424Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.978Z"
+      "lastSuccess": "2026-11-01T20:50:09.297Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:09.048Z"
+      "lastSuccess": "2026-11-01T20:50:09.437Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-01T20:45:09.106Z"
+      "lastErrorAt": "2026-11-01T20:50:09.429Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:09.349Z"
+      "lastSuccess": "2026-11-01T20:50:09.573Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:08.530Z"
+      "lastSuccess": "2026-11-01T20:50:09.668Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:09.433Z"
+      "lastSuccess": "2026-11-01T20:50:09.961Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-01T20:45:09.126Z"
+      "lastSuccess": "2026-11-01T20:50:09.483Z"
     }
   },
   "items": [
+    {
+      "id": "story_44fd18455b338c85",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Learjet with 9 aboard crashes in Palm Beach, Florida: FAA",
+      "snippet": "The jet had taken off from Austin, Texas, and was headed to the Bahamas, according to the FAA.",
+      "link": "https://abcnews.com/US/learjet-9-aboard-crashes-palm-beach-florida-faa/story?id=137753599",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T20:46:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_7b0e4d2d180a99fb",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Jet crashes in Florida with nine people on board ",
+      "snippet": "A Learjet 60 jet heading for the Bahamas crashed in Florida Sunday afternoon with nine people on board, the Federal Aviation Administration said.",
+      "link": "https://www.nbcnews.com/news/us-news/jet-crashes-florida-nine-people-board-rcna606874",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T20:43:44.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_bca55fbe9414ad37",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Jet from Texas crashes near homes in Palm Beach, Florida, FAA says",
+      "snippet": "Details about what may have caused the crash had not yet been shared.",
+      "link": "https://www.cbsnews.com/news/texas-jet-florida-crash-11-1-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T20:43:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_6687bda938fab2ec",
       "source": "France24",
@@ -1330,6 +1369,19 @@
       "publishedAt": "2026-11-01T17:52:34.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e63ac4b3313d9495",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Explainer: How Trump’s noncitizen voter lists could affect the midterms - Reuters",
+      "snippet": "Explainer: How Trump’s noncitizen voter lists could affect the midterms  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm9ZSldZUlltbnFxUUhWanNTQjRneFM1YnR4MlpuSWtwNlpVaE56cGVfUnJWSGN1QzFFQktUZEk1XzB6MThhRDJ6ODBkakt2UGZTQk16LVRGUU5qU1FhYjVyQUtIOVJNZmZyZlhSOW9kWDhIajBvTXJJelRNSXFWRFVnd0wyYkJnRkFiT1RjbzVjT2E5eUdTUGp2ZXVGZUpsTEw2bkhJak9NbGxH?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T17:50:09.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2642,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-01T15:24:10.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_61e386096ab0be33",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-      "snippet": "The UK PM's statement comes as Commonwealth nations meet in Antigua and Barbuda.",
-      "link": "https://www.aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T15:24:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2a1ec19f138e7d33",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Larry the Cat, at home on Downing Street",
-      "snippet": "One of the most famous addresses in the world, 10 Downing Street in London, is home not just to prime ministers, but also to a 19-year-old tabby cat named Larry. Correspondent Holly Williams looks at how the official pet of the British lead",
-      "link": "https://www.cbsnews.com/video/larry-the-cat-at-home-on-downing-street/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T15:24:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_88e88e267a2f9c3c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Andreas Almgren wins men's race in NYC in marathon debut, Sheila Chepkirui wins women's race - AP News",
-      "snippet": "Andreas Almgren wins men's race in NYC in marathon debut, Sheila Chepkirui wins women's race  AP News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Tc1JoaUlacXFSWFBuOW52aS16U0tJOVFiOEhaaWhySTFRYjBKZ3hraGFKeExRR21qN0RCTzNNN3pKal9vQlJINEFfRTByOEg5SDBfdzFCbHFUWmZNRDhBeXBCMFFZRmlmV0xmWnd4QlpJWmNwbUVrNEFsWkI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T15:23:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44b50a7c92f46f65",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Sullivan claims Peltola is 'still lying' about campaign's involvement in Alaska ballot controversy - AP News",
-      "snippet": "Sullivan claims Peltola is 'still lying' about campaign's involvement in Alaska ballot controversy  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDIwVGtzRDN4cGg1V0ZoV3Nlb1Y3WGV6TGlpVmwtNVJxR1ZsTDFRd2NEZlJjWlRmV0hlMzk3a1RyREJCa0Z4Snk0cVRrd01SS3lkMUZyc2FMM3JNZWw5eE1iQm1MemZSUk13UWlMRjdVTUh0MUdOQ2taYVY5d3NNd2NoRU4zOEhlTmpkYjFCTU9qS2lFNWxLZzRHNVctazdQdVVldXhCMkg0STBl?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T15:23:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
