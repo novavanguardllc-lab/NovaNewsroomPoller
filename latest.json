@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-02T10:15:08.612Z",
+  "updatedAt": "2026-11-02T10:20:09.089Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:08.933Z"
+      "lastSuccess": "2026-11-02T10:20:09.172Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.050Z"
+      "lastSuccess": "2026-11-02T10:20:09.228Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.110Z"
+      "lastSuccess": "2026-11-02T10:20:09.289Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:08.834Z"
+      "lastSuccess": "2026-11-02T10:20:09.175Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.095Z"
+      "lastSuccess": "2026-11-02T10:20:09.150Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.228Z"
+      "lastSuccess": "2026-11-02T10:20:09.213Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.531Z"
+      "lastSuccess": "2026-11-02T10:20:09.502Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.353Z"
+      "lastSuccess": "2026-11-02T10:20:09.266Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.172Z"
+      "lastSuccess": "2026-11-02T10:20:09.274Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.292Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-02T10:20:19.097Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:08.974Z"
+      "lastSuccess": "2026-11-02T10:20:09.189Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.429Z"
+      "lastSuccess": "2026-11-02T10:20:09.335Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.008Z"
+      "lastSuccess": "2026-11-02T10:20:09.316Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:08.953Z"
+      "lastSuccess": "2026-11-02T10:20:09.192Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T10:15:09.231Z"
+      "lastErrorAt": "2026-11-02T10:20:09.529Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.695Z"
+      "lastSuccess": "2026-11-02T10:20:09.410Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.613Z"
+      "lastSuccess": "2026-11-02T10:20:09.330Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.373Z"
+      "lastSuccess": "2026-11-02T10:20:09.585Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.031Z"
+      "lastSuccess": "2026-11-02T10:20:09.292Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.516Z"
+      "lastSuccess": "2026-11-02T10:20:09.391Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T10:15:09.615Z"
+      "lastErrorAt": "2026-11-02T10:20:09.320Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.734Z"
+      "lastSuccess": "2026-11-02T10:20:09.351Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:15:09.409Z"
+      "lastSuccess": "2026-11-02T10:20:09.313Z"
     }
   },
   "items": [
+    {
+      "id": "story_6f6370ed762ea231",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+      "snippet": "Nuclear danger, radiation threat and street combat: Ukrainians received a wave of messages Sunday night that raised alarm with a series of grave — and baseless — warnings.",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-russia-emergency-app-cyberattacks-alerts-radiation-kyiv-war-rcna606964",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:14:52.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_54fd801c1301ef59",
       "source": "France24",
@@ -106,6 +120,19 @@
       "link": "https://www.france24.com/en/video/20261102-midterms-will-trump-backlash-lead-to-democratic-landslide",
       "imageUrl": "https://s.france24.com/media/display/fa626390-d6a3-11f1-b020-bf1914cabd52/w:1024/p:16x9/EN-20261102-101319-102228-CS.jpg",
       "publishedAt": "2026-11-02T10:11:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a9ffdf8c5595e59b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "This Presidency Is All Flaws and No Majesty",
+      "snippet": "Will Americans decide this week that character does, after all, matter?",
+      "link": "https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:02:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -458,6 +485,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T09:35:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f4c624e98de6bd3f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ukraine says Russia used Oleshky ceasefire to reinforce positions - Reuters",
+      "snippet": "Ukraine says Russia used Oleshky ceasefire to reinforce positions  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJhblpJUzZ3RGRyak5uVjBUZGEzd3JGWk9NaHZlV3FCd2ExX0NfaWtQaHdFamxBbk12UVRzMTUyRV9uZE1qMGlyNVFER05IRFhuWUZfek9YTEJLQ0Q4X3R1c0Y0UjM1Vk1GcFBYMmczbW85OEY4eVdVY0lpZnBGZ0ExZmN2S1ZVVkRwcTdyVjdxYU53OHBwWEZzV0xBbUoxMXQ3aUdzdzBrUklvdGt6bA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:32:02.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2542,6 +2582,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b808c28d09437ea7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmNaM1pBRU51SFg3TTBBVTRrZEJWbnBnZWhnTlVUVTBobWdCNFV0TWxfdGlQand2Z0QxZm9fNEppZ0FPRW94NkJndDktVEpEX01ZMEJlRkQtdThtaWo5a2xyRjFwdW5mcWJ5djduVnVraVg3NHFJSjhqcXJJTUVjYVlzLVZDWXFjbzJpVnpSYnhtQWduOGxlOHFmdmt2aGNiYkE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T04:15:26.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_c97ad0524acf4f5a",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2553,6 +2606,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_4461dde29be3543a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzNZQjlKWDJYNFBpN1BhNWlBb0ZndVJBRjdxbjkybW5zQXJsLTdWc3hlNkVOcXpaUnRrVVowdEREcjVkeXJxOTZtTHRCcXdIY01SMHExTG90eGwtazczMlFSZ0FBOXpxNU85Undjcml6el9mY2lva21abV9tM2JfcDVkUGhtT2J3QUxLRmRB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T04:09:34.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_2c92ff6bd653015d",
@@ -2631,71 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_007212f454a0570a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘I want to slap you around a bit, too’: Victorian magistrate reprimanded over language in court",
-      "snippet": "Judicial commission finds against Vicky Prapas over a series of comments, including one made when school children were present\n\nGet our breaking news email, free app or daily news podcast\n\nA magistrate who told a court user “I want to slap ",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/02/victorian-magistrate-reprimanded-over-language-in-court-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T04:05:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_192330b7d972e8b5",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Trump makes fevered campaign push in final weekend before election ",
-      "snippet": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T04:04:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ef551333926a7364",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence - AP News",
-      "snippet": "Dozens of Commonwealth leaders descend on Antigua during global political turbulence  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkx2ME11YWl5OU10RGtTdTZkbEphME9uLXpQdnVPejV1WHpETU5fdWhQVmVtZEtfajBzNWJ5YnI4NjdEbmdUWms4aWFzdWtLTzJpb0hBWXVKSTk3c2o0VUxla1NUTnFiSjNSbFZMeUtrdFFTcFM3Wi1POXJEcGpZZFplSjA2SmVUb29QUzFyM29tNE8tZ0ZGWW5jRjBCZG5RRmlwVlVCaVRnbEZ1?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T04:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ce37b8d2ba2f05d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "snippet": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:58:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d668d11799a3ab93",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Sharks aiming for consistency heading into home matchup vs. Flames - Reuters",
-      "snippet": "Sharks aiming for consistency heading into home matchup vs. Flames  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR2FsY2NtQlM1WVR4bS1mSUZ5VllBRm9KVDJXNU9UbWM3SUFaWkNsd3I4RnB3Z1BWVG1pWnVrS0JoaFEwRDJxdDEzcV9yYTViS09CczBnM0xJV2cyRXJrODRjSFRMQlJxTzRVdkZ2RVl5b3g4MkVRWGJnTFhWeEVSRlUyNmNsYnVjZF9lZmYwR1IxNl9Xd3dpcHJIU0hheGtuTGYtaHRHZWNSY285OHJhQ0JUYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
