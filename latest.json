@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-02T14:50:08.980Z",
+  "updatedAt": "2026-11-02T14:55:05.835Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.151Z"
+      "lastSuccess": "2026-11-02T14:55:05.897Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.059Z"
+      "lastSuccess": "2026-11-02T14:55:05.932Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.126Z"
+      "lastSuccess": "2026-11-02T14:55:05.883Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.084Z"
+      "lastSuccess": "2026-11-02T14:55:05.970Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.236Z"
+      "lastSuccess": "2026-11-02T14:55:05.961Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.171Z"
+      "lastSuccess": "2026-11-02T14:55:05.936Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.195Z"
+      "lastSuccess": "2026-11-02T14:55:05.951Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.213Z"
+      "lastSuccess": "2026-11-02T14:55:05.981Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.191Z"
+      "lastSuccess": "2026-11-02T14:55:06.042Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.222Z"
+      "lastSuccess": "2026-11-02T14:55:05.965Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.209Z"
+      "lastSuccess": "2026-11-02T14:55:05.973Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.256Z"
+      "lastSuccess": "2026-11-02T14:55:05.998Z"
     },
     "Wash Examiner": {
-      "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.245Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-02T14:55:15.857Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.286Z"
+      "lastSuccess": "2026-11-02T14:55:06.087Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T14:50:09.205Z"
+      "lastErrorAt": "2026-11-02T14:55:06.012Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T14:50:09.292Z"
+      "lastErrorAt": "2026-11-02T14:55:06.117Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.291Z"
+      "lastSuccess": "2026-11-02T14:55:06.037Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.411Z"
+      "lastSuccess": "2026-11-02T14:55:06.116Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.051Z"
+      "lastSuccess": "2026-11-02T14:55:05.948Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:11.695Z"
+      "lastSuccess": "2026-11-02T14:55:08.045Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.360Z"
+      "lastSuccess": "2026-11-02T14:55:06.134Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.433Z"
+      "lastSuccess": "2026-11-02T14:55:05.917Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:50:09.447Z"
+      "lastSuccess": "2026-11-02T14:55:05.928Z"
     }
   },
   "items": [
+    {
+      "id": "story_1cbd1327456a1fde",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "U.K. man returns home after 28 years walking 30,000 miles around the world",
+      "snippet": "Karl Bushby began what came to be known as his \"Goliath Expedition\" in Chile on Nov. 1, 1998.",
+      "link": "https://www.cbsnews.com/news/englishman-karl-bushby-returns-home-walking-goliath-expedition/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T14:50:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_499db44bad3bea88",
       "source": "CBS News",
@@ -406,6 +420,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T14:14:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c7b70809c55ddff8",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt - Reuters",
+      "snippet": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T14:13:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2694,6 @@
       "link": "https://www.cbsnews.com/news/maria-alvarado-us-executive-vatican-key-job-first-laywoman-ministry/",
       "imageUrl": null,
       "publishedAt": "2026-11-02T11:13:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_993570a5e9b2d212",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "snippet": "Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores\nSupermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens ",
-      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T11:12:36.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_3cddf518efc21288",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-      "snippet": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party\n\nEurope live – latest updates\n\nUnknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending resi",
-      "link": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T11:11:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
