@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-02T01:15:08.249Z",
+  "updatedAt": "2026-11-02T01:20:08.612Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.550Z"
+      "lastSuccess": "2026-11-02T01:20:08.880Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.434Z"
+      "lastSuccess": "2026-11-02T01:20:08.660Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.440Z"
+      "lastSuccess": "2026-11-02T01:20:08.856Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.574Z"
+      "lastSuccess": "2026-11-02T01:20:08.759Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.763Z"
+      "lastSuccess": "2026-11-02T01:20:08.909Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.620Z"
+      "lastSuccess": "2026-11-02T01:20:08.711Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.913Z"
+      "lastSuccess": "2026-11-02T01:20:09.105Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.836Z"
+      "lastSuccess": "2026-11-02T01:20:08.853Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.656Z"
+      "lastSuccess": "2026-11-02T01:20:08.861Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.699Z"
+      "lastSuccess": "2026-11-02T01:20:08.892Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.553Z"
+      "lastSuccess": "2026-11-02T01:20:08.919Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.839Z"
+      "lastSuccess": "2026-11-02T01:20:08.922Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.857Z"
+      "lastSuccess": "2026-11-02T01:20:08.934Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.776Z"
+      "lastSuccess": "2026-11-02T01:20:08.669Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T01:15:08.669Z"
+      "lastErrorAt": "2026-11-02T01:20:08.945Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.998Z"
+      "lastSuccess": "2026-11-02T01:20:08.952Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.979Z"
+      "lastSuccess": "2026-11-02T01:20:08.945Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.960Z"
+      "lastSuccess": "2026-11-02T01:20:09.152Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.459Z"
+      "lastSuccess": "2026-11-02T01:20:08.783Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:09.269Z"
+      "lastSuccess": "2026-11-02T01:20:09.139Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T01:15:08.980Z"
+      "lastErrorAt": "2026-11-02T01:20:08.936Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:09.074Z"
+      "lastSuccess": "2026-11-02T01:20:09.015Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:15:08.750Z"
+      "lastSuccess": "2026-11-02T01:20:08.940Z"
     }
   },
   "items": [
+    {
+      "id": "story_8b5c937ea31d227f",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+      "snippet": "New Times/Siena surveys show Democrats leading in all the key battlegrounds that will decide Senate control.",
+      "link": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T01:16:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_28396097b1c31bb3",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "German police investigating after needles found in Halloween candy",
+      "snippet": "Police say they received phone calls with reports about sharp objects concealed in Halloween candy.",
+      "link": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T01:16:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5fe0015e3e5bf94b",
       "source": "Wash Examiner",
@@ -2126,6 +2152,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d591f51e425bf621",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Deutsche Bank to close 20% of domestic branches - Reuters",
+      "snippet": "Deutsche Bank to close 20% of domestic branches  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pR0RMNlczNXZxT08xX3Q3bE4xZWxqMnRUUlY5OVJqVjg4VUdWVDMwZEo1dWtKbElsNERNOERrVmFMYW9oRDF1Z0VJMHJkc0ctdlBMS2FhLWR4TGw4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T20:59:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_28b608637e574e4f",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2160,6 +2199,19 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmb2IxYXBXUW8xOHhlQVZmN1B6YjVVTG80M1FDVTdMUFU5ankwNDRmUlptSnczSDlYcVJyejc2NUh3MkRyX0huVnVoeFprV1c1ZnV5Q3NEWHZ1VlVHa0tYb0YtVUNNWEQ3YVp3LVR1b18?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-01T20:54:14.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bfa9b15eeb202eb9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Japan Steel Works Ltd (5631.T) | Stock Price & Latest News - Reuters",
+      "snippet": "Japan Steel Works Ltd (5631.T) | Stock Price & Latest News  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjR21KWTZDZk9rUjN6RFpFeS1BTW1wSGhlbEpwWjhvdjBSRmczZ3RPUF92eFJ0bjR6djZSVXBOQy1YR2tDLWRFOU1tUVhjaTlRZFp2YlVwWk5abDF4QWgtbElQbG9NeC1SOWFQazZR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T20:52:54.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2641,58 +2693,6 @@
       "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
       "imageUrl": null,
       "publishedAt": "2026-11-01T20:02:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1438fd3e5b233d51",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "RNC chair says Republicans have voter turnout problem",
-      "snippet": "Republican National Committee (RNC) chair Joe Gruters acknowledged that Republicans are facing issues with voter turnout amid heightened pressure for the GOP to maintain control of Congress. “Is there a turnout problem for Republicans?” New",
-      "link": "https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26298808558710-e1793562118581.jpg?w=900",
-      "publishedAt": "2026-11-01T20:01:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d1610f8079a79f87",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "RNC says ‘Michigan should take notice’ of Stevens endorsing Rogers",
-      "snippet": "The Republican National Committee (RNC) on Sunday said Michigan “should take notice” of Rep. Haley Stevens’s (D-Mich.) endorsement of her former opponent in the Michigan Senate race Republican Mike Rogers. “When Congresswoman Haley Stevens,",
-      "link": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26305660737030-e1793557465783.jpg?w=900",
-      "publishedAt": "2026-11-01T20:00:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_94ec6ad60da436b5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Texas Tech Red Raiders Football - AP News",
-      "snippet": "Texas Tech Red Raiders Football  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qeWNnR2VuZUxEa2M1UjNPRlJCdlJaMm1Yd1g3MDNyTGlsa3EyZ2hJQ2ppcUpsTmlDaXMxWUVOOVJ2eGRFVldSV2ZrNDI2OG1kMm5jajZaWjhFaUNhQVNWZXpjRVg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T19:58:44.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc146c3a02024e2d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Chief of staff to Haley Stevens resigns after Mike Rogers endorsement",
-      "snippet": "Rep. Haley Stevens’s (D-MI) chief of staff has resigned after the Democratic congresswoman endorsed Republican candidate Mike Rogers for Senate in Michigan. Justin German, who has served as Stevens’s chief of staff since she first took offi",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4787408/chief-of-staff-haley-stevens-resigns-mike-rogers/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T19:58:31.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
