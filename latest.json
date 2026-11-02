@@ -1,103 +1,141 @@
 {
-  "updatedAt": "2026-11-02T21:20:08.863Z",
+  "updatedAt": "2026-11-02T21:25:05.855Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:08.999Z"
+      "lastSuccess": "2026-11-02T21:25:06.117Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:08.955Z"
+      "lastSuccess": "2026-11-02T21:25:05.920Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:08.959Z"
+      "lastSuccess": "2026-11-02T21:25:06.136Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.105Z"
+      "lastSuccess": "2026-11-02T21:25:05.935Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:08.938Z"
+      "lastSuccess": "2026-11-02T21:25:06.021Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.159Z"
+      "lastSuccess": "2026-11-02T21:25:06.247Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.044Z"
+      "lastSuccess": "2026-11-02T21:25:06.264Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.208Z"
+      "lastSuccess": "2026-11-02T21:25:06.291Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.116Z"
+      "lastSuccess": "2026-11-02T21:25:06.080Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.102Z"
+      "lastSuccess": "2026-11-02T21:25:06.300Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.086Z"
+      "lastSuccess": "2026-11-02T21:25:06.194Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.067Z"
+      "lastSuccess": "2026-11-02T21:25:06.037Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T21:20:09.117Z"
+      "lastErrorAt": "2026-11-02T21:25:06.320Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.062Z"
+      "lastSuccess": "2026-11-02T21:25:06.216Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.195Z"
+      "lastSuccess": "2026-11-02T21:25:06.380Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.532Z"
+      "lastSuccess": "2026-11-02T21:25:06.077Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.217Z"
+      "lastSuccess": "2026-11-02T21:25:06.304Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T21:20:09.245Z"
+      "lastErrorAt": "2026-11-02T21:25:06.300Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.041Z"
+      "lastSuccess": "2026-11-02T21:25:06.056Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.408Z"
+      "lastSuccess": "2026-11-02T21:25:05.975Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:09.264Z"
+      "lastSuccess": "2026-11-02T21:25:06.396Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T21:20:11.196Z"
+      "lastSuccess": "2026-11-02T21:25:08.139Z"
     },
     "Wash Examiner": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-11-02T21:20:18.896Z"
+      "online": true,
+      "lastSuccess": "2026-11-02T21:25:06.297Z"
     }
   },
   "items": [
+    {
+      "id": "story_800de30cfddfb1fa",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump centers Reflecting Pool in closing midterm speech",
+      "snippet": "President Trump’s closing speech a day before the midterm elections focused on the reopening of the Lincoln Memorial Reflecting Pool and other changes around Washington, D.C. Trump in remarks at the Reflecting Pool announced its reopening. ",
+      "link": "https://thehill.com/homenews/6190138-trump-midterm-election-speech-reflecting-pool/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26306705767311-e1793648364712.jpg?w=900",
+      "publishedAt": "2026-11-02T21:19:48.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_9dbbd0a81065524d",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Is El Ni&ntilde;o making storms and flash floods in the Southwest worse?",
+      "snippet": "Experts say the natural warming cycle is sizzling Pacific Ocean waters and leaking moisture into the air that can fuel passing storms.",
+      "link": "https://www.pbs.org/newshour/science/is-el-nino-making-storms-and-flash-floods-in-the-southwest-worse",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T21:19:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c189f192cf787443",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Trump teases ‘Trump Reflecting Pool’ at final midterm elections event, says he’s joking",
+      "snippet": "President Donald Trump teased changing the name of the Lincoln Memorial Reflecting Pool to the “Trump Reflecting Pool” during his final appearance before the midterm elections. “We’re giving serious thought to changing the name to the Trump",
+      "link": "https://www.washingtonexaminer.com/news/white-house/4788627/trump-teases-reflecting-pool-name-change-joke/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T21:14:43.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_213499a4b103be99",
       "source": "PBS",
@@ -110,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_e0433a64f401a974",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "California’s Prop 40 is a wealth grab",
+      "snippet": "When California voters head to the polls, they won’t just be considering a new tax — they’ll be deciding whether to allow the state to confiscate wealth. What else would you call it if a state suddenly and retroactively grabs 5% of about 20",
+      "link": "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/4788593/california-prop-40-wealth-grab/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T21:10:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_e2141c636a19047b",
@@ -523,6 +574,19 @@
       "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4788232/why-trump-will-not-use-nuclear-weapon-against-iran/",
       "imageUrl": null,
       "publishedAt": "2026-11-02T20:16:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6560256dadc0ee72",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Kirby Smart clarifies comments after taking shot at how much college football players are making",
+      "snippet": "Kirby Smart suggested Georgia Bulldogs players may lack the hunger of past championship teams now that NIL money rivals what he earned until 40.",
+      "link": "https://www.foxnews.com/outkick-sports/kirby-smart-clarifies-comments-taking-shot-how-much-college-football-players-making",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T20:16:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2630,71 +2694,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/FlockCam_AP.png?w=900",
       "publishedAt": "2026-11-02T18:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_85c13a7cf0d5daa9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped - AP News",
-      "snippet": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemJxTi1iS3ltaXhDajEzZWNuWTRnWk1IdVVteENlSjQ0Rk92Ym9tS0ZDemlfQncwM05yd2JHdGJQUVRtMGt4NDgwaG1EZjFlV1FaelNpMGw2X0JrU0xxTjBuM25qdm02aTk0M1BfZ2wwbFRONjVJUTlnUmZGWm80QW5neUlQT2N4SDMyNEIzcFM0cndXRTgwb3hqWkFneWRZZGkwcg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:58:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a8afdd0e4dacbf2b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trial of nine men accused of abusing woman drugged and raped by husband begins",
-      "snippet": "The husband, who cannot be named to protect his victim, has already pleaded guilty to a number of offences carried out at the couple’s Stockport home\nNine men have gone on trial accused of being involved in the abuse of a woman who was drug",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:56:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e7688bbdda426676",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden - AP News",
-      "snippet": "Judge cites 'weaponization' in tossing charges for ex-FBI agents accused of lying about Hunter Biden  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdKU1huRWQtMWhVQ0p3N2NLcVk2dmUwQ0I4bVVielVBYU5CSTluTDI2NG1DRUFtQ05JMkNuTDN5c0NSYTF4cU50VHgwTDREdk5NWlNkZzVEU0FlU1hUQTNGc2MyMEdsak5aUmxRYkhONHY2cDRTVnZESkNOZlRXWmhRVG96SlhsNDRPVWZCRUcydW9zN2F4N3RpQWNTYlNYNTZxQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:55:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2c2923437d0ae72c",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Trump administration asks Supreme Court to sideline 20,000 disputed California mail ballots",
-      "snippet": "WASHINGTON (AP) — President Donald Trump's administration appealed to the Supreme Court on Monday in its push to sideline thousands of disputed California mail ballots the day before the pivotal midterm elections. The emergency appeal came ",
-      "link": "https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:53:40.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_30af3d3436340adb",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US manufacturing strengthens in October, input prices stay high - Reuters",
-      "snippet": "US manufacturing strengthens in October, input prices stay high  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTW9UelFScXJVVVZ4RWVvek1GNndJeFA2Mk5ETVY0b1FwTFMtS0lnNkJFWkRkanQ3Sk5VVVlkaHRaZjVqM1gwcjVKamJSZTR5R2NTeFNIc0ZsZ0ZYSEQ4bXdxdXNzTVFhR0dVc1IyLWpadUpIOVcwT0tmWXB3XzJNaE92alNLUEo3cFNyZl95ampSWkl1N18xM082cTRNbTRoNno4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:51:54.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
