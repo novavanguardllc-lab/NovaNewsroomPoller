@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-02T07:35:05.742Z",
+  "updatedAt": "2026-11-02T07:40:09.670Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:05.955Z"
+      "lastSuccess": "2026-11-02T07:40:09.920Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:05.925Z"
+      "lastSuccess": "2026-11-02T07:40:09.794Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.086Z"
+      "lastSuccess": "2026-11-02T07:40:09.966Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:05.885Z"
+      "lastSuccess": "2026-11-02T07:40:09.969Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:05.858Z"
+      "lastSuccess": "2026-11-02T07:40:09.883Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:05.979Z"
+      "lastSuccess": "2026-11-02T07:40:09.953Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.222Z"
+      "lastSuccess": "2026-11-02T07:40:10.149Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.079Z"
+      "lastSuccess": "2026-11-02T07:40:10.060Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.000Z"
+      "lastSuccess": "2026-11-02T07:40:09.818Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.035Z"
+      "lastSuccess": "2026-11-02T07:40:10.019Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.038Z"
+      "lastSuccess": "2026-11-02T07:40:09.774Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.091Z"
+      "lastSuccess": "2026-11-02T07:40:10.086Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.048Z"
+      "lastSuccess": "2026-11-02T07:40:09.781Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.082Z"
+      "lastSuccess": "2026-11-02T07:40:09.758Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T07:35:06.135Z"
+      "lastErrorAt": "2026-11-02T07:40:10.116Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.228Z"
+      "lastSuccess": "2026-11-02T07:40:10.094Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.124Z"
+      "lastSuccess": "2026-11-02T07:40:10.074Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:05.921Z"
+      "lastSuccess": "2026-11-02T07:40:10.137Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.041Z"
+      "lastSuccess": "2026-11-02T07:40:09.960Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.204Z"
+      "lastSuccess": "2026-11-02T07:40:10.271Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T07:35:06.100Z"
+      "lastErrorAt": "2026-11-02T07:40:10.066Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.159Z"
+      "lastSuccess": "2026-11-02T07:40:10.161Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T07:35:06.115Z"
+      "lastSuccess": "2026-11-02T07:40:09.979Z"
     }
   },
   "items": [
+    {
+      "id": "story_eb1f889bc79c896d",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Germany news: Berlin hosts digital summit with AI focus",
+      "snippet": "A government-run conference is to look at the uses and dangers of artificial intelligence. This comes as the German and UK defense ministers will discuss expanding AI's role in military cooperation. DW has more.",
+      "link": "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T07:36:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c780022171ddf4b5",
       "source": "Wash Examiner",
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T00:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e835a2260e516853",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Two Dan Sullivans, No Confusion: Alaska Voters Say Don’t Underestimate Them - AP News",
-      "snippet": "Two Dan Sullivans, No Confusion: Alaska Voters Say Don’t Underestimate Them  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOTlQOXFuRThMdVE5RnJfOVJxdC01U1l1OWx6XzNuTFM3YTZYam53UEFjX1c1VGctQnI2aFQ4eEQtd2RrdmJULUlkRFhfUjc5ZExvM1FHdWhrQlVZZ2pISzh6NmY1MkhMemVtaWp1aWgybzBOZ1VWUmNBeUhzYzVObllnazA0TU1BbXl0dU5FOUF2QjQweFRhNWJKVGRxM3FWXzc0S3FQQzBDNk1IbVB5NDVGRU0zR2taSjl0QTJWTkFIT2FIWHpHQkNn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T23:56:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
