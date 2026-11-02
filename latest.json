@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-11-02T14:15:08.250Z",
+  "updatedAt": "2026-11-02T14:20:09.183Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.633Z"
+      "lastSuccess": "2026-11-02T14:20:09.367Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.409Z"
+      "lastSuccess": "2026-11-02T14:20:09.308Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.603Z"
+      "lastSuccess": "2026-11-02T14:20:09.301Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.445Z"
+      "lastSuccess": "2026-11-02T14:20:09.395Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.671Z"
+      "lastSuccess": "2026-11-02T14:20:09.514Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.924Z"
+      "lastSuccess": "2026-11-02T14:20:09.384Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.423Z"
+      "lastSuccess": "2026-11-02T14:20:09.544Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.789Z"
+      "lastSuccess": "2026-11-02T14:20:09.574Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.845Z"
+      "lastSuccess": "2026-11-02T14:20:09.565Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.768Z"
+      "lastSuccess": "2026-11-02T14:20:09.415Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.642Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-02T14:20:09.368Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.908Z"
+      "lastSuccess": "2026-11-02T14:20:09.533Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.942Z"
+      "lastSuccess": "2026-11-02T14:20:18.201Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.763Z"
+      "lastSuccess": "2026-11-02T14:20:09.500Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T14:15:08.800Z"
+      "lastErrorAt": "2026-11-02T14:20:09.547Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T14:15:09.015Z"
+      "lastErrorAt": "2026-11-02T14:20:09.554Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:09.013Z"
+      "lastSuccess": "2026-11-02T14:20:09.561Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.997Z"
+      "lastSuccess": "2026-11-02T14:20:09.880Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.771Z"
+      "lastSuccess": "2026-11-02T14:20:09.423Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:09.105Z"
+      "lastSuccess": "2026-11-02T14:20:11.899Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:09.076Z"
+      "lastSuccess": "2026-11-02T14:20:09.583Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:08.508Z"
+      "lastSuccess": "2026-11-02T14:20:09.722Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T14:15:09.176Z"
+      "lastSuccess": "2026-11-02T14:20:09.624Z"
     }
   },
   "items": [
@@ -780,6 +781,19 @@
       "headline": "German Chancellor Merz wishes Koreans unity, but does Seoul really want it?",
       "snippet": "Germany, like Korea, was once a nation divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz wished for a united Korea during his recent visit — but such hopes seem faint.",
       "link": "https://www.dw.com/en/german-chancellor-merz-wishes-koreans-unity-but-does-seoul-really-want-it/a-79830111?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T12:51:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2e112e62b8c1510c",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Germany's chancellor called for Korean unity. Does Seoul want that?",
+      "snippet": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
+      "link": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-02T12:51:00.000Z",
       "tier": "routine",
@@ -2681,19 +2695,6 @@
       "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-ica-sweden-freezers_7394730.jpg?20261102111823",
       "publishedAt": "2026-11-02T10:39:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a5316c9dd16f844d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Where things stand on Iran after tense weekend as its delegation leaves Qatar - AP News",
-      "snippet": "Where things stand on Iran after tense weekend as its delegation leaves Qatar  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T10:38:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
