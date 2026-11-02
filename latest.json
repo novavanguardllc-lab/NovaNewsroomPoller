@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-02T10:00:15.840Z",
+  "updatedAt": "2026-11-02T10:05:05.938Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.056Z"
+      "lastSuccess": "2026-11-02T10:05:06.052Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:15.952Z"
+      "lastSuccess": "2026-11-02T10:05:06.075Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.281Z"
+      "lastSuccess": "2026-11-02T10:05:06.058Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.239Z"
+      "lastSuccess": "2026-11-02T10:05:06.092Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.140Z"
+      "lastSuccess": "2026-11-02T10:05:06.169Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.210Z"
+      "lastSuccess": "2026-11-02T10:05:06.197Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.416Z"
+      "lastSuccess": "2026-11-02T10:05:06.342Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.356Z"
+      "lastSuccess": "2026-11-02T10:05:06.277Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.008Z"
+      "lastSuccess": "2026-11-02T10:05:06.175Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.460Z"
+      "lastSuccess": "2026-11-02T10:05:06.230Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:15.977Z"
+      "lastSuccess": "2026-11-02T10:05:06.210Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.261Z"
+      "lastSuccess": "2026-11-02T10:05:06.239Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.170Z"
+      "lastSuccess": "2026-11-02T10:05:06.252Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.156Z"
+      "lastSuccess": "2026-11-02T10:05:06.247Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T10:00:16.474Z"
+      "lastErrorAt": "2026-11-02T10:05:06.213Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.659Z"
+      "lastSuccess": "2026-11-02T10:05:06.409Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.580Z"
+      "lastSuccess": "2026-11-02T10:05:06.314Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.492Z"
+      "lastSuccess": "2026-11-02T10:05:06.151Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:15.971Z"
+      "lastSuccess": "2026-11-02T10:05:06.280Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.561Z"
+      "lastSuccess": "2026-11-02T10:05:06.379Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T10:00:16.575Z"
+      "lastErrorAt": "2026-11-02T10:05:06.231Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.685Z"
+      "lastSuccess": "2026-11-02T10:05:06.398Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T10:00:16.944Z"
+      "lastSuccess": "2026-11-02T10:05:06.220Z"
     }
   },
   "items": [
+    {
+      "id": "story_9e12524f200f18d2",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Stuck in shelters, some migrant kids lose hope of staying in U.S.",
+      "snippet": "The federal Office of Refugee Resettlement is supposed to care for migrant children who arrive in the country alone. But new policies are stranding kids in shelters and undermining their mental health.",
+      "link": "https://www.cbsnews.com/news/migrant-children-stranded-us-shelters/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2b16990274e33a70",
       "source": "Wash Examiner",
@@ -106,6 +119,71 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4786599/marc-elias-election-lawsuits-midterms-mary-peltola/",
       "imageUrl": null,
       "publishedAt": "2026-11-02T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b04f611df94e33a9",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "snippet": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_738685d060fe9746",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "Republicans are privately blaming Trump, even if they won’t say it out loud",
+      "snippet": "\"There was a point earlier this year where we really felt like we could defy history. And then Trump bombed Iran,” said one House Republican.",
+      "link": "https://www.politico.com/news/2026/11/02/republicans-blame-trump-midterms-2026-01143980",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dc0abf4cd38fdd26",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "The growing threats that make the Space Force essential",
+      "snippet": "A Defense Intelligence Agency report released last week underlines the rapidly growing threat to U.S. interests in space. It offers yet another reminder of the Space Force’s rising importance. The War Department‘s intelligence service, the ",
+      "link": "https://www.washingtonexaminer.com/opinion/editorials/4781924/growing-threats-make-space-force-essential/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_17b17a416038ae47",
+      "source": "ProPublica",
+      "sourceColor": "#7A6A4A",
+      "headline": "Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right.",
+      "snippet": "The post Tribal Leaders Warned Border Wall Construction Would Disturb Native American Remains. They Were Right. appeared first on ProPublica.",
+      "link": "https://www.propublica.org/article/border-wall-remains-native-american-organ-pipe",
+      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/10/260831_Watts-Quitobaquito-3-1_maxHeight_3000_maxWidth_3000.jpg?w=1149",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0bc01d51d9f41c12",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "France: Some schools blocked as limited youth protests resume after holidays",
+      "snippet": "French students returning from autumn holidays blocked some high schools on Monday, November 2, determined to reinvigorate a protest movement despite government concessions during the break. FRANCE 24's Antonia Kerrigan reports from the gro",
+      "link": "https://www.france24.com/en/video/20261102-france-some-schools-blocked-as-limited-youth-protests-resume-after-holidays",
+      "imageUrl": "https://s.france24.com/media/display/a9a22dce-d6a2-11f1-bad3-1beafce15fea/w:1024/p:16x9/capture-f04d5e3a.jpg",
+      "publishedAt": "2026-11-02T09:57:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -293,6 +371,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3fb979a76ebf5d8e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says - Reuters",
+      "snippet": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:36:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_68053c446ecc905d",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -302,6 +393,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T09:35:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1b24f9760113e97e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Temperature soars at Swedish grocery store freezers, one store blames hackers - Reuters",
+      "snippet": "Temperature soars at Swedish grocery store freezers, one store blames hackers  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObF9LUXZ2TVpjZm13eW9HNXZ0MkZFVDM5eHl5RXc0aDkzODdvc0VKYVE4YV9MSDZITjVTR01CM3l6ajdCVEFZMXlmdmx3MzBRWHN5QVkyTFU2bkR2Sm5VQm5OWUVfLVJoeHFZaXdrc0F1QTRnT0tHYXRvcVd4S0V2QUxmV3ptOEszT2EyWmFpVjYyUnRwODF1eGhXbGpGcUV2UXRwZFFLOGhPLTY1MWUxal9TY3M0Qm9MOVpSeTFHazNxMUNGSnVfdzVvOE0tUGM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:29:22.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1775,6 +1879,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0a21f23b76b63c8e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEdaQnkxNktINVZBOEJQUEpQYW1uV2xVQ2lBd1Z1YVpJQUl6THQ5MW1ac1diLU1VVXRwQWg4YzVneWQwZlpINlhtWkJSZXZzMjh4ODRyZVRjRXhLeTZ3b0UxZkdORUx6OEFqNjFqRnpramhocVNGZ2JXQzBBTnV5ZEh1aGozTGFBeGtNeFBiZDBic3VtZjd0eXdnSVlZb3R0WVE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T05:37:06.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_a8fb005ee0b73dde",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2100,6 +2217,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_133cb2b2384d02e6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHVfZTZ0MVZxRGNtRVJXNkNEc2FtRnpsRnV1SlpYWWV6MzZuSTVHc3RXMm5qNjlGbVFfVWxQOGg1cXIxMUtCVXBmRXM2RmZBVklJanNfSkZtTTJvdUVwYzdXZmRxRW1XLUV0V3E5a2xvamg3T256U1I0c0QxZjdmMnpBamNvSXlVVFNjNkZjVHVnZGk0MS1BUnJR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T04:52:07.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_e61bf73cc8a06bb7",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -2282,6 +2412,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7cb18c160b142298",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0I3dWk2bHZmQVlFRG1MT1czbGlXS0w3T1EyTGhKTDFlRGNPZzZaS3daZUdjWUFSV0JaTV90MVVlUGs1SFhxX1duNXJMY1ZXSmZCZG9ub3pMdWF0dHd5S3ZodlhPdUhBUmhtLUdtcjBTUzN6MVJIZlFoQU5hTXV3SXp0eHJKYWNIZ3JSSThzMUFLUkR4Y19wVzUxdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T04:07:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_9dd09b38cace27af",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2306,6 +2449,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e211ae033f79e872",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSzA2dnFIZkNucHZjZGhBN0djS1hnZnhfaG9YT3I5UG9UNEFFMHB2bmxJR2FUaW5kWGNORmxJbzRXT25zMTdxU3ZVUk90V1NlSVQ3a2Ezc2NhRGs5TmRiZ2NDRkc2YjlkVlY4Nl93ODZOajVVUEtBT3FzU1RjQnlDVHdKcnNoYlVwLUVYR1pvdldwdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T04:05:16.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_007212f454a0570a",
@@ -2537,162 +2693,6 @@
       "link": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-lose-sixth-straight-washington-commanders-score-27-unanswered-points",
       "imageUrl": null,
       "publishedAt": "2026-11-02T03:39:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_40b0a3e9f053a6a8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "HSBC to open Hong Kong AI Institute following Singapore launch - Reuters",
-      "snippet": "HSBC to open Hong Kong AI Institute following Singapore launch  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:34:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bc46b33a5267d126",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Binance users withdraw $3.6bn after record crypto hack",
-      "snippet": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:32:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6035af080b505e0c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "New Zealand early voting surges ahead of November 7 election - Reuters",
-      "snippet": "New Zealand early voting surges ahead of November 7 election  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblpzVENyekNxMW1iVlpQQ0tXTDZsUHVLRkE1c2tGR21TRGxXMXUyUFV0MjVaeXJCTmRqM0c3V2ljM1FjdjN4S3N1eXpYVllnWTdrUHFVQUw0ZGdfbWlmX2hMejhjVENSaTNhRmJsXzExUDRQT2pZUVFicnJ1eWNQSWp6VGJmNzVjRFYtdnllTU1NaDh6RWRVc2liT2JLb3UyOHBMVEo4NDQySHZHVUZvbDNn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b764cff654e04cb5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Padres decline options on Pivetta, Giolito and Canning, exercise option on Hart - AP News",
-      "snippet": "Padres decline options on Pivetta, Giolito and Canning, exercise option on Hart  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSG83REl5NGxLamptTEhCbGFONUZsRFJTUGlQOXRNa25RTG9Pa3dXZ1hyNnViQWUtUzkzVW9YN05nc2I5dUt3b1RQOWppYWJIVUxYTk1aa09wZzk2YTRtYy1iMkdmNlpLMWpnM0g0X0tYb3ZQeGU5ZnhZTzNBZWctcUdyRU54RllYZjBTZ1V0Ym9KeGtUdXpfWlI4SUZKcnM1aGROc0tB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:29:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2873a74be349c561",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Juan Atkins, co-creator of the techno music genre, has died",
-      "snippet": "Juan Atkins, who helped create the techno music genre with school friends in suburban Detroit in the 1980s, has died, his booking agency said Sunday.",
-      "link": "https://www.nbcnews.com/news/obituaries/juan-atkins-co-creator-techno-music-genre-dies-rcna606930",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:22:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31ab2a71106dd67b",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "How a Kansas City vlogger captivated New York society",
-      "snippet": "Wealthy and powerful figures are obsessed with a 33-year-old registered dietitian in Kansas City.",
-      "link": "https://www.semafor.com/article/11/01/2026/how-a-kansas-city-vlogger-captivated-new-york-society",
-      "imageUrl": "https://img.semafor.com/b622bf1f3b914c435d3c8138d9d22af365d14469-1440x1080.png",
-      "publishedAt": "2026-11-02T03:19:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ba914ae75422ae26",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
-      "snippet": "Daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:17:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e35a99a56acd527e",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "More MAGA than MAGA: How the Daily Caller turned on MAGA and Trump",
-      "snippet": "The site Tucker Carlson co-founded is at the vanguard of a Republican civil war that he helped unleash.",
-      "link": "https://www.semafor.com/article/11/01/2026/more-maga-than-maga-how-the-daily-caller-turned-on-maga-and-trump",
-      "imageUrl": "https://img.semafor.com/3292d6c44827cd0e27c58d5efd3345e82c268077-1440x1080.png",
-      "publishedAt": "2026-11-02T03:08:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d17fb8af45bfdca9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
-      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:05:33.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_124068a1cfdabde9",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Magnet Media launches new creator brand ",
-      "snippet": "Megan Cunningham, an advertising industry veteran and founder of Magnet Media, is launching Magnet Originals.",
-      "link": "https://www.semafor.com/article/11/01/2026/magnet-media-launches-new-creator-brand",
-      "imageUrl": "https://img.semafor.com/9f788a1e112bb02a31365963e24880b21e7c7e62-2048x1365.jpg",
-      "publishedAt": "2026-11-02T03:05:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd23ba186fe30f81",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "New creator brand launches ",
-      "snippet": "Megan Cunningham, an advertising industry veteran and founder of Magnet Media, is launching Magnet Originals.",
-      "link": "https://www.semafor.com/article/11/01/2026/new-creator-brand-launches",
-      "imageUrl": "https://img.semafor.com/9f788a1e112bb02a31365963e24880b21e7c7e62-2048x1365.jpg",
-      "publishedAt": "2026-11-02T03:05:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0d1936ed5999bdd5",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "New creator brand Magnet Originals launches ",
-      "snippet": "Megan Cunningham, an advertising industry veteran and founder of Magnet Media, is launching Magnet Originals.",
-      "link": "https://www.semafor.com/article/11/01/2026/new-creator-brand-magnet-originals-launches",
-      "imageUrl": "https://img.semafor.com/9f788a1e112bb02a31365963e24880b21e7c7e62-2048x1365.jpg",
-      "publishedAt": "2026-11-02T03:05:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
