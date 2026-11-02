@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-02T20:20:08.773Z",
+  "updatedAt": "2026-11-02T20:25:05.596Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.069Z"
+      "lastSuccess": "2026-11-02T20:25:05.798Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:08.854Z"
+      "lastSuccess": "2026-11-02T20:25:05.818Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:08.890Z"
+      "lastSuccess": "2026-11-02T20:25:05.729Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:08.868Z"
+      "lastSuccess": "2026-11-02T20:25:05.856Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:08.949Z"
+      "lastSuccess": "2026-11-02T20:25:05.686Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.052Z"
+      "lastSuccess": "2026-11-02T20:25:05.954Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.140Z"
+      "lastSuccess": "2026-11-02T20:25:05.871Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.163Z"
+      "lastSuccess": "2026-11-02T20:25:05.894Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.180Z"
+      "lastSuccess": "2026-11-02T20:25:05.922Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.156Z"
+      "lastSuccess": "2026-11-02T20:25:05.964Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.127Z"
+      "lastSuccess": "2026-11-02T20:25:05.918Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.131Z"
+      "lastSuccess": "2026-11-02T20:25:05.880Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T20:20:09.148Z"
+      "lastErrorAt": "2026-11-02T20:25:05.931Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.090Z"
+      "lastSuccess": "2026-11-02T20:25:05.849Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.290Z"
+      "lastSuccess": "2026-11-02T20:25:06.094Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:08.977Z"
+      "lastSuccess": "2026-11-02T20:25:05.899Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.176Z"
+      "lastSuccess": "2026-11-02T20:25:05.974Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T20:20:09.180Z"
+      "lastErrorAt": "2026-11-02T20:25:05.923Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:08.840Z"
+      "lastSuccess": "2026-11-02T20:25:06.050Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.382Z"
+      "lastSuccess": "2026-11-02T20:25:05.814Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.202Z"
+      "lastSuccess": "2026-11-02T20:25:05.994Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.356Z"
+      "lastSuccess": "2026-11-02T20:25:06.061Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T20:20:09.161Z"
+      "lastSuccess": "2026-11-02T20:25:05.959Z"
     }
   },
   "items": [
+    {
+      "id": "story_3e5abbc6c91ddc81",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Jet may have experienced ‘some breakup’ before it crashed in Florida, killing 9, NTSB says",
+      "snippet": "Officials said there may have been “some breakup” of the Learjet 60 before it crashed Sunday afternoon in Palm Beach County, Florida, killing all nine people on board.",
+      "link": "https://www.nbcnews.com/news/us-news/jet-may-experienced-breakup-crashed-florida-killing-9-ntsb-says-rcna607068",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T20:16:47.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_a172aef3924bd180",
       "source": "Wash Examiner",
@@ -106,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4788232/why-trump-will-not-use-nuclear-weapon-against-iran/",
       "imageUrl": null,
       "publishedAt": "2026-11-02T20:16:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_41d3cb8992607878",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Ahead of Election Day, Trump sets the stage for potential Republican losses",
+      "snippet": "In an election-eve speech at the Lincoln Memorial Reflecting Pool, President Donald Trump said that Republicans “gave this a very strong shot,” while acknowledging that historically, the president’s party “doesn’t win the midterms.”",
+      "link": "https://www.nbcnews.com/politics/donald-trump/ahead-election-day-trump-sets-stage-potential-republican-losses-rcna607075",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T20:15:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -421,6 +447,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_3bbc6d75eba3d12d",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "What Florida jet audio and flight data tells us about its final moments",
+      "snippet": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.\n\nBBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
+      "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T19:49:22.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_e2151d4dd28fff40",
@@ -755,6 +794,19 @@
       "snippet": "Is Trump losing the support of the very coalition that brought him back to power?\n \nJust one day before the midterm elections, Trump's approval rating stands at 32%, one of the lowest ever recorded at this stage of a presidency.\n \nAnd disco",
       "link": "https://www.france24.com/en/maga-why-trump-s-most-loyal-supporters-are-turning-against-him",
       "imageUrl": "https://s.france24.com/media/display/e4a4e68e-d6f0-11f1-a46d-d18c5759e759/w:1024/p:16x9/minia-2-3.png",
+      "publishedAt": "2026-11-02T19:17:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7017b299b3d9c8b5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dangerous mosquito-borne virus surges in popular US state as cases reach highest levels in decades",
+      "snippet": "Florida's dengue fever outbreak has reached 485 locally acquired cases, with Tampa Bay accounting for 95% of infections and emergency declarations issued.",
+      "link": "https://www.foxnews.com/health/dangerous-mosquito-borne-virus-surges-popular-us-state-cases-reach-highest-levels-decades",
+      "imageUrl": null,
       "publishedAt": "2026-11-02T19:17:55.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2642,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T17:14:23.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9370ebc498638f8e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Bill Murray crashes Kevin Hassett’s CNBC interview: ‘Why is that man always smiling?’",
-      "snippet": "Actor Bill Murray walked on to a CNBC set Monday and interrupted an interview with President Trump’s top economic adviser, Kevin Hassett.  The “Saturday Night Live” and “Ghostbusters” star interjected during the National Economic Council di",
-      "link": "https://thehill.com/blogs/in-the-know/6189158-bill-murray-interrupts-hassett-cnbc-interview/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/10/68deb441bbb1c9.57847758.jpeg?w=900",
-      "publishedAt": "2026-11-02T17:13:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ad112188acc1220",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "New York Times sues maker of Brave web browser over copyrights - Reuters",
-      "snippet": "New York Times sues maker of Brave web browser over copyrights  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWUlhZHQ0WWQxSG5Pb3RDTmRISEdjd0U3UjZHNXZXVHMwaFY3UjVsX2NSWTJuRVgza2YyZUtBWXczTnVnZEZJZHpUc1JIUGREaTU4dG0wV1NqLWprWE9PT1NHM1EtR1pBaktRM3Y5VHp2am4zTTQ0VHN3Z2V0WTd6OVE4bnluNURtOVB2VW9JMHcwUllPV0dKZm9MUkFoaWRRMlNSdzRaeWYtUTlPV1ZSRUNR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:11:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_174571c89625989f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges - AP News",
-      "snippet": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2F2R0RVQzdRdHZuZ2lzXzdGU0dNQy05cGJ5bGxCQWpXY0hTVXV3OE9fWXQzSXYzVTNIQzg4SkoxNVFiekZBUDBFdGNpY1gwT0pQRkw4OUxVbTdpZHUtY3k0MDBoeVV6UDNxS3Eta2FYZjdpdGJKZ1FfWENIMVRhTE8yWkdKYmN2NTlabExBR1V6NmdvX01UOQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_da9c8d35f0e72231",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "What the US midterms could mean for markets, AI and the debt ceiling - Reuters",
-      "snippet": "What the US midterms could mean for markets, AI and the debt ceiling  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T17:10:26.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
