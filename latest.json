@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-11-02T01:10:09.009Z",
+  "updatedAt": "2026-11-02T01:15:08.249Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.131Z"
+      "lastSuccess": "2026-11-02T01:15:08.550Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.097Z"
+      "lastSuccess": "2026-11-02T01:15:08.434Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.207Z"
+      "lastSuccess": "2026-11-02T01:15:08.440Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.189Z"
+      "lastSuccess": "2026-11-02T01:15:08.574Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.095Z"
+      "lastSuccess": "2026-11-02T01:15:08.763Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.214Z"
+      "lastSuccess": "2026-11-02T01:15:08.620Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.469Z"
+      "lastSuccess": "2026-11-02T01:15:08.913Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.254Z"
+      "lastSuccess": "2026-11-02T01:15:08.836Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.196Z"
+      "lastSuccess": "2026-11-02T01:15:08.656Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.316Z"
+      "lastSuccess": "2026-11-02T01:15:08.699Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.205Z"
+      "lastSuccess": "2026-11-02T01:15:08.553Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.272Z"
+      "lastSuccess": "2026-11-02T01:15:08.839Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.267Z"
+      "lastSuccess": "2026-11-02T01:15:08.857Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.269Z"
+      "lastSuccess": "2026-11-02T01:15:08.776Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T01:10:09.286Z"
+      "lastErrorAt": "2026-11-02T01:15:08.669Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.307Z"
+      "lastSuccess": "2026-11-02T01:15:08.998Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.277Z"
+      "lastSuccess": "2026-11-02T01:15:08.979Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.114Z"
+      "lastSuccess": "2026-11-02T01:15:08.960Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.193Z"
+      "lastSuccess": "2026-11-02T01:15:08.459Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.409Z"
+      "lastSuccess": "2026-11-02T01:15:09.269Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T01:10:09.317Z"
+      "lastErrorAt": "2026-11-02T01:15:08.980Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.751Z"
+      "lastSuccess": "2026-11-02T01:15:09.074Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T01:10:09.792Z"
+      "lastSuccess": "2026-11-02T01:15:08.750Z"
     }
   },
   "items": [
@@ -111,6 +111,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_fc565a2fc518d3bb",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Spain train crash: four US citizens, and nationals from Japan, Canada among dead, authorities say",
+      "snippet": "The train disaster, one of Europe’s deadliest rail incidents this century, killed 69 people, including 54 Spaniards\nFour US citizens and one each from Canada, Japan, Argentina, Mexico, Tunisia and the Czech Republic were among the 69 killed",
+      "link": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T01:06:13.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_edefc392137b1361",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -119,6 +132,19 @@
       "link": "https://www.cbsnews.com/news/americans-urda-spain-train-crash/",
       "imageUrl": null,
       "publishedAt": "2026-11-02T00:58:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e01bdf45551c60a4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+      "snippet": "Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.",
+      "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T00:53:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -431,6 +457,19 @@
       "link": "https://www.nbcnews.com/nightly-news/video/fiery-plane-crash-in-florida-272666181933",
       "imageUrl": null,
       "publishedAt": "2026-11-02T00:08:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f88ad415e912633c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Michael Douglas says Jack Nicholson 'has disappeared' from the Hollywood spotlight",
+      "snippet": "Michael Douglas claims Jack Nicholson is enjoying \"walking around in his slippers\" after essentially disappearing from Hollywood following 2010 film.",
+      "link": "https://www.foxnews.com/entertainment/michael-douglas-says-jack-nicholson-has-disappeared-from-hollywood-spotlight",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T00:07:54.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_e1aa62e17343d6ca",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Israeli officials say elections will stand after Netanyahu claimed Arabs stole vote",
-      "snippet": "By casting doubt on the vote, Netanyahu appears to be trying to block any potential alliance in the opposition with the Arab parties that could force him from office.",
-      "link": "https://www.pbs.org/newshour/world/israeli-officials-say-elections-wont-be-undermined-and-suspects-in-bribery-case-are-freed",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T19:57:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4efb61f7c5e39cc6",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Video captures house collapsing due to Ecuador floods",
-      "snippet": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T19:56:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e4a27f3940fef59",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brazil - AP News",
-      "snippet": "Brazil  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T19:56:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
