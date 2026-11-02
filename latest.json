@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-02T09:10:08.853Z",
+  "updatedAt": "2026-11-02T09:15:09.414Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.923Z"
+      "lastSuccess": "2026-11-02T09:15:09.775Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.941Z"
+      "lastSuccess": "2026-11-02T09:15:09.597Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.075Z"
+      "lastSuccess": "2026-11-02T09:15:09.935Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.936Z"
+      "lastSuccess": "2026-11-02T09:15:09.653Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.896Z"
+      "lastSuccess": "2026-11-02T09:15:09.919Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.000Z"
+      "lastSuccess": "2026-11-02T09:15:09.838Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.932Z"
+      "lastSuccess": "2026-11-02T09:15:10.295Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.073Z"
+      "lastSuccess": "2026-11-02T09:15:10.041Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.977Z"
+      "lastSuccess": "2026-11-02T09:15:10.063Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.015Z"
+      "lastSuccess": "2026-11-02T09:15:10.178Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.964Z"
+      "lastSuccess": "2026-11-02T09:15:10.197Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.987Z"
+      "lastSuccess": "2026-11-02T09:15:10.333Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.962Z"
+      "lastSuccess": "2026-11-02T09:15:10.459Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.951Z"
+      "lastSuccess": "2026-11-02T09:15:10.238Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T09:10:08.988Z"
+      "lastErrorAt": "2026-11-02T09:15:10.396Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.151Z"
+      "lastSuccess": "2026-11-02T09:15:10.572Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.096Z"
+      "lastSuccess": "2026-11-02T09:15:10.452Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.908Z"
+      "lastSuccess": "2026-11-02T09:15:10.342Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:08.968Z"
+      "lastSuccess": "2026-11-02T09:15:10.232Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.045Z"
+      "lastSuccess": "2026-11-02T09:15:10.715Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T09:10:09.086Z"
+      "lastErrorAt": "2026-11-02T09:15:10.432Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.195Z"
+      "lastSuccess": "2026-11-02T09:15:10.514Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T09:10:09.081Z"
+      "lastSuccess": "2026-11-02T09:15:10.374Z"
     }
   },
   "items": [
+    {
+      "id": "story_e8cef5f74342be47",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Push for U.S.-Iran deal punctuated by threats to resume fighting",
+      "snippet": "Mediators have been pushing for a deal to end the U.S.-Iran war as both sides publicly exchange threats.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:09:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a69f4c77652faac1",
       "source": "France24",
@@ -106,6 +119,45 @@
       "link": "https://www.france24.com/en/rsf-publishes-list-of-press-freedom-predators-dictators-want-to-silence-journalists",
       "imageUrl": "https://s.france24.com/media/display/34a73f5a-d698-11f1-a86b-1beafce15fea/w:1024/p:16x9/EN-20261102-081019-081929-CS.jpg",
       "publishedAt": "2026-11-02T09:06:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c3f155abed880409",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+      "snippet": "Airline also weighs up increasing use of AI as part of cost-cutting measures to offset impact of Iran war\nRyanair is considering cost-cutting measures including implementing pay freezes, reducing crew on flights and increasing the use of AI",
+      "link": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:06:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_317240d87d150add",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "MLB ‘spot-fixing’ trial set to begin in US court",
+      "snippet": "MLB pitchers charged with conspiracy to influence sporting contests by bribery go on trial in New York.",
+      "link": "https://www.aljazeera.com/sports/2026/11/2/mlb-spot-fixing-trial-set-to-begin-in-us-court?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:01:49.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cc0d6d4d3c641eae",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Ukraine and Russia say emergency air-raid warning systems hit by cyber-hacks – Europe live",
+      "snippet": "In Ukraine, the app started to send out alarming fake messages late on Sunday night\nGood morning and welcome to our live coverage of key events in Europe.\nUkraine and Russia have reported corresponding cyber-hacks on their app warning syste",
+      "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T08:59:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +176,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e37e080586106f22",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Trump makes controversial claims at final Republican campaign rallies",
+      "snippet": "Donald Trump made a series of provocative remarks during his final Republican campaign rallies.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-makes-controversial-claims-at-final-republican-campaign-rallies?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T08:55:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5339f0c2e4964b12",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -137,6 +202,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_0f07993336044b28",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Anthrax outbreak kills hippos in DR Congo’s Virunga National Park",
+      "snippet": "Drought and conflict compound the threat to wildlife in eastern DR Congo.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/anthrax-outbreak-kills-hippos-in-dr-congos-virunga-national-park?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T08:49:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_324b4cf19940e401",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -146,6 +224,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T08:48:25.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_398f93ec88ae73a2",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Sydney deploys heavily armed police unit after Bondi attack",
+      "snippet": "Sydney deploys heavily armed police unit after Bondi attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T08:44:49.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -627,6 +718,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T06:57:29.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b063ebeb0a0f13bc",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Alstom slashes profitability target, warns of €1.5 billion cash burn - Reuters",
+      "snippet": "Alstom slashes profitability target, warns of €1.5 billion cash burn  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaEQxRXhVRGlRRDVycjBPbGxzNWtEM2p0VjB2VkVVUklxSndYMkg5VDdxVVNueFdLdWp5V283YXc0MlZtVlI4cGJQem1rUWtqSzB5bENfZV80TGJvZzItSVBzdGRWLUM4VzdjRGMzU21YYkk5LW5qTXJKa3JrZE9UaFhibTc1U2xjQUlLcVNhWk84ZWxjSEtHbzg1UGo4UkVZaVdpbHU5eFVEdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T06:57:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1209,6 +1313,19 @@
       "headline": "Apple's new CEO Ternus to face first earnings test as memory costs surge - Reuters",
       "snippet": "Apple's new CEO Ternus to face first earnings test as memory costs surge  Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUl3TDYxM3pONVd4QUM2TVlWdnRRY28tSnNuN1YwT3JibW1hX1hsYTByY3dJcURaLW56QXc3dVU3WlFaOXlLOXJjd09MTVZtNWxKam1WRlh2THFxSHJobUdnc1hQNVJTaDNULTNGcGhMTVg0b2piUDRNdnUwOXhpQ0U1cTI2Zzg1VV94MXhxYmhHdlBJcW04OU9mVHJGVXAxdFpPQVZVUGJNa3h1UmhGM2xTajV3bkJfQnRBeFk5bjZwNGxJ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T05:05:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_85c13a7cf0d5daa9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped - AP News",
+      "snippet": "Amateur historian’s look into murderous pirate finds New York beach namesake may have helped  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemJxTi1iS3ltaXhDajEzZWNuWTRnWk1IdVVteENlSjQ0Rk92Ym9tS0ZDemlfQncwM05yd2JHdGJQUVRtMGt4NDgwaG1EZjFlV1FaelNpMGw2X0JrU0xxTjBuM25qdm02aTk0M1BfZ2wwbFRONjVJUTlnUmZGWm80QW5neUlQT2N4SDMyNEIzcFM0cndXRTgwb3hqWkFneWRZZGkwcg?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-02T05:05:00.000Z",
       "tier": "major",
@@ -1970,6 +2087,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d778dec1306b32f7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "As Kherson’s ceasefire ends, residents prepare for attacks and hold on to hope - AP News",
+      "snippet": "As Kherson’s ceasefire ends, residents prepare for attacks and hold on to hope  AP News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMjh4TnB0ajlYYVVJYnhNR1gweEJLOTdZS041dE05MGtNLTV5SmltNmotWEt6YXREdTBpMFlVVU1VSEFxZ2RuZlBDZGR0LVJpZXVTU2hRbDVUOFFjTGxKZnh1aEJPMGNubFJ1VUxoNjdOYVU2bG9nMDNIUTBnNERSRTZQVU45eHcxV1MzX0VWSm9HY0RvUFNwVmV0dmJSTVB6Ym1xUGl2Qkw4LV9OcWNtSWVOMzFfUmRkNS0xMmktVm5hZDc0eTV1dTRobDlLODA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T03:04:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d5ce13e8fc267a4f",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2563,136 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPalN4amdQRzJsX1FNaE9BR3Fkd1Ezdk1JQTlveWJKRFd5WGZkUUgxUVl3SGVIQXpjVVBYVlUxUWxSVTZNLV9mNE83TkI1TEY2VW1iXzM1V0pINFNEZThOR0JOT0w0WllPMzVCSW5vUElTVXhpV0g4Q2JBYmdtd2pyaFdfZWNta1dzZHdlX1NoOW82bzdOSGt6U29FWk1wcDB5MUx6R3NfLXFBMnB4c3lVVF9TbzFGLXh3UlRxQWdMZkJENUJ5dnJZU0VJWnpTbnAxZ1gzc0M2SXFtdVRTRVUtNVFJNXExM2drdHVZR0xrOVEwOEx6NmZEQk5qUnRPZw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-02T01:41:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f109a84ff002cbcb",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Ukraine blames Russia after air alert app sends out false warnings",
-      "snippet": "Russian Emergencies Ministry also says its mobile app suffered a 'massive cyberattack', leading to 'false information'.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:40:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9039f6ddc704ab5c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China lowers funding costs with shift to overnight policy rate - Reuters",
-      "snippet": "China lowers funding costs with shift to overnight policy rate  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1Y5OGZoNEh2ZzdKN3pfVGlFWG8zT0tUdk9xOXQ2T0JfVlREREdhUWhpaFlTZmJPMV8wZ0h5SUg2YWd1bHA5M3FIaVFBZUdwbG1sbi0xMnNXdDFVNWotcmJTbHpCZWhCV0stcDd2WDFvcTZ6RkxsQ050V2ltZW5UUFgxcUk2ei0xQjROZENtTXdPX1A3ZGJ5RWluMVV5eHdvUThnbVdpb19vaTA0RGR5ZWVyLVg2bVh6Q2c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:39:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e115d54f994d9699",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Axis Asset Management Company Ltd - Reuters",
-      "snippet": "Axis Asset Management Company Ltd  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YYW5WT3YxTWxqdjVpOERUcVM2WDNDdXR4Q0xDZVRQRFV3d3lGSDI3QkJSckhuWUx4ekJrVUU5dXlqWWFqUS1tTFdaRDNISDk3eWFkZmdURHdwVTRreElIZlRoTHBVV25SNm00b0x2NFpLU2lz?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:34:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3da437df8a21d90a",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
-      "snippet": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:31:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cbe5a72a62782f2d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Florida State fires Mike Norvell after 6-plus seasons and takes on his nearly $50M buyout - AP News",
-      "snippet": "Florida State fires Mike Norvell after 6-plus seasons and takes on his nearly $50M buyout  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVpudVhCVkZKU1ZvM0tlMlZCZDdULXI5dGRVVVd1RmQ5VzN4VzUybmZYbXVjemhYNHE1eGhBUGxhU1VoN20wNXpKWkx3MW04VWcyNU1sbmNtVWlEQktGbmxlNlVLMHNHSEMxci02dC1NMDRPX2ZRWWU2U2RiSU9QaXBBejVmbVNKYWJGMlIydFQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:28:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a3d6ce7984dd770",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "How did a 20-year-old become F1’s youngest world champion? - AP News",
-      "snippet": "How did a 20-year-old become F1’s youngest world champion?  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTdQZHp6am9EMThHWjNXZUJUVHdiUlUwdm1uOWVjaHdjM2w0ekdsenVkQ0VGdXl5M2o4UWYtMHp1QmphdUxnT1R6Zk4wZ1pDOFRFMUdsb0NpX2FWRldVUXczcHU2d2pBU2NZOWJIczVyZk5YRk94dDZBTjdDcjlnX242WVFxZlB2cmJISHNITlplclh0aGt1UE12WDdUQ3VUbDFPT1hoYnZJZTJkXzFnVi1lX0I?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:27:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5ca8e0d8dc665273",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Trump invites Michigan Democrat Stevens to join the Republican Party",
-      "snippet": "US President Donald Trump praised Michigan Democrat Haley Stevens for endorsing Republican Mike Rogers.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:25:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_14c671966f3a71ed",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Newsom on Stevens: Obviously it’s ‘sub-optimal’",
-      "snippet": "California Gov. Gavin Newsom (D) on Sunday said Rep. Haley Stevens’s (D-Mich.) endorsement of Michigan Senate candidate Mike Rogers (R) over Democrat Abdul El-Sayed was “sub-optimal.” Newsom spoke on “Decision Desk ’26 Midterm Preview” for ",
-      "link": "https://thehill.com/homenews/campaign/6187568-gavin-newsom-haley-stevens-sub-optimal/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-12.png?w=900",
-      "publishedAt": "2026-11-02T01:24:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dcefb8c732b1c942",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Fact-checking El-Sayed and Rogers on 60 Minutes",
-      "snippet": "Ross Douthat sat down with both candidates as they made their cases to Michigan voters.",
-      "link": "https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:22:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ad9773dddd132d1",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Australia selects Renshaw and Green for England ODI series; Starc, Hazlewood, Cummins rested - AP News",
-      "snippet": "Australia selects Renshaw and Green for England ODI series; Starc, Hazlewood, Cummins rested  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG1lSzRHdkFyN3RhbDJNVXpTOUtkdGZ1dTdEZ0tvekszaVVsMWV6X0NPM05TQ0FDZHJtTFJ4THQ4SDBGSVA0b296SWUtRjRma0hfcWlkZklPWFpoaG9kVk9sdDdHTEFaWVBERnNmR2J4SWs2LXJLTUQ4OEhvZkllTmxlRmRmRHAtMzRXUTRONWViZUU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T01:22:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
