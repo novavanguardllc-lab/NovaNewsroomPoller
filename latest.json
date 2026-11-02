@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-11-02T13:10:08.550Z",
+  "updatedAt": "2026-11-02T13:15:08.979Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.647Z"
+      "lastSuccess": "2026-11-02T13:15:09.307Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.708Z"
+      "lastSuccess": "2026-11-02T13:15:09.101Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.676Z"
+      "lastSuccess": "2026-11-02T13:15:09.146Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.828Z"
+      "lastSuccess": "2026-11-02T13:15:09.195Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.846Z"
+      "lastSuccess": "2026-11-02T13:15:09.537Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.878Z"
+      "lastSuccess": "2026-11-02T13:15:09.681Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.957Z"
+      "lastSuccess": "2026-11-02T13:15:09.318Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.960Z"
+      "lastSuccess": "2026-11-02T13:15:09.515Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.928Z"
+      "lastSuccess": "2026-11-02T13:15:09.676Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.889Z"
+      "lastSuccess": "2026-11-02T13:15:09.596Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.946Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-02T13:15:09.320Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.856Z"
+      "lastSuccess": "2026-11-02T13:15:09.501Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:12.623Z"
+      "lastSuccess": "2026-11-02T13:15:09.779Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.916Z"
+      "lastSuccess": "2026-11-02T13:15:09.477Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T13:10:08.957Z"
+      "lastErrorAt": "2026-11-02T13:15:09.779Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T13:10:08.933Z"
+      "lastErrorAt": "2026-11-02T13:15:09.711Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.954Z"
+      "lastSuccess": "2026-11-02T13:15:09.700Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:09.115Z"
+      "lastSuccess": "2026-11-02T13:15:09.893Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.809Z"
+      "lastSuccess": "2026-11-02T13:15:09.216Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.976Z"
+      "lastSuccess": "2026-11-02T13:15:09.729Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.982Z"
+      "lastSuccess": "2026-11-02T13:15:09.751Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.876Z"
+      "lastSuccess": "2026-11-02T13:15:09.662Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T13:10:08.774Z"
+      "lastSuccess": "2026-11-02T13:15:09.627Z"
     }
   },
   "items": [
@@ -120,6 +121,32 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T13:03:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4357af9f73d21b80",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+      "snippet": "Prospect to hold workplace sessions and recruit members under agreement with tech company\nTrade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force, ",
+      "link": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T13:00:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5971a6d2c012a51e",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘Politics of electricity’ over rising bills could power Democratic win, say clean energy advocates",
+      "snippet": "Concerns about datacenters and high energy bills could help Democrats clinch races in Ohio, Arizona and Michigan\nIn Arizona, where summer temperatures regularly hit triple digits, air conditioning can be a matter of life and death. This yea",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/electricity-bills-midterm-elections",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T13:00:41.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -210,6 +237,19 @@
       "link": "https://thehill.com/homenews/administration/6188005-donald-trump-reflecting-pool-dc-projects-remarks/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26306154593328-e1793623653663.jpg?w=900",
       "publishedAt": "2026-11-02T12:56:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9b4f396b366eeda6",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Mamdani threatens ICE with legal action over use of New York parking lots",
+      "snippet": "Letter from mayor tells federal agents to stay out of city-owned facilities for immigration operations\nMayor Zohran Mamdani has threatened to take legal action against Immigration and Customs Enforcement over allegations the agency’s office",
+      "link": "https://www.theguardian.com/us-news/2026/nov/02/zohran-mamdani-ice-new-york-parking-lots",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T12:56:12.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -315,6 +355,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T12:36:23.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_049251e316c93f21",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Meet Africa’s first certified Bread Sommelier - AP News",
+      "snippet": "Meet Africa’s first certified Bread Sommelier  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcktiN184RXN3clViNGJveG9Eb0VtckFadlY4ZXdfZnFYaHZTM2daOUszYXIyS2I5eTEzcTlRLWtxeHJUU0pGLXl0dlRBZDh3YTI3SzdVTGswMVJHMHc2SVRLaEdxaUt0R2hlMzVucmhkMnZ4TVdleEo3MUFVeHF1V00yOFY2ajNGc0JGaTF4MVl2X3RhVGhZT3VxYk96SU14aHdwSQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T12:36:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -524,6 +577,19 @@
       "publishedAt": "2026-11-02T12:14:10.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f529714442483a51",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Christian McCaffrey gives one 49ers quality that separates team from pack amid Super Bowl hopes",
+      "snippet": "Christian McCaffrey reveals why the San Francisco 49ers' veteran maturity gives them a massive advantage in their Super Bowl pursuit this season.",
+      "link": "https://www.foxnews.com/outkick-sports/christian-mccaffrey-gives-49ers-quality-separates-team-pack-amid-super-bowl-hopes",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T12:10:31.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2490,6 +2556,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_be93821d4b06dfd2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Greenland opens new international airport to lure tourists as it eyes future independence - AP News",
+      "snippet": "Greenland opens new international airport to lure tourists as it eyes future independence  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHFlakl4RnlHMFp5N2pkSFQ5MGw5UER0SUp0emlQMzdkOU5ITlhQMTNUYmFJUnREQTBSZWxNRUJQZngyclFxaFlNZHV2UHNRa2M1SVFXMERCcmFxSzhNQmF6NWtza0wzUGthVEN1ZUY2TGJlcjY0M1ZlZURJT0ZWQXFWY0dSVDQydlZxMlpQTFAtUFVPSVd2LWZMVQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T09:56:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b941ff349d28d916",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2616,84 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-02T09:42:20.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_88411c0e95f711dc",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Euro zone factory growth eases in October but remains solid, PMI shows - Reuters",
-      "snippet": "Euro zone factory growth eases in October but remains solid, PMI shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHhCRWw3M2tFaFpfWGNsSFUzWU91b0hpd2lib0xJM3VRQkU0ZWpRLXVvNUIwM2pwSWhldHN5amtqRkRLRzN6c3BWMEdIem9NM0xGTlBmeFlOQU9IcWpQNzJZeHppemJNMVRNLW9IdXpjRlZmZGk1dTNvakR2YTJnRDZZOXAwdDEyX2F6MWlqUXBfTDQ4NWxEWFdqbXVYQUo3aEE3SFZpN2F4RzZMM1hIRw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T09:39:56.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c09f848d85e2bdc3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnZvQVFhNUg2SGU3dDU3MTk5RDU1endYU192VDJFSjJKcjdhSnRmMzU4dTBvcmpnQXhPdGxLZ3g2enlTdXYteUI3YjhfWjZZN3o3V042MEtxZ21PVHBVWWF2SFhBQTN3ZmtaWXJINkFhalZHTmhRcnNua3p6SFhiUnV3M19DM2txUnY0a09KNWZDZmhsa3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T09:38:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_8cccaca42670a737",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "In California, illegal border crossings plummet under Trump administration",
-      "snippet": "It was one of US President Donald Trump's major campaign promises in 2024: putting an end to illegal crossings along the southern US border. Today, official data shows that promise has been kept: arrests for illegal crossings have plummeted",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261102-in-california-illegal-border-crossings-plummet-under-trump-administration",
-      "imageUrl": "https://s.france24.com/media/display/7195d970-d69e-11f1-a828-695cb59fade5/w:1024/p:16x9/capture-20d2068f.jpg",
-      "publishedAt": "2026-11-02T09:36:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_68053c446ecc905d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
-      "snippet": "Warnings startle people in Ukraine, but authorities say they cleared up the confusion in under an hour.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T09:35:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7129039b71518a1b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T09:34:02.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5ab0e122a327d206",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Euro zone countries are integrating faster with US than with each other, ECB says - Reuters",
-      "snippet": "Euro zone countries are integrating faster with US than with each other, ECB says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTmVQWHVwb21iejNtYmUyXzktbkxWSFlNWVI2NkI2Sm9RazROUzBLQjJBaW9TeDR2VGlRTk9Jano1UmlONEFQU3diNlBEZVZHck1yT3E1YjBJQUFBZGZmUUNhS1pmTHZRS2JlazFuVWdyUU9CZEZWdWcxVTZoMGZENEg0YTdnV2Z1c1JkU2hMVms1ckVoV3NvV2lBRzlrTzJwMGdCeTNfWEQ2WVNXaVRyNy1vOXdYVm9EVFJTSzM1Z3RMTHlvYWI2d3dnUm1wdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T09:29:46.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
