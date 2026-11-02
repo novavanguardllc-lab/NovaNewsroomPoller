@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-02T11:05:06.697Z",
+  "updatedAt": "2026-11-02T11:10:08.613Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.860Z"
+      "lastSuccess": "2026-11-02T11:10:08.776Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.878Z"
+      "lastSuccess": "2026-11-02T11:10:08.791Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.011Z"
+      "lastSuccess": "2026-11-02T11:10:08.780Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.896Z"
+      "lastSuccess": "2026-11-02T11:10:08.853Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.800Z"
+      "lastSuccess": "2026-11-02T11:10:08.741Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.007Z"
+      "lastSuccess": "2026-11-02T11:10:08.833Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.161Z"
+      "lastSuccess": "2026-11-02T11:10:09.120Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.986Z"
+      "lastSuccess": "2026-11-02T11:10:08.984Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.890Z"
+      "lastSuccess": "2026-11-02T11:10:08.811Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.031Z"
+      "lastSuccess": "2026-11-02T11:10:09.042Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.807Z"
+      "lastSuccess": "2026-11-02T11:10:08.901Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.059Z"
+      "lastSuccess": "2026-11-02T11:10:08.915Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.072Z"
+      "lastSuccess": "2026-11-02T11:10:08.899Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.875Z"
+      "lastSuccess": "2026-11-02T11:10:08.895Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-02T11:05:07.073Z"
+      "lastErrorAt": "2026-11-02T11:10:08.892Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.080Z"
+      "lastSuccess": "2026-11-02T11:10:09.153Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.056Z"
+      "lastSuccess": "2026-11-02T11:10:09.078Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.187Z"
+      "lastSuccess": "2026-11-02T11:10:09.100Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:06.869Z"
+      "lastSuccess": "2026-11-02T11:10:08.923Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.263Z"
+      "lastSuccess": "2026-11-02T11:10:09.023Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-02T11:05:07.046Z"
+      "lastErrorAt": "2026-11-02T11:10:09.029Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.146Z"
+      "lastSuccess": "2026-11-02T11:10:09.134Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-02T11:05:07.065Z"
+      "lastSuccess": "2026-11-02T11:10:09.029Z"
     }
   },
   "items": [
+    {
+      "id": "story_811659d845fb705c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Final Polls Before the Midterms, and a $6 Billion Crypto Heist",
+      "snippet": "Plus, the smog over Tomorrowland.",
+      "link": "https://www.nytimes.com/2026/11/02/podcasts/the-headlines/midterms-polls-crypto-heist.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T11:00:12.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_c854c5243b5c1a0d",
       "source": "ProPublica",
@@ -173,6 +186,19 @@
       "publishedAt": "2026-11-02T11:00:00.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dcd926f63d04d2a8",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "NFL Week 8: The Cowboys can’t close, the Chargers can’t score, and Lamar Jackson can’t stay healthy",
+      "snippet": "The Dallas Cowboys, Los Angeles Chargers and Atlanta Falcons all lost in dispiriting ways Sunday, while Tampa Bay won using a strategy not seen in 50 years.",
+      "link": "https://www.nbcnews.com/sports/nfl/nfl-week-8-cowboys-chargers-lamar-jackson-rcna606933",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -470,6 +496,45 @@
       "link": "https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html",
       "imageUrl": null,
       "publishedAt": "2026-11-02T10:02:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_76ff8b46d5744547",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "George Floyd-era police watchdog chair charged with selling name to inmate who vowed to 'blow down' witness",
+      "snippet": "Hassan Bennett, chair of Philadelphia's police watchdog, allegedly sold a witness's name in an attempted murder case to a man who vowed violence.",
+      "link": "https://www.foxnews.com/us/george-floyd-era-police-watchdog-chair-charged-selling-name-inmate-vowed-blow-down-witness",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_26037332ecabb6eb",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Doctors settle debate over drinking coffee on an empty stomach and potential health risks",
+      "snippet": "Gastroenterologists weigh in on whether coffee on an empty stomach truly spikes cortisol levels or causes acid reflux and other GI symptoms.",
+      "link": "https://www.foxnews.com/food-drink/doctors-settle-debate-over-drinking-coffee-empty-stomach-potential-health-risks",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bd79c957e88e63e9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "The GOP reveals a fresh $100B talking point as the battle for Congress looms",
+      "snippet": "Kelly Loeffler says the SBA delivered $100 billion to Main Street businesses for a second straight year under Trump's tax and trade policies.",
+      "link": "https://www.foxnews.com/politics/gop-reveals-fresh-100b-talking-point-battle-congress-looms",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:00:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2631,71 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_144a2f9cdaf3cdbb",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Breakingviews - COMMENTARY: PAG's China property deal blueprint comes together - Reuters",
-      "snippet": "Breakingviews - COMMENTARY: PAG's China property deal blueprint comes together  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSy1ibVZQRVZFNDR3R0s4cXE1ZUx4Umw5UHJMbE1UZVVMVWZFUmRnTHNxSU1rX1ZWRENlNmJLMHFFcnJLUW8xa1hidkFnRVBxbm54Um9jc1p4VEhGamRhajRiUURJSklBeGlpd1pwUHpJYUxzaDNwdGlYNmR6bzJwVmJlV3U4VHl2VUU3a0NVRkR5aUd2aHhYX3huaUh6Vl9IcHhWZ3pCeWVMOXlJbXVV?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T05:24:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_174571c89625989f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges - AP News",
-      "snippet": "Ex-Cleveland Guardians pitchers, including star reliever, go to trial in New York on fraud charges  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2F2R0RVQzdRdHZuZ2lzXzdGU0dNQy05cGJ5bGxCQWpXY0hTVXV3OE9fWXQzSXYzVTNIQzg4SkoxNVFiekZBUDBFdGNpY1gwT0pQRkw4OUxVbTdpZHUtY3k0MDBoeVV6UDNxS3Eta2FYZjdpdGJKZ1FfWENIMVRhTE8yWkdKYmN2NTlabExBR1V6NmdvX01UOQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T05:20:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ca3fdc04bbf35009",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Russia detains teen following U.S. tip about possible terrorist attack",
-      "snippet": "Russian authorities announced the detention of a teenager following a tip from U.S. law enforcement concerning a threat targeting a Moscow museum.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/11/02/teen-arrested-US-tip/3371793593441/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/3371793593441/2026/upi_com/62b4d92d48cae3b6cc925ed39a64cfd1/v1.5/Russia-detains-teen-following-US-tip-about-possible-terrorist-attack.jpg",
-      "publishedAt": "2026-11-02T05:17:38.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9e992df8dadee735",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Newsom and Harris Appear Together, With Little Hint of What’s to Come",
-      "snippet": "The two possible presidential candidates showed up in Los Angeles to support Xavier Becerra, the Democratic candidate for California governor.",
-      "link": "https://www.nytimes.com/2026/11/02/us/elections/newsom-harris-becerra-rally.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T05:17:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6f97c2df6b6d6513",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Court hears Lori Vallow Daybell’s appeal in Idaho killings of 2 of her children, romantic rival - AP News",
-      "snippet": "Court hears Lori Vallow Daybell’s appeal in Idaho killings of 2 of her children, romantic rival  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVp4dWtpNHVMSzl5NXNYZjBVS1dleWM0QTRabkRTWkZTODFGb21LNlgzUXowdU5pSHRIZTJKbUlFcnowSTZRdGNqWkZTaUN0Tlp3RTV4LTVYZXoyRTNwUXUwQmszaDQ2SHRQbVpkQlVGWFNESTdIVkZqNHBab2Y3ZWJCT3lUd0hxVDlqbEtFMF90OFZJUWF6MWhudmdhZ3lnV0Rj?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T05:12:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
