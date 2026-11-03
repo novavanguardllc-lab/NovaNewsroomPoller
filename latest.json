@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-11-03T10:55:06.139Z",
+  "updatedAt": "2026-11-03T11:00:15.583Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.319Z"
+      "lastSuccess": "2026-11-03T11:00:15.995Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.745Z"
+      "lastSuccess": "2026-11-03T11:00:16.193Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.241Z"
+      "lastSuccess": "2026-11-03T11:00:15.851Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.434Z"
+      "lastSuccess": "2026-11-03T11:00:15.945Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.257Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-03T11:00:15.928Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.298Z"
+      "lastSuccess": "2026-11-03T11:00:15.771Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.439Z"
+      "lastSuccess": "2026-11-03T11:00:15.789Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.540Z"
+      "lastSuccess": "2026-11-03T11:00:16.023Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.340Z"
+      "lastSuccess": "2026-11-03T11:00:15.925Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.261Z"
+      "lastSuccess": "2026-11-03T11:00:16.027Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.281Z"
+      "lastSuccess": "2026-11-03T11:00:15.765Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.499Z"
+      "lastSuccess": "2026-11-03T11:00:16.146Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.555Z"
+      "lastSuccess": "2026-11-03T11:00:16.152Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T10:55:06.586Z"
+      "lastErrorAt": "2026-11-03T11:00:16.250Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.581Z"
+      "lastSuccess": "2026-11-03T11:00:16.237Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.722Z"
+      "lastSuccess": "2026-11-03T11:00:16.310Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.702Z"
+      "lastSuccess": "2026-11-03T11:00:16.519Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.577Z"
+      "lastSuccess": "2026-11-03T11:00:16.163Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T10:55:06.560Z"
+      "lastErrorAt": "2026-11-03T11:00:16.166Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.599Z"
+      "lastSuccess": "2026-11-03T11:00:16.267Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.789Z"
+      "lastSuccess": "2026-11-03T11:00:16.345Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.739Z"
+      "lastSuccess": "2026-11-03T11:00:15.966Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T10:55:06.559Z"
+      "lastSuccess": "2026-11-03T11:00:16.207Z"
     }
   },
   "items": [
+    {
+      "id": "story_097204f9e0d5514f",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "‘We forgot what it's like to be populist’: Republicans see Trump’s 2024 crumbling",
+      "snippet": "New results from the POLITICO Poll show that one in 10 Trump voters are planning to vote for Democrats on Tuesday.",
+      "link": "https://www.politico.com/news/2026/11/03/poll-trump-gop-coalition-fractures-elections-01145084",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bd52868685fec49d",
+      "source": "Politico",
+      "sourceColor": "#A65A2E",
+      "headline": "The affordability election that teaches Democrats nothing",
+      "snippet": "If Democrats do as well tonight as polls suggest, everyone knows the two reasons why: affordability and President Donald Trump.",
+      "link": "https://www.politico.com/news/2026/11/03/democrats-affordability-2026-midterms-cost-living-01145086",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ad2eb41a6e181f3c",
       "source": "France24",
@@ -462,6 +489,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9b7b2e6f66d9ab8b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Supreme Court to Hear Catholic Schools’ Challenge to Colorado Aid Rules",
+      "snippet": "The Supreme Court considers whether Catholic preschools in Colorado that decline to enroll families with gay and transgender parents can participate in a state program.",
+      "link": "https://www.nytimes.com/2026/11/03/us/politics/supreme-court-colorado-catholic-schools-discrimination.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:03:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a5ad8811e6bfb5d4",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -486,6 +526,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_ce62126b0cd55005",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+      "snippet": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
+      "link": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:01:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_3e605190756f64e8",
@@ -590,6 +643,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_73a130416ff2d45d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump’s Immigration Dragnet Sweeps Up Ukrainian Truckers Who Fled War",
+      "snippet": "At least a dozen Ukrainian truck drivers were arrested this summer, according to a representative for Ukraine. Several remain in detention.",
+      "link": "https://www.nytimes.com/2026/11/03/us/ukraine-immigrant-trucker-cdl-weigh-stations-ice.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:00:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_b4a5d6fd6b3d9713",
@@ -2628,71 +2694,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VlcDd4VEtEWWtPYUNnck5rekRyWlBCQmc5ZW9odGVWVDlLdDN3NlZzZHRuMXk5TDZ5YjY4QmpKc3RZc2RaTkVGc3hEbEIxb2c4aFRhNGhPM0gtSlRsaDM1Y2V3RWYwbXBVTjVBYlU5TnhLU0hiLVpfTldKbXg3UDZxbzEwMEppSEN0YzM1SDlrb0xETjMzWEtqSnNlMUhUSFE?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-03T05:07:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d17fb8af45bfdca9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
-      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T05:05:27.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4af6ff5b1731048e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "After Election Day, Trump stares down the specter of Democratic probes and the race to succeed him - AP News",
-      "snippet": "After Election Day, Trump stares down the specter of Democratic probes and the race to succeed him  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekd4UWJndllyRDU5WTZ0c0ZDVlk4cEk2X3ZxcWhBUmVySWtTVGtvZk9HRTdzUWtuczQxTlEtNWFQTExrb296SzFwQkoxZnJpT0hndjFnMzhlb1oxN09IUmV2YjFMX2J4UUUwVk1QR1J6T2dRQjFjWG0weWViWTcxZWJ5QW52RUxja3Z3bXV0Q3lVd3AxUHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T05:05:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2757b56361ac8830",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indian national killed after two helicopters collide in Nepal's Mount Everest region - Reuters",
-      "snippet": "Indian national killed after two helicopters collide in Nepal's Mount Everest region  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUZVUllrZGwycGFhTjBKcnB2eVg1Sm1yZUlUUTUzaG1kQ25qX3FfVE1fdG9GdTgtUXlMNFA0RE5jMm0wOFNsMHBNWXpwb3NfM3dWUXNiY21aM1lOQk5yTm5SZkVzT0M4Mk50UWFzQ0xCUlIxRUFoMEpJb1U3VjlFejNSSWc2R0UwTFRJd0tkRTlkY1FzcFVXbVBfM0FCeUFsaXp0NHNMWkVPbjIzZmtvWGlMa2JzSzduY0w2LXJ0MUZCLWtSYUhn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T05:04:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_505de3511dd04470",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Midterm elections coming to a close as voters pass judgment on Trump’s second term - AP News",
-      "snippet": "Midterm elections coming to a close as voters pass judgment on Trump’s second term  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T05:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8b9936ad02d5b26b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AI-related debt binge may pressure European bond markets - Reuters",
-      "snippet": "AI-related debt binge may pressure European bond markets  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOblQ0XzlqZzJsa2FDYW5uSVdhTUluMGpBaEY0NV9hSXNZWUMtMGtBX202UnhyWWR3NmJ5VGtMLUtJOGllZjRfVGZVU05aZFBDQldVT29SOTg0a3owVVkwa000ZnktWmlwaUdWRFg4QzhYNXFCVm1oaGlFRXlzQnJtcjN4T01VN0Y5cmhKdVJoOG1FVWg3WXFIbjI0d3Vhd1Fhanhn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T05:03:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
