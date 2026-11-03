@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-11-03T14:25:06.302Z",
+  "updatedAt": "2026-11-03T14:30:12.253Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.354Z"
+      "lastSuccess": "2026-11-03T14:30:12.514Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.880Z"
+      "lastSuccess": "2026-11-03T14:30:13.070Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.372Z"
+      "lastSuccess": "2026-11-03T14:30:12.584Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.412Z"
+      "lastSuccess": "2026-11-03T14:30:12.813Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.519Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-03T14:30:12.654Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.481Z"
+      "lastSuccess": "2026-11-03T14:30:12.647Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.393Z"
+      "lastSuccess": "2026-11-03T14:30:12.616Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.441Z"
+      "lastSuccess": "2026-11-03T14:30:12.765Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.471Z"
+      "lastSuccess": "2026-11-03T14:30:12.694Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.476Z"
+      "lastSuccess": "2026-11-03T14:30:12.651Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.388Z"
+      "lastSuccess": "2026-11-03T14:30:12.442Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.507Z"
+      "lastSuccess": "2026-11-03T14:30:12.945Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.473Z"
+      "lastSuccess": "2026-11-03T14:30:12.427Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T14:25:06.527Z"
+      "lastErrorAt": "2026-11-03T14:30:13.029Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.526Z"
+      "lastSuccess": "2026-11-03T14:30:12.806Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.765Z"
+      "lastSuccess": "2026-11-03T14:30:13.217Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.622Z"
+      "lastSuccess": "2026-11-03T14:30:12.905Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.516Z"
+      "lastSuccess": "2026-11-03T14:30:12.771Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T14:25:06.538Z"
+      "lastErrorAt": "2026-11-03T14:30:12.771Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.532Z"
+      "lastSuccess": "2026-11-03T14:30:13.035Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.551Z"
+      "lastSuccess": "2026-11-03T14:30:13.089Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.869Z"
+      "lastSuccess": "2026-11-03T14:30:13.026Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:25:06.512Z"
+      "lastSuccess": "2026-11-03T14:30:12.835Z"
     }
   },
   "items": [
+    {
+      "id": "story_2cddb55cf6229a90",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "snippet": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
+      "link": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:26:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c4a90b067f335b78",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Midterm elections come to a close in referendum on Trump's presidency",
+      "snippet": "Midterm elections that will serve as a referendum on President Donald Trump's second term are coming to a close. Americans angry over high prices and an unpopular war with Iran decide on Tuesday whether to drastically shift power in Washing",
+      "link": "https://www.pbs.org/newshour/politics/midterm-elections-come-to-a-close-in-referendum-on-trumps-presidency",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:20:02.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_83f92c922c90c020",
       "source": "CBS News",
@@ -132,6 +159,19 @@
       "link": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-03T14:18:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4fd2b2d7ca106a3a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "US supreme court to hear arguments in Catholic preschools’ LGBTQ+ exclusion case",
+      "snippet": "A decision could reshape the relationship between religious freedom and nondiscrimination laws in the US\nThe US supreme court will hear arguments on Tuesday over a challenge brought by two Catholic preschools in Colorado, arguing that they ",
+      "link": "https://www.theguardian.com/us-news/2026/nov/03/lgbtq-catholic-public-preschool-supreme-court",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:17:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1879,6 +1919,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_675e9b0f0266c985",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next - AP News",
+      "snippet": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjU1Vjk0S2NySC14ZnByNG9Ld0J4cnZZaUxaTDdBeHgwMm41Q1Y3OGpVeXpKVWQ3dFNlcGtNTERub3h1Z1g3Rl93NzhqamZhWm1HYkhXVFBWNFdqbko2eWlUVU1HSmcxZmJJSlIyQlFZUjdTY1pxcU5kWjJyV3d1UTlfTjhPQXVOZW42MlBCc1Ztc3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T11:44:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_622d4fdc0cb20a5d",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -2641,58 +2694,6 @@
       "link": "https://www.france24.com/en/video/20261103-hopefully-we-make-history-el-sayed-fires-up-michigan-democrats-on-eve-of-crucial-us-senate-race",
       "imageUrl": "https://s.france24.com/media/display/2d14c1ce-8ff1-11f1-be2c-005056bf30b7/w:1024/p:16x9/AP26216233591327.jpg",
       "publishedAt": "2026-11-03T10:53:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a33f84b9583c8f8f",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Cheese theft becomes rife among Europe's gangsters",
-      "snippet": "PRESS REVIEW – Tuesday, November 3: We look at reactions and analyses in Poland, where pro-European Prime Minister Donald Tusk is involved in a standoff with the nationalist president over the composition of the constitutional court. In oth",
-      "link": "https://www.france24.com/en/tv-shows/press-review/20261103-cheese-theft-becomes-rife-among-europe-s-gangsters",
-      "imageUrl": "https://s.france24.com/media/display/e5d94cc0-d763-11f1-80b8-d18c5759e759/w:1024/p:16x9/capture-4a7026d2.jpg",
-      "publishedAt": "2026-11-03T10:53:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3f8141615a2c4cdb",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US stock futures mixed as Apple slides, midterms loom - Reuters",
-      "snippet": "US stock futures mixed as Apple slides, midterms loom  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:51:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_73ab56c69ed27edd",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Could Texas turn blue? Democrat James Talarico takes on Republican establishment",
-      "snippet": "In a state that has long been a Republican stronghold, Democratic candidate for the US Senate, James Talaricois is carrying the hopes of what once seemed unlikely: Texas turning blue. The former schoolteacher and Presbyterian seminarian has",
-      "link": "https://www.france24.com/en/video/20261103-could-texas-turn-blue-democrat-james-talarico-takes-on-republican-establishment",
-      "imageUrl": "https://s.france24.com/media/display/15686ebe-d771-11f1-9add-1beafce15fea/w:1024/p:16x9/EN-20261103-100630-100801-CS.jpg",
-      "publishedAt": "2026-11-03T10:51:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_385d37c75e2d7df5",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Californians vote on billionaire tax to replace federal cuts in healthcare funding",
-      "snippet": "California could become the first US state to tax the net worth of billionaires Tuesday under a ballot measure that has divided liberal leaders nationally and triggered one of the most expensive ballot fights in state history as the ultra-r",
-      "link": "https://www.france24.com/en/video/20261103-californians-vote-on-billionaire-tax-to-replace-federal-cuts-in-healthcare-funding",
-      "imageUrl": "https://s.france24.com/media/display/b0027d02-d771-11f1-a3cc-1beafce15fea/w:1024/p:16x9/EN-20261103-100821-101017-CS.jpg",
-      "publishedAt": "2026-11-03T10:49:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
