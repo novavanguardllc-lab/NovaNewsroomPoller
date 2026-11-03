@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-03T21:55:05.999Z",
+  "updatedAt": "2026-11-03T22:00:14.717Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.140Z"
+      "lastSuccess": "2026-11-03T22:00:14.884Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.179Z"
+      "lastSuccess": "2026-11-03T22:00:14.924Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.126Z"
+      "lastSuccess": "2026-11-03T22:00:15.062Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.504Z"
+      "lastSuccess": "2026-11-03T22:00:15.773Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.430Z"
+      "lastSuccess": "2026-11-03T22:00:15.119Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.382Z"
+      "lastSuccess": "2026-11-03T22:00:15.221Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.206Z"
+      "lastSuccess": "2026-11-03T22:00:15.006Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.288Z"
+      "lastSuccess": "2026-11-03T22:00:15.178Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.307Z"
+      "lastSuccess": "2026-11-03T22:00:15.080Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.347Z"
+      "lastSuccess": "2026-11-03T22:00:15.157Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.285Z"
+      "lastSuccess": "2026-11-03T22:00:15.303Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.144Z"
+      "lastSuccess": "2026-11-03T22:00:15.083Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.232Z"
+      "lastSuccess": "2026-11-03T22:00:15.163Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.303Z"
+      "lastSuccess": "2026-11-03T22:00:15.340Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.539Z"
+      "lastSuccess": "2026-11-03T22:00:15.377Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.312Z"
+      "lastSuccess": "2026-11-03T22:00:15.185Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T21:55:06.308Z"
+      "lastErrorAt": "2026-11-03T22:00:15.380Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.339Z"
+      "lastSuccess": "2026-11-03T22:00:15.401Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.439Z"
+      "lastSuccess": "2026-11-03T22:00:15.438Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T21:55:06.351Z"
+      "lastErrorAt": "2026-11-03T22:00:15.441Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.523Z"
+      "lastSuccess": "2026-11-03T22:00:15.501Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.477Z"
+      "lastSuccess": "2026-11-03T22:00:15.465Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T21:55:06.419Z"
+      "lastSuccess": "2026-11-03T22:00:15.570Z"
     }
   },
   "items": [
+    {
+      "id": "story_15d9a348e921f552",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "snippet": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T21:53:38.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_ab3469ea22254306",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Flights across Europe face disruption after false bomb threats",
+      "snippet": "Several flights across Europe received alleged bomb threats on Tuesday that ultimately turned out to be hoaxes but prompted searches, diversions and, in one case, an escort by the Italian Air Force until landing, officials said.",
+      "link": "https://www.pbs.org/newshour/world/flights-across-europe-face-disruption-after-false-bomb-threats",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T21:53:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_aaae2bdd2a21c199",
       "source": "The Hill",
@@ -1671,6 +1697,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_b62e296d18e4c3ba",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+      "snippet": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
+      "link": "https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:02:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_13e2a15c76d1ce58",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -2654,45 +2693,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-03T17:26:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e4903924ae6faaab",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Snap judgment: Whether your ballot selfie breaks the law",
-      "snippet": "As millions of Americans vote on Election Day, many will reach for their phones before they leave the booth. Whether the resulting ballot selfie is a harmless show of civic pride or a violation of state law depends on where they are standin",
-      "link": "https://www.washingtonexaminer.com/news/justice/4789122/ballot-selfie-break-law/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T17:25:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_952253f97c5ad6f2",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Russian strikes on Dnipro kill two, injure 20 others",
-      "snippet": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T17:24:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c5088a3fa525c7db",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Bird flu kills US resident after dairy cow exposure, marking nation’s third death",
-      "snippet": "A Yakima County resident with underlying health conditions died after contracting H5N1 bird flu from infected dairy cows at a local dairy farm.",
-      "link": "https://www.foxnews.com/health/bird-flu-kills-us-resident-dairy-cow-exposure-marking-nations-third-death",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T17:23:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
