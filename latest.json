@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-03T18:05:06.386Z",
+  "updatedAt": "2026-11-03T18:10:09.566Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.431Z"
+      "lastSuccess": "2026-11-03T18:10:09.709Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.590Z"
+      "lastSuccess": "2026-11-03T18:10:09.787Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.468Z"
+      "lastSuccess": "2026-11-03T18:10:09.704Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.582Z"
+      "lastSuccess": "2026-11-03T18:10:09.830Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.656Z"
+      "lastSuccess": "2026-11-03T18:10:09.848Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.639Z"
+      "lastSuccess": "2026-11-03T18:10:09.965Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.610Z"
+      "lastSuccess": "2026-11-03T18:10:09.643Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.624Z"
+      "lastSuccess": "2026-11-03T18:10:09.898Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.768Z"
+      "lastSuccess": "2026-11-03T18:10:09.917Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.595Z"
+      "lastSuccess": "2026-11-03T18:10:09.911Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.701Z"
+      "lastSuccess": "2026-11-03T18:10:09.894Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.662Z"
+      "lastSuccess": "2026-11-03T18:10:09.759Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.644Z"
+      "lastSuccess": "2026-11-03T18:10:09.859Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.648Z"
+      "lastSuccess": "2026-11-03T18:10:09.867Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.617Z"
+      "lastSuccess": "2026-11-03T18:10:10.028Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.665Z"
+      "lastSuccess": "2026-11-03T18:10:09.906Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T18:05:06.682Z"
+      "lastErrorAt": "2026-11-03T18:10:09.911Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.679Z"
+      "lastSuccess": "2026-11-03T18:10:09.902Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.718Z"
+      "lastSuccess": "2026-11-03T18:10:09.972Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T18:05:06.703Z"
+      "lastErrorAt": "2026-11-03T18:10:09.869Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.778Z"
+      "lastSuccess": "2026-11-03T18:10:10.080Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.745Z"
+      "lastSuccess": "2026-11-03T18:10:10.016Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T18:05:06.819Z"
+      "lastSuccess": "2026-11-03T18:10:10.064Z"
     }
   },
   "items": [
+    {
+      "id": "story_22580b30134afe2a",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Escaped Tennessee inmate captured, authorities say",
+      "snippet": "Jacob Allen Morley, the convicted murderer who escaped from a Tennessee prison, is in custody, the Tennessee Bureau of Investigation said Tuesday.",
+      "link": "https://www.nbcnews.com/news/us-news/escaped-tennessee-inmate-jacob-morley-captured-rcna606042",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T18:01:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_73f2e99ebc4ec5d8",
       "source": "The Hill",
@@ -213,6 +226,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_a9581f839cf0fc36",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials",
+      "snippet": "Some administration officials suggested Prime Minister Benjamin Netanyahu is trying to draw President Trump back into military action.",
+      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/iran-chemical-weapons-israel-united-states-trump.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T17:48:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_60dea62015ae4d7b",
@@ -2667,32 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4789284/westchester-voting-machine-delay-mike-lawler-reelection/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T16:21:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b715d8c4d031a84e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Trump Effort to Prove Rampant Noncitizen Voting Leads to Few Charges So Far",
-      "snippet": "Just 236 people have been charged with voting-fraud-related offenses by the Trump administration, despite its unsubstantiated claims that fraud is widespread.",
-      "link": "https://www.nytimes.com/2026/11/03/us/politics/dhs-noncitizen-voting-midterms.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T16:21:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_87bb1596ee224b79",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Rain moves out as flood risks remain in Southwest following destructive storms",
-      "snippet": "An expert says over 20 trillion gallons of water has fallen on the Four Corners states and Nevada in the past two weeks. The flooding has kept swift-water rescue teams busy.",
-      "link": "https://www.pbs.org/newshour/nation/rain-moves-out-as-flood-risks-remain-in-southwest-following-destructive-storms",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T16:20:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
