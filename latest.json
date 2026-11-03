@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-11-03T17:15:08.751Z",
+  "updatedAt": "2026-11-03T17:20:09.286Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:08.872Z"
+      "lastSuccess": "2026-11-03T17:20:09.419Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:08.950Z"
+      "lastSuccess": "2026-11-03T17:20:09.478Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.052Z"
+      "lastSuccess": "2026-11-03T17:20:09.403Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.087Z"
+      "lastSuccess": "2026-11-03T17:20:09.759Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.170Z"
+      "lastSuccess": "2026-11-03T17:20:09.607Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.231Z"
+      "lastSuccess": "2026-11-03T17:20:09.496Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.260Z"
+      "lastSuccess": "2026-11-03T17:20:09.353Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.265Z"
+      "lastSuccess": "2026-11-03T17:20:09.450Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-03T17:15:09.266Z"
+      "online": true,
+      "lastSuccess": "2026-11-03T17:20:09.457Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.291Z"
+      "lastSuccess": "2026-11-03T17:20:09.487Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.350Z"
+      "lastSuccess": "2026-11-03T17:20:09.589Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.358Z"
+      "lastSuccess": "2026-11-03T17:20:09.454Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.367Z"
+      "lastSuccess": "2026-11-03T17:20:09.467Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.391Z"
+      "lastSuccess": "2026-11-03T17:20:09.443Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.403Z"
+      "lastSuccess": "2026-11-03T17:20:10.064Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.426Z"
+      "lastSuccess": "2026-11-03T17:20:09.447Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T17:15:09.429Z"
+      "lastErrorAt": "2026-11-03T17:20:09.542Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.464Z"
+      "lastSuccess": "2026-11-03T17:20:09.482Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.485Z"
+      "lastSuccess": "2026-11-03T17:20:09.555Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T17:15:09.487Z"
+      "lastErrorAt": "2026-11-03T17:20:09.470Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.523Z"
+      "lastSuccess": "2026-11-03T17:20:09.678Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.536Z"
+      "lastSuccess": "2026-11-03T17:20:09.629Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T17:15:09.634Z"
+      "lastSuccess": "2026-11-03T17:20:09.536Z"
     }
   },
   "items": [
+    {
+      "id": "story_3c49c2ca18532775",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Here's when polls close for 2026 midterm elections today",
+      "snippet": "If you are in line to cast your ballot before a polling site closes, you have the right to remain in line and vote.",
+      "link": "https://www.cbsnews.com/news/when-polls-open-close-2026-midterm-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T17:17:08.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_45baadbacc99900f",
       "source": "NPR",
@@ -164,6 +176,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_67d27748c87b761b",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Russian households face increasing financial strain as war in Ukraine drags on",
+      "snippet": "As Moscow continues to launch strikes across Ukraine, Russian citizens are facing increasing financial strain. Since the start of the war in 2022, utility bills in Russia have risen by more than 50% – over 13% this year alone. These rising ",
+      "link": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on",
+      "imageUrl": "https://s.france24.com/media/display/aee025ec-d7a7-11f1-8d0d-1beafce15fea/w:1024/p:16x9/capture-69532ec1.jpg",
+      "publishedAt": "2026-11-03T17:05:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_67cb3704ebeb5515",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -172,6 +197,19 @@
       "link": "https://www.pbs.org/newshour/politics/california-voters-consider-proposition-to-tax-billionaires-wealth",
       "imageUrl": null,
       "publishedAt": "2026-11-03T17:04:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cb51670134340b73",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Darfur survivors vow to tell story of those killed after Sudan camp attacks",
+      "snippet": "Survivors of attacks on displacement camps in Darfur recall the lives they built, and violence that forced them to flee.",
+      "link": "https://www.aljazeera.com/features/2026/11/3/darfur-survivors-vow-to-tell-story-of-those-killed-after-sudan-camp-attacks?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T17:03:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -198,6 +236,19 @@
       "link": "https://www.cbsnews.com/news/twin-cities-election-day-weather-rain-showers-highs-60s/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T17:02:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dc7333a3409a9f53",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Officials investigate fire at Mississippi police department tied to fatal shooting of Black toddler",
+      "snippet": "Person arrested after fire broke out at police department where officer who shot and killed one-year-old Kohen Wiley previously worked\nIn the early hours of 31 October, a fire broke out at the Senatobia police department in Mississippi, whi",
+      "link": "https://www.theguardian.com/us-news/2026/nov/03/mississippi-police-department-fire-kohen-wiley",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T17:02:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1555,6 +1606,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_3119dcdfd7aeed19",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Barcelona vs Aston Villa LIVE: Champions League",
+      "snippet": "Follow updates from the league stage clash, including the build-up, analysis, and live text commentary of the game.",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/3/barcelona-vs-aston-villa-live-champions-league?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e9251e733e7a8941",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -1633,6 +1697,32 @@
       "corroboratedCount": 35
     },
     {
+      "id": "story_f6556b124ad913dc",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Ukraine and Russia are taking the war underground as drones saturate the battlefield",
+      "snippet": "Ukrainian President Volodymyr Zelensky last week heralded the success of Operation Veles, during which Kyiv sent troops deep into a disused gas pipeline in the Kupiansk region to confront Russian troops. These underground tactics, which Rus",
+      "link": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield",
+      "imageUrl": "https://s.france24.com/media/display/4d3ed6c0-d6db-11f1-8e9a-a575454bc579/w:1024/p:16x9/pipeline-ukr.jpg",
+      "publishedAt": "2026-11-03T16:52:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7c94a3bce98d87cb",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "US Midterms: Texas Democrat Talarico holds last rally ahead of vote",
+      "snippet": "Texas Democratic nominee James Talarico held a final rally Monday ahead of US midterm elections on November 3. His race against Republican Ken Paxton could determine which party holds a majority in the Senate. If Talarico wins, it will be t",
+      "link": "https://www.france24.com/en/video/20261103-us-midterms-texas-democrat-talarico-holds-last-rally-ahead-of-vote",
+      "imageUrl": "https://s.france24.com/media/display/d4db8858-d7a3-11f1-96d0-bf1914cabd52/w:1024/p:16x9/titre-1.jpg",
+      "publishedAt": "2026-11-03T16:50:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_74e7fd0c342da106",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -1696,6 +1786,32 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_57dad2bf78c1bd99",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "US midterm elections: Over 58 million Americans cast early ballots",
+      "snippet": "How powerful is US President Donald Trump? That’s the question pollsters have been asking in the lead-up to the midterm elections. Polls have opened in dozens of US states in what is widely considered a referendum on Donald Trump. Most poll",
+      "link": "https://www.france24.com/en/video/20261103-us-midterm-elections-over-58-million-americans-cast-early-ballots",
+      "imageUrl": "https://s.france24.com/media/display/ae1260dc-d7a0-11f1-9e64-1beafce15fea/w:1024/p:16x9/capture-0b76c009.jpg",
+      "publishedAt": "2026-11-03T16:46:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_131f71774e7aa964",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "US midterms: Talarico seeks to break Democrats' 30-year losing streak in Texas",
+      "snippet": "In Texas, Democratic candidate James Talarico is leading the polls ahead of a high-stakes US Senate race against Republican Ken Paxton. The contest is one of the most closely watched battles of the midterm elections, with Democrats hoping t",
+      "link": "https://www.france24.com/en/video/20261103-us-midterms-talarico-seeks-to-break-democrats-30-year-losing-streak-in-texas",
+      "imageUrl": "https://s.france24.com/media/display/083946e6-d7a3-11f1-a8e3-d18c5759e759/w:1024/p:16x9/capture-b7d619cc.jpg",
+      "publishedAt": "2026-11-03T16:45:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_aca7e49b790558c2",
@@ -1841,6 +1957,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_f828c820b56736be",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Brazil keeps a close eye on US midterm elections",
+      "snippet": "Brazil is keeping a close eye on the US midterm elections. Since Donald Trump's return to the White House, relations between Brasilia and Washington have grown increasingly tense. On the economic front, aggressive trade policies have subjec",
+      "link": "https://www.france24.com/en/video/20261103-brazil-keeps-a-close-eye-on-us-midterm-elections",
+      "imageUrl": "https://s.france24.com/media/display/dcee6d6c-d7a3-11f1-8c64-d18c5759e759/w:1024/p:16x9/capture-dd5dbc4b.jpg",
+      "publishedAt": "2026-11-03T16:36:07.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_a75d1d46a496909c",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1940,6 +2069,19 @@
       "link": "https://www.cbsnews.com/news/coast-guard-detains-msc-poesia-cruise-ship-miami/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T16:32:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3407fdfcc10052b0",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "‘Vile terrorist attack’: Russia bombs Ukraine aid centre",
+      "snippet": "A Russian “double tap” strike on a Ukrainian school being used as an aid distribution has killed at least 31 people, according to local authorities, with Ukrainian President Volodymyr Zelensky dubbing it a “vile terrorist attack”.",
+      "link": "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre",
+      "imageUrl": "https://s.france24.com/media/display/3a851e1a-d7a1-11f1-9fa5-bf1914cabd52/w:1024/p:16x9/Ukraine-aid-strike-vignette.jpg",
+      "publishedAt": "2026-11-03T16:30:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2140,6 +2282,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b559f344fec79b96",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "European supermarkets rush to patch vulnerabilities after region-wide fridge hack - Reuters",
+      "snippet": "European supermarkets rush to patch vulnerabilities after region-wide fridge hack  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkQ0YkpOVC13OThlbVFndzBBbUF0S2xvYmdSbzQ0VWY4Q21nRUlFQkh6YTdqNnVEbmNoVEJoQmdIS3ZjM0RMRHVZZzN1SWdUekROY2RqaUdScDlkSHd5dXZGeWFnV19RV0hZb1pZVFROQW1meDBqZXdMZUc5UzJYQjd1VEgwd2dCWTNMVlVIYW94NHRhZXdwWmh1RDhJVkNTLS1RREJHMjZUbWpGNDMyX2UwWmRPdUhHQ0V3dXY0akxpTDVzMVE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T16:08:07.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bed52fd3654eab17",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2149,6 +2304,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T16:08:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e3ad795b56e053df",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Trump focused on 'what's important to him': 'Tone-deaf for a normally shrewd populist operator'",
+      "snippet": "Erin Ogunkeye is pleased to welcome Doug Heye, Republican strategist, founder of Douglas Media, and former Communications Director for the Republican National Committee (RNC). As Americans head to the polls, Republicans face a challenge tha",
+      "link": "https://www.france24.com/en/trump-focused-on-what-s-important-to-him-tone-deaf-for-a-normally-shrewd-populist-operator",
+      "imageUrl": "https://s.france24.com/media/display/a936c1f8-d79a-11f1-927d-bf1914cabd52/w:1024/p:16x9/EN-20261103-151032-152110-CS.jpg",
+      "publishedAt": "2026-11-03T16:05:32.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2177,6 +2345,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_864958441751075b",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Trump cuts Israeli military aid: $3.8 billion in security assistance slashed",
+      "snippet": "US President Donald Trump on Tuesday, November 3, said he made a deal with Israeli Prime Minister Benjamin Netanyahu for Washington to stop providing $3.8 billion in funding to Israel after the end of this year. FRANCE 24's Jerusalem corres",
+      "link": "https://www.france24.com/en/video/20261103-trump-cuts-israeli-military-aid-3-8-billion-in-security-assistance-slashed",
+      "imageUrl": "https://s.france24.com/media/display/243c1fe4-d79e-11f1-9460-695cb59fade5/w:1024/p:16x9/capture-bb8a3c60.jpg",
+      "publishedAt": "2026-11-03T16:01:30.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_a894b7f8efacfc23",
@@ -2439,6 +2620,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4c58c6c085cc89c5",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "US midterms: Michigan Senate candidate El-Sayed becomes Democrats' rising star",
+      "snippet": "In the US midterm elections, Democrat Abdul El-Sayed and Republican Mike Rogers are testing two sharply different strategies to win over voters in one of the nation's premier swing states on Tuesday, November 3, in a closely watched race th",
+      "link": "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
+      "imageUrl": "https://s.france24.com/media/display/b8f73e3a-d798-11f1-8d1b-d18c5759e759/w:1024/p:16x9/2026-11-03T021915Z-175384172-RC21GOAL3HUT-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg",
+      "publishedAt": "2026-11-03T15:41:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_06718a59401a8de1",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2501,201 +2695,6 @@
       "publishedAt": "2026-11-03T15:36:44.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d5f683b1bacadaa7",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "How to win an election",
-      "snippet": "Revisiting Chris Hegedus and D.A. Pennebaker’s fast-paced classic of political cinéma vérité.",
-      "link": "https://www.semafor.com/article/11/03/2026/how-to-win-an-election",
-      "imageUrl": "https://img.semafor.com/1e8bb54e2301cd2a16c9caecee0e6520246b302d-5320x3992.png",
-      "publishedAt": "2026-11-03T15:34:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_423d1fed3a169aad",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "3 things to watch on election night (and beyond)",
-      "snippet": "Not a drill, nor a dream, we have at last arrived at Election Day.",
-      "link": "https://www.pbs.org/newshour/politics/3-things-to-watch-on-election-night-and-beyond",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:30:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9dcf44e8216623fd",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Child dies of measles in New York for first time in 30 years",
-      "snippet": "For the first time in 30 years, a child in New York died of measles, which comes amid outbreaks in 45 states and Washington, D.C., according to the Centers for Disease Control and Prevention. Dr. Céline Gounder joins with more.",
-      "link": "https://www.cbsnews.com/video/child-dies-of-measles-in-new-york-for-first-time-in-30-years/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:27:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bc92a507e3373f03",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Father shares final texts from 24-year-old runner who collapsed during NYC marathon",
-      "snippet": "Rachel Apa died Sunday before she could cross the finish line during her first marathon.",
-      "link": "https://www.nbcnews.com/news/us-news/rachel-apa-24-year-old-nyc-marathon-runner-dies-rare-muscle-condition-rcna607200",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:26:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_81b29b0573cfa57d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Michigan voters make surprising cross-party choices as Rogers, El-Sayed race reaches final hours",
-      "snippet": "A former Democrat backs Mike Rogers while a lifelong Republican holds his nose to vote for Abdul El-Sayed in Michigan's pivotal Senate race.",
-      "link": "https://www.foxnews.com/politics/michigan-voters-surprising-cross-party-choices-rogers-el-sayed-race-final-hours",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:25:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_594058d2277c213b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
-      "snippet": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years\n\nDon’t get This is India delivered to your inbox? Sign up here\n\nIt’s easy to run out of ",
-      "link": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:24:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5aaa47a30abcf09f",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Russian strikes on Ukrainian aid site kill at least 31 people, with dozens still missing",
-      "snippet": "Teams of emergency workers and volunteers picked through debris at the cratered blast site in Komyshuvakha, a village in Ukraine's southern Zaporizhzhia region where bodies were pulled from the rubble and carried away in white plastic sheet",
-      "link": "https://www.pbs.org/newshour/world/russian-strikes-on-ukrainian-aid-site-kill-at-least-31-people-with-dozens-still-missing",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:24:22.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_e19c36f11ae6e21b",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Lisa Rinna on returning to Broadway for \"It's a Wonderful Life: A Live Radio Play\"",
-      "snippet": "Lisa Rinna joins \"CBS Mornings\" to discuss her return to Broadway for \"It's a Wonderful Life: A Live Radio Play\" and more.",
-      "link": "https://www.cbsnews.com/video/lisa-rinna-on-returning-to-broadway-for-its-a-wonderful-life-a-live-radio-play/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:24:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_20fbe4adae260772",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Spanish police investigating after soccer player dies following on-field collision",
-      "snippet": "Spanish police have opened an investigation into possible involuntary manslaughter after a soccer player died following an on-field collision with the opposing team’s goalkeeper in a second-division match",
-      "link": "https://abcnews.com/Sports/wireStory/spanish-police-investigating-after-soccer-player-dies-field-137806269",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:22:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_18e994195041065b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US job openings increase sharply in September - Reuters",
-      "snippet": "US job openings increase sharply in September  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlgtY2locEJUNE5fUS1ORmxNWGx1Sk5RXzBHV08wZEE3SVdiSlBmWEJtTmh3U1pIaDBmcUcwQkIxc2M0WTVmdVRiVHJIT2hFWlhQQ1d3YnpoVU83SHBnNUptMl9UUVJ3RUhNZ2RIU3ZzM2g4MGowQlpCVHFZdlIxdGRDbmNaWmNqUmZDQzF5SWk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:22:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_111c091b877ee848",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "ICE officer faces charges in Houston",
-      "snippet": "An Immigration and Customs Enforcement officer has been charged in Houston with aggravated assault with a deadly weapon for allegedly hitting a man with his car. Jason Allen reports.",
-      "link": "https://www.cbsnews.com/video/ice-officer-faces-charges-in-houston/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:22:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_59cc2dbff60daeac",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Flights across Europe hit by bomb threats that turned out to be hoaxes - AP News",
-      "snippet": "Flights across Europe hit by bomb threats that turned out to be hoaxes  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:22:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_76e19ab6267a4f14",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Thomson Reuters revenue rises, shares fall on investment costs - Reuters",
-      "snippet": "Thomson Reuters revenue rises, shares fall on investment costs  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnVHclJoU0xGWExjOEtCUTlJU1c4VkJXaUQwYmo0dGg4LVhTd3B6a19vUGFFMUNIbktfYlQ1a2t2V2FiT3FNaUt4ZUh6ZDhBZmhEZFZqckVnbUZlamtiWGdsSTBPSEtGaU90WVViYkhaR3VfS1hMOERsYzgzVGJVZ1ZpdHdrY094c0VZZzBXRnJvVVBadm9MM1QtdE5NZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:21:42.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a910b2f678adae17",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Fiserv cuts 3,000 employees and contractor jobs under new CEO - Reuters",
-      "snippet": "Fiserv cuts 3,000 employees and contractor jobs under new CEO  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmkydUVybDNIcXM0MXFSNERUa0VibktuX0pNRjc3NzJrS1ZxaUx1ckRsbUxmbV8tSElVZnRBUkxBdTdPOVpXbWp2Vkp5UDlwR2oxSC05VE5PMGgyZS1hWGNRTHVIS0laQzFpSWRBc1E2ZmJpSUZVX28yT256dHJYWmtVQUpnUlIySk9NMG5tcUUyQTkwRXRsMWFaVGNXSXRYdENzMWJYdU11eHlGOWl0RW82RXJXZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:21:08.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_910161bf25774178",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Iowa voters on key Senate race; unusual battleground in Kansas",
-      "snippet": "Iowa candidates are making their final pitches to voters heading to the polls. Plus, history could be made in the Kansas Senate race. CBS News' Lana Zak and Riley Callanan report.",
-      "link": "https://www.cbsnews.com/video/iowa-voters-speak-out-amid-battleground-senate-race/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T15:21:00.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
