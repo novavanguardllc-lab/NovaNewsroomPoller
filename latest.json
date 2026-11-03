@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-11-03T20:05:06.181Z",
+  "updatedAt": "2026-11-03T20:10:08.939Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.224Z"
+      "lastSuccess": "2026-11-03T20:10:09.096Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.402Z"
+      "lastSuccess": "2026-11-03T20:10:09.132Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.463Z"
+      "lastSuccess": "2026-11-03T20:10:09.073Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.397Z"
+      "lastSuccess": "2026-11-03T20:10:09.422Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.437Z"
+      "lastSuccess": "2026-11-03T20:10:09.173Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.519Z"
+      "lastSuccess": "2026-11-03T20:10:09.286Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.302Z"
+      "lastSuccess": "2026-11-03T20:10:09.216Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.490Z"
+      "lastSuccess": "2026-11-03T20:10:09.226Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-03T20:05:06.486Z"
+      "online": true,
+      "lastSuccess": "2026-11-03T20:10:09.224Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.409Z"
+      "lastSuccess": "2026-11-03T20:10:09.241Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.558Z"
+      "lastSuccess": "2026-11-03T20:10:09.376Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.362Z"
+      "lastSuccess": "2026-11-03T20:10:09.228Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.485Z"
+      "lastSuccess": "2026-11-03T20:10:09.149Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.479Z"
+      "lastSuccess": "2026-11-03T20:10:09.220Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.356Z"
+      "lastSuccess": "2026-11-03T20:10:09.116Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.475Z"
+      "lastSuccess": "2026-11-03T20:10:09.157Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T20:05:06.561Z"
+      "lastErrorAt": "2026-11-03T20:10:09.234Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:11.568Z"
+      "lastSuccess": "2026-11-03T20:10:09.255Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.524Z"
+      "lastSuccess": "2026-11-03T20:10:09.389Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T20:05:06.501Z"
+      "lastErrorAt": "2026-11-03T20:10:09.381Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:08.469Z"
+      "lastSuccess": "2026-11-03T20:10:09.479Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.596Z"
+      "lastSuccess": "2026-11-03T20:10:09.441Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:05:06.649Z"
+      "lastSuccess": "2026-11-03T20:10:09.350Z"
     }
   },
   "items": [
+    {
+      "id": "story_9d6aa308c24347ec",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Greenland's parliament ratifies Trump's US security agreement",
+      "snippet": "The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in the year which opened a major rift in the transatlantic alliance.",
+      "link": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T20:08:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3bcf9deddefeefa6",
       "source": "CBS News",
@@ -2684,19 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_002c46ef75132620",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "New Hampshire live results: 2026 House elections",
-      "snippet": "Outgoing Rep. Chris Pappas’s (D) seat is up for grabs Tuesday after he opted to run for retiring Sen. Jeanne Shaheen’s (D) post representing New Hampshire in the upper chamber. The senator’s daughter, Stefany Shaheen, is running against Rep",
-      "link": "https://thehill.com/homenews/house/6118055-new-hampshire-live-results-2026-house-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/New-Hampshire_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
