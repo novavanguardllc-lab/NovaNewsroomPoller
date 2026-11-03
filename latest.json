@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-11-03T01:55:06.286Z",
+  "updatedAt": "2026-11-03T02:00:15.530Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.392Z"
+      "lastSuccess": "2026-11-03T02:00:15.929Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.399Z"
+      "lastSuccess": "2026-11-03T02:00:15.695Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.420Z"
+      "lastSuccess": "2026-11-03T02:00:15.674Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.411Z"
+      "lastSuccess": "2026-11-03T02:00:15.796Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.455Z"
+      "lastSuccess": "2026-11-03T02:00:16.215Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.569Z"
+      "lastSuccess": "2026-11-03T02:00:16.073Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.479Z"
+      "lastSuccess": "2026-11-03T02:00:16.089Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.491Z"
+      "lastSuccess": "2026-11-03T02:00:16.200Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.521Z"
+      "lastSuccess": "2026-11-03T02:00:16.097Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.525Z"
+      "lastSuccess": "2026-11-03T02:00:16.196Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.539Z"
+      "lastSuccess": "2026-11-03T02:00:15.855Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.545Z"
+      "lastSuccess": "2026-11-03T02:00:16.093Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T01:55:06.571Z"
+      "lastErrorAt": "2026-11-03T02:00:16.156Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.516Z"
+      "lastSuccess": "2026-11-03T02:00:15.989Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.647Z"
+      "lastSuccess": "2026-11-03T02:00:16.454Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.498Z"
+      "lastSuccess": "2026-11-03T02:00:16.129Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.598Z"
+      "lastSuccess": "2026-11-03T02:00:16.253Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T01:55:06.657Z"
+      "lastErrorAt": "2026-11-03T02:00:16.241Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.797Z"
+      "lastSuccess": "2026-11-03T02:00:15.752Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.778Z"
+      "lastSuccess": "2026-11-03T02:00:15.775Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.676Z"
+      "lastSuccess": "2026-11-03T02:00:16.277Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:06.951Z"
+      "lastSuccess": "2026-11-03T02:00:16.376Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T01:55:10.780Z"
+      "lastSuccess": "2026-11-03T02:00:16.228Z"
     }
   },
   "items": [
@@ -252,6 +252,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_ae7db465d6b1083f",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "‘Devastating’ Damage as Hard Rains and Flash Floods Batter the Southwest",
+      "snippet": "Some towns received more rain in a single day than they typically get during all of November, forcing evacuations across the Four Corners region.",
+      "link": "https://www.nytimes.com/2026/11/02/weather/southwest-flooding-four-corners.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T01:22:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_80b26e33ecc8101b",
@@ -457,6 +470,19 @@
       "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-03T00:50:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_509a769b7457f32b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ex-West Point cadet sued for secretly drugging pregnant girlfriend with abortion pills",
+      "snippet": "A former West Point cadet who admitted to secretly giving his pregnant girlfriend Xanax and abortion pills, causing her to miscarry, is now facing a lawsuit over the incident.",
+      "link": "https://www.foxnews.com/us/ex-west-point-cadet-sued-secretly-drugging-pregnant-girlfriend-abortion-pills",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T00:48:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1448,6 +1474,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_42d0ed0e37269c81",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "AP News Search - AP News",
+      "snippet": "AP News Search  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5Ddkx6R0xLWkl5RE5BRGdWM1ZXV3QtOUFzUmhDR2NjV0VReTZ0b01ZWFJHejVfeE1zenZTRUNB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T23:05:20.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_f80b7a5f1aa3db85",
@@ -2657,45 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_eb8760011deb0dfa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Palantir expects quarterly revenue above estimates on AI demand - Reuters",
-      "snippet": "Palantir expects quarterly revenue above estimates on AI demand  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T21:19:38.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9dbbd0a81065524d",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Is El Ni&ntilde;o making storms and flash floods in the Southwest worse?",
-      "snippet": "Experts say the natural warming cycle is sizzling Pacific Ocean waters and leaking moisture into the air that can fuel passing storms.",
-      "link": "https://www.pbs.org/newshour/science/is-el-nino-making-storms-and-flash-floods-in-the-southwest-worse",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T21:19:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e8ac6009236d6c67",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
-      "snippet": "Two Maine high school girls describe \"crushing disappointment\" competing against transgender athletes as their attorney files a Title IX complaint.",
-      "link": "https://www.foxnews.com/outkick-sports/maine-girls-speak-facing-trans-athlete-state-grapples-issue",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T21:18:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
