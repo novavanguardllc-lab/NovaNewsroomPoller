@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-03T15:10:09.504Z",
+  "updatedAt": "2026-11-03T15:15:09.321Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.621Z"
+      "lastSuccess": "2026-11-03T15:15:09.683Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.808Z"
+      "lastSuccess": "2026-11-03T15:15:09.622Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.669Z"
+      "lastSuccess": "2026-11-03T15:15:09.560Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.746Z"
+      "lastSuccess": "2026-11-03T15:15:09.784Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.722Z"
+      "lastSuccess": "2026-11-03T15:15:09.788Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.822Z"
+      "lastSuccess": "2026-11-03T15:15:09.568Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.705Z"
+      "lastSuccess": "2026-11-03T15:15:09.584Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.848Z"
+      "lastSuccess": "2026-11-03T15:15:09.841Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.790Z"
+      "lastSuccess": "2026-11-03T15:15:09.768Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.908Z"
+      "lastSuccess": "2026-11-03T15:15:09.933Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.686Z"
+      "lastSuccess": "2026-11-03T15:15:09.472Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.958Z"
+      "lastSuccess": "2026-11-03T15:15:09.922Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.864Z"
+      "lastSuccess": "2026-11-03T15:15:09.704Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T15:10:09.892Z"
+      "lastErrorAt": "2026-11-03T15:15:09.989Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.930Z"
+      "lastSuccess": "2026-11-03T15:15:14.792Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:12.015Z"
+      "lastSuccess": "2026-11-03T15:15:12.157Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:10.100Z"
+      "lastSuccess": "2026-11-03T15:15:10.161Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.934Z"
+      "lastSuccess": "2026-11-03T15:15:09.865Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T15:10:09.901Z"
+      "lastErrorAt": "2026-11-03T15:15:09.979Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.891Z"
+      "lastSuccess": "2026-11-03T15:15:10.005Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:10.009Z"
+      "lastSuccess": "2026-11-03T15:15:10.028Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.772Z"
+      "lastSuccess": "2026-11-03T15:15:09.643Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T15:10:09.877Z"
+      "lastSuccess": "2026-11-03T15:15:09.939Z"
     }
   },
   "items": [
+    {
+      "id": "story_79036d0a7d48fbc1",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Judge dismisses Trump administration’s Harvard lawsuit",
+      "snippet": "A district judge on Monday dismissed a lawsuit the Trump administration brought against Harvard to obtain more admissions data in its quest to determine if the university is still using affirmative action.  U.S. District Judge Myong Joun wr",
+      "link": "https://thehill.com/homenews/education/6191616-judge-doj-trump-administrations-harvard-lawsuit/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/harvard_campus_01022024_AP26246539420285-2.jpg?w=900",
+      "publishedAt": "2026-11-03T15:09:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0576807d13235f84",
       "source": "Wash Examiner",
@@ -106,6 +119,32 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/4789131/where-weather-could-complicate-election-day-voting/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T15:08:38.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_4ca46dc272d7f561",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Lindsay Clancy likely headed for new trial, prosecutors say, as her lawyers fight for dismissal",
+      "snippet": "Lindsay Clancy was back in court Monday as her lawyers fight for the case to be dismissed. Meanwhile, prosecutors signaled they plan to retry her. Shanelle Kaul reports.",
+      "link": "https://www.cbsnews.com/video/lindsay-clancy-likely-headed-for-new-trial-prosecutors-say-as-her-lawyers-fight-for-dismissal/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T15:08:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_aa699d11d00c427f",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu has pushed for another wave of strikes on Iran after the U.S. elections, according to two regional officials and a third person familiar with the matter.",
+      "link": "https://www.pbs.org/newshour/world/u-s-launches-new-attacks-on-iranian-targets-days-after-netanyahu-pressed-trump-for-more-strikes",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T15:07:24.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
@@ -176,6 +215,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_ec7267ff9516c9b6",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+      "snippet": "Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.",
+      "link": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T15:00:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2d35a1229c340bd6",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -223,6 +275,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4789235/pundit-predictions-for-2026-elections-who-will-win/",
       "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/slack-imgs.webp",
       "publishedAt": "2026-11-03T14:59:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d462fedb6b7b1a8f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Global food security is under threat",
+      "snippet": "Attacks on grain shipments from Russia and Ukraine may drive up food prices, hitting import-dependent countries hardest.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:58:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -353,6 +418,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4789191/dc-attorney-general-tells-voters-report-national-guard-members-polling-stations/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T14:44:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4f7ba0ad74ddbecb",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "US midterm voting begins in high-stakes test of Trump’s presidency",
+      "snippet": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:42:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -510,6 +588,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T14:30:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e88f4c8ec2dc6868",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Syria says it foiled Hezbollah plot to attack Homs oil refinery - Reuters",
+      "snippet": "Syria says it foiled Hezbollah plot to attack Homs oil refinery  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0hXS05BXzBXMWN6UkowWERwWUVYaUhnMzFIYUtvTC14WDJfUjIyWXpfVnV1UGRLT0pqYTVyaXNJSTZ5djYtZ0xpWmtmWG1LODZqUWRBOUNQbjlvLVFxVjF3RGprQmNmdmJLdDdSY2UtTncwUjRVcnR2RXZ2enZzTDQ5QklpOUU4Y0c2MVVmaVdTOW16amNkcVg1WGhEVWFNMkk3dU5wemF2ZVBGZEdDcWU3c3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:30:46.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -913,6 +1004,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/trump_donald_south-carolina_10292026_AP26302626232051-2-1.webp?w=900",
       "publishedAt": "2026-11-03T14:10:15.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cb47ee875a8563c1",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump says US is close to making a trade deal with Canada - Reuters",
+      "snippet": "Trump says US is close to making a trade deal with Canada  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUpBTWJCc1lBeWhlaWFkSEFyYUtsbjg4THBRS3Z1cGs2ZE5BXzhiUGRpNFZsTnZtb2I0eHItTV9McE5BYm90TU5nZXJfMm9wLVc4TkhWNnBIZTlyYXhDX3ZRdzRGSnZCWS16Y0JpNnBYLWZwR2hrVmk3c3pIQXpxUVJ5ZGF4amN5ckhIUGdPS28yUjZkbHEtekFnVVVwQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:09:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2590,110 +2694,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Election-storylines_Vakil_AP_Julia-Demaree-Nikhinson.jpg?w=900",
       "publishedAt": "2026-11-03T12:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f8b393fff6ce9f63",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Greenland lawmakers set to ratify Trump security deal - Reuters",
-      "snippet": "Greenland lawmakers set to ratify Trump security deal  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGs2NUJnQ1FjVkdfMVh5eDNKOXhoV042ckRlWFYyc05LSE5ncG9JMGNIZWJaMXhtUjZnMmp3ZVcweGJsT2RJeGdtNy0xZlRTaGg2Qm5rU2ZsSDNPWmV1NVRIc2Q3SmRwWTFJbmRfOVByLXI2bFpfOGY0eFgwT1pmaW5uT3ZvTm1BUnpSZTV6emJOQmNUUm9fUkV2bmkyVEVl?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:59:46.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a5c9ed040ce7d911",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say - Reuters",
-      "snippet": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1RQX29mdC10ZFVoTm51R3Z1YkkzMmVDdHFtYUN5RzdhZG8yNEFXM2M4blI1ZnZNRHM1SXVNc2dNbFdSb0Zoam55N25mX0o3RFNlQmY4ejNFRE9zenpSRjVDNklUaDBvZ1pjdUU2ZlhKUnFKVVc3MFNuM2tGVXhjZkJtd3h4MjZIdWtTSk8zdmNuZ0Qxal9EN3IxVnRyYW9iWWRMUVN2R1lvck81N2ota2x6WlI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:56:15.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_720961d9f7472dbd",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK’s most polluting power plant could power country’s largest AI datacentre",
-      "snippet": "Drax’s FTSE 250 owner strikes £20bn deal to build infrastructure in what it says is site’s ‘next chapter’\n\nBusiness live – latest updates\n\n\nBritain’s most polluting power plant could soon power the country’s largest datacentre under a £20bn",
-      "link": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:55:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_95a62bcd94c6ceaf",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Football: Spanish player dies on after cardiac arrest on the pitch",
-      "snippet": "Tenerife forward Jesus de Miguel has died following a collision with the opposing goalkeeper. The Spanish second division club has said it is \"heartbroken\" at the loss.",
-      "link": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:52:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8b0e9b13f19ee1bc",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "snippet": "The two aircraft crashed just metres from the ground after trying to land at the same spot.",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:51:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fa4c26fbe8701c2c",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Uganda withdraws its troops from Somalia as fight against rebels persists",
-      "snippet": "Kampala announced on Monday it had begun pulling its troops out of Somalia. Uganda was the first country to send deployments to help Mogadishu when the African Union set up an international military mission in 2007 to battle al-Shabab extre",
-      "link": "https://www.france24.com/en/video/20261103-uganda-withdraws-its-troops-from-somalia-as-fight-against-rebels-persists",
-      "imageUrl": "https://s.france24.com/media/display/afe44278-d77c-11f1-bdcf-d18c5759e759/w:1024/p:16x9/capture-0fbd1c25.jpg",
-      "publishedAt": "2026-11-03T11:50:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2337477eaa6ce923",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Florida polling places in 7 counties are moving locations due to flooding",
-      "snippet": "Midterm election voters in seven Florida counties face temporary polling location changes after heavy rainfall triggered flash flood warnings.",
-      "link": "https://www.foxnews.com/politics/florida-polling-places-7-counties-moving-locations-flooding",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:50:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0fdbf6ea5c469830",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll - Reuters",
-      "snippet": "Nine things on US voters' minds ahead of midterm elections, according to Reuters/Ipsos poll  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGt4MmZUTzlCOHBLQVVHcWt3TmZqc08yaUFtc29ybHRrR1FTd1A1U0s2V0hHWmw0VDdSMUd3UHdCR3hUeGNpNHk0ZENvcDBid3pELW1nN3FJRjBlRWZ1N3BzNEFMTWlTSjl2Q0J4QmtNZGRkblBCUXF0ZlVRVE02UFhFbFRjQ2stR2VPNVJVbFhUOXRTYUo1LTFqb3huQzJuUEJuRlV6S1Q3ZmtfVlFSZU4ybDRrQmxpanpOZWZpejhydw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T11:45:45.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
