@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-11-03T13:30:12.878Z",
+  "updatedAt": "2026-11-03T13:35:06.256Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.174Z"
+      "lastSuccess": "2026-11-03T13:35:06.363Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.494Z"
+      "lastSuccess": "2026-11-03T13:35:06.886Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.097Z"
+      "lastSuccess": "2026-11-03T13:35:06.552Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.377Z"
+      "lastSuccess": "2026-11-03T13:35:06.484Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.264Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-03T13:35:06.454Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.388Z"
+      "lastSuccess": "2026-11-03T13:35:06.472Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.029Z"
+      "lastSuccess": "2026-11-03T13:35:06.478Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.453Z"
+      "lastSuccess": "2026-11-03T13:35:06.437Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.293Z"
+      "lastSuccess": "2026-11-03T13:35:06.517Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.369Z"
+      "lastSuccess": "2026-11-03T13:35:06.469Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:12.976Z"
+      "lastSuccess": "2026-11-03T13:35:06.453Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.357Z"
+      "lastSuccess": "2026-11-03T13:35:06.588Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.229Z"
+      "lastSuccess": "2026-11-03T13:35:06.493Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T13:30:13.580Z"
+      "lastErrorAt": "2026-11-03T13:35:06.598Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:18.315Z"
+      "lastSuccess": "2026-11-03T13:35:11.119Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.750Z"
+      "lastSuccess": "2026-11-03T13:35:06.658Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.569Z"
+      "lastSuccess": "2026-11-03T13:35:06.799Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.235Z"
+      "lastSuccess": "2026-11-03T13:35:06.591Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T13:30:13.238Z"
+      "lastErrorAt": "2026-11-03T13:35:06.659Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.586Z"
+      "lastSuccess": "2026-11-03T13:35:06.610Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.613Z"
+      "lastSuccess": "2026-11-03T13:35:06.627Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.129Z"
+      "lastSuccess": "2026-11-03T13:35:06.751Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T13:30:13.251Z"
+      "lastSuccess": "2026-11-03T13:35:06.617Z"
     }
   },
   "items": [
+    {
+      "id": "story_00a33564a64ae8af",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Investcorp readies for deluge of Gulf infrastructure deals",
+      "snippet": "The scale of the buildout for redundancies and alternatives in the wake of the Iran war is set to open up a bigger role for private investors, according to CEO Rishi Kapoor.",
+      "link": "https://www.semafor.com/article/11/03/2026/gulf-infrastructure-to-drive-investcorp-deals",
+      "imageUrl": "https://img.semafor.com/c6c742e7c89c5f0a526b2e1d388dc33ed3f59cf7-2048x1365.jpg",
+      "publishedAt": "2026-11-03T13:31:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7f6099cc607379cb",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "DOJ announces deployment of election monitors in all 50 states for first time",
+      "snippet": "The Department of Justice announced the largest voting-monitoring effort in its history, made up of around 1,000 monitors and observers deployed across all 50 states for the first time. For reference, former President Joe Biden’s DOJ sent f",
+      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4789114/doj-announces-deployment-election-monitors-50-states-first-time/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T13:30:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5666db62fe289d4b",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "America’s report on human trafficking takes a massive step backward",
+      "snippet": "It slashed information relating to extraterritorial child sexual exploitation, child sexual abuse material, male sex trafficking victims, the LGBTQ community, non-governmental organizations, and, shockingly, trafficking survivors.",
+      "link": "https://thehill.com/opinion/criminal-justice/6190513-us-trafficking-report-slashes-content/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/blanche_todd_10212026_AP26294686654719-2.jpg?w=900",
+      "publishedAt": "2026-11-03T13:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2f9a19141953df8b",
       "source": "Semafor",
@@ -202,6 +242,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_41bd4a65eed30649",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Apple shares slide as higher memory costs fuel margin concerns - Reuters",
+      "snippet": "Apple shares slide as higher memory costs fuel margin concerns  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWtrTGxXbDgwckNQWG4zLXc1eV9LUTdPZW1zbnlWYmdobHdXMm15MXNDNU8wdUVHLThfLWRxeHo3TnM4YnNvdEJmeHpEeVE2ekh2SWhKekx3RkJwNUhHWEh2OV8wRmdkWThzcHBKYTk4RGRLYXdaSTRfWFNCNnJaNWs1X3NHQmtuS004T3N3SGpXVWtmeVZkR0hUWTRoelhZS3AxSnNCdk9zWF9Da01LdmVLQVViaHRtdWx6dg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T13:17:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_81cb13115edbdd69",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -250,6 +303,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T13:12:04.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_04d626396ec2872f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Collins Dictionary chooses ‘mogging’ as its 2026 word of the year - AP News",
+      "snippet": "Collins Dictionary chooses ‘mogging’ as its 2026 word of the year  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmctbWpTV2dFQWRkVmdMOFlycUZVaWtsM25ielZya3ByR1lCQUU1TFY1Zl8zTmlfZmxmakppSnhJWEJDR0NiREduaG9mVFFpQ0NQQi1xSFRfNXJpdGdMYWhhdE1nUXItMjZVVzAyT19NOTRVTGIwTHVrUnVDcjNpb0tnQUd0SzY0YlRzUjBRWjRLa2RBUWUzNFhZQ2Y5WmExaGUxZEpqdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T13:11:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -743,6 +809,19 @@
       "link": "https://abcnews.com/video/137803058/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T12:24:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c35c934eca21581",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Sixers fan who had his cup of wine drunk by LeBron James mid-game describes moment with epic quote",
+      "snippet": "LeBron James grabbed a fan's red wine courtside during the 76ers-Bulls game, and Troy Clemons' reaction to the viral moment was refreshingly real.",
+      "link": "https://www.foxnews.com/outkick-sports/sixers-fan-cup-wine-drunk-lebron-james-mid-game-describes-moment-epic-quote",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T12:24:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2477,6 +2556,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_67e8831c63ce370c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Hochul, Mamdani face questions over NYC women's safety after stabbing and Central Park assault",
+      "snippet": "Two brutal attacks on women in New York City public spaces have leaders under fire, with neither the mayor nor City Council proposing more patrols.",
+      "link": "https://www.foxnews.com/us/hochul-mamdani-face-questions-over-nyc-womens-safety-after-stabbing-central-park-assault",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:00:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_976e427401448419",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
@@ -2605,97 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_670fb0ff902e36ba",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "A new cold war: hackers target fridges across the globe",
-      "snippet": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption.",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7deb22f5dd100aa0",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "From 'model minority' to target, anti-Indian hate on the rise",
-      "snippet": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S.",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c236cba3f3db2094",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "How NPR makes race calls in the 2026 election",
-      "snippet": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
-      "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b83d78a944195fd",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "'Messy,' 'divided' and 'scary': swing voters rate the country ahead of Election Day",
-      "snippet": "One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they're rating his presidency and deciding who to support when he's not on the ballot.",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_314b8b7f20571441",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Do you know how AP counts votes and calls races? Test your knowledge with this quiz - AP News",
-      "snippet": "Do you know how AP counts votes and calls races? Test your knowledge with this quiz  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0eFpsMjBZOS1vUE5fMTUzV2RnNjNKdG5FMzFPY2IwRmY5dFhQc24zV2laa1F1MThXNmZEeXRjQVVUckEzbnRPM0NlU1UxRkNUX2pFdTlMSDY2UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c41f89dea4ca13b3",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Tenerife’s Jesus de Miguel dies after on-field collision with goalkeeper",
-      "snippet": "Tenerife forward Jesus de Miguel suffered a cardiac arrest after a keeper's challenge in Spanish second division match.",
-      "link": "https://www.aljazeera.com/sports/2026/11/3/footballer-dies-after-on-field-collision?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T09:59:03.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_55783f3defbc9d24",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Republicans keep Senate hopes alive, mindful of the majority’s power",
-      "snippet": "Losing the Senate would deprive Republicans of control over President Donald Trump’s nominees.",
-      "link": "https://www.semafor.com/article/11/03/2026/republicans-keep-senate-hopes-alive-mindful-of-the-majoritys-power",
-      "imageUrl": "https://img.semafor.com/a106c28d33af7a3d0e78066591ab8ca010eaff33-1400x1050.webp",
-      "publishedAt": "2026-11-03T09:57:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
