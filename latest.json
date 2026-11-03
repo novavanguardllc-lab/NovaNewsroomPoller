@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-03T14:20:08.930Z",
+  "updatedAt": "2026-11-03T14:25:06.302Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.065Z"
+      "lastSuccess": "2026-11-03T14:25:06.354Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.430Z"
+      "lastSuccess": "2026-11-03T14:25:06.880Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.103Z"
+      "lastSuccess": "2026-11-03T14:25:06.372Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.223Z"
+      "lastSuccess": "2026-11-03T14:25:06.412Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.249Z"
+      "lastSuccess": "2026-11-03T14:25:06.519Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.130Z"
+      "lastSuccess": "2026-11-03T14:25:06.481Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.152Z"
+      "lastSuccess": "2026-11-03T14:25:06.393Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.312Z"
+      "lastSuccess": "2026-11-03T14:25:06.441Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.209Z"
+      "lastSuccess": "2026-11-03T14:25:06.471Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.126Z"
+      "lastSuccess": "2026-11-03T14:25:06.476Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.231Z"
+      "lastSuccess": "2026-11-03T14:25:06.388Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.294Z"
+      "lastSuccess": "2026-11-03T14:25:06.507Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.109Z"
+      "lastSuccess": "2026-11-03T14:25:06.473Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T14:20:09.320Z"
+      "lastErrorAt": "2026-11-03T14:25:06.527Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.391Z"
+      "lastSuccess": "2026-11-03T14:25:06.526Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:11.216Z"
+      "lastSuccess": "2026-11-03T14:25:06.765Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.574Z"
+      "lastSuccess": "2026-11-03T14:25:06.622Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.300Z"
+      "lastSuccess": "2026-11-03T14:25:06.516Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T14:20:09.363Z"
+      "lastErrorAt": "2026-11-03T14:25:06.538Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.327Z"
+      "lastSuccess": "2026-11-03T14:25:06.532Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.442Z"
+      "lastSuccess": "2026-11-03T14:25:06.551Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.463Z"
+      "lastSuccess": "2026-11-03T14:25:06.869Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T14:20:09.344Z"
+      "lastSuccess": "2026-11-03T14:25:06.512Z"
     }
   },
   "items": [
+    {
+      "id": "story_83f92c922c90c020",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "1 dead, 2 injured in helicopter crash near Mount Everest base camp",
+      "snippet": "The two helicopters were ferrying trekkers who had been hiking up to Everest base camp during Nepal's popular trekking season.",
+      "link": "https://www.cbsnews.com/news/mount-everest-helicopter-crash-base-camp-nepal/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:19:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ea462bbd2923b03c",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump says U.S. will stop $4B in military aid to Israel at end of 2026 ",
+      "snippet": "President Donald Trump said Tuesday that he has made a deal with Israeli Prime Minister Benjamin Netanyahu for the U.S. to stop sending $4 billion in aid annually to Israel, without providing details.",
+      "link": "https://www.nbcnews.com/politics/2026-election/trump-says-us-will-stop-4b-military-aid-israel-end-2026-rcna607210",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:18:36.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_bb04fcbbec93695d",
       "source": "DW",
@@ -106,6 +132,19 @@
       "link": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-03T14:18:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1939ed5908c3762e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "U.S. launches strikes on Iranian targets in Strait of Hormuz, officials say",
+      "snippet": "The U.S. military conducted limited strikes on Iranian targets in the Strait of Hormuz on Monday, officials said. Charlie D'Agata reports.",
+      "link": "https://www.cbsnews.com/video/us-launches-strikes-on-iranian-targets-in-strait-of-hormuz-officials-say/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:16:04.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +163,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_063babe16b1ea129",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+      "snippet": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:13:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e650011601c8ba18",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -132,6 +184,19 @@
       "link": "https://www.cbsnews.com/news/deepfakes-artificial-intelligence-consumer-risks-fraud/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T14:12:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5544b2d819920fa3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Eye Opener: Voters head to polls across the U.S. for midterm elections",
+      "snippet": "Polls opened Tuesday morning for a high-stakes midterm election. All that and all that matters in today's Eye Opener.",
+      "link": "https://www.cbsnews.com/video/eye-opener-voters-head-to-polls-across-the-us-for-midterm-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T14:12:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -782,6 +847,19 @@
       "link": "https://www.semafor.com/article/11/03/2026/openai-hires-republican-adviser-bucking-trend-among-tech-companies",
       "imageUrl": "https://img.semafor.com/249d9759678645b3b346896ef4080a7a7183dfec-2472x1648.jpg",
       "publishedAt": "2026-11-03T13:17:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f5bb0e418a9fb573",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'",
+      "snippet": "Volodymyr Zelenskyy told Fox News Ukraine will keep striking Russian oil refineries unless Trump delivers Patriot missiles to shield energy infrastructure.",
+      "link": "https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T13:17:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2615,84 +2693,6 @@
       "link": "https://www.france24.com/en/video/20261103-californians-vote-on-billionaire-tax-to-replace-federal-cuts-in-healthcare-funding",
       "imageUrl": "https://s.france24.com/media/display/b0027d02-d771-11f1-a3cc-1beafce15fea/w:1024/p:16x9/EN-20261103-100821-101017-CS.jpg",
       "publishedAt": "2026-11-03T10:49:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5d34e203df3999a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘I am deeply sorry’: Craig Silvey pens 9,000-word apology for child exploitation material offences",
-      "snippet": "The children’s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material\n\nWarning: This article contains graphic content\n\nGet our breaking news email, free app or daily news podcast\n",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:47:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f04896753d93677a",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Unclear what comes next as US strikes Iranian island in the Strait of Hormuz",
-      "snippet": "The United States on Monday attacked Iran's Qeshm Island, the Wall Street Journal reported, even as President Donald Trump signaled progress in negotiations with Tehran to end the eight-month-old conflict. The Journal, citing unnamed US off",
-      "link": "https://www.france24.com/en/video/20261103-unclear-what-comes-next-as-us-strikes-iranian-island-in-the-strait-of-hormuz",
-      "imageUrl": "https://s.france24.com/media/display/7272c7de-d772-11f1-8809-bf1914cabd52/w:1024/p:16x9/EN-20261103-101041-101201-CS.jpg",
-      "publishedAt": "2026-11-03T10:47:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_09c4fd53c44f82c5",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "JD.com wins EU approval for acquisition of Ceconomy - Reuters",
-      "snippet": "JD.com wins EU approval for acquisition of Ceconomy  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGgxLUp6cElmMWJIUmRRUndreE00cUhJTWc1M1VULVZraElsc3ZWckhPWEs5ZDFGUnJJZkNDNHMyY19zZlhZMWVydjRRSV94ZTdBQ0VCSkVpRE83NWRBa1V1dkwzU2dtVEdpaFUwRWN5bFpRQ2VnYUYwQWVVaUp0dXJ3OHVmcDA2WEtYdVZyT2FUQzJzSEppNlZjNVE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:47:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6bd3288181ad7b23",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War",
-      "snippet": "The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S. and Iran, as many fear that the fighting will be worse this time around.",
-      "link": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:47:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_777bf725a1e5abbc",
-      "source": "Politico",
-      "sourceColor": "#A65A2E",
-      "headline": "The ‘Armageddon’ election",
-      "snippet": "",
-      "link": "https://www.politico.com/video/2026/11/03/the-armageddon-election-2218009",
-      "imageUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/67f6e6d2-6ff8-4879-a378-63fd3b065629/9ba02129-e6e5-4f55-bb11-6a2fc061065e/1280x720/match/image.jpg",
-      "publishedAt": "2026-11-03T10:45:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 16
-    },
-    {
-      "id": "story_80ddb15c15ecc736",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kordell Stewart opens up about the rumor that haunted his Steelers career for 28 years in new documentary",
-      "snippet": "Kordell Stewart revisited the barbershop rumor that haunted his Pittsburgh Steelers career in a new HBO and NFL Films documentary, \"Kordell Stewart: Slash & Burn.\"",
-      "link": "https://www.foxnews.com/outkick-sports/kordell-stewart-opens-rumor-haunted-steelers-career-28-years-new-documentary",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:43:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
