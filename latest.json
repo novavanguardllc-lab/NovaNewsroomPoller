@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-11-03T02:25:05.968Z",
+  "updatedAt": "2026-11-03T02:30:12.318Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.187Z"
+      "lastSuccess": "2026-11-03T02:30:12.650Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.052Z"
+      "lastSuccess": "2026-11-03T02:30:12.469Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.056Z"
+      "lastSuccess": "2026-11-03T02:30:12.568Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.109Z"
+      "lastSuccess": "2026-11-03T02:30:12.605Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.195Z"
+      "lastSuccess": "2026-11-03T02:30:12.526Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.134Z"
+      "lastSuccess": "2026-11-03T02:30:12.875Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.136Z"
+      "lastSuccess": "2026-11-03T02:30:12.728Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.151Z"
+      "lastSuccess": "2026-11-03T02:30:12.932Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.033Z"
+      "lastSuccess": "2026-11-03T02:30:12.826Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.138Z"
+      "lastSuccess": "2026-11-03T02:30:12.927Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.149Z"
+      "lastSuccess": "2026-11-03T02:30:13.012Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.054Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-03T02:30:12.742Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T02:25:06.171Z"
+      "lastErrorAt": "2026-11-03T02:30:12.785Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.093Z"
+      "lastSuccess": "2026-11-03T02:30:12.725Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.368Z"
+      "lastSuccess": "2026-11-03T02:30:13.168Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.067Z"
+      "lastSuccess": "2026-11-03T02:30:12.902Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.216Z"
+      "lastSuccess": "2026-11-03T02:30:13.065Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T02:25:06.217Z"
+      "lastErrorAt": "2026-11-03T02:30:13.052Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.049Z"
+      "lastSuccess": "2026-11-03T02:30:12.447Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.030Z"
+      "lastSuccess": "2026-11-03T02:30:13.044Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.255Z"
+      "lastSuccess": "2026-11-03T02:30:18.036Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.514Z"
+      "lastSuccess": "2026-11-03T02:30:13.204Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T02:25:06.209Z"
+      "lastSuccess": "2026-11-03T02:30:12.813Z"
     }
   },
   "items": [
+    {
+      "id": "story_fda22ac70de778fa",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "ICE planning to deport Afghans through Pakistan, official says",
+      "snippet": "The plan has triggered alarm among advocates for Afghans, who warn that the proposal could lead to the deportation of Afghans who could be persecuted by the Taliban.",
+      "link": "https://www.cbsnews.com/news/ice-deportation-afghans-through-pakistan/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T02:27:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_70e36806c413c375",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "US says it conducted defensive strikes against Iran on eve of midterm elections",
+      "snippet": "The U.S. military launched defensive strikes against Iran on Monday night, marking the first attacks in two months on the eve of the midterm elections. U.S. forces targeted Qeshm Island, which is home to Tehran’s military infrastructure. Th",
+      "link": "https://www.washingtonexaminer.com/policy/defense/4788963/us-defensive-strikes-iran-qeshm-island/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T02:26:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3072d9211f499cbc",
       "source": "The Hill",
@@ -665,6 +692,19 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4788901/doj-charges-63-people-voter-fraud-midterm-elections/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T00:35:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_487c3e7c6b48c45c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Massachusetts prosecutors intend to retry Lindsay Clancy",
+      "snippet": "Massachusetts prosecutors said they intend to try Lindsay Clancy again, nearly two months after her murder trial resulted in a hung jury. She was on trial for the killings of her three young children. Shanelle Kaul reports from Plymouth.",
+      "link": "https://www.cbsnews.com/video/massachusetts-prosecutors-intend-retry-lindsay-clancy/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T00:34:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2360,6 +2400,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4770bb2439c6799a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "11/2: The Takeout with Major Garrett",
+      "snippet": "Fallout continues after Haley Stevens' endorsement of Mike Rogers in Michigan Senate race; Candidates make final pitches ahead of midterms.",
+      "link": "https://www.cbsnews.com/video/110226-the-takeout-with-major-garrett/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T22:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a933a8a0a9148277",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2643,58 +2696,6 @@
       "publishedAt": "2026-11-02T21:35:22.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_297db0c040b90c0f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Zelensky warns Russia could exploit US midterms to launch massive attack",
-      "snippet": "Ukrainian President Volodymyr Zelensky warned Russia could use Tuesday’s midterm election to launch a massive attack against Ukraine. “We have intel that Russia is preparing a new massive attack on our country – primarily targeting energy a",
-      "link": "https://thehill.com/policy/international/6190154-zelensky-warns-russian-midterm-attack/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26194671347834-e1785179185820.jpg?w=900",
-      "publishedAt": "2026-11-02T21:35:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d1d98fc2aafa65c0",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Trump promised 'no more wars'. His foreign policy tells another story",
-      "snippet": "Donald Trump promised an “America First” foreign policy and pledged to keep the US out of foreign wars. But since returning to the White House, his administration has been deeply involved in conflicts around the world. From the war in Ukrai",
-      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261102-trump-promised-no-more-wars-his-foreign-policy-tells-another-story",
-      "imageUrl": "https://s.france24.com/media/display/67eb27a2-d6fa-11f1-8418-a575454bc579/w:1024/p:16x9/capture-1a252fd9.jpg",
-      "publishedAt": "2026-11-02T21:34:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d2674c85c762031",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Flash flooding triggers evacuations in Southwest and a dire warning for a Colorado spa town",
-      "snippet": "Heavy rains and flash flooding have prompted mandatory evacuation orders in parts of the U.S. Southwest.",
-      "link": "https://www.pbs.org/newshour/nation/flash-flooding-triggers-evacuations-in-southwest-and-a-dire-warning-for-a-colorado-spa-town",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T21:32:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1384cbe5ba0ed4bf",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Oil prices slide in biggest drop since July on hope for more Iran talks",
-      "snippet": "Oil prices posted their sharpest drop in three months after investors got fresh hope that the U.S. would end the Iran war without further escalation.",
-      "link": "https://www.nbcnews.com/business/energy/oil-prices-slide-trump-hope-iran-talks-rcna607107",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T21:32:02.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
