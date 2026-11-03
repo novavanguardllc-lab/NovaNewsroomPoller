@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-11-03T20:30:13.402Z",
+  "updatedAt": "2026-11-03T20:35:06.470Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.608Z"
+      "lastSuccess": "2026-11-03T20:35:06.623Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.725Z"
+      "lastSuccess": "2026-11-03T20:35:06.683Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.883Z"
+      "lastSuccess": "2026-11-03T20:35:06.749Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.649Z"
+      "lastSuccess": "2026-11-03T20:35:06.726Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.122Z"
+      "lastSuccess": "2026-11-03T20:35:06.848Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.005Z"
+      "lastSuccess": "2026-11-03T20:35:06.806Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.923Z"
+      "lastSuccess": "2026-11-03T20:35:06.769Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.011Z"
+      "lastSuccess": "2026-11-03T20:35:06.645Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.022Z"
+      "lastSuccess": "2026-11-03T20:35:06.628Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.067Z"
+      "lastSuccess": "2026-11-03T20:35:06.688Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.189Z"
+      "lastSuccess": "2026-11-03T20:35:06.829Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.929Z"
+      "lastSuccess": "2026-11-03T20:35:06.663Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.702Z"
+      "lastSuccess": "2026-11-03T20:35:06.593Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.285Z"
+      "lastSuccess": "2026-11-03T20:35:06.786Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.049Z"
+      "lastSuccess": "2026-11-03T20:35:07.112Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:13.752Z"
+      "lastSuccess": "2026-11-03T20:35:06.591Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T20:30:14.384Z"
+      "lastErrorAt": "2026-11-03T20:35:06.850Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.346Z"
+      "lastSuccess": "2026-11-03T20:35:06.857Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.249Z"
+      "lastSuccess": "2026-11-03T20:35:06.908Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T20:30:14.323Z"
+      "lastErrorAt": "2026-11-03T20:35:06.945Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.383Z"
+      "lastSuccess": "2026-11-03T20:35:08.804Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.432Z"
+      "lastSuccess": "2026-11-03T20:35:06.944Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:30:14.552Z"
+      "lastSuccess": "2026-11-03T20:35:06.903Z"
     }
   },
   "items": [
+    {
+      "id": "story_136142b18fb8354d",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Routine voting issues fuel conspiracy theories and confusion",
+      "snippet": "Westchester County ballot tabulators malfunctioned across the county Tuesday, alarming voters and fueling a flurry of conspiracy theories online.",
+      "link": "https://www.nbcnews.com/tech/misinformation/routine-voting-issues-fuel-conspiracy-theories-confusion-rcna607287",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T20:33:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4953de5559146275",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "What to watch for and when on election night",
+      "snippet": "The polling is done, the last ads have been bought, and the last text messages have been sent. Voters are voting. Now all we can do is wait and watch. But what should we be watching? The first polls to close in tight races are in South Caro",
+      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4789823/what-to-watch-for-when-election-night/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T20:33:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_015960caa3ded74c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Google says there’s no way to use Search without using artificial intelligence",
+      "snippet": "In announcement geared to schools, tech giant showed how entwined AI is with the world’s most popular website\nGoogle just acknowledged that you can’t use Google Search without using artificial intelligence.\nThe search giant announced a slat",
+      "link": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T20:30:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_08e66f8e67d60b09",
       "source": "Wash Examiner",
@@ -371,6 +410,45 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2285a00343bd909c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Devils vs Oilers",
+      "snippet": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on Oilers at Devils Tuesday night as McDavid faces Hellebuyck.",
+      "link": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-devils-vs-oilers",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:23:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_846f5f3aa7d7e3d4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "BetMGM Bonus Code FOXNEWS: Unlock $1500 in First Bet Cover for Tonight’s NHL Including Devils-Oilers",
+      "snippet": "BetMGM bonus code FOXNEWS unlocks up to $1,500 in First Bet Cover for new users on tonight’s 11-game NHL slate, including Oilers at Devils in Newark.",
+      "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-unlock-1500-first-bet-cover-tonights-nhl-including-devils-oilers",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:23:03.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5c5539aae41ba7ee",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "FanDuel Promo Code: Get $200 When Betting $5 on the NHL, NBA and College Basketball Over 4 Days",
+      "snippet": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days on the NHL, NBA and college basketball, starting with Oilers at Devils.",
+      "link": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-200-when-betting-5-nhl-nba-college-basketball-over-4-days",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:21:52.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e2dc0e4693ee14d1",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -393,6 +471,45 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T19:21:32.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6c2377b8c13ac4d0",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and Four Free Picks for Tuesday’s NHL Slate",
+      "snippet": "Betr promo code FOXNEWS gives new users $200 in bonuses and four free picks for Tuesday’s 11-game NHL slate, including Oilers at Devils and Lightning vs Red Wings.",
+      "link": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-four-free-picks-tuesdays-nhl-slate",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:21:30.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_88109ce1a98c488c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Tonight’s NHL Slate Including Devils-Oilers",
+      "snippet": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on tonight’s 11-game NHL slate, headlined by Oilers at Devils in Newark.",
+      "link": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-tonights-nhl-slate-including-devils-oilers",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:21:17.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c1683875584d6805",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices - Reuters",
+      "snippet": "US lawmakers, in letter, question McDonald’s CEO about algorithmic pricing practices  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeU1KSEVUbTdzY0N5d0E4cF9sdFJTeUI2Zkstak1VTmZZTHBPYkxHelY0UnBoOXRTUG5hanhSbWtGbS1HeHZPYzMtQlhJbjRaLXBfaUQybDdLdnhlVGhtajdLVW82V0RNb25BTGVpOVZfOTQ5V0l4M3BFQkl3SXp4aVk3WV9UZF9BSDRockpDa3drcXJhbjdLY3RwTmNlbE41S3lKdHFTaENsN2Y5OTRNR1IwaW5VZmZWRzZRVWhTbmY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:20:09.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -618,6 +735,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_0dbfe84c1c17d02e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - Reuters",
+      "snippet": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdlpsRXVkdXRtR00xTmR6NndmaHV0RE55OEVwcHQ2YzhwdXIxQlo0Z2dOYnpBeHZhRjhSQXlRcUt2TURXbUZZczlQaVlNc2EtWWhtODU2enpxaVM4ZXk3d0FJT0g3VHRMN1VfRlB0MThZU21UNFBYQXhKMWlXcUwwa0hlajJQb1c2Q1ZHczNRX1Y0dTNveE4zV0Jpb0JhQjhOVzNGU3RwU1gyTU56b29OeEFyT2tuenlBb2RfcnZIVW5Pa00?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:03:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_65cefdd1b69f9b41",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -834,6 +964,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWxwSUpNQ2NIcVc0Yy1WaTFDLThSUU12TmlFNVdRLXVFWXBhMDhqNy1oQUlaOUlqR05FZkNTcDB1ZWgxRUZSUTRkYVMzdmdac2EwbEFTZnBRdzdhcWJTejB6OE1CcEdja3Bjd1Y4dU9sZ0FqVV9MUy10YUZNMHN0MHZ4eFJEamVpOWJRbnRKS0RtUFBnYjNvVVpsOUNoUEdhVlRvYlhmdkxJMnZNNnc?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-03T18:27:27.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_940791e7e857a359",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Ukrainian drone kills two, including station employee, Russian-held nuclear plant says - Reuters",
+      "snippet": "Ukrainian drone kills two, including station employee, Russian-held nuclear plant says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmVUcEpHbS11bWZiWWs2U24xdU1YZThiVG9JYk1TdnlpTnpjSW9XSmx6aWZYV2o2aGFfdjZDTlp2Wlp1Zk85OU1zYldKdnVvV2YtWDlFSmEza3NrWXdEMGZDS0pkcVkxZzZIVkRYQmFJOUdES0RnMEhRTEdPQjFyQjdPdmgwU0ZOeDg1bTRKMzl2STh0OTNYZklWUkVySzhFeUpWNVloVGJLdEJmYlhaMDFEcDhUOFgwSWpCcXJB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T18:27:14.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2553,149 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_785b7b9eb461171e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Maine live results: 2026 Senate election",
-      "snippet": "Maine voters on Tuesday are choosing who will be their senator for the next six years, in one of the most closely watched races of the cycle. Five-term Sen. Susan Collins is the lone incumbent Republican senator running this year in a state",
-      "link": "https://thehill.com/homenews/senate/6156213-maine-live-results-2026-senate-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/ME_Susan-Collins_Troy-Jackson.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_0689da90f81b5a50",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Louisiana live results: 2026 Senate election",
-      "snippet": "Voting concludes Tuesday to select Louisiana’s next U.S. Senator, after two-term incumbent Sen. Bill Cassidy failed to secure renomination in May. Cassidy, who has criticized President Trump and not always voted in lockstep with the preside",
-      "link": "https://thehill.com/homenews/senate/6156208-louisiana-live-results-2026-senate-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Louisiana_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_2497a7a598e3efe4",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Kentucky live results: 2026 Senate election",
-      "snippet": "Kentuckians are heading to the polls on Tuesday to pick who will succeed seven-term Sen. Mitch McConnell, the former Senate Majority Leader who’s faced health problems in the waning months of his tenure. Kentucky has not elected a Democrat ",
-      "link": "https://thehill.com/homenews/state-watch/6156202-kentucky-live-results-2026-senate-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/KY_Andy-Barr_Charles-Booker.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_214d236114cf293d",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "New Mexico live results: 2026 House elections",
-      "snippet": "All three members of New Mexico’s House delegation are seeking reelection.  Rep. Gabe Vasquez (D) faces the toughest bid in the 2nd District, where he faces Republican Greg Cunningham, a former police officer. Vasquez flipped the purple dis",
-      "link": "https://thehill.com/homenews/house/6125937-new-mexico-live-results-2026-house-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/New-Mexico_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_ef3567a3a644c6a6",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Oklahoma live results: 2026 governor’s election",
-      "snippet": "The governor’s mansion in Oklahoma is up for grabs Tuesday, with term-limited Gov. Kevin Stitt (R) unable to seek a third term.  Republican Mike Mazzei, a former state senator, is facing Democrat Cyndi Munson, the state House’s minority lea",
-      "link": "https://thehill.com/homenews/campaign/6126001-oklahoma-live-results-2026-governors-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/OK_Mike-Muzzei_Cindy-Munson.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_358d15a01922dd27",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Oklahoma live results: 2026 House elections",
-      "snippet": "Rep. Kevin Hern’s (R-Okla.) ruby-red seat representing the Tulsa metropolitan area is up for grabs Tuesday, with him opting to run for Senate.  All five of Oklahoma’s House districts are represented by Republicans. The other members of the ",
-      "link": "https://thehill.com/homenews/house/6125999-oklahoma-live-results-2026-house-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Oklahoma_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_a7c9171a7de1624b",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Oklahoma live results: 2026 Senate election",
-      "snippet": "Republican Rep. Kevin Hern and Democrat N’Kiyla Jasmine Thomas are duking it out to represent Oklahoma in the state’s open Senate race.  Homeland Security Secretary Markwayne Mullin resigned from the seat this spring to join the Trump admin",
-      "link": "https://thehill.com/homenews/senate/6125991-oklahoma-live-results-2026-senate-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Oklahoma_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_45f1a50c2a4175ff",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Ohio live results: 2026 governor’s election",
-      "snippet": "Democrats are hopeful they can take back the governor’s mansion in Ohio for the first time in more than a decade Tuesday. Democrat Amy Acton is facing off against Republican Vivek Ramaswamy to succeed term-limited Gov. Mike DeWine (R) in th",
-      "link": "https://thehill.com/homenews/campaign/6125988-ohio-live-results-2026-governors-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/OH_Vivek-Ramaswamy_Amy-Acton.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_18388d515966a22f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Ohio live results: 2026 House elections",
-      "snippet": "House control could come down to two fierce contests in the Buckeye State.  Scandal-plagued Rep. Max Miller (R) is facing off against Democrat Brian Poindexter in Ohio’s 7th District, while Rep. Marcy Kaptur (D) dukes it out against Republi",
-      "link": "https://thehill.com/homenews/house/6125984-ohio-live-results-2026-house-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Ohio_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_a630f516a9fab6d1",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Ohio live results: 2026 Senate election",
-      "snippet": "Former Sen. Sherrod Brown (D) is mounting a comeback bid as he takes on GOP Sen. Jon Husted in Ohio.  Brown, who lost to Sen. Bernie Moreno in 2024, has been neck and neck with Husted in the polls ahead of Tuesday’s contest. Democrats view ",
-      "link": "https://thehill.com/homenews/senate/6125980-ohio-live-results-2026-senate-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/OH_Sherrod-Brown_Jon-Huster.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_45854564b65a19c5",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "North Dakota live results: 2026 House elections",
-      "snippet": "North Dakota’s at-large House seat is up for grabs Tuesday with GOP Rep. Julie Fedorchak seeking reelection.  She faces Democrat Trygve Hammer, a teacher, in the ruby-red state.  Polls close at 8 and 9 p.m. EST. Follow Decision Desk HQ’s li",
-      "link": "https://thehill.com/homenews/house/6125974-north-dakota-live-results-2026-house-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/North-Dakota_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
