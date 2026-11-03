@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-03T00:50:08.974Z",
+  "updatedAt": "2026-11-03T00:55:06.208Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.168Z"
+      "lastSuccess": "2026-11-03T00:55:06.400Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.175Z"
+      "lastSuccess": "2026-11-03T00:55:06.280Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.252Z"
+      "lastSuccess": "2026-11-03T00:55:06.325Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.454Z"
+      "lastSuccess": "2026-11-03T00:55:06.346Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.044Z"
+      "lastSuccess": "2026-11-03T00:55:06.277Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.389Z"
+      "lastSuccess": "2026-11-03T00:55:06.690Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.230Z"
+      "lastSuccess": "2026-11-03T00:55:06.371Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.316Z"
+      "lastSuccess": "2026-11-03T00:55:06.375Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.319Z"
+      "lastSuccess": "2026-11-03T00:55:06.383Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.313Z"
+      "lastSuccess": "2026-11-03T00:55:06.381Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.289Z"
+      "lastSuccess": "2026-11-03T00:55:06.361Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.244Z"
+      "lastSuccess": "2026-11-03T00:55:06.418Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T00:50:09.254Z"
+      "lastErrorAt": "2026-11-03T00:55:06.401Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.228Z"
+      "lastSuccess": "2026-11-03T00:55:06.336Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.449Z"
+      "lastSuccess": "2026-11-03T00:55:06.478Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.394Z"
+      "lastSuccess": "2026-11-03T00:55:06.340Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.398Z"
+      "lastSuccess": "2026-11-03T00:55:06.423Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T00:50:09.400Z"
+      "lastErrorAt": "2026-11-03T00:55:06.414Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.527Z"
+      "lastSuccess": "2026-11-03T00:55:06.321Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.490Z"
+      "lastSuccess": "2026-11-03T00:55:06.313Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.419Z"
+      "lastSuccess": "2026-11-03T00:55:06.441Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.929Z"
+      "lastSuccess": "2026-11-03T00:55:08.575Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T00:50:09.330Z"
+      "lastSuccess": "2026-11-03T00:55:06.414Z"
     }
   },
   "items": [
+    {
+      "id": "story_56d1795ccce0cfcf",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "ICE officer charged in Texas after allegedly hitting man with vehicle",
+      "snippet": "A U.S. Immigration and Customs Enforcement officer was charged with a felony for allegedly hitting a man with a vehicle earlier this month.",
+      "link": "https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T00:53:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ac89c9448e6f2494",
       "source": "Guardian",
@@ -223,6 +236,19 @@
       "link": "https://www.cbsnews.com/video/trump-touts-renovation-projects-instead-addressing-cost-of-living-midterm/",
       "imageUrl": null,
       "publishedAt": "2026-11-03T00:17:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ff38690d931fc207",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Indian film star Ranbir Kapoor on AI, movies and fatherhood",
+      "snippet": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T00:09:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -813,6 +839,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cb6d7f67d1af0543",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Far from the campaign trail, Trump promotes his Reflecting Pool makeover before Election Day - AP News",
+      "snippet": "Far from the campaign trail, Trump promotes his Reflecting Pool makeover before Election Day  AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUh3S1FCa04wY3FwYUZHUXFsbEtYbWVwY3dQNGdaWkRvbEFndUVxRW1aNWxMLTY3ZndDZ3BialI5YS0wNzhja25FWkhSLW1tblpDUG85ekxBa2tOVkFYaFRfMEJod1UtUVQ3clBCUGtYRnNQZWxCQmQzUkd6T0R5Y3JTNnB2d3JBMm14cVZKMUxpWEFGSThjQWRCZUlHaUEw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T23:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_af94d71ee5c89d73",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1253,6 +1292,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_68c76355198c7158",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Tampa Bay Buccaneers - AP News",
+      "snippet": "Tampa Bay Buccaneers  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PaEhfZmJUdDJRV0JSOWpQWTMwclJfN2dmTmtaalp0NVFWdW5ITy1ZXzBZQ0xwYUpHZzJHTDZ6R0ZPLW1PU1dCcEFqX3pnUzdVbE8zX1lR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T22:16:17.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_f6f94fdfb7f82e78",
@@ -2035,6 +2087,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5668c7ec7d5fa31c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College football | Latest News & Updates - AP News",
+      "snippet": "College football | Latest News & Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T21:05:15.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1a23cb7e41f6cae3",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -2631,71 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_a172aef3924bd180",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Why Trump is not going to use a nuclear weapon against Iran",
-      "snippet": "Contrary to Tucker Carlson’s claims, it is extraordinarily unlikely that President Donald Trump will order a nuclear strike on Iran. Such a strike would be militarily unnecessary and would ignite a profound domestic and foreign policy crisi",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4788232/why-trump-will-not-use-nuclear-weapon-against-iran/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T20:16:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6560256dadc0ee72",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kirby Smart clarifies comments after taking shot at how much college football players are making",
-      "snippet": "Kirby Smart suggested Georgia Bulldogs players may lack the hunger of past championship teams now that NIL money rivals what he earned until 40.",
-      "link": "https://www.foxnews.com/outkick-sports/kirby-smart-clarifies-comments-taking-shot-how-much-college-football-players-making",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T20:16:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_41d3cb8992607878",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Ahead of Election Day, Trump sets the stage for potential Republican losses",
-      "snippet": "In an election-eve speech at the Lincoln Memorial Reflecting Pool, President Donald Trump said that Republicans “gave this a very strong shot,” while acknowledging that historically, the president’s party “doesn’t win the midterms.”",
-      "link": "https://www.nbcnews.com/politics/donald-trump/ahead-election-day-trump-sets-stage-potential-republican-losses-rcna607075",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T20:15:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0eb8bf616b234e33",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Daily on Energy: Permitting reform watch",
-      "snippet": "WHAT’S HAPPENING TODAY: Good afternoon and happy November, readers! Much of the state of Virginia was experiencing peak fall foliage at the end of last week. 🍁🍂 If you weren’t able to check out any of the golden, red, and amber leaves, do",
-      "link": "https://www.washingtonexaminer.com/daily-on-energy/4788564/daily-on-energy-permitting-reform-watch/",
-      "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f341.png",
-      "publishedAt": "2026-11-02T20:14:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1bae643fb3396bfb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "JACKSON THOMPSON: Sophie Cunningham says she hired '24/7' security amid claim of FBI intervention",
-      "snippet": "Sophie Cunningham says she hired 24/7 security that will travel with her, revealing the precaution on her \"No Hesitation\" podcast amid stalking concerns.",
-      "link": "https://www.foxnews.com/outkick-sports/jackson-thompson-sophie-cunningham-hired-24-7-security-amid-claim-fbi-intervention",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T20:14:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
