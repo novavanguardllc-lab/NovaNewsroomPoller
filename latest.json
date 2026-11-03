@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-11-03T12:55:13.187Z",
+  "updatedAt": "2026-11-03T13:00:15.737Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.255Z"
+      "lastSuccess": "2026-11-03T13:00:15.950Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.344Z"
+      "lastSuccess": "2026-11-03T13:00:15.993Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.411Z"
+      "lastSuccess": "2026-11-03T13:00:16.112Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.495Z"
+      "lastSuccess": "2026-11-03T13:00:16.212Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.518Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-03T13:00:16.183Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.416Z"
+      "lastSuccess": "2026-11-03T13:00:16.189Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.298Z"
+      "lastSuccess": "2026-11-03T13:00:15.873Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.565Z"
+      "lastSuccess": "2026-11-03T13:00:16.037Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.375Z"
+      "lastSuccess": "2026-11-03T13:00:16.171Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.513Z"
+      "lastSuccess": "2026-11-03T13:00:16.314Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.421Z"
+      "lastSuccess": "2026-11-03T13:00:15.890Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.548Z"
+      "lastSuccess": "2026-11-03T13:00:16.289Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.458Z"
+      "lastSuccess": "2026-11-03T13:00:16.466Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T12:55:13.570Z"
+      "lastErrorAt": "2026-11-03T13:00:16.512Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.553Z"
+      "lastSuccess": "2026-11-03T13:00:16.490Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.671Z"
+      "lastSuccess": "2026-11-03T13:00:18.896Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.612Z"
+      "lastSuccess": "2026-11-03T13:00:16.820Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.481Z"
+      "lastSuccess": "2026-11-03T13:00:16.350Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T12:55:13.510Z"
+      "lastErrorAt": "2026-11-03T13:00:16.493Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.622Z"
+      "lastSuccess": "2026-11-03T13:00:16.511Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.705Z"
+      "lastSuccess": "2026-11-03T13:00:16.553Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.442Z"
+      "lastSuccess": "2026-11-03T13:00:16.423Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T12:55:13.456Z"
+      "lastSuccess": "2026-11-03T13:00:16.448Z"
     }
   },
   "items": [
+    {
+      "id": "story_ca68660d0753504e",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Can US midterm election really change Trump's Iran policy?",
+      "snippet": "The US midterms are at hand, but their impact on the Iran war remains far from clear. Analysts say the Washington political elite may not be as divided on Iran as it appears.",
+      "link": "https://www.dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T12:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_52482429b6ca914e",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Investors increasingly nervous over AI bubble",
+      "snippet": "Alphabet, Meta, and Oracle all either issued new bonds or reportedly planned to do so, with interest rates on the rise.",
+      "link": "https://www.semafor.com/article/11/03/2026/ai-investors-increasingly-nervous-over-ai-bubble",
+      "imageUrl": "https://img.semafor.com/511f7680f9e5a0fb8eaa4b764dc5506252bf0a97-5764x3842.jpg",
+      "publishedAt": "2026-11-03T12:54:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_6c7b7cd4befccfa3",
       "source": "Semafor",
@@ -289,6 +316,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-03T12:24:40.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_35945279527fec70",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Pfizer raises 2026 forecasts as Eliquis, cancer drugs drive Q3 beat - Reuters",
+      "snippet": "Pfizer raises 2026 forecasts as Eliquis, cancer drugs drive Q3 beat  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObk9ZWkpsNXk5SGk3UlhMcDBrNmFxNkJuTFNhNjlyQ3NqMWNIVTZ0X1FZdEs0OXc1MEpPTUxzZEpIUUo2MFZlSDVfQUtLcldUTkswbEpIYjFScWVQcjNlSW9waHY0VWVoRE91aDZJZ3A0VlQ0ZnFCZzNkblUzVVlDY1FPaGV3SHFzRGZZaHQwV0oyZ2JCRlFWMjNpRDF6X2FaX2pxNllpcDRpeUpXVmhCZFE5QmEyQVRWSElnLU1USWtQZ0RRNXhJTWVoOWljbWlQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T12:21:55.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -522,6 +562,19 @@
       "link": "https://www.france24.com/en/video/20261103-uganda-withdraws-its-troops-from-somalia-as-fight-against-rebels-persists",
       "imageUrl": "https://s.france24.com/media/display/afe44278-d77c-11f1-bdcf-d18c5759e759/w:1024/p:16x9/capture-0fbd1c25.jpg",
       "publishedAt": "2026-11-03T11:50:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2337477eaa6ce923",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Florida polling places in 7 counties are moving locations due to flooding",
+      "snippet": "Midterm election voters in seven Florida counties face temporary polling location changes after heavy rainfall triggered flash flood warnings.",
+      "link": "https://www.foxnews.com/politics/florida-polling-places-7-counties-moving-locations-flooding",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T11:50:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2644,58 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_abf09a52162e65db",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Golf - AP News",
-      "snippet": "Golf  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RUlJ6amlDc3NsdWNwM2ZpeU1OQnBiMWxWbGhWMUVHWmZSY0taVTZsRnNyWC00ZTQxd3RjcS15SzQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:54:17.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eb06739ed5e9c469",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar - Reuters",
-      "snippet": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcDR6Y3AtYlRDaXB3UGZqWHd4b194NTg5UEhMYS1NYjVUQVktaHBoMW9ENmVFSVRUMmpSR184dC15TkZQRGdFODY5SHU3VkxxdHRDNmRQWkxheUYxMW9abjZGQ2pWbGpBNlpZTGtJTjd6emVHVFlwV1pabzlEa182RjhmamNibVU2OEd1V25YNE1NajhFOTdCSzIzWjhPRXhwZ0Z5OWdfZ2lFa3dYTTcyckFvWnBNTFlWZ3lqcTBuOFVyUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:51:37.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_20db709705bd7a53",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Latest news - AP News",
-      "snippet": "Latest news  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VTmszLTZ2Z0NXaUtTRlVld2thUHQ0OXRaYXV0cGlMNGE1b1EyN3JoajJfeWR6ZEVESG5sLWd1dFpjZXZiUzlqb0ln?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:50:51.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_16a5f666865c2d90",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "PASTOR COREY BROOKS: El-Sayed's pitch to Black voters is the same old liberal condescension",
-      "snippet": "Every day I work to lift up members of my community with American principles, and those in Michigan who vote for Abdul El-Sayed for are voting in the opposite direction.",
-      "link": "https://www.foxnews.com/opinion/pastor-corey-brooks-el-sayed-pitch-black-voters-same-old-liberal-condescension",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:50:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
