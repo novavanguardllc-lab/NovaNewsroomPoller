@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-03T20:00:15.605Z",
+  "updatedAt": "2026-11-03T20:05:06.181Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:15.784Z"
+      "lastSuccess": "2026-11-03T20:05:06.224Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:15.807Z"
+      "lastSuccess": "2026-11-03T20:05:06.402Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.177Z"
+      "lastSuccess": "2026-11-03T20:05:06.463Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.364Z"
+      "lastSuccess": "2026-11-03T20:05:06.397Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.125Z"
+      "lastSuccess": "2026-11-03T20:05:06.437Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.081Z"
+      "lastSuccess": "2026-11-03T20:05:06.519Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.020Z"
+      "lastSuccess": "2026-11-03T20:05:06.302Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:15.865Z"
+      "lastSuccess": "2026-11-03T20:05:06.490Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-03T20:00:15.943Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-03T20:05:06.486Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.208Z"
+      "lastSuccess": "2026-11-03T20:05:06.409Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.300Z"
+      "lastSuccess": "2026-11-03T20:05:06.558Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.141Z"
+      "lastSuccess": "2026-11-03T20:05:06.362Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:15.857Z"
+      "lastSuccess": "2026-11-03T20:05:06.485Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.397Z"
+      "lastSuccess": "2026-11-03T20:05:06.479Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.335Z"
+      "lastSuccess": "2026-11-03T20:05:06.356Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:15.880Z"
+      "lastSuccess": "2026-11-03T20:05:06.475Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T20:00:15.882Z"
+      "lastErrorAt": "2026-11-03T20:05:06.561Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.202Z"
+      "lastSuccess": "2026-11-03T20:05:11.568Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.382Z"
+      "lastSuccess": "2026-11-03T20:05:06.524Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T20:00:16.434Z"
+      "lastErrorAt": "2026-11-03T20:05:06.501Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.504Z"
+      "lastSuccess": "2026-11-03T20:05:08.469Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.461Z"
+      "lastSuccess": "2026-11-03T20:05:06.596Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T20:00:16.258Z"
+      "lastSuccess": "2026-11-03T20:05:06.649Z"
     }
   },
   "items": [
+    {
+      "id": "story_3bcf9deddefeefa6",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Attorney and Trump foe targeted in Alaska ballot probe, sources say",
+      "snippet": "Marc Elias, a longtime Democratic attorney and vocal opponent of the Trump administration, received one of about 20 target letters sent by the DOJ in its Alaska ballot investigation.",
+      "link": "https://www.cbsnews.com/news/alaska-ballot-investigation-democrats-marc-elias/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:59:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_6f57957031171682",
       "source": "Wash Examiner",
@@ -106,6 +120,19 @@
       "link": "https://www.washingtonexaminer.com/daily-on-energy/4789808/daily-on-energy-happy-election-day/",
       "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f5f3.png",
       "publishedAt": "2026-11-03T19:50:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d1bc2bd679cbe117",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Nasa telescope launched in 2004 to plunge back to Earth after failed rescue mission",
+      "snippet": "Neil Gehrels Swift Observatory is expected to re-enter Earth’s atmosphere Wednesday, burning up in the process\nNasa’s Neil Gehrels Swift Observatory, which has spent two decades studying the most powerful explosions in the cosmos, is expect",
+      "link": "https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T19:50:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2670,32 +2697,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_e8352c004a6de857",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Nevada live results: 2026 House elections",
-      "snippet": "There is one open House seat up for grabs in Nevada on Tuesday, with Rep. Mark Amodei (R) opting to retire from Congress. Republican David Flippo, a financial adviser and former Air Force lieutenant colonel, is running for the seat in the S",
-      "link": "https://thehill.com/homenews/house/6118035-nevada-live-results-2026-house-elections/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Nevada_House.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_45d3e3798e01eb20",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "New Hampshire live results: 2026 Senate election",
-      "snippet": "Democratic Rep. Chris Pappas and Republican former Sen. John E. Sununu are duking it out Tuesday to succeed Sen. Jeanne Shaheen (D) in New Hampshire.  Shaheen’s seat is a prime pick-up opportunity for the GOP as they seek to defend their Se",
-      "link": "https://thehill.com/homenews/senate/6118034-new-hampshire-live-results-2026-senate-election/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/NH_John-Sununu_Chris-Pappas.png?w=900",
-      "publishedAt": "2026-11-03T17:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
