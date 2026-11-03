@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-03T11:20:08.948Z",
+  "updatedAt": "2026-11-03T11:25:06.234Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:08.998Z"
+      "lastSuccess": "2026-11-03T11:25:06.315Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.042Z"
+      "lastSuccess": "2026-11-03T11:25:06.715Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.011Z"
+      "lastSuccess": "2026-11-03T11:25:06.418Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.079Z"
+      "lastSuccess": "2026-11-03T11:25:06.522Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.074Z"
+      "lastSuccess": "2026-11-03T11:25:06.556Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.063Z"
+      "lastSuccess": "2026-11-03T11:25:06.492Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.031Z"
+      "lastSuccess": "2026-11-03T11:25:06.552Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.239Z"
+      "lastSuccess": "2026-11-03T11:25:06.587Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.129Z"
+      "lastSuccess": "2026-11-03T11:25:06.490Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.066Z"
+      "lastSuccess": "2026-11-03T11:25:06.531Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.027Z"
+      "lastSuccess": "2026-11-03T11:25:06.432Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.113Z"
+      "lastSuccess": "2026-11-03T11:25:06.612Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.059Z"
+      "lastSuccess": "2026-11-03T11:25:06.512Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-03T11:20:09.241Z"
+      "lastErrorAt": "2026-11-03T11:25:06.619Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.148Z"
+      "lastSuccess": "2026-11-03T11:25:06.617Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.282Z"
+      "lastSuccess": "2026-11-03T11:25:06.742Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.220Z"
+      "lastSuccess": "2026-11-03T11:25:06.659Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.248Z"
+      "lastSuccess": "2026-11-03T11:25:06.547Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-03T11:20:09.150Z"
+      "lastErrorAt": "2026-11-03T11:25:06.552Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.230Z"
+      "lastSuccess": "2026-11-03T11:25:06.666Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.296Z"
+      "lastSuccess": "2026-11-03T11:25:06.772Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.056Z"
+      "lastSuccess": "2026-11-03T11:25:06.674Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-03T11:20:09.087Z"
+      "lastSuccess": "2026-11-03T11:25:06.516Z"
     }
   },
   "items": [
+    {
+      "id": "story_61a9b0ff6625f43a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "U.S. to mediate new round of Ukraine-Russia talks, Witkoff says",
+      "snippet": "The envoy will also meet with European and NATO allies to discuss security guarantees for Ukraine.",
+      "link": "https://www.cbsnews.com/news/ukraine-russia-war-ceasefire-talks-witkoff/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T11:16:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_066fbf454c4589d1",
       "source": "ABC News",
@@ -2680,19 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUlJTT0lDbjVDSFc5WWZ0UzdnZzVvbWU5NVo1QjktWmJYa1dhRDZEUTFLUWtMYlVLeDk0MkxlTnJyY1NYWGkxYUJyWGlZWHZKQzM5NGlwU05kYmZNNDUybk9tbUlJZzZNbU9WakRLSXB2ZFkzYkFZWWJ5c1R1MFdSd2VHSWt2OF9aQURNcElxSnktYUs2eWRGVXJfWE5YcUhOTWJOZC1tTjNRVjRJT1JiU3lTM1pvb1hRMkcxOEw0VWQxWnB5YW9tSS1ROEZ0SUxtZ0R5Q0NCYnF6TmwyWkFJUU9R?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-03T06:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_12f2f9d3c44a4ca0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Legal proceedings - AP News",
-      "snippet": "Legal proceedings  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kUlRGbnFOZ01vT1Vsc3ZMNUxQOWdIMWo3UnEwUDhUeVRiV2J3OUNNeVBBVEdEcG8weEtMZ3FMTl9EZlMyYXlwcFJlNVFLdlQzYnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T06:09:27.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
