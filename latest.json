@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-04T19:15:09.526Z",
+  "updatedAt": "2026-11-04T19:20:09.100Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.027Z"
+      "lastSuccess": "2026-11-04T19:20:09.347Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.067Z"
+      "lastSuccess": "2026-11-04T19:20:09.408Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:09.790Z"
+      "lastSuccess": "2026-11-04T19:20:09.387Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.187Z"
+      "lastSuccess": "2026-11-04T19:20:09.426Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.107Z"
+      "lastSuccess": "2026-11-04T19:20:09.267Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.287Z"
+      "lastSuccess": "2026-11-04T19:20:09.554Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:09.891Z"
+      "lastSuccess": "2026-11-04T19:20:09.367Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:09.968Z"
+      "lastSuccess": "2026-11-04T19:20:09.308Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:09.811Z"
+      "lastSuccess": "2026-11-04T19:20:09.533Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.385Z"
+      "lastSuccess": "2026-11-04T19:20:09.466Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.415Z"
+      "lastSuccess": "2026-11-04T19:20:09.520Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.131Z"
+      "lastSuccess": "2026-11-04T19:20:09.530Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.227Z"
+      "lastSuccess": "2026-11-04T19:20:09.496Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:09.829Z"
+      "lastSuccess": "2026-11-04T19:20:09.486Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.675Z"
+      "lastSuccess": "2026-11-04T19:20:09.610Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.654Z"
+      "lastSuccess": "2026-11-04T19:20:09.474Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T19:15:10.670Z"
+      "lastErrorAt": "2026-11-04T19:20:09.698Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.150Z"
+      "lastSuccess": "2026-11-04T19:20:09.690Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T19:15:09.867Z"
+      "lastErrorAt": "2026-11-04T19:20:09.567Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:09.866Z"
+      "lastSuccess": "2026-11-04T19:20:09.566Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.728Z"
+      "lastSuccess": "2026-11-04T19:20:09.719Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:10.587Z"
+      "lastSuccess": "2026-11-04T19:20:09.685Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:15:12.806Z"
+      "lastSuccess": "2026-11-04T19:20:09.795Z"
     }
   },
   "items": [
+    {
+      "id": "story_065cc32dab8ea55e",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "John Cornyn tears into GOP’s ‘unforced political errors’ in post-midterm criticism",
+      "snippet": "Outgoing Sen. John Cornyn (R-TX) sharply criticized his own party Wednesday, blaming Republican candidates’ divisive rhetoric and political infighting for a string of bruising midterm election losses that handed Democrats control of both ch",
+      "link": "https://www.washingtonexaminer.com/news/senate/4792750/john-cornyn-gop-unforced-political-errors/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:18:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b4b4fa98eedb2885",
       "source": "The Hill",
@@ -120,6 +133,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T19:13:55.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cbdc43bd52164429",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Democrat Jon Rosenthal elected Texas railroad commissioner over controversial Republican Bo French",
+      "snippet": "State representative Rosenthal’s win comes after national backlash to French’s social media remarks targeting south Asian Americans\nJon Rosenthal has won a seat on the Texas railroad commission, a powerful state regulatory agency, beating o",
+      "link": "https://www.theguardian.com/us-news/2026/nov/04/jon-rosenthal-texas-railroad-commissioner",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:13:37.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -174,6 +200,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_d7c4d4af327b19f5",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A Democratic Sweep Gives Congress an Opening to Reassert Itself",
+      "snippet": "President Trump usurped power from the legislative branch with Republican help for two years. Democrats are now positioned to try to claw back some of Congress’s prerogatives.",
+      "link": "https://www.nytimes.com/2026/11/04/us/politics/democrats-house-senate-congress-trump.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:08:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_dc93942d2f3a6d6a",
@@ -2654,45 +2693,6 @@
       "link": "https://thehill.com/homenews/campaign/6197976-vance-midterms-iran-war-trump/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26306598332562-e1793645719743.jpg?w=900",
       "publishedAt": "2026-11-04T16:22:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e08ac449da07167b",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Johnson: GOP will take back House in 2028, ‘finish the job’",
-      "snippet": "House Speaker Mike Johnson (R-La.) said Wednesday he thinks Republicans will take back the House in two years despite a Democratic blowout in this year’s midterms. “This Democrat House majority will be led by the most radical and extreme le",
-      "link": "https://thehill.com/homenews/campaign/6197561-mike-johnson-republicans-retake-house-2028/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/johnsonmike_052026gn02_w.jpg?w=900",
-      "publishedAt": "2026-11-04T16:21:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d0df969e1ed965b9",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Ukrainian strikes kill three in Russia’s Belgorod region",
-      "snippet": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:20:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_93a89f8f1c6355c8",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Adam Schiff says Democrats' first priority should be \"tackling corruption\"",
-      "snippet": "California Sen. Adam Schiff told Kris Van Cleave that he believes Democrats' top priority should be \"tackling corruption\" after a blue wave swept Tuesday's midterm elections.",
-      "link": "https://www.cbsnews.com/video/adam-schiff-says-democrats-first-priority-should-be-tackling-corruption/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:20:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
