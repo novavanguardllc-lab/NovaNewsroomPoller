@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-11-04T10:35:06.401Z",
+  "updatedAt": "2026-11-04T10:40:09.629Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.669Z"
+      "lastSuccess": "2026-11-04T10:40:09.833Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.589Z"
+      "lastSuccess": "2026-11-04T10:40:09.755Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.683Z"
+      "lastSuccess": "2026-11-04T10:40:09.811Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.705Z"
+      "lastSuccess": "2026-11-04T10:40:09.809Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.510Z"
+      "lastSuccess": "2026-11-04T10:40:09.745Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.644Z"
+      "lastSuccess": "2026-11-04T10:40:09.804Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.792Z"
+      "lastSuccess": "2026-11-04T10:40:09.866Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.813Z"
+      "lastSuccess": "2026-11-04T10:40:09.949Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.781Z"
+      "lastSuccess": "2026-11-04T10:40:09.895Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.770Z"
+      "lastSuccess": "2026-11-04T10:40:10.024Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T10:35:06.798Z"
+      "lastErrorAt": "2026-11-04T10:40:09.911Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.708Z"
+      "lastSuccess": "2026-11-04T10:40:09.923Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.722Z"
+      "lastSuccess": "2026-11-04T10:40:09.905Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.798Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-04T10:40:09.907Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.804Z"
+      "lastSuccess": "2026-11-04T10:40:10.032Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.788Z"
+      "lastSuccess": "2026-11-04T10:40:10.028Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T10:35:06.831Z"
+      "lastErrorAt": "2026-11-04T10:40:10.037Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.847Z"
+      "lastSuccess": "2026-11-04T10:40:10.045Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.861Z"
+      "lastSuccess": "2026-11-04T10:40:10.131Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.548Z"
+      "lastSuccess": "2026-11-04T10:40:09.876Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.922Z"
+      "lastSuccess": "2026-11-04T10:40:10.116Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.582Z"
+      "lastSuccess": "2026-11-04T10:40:09.848Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:35:06.937Z"
+      "lastSuccess": "2026-11-04T10:40:10.143Z"
     }
   },
   "items": [
@@ -434,6 +435,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5d557aa0a266c868",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Democrat Aaron Ford unseats GOP Gov. Joe Lombardo in Nevada",
+      "snippet": "NBC News projects that Ford, Nevada’s attorney general, has flipped control of the governorship in the key battleground state.",
+      "link": "https://www.nbcnews.com/politics/2026-election/aaron-ford-nevada-governor-election-win-lombardo-democrat-republican-rcna603362",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T09:49:10.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_c72325aa124d5fb3",
@@ -2683,19 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_eacf9ec3fb6520a3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump says he'll work with Dems as they win Congress in major upset",
-      "snippet": "Democrats won control of both chambers of Congress in an election that's widely viewed as a rebuke of President Trump. Follow live updates here.",
-      "link": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T06:28:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
