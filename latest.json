@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-04T20:00:15.429Z",
+  "updatedAt": "2026-11-04T20:05:06.560Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.629Z"
+      "lastSuccess": "2026-11-04T20:05:07.097Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.682Z"
+      "lastSuccess": "2026-11-04T20:05:06.653Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.889Z"
+      "lastSuccess": "2026-11-04T20:05:06.705Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.884Z"
+      "lastSuccess": "2026-11-04T20:05:06.770Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.802Z"
+      "lastSuccess": "2026-11-04T20:05:06.631Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.982Z"
+      "lastSuccess": "2026-11-04T20:05:06.895Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.843Z"
+      "lastSuccess": "2026-11-04T20:05:06.691Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.725Z"
+      "lastSuccess": "2026-11-04T20:05:06.686Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.826Z"
+      "lastSuccess": "2026-11-04T20:05:06.762Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:16.045Z"
+      "lastSuccess": "2026-11-04T20:05:06.834Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:16.150Z"
+      "lastSuccess": "2026-11-04T20:05:06.809Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.866Z"
+      "lastSuccess": "2026-11-04T20:05:06.813Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.905Z"
+      "lastSuccess": "2026-11-04T20:05:06.723Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.807Z"
+      "lastSuccess": "2026-11-04T20:05:06.729Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:16.167Z"
+      "lastSuccess": "2026-11-04T20:05:06.903Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.911Z"
+      "lastSuccess": "2026-11-04T20:05:06.732Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T20:00:16.167Z"
+      "lastErrorAt": "2026-11-04T20:05:06.903Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:16.011Z"
+      "lastSuccess": "2026-11-04T20:05:06.883Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T20:00:16.012Z"
+      "lastErrorAt": "2026-11-04T20:05:06.810Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:15.927Z"
+      "lastSuccess": "2026-11-04T20:05:06.767Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:16.239Z"
+      "lastSuccess": "2026-11-04T20:05:06.956Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:16.588Z"
+      "lastSuccess": "2026-11-04T20:05:06.879Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:00:18.080Z"
+      "lastSuccess": "2026-11-04T20:05:08.868Z"
     }
   },
   "items": [
+    {
+      "id": "story_ae79436a3179acc9",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Trump-backed redistricting sought a midterm edge for Republicans. It didn't work",
+      "snippet": "Republicans lost most of the Democratic-held seats they had targeted to flip, lost others they had banked on retaining and got swept out of power by a Democratic surge fueled by voter dissatisfaction with Trump, the economy and the war with",
+      "link": "https://www.pbs.org/newshour/politics/trump-backed-redistricting-sought-a-midterm-edge-for-republicans-it-didnt-work",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T20:00:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e8d44099fee578be",
       "source": "Al Jazeera",
@@ -769,6 +782,19 @@
       "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4792637/democrats-plot-power-grabs-2028-electoral-college-supreme-court/",
       "imageUrl": null,
       "publishedAt": "2026-11-04T18:52:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c53cc501d3c49995",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Sam Darnold out for Seahawks Week 9 game against Arizona Cardinals so in comes Drew Lock probably, maybe",
+      "snippet": "Sam Darnold is out for the Seahawks' Week 9 matchup against the Arizona Cardinals with a quad injury, and Drew Lock will start in his place.",
+      "link": "https://www.foxnews.com/outkick-sports/sam-darnold-out-seahawks-week-9-game-arizona-cardinals-drew-lock",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T18:50:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T17:00:20.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8802ce9327442aae",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "European leaders welcome Democrats' US midterms election win",
-      "snippet": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican party. FRANCE 24's Dave Keating has more.",
-      "link": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win",
-      "imageUrl": "https://s.france24.com/media/display/ae4696b0-d870-11f1-8249-bf1914cabd52/w:1024/p:16x9/capture-88cd0a37.jpg",
-      "publishedAt": "2026-11-04T17:00:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e7a6f6ae6169bc50",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Mississippi U.S. Senate Election Live Results 2026 - AP News",
-      "snippet": "Mississippi U.S. Senate Election Live Results 2026  AP News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40QzF6VWVSbVp6Zkx1Q0I1OGU4aG5UVTdmMDM5UTdIVTNDd0t5RmJ1RHUxVW9DMmVialI4TWxCMERpUy1pTk1la01IS1ZVdFJJUnJGNmdBX29GU2M5ZlVqaDJ5VFctbUZtRXpLbVlpNGlYNDdkdkM0UEhod0Jmdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:58:13.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
