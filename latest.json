@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-04T18:45:08.900Z",
+  "updatedAt": "2026-11-04T18:50:09.289Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.621Z"
+      "lastSuccess": "2026-11-04T18:50:09.903Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.637Z"
+      "lastSuccess": "2026-11-04T18:50:09.771Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.154Z"
+      "lastSuccess": "2026-11-04T18:50:09.486Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.248Z"
+      "lastSuccess": "2026-11-04T18:50:09.408Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.116Z"
+      "lastSuccess": "2026-11-04T18:50:09.404Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.335Z"
+      "lastSuccess": "2026-11-04T18:50:09.599Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.074Z"
+      "lastSuccess": "2026-11-04T18:50:09.471Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.234Z"
+      "lastSuccess": "2026-11-04T18:50:09.465Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.130Z"
+      "lastSuccess": "2026-11-04T18:50:09.566Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.399Z"
+      "lastSuccess": "2026-11-04T18:50:09.532Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.427Z"
+      "lastSuccess": "2026-11-04T18:50:09.645Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.241Z"
+      "lastSuccess": "2026-11-04T18:50:09.543Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.260Z"
+      "lastSuccess": "2026-11-04T18:50:09.620Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.458Z"
+      "lastSuccess": "2026-11-04T18:50:09.511Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.500Z"
+      "lastSuccess": "2026-11-04T18:50:09.538Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.461Z"
+      "lastSuccess": "2026-11-04T18:50:09.560Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T18:45:09.517Z"
+      "lastErrorAt": "2026-11-04T18:50:09.520Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.515Z"
+      "lastSuccess": "2026-11-04T18:50:09.607Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T18:45:09.478Z"
+      "lastErrorAt": "2026-11-04T18:50:09.562Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.476Z"
+      "lastSuccess": "2026-11-04T18:50:09.547Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.544Z"
+      "lastSuccess": "2026-11-04T18:50:09.678Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.762Z"
+      "lastSuccess": "2026-11-04T18:50:09.750Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T18:45:09.560Z"
+      "lastSuccess": "2026-11-04T18:50:09.782Z"
     }
   },
   "items": [
+    {
+      "id": "story_fdd10b1e037e347e",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Fact check: Examining viral narratives after the US midterm elections",
+      "snippet": "As Democrats celebrate major gains, false claims about election fraud have spread. Viral posts alleging illegal voting and election rigging are intended to fuel doubt about the integrity of the vote. DW checks the facts.",
+      "link": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T18:45:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4f8659fe2fed0f55",
       "source": "UPI",
@@ -107,6 +120,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/3891793816276/2026/i/17938173402159/v1.5/Colombia-passes-law-ending-political-talks-with-drug-gangs.jpg",
       "publishedAt": "2026-11-04T18:44:13.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d3ddd1ea483f2c36",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Democratic wins ignite centrist-progressive fight over path to 2028",
+      "snippet": "Democrats emerged from Tuesday’s elections with sweeping victories that gave them control of Congress as well as something they’ve missed since President Trump’s return to the White House: a solid argument that they know what it takes to wi",
+      "link": "https://thehill.com/homenews/campaign/6198754-party-direction-debate-2028/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26307116818767-e1793793754866.jpg?w=900",
+      "publishedAt": "2026-11-04T18:43:46.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -774,6 +800,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_dbc20ee81e8b8973",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Australian outdoor influencer wasn't about to give the fish she caught to a crocodile without a fight",
+      "snippet": "Tyla Cloughessy, a physiotherapist and outdoor influencer, reeled in her catch while backpedaling from a crocodile during a fishing trip in Australia.",
+      "link": "https://www.foxnews.com/outkick-sports/australian-outdoor-influencer-wasnt-give-fish-caught-crocodile-without-fight",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T17:42:26.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_273ef3eb4db03ed4",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -782,6 +821,19 @@
       "link": "https://www.aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-04T17:41:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_767f4ed0ca3ec6d6",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Hasan Piker declares 'woke is back,' fantasizes about putting Donald Trump in prison",
+      "snippet": "Hasan Piker's marathon 13-hour Twitch live stream drew over 200,000 viewers as he celebrated Democratic wins and declared \"Trumpism is dying.\"",
+      "link": "https://www.foxnews.com/media/hasan-piker-declares-woke-back-fantasizes-about-putting-donald-trump-prison",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T17:41:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -873,6 +925,32 @@
       "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
       "imageUrl": null,
       "publishedAt": "2026-11-04T17:38:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_320c21f756b0c925",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Lions' Jack Campbell opens up about neck injury, announces lower body movement but acknowledges challenges",
+      "snippet": "Jack Campbell says he has full movement in his lower body and is making progress with upper body motion after his neck injury against the Vikings.",
+      "link": "https://www.foxnews.com/outkick-sports/lions-jack-campbell-opens-neck-injury-announces-lower-body-movement-acknowledges-challenges",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T17:38:04.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_fc275aac4ca299c8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Helicopter crash near Miami leaves at least two injured: report",
+      "snippet": "Miami-Dade Fire Rescue responded after a small helicopter went down near Nixon Beach off Miami, Florida, with two survivors pulled from the water.",
+      "link": "https://www.foxnews.com/us/helicopter-crash-near-miami-leaves-least-two-injured-report",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T17:37:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2615,84 +2693,6 @@
       "link": "https://thehill.com/homenews/campaign/6195414-ojeda-beats-nrcc-chair-hudson/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/hudsonrichard_072126gn03_w.jpg?w=900",
       "publishedAt": "2026-11-04T15:50:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e28e25d8777dd33",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Palestine Action activists used similar tactics to the suffragettes, court told",
-      "snippet": "Lawyers for direct action group say decision to proscribe organisation as terrorist group is attack on freedom of speech and protest\nPalestine Action was banned as a terrorist group after using tactics similar to - or less extreme than – th",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T15:49:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c04c63fe49e5865d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "UniCredit scraps remote working for top managers, plans wider rollout, unions say - Reuters",
-      "snippet": "UniCredit scraps remote working for top managers, plans wider rollout, unions say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHB6OFhSY1V1dllCMlVZRE9OZW1iOWJ4cFBEWEJpdVlTRVRwbXB6QlZPRzEyQmFxNXBuN0I5SVlULXpvSzg0VXMwLUs1V0ZyQzhJVlBOdUtFM21VRFBTZ0R3c250ZldqS3ZiUVNkZ3cwWHdXcUwzN212WUpNQWJCY2NkZjVHeGlYcDI1NVlfMFhTNUM1X05pNGFyR2pQQnViVWx4aXprcEJuYlctSldLcVpiWmVzRzlRX25NWklwb042bENzV2NwZWVQUDRqN2M?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T15:48:56.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_812f6529ab85183a",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Israel's president to begin consultations with parties after election deadlock",
-      "snippet": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T15:45:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7b71f999e4d3bc76",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Maryland's Gov. Wes Moore on Democratic victories, goals for state",
-      "snippet": "Maryland Governor Wes Moore successfully defended his seat against Republican challenger Dan Cox. Moore shares his reaction to major Democratic midterm wins.",
-      "link": "https://www.cbsnews.com/video/marylands-gov-wes-moore-reacts-to-democratic-midterm-wins/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T15:45:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_32d4f4cbebb952dd",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "US midterm elections: 'Maybe the best colour for Texas is purple'",
-      "snippet": "Texas flipped blue following the US midterm elections, marking a historic shift for a state that hasn't been led by Democrats in decades. The legacy of prolonged Republican leadership has left a lasting mark, but as Democrat James Talarico ",
-      "link": "https://www.france24.com/en/us-midterm-elections-maybe-the-best-colour-for-texas-is-purple",
-      "imageUrl": "https://s.france24.com/media/display/cefbe528-d865-11f1-9baa-695cb59fade5/w:1024/p:16x9/EN-20261104-161328-161923-CS.jpg",
-      "publishedAt": "2026-11-04T15:45:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4db4fbd08fc6cb39",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Why some key races won't be decided on election night",
-      "snippet": "Experts expect some politicians to claim the 2026 elections are rigged, but here's why that's not the case — and why it may be a while before some races are called.",
-      "link": "https://www.cbsnews.com/news/2026-midterm-elections-race-call-timing/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T15:44:31.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
