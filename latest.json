@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-04T19:40:09.516Z",
+  "updatedAt": "2026-11-04T19:45:08.344Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.717Z"
+      "lastSuccess": "2026-11-04T19:45:08.697Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.732Z"
+      "lastSuccess": "2026-11-04T19:45:08.499Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.686Z"
+      "lastSuccess": "2026-11-04T19:45:08.672Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.694Z"
+      "lastSuccess": "2026-11-04T19:45:08.657Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.756Z"
+      "lastSuccess": "2026-11-04T19:45:08.637Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.812Z"
+      "lastSuccess": "2026-11-04T19:45:08.917Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.648Z"
+      "lastSuccess": "2026-11-04T19:45:08.472Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.630Z"
+      "lastSuccess": "2026-11-04T19:45:08.592Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.708Z"
+      "lastSuccess": "2026-11-04T19:45:08.788Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.787Z"
+      "lastSuccess": "2026-11-04T19:45:08.833Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.857Z"
+      "lastSuccess": "2026-11-04T19:45:08.782Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.790Z"
+      "lastSuccess": "2026-11-04T19:45:08.794Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.692Z"
+      "lastSuccess": "2026-11-04T19:45:08.719Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.795Z"
+      "lastSuccess": "2026-11-04T19:45:08.976Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.910Z"
+      "lastSuccess": "2026-11-04T19:45:08.992Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.888Z"
+      "lastSuccess": "2026-11-04T19:45:08.978Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T19:40:09.902Z"
+      "lastErrorAt": "2026-11-04T19:45:08.993Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.902Z"
+      "lastSuccess": "2026-11-04T19:45:09.036Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T19:40:09.903Z"
+      "lastErrorAt": "2026-11-04T19:45:08.973Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.892Z"
+      "lastSuccess": "2026-11-04T19:45:08.949Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:09.952Z"
+      "lastSuccess": "2026-11-04T19:45:09.025Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:10.010Z"
+      "lastSuccess": "2026-11-04T19:45:09.254Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T19:40:11.856Z"
+      "lastSuccess": "2026-11-04T19:45:09.097Z"
     }
   },
   "items": [
+    {
+      "id": "story_c0c0721f76244655",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "House Republican who voted to impeach Trump loses reelection",
+      "snippet": "Rep. David Valadao is one of the last remaining House Republicans in office who voted to impeach President Trump after the Jan. 6 attack on the U.S. Capitol.",
+      "link": "https://www.cbsnews.com/news/california-22nd-district-results-david-valadao-randy-villegas/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:42:09.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_5064028de4ac9a13",
       "source": "Wash Examiner",
@@ -133,6 +146,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T19:32:25.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ddcc5bb48df2bb77",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump tells reporters, \"If I were on the ballot, we would have won\"",
+      "snippet": "President Trump told reporters at a beam signing ceremony that if he had been on the midterm ballot, Republicans would have won following major GOP losses on Tuesday.",
+      "link": "https://www.cbsnews.com/video/trump-tells-reporters-if-i-were-on-the-ballot-we-would-have-won/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:31:17.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -197,6 +223,19 @@
       "link": "https://www.washingtonexaminer.com/in_focus/4792725/trump-needs-his-own-iran-surge/",
       "imageUrl": null,
       "publishedAt": "2026-11-04T19:29:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2f70f3ae786129fa",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump says he has \"ultimate power\" to block Democrats after blue wave sweeps midterms",
+      "snippet": "CBS News' Weijia Jiang discusses her phone call with President Trump after Democrats won control of the House and Senate.",
+      "link": "https://www.cbsnews.com/video/trump-says-he-has-ultimate-power-to-block-democrats-after-blue-wave-sweeps-midterms/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:29:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -787,6 +826,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_84a8804af2eb677e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Warriors have reportedly stopped paying Kristaps Porzingis' $20 million salary amid mystery illness saga",
+      "snippet": "The Golden State Warriors stopped paying Kristaps Porzingis his $20 million salary after he stepped away before training camp amid POTS symptoms.",
+      "link": "https://www.foxnews.com/outkick-sports/warriors-stopped-paying-kristaps-porzingis-20-million-salary-mystery-illness-saga",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T18:37:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_715542977ba97f3f",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -873,6 +925,19 @@
       "link": "https://thehill.com/homenews/senate/6198699-schumer-republicans-iran-war-end/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26308594251394-e1793816907649.jpg?w=900",
       "publishedAt": "2026-11-04T18:32:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_04e4e14f7f7f4912",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump answers questions from reporters after Republican midterm losses",
+      "snippet": "President Trump took questions from reporters on the midterm results, the future of Republican leadership, the war with Iran and the possibility of impeachment in his first appearance since election night.",
+      "link": "https://www.nbcnews.com/video/trump-answers-questions-from-reporters-after-republican-midterm-losses-272858693547",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T18:32:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1134,6 +1199,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T18:14:13.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_520a89deb17c40fb",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump is still in charge, but Democrats gain leverage in coming economic debate - Reuters",
+      "snippet": "Trump is still in charge, but Democrats gain leverage in coming economic debate  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEozcW5LWjk4cHhZdVFGWDhTREJDVHk5ZGVGZk5nTmxXVTN6dE42RzVhbkk4dlFyMk5Qdi1YN1M4c0Fnc0VFOW1ETWFiN2x6QTBmSkRjNTdhWU5wc3hVOGlFNjdFbVdZU2NleGwxM3lfRkhrOEJTUW9INnd6OTM0M3FKaERvQUNPbEllVlpKak9mNUJWSktReEdvYmV4cEtCei1WSkQzVzZyTE1yTGhEVnZRX3B3bS1FaFc4dWhB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T18:13:54.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2490,6 +2568,19 @@
       "corroboratedCount": 5
     },
     {
+      "id": "story_191c229fc5c63896",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " How Democrats flipped the Senate blue: The ABC News Voter Poll tells the story",
+      "snippet": "ABC News projects that the Democratic Party has won a majority of seats in the U.S. Senate. Here’s how Democrats won some key races to get there.",
+      "link": "https://abcnews.com/Politics/democrats-flipped-senate-blue-abc-news-voter-poll/story?id=137840395",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T16:56:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_866b4c8cc99969aa",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2602,97 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4792126/midterm-elections-blue-tsunami-hurricane-joe-concha/",
       "imageUrl": null,
       "publishedAt": "2026-11-04T16:49:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9714df125fed981f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WWE, AEW stack the deck as programs go head-to-head in Wednesday night showcase",
-      "snippet": "A new Monday Night Wars-style clash erupts as WWE's NXT featuring John Cena and CM Punk goes head-to-head with AEW's Blood and Guts special.",
-      "link": "https://www.foxnews.com/outkick-sports/wwe-aew-stack-deck-programs-head-to-head-wednesday-night-showcase",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:48:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_631db402a44a11b4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Crypto’s midterm spending spree stumbles as Democrats rack up big wins - Reuters",
-      "snippet": "Crypto’s midterm spending spree stumbles as Democrats rack up big wins  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdlkxeHZnLTRjamNZS2JrMm9EeDZzdTM2NVNFT2JrSFEyZmF4MzVxR1VvVTlRZ3VBRHc0LWxUeXJKT1p4UEl3aGNtLWF0bzE2c3k1d3dPcjNBOC1xSTMycklfWVdnNTYybkhvT2Y4Q3BPSGVad2w5ODJLVWZtOURrVnRtM1ZpaEdIQnk1ZGl1RkZ2alVNclNLZjlVY1RXcEVNUnJERjMySjRqaGxyM044XzBoaGxtNUlLN1ZxaGFCWQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:47:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_df9b2b3134fcea67",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
-      "snippet": "The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’\nItalian film director Tinto Brass, who was once hailed as the “Antonioni of ",
-      "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:47:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eb7c17c9768f5bbe",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rory McIlroy makes serious accusation about LIV Golf wanting to 'destroy' the European Tour",
-      "snippet": "Rory McIlroy claims LIV Golf officials were openly saying at Augusta they wanted to destroy the DP World Tour before the circuit's bankruptcy.",
-      "link": "https://www.foxnews.com/outkick-sports/rory-mcilroy-serious-accusation-liv-golf-wanting-destroy-european-tour",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:45:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7ef536f56c25d89e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Iran takes a victory lap over stunning US election results, claims 'collapse has accelerated'",
-      "snippet": "Iranian leaders claimed vindication after Democrats seized Congress, with JD Vance bluntly stating the war caused Republican midterm losses.",
-      "link": "https://www.foxnews.com/politics/iran-victory-lap-stunning-us-election-results-claims-collapse-accelerated",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:43:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a994f9ea0126e0f3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump asking advisers if Hegseth should go, sources say",
-      "snippet": "President Trump has been asking his advisers if Defense Secretary Pete Hegseth should remain in his job after Tuesday's losses.",
-      "link": "https://www.cbsnews.com/news/trump-hegseth-midterm-election-losses/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T16:43:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3d553a61eabc339a",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "REPLAY: Senate Democratic leader Chuck Schumer on US midterms",
-      "snippet": "The US Senate Democratic leader Chuck Schumer talked to the press after the midterm election results. Democrats are riding their sweep of Congress into a new era, eager to meet voter demands for change with plans to tackle high costs of liv",
-      "link": "https://www.france24.com/en/replay-senate-democratic-leader-chuck-schumer-on-us-midterms",
-      "imageUrl": "https://s.france24.com/media/display/878e1e82-d86e-11f1-9a80-695cb59fade5/w:1024/p:16x9/capture-67a85a1e.jpg",
-      "publishedAt": "2026-11-04T16:42:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
