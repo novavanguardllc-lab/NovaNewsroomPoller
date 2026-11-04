@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-04T07:05:06.965Z",
+  "updatedAt": "2026-11-04T07:10:09.129Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.103Z"
+      "lastSuccess": "2026-11-04T07:10:09.229Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.046Z"
+      "lastSuccess": "2026-11-04T07:10:09.187Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.124Z"
+      "lastSuccess": "2026-11-04T07:10:09.452Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.206Z"
+      "lastSuccess": "2026-11-04T07:10:09.290Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.168Z"
+      "lastSuccess": "2026-11-04T07:10:09.197Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.185Z"
+      "lastSuccess": "2026-11-04T07:10:09.350Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.243Z"
+      "lastSuccess": "2026-11-04T07:10:09.342Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.268Z"
+      "lastSuccess": "2026-11-04T07:10:09.369Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.033Z"
+      "lastSuccess": "2026-11-04T07:10:09.324Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.325Z"
+      "lastSuccess": "2026-11-04T07:10:09.392Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T07:05:07.329Z"
+      "lastErrorAt": "2026-11-04T07:10:09.452Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.030Z"
+      "lastSuccess": "2026-11-04T07:10:09.329Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.285Z"
+      "lastSuccess": "2026-11-04T07:10:09.325Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.189Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-04T07:10:09.451Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.295Z"
+      "lastSuccess": "2026-11-04T07:10:09.364Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.225Z"
+      "lastSuccess": "2026-11-04T07:10:09.463Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T07:05:07.334Z"
+      "lastErrorAt": "2026-11-04T07:10:09.450Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.334Z"
+      "lastSuccess": "2026-11-04T07:10:09.448Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.524Z"
+      "lastSuccess": "2026-11-04T07:10:09.483Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.447Z"
+      "lastSuccess": "2026-11-04T07:10:09.244Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.511Z"
+      "lastSuccess": "2026-11-04T07:10:09.444Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.535Z"
+      "lastSuccess": "2026-11-04T07:10:09.304Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T07:05:07.399Z"
+      "lastSuccess": "2026-11-04T07:10:11.693Z"
     }
   },
   "items": [
+    {
+      "id": "story_bdb38fefb669d1cb",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "DC approves ballot measure banning foie gras from local restaurants",
+      "snippet": "A ballot measure that would ban foie gras — a luxury delicacy associated with French cuisine made from the liver of a duck or goose fattened by force feeding — from being served in local restaurants is projected to pass in Washington, D.C.,",
+      "link": "https://thehill.com/homenews/state-watch/6194323-dc-approves-foie-gras-ban/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26167544175548-e1793746024690.jpg?w=900",
+      "publishedAt": "2026-11-04T07:03:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_95f3525d675b2c49",
       "source": "UPI",
@@ -176,6 +190,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a5665d1dd5b72ea8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Mississippi Senate race at razor thin margin as vote count continues",
+      "snippet": "The margin in Mississippi's Senate race between Democrat Scott Colom and Republican Cindy Hyde-Smith is separated by less than 30 ballots with 97% of the votes counted.",
+      "link": "https://www.cbsnews.com/video/mississippi-senate-race-at-razor-thin-margin-as-vote-count-continues/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T06:57:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_416dab2bd4bf2e80",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -187,6 +214,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_81e363dde5fa715f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "South Africans vote in local elections seen as test for embattled ANC",
+      "snippet": "Polls suggest the governing party could fall below 40 percent as voters weigh failing services.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T06:57:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_11979ffd0ee659bc",
@@ -223,6 +263,19 @@
       "link": "https://thehill.com/homenews/campaign/6191198-missouri-voters-redistricting-gop-house-map-rejected-2026/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26266637623948-e1793737084883.jpg?w=900",
       "publishedAt": "2026-11-04T06:55:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3e31c6f1491e3bb0",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Firsts for women and minorities in US midterm elections",
+      "snippet": "The elections, which saw Democrats make big gains, also marked firsts for women and minorities in major offices.",
+      "link": "https://www.aljazeera.com/news/2026/11/4/firsts-for-women-and-minorities-in-us-midterm-elections?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T06:54:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -265,6 +318,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_9a35247c2811342f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Democrat Amy Acton makes history in Ohio",
+      "snippet": "Democrat Amy Acton defeats Republican Vivek Ramaswamy to become the first ever woman to be elected as governor in Ohio.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T06:49:23.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_dcb1cbb285310e2d",
@@ -613,6 +679,19 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFdTa3ZWVU1LR2Y4UUNzbWREZUh3UXRzMGFwanlpcVBpZUtTZjlicmtIQzlUQi1NZHROckk1RXd1WlNjZy1HOEl2VWF5UnJlbVZ0SmsxUnZXRm9iZV9HZ191bE1OaU1qa2xfNDFLYmlDc2VRR0t3Y2F3SmxWWGp5WkxTTkk1WTRycmE3MnNOdGJRUVV5WDJRTHpKTDZkWV9hbVZVV1JMbHJEcHYt?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-04T06:32:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ee668720de301575",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Israel’s election commission says no fraud found in last week’s vote - AP News",
+      "snippet": "Israel’s election commission says no fraud found in last week’s vote  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeE5oQXFGa09VUTdRT0VxOFYxN1FyMkI2MWlzZzVpaEpINjZzcVFjdnlxb18zOENiQXJaaDFvVG5CWkM5V1JhaTA4Y1VJM3R6QkFxQjgzTGhRUHBSMjl2SkxJTktVX19CbjBLRnFxc0d4NWNKQ0xLU1RlU3dMYjdMeVRYT1BvcEF6WVRsTHN3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T06:31:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2204,6 +2283,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_bad868b0ccc9a2b1",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Indonesia president sacks chief of staff over alleged wiretap - Reuters",
+      "snippet": "Indonesia president sacks chief of staff over alleged wiretap  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWpIeTNmZXdFelNjT3lrLTVrcF9ZdjJfZV9kcnczLVR6NmhGZ2FZbUpScG9kN0NGTVg2MC1OaE51ZnpGd2VOMU1MUWpYNlR4Q2wtd1NLSXl2bkl6NkIzcm01UXRkTkJTb2xiM282SXlTemI3LS1OYzBDNm41UFptM09lTGlfU2F3azBPNzdaMjZkSE9xN0pKMFhWQng2c01IN0poSHJmREo5RDgwTzFQOFZNWQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T05:11:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d13bfaf95f45ccef",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2412,6 +2504,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_112526f16eb5f0d7",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Democrat Josh Turek wins Iowa Senate race",
+      "snippet": "Democratic state Rep. Josh Turek defeated GOP Rep. Ashley Hinson in the Iowa Senate race, CBS News projects, in a major pickup for Democrats as they seek to take control of the upper chamber.",
+      "link": "https://www.cbsnews.com/news/iowa-2026-senate-hinson-turek/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_63f56e0eb1ab79d8",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -2592,110 +2697,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_2e2c410a94215382",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Texas Gov. Greg Abbott addresses supporters after conceding governor's race",
-      "snippet": "Republican Texas Gov. Greg Abbott addressed supporters after ABC News projected Democrat Gina Hinojosa will win the state's race for governor.",
-      "link": "https://abcnews.com/video/137835345/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:47:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b42362010773cd79",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "How America voted in maps and charts",
-      "snippet": "See the maps and charts that show how America voted in the US midterm elections.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:47:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_33db8d7a46510fe6",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Democrats win majority in the Senate, flipping control of upper chamber",
-      "snippet": "Democrats won control of the Senate in the 2026 elections with a raft of victories over Republicans in key races, cementing the new majority and flipping party control of the upper chamber.",
-      "link": "https://www.cbsnews.com/news/senate-control-democrats-republicans-2026-midterm-elections/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:46:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_e50464389152f3de",
-      "source": "Politico",
-      "sourceColor": "#A65A2E",
-      "headline": "Democrats sweep Texas",
-      "snippet": "Republicans ran the country's second most-populous state for 30 years. Tonight Democrats took it back.",
-      "link": "https://www.politico.com/news/2026/11/03/democrats-sweep-texas-01147637",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:45:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_08c06b4d0e508b67",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Amy Acton addresses supporters after projected win in Ohio governor's race",
-      "snippet": "Democrat Amy Acton addressed supporters after ABC News projected she will win the Ohio governor's race over Republican Vivek Ramaswamy.",
-      "link": "https://abcnews.com/video/137835236/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:45:13.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_e504343926dd6d70",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Democrats win full control of Congress, ushering in a new era of divided government",
-      "snippet": "The victories in the House and Senate return Democrats to full control of Congress for the first time since 2023 and deepens the level of expected friction between them and President Trump.",
-      "link": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:44:55.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_9f6f9afc1aa93e71",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Vivek Ramaswamy addresses supporters after projected defeat in Ohio governor's race",
-      "snippet": "Republican Vivek Ramaswamy addressed supporters after ABC News projected Democrat Amy Acton will win the Ohio governor's race.",
-      "link": "https://abcnews.com/video/137834723/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:43:54.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_fa4e02e568c0082f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Lawler concedes to Democrat Cait Conley in New York House race",
-      "snippet": "Rep. Mike Lawler (R-N.Y.) has conceded to Democrat Cait Conley in the race to represent New York’s 17th Congressional District, as a key battleground seat is now poised to flip and add to Democrats newly projected House advantage. The Hill’",
-      "link": "https://thehill.com/homenews/campaign/6186171-lawley-concedes-new-york-house-race/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/lawlermichael_072326gn01_w.jpg?w=900",
-      "publishedAt": "2026-11-04T04:42:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
