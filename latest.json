@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-04T10:10:09.823Z",
+  "updatedAt": "2026-11-04T10:15:08.678Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:09.984Z"
+      "lastSuccess": "2026-11-04T10:15:09.011Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.004Z"
+      "lastSuccess": "2026-11-04T10:15:08.870Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.046Z"
+      "lastSuccess": "2026-11-04T10:15:09.014Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.009Z"
+      "lastSuccess": "2026-11-04T10:15:09.033Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.043Z"
+      "lastSuccess": "2026-11-04T10:15:08.951Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.072Z"
+      "lastSuccess": "2026-11-04T10:15:09.232Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.169Z"
+      "lastSuccess": "2026-11-04T10:15:09.044Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.271Z"
+      "lastSuccess": "2026-11-04T10:15:09.192Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.105Z"
+      "lastSuccess": "2026-11-04T10:15:08.880Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.225Z"
+      "lastSuccess": "2026-11-04T10:15:09.119Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T10:10:10.125Z"
+      "lastErrorAt": "2026-11-04T10:15:09.236Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.107Z"
+      "lastSuccess": "2026-11-04T10:15:08.893Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.124Z"
+      "lastSuccess": "2026-11-04T10:15:09.354Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.149Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-04T10:15:08.881Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.174Z"
+      "lastSuccess": "2026-11-04T10:15:09.156Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.146Z"
+      "lastSuccess": "2026-11-04T10:15:09.020Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T10:10:10.333Z"
+      "lastErrorAt": "2026-11-04T10:15:09.395Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.326Z"
+      "lastSuccess": "2026-11-04T10:15:09.401Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.404Z"
+      "lastSuccess": "2026-11-04T10:15:09.437Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.332Z"
+      "lastSuccess": "2026-11-04T10:15:09.375Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.313Z"
+      "lastSuccess": "2026-11-04T10:15:09.350Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.362Z"
+      "lastSuccess": "2026-11-04T10:15:09.386Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T10:10:10.467Z"
+      "lastSuccess": "2026-11-04T10:15:09.519Z"
     }
   },
   "items": [
+    {
+      "id": "story_5e931ad169206466",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Democrats turn scrutiny to tech CEOs and Trump officials",
+      "snippet": "Before the dust settled last night, Democrats were already calling for both chambers to flex their new subpoena power.",
+      "link": "https://www.semafor.com/article/11/04/2026/democratic-victory-ushers-in-tech-ceos-and-trump-officials-probe",
+      "imageUrl": "https://img.semafor.com/7b7b53849073d9f7c19bd236fac4fb46224cd30c-4000x2667.jpg",
+      "publishedAt": "2026-11-04T10:13:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4af8fa028082c525",
       "source": "CBS News",
@@ -106,6 +120,19 @@
       "link": "https://www.cbsnews.com/news/texas-railroad-commissioner-democrat-rosenthal-bo-french/",
       "imageUrl": null,
       "publishedAt": "2026-11-04T10:04:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c0a4f7429a082bc5",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "‘The Beginning of the End of Trumpism’",
+      "snippet": "“People hate the way that Trump is running this country,” the columnist Michelle Goldberg argues. Her fellow columnists and the American electorate agree. Democrats had a great night, but what now? Eight Opinion columnists offer their views",
+      "link": "https://www.nytimes.com/video/opinion/100000011257707/the-beginning-of-the-end-of-trumpism.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T10:02:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -501,6 +528,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_cfdf92aec085580f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Indonesia's military deploys thousands of troops to boost Jakarta's security after generals' arrest - AP News",
+      "snippet": "Indonesia's military deploys thousands of troops to boost Jakarta's security after generals' arrest  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcm00LS1FQ20tcTUySUZXLUFIR1Z1Q0o1THkyRXRZN1htZmh2YkxhMnlMOFIzTVk5T3dNU3A1dmsydGExSHlmWm9iWEhMS0lTc2ZmX1VUdmozaGNsdnBkdW1CTXk2VVQ4M2pJOHNZQTE1NjNNV0hleEVyV210dkFiNUQ3WUl1dG5EdlpIMzNwNHJDNTczWjh2akxrTlZyaGVNWFk0dnlhWWZoQlB0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T09:05:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4f29f9dd4d5c24cb",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -603,6 +643,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_b19d460eaf4cff24",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Democrats deliver a stunning rout in Texas to retake power for the first time in decades - AP News",
+      "snippet": "Democrats deliver a stunning rout in Texas to retake power for the first time in decades  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkZyVzRHLXhYeXJpano5RWpNOEJvRHpIZ0h2RmpHTXZJcEJGU0tLeGViOWhpWjJqcUY2QXlTV0tPWnpKT1dsdXNsVm82Qmw1VS1rYW9xMG04NmowTTNNTG1ma21kOGpjZmVGTjFUVjhieUZPRm1SNUtNa0tXRXkyU1BrM09uR0l2WENXUm5sQVZvQXlsbHRhVDQ5aUV0ZlBtVkZUc0FTdUs?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T08:49:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_7fd4c5e94b20cc52",
@@ -719,6 +772,19 @@
       "publishedAt": "2026-11-04T08:38:43.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8c00c08fe2eb20a4",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Skoda Auto to reassess ice hockey championship role if Russia takes part - Reuters",
+      "snippet": "Skoda Auto to reassess ice hockey championship role if Russia takes part  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdENkOENuVFdERGJsVG5tWXdNN1Q1ems0VEo5QUFQblRsTkk3bGthSkUwY0N0TFR3QlN3Rmh6cWwxNVZ1WGdzSHhkNHZMQjkxVGRBaDdUOVdwTU5XWEpoWTBKRGhsdGdDdVFQUzZ2RHQ0ODIyUHZ1VHF4T1Ita1dyRGJwVWQxTDRyZW9rWFNaSGZnc3N1QUdxdTh6QjRGY3JFeUVvQTJUQ1F1TVJESWotVHlR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T08:35:45.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2631,71 +2697,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_a6d8b50aeb772008",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "GOP’s Alme wins Montana Senate race",
-      "snippet": "Republican nominee Kurt Alme is projected to win Montana’s Senate election, according to Decision Desk HQ.  The former U.S. attorney for the District of Montana will replace retiring Sen. Steve Daines (R), after the two-term senator announc",
-      "link": "https://thehill.com/homenews/campaign/6182199-alme-wins-montana-senate-race/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26288095980559-e1793304993327.jpg?w=900",
-      "publishedAt": "2026-11-04T06:16:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_4af6ff5b1731048e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Voters deliver rebuke to Trump by handing Democrats control of the Senate - AP News",
-      "snippet": "Voters deliver rebuke to Trump by handing Democrats control of the Senate  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekd4UWJndllyRDU5WTZ0c0ZDVlk4cEk2X3ZxcWhBUmVySWtTVGtvZk9HRTdzUWtuczQxTlEtNWFQTExrb296SzFwQkoxZnJpT0hndjFnMzhlb1oxN09IUmV2YjFMX2J4UUUwVk1QR1J6T2dRQjFjWG0weWViWTcxZWJ5QW52RUxja3Z3bXV0Q3lVd3AxUHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T06:16:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_beb103825256be62",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " These candidates made history in the 2026 midterm elections",
-      "snippet": "The midterms saw an expansion of representation among America's lawmakers, with several candidates celebrating groundbreaking wins.",
-      "link": "https://abcnews.com/Politics/candidates-made-history-2026-midterm-elections/story?id=137829582",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T06:15:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_8478806a4903cf0c",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "See CBS News exit poll results for the 2026 midterm elections",
-      "snippet": "Here's a national look at what's on voters' minds in the 2026 midterm elections as they cast their ballots.",
-      "link": "https://www.cbsnews.com/news/cbs-news-exit-polls-midterm-elections-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T06:15:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_db8842f4456e21d6",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
-      "snippet": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T06:14:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
