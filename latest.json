@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-04T20:15:08.819Z",
+  "updatedAt": "2026-11-04T20:20:08.866Z",
   "sourceStatus": {
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.006Z"
+      "lastSuccess": "2026-11-04T20:20:08.967Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.544Z"
+      "lastSuccess": "2026-11-04T20:20:09.333Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.037Z"
+      "lastSuccess": "2026-11-04T20:20:09.127Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.242Z"
+      "lastSuccess": "2026-11-04T20:20:09.027Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.175Z"
+      "lastSuccess": "2026-11-04T20:20:09.191Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.383Z"
+      "lastSuccess": "2026-11-04T20:20:09.212Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.056Z"
+      "lastSuccess": "2026-11-04T20:20:08.985Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.099Z"
+      "lastSuccess": "2026-11-04T20:20:09.097Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.258Z"
+      "lastSuccess": "2026-11-04T20:20:09.022Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.303Z"
+      "lastSuccess": "2026-11-04T20:20:09.178Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.507Z"
+      "lastSuccess": "2026-11-04T20:20:09.167Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.342Z"
+      "lastSuccess": "2026-11-04T20:20:09.232Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.358Z"
+      "lastSuccess": "2026-11-04T20:20:09.108Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.314Z"
+      "lastSuccess": "2026-11-04T20:20:09.229Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.623Z"
+      "lastSuccess": "2026-11-04T20:20:09.256Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.428Z"
+      "lastSuccess": "2026-11-04T20:20:09.242Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-04T20:15:09.782Z"
+      "lastErrorAt": "2026-11-04T20:20:09.242Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.525Z"
+      "lastSuccess": "2026-11-04T20:20:09.239Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-04T20:15:09.556Z"
+      "lastErrorAt": "2026-11-04T20:20:09.263Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.399Z"
+      "lastSuccess": "2026-11-04T20:20:09.251Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.830Z"
+      "lastSuccess": "2026-11-04T20:20:09.389Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.765Z"
+      "lastSuccess": "2026-11-04T20:20:09.483Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-04T20:15:09.888Z"
+      "lastSuccess": "2026-11-04T20:20:09.309Z"
     }
   },
   "items": [
+    {
+      "id": "story_7efbefe57cc616b6",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Pennsylvania reports 6th measles-associated death amid outbreak: Health officials",
+      "snippet": "A sixth person in Pennsylvania has died with measles, state health officials said Wednesday.",
+      "link": "https://abcnews.com/US/pennsylvania-reports-6th-measles-death-amid-outbreak-health/story?id=137857546",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T20:19:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ad07684e98fdd753",
       "source": "Wash Examiner",
@@ -106,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4789550/how-adam-hamawy-went-from-terrorism-trial-witness-to-congressman-elect/",
       "imageUrl": null,
       "publishedAt": "2026-11-04T20:14:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_270dd7493cdf4f63",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Christie: Vance ‘will be remembered’ for backing controversial Ramaswamy ad",
+      "snippet": "Former New Jersey Gov. Chris Christie (R) on Tuesday said Vice President Vance “will be remembered” for backing former Ohio gubernatorial candidate Vivek Ramaswamy’s controversial ad featuring Gov.-elect Amy Acton’s (D) mother. “JD Vance wi",
+      "link": "https://thehill.com/homenews/campaign/6198911-christie-vance-ramaswamy-ad-vance/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/03/GettyImages-1917720599-e1711625960478.jpg?w=900",
+      "publishedAt": "2026-11-04T20:11:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -132,6 +158,19 @@
       "link": "https://www.washingtonexaminer.com/news/senate/4792779/chuck-grassley-wont-retire-early-rob-sand-iowa-gubernatorial-win/",
       "imageUrl": null,
       "publishedAt": "2026-11-04T20:09:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_00c7b1dd49e645cd",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Viewers stayed away from Fox News on a disappointing election night for Republicans",
+      "snippet": "In early, preliminary figures, the news channel trailed several other networks in prime-time viewership\nOn a midterm election night that was a huge disappointment for Republicans, with Democrats taking control of the US House and Senate, th",
+      "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T20:06:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -605,6 +644,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_33832cdbefd2cc6e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dem newcomer heads to Washington despite past ties to al Qaeda-linked group",
+      "snippet": "Adam Hamawy won New Jersey's 12th Congressional District despite scrutiny over ties to the Benevolence International Foundation and Sheikh Omar Abdel-Rahman.",
+      "link": "https://www.foxnews.com/politics/dem-newcomer-heads-washington-despite-past-ties-al-qaeda-linked-group",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:14:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_51d65aa596c23deb",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -717,6 +769,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-04T19:06:12.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ccbacaec862b8738",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Florida sheriff says 2 dead, including suspect, as witnesses report shooting at Tampa office complex - AP News",
+      "snippet": "Florida sheriff says 2 dead, including suspect, as witnesses report shooting at Tampa office complex  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMEppb0FKSTZWcjVMOENiUnR6N0lFcHNsdzRmS2J1LXFNaEFVdDJJQmVPOXB6dlplTE9Ma182ZURXOFVxUHdUOHZGTGZHQjdTdE9VZHVtajZLSkRoZ2s3NmpCaENSUGFEYzFTWE5mTHhiMXM2WnhQZ0JQbjZSVEVScXA3eFAyUzROSE9WN3JNelVkdTdKWVVLbGc1ZW1aXzJ1ZDAxMmJtb2pYWVU0UHBkd0pORQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T19:03:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1628,6 +1693,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T18:06:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4ea4daa86cfe9cfa",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Kraft Heinz to divest North America coffee unit amid CEO turnaround efforts - Reuters",
+      "snippet": "Kraft Heinz to divest North America coffee unit amid CEO turnaround efforts  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXVyb0dGLVVtSVo1aTVySXBEaktZNG02N3BYZHYwVzVvclBheTZySXI2VHhwU2NUUkdmU0dXS0ZNcElpSVRrYUxvNldMNFpBejEzdklDSm03T240RnE1OUpNRFJkV2JLbENReEVBclRjYlZKY3E5RjhXdXVmalN3Mlh0TGRlZWUxTTlwczB6ZXczcC1fclozblpUazFmanRHb2NhRkdxU3VOczRtdzl1TzBLVHBtZFlITFBHYlBpckVCbVNrNG1BTC04c3FlTkU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T18:04:12.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2616,84 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T17:14:10.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c4fdd89a065689e2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fox News Voter Poll: How Democrats took control of the Senate",
-      "snippet": "Democrats flipped Senate seats across red and blue states as President Donald Trump's approval, inflation and gas prices dragged down GOP candidates.",
-      "link": "https://www.foxnews.com/politics/voter-poll-democrats-take-control-senate",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T17:13:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5b764ed70237cb85",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Anti-data center ballot measures on track to go 40-1 in sign of backlash",
-      "snippet": "Voters across the country overwhelmingly passed ballot measures to restrict data center development, a sign of the strength of the backlash against the industry. As of Tuesday morning, all 41 ballot measures across 10 states to restrict dat",
-      "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4792016/anti-data-center-measures-win-big-ballot-box/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T17:12:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_26e6ed1454ab2245",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Thune to run for second term as Senate GOP leader after midterm shellacking",
-      "snippet": "Sen. John Thune (R-SD) will run for another term as top Senate Republican after a midterm cycle that cost his party a majority in both houses of Congress. Unlike Speaker Mike Johnson (R-LA), who announced he would step down from leadership ",
-      "link": "https://www.washingtonexaminer.com/news/senate/4792161/john-thune-run-second-term-senate-gop-leader-midterm-election-loss/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T17:11:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7397da5c983d4c3f",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "What Senate races are left to be decided",
-      "snippet": "Two Senate races remain too close to call Wednesday as votes continued to be counted in Alaska and Mississippi, where Democrats are mounting challenges that could further reshape the balance of power in the upper chamber. Democrats scored s",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4792266/which-senate-races-are-left-decided-alaska-mississippi/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T17:10:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6f88f3d653123cae",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Florida Gov-elect Donalds believes 'frustrations boiled over' against Republicans on Election Day",
-      "snippet": "Rep. Byron Donalds, R-Fla., following the midterm elections, says there is a \"frustration out there that we have a responsibility to address.\"",
-      "link": "https://www.foxnews.com/politics/florida-gov-elect-donalds-believes-frustrations-boiled-over-republicans-election-day",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T17:09:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_31aea497259073cb",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "House GOP faces leadership scramble after midterm romp",
-      "snippet": "A battle for who will lead House Republicans for the last two years of Donald Trump’s presidency broke out mere hours after the party lost its majority, setting the stage for a major shake-up of the party’s top brass. House Majority Whip St",
-      "link": "https://www.washingtonexaminer.com/news/4792235/house-gop-faces-leadership-scramble-after-midterm-romp/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T17:07:47.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
