@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-05T12:20:09.841Z",
+  "updatedAt": "2026-11-05T12:25:06.871Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.058Z"
+      "lastSuccess": "2026-11-05T12:25:07.017Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:09.980Z"
+      "lastSuccess": "2026-11-05T12:25:07.023Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.121Z"
+      "lastSuccess": "2026-11-05T12:25:07.126Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.108Z"
+      "lastSuccess": "2026-11-05T12:25:07.077Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:09.963Z"
+      "lastSuccess": "2026-11-05T12:25:07.120Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.195Z"
+      "lastSuccess": "2026-11-05T12:25:06.962Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.087Z"
+      "lastSuccess": "2026-11-05T12:25:07.030Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.095Z"
+      "lastSuccess": "2026-11-05T12:25:07.042Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.097Z"
+      "lastSuccess": "2026-11-05T12:25:07.157Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.282Z"
+      "lastSuccess": "2026-11-05T12:25:07.140Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.199Z"
+      "lastSuccess": "2026-11-05T12:25:07.199Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.503Z"
+      "lastSuccess": "2026-11-05T12:25:07.371Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T12:20:10.221Z"
+      "lastErrorAt": "2026-11-05T12:25:07.279Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.220Z"
+      "lastSuccess": "2026-11-05T12:25:07.300Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.179Z"
+      "lastSuccess": "2026-11-05T12:25:07.083Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.151Z"
+      "lastSuccess": "2026-11-05T12:25:07.183Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.168Z"
+      "lastSuccess": "2026-11-05T12:25:07.278Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.082Z"
+      "lastSuccess": "2026-11-05T12:25:07.312Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.020Z"
+      "lastSuccess": "2026-11-05T12:25:07.397Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.215Z"
+      "lastSuccess": "2026-11-05T12:25:07.286Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T12:20:10.203Z"
+      "lastErrorAt": "2026-11-05T12:25:07.301Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.275Z"
+      "lastSuccess": "2026-11-05T12:25:07.406Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:20:10.236Z"
+      "lastSuccess": "2026-11-05T12:25:07.389Z"
     }
   },
   "items": [
+    {
+      "id": "story_2db34d5b79cba6b7",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "How the Middle East and North Africa are navigating a turbulent era",
+      "snippet": "Policy reforms and financial buffers underpinned resilience, but prolonged conflict will force harder choices.",
+      "link": "https://www.semafor.com/article/11/05/2026/how-the-middle-east-and-north-africa-are-navigating-a-turbulent-era",
+      "imageUrl": "https://img.semafor.com/d6d105234b5c752e6f1b29788b43c33c38c2609e-6163x4109.jpg",
+      "publishedAt": "2026-11-05T12:19:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5769b1fd7ef0923d",
       "source": "France24",
@@ -2683,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_9501e4a5dbb133c9",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "New Zealand braces for knife-edge election: What you need to know",
-      "snippet": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
-      "link": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:34:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
