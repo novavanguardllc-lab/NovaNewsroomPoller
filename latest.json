@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-11-05T19:20:09.700Z",
+  "updatedAt": "2026-11-05T19:25:06.531Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:09.859Z"
+      "lastSuccess": "2026-11-05T19:25:06.726Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.035Z"
+      "lastSuccess": "2026-11-05T19:25:06.693Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.137Z"
+      "lastSuccess": "2026-11-05T19:25:06.655Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.156Z"
+      "lastSuccess": "2026-11-05T19:25:06.777Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:09.994Z"
+      "lastSuccess": "2026-11-05T19:25:06.698Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:09.938Z"
+      "lastSuccess": "2026-11-05T19:25:06.721Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:09.916Z"
+      "lastSuccess": "2026-11-05T19:25:07.058Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.198Z"
+      "lastSuccess": "2026-11-05T19:25:06.753Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:09.955Z"
+      "lastSuccess": "2026-11-05T19:25:06.781Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.302Z"
+      "lastSuccess": "2026-11-05T19:25:06.842Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.239Z"
+      "lastSuccess": "2026-11-05T19:25:06.921Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T19:20:10.299Z"
+      "lastErrorAt": "2026-11-05T19:25:09.355Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.099Z"
+      "lastSuccess": "2026-11-05T19:25:06.783Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:11.932Z"
+      "lastSuccess": "2026-11-05T19:25:06.856Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T19:20:10.332Z"
+      "lastErrorAt": "2026-11-05T19:25:06.811Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.329Z"
+      "lastSuccess": "2026-11-05T19:25:06.822Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:09.976Z"
+      "lastSuccess": "2026-11-05T19:25:06.873Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.298Z"
+      "lastSuccess": "2026-11-05T19:25:06.803Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.093Z"
+      "lastSuccess": "2026-11-05T19:25:06.955Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.322Z"
+      "lastSuccess": "2026-11-05T19:25:07.107Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.478Z"
+      "lastSuccess": "2026-11-05T19:25:06.995Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:10.358Z"
+      "lastSuccess": "2026-11-05T19:25:07.006Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T19:20:12.286Z"
+      "lastSuccess": "2026-11-05T19:25:08.998Z"
     }
   },
   "items": [
+    {
+      "id": "story_09901cac40b90785",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Gluesenkamp Perez wins competitive Washington race",
+      "snippet": "The congresswoman beat Republican state Sen. John Braun in a district President Trump has won three times.",
+      "link": "https://www.cbsnews.com/news/washington-3rd-district-results-marie-gluesenkamp-perez-john-braun/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T19:22:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a7f924f809412717",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Newsom Spares Everyone on California’s Death Row in One of His Final Acts",
+      "snippet": "Gov. Gavin Newsom commuted the sentences of all 548 prisoners with death sentences, calling capital punishment morally objectionable. That’s about a quarter of death sentences nationwide.",
+      "link": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T19:21:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_aae676afc58a33e4",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Greg Steube to run for House GOP conference chair ",
+      "snippet": "Rep. Greg Steube (R-Fla.) is running for House GOP conference chair, setting up a three-way contest between him, Rep. Erin Houchin (R-Ind.) and current head Rep. Lisa McClain (R-Mich). A source familiar with the matter confirmed to The Hill",
+      "link": "https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26298807545936-e1793905811754.jpg?w=900",
+      "publishedAt": "2026-11-05T19:20:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_63d62dfd97758bdb",
       "source": "Wash Examiner",
@@ -200,6 +239,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5a56f3812c17115c",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "snippet": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T19:08:08.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_ba286eccf302fb40",
@@ -2641,58 +2693,6 @@
       "link": "https://thehill.com/homenews/campaign/6200906-pritzker-criticizes-vance-midterms/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Closer-Pritzker_090926_AP_Gabriela-Passos.jpg?w=900",
       "publishedAt": "2026-11-05T16:23:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cfe0849319cebbe2",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "If Trump is a fascist, king, and authoritarian dictator, how did Democrats win control of Congress?",
-      "snippet": "Nazi! Fascist! Dictator! Authoritarian! King! Those were just some of the many, many insults that liberals, Democrats, socialists, and communists hurled at President Donald Trump over the years. And they’ve been doing it for nearly 10 years",
-      "link": "https://www.washingtonexaminer.com/opinion/4793799/trump-authoritarianism-democratic-victory-2026-elections/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T16:23:48.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a09ac2cdda652bed",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "EU presses UK to guarantee discounted university tuition fees for European students",
-      "snippet": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say\n\nUK politics live – latest updates\n\nThe EU is seeking a firmer pledge from the British government to guarantee European students",
-      "link": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T16:22:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_484599f29fa03726",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump has ‘transformed nothing that can’t be turned back the day after he leaves office’: Erick Erickson",
-      "snippet": "Conservative radio host Erick Erickson warned that President Trump may have to work with Democrats in his final two years if he hopes to leave office with a stronger legislative record, calling his current agenda “impermanent.” “This is the",
-      "link": "https://thehill.com/homenews/administration/6201097-erickson-warns-trump-legislation/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/AP26161593146541-e1793894998524.jpg?w=900",
-      "publishedAt": "2026-11-05T16:21:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_abaa7f08f877b046",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Hegseth faces bipartisan impeachment threat after Iran war gets blame for GOP midterm slaughter",
-      "snippet": "Secretary of War Pete Hegseth faces a bipartisan impeachment threat as House Republicans say a privileged resolution could pass when Congress returns.",
-      "link": "https://www.foxnews.com/politics/hegseth-faces-bipartisan-impeachment-threat-after-iran-war-gets-blame-gop-midterm-slaughter",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T16:21:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
