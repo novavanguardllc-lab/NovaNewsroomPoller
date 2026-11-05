@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-05T12:10:09.293Z",
+  "updatedAt": "2026-11-05T12:15:09.055Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.528Z"
+      "lastSuccess": "2026-11-05T12:15:09.353Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.390Z"
+      "lastSuccess": "2026-11-05T12:15:09.198Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.607Z"
+      "lastSuccess": "2026-11-05T12:15:09.241Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.805Z"
+      "lastSuccess": "2026-11-05T12:15:09.634Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.462Z"
+      "lastSuccess": "2026-11-05T12:15:09.432Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.646Z"
+      "lastSuccess": "2026-11-05T12:15:09.394Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.808Z"
+      "lastSuccess": "2026-11-05T12:15:09.259Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.662Z"
+      "lastSuccess": "2026-11-05T12:15:09.385Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.640Z"
+      "lastSuccess": "2026-11-05T12:15:09.220Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.684Z"
+      "lastSuccess": "2026-11-05T12:15:09.641Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.768Z"
+      "lastSuccess": "2026-11-05T12:15:09.701Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.926Z"
+      "lastSuccess": "2026-11-05T12:15:10.106Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T12:10:09.805Z"
+      "lastErrorAt": "2026-11-05T12:15:09.712Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.791Z"
+      "lastSuccess": "2026-11-05T12:15:09.737Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.689Z"
+      "lastSuccess": "2026-11-05T12:15:09.495Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.785Z"
+      "lastSuccess": "2026-11-05T12:15:09.547Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.751Z"
+      "lastSuccess": "2026-11-05T12:15:09.489Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.580Z"
+      "lastSuccess": "2026-11-05T12:15:09.697Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.603Z"
+      "lastSuccess": "2026-11-05T12:15:09.380Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.824Z"
+      "lastSuccess": "2026-11-05T12:15:09.762Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T12:10:09.826Z"
+      "lastErrorAt": "2026-11-05T12:15:09.763Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.931Z"
+      "lastSuccess": "2026-11-05T12:15:09.821Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:10:09.959Z"
+      "lastSuccess": "2026-11-05T12:15:09.858Z"
     }
   },
   "items": [
+    {
+      "id": "story_a582647bb3efd945",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+      "snippet": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T12:04:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a72192c804a4b46a",
       "source": "NPR",
@@ -106,6 +119,19 @@
       "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
       "imageUrl": null,
       "publishedAt": "2026-11-05T12:02:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a93752787fc8b956",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "How Trump lost control of Congress and Musk’s Texas businesses brace for blue wave: Morning Rundown",
+      "snippet": "The Republican missteps that led to the party losing control of Congress.",
+      "link": "https://www.nbcnews.com/news/us-news/trump-control-congress-democrats-affordability-morning-rundown-rcna607588",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T12:01:44.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -196,6 +222,19 @@
       "snippet": "In my medical career and my public service as a county commissioner president. I have learned that budgets reveal true priorities. When corporate consolidation or systemic inefficiencies drain local healthcare resources, independent physici",
       "link": "https://www.washingtonexaminer.com/op-eds/4789951/us-aid-to-israel-cutoff-voter-economic-anxiety/",
       "imageUrl": null,
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3613c0127a4bc6f0",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Iran is the biggest winner of Tuesday’s election",
+      "snippet": "Iran is the biggest winner of Tuesday’s election — or at least, that is what Tehran will likely conclude. Recall that last month, Iran’s Islamic Revolutionary Guard Corps spokesperson Gen. Hossein Mohebbi, in a 25-page letter to the “Honora",
+      "link": "https://thehill.com/opinion/national-security/6197175-epic-fury-regime-survival/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26271644676715.jpg?w=900",
       "publishedAt": "2026-11-05T12:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -302,6 +341,32 @@
       "imageUrl": "https://img.semafor.com/9dc113164ac9b7abcb6bc539d13295c8a97f8db8-5424x3616.jpg",
       "publishedAt": "2026-11-05T11:43:01.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_658b16237c59e586",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Why more investment is not making housing affordable in Ghana",
+      "snippet": "High costs, limited financing and rising demand keep homes out of reach.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/why-more-investment-is-not-making-housing-affordable-in-ghana?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:42:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_309da0a65bb5ac4a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Tanker struck by projectiles in the Persian Gulf off Qatar, and other Mideast news - AP News",
+      "snippet": "Tanker struck by projectiles in the Persian Gulf off Qatar, and other Mideast news  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZERHQ3lTWV93OWtyU0o4cHdZYU1naWRZbjZ6c3JhMDcyUlN0TVdvb040bkpPZVE1Vmd6VlNnVGFKNVZqbnFUX2tjNmoza2lYOXU3eUR0M08xT3ROenpRcmRUNno5TUdndEwydEI4TmQ5T1RhZzdSTWl1US1leVc1VnFlbUs1eFJZdzh1WWZYUC1LejZOZlE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:41:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2629,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T06:06:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aa1c59c0875f367a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences - Reuters",
-      "snippet": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3hlNHV2bW8xOFJOelN2NGllclRmNDVjMkZjM0tyVU1TMmlzYjhNdnRRcW8teVlmZzVGSDFPR0kyVEFuM1N6amxpclkyVVU3ZWhzNC1KZllwNV83Q2Fqc2I5Z19LcF92WVgyN2hOVElOdHgyc29zeC1JdjBYNWxoVFY5cnloY1dyUUZEd0FPX3hjdGdRdS1kai04NzV1bmJkdy05dGtWTGlrTXRrVUV5NFNhQXZ4QUtsR1RwRjF0YzM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bf7af1948bf3782a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Midterm Election Results: Senate, House and Governor Races - AP News",
-      "snippet": "2026 Midterm Election Results: Senate, House and Governor Races  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:05:42.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f84e4846097a655c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Norman conquest castle and Dickens chalet among sites added to heritage at risk register",
-      "snippet": "William the Conquerer-built Hastings Castle and Swiss-style writing retreat in Kent two of nearly 200 additions to list\nA castle built by William the Conquerer, a Swiss-style chalet where Charles Dickens wrote and a swathe of fire-blasted m",
-      "link": "https://www.theguardian.com/artanddesign/2026/nov/05/hastings-castle-dickens-chalet-heritage-at-risk-register",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:00:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bd4d279722e80ddf",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Thousands of troops tasked to secure Jakarta trial as tensions remain high over wiretap scandal - AP News",
-      "snippet": "Thousands of troops tasked to secure Jakarta trial as tensions remain high over wiretap scandal  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2Z6S2RHWk5UUnUwWXQtV0VPZ2RpTm9hNjR3d2RKM0ZtdzMwdGNOcEhsSk1sUEI3TGlTdkJMcEJFQ0FkZ0pDYnVjLXdhd0dweWVUcDdxVkV4cUNsUE9nTGk4QUZtZ2l2WXktZmZPemFKU0J1WHJYTGoyRDlKRnQyc2hNaEoyWTFMeTBUTUlpcnRCWW9VTnA2MllDdjZ3QUVBRGxRVlRUYmpRWFFh?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T05:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8cd97cc15fd1e91e",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
-      "snippet": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide action follows weeks of social unrest. Follow our liveblog f",
-      "link": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-      "imageUrl": "https://s.france24.com/media/display/c1562138-d5f7-11f1-8cc8-a575454bc579/w:1024/p:16x9/2026-10-31T212107Z-663067613-RC2FEOAZ2S8M-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "publishedAt": "2026-11-05T05:53:09.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
