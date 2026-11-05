@@ -1,102 +1,117 @@
 {
-  "updatedAt": "2026-11-05T12:55:06.957Z",
+  "updatedAt": "2026-11-05T13:00:16.788Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.146Z"
+      "lastSuccess": "2026-11-05T13:00:16.988Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.039Z"
+      "lastSuccess": "2026-11-05T13:00:16.933Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.058Z"
+      "lastSuccess": "2026-11-05T13:00:17.121Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.185Z"
+      "lastSuccess": "2026-11-05T13:00:17.312Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.210Z"
+      "lastSuccess": "2026-11-05T13:00:16.925Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.104Z"
+      "lastSuccess": "2026-11-05T13:00:17.138Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.101Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-05T13:00:17.136Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.120Z"
+      "lastSuccess": "2026-11-05T13:00:17.144Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.149Z"
+      "lastSuccess": "2026-11-05T13:00:17.154Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.191Z"
+      "lastSuccess": "2026-11-05T13:00:17.248Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.352Z"
+      "lastSuccess": "2026-11-05T13:00:17.251Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.322Z"
+      "lastSuccess": "2026-11-05T13:00:17.507Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T12:55:07.210Z"
+      "lastErrorAt": "2026-11-05T13:00:17.358Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.329Z"
+      "lastSuccess": "2026-11-05T13:00:17.524Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.089Z"
+      "lastSuccess": "2026-11-05T13:00:17.175Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.241Z"
+      "lastSuccess": "2026-11-05T13:00:17.224Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.348Z"
+      "lastSuccess": "2026-11-05T13:00:17.357Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.435Z"
+      "lastSuccess": "2026-11-05T13:00:17.134Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.408Z"
+      "lastSuccess": "2026-11-05T13:00:17.105Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.366Z"
+      "lastSuccess": "2026-11-05T13:00:17.544Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T12:55:07.366Z"
+      "lastErrorAt": "2026-11-05T13:00:17.545Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.427Z"
+      "lastSuccess": "2026-11-05T13:00:17.628Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-11-05T12:55:07.463Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-05T13:00:26.813Z"
     }
   },
   "items": [
+    {
+      "id": "story_39d9b210e83fa482",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Gulf energy companies go global after security failures",
+      "snippet": "Once the guarantors of energy, regional producers are looking elsewhere to ensure future supplies.",
+      "link": "https://www.semafor.com/article/11/05/2026/gulf-energy-companies-go-global-after-security-failures",
+      "imageUrl": "https://img.semafor.com/f119439444efe662782277e2a4e3a9100a69dbf1-2048x1267.jpg",
+      "publishedAt": "2026-11-05T12:55:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9c6acbc01b70352f",
       "source": "France24",
@@ -423,6 +438,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7c5d8b8ce04b4f14",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "John Cena finds next invitee to his namesake WWE showcase at NXT",
+      "snippet": "Zilla Fatu, son of the late Umaga, got emotional as John Cena personally invited him to join Cody Rhodes in the upcoming John Cena Classic field.",
+      "link": "https://www.foxnews.com/outkick-sports/john-cena-finds-next-invitee-namesake-wwe-showcase-nxt",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:55:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a75cf9673e8828f9",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -447,6 +475,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_4bf2b67e229736e8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Why are people attacking food delivery robots?",
+      "snippet": "A handful of food delivery robots from Uber Eats and other platforms have gotten kicked and knocked over in Philadelphia and Los Angeles.",
+      "link": "https://www.foxnews.com/tech/why-people-attacking-food-delivery-robots",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:54:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_2620420b657ca7ee",
@@ -627,6 +668,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T11:35:39.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_41b9ede24757f809",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "S&P 500 futures steady after midterm rally; Nasdaq lags on chip weakness - Reuters",
+      "snippet": "S&P 500 futures steady after midterm rally; Nasdaq lags on chip weakness  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTdYYmZaZmRqRUt0TDhBbERraDF2VlpSTDJ4M1NyZ2dRRkNUUVJ0OVFHdzJyc01uNDZOV2YzZFprbU90aUNzTEtYTEdNWU5Jc19VVVlHc24tNkZ2VFhqOWg3b0swVDFnY2hHaGxuNVZXVkE5S09xZXV2eGRQb1kwdWFEZWxpeGMybDZRcGtyWW52Q1JfaHY4MVo1YmJfRW9KZmNsdVJqS24zeGRZVUpaV3VB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:35:38.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2641,58 +2695,6 @@
       "link": "https://www.foxnews.com/us/florida-citibank-shooting-bodycam-footage",
       "imageUrl": null,
       "publishedAt": "2026-11-05T08:12:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5afd79436c952d29",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Three executions scheduled across US on same day for second time this year",
-      "snippet": "Three executions are scheduled across Indiana, Florida and Alabama in the second instance this year of three people facing the death penalty on the same day.",
-      "link": "https://www.foxnews.com/us/florida-alabama-indiana-triple-executions",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T08:02:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d4e11b802cfae5cb",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Late Night Gets Carried Away by the Blue Wave",
-      "snippet": "“There’s going to be so many Republicans leaving the Capitol it will look like a reverse January 6,” Jimmy Fallon said after Democrats swept the midterm elections.",
-      "link": "https://www.nytimes.com/2026/11/05/arts/television/latenight-midterms-blue-wave.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:57:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_11d13827de3923b7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
-      "snippet": "Trump's political humbling signals short-term gain, long-term pain for China  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:57:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3e6c05fa97fa3cc5",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Italian chef fired after refusing to put pineapple on pizza",
-      "snippet": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
-      "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:56:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
