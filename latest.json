@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-11-05T11:20:10.260Z",
+  "updatedAt": "2026-11-05T11:25:06.937Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.373Z"
+      "lastSuccess": "2026-11-05T11:25:07.115Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.417Z"
+      "lastSuccess": "2026-11-05T11:25:07.130Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.433Z"
+      "lastSuccess": "2026-11-05T11:25:07.140Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.516Z"
+      "lastSuccess": "2026-11-05T11:25:07.175Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.492Z"
+      "lastSuccess": "2026-11-05T11:25:07.056Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.530Z"
+      "lastSuccess": "2026-11-05T11:25:07.280Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.564Z"
+      "lastSuccess": "2026-11-05T11:25:07.310Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.559Z"
+      "lastSuccess": "2026-11-05T11:25:07.315Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.561Z"
+      "lastSuccess": "2026-11-05T11:25:07.271Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.576Z"
+      "lastSuccess": "2026-11-05T11:25:07.371Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.535Z"
+      "lastSuccess": "2026-11-05T11:25:07.278Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.714Z"
+      "lastSuccess": "2026-11-05T11:25:07.441Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T11:20:10.613Z"
+      "lastErrorAt": "2026-11-05T11:25:07.316Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.571Z"
+      "lastSuccess": "2026-11-05T11:25:07.335Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.457Z"
+      "lastSuccess": "2026-11-05T11:25:07.190Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.612Z"
+      "lastSuccess": "2026-11-05T11:25:07.218Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.555Z"
+      "lastSuccess": "2026-11-05T11:25:07.264Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.410Z"
+      "lastSuccess": "2026-11-05T11:25:07.472Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.451Z"
+      "lastSuccess": "2026-11-05T11:25:07.389Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.589Z"
+      "lastSuccess": "2026-11-05T11:25:07.398Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T11:20:10.581Z"
+      "lastErrorAt": "2026-11-05T11:25:07.379Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.743Z"
+      "lastSuccess": "2026-11-05T11:25:07.506Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:20:10.643Z"
+      "lastSuccess": "2026-11-05T11:25:07.463Z"
     }
   },
   "items": [
+    {
+      "id": "story_fb4a2125b0500096",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Hoax bomb threats affect at least 20 European flights in a week",
+      "snippet": "At least 15 flights in Europe deal with bomb threats, adding to what one expert calls an unusual level of hoaxes in a short time period, suggesting \"a very deliberate act.\"",
+      "link": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:23:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ff11b8cea95a3a0d",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "US Midterms: Democrats say ready to negotiate and promise big changes",
+      "snippet": "US Democrats are promising to leverage their landslide election win to bring down living costs and hold President Donald Trump's administration to account. They are set to take control of both chambers of Congress in January, but delivering",
+      "link": "https://www.france24.com/en/video/20261105-us-midterms-democrats-say-ready-to-negotiate-and-promise-big-changes",
+      "imageUrl": "https://s.france24.com/media/display/f77a26aa-d909-11f1-aace-a575454bc579/w:1024/p:16x9/capture-c858d567.jpg",
+      "publishedAt": "2026-11-05T11:22:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8f628657eac16c9a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Pound hits highest level since its crash after 2016 Brexit vote",
+      "snippet": "Ten-year high shows sterling’s strength against other currencies following fall of dollar after US midterm elections\n\nBusiness live – latest updates\n\nThe pound has hit its highest level since its crash in the wake of the Brexit referendum a",
+      "link": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:14:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3908d59e18602665",
       "source": "DW",
@@ -148,6 +187,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_62e776ab7dc56fbb",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Cristiano Ronaldo announces retirement from Portugal national team - Reuters",
+      "snippet": "Cristiano Ronaldo announces retirement from Portugal national team  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:03:13.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_6d643345c56a11cd",
@@ -313,6 +365,58 @@
       "snippet": "Voters sent a strong rebuke of the GOP health agenda on Tuesday night as Democrats took control of both chambers of Congress, rejecting Republicans who pushed sweeping healthcare cuts.   Here are four takeaways from the results:  Health aff",
       "link": "https://thehill.com/policy/healthcare/6199119-democrats-win-congress-healthcare-takeaways/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/HealthTakeaways_Weixel-Choi_illo_SamanthaWong_AP-YukiIwamura_AdobeStock.jpg?w=900",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_394faa4b28b00efa",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Iran strikes kept quiet during midterm homestretch set off worries on transparency",
+      "snippet": "A series of reported secret U.S. military attacks carried out against Iran in the lead up to Tuesday’s midterm elections is raising alarms around public transparency. The United States’s Monday strike on Iranian targets in the Strait of Hor",
+      "link": "https://thehill.com/policy/defense/6199633-trump-iran-strikes-midterm-transparency/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Secret-attacks_110526_Mitchell_AP_Alex-Brandon.jpg?w=900",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fd34247f98cb715b",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Voters fiercely reject data centers",
+      "snippet": "Fierce pushback to data centers helped carry Democrats to victory in key races across the nation this week, and where the centers were explicitly on the ballot, they lost overwhelmingly.  Midterm voters both rejected industry-backed candida",
+      "link": "https://thehill.com/policy/technology/6199554-ai-data-centers-midterm-elections-texas-ohio/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/data_centers_maine_103026gn02_w.jpg?w=900",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fb2d193fb356d166",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Republicans sort through election carnage for a message ahead of a new era",
+      "snippet": "Republicans woke up Wednesday morning licking their wounds after a shellacking in Tuesday’s midterm elections. Many are now determining what the path forward for their party ought to be and how far to push back on President Trump from the m",
+      "link": "https://thehill.com/homenews/senate/6199515-gop-midterms-defeat-trump/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/thunejohn_072126gn04_w.jpg?w=900",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7045420e43bf3a1a",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Democrats signal oversight blitz as Trump officials lawyer up",
+      "snippet": "Democrats made clear after Tuesday’s stunning midterm victories that they will use their historic gains in Congress to flex their investigative muscles, swiftly issuing warnings to Trump administration officials they say have thus far dodge",
+      "link": "https://thehill.com/homenews/house/6199505-house-investigations-trump-administration/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/garciarobert_030426gn03_w.jpg?w=900",
       "publishedAt": "2026-11-05T11:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2589,110 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/senate/4793571/ted-cruz-cost-of-living-blue-wave-midterms/",
       "imageUrl": null,
       "publishedAt": "2026-11-05T04:11:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4a8debe41db021f1",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Alabama Midterm Election Results - AP News",
-      "snippet": "2026 Alabama Midterm Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4LVVqbXJwVzJQaXUxaWtoQWhDeGFOTUtmcnY0ZHpIbEJ4UHRSbzZ5ZHIyV05yc2M2c2JNdjYwTmRETHZUbnBIRUx3Z29jdlZoWTllaHpmWWVvWll2RVhwZUxjRDNGVHloTlRv?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T04:10:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5087d58c998d3e65",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-      "snippet": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T04:04:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_37632d64eceb9d37",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Most EU citizens back an urgent transition to greener fuel, survey shows - Reuters",
-      "snippet": "Most EU citizens back an urgent transition to greener fuel, survey shows  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTRfa0NnUWtwYjNVVmN6ZkZIZlYxcHRDUXVOcGI1OWlDbU0zODhZU3k5ZHZHekI4Ty1zUDNiMVNaVTdMOUpaeGhXdjlTYTNqeVJaUlpVRl9YcEh3bksySU1qbXZmVXNDYjRWSE9fSDZWTnBhMTRwREszeTdtV2cwUVBuakppZDhHTXQxVFJxVFZRWkdhOWdxU1BXcVpfVWVqZi1iajIxaEN3Yng4YlRSU2xXRU1mdGdNa3Rpc1pCdE4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T04:04:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4ed48392663e21db",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Ted Cruz says 'blue tsunami' took over Texas after Democrats swept statewide races",
-      "snippet": "Sen. Ted Cruz called the 2026 midterms a \"blue tsunami\" after James Talarico defeated Ken Paxton and Gina Hinojosa unseated Greg Abbott in Texas.",
-      "link": "https://www.foxnews.com/politics/ted-cruz-says-blue-tsunami-took-over-texas-after-democrats-swept-statewide-races",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T04:03:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5c02abc16d7c8a53",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Multiple bears may have killed mother and daughter in Canada",
-      "snippet": "A mother and daughter have been killed in an attack in Canada that authorities say may have involved multiple grizzly bears.",
-      "link": "https://news.sky.com/story/multiple-bears-may-have-killed-mother-and-daughter-in-canada-13608211",
-      "imageUrl": "https://e3.365dm.com/23/07/1920x1080/skynews-montana-grizzly-bear_6228423.jpg?20230724071712",
-      "publishedAt": "2026-11-05T04:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79e2afd271239c11",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "snippet": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T03:56:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_0fc3ee9dce36ad6f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China indicts ex-Politburo member Ma Xingrui for bribery - Reuters",
-      "snippet": "China indicts ex-Politburo member Ma Xingrui for bribery  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN25tWWxjUjE4UTRDLXdlcEJnREtjajI3eVYtbGs5MHRFdG5EWXdYVTlFMW9yWFVNWEI3bUVvVFMwVDlJamJzVFBINUVRYUlNNWNkY2lBb2ExRm56MUUzNlhfTVVHTmREajdsMmZrcW9kcE9sbEhBZU5OM080bURJZFROTzJPa1RpMjVOQ2FfaEdPOE44dUcw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T03:51:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ca1736f489885df1",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "World record 53 red cards shown in Brazil football match",
-      "snippet": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T03:48:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
