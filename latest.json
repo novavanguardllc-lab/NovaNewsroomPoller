@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-05T08:00:16.606Z",
+  "updatedAt": "2026-11-05T08:05:07.214Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:16.918Z"
+      "lastSuccess": "2026-11-05T08:05:07.414Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:16.777Z"
+      "lastSuccess": "2026-11-05T08:05:07.294Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:16.740Z"
+      "lastSuccess": "2026-11-05T08:05:07.475Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.121Z"
+      "lastSuccess": "2026-11-05T08:05:07.455Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:16.831Z"
+      "lastSuccess": "2026-11-05T08:05:07.385Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.074Z"
+      "lastSuccess": "2026-11-05T08:05:07.318Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.021Z"
+      "lastSuccess": "2026-11-05T08:05:07.361Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.071Z"
+      "lastSuccess": "2026-11-05T08:05:07.334Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:16.761Z"
+      "lastSuccess": "2026-11-05T08:05:07.341Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.222Z"
+      "lastSuccess": "2026-11-05T08:05:07.422Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.214Z"
+      "lastSuccess": "2026-11-05T08:05:07.484Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.377Z"
+      "lastSuccess": "2026-11-05T08:05:07.634Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T08:00:17.255Z"
+      "lastErrorAt": "2026-11-05T08:05:07.433Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.254Z"
+      "lastSuccess": "2026-11-05T08:05:07.525Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.015Z"
+      "lastSuccess": "2026-11-05T08:05:07.539Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.192Z"
+      "lastSuccess": "2026-11-05T08:05:07.646Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.061Z"
+      "lastSuccess": "2026-11-05T08:05:07.517Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.404Z"
+      "lastSuccess": "2026-11-05T08:05:07.757Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.394Z"
+      "lastSuccess": "2026-11-05T08:05:07.678Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.420Z"
+      "lastSuccess": "2026-11-05T08:05:07.693Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T08:00:17.421Z"
+      "lastErrorAt": "2026-11-05T08:05:07.652Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.443Z"
+      "lastSuccess": "2026-11-05T08:05:07.792Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T08:00:17.528Z"
+      "lastSuccess": "2026-11-05T08:05:07.734Z"
     }
   },
   "items": [
+    {
+      "id": "story_d4e11b802cfae5cb",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Late Night Gets Carried Away by the Blue Wave",
+      "snippet": "“There’s going to be so many Republicans leaving the Capitol it will look like a reverse January 6,” Jimmy Fallon said after Democrats swept the midterm elections.",
+      "link": "https://www.nytimes.com/2026/11/05/arts/television/latenight-midterms-blue-wave.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T07:57:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3e6c05fa97fa3cc5",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Italian chef fired after refusing to put pineapple on pizza",
+      "snippet": "He had told his employer, an Australian restaurant, that pineapple on pizza was \"offensive\" to Italian culture.",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T07:56:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7a57011ecd6c2f0f",
       "source": "Al Jazeera",
@@ -384,6 +410,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1cc0b535faaabdad",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "China's cleantech stocks jump as investors bet on US policy shift - Reuters",
+      "snippet": "China's cleantech stocks jump as investors bet on US policy shift  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHllX1NRUnhtUFNpX3FES2xxMF93ZVJTdkhEelhpSXR6RmViQ2ZLc3Z1TXpKRjBNMjdrbWZZYmlSVGdWd2MxSUdsaHdCTmUzckE1M09ScmVsLWhuTThTa190TVlFMWpwbC1jcTlobmxjMG9SOVV0N3hHQUl3dDUzdmR2ZFhjQkFFRVRtOEhSdzVJazQ0aF9mdnhtY0h5ZDBVQUhOc0hkS3pJejN6Ui1F?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T05:50:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_563fa53bc7d6eccf",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -533,6 +572,19 @@
       "headline": "France braces for fresh protests as Macron seeks to prevent repeat of October unrest - Reuters",
       "snippet": "France braces for fresh protests as Macron seeks to prevent repeat of October unrest  Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHdQNTRZYUZObjV0d3hRRUQza2thc1Ricy1GblZzUzFGOUxybnlvbVgtMldCRkJDUGlxQlB6dTJvSS14ZzVtSVdGZndrVnNLTTJCQXNpRVlweTBsOHdicU9Qbm1Qbkw4Y1dkWG9MdnIwTTM5WW41VDBPM25yZ3pFSEZObkNNa3A0U1g4NDBvSlBISEhYb1k0YjVtTm5TUVAzTE5XMm91RmNocW1PVHdwblQzVnU3R2JRMTBaWg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T05:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_342bf1f4ab28de73",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Toyota posts profit surge and lifts annual outlook as hybrid sales shine - Reuters",
+      "snippet": "Toyota posts profit surge and lifts annual outlook as hybrid sales shine  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHAtZ0lMeXhCMTd3a1ZpN1lqOFNOYmppVzE1aGdUNE5oaG5pRVRKZ3l1YXRjdThkVTI2ZEpoQndzdG1vQmQ3eXE0ejBGMFJkLUM5ODl5WG9aR3hPQmNXLUFfbG0yODV2Y1U2VWpuajdwb0xPcU4xSWswTm1jYUVJclA3TDk3bDUtQWhUbkFjaWJtSWhsZ0pFbVpYQnRiN1N4NXZlWF9NRHBNbk5LSm9kMzhjdw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-05T05:02:00.000Z",
       "tier": "major",
@@ -2643,58 +2695,6 @@
       "publishedAt": "2026-11-05T00:01:47.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7d2f99c6fea5b7be",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Tony Butala, voice behind 'The Way You Look Tonight' and The Lettermen co-founder, dead at 87",
-      "snippet": "Tony Butala co-founded The Lettermen in the late 1950s and performed for over 60 years, earning four Grammy nominations and a Hollywood Walk of Fame star.",
-      "link": "https://www.foxnews.com/entertainment/tony-butala-voice-way-you-look-tonight-lettermen-co-founder-dead-87",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T00:01:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2e6a0b03d3bff584",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "4 dead, including suspect and deputy, in Washington state shooting",
-      "snippet": "A shooting and firefight with officers in eastern Washington state have left four people dead, including the suspect and a deputy, and another deputy critically wounded.",
-      "link": "https://www.cbsnews.com/news/several-dead-shooting-washington-state-deputies/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T00:00:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1d62d2c0c1d8b0eb",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Former RNC chair Ronna McDaniel says she's \"stunned\" by Democrats' widespread midterm wins",
-      "snippet": "Former RNC chair Ronna McDaniel acted as a surrogate for Mike Rogers' Senate campaign in Michigan. She joins \"The Takeout\" to discuss Rogers' loss in Tuesday's midterms and the massive victories picked up by Democrats.",
-      "link": "https://www.cbsnews.com/video/former-rnc-chair-ronna-mcdaniel-says-shes-stunned-by-democrats-widespread-midterm-wins/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T00:00:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7129039b71518a1b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
-      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T00:00:12.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
