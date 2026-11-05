@@ -1,104 +1,115 @@
 {
-  "updatedAt": "2026-11-05T12:30:12.779Z",
+  "updatedAt": "2026-11-05T12:35:06.778Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.197Z"
+      "lastSuccess": "2026-11-05T12:35:06.939Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:12.977Z"
+      "lastSuccess": "2026-11-05T12:35:06.853Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.004Z"
+      "lastSuccess": "2026-11-05T12:35:06.880Z"
     },
     "Politico": {
-      "online": false,
-      "lastError": "Status code 406",
-      "lastErrorAt": "2026-11-05T12:30:13.254Z"
+      "online": true,
+      "lastSuccess": "2026-11-05T12:35:07.119Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.074Z"
+      "lastSuccess": "2026-11-05T12:35:06.979Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.496Z"
+      "lastSuccess": "2026-11-05T12:35:07.142Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-05T12:30:13.260Z"
+      "online": true,
+      "lastSuccess": "2026-11-05T12:35:07.037Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.277Z"
+      "lastSuccess": "2026-11-05T12:35:07.141Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.361Z"
+      "lastSuccess": "2026-11-05T12:35:07.015Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.660Z"
+      "lastSuccess": "2026-11-05T12:35:07.237Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.576Z"
+      "lastSuccess": "2026-11-05T12:35:07.156Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.928Z"
+      "lastSuccess": "2026-11-05T12:35:07.398Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T12:30:13.577Z"
+      "lastErrorAt": "2026-11-05T12:35:07.180Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.621Z"
+      "lastSuccess": "2026-11-05T12:35:07.179Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.240Z"
+      "lastSuccess": "2026-11-05T12:35:07.144Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.461Z"
+      "lastSuccess": "2026-11-05T12:35:07.138Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.354Z"
+      "lastSuccess": "2026-11-05T12:35:07.097Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.584Z"
+      "lastSuccess": "2026-11-05T12:35:07.255Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.600Z"
+      "lastSuccess": "2026-11-05T12:35:06.999Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.643Z"
+      "lastSuccess": "2026-11-05T12:35:07.183Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T12:30:13.639Z"
+      "lastErrorAt": "2026-11-05T12:35:07.174Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.727Z"
+      "lastSuccess": "2026-11-05T12:35:07.217Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:30:13.784Z"
+      "lastSuccess": "2026-11-05T12:35:07.200Z"
     }
   },
   "items": [
+    {
+      "id": "story_b6761ba4322a3b75",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
+      "snippet": "New Yorkers marched to demand justice for Ghanaian boy Javits Frimpong, who was shot and killed in the Bronx last month.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T12:25:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_26d1bad527e07a1f",
       "source": "NPR",
@@ -108,6 +119,19 @@
       "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
       "imageUrl": null,
       "publishedAt": "2026-11-05T12:24:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4dd06a88f770a2b8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Workers strike across France, hundreds of thousands expected to protest",
+      "snippet": "Demonstrators are demanding an increase in the minimum wage and higher salaries for all workers, among other reforms.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T12:21:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -539,6 +563,19 @@
       "publishedAt": "2026-11-05T11:30:00.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e8d20f4c218705ce",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "We need to abolish the College Football Playoff selection committee after yet another embarrassment",
+      "snippet": "Alabama at No. 5 and Kentucky at No. 6 spark outrage as the first college football playoff rankings reveal what appears to be a massive SEC bias.",
+      "link": "https://www.foxnews.com/outkick-sports/abolish-college-football-playoff-selection-committee-embarrassment",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:29:42.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2167,6 +2204,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2c80a5db28edaa57",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Death toll rises to 5 in Nairobi collapsed building tragedy after 3 bodies are found - AP News",
+      "snippet": "Death toll rises to 5 in Nairobi collapsed building tragedy after 3 bodies are found  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV2U4QnRYT29UdmVGVERTdjR5NnY1elowemlsQm1tMTFOUDU5V0NIeVBGR24wS1llVmVBN3VwZDdSbXVPV3RpT1pzdXJFVzZhNjEwbVFTWUcxQk9DNDQzSi1qdEFJM3J2SUpPYWdhYUFRdHNyQjNfTmVRNXBHZVVKOXJnRWVvQ1dRQzlFdUlHdXdrVDV6TTFKY1NfMFJwYkExb21Heg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T09:01:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_754b355aa7223243",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2331,6 +2381,19 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVkN29DQ3RzdVJEWDZTU0JvTXZCSldfNVROUHNLMzFsTF9mSTN1Z1FCV2VQSE16MHR5YU1lR1lhVUgxdkhYQ2VpT0prNktfT3IybFhJTE0zbWZ4U3h5aWUzSTMxZm1JRTVDUkJXeHRGaHBpM1dUYnhDSzhqbVNkVlJMZmJMTS1nRC1vZzBDZDZlMjlzdUZINzZuMFpFM0VnOVRhUEdBZEEzSFRSUHBIX21QTEktTmdCYTFUTjZTUk5qeHpxU2RVdQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-05T08:41:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dfe2089002f08657",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Asia Pacific - AP News",
+      "snippet": "Asia Pacific  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hYnJISVNvSkVKTlRfbE9YUFJGSWpTUmxIci1JaFBwSVpRVVdLZ091bWVBUld0VENhWDV4cXBVdFllSjI4YkgxWmFKVQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T08:40:06.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2631,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T07:00:57.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7091e3a164f8fa67",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
-      "snippet": "But the president still has veto power, which he can wield to dictate policy over tariffs, the war in Iran or aid for Ukraine\nIn a rare occurrence, a US election may have actually been decided by foreign policy. Donald Trump’s war in Iran a",
-      "link": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:00:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_986dc02789fe8846",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Warming UK seas could ‘fundamentally reshape marine ecosystems’ – report",
-      "snippet": "Four-year study warns destabilised marine food webs could jeopardise food security by 2050\nWarming seas around the UK and the wider north-east Atlantic could destabilise marine food webs, weaken ocean health and jeopardise food security by ",
-      "link": "https://www.theguardian.com/environment/2026/nov/05/warming-uk-seas-could-fundamentally-reshape-marine-ecosystems-report",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:00:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ecfca61009ad615b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Dozens of pilot whales stranded on New Zealand coast - Reuters",
-      "snippet": "Dozens of pilot whales stranded on New Zealand coast  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcU1hLV8xaWd0U2UwXzdWNHRsSU1UaV9uM3BQTkd2MHVSRXFBSXRzMjFtMkZrSVJ2YUF5Wjl2YVpnVHI5d3BsSEVJTjhFMFZkUEtkUDJxNE1rMmcwaTUxYUdxU1lLekJCd2R0cWljTS1YREFWd2RJemdyRVIxNk9CUDNIZXRwSlQ1UW9NUUJBQjZXTjhOSUFSVktZcGIySjJQS0hQb2VB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c58f655515290cf4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Texas Governor Election Live Results 2026 - AP News",
-      "snippet": "Texas Governor Election Live Results 2026  AP News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbGdyZjVxQ2FzZWM1aVNqcnZfcmNxM2NBS2J2WWg1UHU0OWNEcVNUaVkyTF9EN1BSX2phcmwxNl9VVUJpTjUxdWEzNDJKWWxzSW5aNnFQVDZnVVpHVkppU0dUZ3NmNDNxMzdSZ3N4ckFGS1dL?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:38:48.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78d81f169277e592",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Sony Q2 profit jumps on 'Spider-Man' and PlayStation boost - Reuters",
-      "snippet": "Sony Q2 profit jumps on 'Spider-Man' and PlayStation boost  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzRkcVBPNWdGd05mYXRDNXRxOFJtbDZoQzk3N1l4Q19ScC1oeWFJWmlKYlNHRzBwRTFQREZsanB1TjUwSkZodTh5U1N2aktDOTU3cEVBMk1Ubllodk9NVXlCNkc3cGZYbUFwNk13LW5hU084YWlqdWZyX0NvdTBSZWlwZHNWdVJOMGstbkVpVDVoLXd6UFFPTS1za2gyVUFtVjZBTTRraDZBbU0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:37:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
