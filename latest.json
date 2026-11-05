@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-05T11:50:09.540Z",
+  "updatedAt": "2026-11-05T11:55:06.995Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.731Z"
+      "lastSuccess": "2026-11-05T11:55:07.249Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.687Z"
+      "lastSuccess": "2026-11-05T11:55:07.052Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.850Z"
+      "lastSuccess": "2026-11-05T11:55:07.201Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.754Z"
+      "lastSuccess": "2026-11-05T11:55:07.276Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.654Z"
+      "lastSuccess": "2026-11-05T11:55:07.127Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.785Z"
+      "lastSuccess": "2026-11-05T11:55:07.209Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.857Z"
+      "lastSuccess": "2026-11-05T11:55:07.230Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.798Z"
+      "lastSuccess": "2026-11-05T11:55:07.212Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.789Z"
+      "lastSuccess": "2026-11-05T11:55:07.254Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.861Z"
+      "lastSuccess": "2026-11-05T11:55:07.430Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.780Z"
+      "lastSuccess": "2026-11-05T11:55:07.371Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:10.024Z"
+      "lastSuccess": "2026-11-05T11:55:07.536Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T11:50:09.851Z"
+      "lastErrorAt": "2026-11-05T11:55:07.395Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.811Z"
+      "lastSuccess": "2026-11-05T11:55:07.394Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.795Z"
+      "lastSuccess": "2026-11-05T11:55:07.197Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.835Z"
+      "lastSuccess": "2026-11-05T11:55:07.296Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.888Z"
+      "lastSuccess": "2026-11-05T11:55:07.349Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:10.052Z"
+      "lastSuccess": "2026-11-05T11:55:07.173Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:10.037Z"
+      "lastSuccess": "2026-11-05T11:55:07.441Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.896Z"
+      "lastSuccess": "2026-11-05T11:55:07.410Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T11:50:09.836Z"
+      "lastErrorAt": "2026-11-05T11:55:07.386Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.909Z"
+      "lastSuccess": "2026-11-05T11:55:07.459Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T11:50:09.936Z"
+      "lastSuccess": "2026-11-05T11:55:07.453Z"
     }
   },
   "items": [
+    {
+      "id": "story_d39b15fe3ed53c39",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Cristiano Ronaldo announces retirement from international football",
+      "snippet": "The announcement by the footballing legend comes just weeks after a public spat with Portugal coach Jorge Jesus over playing time.",
+      "link": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:52:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
+    },
+    {
+      "id": "story_166b21e3adb8cbeb",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Democrats prepare to take Congress after sweeping wins",
+      "snippet": "After Democrats' sweeping House and Senate victories, the party is laying out how it plans to wield power, while President Trump and Republicans react to their midterm losses.",
+      "link": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T11:50:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8962ed92bbddcafe",
       "source": "Semafor",
@@ -2668,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T05:03:08.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b09166db3e14d2f6",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "France braces for fresh protests as Macron seeks to prevent repeat of October unrest - Reuters",
-      "snippet": "France braces for fresh protests as Macron seeks to prevent repeat of October unrest  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHdQNTRZYUZObjV0d3hRRUQza2thc1Ricy1GblZzUzFGOUxybnlvbVgtMldCRkJDUGlxQlB6dTJvSS14ZzVtSVdGZndrVnNLTTJCQXNpRVlweTBsOHdicU9Qbm1Qbkw4Y1dkWG9MdnIwTTM5WW41VDBPM25yZ3pFSEZObkNNa3A0U1g4NDBvSlBISEhYb1k0YjVtTm5TUVAzTE5XMm91RmNocW1PVHdwblQzVnU3R2JRMTBaWg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T05:02:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_342bf1f4ab28de73",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Toyota posts profit surge and lifts annual outlook as hybrid sales shine - Reuters",
-      "snippet": "Toyota posts profit surge and lifts annual outlook as hybrid sales shine  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeHAtZ0lMeXhCMTd3a1ZpN1lqOFNOYmppVzE1aGdUNE5oaG5pRVRKZ3l1YXRjdThkVTI2ZEpoQndzdG1vQmQ3eXE0ejBGMFJkLUM5ODl5WG9aR3hPQmNXLUFfbG0yODV2Y1U2VWpuajdwb0xPcU4xSWswTm1jYUVJclA3TDk3bDUtQWhUbkFjaWJtSWhsZ0pFbVpYQnRiN1N4NXZlWF9NRHBNbk5LSm9kMzhjdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T05:02:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
