@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-11-05T07:45:09.349Z",
+  "updatedAt": "2026-11-05T07:50:08.660Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.714Z"
+      "lastSuccess": "2026-11-05T07:50:08.877Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.555Z"
+      "lastSuccess": "2026-11-05T07:50:08.852Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.575Z"
+      "lastSuccess": "2026-11-05T07:50:08.820Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.917Z"
+      "lastSuccess": "2026-11-05T07:50:08.981Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.666Z"
+      "lastSuccess": "2026-11-05T07:50:08.773Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.772Z"
+      "lastSuccess": "2026-11-05T07:50:08.950Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.832Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-05T07:50:08.936Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.837Z"
+      "lastSuccess": "2026-11-05T07:50:08.997Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.768Z"
+      "lastSuccess": "2026-11-05T07:50:08.929Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.810Z"
+      "lastSuccess": "2026-11-05T07:50:08.958Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.990Z"
+      "lastSuccess": "2026-11-05T07:50:09.009Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.221Z"
+      "lastSuccess": "2026-11-05T07:50:09.123Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T07:45:10.251Z"
+      "lastErrorAt": "2026-11-05T07:50:09.059Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.240Z"
+      "lastSuccess": "2026-11-05T07:50:09.016Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.853Z"
+      "lastSuccess": "2026-11-05T07:50:08.935Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.977Z"
+      "lastSuccess": "2026-11-05T07:50:08.913Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.035Z"
+      "lastSuccess": "2026-11-05T07:50:09.058Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.095Z"
+      "lastSuccess": "2026-11-05T07:50:08.839Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:09.537Z"
+      "lastSuccess": "2026-11-05T07:50:08.809Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.275Z"
+      "lastSuccess": "2026-11-05T07:50:09.072Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T07:45:10.268Z"
+      "lastErrorAt": "2026-11-05T07:50:09.072Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.335Z"
+      "lastSuccess": "2026-11-05T07:50:09.151Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T07:45:10.428Z"
+      "lastSuccess": "2026-11-05T07:50:09.139Z"
     }
   },
   "items": [
@@ -601,6 +602,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T04:49:56.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_62536cf2da49ed04",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Former Chinese Politburo member Ma Xingrui charged with taking bribes - AP News",
+      "snippet": "Former Chinese Politburo member Ma Xingrui charged with taking bribes  AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMjBaSXZEUE1mVFkyYjZxbTdLQ1paeGxJOHROaFBsZGtTamJ0NFdQUEhqY3hhOF81NVV1UUlEekVObGVYR1dMQ0R4UDF1MXJRSWFBQUtsTmx4UVRoZDdIN1I1bDJRTlJrdkdUOFE1NWxqRXp3eWtwODVaaU5fQ0JUcV9qU2RTa3ZsYTBNZnYzTzZrVU81N3BkWmhYRWlWQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T04:43:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2681,19 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-04T23:58:39.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ff5d3b2927fbb457",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump helps fuel Democratic talent pool post-midterm elections",
-      "snippet": "The Democratic Party, considered leaderless and rudderless after former President Joe Biden and Vice President Kamala Harris’s unsuccessful 2024 campaigns for the White House, has emerged energized and with a surprisingly deep bench of poli",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4793367/trump-helps-fuel-democratic-talent-pool-midterm-elections/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T23:57:24.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
