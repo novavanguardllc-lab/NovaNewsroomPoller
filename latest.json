@@ -1,102 +1,117 @@
 {
-  "updatedAt": "2026-11-05T12:25:06.871Z",
+  "updatedAt": "2026-11-05T12:30:12.779Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.017Z"
+      "lastSuccess": "2026-11-05T12:30:13.197Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.023Z"
+      "lastSuccess": "2026-11-05T12:30:12.977Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.126Z"
+      "lastSuccess": "2026-11-05T12:30:13.004Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.077Z"
+      "online": false,
+      "lastError": "Status code 406",
+      "lastErrorAt": "2026-11-05T12:30:13.254Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.120Z"
+      "lastSuccess": "2026-11-05T12:30:13.074Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:06.962Z"
+      "lastSuccess": "2026-11-05T12:30:13.496Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.030Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-05T12:30:13.260Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.042Z"
+      "lastSuccess": "2026-11-05T12:30:13.277Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.157Z"
+      "lastSuccess": "2026-11-05T12:30:13.361Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.140Z"
+      "lastSuccess": "2026-11-05T12:30:13.660Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.199Z"
+      "lastSuccess": "2026-11-05T12:30:13.576Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.371Z"
+      "lastSuccess": "2026-11-05T12:30:13.928Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-05T12:25:07.279Z"
+      "lastErrorAt": "2026-11-05T12:30:13.577Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.300Z"
+      "lastSuccess": "2026-11-05T12:30:13.621Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.083Z"
+      "lastSuccess": "2026-11-05T12:30:13.240Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.183Z"
+      "lastSuccess": "2026-11-05T12:30:13.461Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.278Z"
+      "lastSuccess": "2026-11-05T12:30:13.354Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.312Z"
+      "lastSuccess": "2026-11-05T12:30:13.584Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.397Z"
+      "lastSuccess": "2026-11-05T12:30:13.600Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.286Z"
+      "lastSuccess": "2026-11-05T12:30:13.643Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-05T12:25:07.301Z"
+      "lastErrorAt": "2026-11-05T12:30:13.639Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.406Z"
+      "lastSuccess": "2026-11-05T12:30:13.727Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-05T12:25:07.389Z"
+      "lastSuccess": "2026-11-05T12:30:13.784Z"
     }
   },
   "items": [
+    {
+      "id": "story_26d1bad527e07a1f",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Teens worldwide aren't getting enough exercise -- especially girls",
+      "snippet": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T12:24:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2db34d5b79cba6b7",
       "source": "Semafor",
@@ -2683,19 +2698,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_7c6b0357775ac4bd",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "South Carolina Governor Election Live Results 2026 - AP News",
-      "snippet": "South Carolina Governor Election Live Results 2026  AP News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWldGMTZZN2JOVGFlVUtxYkc2UFZDTHN1Mkl4UDAtZFl6MUppZ0tMVHhvOUFvWjl3MjRxcU5jMTFjQUl5ekx2VkdQb0FoNW9ycHpMdWtnTDNNTUYzYmhRLVdqWU1Za0NYSll6Yk5PWE1nbktiTzVHY1BSdkdOT3o2Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T06:36:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
