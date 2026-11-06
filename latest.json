@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-06T16:20:09.746Z",
+  "updatedAt": "2026-11-06T16:25:06.766Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.168Z"
+      "lastSuccess": "2026-11-06T16:25:06.965Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.244Z"
+      "lastSuccess": "2026-11-06T16:25:06.828Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:09.987Z"
+      "lastSuccess": "2026-11-06T16:25:07.315Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.066Z"
+      "lastSuccess": "2026-11-06T16:25:06.832Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:09.946Z"
+      "lastSuccess": "2026-11-06T16:25:06.873Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.045Z"
+      "lastSuccess": "2026-11-06T16:25:06.871Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.204Z"
+      "lastSuccess": "2026-11-06T16:25:06.867Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.425Z"
+      "lastSuccess": "2026-11-06T16:25:06.885Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.489Z"
+      "lastSuccess": "2026-11-06T16:25:06.853Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.532Z"
+      "lastSuccess": "2026-11-06T16:25:06.923Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.347Z"
+      "online": false,
+      "lastError": "read ECONNRESET",
+      "lastErrorAt": "2026-11-06T16:25:12.975Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.269Z"
+      "lastSuccess": "2026-11-06T16:25:06.927Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.427Z"
+      "lastSuccess": "2026-11-06T16:25:06.984Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.810Z"
+      "lastSuccess": "2026-11-06T16:25:06.908Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T16:20:10.362Z"
+      "lastErrorAt": "2026-11-06T16:25:06.943Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.405Z"
+      "lastSuccess": "2026-11-06T16:25:06.989Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.325Z"
+      "lastSuccess": "2026-11-06T16:25:06.889Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T16:20:10.767Z"
+      "lastErrorAt": "2026-11-06T16:25:06.965Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.767Z"
+      "lastSuccess": "2026-11-06T16:25:07.002Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.443Z"
+      "lastSuccess": "2026-11-06T16:25:06.931Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.863Z"
+      "lastSuccess": "2026-11-06T16:25:07.234Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.921Z"
+      "lastSuccess": "2026-11-06T16:25:07.108Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:20:10.649Z"
+      "lastSuccess": "2026-11-06T16:25:07.088Z"
     }
   },
   "items": [
+    {
+      "id": "story_5360330c95a65c47",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "‘Voter apathy’ toward Hyde-Smith could be factor in Mississippi Senate race: Professor",
+      "snippet": "A Mississippi political science professor said voters seemed to be “really enthusiastic” about Democratic Senate candidate Scott Colom, but when it comes to his opponent Sen. Cindy Hyde-Smith (R), “there was a lot of voter apathy.” “Colom’s",
+      "link": "https://thehill.com/homenews/campaign/6204220-mississippi-senate-race-colom-hyde-smith/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/MississippiSenate_Nov4.jpg?w=900",
+      "publishedAt": "2026-11-06T16:22:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ede8e640f15f30e2",
       "source": "Wash Examiner",
@@ -408,6 +422,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_12499a1961870ab8",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Bomb threats target multiple airlines and newsrooms across Europe ",
+      "snippet": "Officials in Europe are responding to another round of bomb threats targeting airlines and television studios. Multiple flights were forced to reroute and make emergency landings. NBC News’ Danielle Hamamdjian explains what we know and what",
+      "link": "https://www.nbcnews.com/video/bomb-threats-target-multiple-airlines-and-newsrooms-across-europe-273005125594",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:45:51.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_d65380aa1f24a53e",
@@ -813,6 +840,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4cb7d2f9fee36a52",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EU prosecutor searches offices of Spanish rail entities in fraud probe - Reuters",
+      "snippet": "EU prosecutor searches offices of Spanish rail entities in fraud probe  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGNvazh5UFdLRlhWLVRNTkFJdTVFZC02Zk80OF9RMWJaY0pJZGs5dm9tQzdSTVpPeGcxbGRYcmpfZHBrWDVjT3VEQ0txVlhMSGk3ZTZQNFlnbl9zQ3Ztam9CVUNMemdmNWxEcm5WSnV3dFdYWDBfOVJRLWZZa1NjYWhVTGcxUHlQRGFuNUFvY2ZxOXdVb2lKRG1UNEY?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:17:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b8122a462c32cb53",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -1123,6 +1163,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_68c0d7e0b3325d9a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US Attorney whose office oversaw Trump's election conspiracy probe resigns - Reuters",
+      "snippet": "US Attorney whose office oversaw Trump's election conspiracy probe resigns  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnJnWlVMYkUwX0hPQjVtXzZnNzhBUDhwczhNdnB0dVA3OTJnYTExdnV6ZjRya3M1UUo2TXUyT1l6U0ZRZmh2eUVRNWtJMFBDY2pMQWhaNU9yNm9NWHZGU1UzY2N1TDhwTnh1UXVNNG1YNFBWR2FWZDEzV01mMW0wS1hOcE9hZU1hbFJiaHEtZ0o2SW84T3Q4NDlOYjRTcFdPRnE2SXIzMjFQVHA3UVNZbm1ZaTF2TDhZeXc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T14:56:37.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_ce187e6977e12ddc",
@@ -2641,58 +2694,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-06T12:57:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c53fca04d422db43",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Iranians face looming war threat with no reliable info",
-      "snippet": "Ordinary people living in Iran have little idea of the course of the war and peace talks on the global stage. With few sources of information, they are forced to navigate conflicting rumors and fears of a nuclear attack.",
-      "link": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:56:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36eff80959320569",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "For people in Iran, a constant threat of war and dearth of information",
-      "snippet": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
-      "link": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:56:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bbeea462451fcb9",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kid Rock shows off massive elk harvest on Instagram while joking about missing the election",
-      "snippet": "Kid Rock's Instagram post combines his love of elk hunting and politics, joking he missed the election while off the grid on an epic outdoor trip.",
-      "link": "https://www.foxnews.com/outkick-culture/kid-rock-shows-off-massive-elk-harvest-instagram-joking-missing-election",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:55:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_30f71f0b4502c8a1",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Cristiano Ronaldo: Portugal’s polarising icon and his bitter final act",
-      "snippet": "After announcing his international retirement, Portugal's longstanding captain leaves behind a complicated legacy.",
-      "link": "https://www.aljazeera.com/sports/2026/11/6/cristiano-ronaldo-portugal-retirement-jorge-jesus-manchester-united?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:55:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
