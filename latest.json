@@ -1,102 +1,154 @@
 {
-  "updatedAt": "2026-11-06T15:20:09.817Z",
+  "updatedAt": "2026-11-06T15:25:07.359Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.382Z"
+      "lastSuccess": "2026-11-06T15:25:07.536Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.217Z"
+      "lastSuccess": "2026-11-06T15:25:07.462Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.095Z"
+      "lastSuccess": "2026-11-06T15:25:07.860Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.014Z"
+      "lastSuccess": "2026-11-06T15:25:07.555Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.067Z"
+      "lastSuccess": "2026-11-06T15:25:07.604Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.224Z"
+      "lastSuccess": "2026-11-06T15:25:07.575Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.636Z"
+      "lastSuccess": "2026-11-06T15:25:07.597Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.241Z"
+      "lastSuccess": "2026-11-06T15:25:07.722Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.358Z"
+      "lastSuccess": "2026-11-06T15:25:07.713Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.494Z"
+      "lastSuccess": "2026-11-06T15:25:07.741Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.042Z"
+      "lastSuccess": "2026-11-06T15:25:07.680Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.038Z"
+      "lastSuccess": "2026-11-06T15:25:07.644Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.420Z"
+      "lastSuccess": "2026-11-06T15:25:07.638Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.294Z"
+      "lastSuccess": "2026-11-06T15:25:07.703Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T15:20:10.383Z"
+      "lastErrorAt": "2026-11-06T15:25:07.655Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.402Z"
+      "lastSuccess": "2026-11-06T15:25:07.848Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.022Z"
+      "lastSuccess": "2026-11-06T15:25:07.641Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T15:20:10.652Z"
+      "lastErrorAt": "2026-11-06T15:25:07.724Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.662Z"
+      "lastSuccess": "2026-11-06T15:25:07.758Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.135Z"
+      "lastSuccess": "2026-11-06T15:25:07.684Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:12.665Z"
+      "lastSuccess": "2026-11-06T15:25:07.907Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.693Z"
+      "lastSuccess": "2026-11-06T15:25:07.883Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T15:20:10.614Z"
+      "lastSuccess": "2026-11-06T15:25:07.842Z"
     }
   },
   "items": [
+    {
+      "id": "story_d99a36da2f5005bb",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Thomas Markle Sr., Meghan's father, arrested in Florida, sources say",
+      "snippet": "Earlier this month, it was reported that Meghan's estranged father, Thomas Markle, was under investigation by authorities in the Philippines for alleged possession of child sexual abuse materials.",
+      "link": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:23:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_af979b270e63a8aa",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "European air traffic is targeted by new threats after a week of hoaxes",
+      "snippet": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats.",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:21:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_37cdc0c99d19e987",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Top prosecutor in office that housed Trump’s ‘grand conspiracy’ probe resigns from DOJ",
+      "snippet": "The prosecutor whose South Florida office oversaw President Trump’s so-called grand conspiracy probe has resigned from the Justice Department, Attorney General Todd Blanche announced Friday. “United States Attorney for the Southern District",
+      "link": "https://thehill.com/regulation/court-battles/6203924-reding-quinones-doj-resignation/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26276035238523-e1793978279973.jpg?w=900",
+      "publishedAt": "2026-11-06T15:19:15.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_36a6b00d5c2ef23a",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Fed’s Williams says inflation too high, targets 2 percent",
+      "snippet": "John Williams, the president of the Federal Reserve Bank of New York, said Friday inflation remains too high amid multiple price shocks. “Inflation is absolutely too ​high. It’s been too high for too long,” Williams said at a ​European Cent",
+      "link": "https://thehill.com/business/6203854-fed-williams-inflation-too-high/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2023/08/WilliamsJohn_NewYorkFed_103015_APPhotoManuelBalceCenetaFile.jpg?w=900",
+      "publishedAt": "2026-11-06T15:18:36.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b8122a462c32cb53",
       "source": "ABC News",
@@ -119,6 +171,19 @@
       "link": "https://thehill.com/policy/international/6203855-zelensky-ukraine-us-aid-midterms/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Leading-Zelensky_100426_AP_Dan-Bashakov.jpg?w=900",
       "publishedAt": "2026-11-06T15:16:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6a9c58a451354664",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Zelenskyy chief of staff on Russia peace talks: \"These negotiations are not the last\"",
+      "snippet": "The U.S. is holding talks with Ukraine and Russia in Abu Dhabi next week. CBS News' Aidan Stretch spoke to Volodymyr Zelenskyy's chief of staff, Lieutenant General Kyrylo Budanov, about what to expect.",
+      "link": "https://www.cbsnews.com/video/zelenskyy-chief-of-staff-on-russia-peace-talks-these-negotiations-are-not-the-last/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:13:38.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -639,6 +704,19 @@
       "link": "https://thehill.com/homenews/administration/6203425-donald-trump-stock-market-losses-2026-midterms-economy/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26309777545710-e1793973503772.jpg?w=900",
       "publishedAt": "2026-11-06T14:21:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9589bddbde253e65",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "From New Zealand bunkers to Switzerland's neutrality, Reddit maps out where to ride out WWIII",
+      "snippet": "Reddit users debated the safest countries to survive WWIII, and New Zealand emerged as the overwhelming favorite among dozens of responses..",
+      "link": "https://www.foxnews.com/outkick-culture/new-zealand-bunkers-switzerland-neutrality-reddit-maps-ride-wwiii",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T14:20:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2615,84 +2693,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-06T11:54:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43fd6b3d4efbc344",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Europe's crisis of discontent: Student and cost-of-living protests spread across EU",
-      "snippet": "A growing wave of discontent is sweeping across Europe. What began in France as student protests over deteriorating school conditions, teacher shortages and an education system under pressure has quickly grown into something much bigger: a ",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261106-europe-s-crisis-of-discontent-student-and-cost-of-living-protests-spread-across-eu",
-      "imageUrl": "https://s.france24.com/media/display/28d69d38-d922-11f1-bb94-d18c5759e759/w:1024/p:16x9/PHOTO-DEBAT-EN-2.png",
-      "publishedAt": "2026-11-06T11:48:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cb9843069824637f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Pennsylvania Midterm Election Results - AP News",
-      "snippet": "2026 Pennsylvania Midterm Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZWo3RGs2X3R5WEEtcl9aWmhrcWd0Z0wxWGJySWdEZ1NuODlKdUY3ZjZjUDBiSWFmVng4M3VXYnQwV2NORmwwejNCSkZ6QXBZbUNibFZ3dzk5clY3akRyT2JzZEFLdnBOSnlkLWhHYVlSdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T11:48:07.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3743e16b3fa31671",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "MATT CALKINS: After years of threats and intimidation, the bullies in the women's sports debate finally lost",
-      "snippet": "Riley Gaines and advocates faced years of harassment, but Initiative 638 and Prop 134 passed in deep-blue Washington and Colorado nonetheless.",
-      "link": "https://www.foxnews.com/outkick-sports/matt-calkins-years-threats-intimidation-bullies-womens-sports-debate-finally-lost",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T11:47:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bb48ea4a7a66e08",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Democrats planning flood of AI bills when they take control of Congress - Reuters",
-      "snippet": "Democrats planning flood of AI bills when they take control of Congress  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T11:45:13.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_815170faff58ffad",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "MLW's Killer Kross faces biggest challenge yet as he defends world title against Josh Bishop at major PPV",
-      "snippet": "Killer Kross says retaining his MLW World Heavyweight Championship against Josh Bishop at Saturday Night SuperFight comes down to toughness.",
-      "link": "https://www.foxnews.com/outkick-sports/mlw-killer-kross-faces-biggest-challenge-defends-world-title-against-josh-bishop-major-ppv",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T11:44:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f7898d7efe4c6599",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Israel's Eisenkot claims 'progress' in coalition talks as opposition eases on ultra-Orthodox draft",
-      "snippet": "Israeli opposition candidate Gadi Eisenkot said on Friday he was making \"significant progress\" in forming a government to oust Prime Minister Benjamin Netanyahu as one of his possible coalition partners walked back demands that ultra-Orthod",
-      "link": "https://www.france24.com/en/middle-east/20261106-israel-s-eisenkot-claims-significant-progress-in-coalition-talks-as-opposition-eases-on-ultra-orthodox-draft",
-      "imageUrl": "https://s.france24.com/media/display/9ff0f7b4-d9f0-11f1-85f8-695cb59fade5/w:1024/p:16x9/AP26300857503629.jpg",
-      "publishedAt": "2026-11-06T11:43:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
