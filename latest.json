@@ -1,102 +1,128 @@
 {
-  "updatedAt": "2026-11-06T11:05:07.741Z",
+  "updatedAt": "2026-11-06T11:10:09.187Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.169Z"
+      "lastSuccess": "2026-11-06T11:10:09.242Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.080Z"
+      "lastSuccess": "2026-11-06T11:10:09.275Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:07.943Z"
+      "lastSuccess": "2026-11-06T11:10:09.323Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:07.903Z"
+      "lastSuccess": "2026-11-06T11:10:09.281Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.018Z"
+      "lastSuccess": "2026-11-06T11:10:09.526Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:07.885Z"
+      "lastSuccess": "2026-11-06T11:10:09.405Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.347Z"
+      "lastSuccess": "2026-11-06T11:10:09.302Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:07.978Z"
+      "lastSuccess": "2026-11-06T11:10:09.363Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.196Z"
+      "lastSuccess": "2026-11-06T11:10:09.441Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.277Z"
+      "lastSuccess": "2026-11-06T11:10:09.474Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.282Z"
+      "lastSuccess": "2026-11-06T11:10:09.398Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.216Z"
+      "lastSuccess": "2026-11-06T11:10:09.337Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.338Z"
+      "lastSuccess": "2026-11-06T11:10:09.366Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.139Z"
+      "lastSuccess": "2026-11-06T11:10:09.458Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T11:05:08.366Z"
+      "lastErrorAt": "2026-11-06T11:10:09.448Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.381Z"
+      "lastSuccess": "2026-11-06T11:10:09.422Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.298Z"
+      "lastSuccess": "2026-11-06T11:10:09.344Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T11:05:08.400Z"
+      "lastErrorAt": "2026-11-06T11:10:09.523Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.399Z"
+      "lastSuccess": "2026-11-06T11:10:09.532Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.324Z"
+      "lastSuccess": "2026-11-06T11:10:09.382Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.479Z"
+      "lastSuccess": "2026-11-06T11:10:09.566Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.485Z"
+      "lastSuccess": "2026-11-06T11:10:09.598Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T11:05:08.604Z"
+      "lastSuccess": "2026-11-06T11:10:09.519Z"
     }
   },
   "items": [
+    {
+      "id": "story_c1c75838eb96b840",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Bus whose passengers included kids crashes in France, leaving 2 dead and 16 injured",
+      "snippet": "A bus crash in eastern France has killed one minor and one young adult",
+      "link": "https://abcnews.com/International/wireStory/bus-passengers-included-school-kids-crashes-france-leaving-137904168",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T11:05:11.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_199000203c24b749",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "LeBron James took a risk going to the 76ers this offseason. So far, it’s paying off.",
+      "snippet": "James, who switched teams for the fourth time in free agency over the summer, has helped lead the Philadelphia 76ers to the hottest start in the NBA.",
+      "link": "https://www.nbcnews.com/sports/nba/lebron-james-took-risk-going-76ers-offseason-far-s-paying-rcna607734",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T11:04:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_64ed6eacc6d90314",
       "source": "AP",
@@ -109,6 +135,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_53dd7b3ce6e8eeab",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘Everything is so out of whack’: UK trees experience spring six months early",
+      "snippet": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts\nTrees are experiencing an “early spring” because of mild UK temperatures this autumn, with experts warning this could cause long-term har",
+      "link": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T11:00:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_9b3da4c59356d604",
@@ -197,6 +236,58 @@
       "link": "https://www.washingtonexaminer.com/news/white-house/4794671/anti-abortion-activists-trump-democratic-congress/",
       "imageUrl": null,
       "publishedAt": "2026-11-06T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_614a5dc17269e160",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Vance takes GOP hits as DeSantis, Cruz emerge as early GOP winners for 2028",
+      "snippet": "The fight for the 2028 Republican primary is beginning to take shape on the heels of the GOP’s devastating midterm losses, with Vice President Vance facing criticism for blaming the losses on the Iran war and other big-name Republicans appe",
+      "link": "https://thehill.com/homenews/campaign/6202778-vance-trump-era-challenges/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GOP_110626_Parnes_CJ-GN-Adobe.png?w=900",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cf159e7282090aa4",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "House Republicans divided over how to move forward after brutal election losses",
+      "snippet": "House Republicans are divided over how to move forward after the party’s devastating election losses, with some calling for an overhaul of the current leadership team and others arguing that President Trump bears much of the blame. Speaker ",
+      "link": "https://thehill.com/homenews/house/6202785-house-republican-leadership-divide/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26034657030335-e1789573489146.jpg?w=900",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b74c49d182bd5d5f",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Gen Z men split from GOP in midterms, and broke hard for Democrats",
+      "snippet": "Tuesday was a big night for Democrats, and Gen Z was a big reason why. Young voters aged 18-29 broke hard for Democrats, including young men, who had been an important constituency for President Trump in 2024. The voters were also a big par",
+      "link": "https://thehill.com/homenews/campaign/6202692-gen-z-swung-midterm-results/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/TheFeed-110526_Editors_AP_JuliaDemareeNikhinson1.jpg?w=900",
+      "publishedAt": "2026-11-06T11:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e0613f91b7f729b4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "A Data Center Backlash in the Midterms, and Melania Trump’s Surprising Diplomatic Role",
+      "snippet": "Plus, the Friday news quiz.",
+      "link": "https://www.nytimes.com/2026/11/06/podcasts/the-headlines/data-center-backlash-midterms-melania-trump-diplomatic-role-ukraine.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T10:59:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2602,97 +2693,6 @@
       "link": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-06T04:54:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d6a5104893280290",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Trump issues proclamation declaring Oval Office national monument",
-      "snippet": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:48:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b739dcae1dc706cf",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-      "snippet": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder\n\nGet our daily political email, free app or daily news podcast\n\nThe Democrats’ stunning midterm victory sh",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:45:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_29d687b8abbc9bec",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump signs proclamation declaring Oval Office a national monument",
-      "snippet": "The action does not prevent future presidents from restyling the iconic office that President Trump has filled to the brim with gold flourishes, nor does it prevent a successor from rolling back the proclamation itself.",
-      "link": "https://www.cbsnews.com/news/trump-proclamation-oval-office-national-monument/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:41:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d75d7d1b6e77b2d5",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump could woo North Korea after midterm setback, but Kim may not respond - Reuters",
-      "snippet": "Trump could woo North Korea after midterm setback, but Kim may not respond  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkJyMVBWVHpWN0ZmV2dkTmd1Nng2djRzUFgyVmlCUDV6MWVjMzFVemZsN1BSS01tTDlCamxlUU11cUNwLXpaS2NSMnVtNGRtSTF1YVY4alJQTE1UNnIzTzNMY0xmRHpCS1JVVnNZZ1A5dHFyX2FkMXhza3BrYmNFMkpHRnYwejgtNzZJMXhMZzFnZDVuQzI3N25hRFRGYlI2ZG91N1NXUFhNQkpKU0tyaC1oN0F1WU14?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:40:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f0b6c5ae092ca9d5",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
-      "snippet": "A suspect trying to board an RTD bus near Denver opened fire on Lakewood police officers, killing one and wounding three others Thursday evening.",
-      "link": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:36:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2c336f293b2e3611",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China's Q3 emissions post biggest drop since pandemic as Hormuz crisis curbs fossil fuel use - Reuters",
-      "snippet": "China's Q3 emissions post biggest drop since pandemic as Hormuz crisis curbs fossil fuel use  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOek9mbzZtNDlzcFBXWjJQMnYtQUJvNHdkUkZTUzFHUDhvSVlaRy1xemJ0a3BhRlVlZDhKTkVrdzFqYTRBYUYxTFRGN1VRZ21uUS01VGlMOWRJUXVfWVZwamllNExNLW00U0dKWVhnQWNCY1lQWHp0cDRSQ1ZRSVFOR0hjR3gwYUpQX2owYVJYVDFqRmlBV05tWkpPRDE5OUphVjNzTDdSOHRoaXRwNDEzVXZjc3VCRWhlRGlxTWJtZnRZcjhMRE1nLXoxaw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:34:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f74a1d468e2428f9",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'Leaders all over the world understand that Trump is only there for two more years & then he's gone'",
-      "snippet": "In American politics, even presidential power has its limits. And now, the laws of political gravity may finally be catching up with Donald Trump's hyper-aggressive exercise of executive authority. Following what political scientist Ian Bre",
-      "link": "https://www.france24.com/en/leaders-all-over-the-world-understand-that-trump-is-only-there-for-two-more-years-then-he-s-gone",
-      "imageUrl": "https://s.france24.com/media/display/e5e866a6-d970-11f1-8121-695cb59fade5/w:1024/p:16x9/EN-20261105-182123-182823-CS.jpg",
-      "publishedAt": "2026-11-06T04:31:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
