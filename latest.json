@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-11-06T06:40:08.954Z",
+  "updatedAt": "2026-11-06T06:45:09.283Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.088Z"
+      "lastSuccess": "2026-11-06T06:45:09.418Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.200Z"
+      "lastSuccess": "2026-11-06T06:45:09.564Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.101Z"
+      "lastSuccess": "2026-11-06T06:45:09.345Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.221Z"
+      "lastSuccess": "2026-11-06T06:45:09.567Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.121Z"
+      "lastSuccess": "2026-11-06T06:45:09.457Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.162Z"
+      "lastSuccess": "2026-11-06T06:45:09.444Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.180Z"
+      "lastSuccess": "2026-11-06T06:45:09.559Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.270Z"
+      "lastSuccess": "2026-11-06T06:45:09.602Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.242Z"
+      "lastSuccess": "2026-11-06T06:45:09.538Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.124Z"
+      "lastSuccess": "2026-11-06T06:45:09.464Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.308Z"
+      "lastSuccess": "2026-11-06T06:45:09.640Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.296Z"
+      "lastSuccess": "2026-11-06T06:45:09.530Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.204Z"
+      "lastSuccess": "2026-11-06T06:45:09.621Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T06:40:09.356Z"
+      "lastErrorAt": "2026-11-06T06:45:09.651Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.383Z"
+      "lastSuccess": "2026-11-06T06:45:09.657Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.445Z"
+      "lastSuccess": "2026-11-06T06:45:09.686Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T06:40:09.222Z"
+      "lastErrorAt": "2026-11-06T06:45:09.723Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.261Z"
+      "lastSuccess": "2026-11-06T06:45:09.646Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.218Z"
+      "lastSuccess": "2026-11-06T06:45:09.580Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.439Z"
+      "lastSuccess": "2026-11-06T06:45:09.479Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.407Z"
+      "lastSuccess": "2026-11-06T06:45:09.694Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.349Z"
+      "lastSuccess": "2026-11-06T06:45:09.802Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T06:40:09.465Z"
+      "lastSuccess": "2026-11-06T06:45:09.714Z"
     }
   },
   "items": [
@@ -250,6 +250,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-06T05:37:00.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ec3ff24d830aa467",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
+      "snippet": "Wisconsin's health officials announced an infant's measles-associated death, marking the state's first in 36 years, amid 431 cases in 13 counties.",
+      "link": "https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T05:36:22.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2681,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-05T23:21:31.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36afcad70afef830",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Hegseth vows to keep fighting from Pentagon, defends Iran war - Reuters",
-      "snippet": "Hegseth vows to keep fighting from Pentagon, defends Iran war  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1JFX1RGSnZ0bDI2d1ZxN0JpSGpTN2NDT21RbEVMaXhyVGNfNDlHUkVsaU9pNGd1d1hzTjhFWmVxeGgzSmt5SDVEZHA2Q3RjUmVpaFdUSUVic3RBLTJNNms0U253VURJU3Uzdm5rSXRjMmtnSDRMbWhKaFA1R1dtRUZ0LUQxLTlieGhXUzA2QVVvU3BnRkhpLWJBekQzVm5YRVFzTzJxU2s?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T23:20:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
