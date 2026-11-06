@@ -1,102 +1,142 @@
 {
-  "updatedAt": "2026-11-06T13:40:09.386Z",
+  "updatedAt": "2026-11-06T13:45:09.333Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.440Z"
+      "lastSuccess": "2026-11-06T13:45:09.510Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.426Z"
+      "lastSuccess": "2026-11-06T13:45:09.402Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.455Z"
+      "lastSuccess": "2026-11-06T13:45:09.811Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.445Z"
+      "lastSuccess": "2026-11-06T13:45:09.576Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.508Z"
+      "lastSuccess": "2026-11-06T13:45:09.737Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.475Z"
+      "lastSuccess": "2026-11-06T13:45:09.689Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.969Z"
+      "lastSuccess": "2026-11-06T13:45:09.558Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.498Z"
+      "lastSuccess": "2026-11-06T13:45:09.656Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.490Z"
+      "lastSuccess": "2026-11-06T13:45:09.640Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.574Z"
+      "lastSuccess": "2026-11-06T13:45:09.734Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.504Z"
+      "lastSuccess": "2026-11-06T13:45:09.651Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.643Z"
+      "lastSuccess": "2026-11-06T13:45:09.601Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.546Z"
+      "lastSuccess": "2026-11-06T13:45:09.621Z"
     },
     "DW": {
-      "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.532Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-06T13:45:19.343Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T13:40:09.576Z"
+      "lastErrorAt": "2026-11-06T13:45:09.695Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.558Z"
+      "lastSuccess": "2026-11-06T13:45:09.680Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.469Z"
+      "lastSuccess": "2026-11-06T13:45:09.692Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T13:40:09.579Z"
+      "lastErrorAt": "2026-11-06T13:45:09.785Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.553Z"
+      "lastSuccess": "2026-11-06T13:45:09.827Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.519Z"
+      "lastSuccess": "2026-11-06T13:45:09.612Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.591Z"
+      "lastSuccess": "2026-11-06T13:45:09.879Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.680Z"
+      "lastSuccess": "2026-11-06T13:45:09.852Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T13:40:09.640Z"
+      "lastSuccess": "2026-11-06T13:45:09.782Z"
     }
   },
   "items": [
+    {
+      "id": "story_ff532df9371616aa",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US",
+      "snippet": "The first oil tankers scheduled to deliver Russian diesel to the US under a deal between President Donald Trump and his Russian counterpart Vladimir Putin have changed course and are no longer heading toward the US coast. It spells the end ",
+      "link": "https://www.france24.com/en/americas/20261106-trump-stillborn-diesel-deal-why-russian-oil-tankers-are-not-heading-to-the-us",
+      "imageUrl": "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png",
+      "publishedAt": "2026-11-06T13:38:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a86be4b1ff9ad16b",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "US economy added 165,000 jobs in October, beating expectations",
+      "snippet": "The U.S. economy added 165,000 jobs in October, according to new data from the Bureau of Labor Statistics (BLS).  The unemployment rate also decreased slightly to 4.1 percent, the BLS reported. Unemployment has been below 5 percent for more",
+      "link": "https://thehill.com/business/6201764-us-jobs-report-october/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26288460744333-e1793904220150.jpg?w=900",
+      "publishedAt": "2026-11-06T13:37:30.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_c1e6b7f67eab1323",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Employers added 165,000 jobs in October, soaring past expectations",
+      "snippet": "Hiring across the U.S. surged last month and unemployment dipped, a sign the job market is picking up speed.",
+      "link": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T13:37:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
     {
       "id": "story_573cbdbedcf7ac8f",
       "source": "CBS News",
@@ -122,6 +162,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_a335c489edd986f9",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "The U.S. added 165,000 jobs in October, a bright spot for the economy",
+      "snippet": "The economy added jobs in October, showing that a labor market which has troubled consumers for much of the year remained stable, but did not gain momentum.",
+      "link": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T13:33:54.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_f28a4f4ebd99fc1a",
@@ -212,6 +265,19 @@
       "publishedAt": "2026-11-06T13:26:00.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_45f2445e78b4f3e0",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Is Israel opposition figure Gadi Eisenkot going to replace Benjamin Netanyahu?",
+      "snippet": "In Israel, Gadi Eisenkot emerged on Thursday, November 5, as the frontrunner to be tasked with forming a government. This comes after one of the two main parties representing ultra-Orthodox Jewish voters – a longtime ally of Prime Minister ",
+      "link": "https://www.france24.com/en/video/20261106-is-israel-opposition-figure-gadi-eisenkot-going-to-replace-benjamin-netanyahu",
+      "imageUrl": "https://s.france24.com/media/display/ebb71fde-d9cd-11f1-a086-a575454bc579/w:1024/p:16x9/capture-04af7880.jpg",
+      "publishedAt": "2026-11-06T13:25:57.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -964,6 +1030,19 @@
       "link": "https://www.today.com/video/democrats-maintain-narrow-lead-in-mississippi-and-alaska-272991301706",
       "imageUrl": null,
       "publishedAt": "2026-11-06T12:14:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a54f52d0769bbde2",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Stocks Plunge Amid AI Fears and Political Uncertainty",
+      "snippet": "The S&P 500 and the NASDAQ had their worst day Thursday since April 2025, with tech stocks and companies tied to AI among the biggest losers. Investors say it’s all about the uncertainty over how a Democratically-controlled Congress will wo",
+      "link": "https://www.today.com/video/stocks-fall-after-post-election-rally-over-fears-of-ai-restrictions-272990277899",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T12:11:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2615,84 +2694,6 @@
       "link": "https://www.france24.com/en/video/20261106-netanyahu-rival-eisenkot-secures-broad-backing-in-bid-to-form-government",
       "imageUrl": "https://s.france24.com/media/display/ca4b03da-d9c6-11f1-9cf2-695cb59fade5/w:1024/p:16x9/capture-5edc64d1.jpg",
       "publishedAt": "2026-11-06T10:02:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4a341634cecdf894",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-      "snippet": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
-      "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T10:02:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2bb1dfe5f75ffff",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "What Democrats Can Do Now to Lower Costs",
-      "snippet": "Democrats have a chance to rewrite the rules of the economy. Here’s how.",
-      "link": "https://www.nytimes.com/2026/11/06/opinion/democrats-economy-affordability.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T10:02:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d03672f589c27d1a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "How A.I. Just Blew Up a Key Tenet of Computer Science",
-      "snippet": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies.",
-      "link": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T10:02:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c85f6f118607c325",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Like Trump, Netanyahu Finds the Limits to Fear-Mongering",
-      "snippet": "By leaning into nativist absolutism, Netanyahu almost doubled the Arab vote, creating a political — and foundational — crisis for Israel.",
-      "link": "https://www.nytimes.com/2026/11/06/magazine/trump-netanyahu-fear-elections.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T10:01:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a0151d7241fd0c1c",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Inside ICE's high-stakes raids targeting illegal migrants in NYC as chief rips sanctuary laws",
-      "snippet": "Fox News Digital embedded with ICE agents as they tracked down and arrested two migrants, one of whom resisted in a tense street confrontation in Brooklyn.",
-      "link": "https://www.foxnews.com/politics/inside-ice-high-stakes-raids-targeting-illegal-migrants-nyc-chief-rips-sanctuary-laws",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T10:00:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea4004292cad86e1",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
-      "snippet": "Texas business owner says he expected ICE raids to focus on those with criminal records not his relatives and employees\nTuesday night’s explosive rout of the Republican party was supercharged by the fury of Hispanic Americans who turned out",
-      "link": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T10:00:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
