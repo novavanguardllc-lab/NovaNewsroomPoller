@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-06T18:45:09.145Z",
+  "updatedAt": "2026-11-06T18:50:09.950Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.414Z"
+      "lastSuccess": "2026-11-06T18:50:10.267Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.278Z"
+      "lastSuccess": "2026-11-06T18:50:10.189Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.669Z"
+      "lastSuccess": "2026-11-06T18:50:10.429Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.306Z"
+      "lastSuccess": "2026-11-06T18:50:10.307Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.360Z"
+      "lastSuccess": "2026-11-06T18:50:10.289Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.358Z"
+      "lastSuccess": "2026-11-06T18:50:10.347Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.633Z"
+      "lastSuccess": "2026-11-06T18:50:10.131Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.329Z"
+      "lastSuccess": "2026-11-06T18:50:10.406Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.399Z"
+      "lastSuccess": "2026-11-06T18:50:10.371Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.439Z"
+      "lastSuccess": "2026-11-06T18:50:10.480Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.369Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-06T18:50:10.389Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.228Z"
+      "lastSuccess": "2026-11-06T18:50:10.523Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.488Z"
+      "lastSuccess": "2026-11-06T18:50:10.526Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.389Z"
+      "lastSuccess": "2026-11-06T18:50:10.568Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-11-06T18:45:19.186Z"
+      "lastErrorAt": "2026-11-06T18:50:20.025Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.514Z"
+      "lastSuccess": "2026-11-06T18:50:10.652Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.446Z"
+      "lastSuccess": "2026-11-06T18:50:10.400Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T18:45:09.468Z"
+      "lastErrorAt": "2026-11-06T18:50:10.792Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.467Z"
+      "lastSuccess": "2026-11-06T18:50:10.788Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.376Z"
+      "lastSuccess": "2026-11-06T18:50:10.627Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:11.684Z"
+      "lastSuccess": "2026-11-06T18:50:12.864Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.654Z"
+      "lastSuccess": "2026-11-06T18:50:10.813Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T18:45:09.607Z"
+      "lastSuccess": "2026-11-06T18:50:10.761Z"
     }
   },
   "items": [
+    {
+      "id": "story_b366f29490137473",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Ilse Aigner tipped by party allies as next German president",
+      "snippet": "German media reports suggest that Bavarian politician Ilse Aigner's chances of becoming the next president are on the up. Long favored by her Bavarian CSU, now it seems Christian Democrats nationwide plan to back her.",
+      "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T18:48:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_33b570601ee614a7",
       "source": "DW",
@@ -119,6 +133,19 @@
       "link": "https://thehill.com/homenews/administration/6204698-trump-backs-gruters-rnc-reelection/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/MixCollage-06-Nov-2026-01-37-PM-6216.jpg?w=900",
       "publishedAt": "2026-11-06T18:42:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1f75afdfba2b4795",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Susie Wiles, Trump’s Chief of Staff, Accused of Blocking Health Policies to Attract Donations",
+      "snippet": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
+      "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T18:42:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -644,6 +671,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_db81160f6b4cfceb",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "FanDuel Promo Code: Bet $5 for Four Days, Get $200 in Bonus Bets Guaranteed Starting With Tonight’s NBA Cup",
+      "snippet": "FanDuel gives new users $200 in bonus bets guaranteed for betting $5 a day for four days, starting with tonight’s nine-game NBA Cup slate.",
+      "link": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-four-days-get-200-bonus-bets-guaranteed-starting-tonights-nba-cup",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T17:44:49.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_6c30c0edf9a59249",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -667,6 +707,19 @@
       "publishedAt": "2026-11-06T17:43:26.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0087e68b6e70a109",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "BetMGM Bonus Code FOXNEWS Unlocks up to $1500 First Bet Cover for Your Favorite NBA Cup Game",
+      "snippet": "BetMGM bonus code FOXNEWS unlocks up to $1,500 in First Bet Cover for new users on any NBA Cup game Friday, including 76ers at Cavaliers and Thunder at Grizzlies.",
+      "link": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-unlocks-up-1500-first-bet-cover-your-favorite-nba-cup-game",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T17:42:58.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2644,58 +2697,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_6c47c19c5f582a5f",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Jay Rockefeller, former West Virginia governor and U.S. senator, dies at 89",
-      "snippet": "Rockefeller came from one of the nation's richest families to spend a half century in public service in one of the poorest states.",
-      "link": "https://www.pbs.org/newshour/politics/jay-rockefeller-former-west-virginia-governor-and-u-s-senator-dies-at-89",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T15:37:10.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_90746894d88fd33a",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Patriots star TreVeyon Henderson hospitalized after suffering 'unusual' and 'unexplainable' medical emergency",
-      "snippet": "New England Patriots running back TreVeyon Henderson revealed unexplained neurological symptoms left him hospitalized for several days, affecting his strength and coordination.",
-      "link": "https://www.foxnews.com/outkick-sports/patriots-star-treveyom-henderson-hospitalized-unusual-unexplainable-medical-emergency",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T15:36:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7a21dd53eebc3229",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Turkey to push for 'electrification' drive at COP31 as climate threats mount",
-      "snippet": "COP31 host Turkey is set to push for a \"electrification\" drive to help meet global elergy demand as the UN climate conference kicks off in Antalya on Monday. The annual summit takes place this year under the shadow of a cost-of-living crisi",
-      "link": "https://www.france24.com/en/environment/20261106-turkey-to-push-for-electrification-drive-at-cop31-as-climate-threats-mount",
-      "imageUrl": "https://s.france24.com/media/display/79a8343e-d9f3-11f1-ba9d-a575454bc579/w:1024/p:16x9/000-D6HQ8CQ.jpg",
-      "publishedAt": "2026-11-06T15:36:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0469aef7b7774b0e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
-      "snippet": "Released in 2023, the truck has become a symbol to some of opposition to Musk amid foray into US politics.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T15:35:57.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
