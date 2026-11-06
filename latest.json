@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-06T16:10:09.613Z",
+  "updatedAt": "2026-11-06T16:15:09.287Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.846Z"
+      "lastSuccess": "2026-11-06T16:15:09.479Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.733Z"
+      "lastSuccess": "2026-11-06T16:15:09.432Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.765Z"
+      "lastSuccess": "2026-11-06T16:15:09.799Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.849Z"
+      "lastSuccess": "2026-11-06T16:15:09.350Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.910Z"
+      "lastSuccess": "2026-11-06T16:15:09.609Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.785Z"
+      "lastSuccess": "2026-11-06T16:15:09.569Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:10.144Z"
+      "lastSuccess": "2026-11-06T16:15:10.066Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.925Z"
+      "lastSuccess": "2026-11-06T16:15:09.553Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.806Z"
+      "lastSuccess": "2026-11-06T16:15:09.591Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.958Z"
+      "lastSuccess": "2026-11-06T16:15:09.772Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.908Z"
+      "lastSuccess": "2026-11-06T16:15:09.529Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.883Z"
+      "lastSuccess": "2026-11-06T16:15:09.513Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.872Z"
+      "lastSuccess": "2026-11-06T16:15:09.612Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:10.034Z"
+      "lastSuccess": "2026-11-06T16:15:09.648Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T16:10:09.904Z"
+      "lastErrorAt": "2026-11-06T16:15:09.751Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.931Z"
+      "lastSuccess": "2026-11-06T16:15:09.597Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.904Z"
+      "lastSuccess": "2026-11-06T16:15:09.546Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T16:10:09.963Z"
+      "lastErrorAt": "2026-11-06T16:15:09.773Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.972Z"
+      "lastSuccess": "2026-11-06T16:15:09.778Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:09.890Z"
+      "lastSuccess": "2026-11-06T16:15:09.510Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:10.069Z"
+      "lastSuccess": "2026-11-06T16:15:09.919Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:10.130Z"
+      "lastSuccess": "2026-11-06T16:15:09.840Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:10:10.021Z"
+      "lastSuccess": "2026-11-06T16:15:09.747Z"
     }
   },
   "items": [
+    {
+      "id": "story_ede8e640f15f30e2",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Musk says Tesla will wind down Cybertruck production next year",
+      "snippet": "Tesla CEO Elon Musk said his electric vehicle company is pulling the plug on its fleet of Cybertruck vehicles in 2027 and pivoting to developing its fully autonomous robotaxi. “Tesla will be winding down production of the Cybertruck at Giga",
+      "link": "https://www.washingtonexaminer.com/news/business/4795281/musk-tesla-wind-down-cybertruck-production/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T16:13:19.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_7ca37abee0e59b89",
       "source": "UPI",
@@ -109,6 +122,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_0704bb46c53374d3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "You settled a debt for less than you owed. Here's what to expect when you file your taxes.",
+      "snippet": "Settling your debt can offer financial relief, but it may also create unexpected tax obligations.",
+      "link": "https://www.cbsnews.com/news/settled-debt-what-to-expect-when-filing-taxes/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T16:07:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_90242b7d9cc9edff",
@@ -171,6 +197,19 @@
       "link": "https://www.washingtonexaminer.com/sports/4795270/joe-concha-sophie-cunningham-fox-news-future/",
       "imageUrl": null,
       "publishedAt": "2026-11-06T16:03:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7a96c657c2c129dc",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Pope Leo XIV, who had cancer surgery just weeks ago, begins grueling South American tour",
+      "snippet": "Less than a month after Pope Leo XIV underwent cancer surgery, he set off on what the Vatican called a “homecoming” tour of South America.",
+      "link": "https://www.nbcnews.com/world/pope-leo-xiv/pope-leo-south-america-tour-cancer-surgery-argentina-uruguay-peru-rcna607828",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T16:02:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -252,6 +291,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_225501990d8ab8be",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns",
+      "snippet": "WASHINGTON — The Donald Trump appointee who headed the office running a so-called “grand conspiracy” investigation looking into federal law enforcement officials who were involved in prior investigations of Trump has resigned.",
+      "link": "https://www.nbcnews.com/politics/justice-department/trump-doj-appointee-led-grand-conspiracy-probe-trump-foes-resigns-rcna607839",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:59:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_75934d4f735cf510",
@@ -341,6 +393,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-06T15:45:47.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27dfeef58cde1c9f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says - Reuters",
+      "snippet": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1dZdi15b2M2dnJjdnlIVmFTclRLVE12aDlKQWdsWVJiWV9QcTd5NlNCby1YQUNSbGk4RmZ6X0ROMnJzcEoyVjh4dlhxXzd3aTU2T0otcEhWSzVYcmFPcEhkRDgycHl0bmUzZ3JfOW12ZmZnc1Z6VkZsb3VVdGVXd0hSc3pndThoY2FXUEp0MXJQVlVfaUFnT1FEX01DZkxQeWRGMEhrOEFmTTQxYkFFYVVOYzdjUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:45:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -471,6 +536,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-06T15:39:44.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b9e2544017b43f94",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump administration delays meeting of high-profile tech panel - Reuters",
+      "snippet": "Trump administration delays meeting of high-profile tech panel  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPODU5elZ2RThqaExmd0I1RzUxVUZ5cF9SaE9LdEdxU3UwLWhYZkZtU2J2QWt1ejJpZXlGZ21rWXdmMU1HSWg2RUlEeWs4NTFORU5SWXNLeDBkekVlNC1fRXBqdDRmd3FYVVNLOGJHYXBjNkVyQWNLVU84b2IxenhxeWpMRzNURjhUSVdpN2wzOE9WaGxXYTkzZ2pHbWFpVHpFNXZSVDBLbmtoNDV0MjMyei0xYlYtcG5hc09hY3JaZ1h6TVk?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:38:55.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2615,84 +2693,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-06T12:51:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_51a46eee3d0a3e99",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "LEE CARTER: Socialism means two wildly different things to Republicans and Democrats",
-      "snippet": "Gallup polling shows 65% of Democrats view socialism positively, but they're describing affordable healthcare and fairness, not the Soviet Union.",
-      "link": "https://www.foxnews.com/opinion/lee-carter-socialism-means-two-wildly-different-things-republicans-democrats",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:50:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ef4b518cd72d4d52",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "America does the right thing after exhausting every other option",
-      "snippet": "“In the end,” wrote Goethe, in the single most depressing line in European literature, “we are all King Lear.” President Donald Trump has been at it for longer than most, spending his second term raging impotently at domestic and foreign en",
-      "link": "https://www.washingtonexaminer.com/premium/4794783/america-does-the-right-thing-after-exhausting-every-other-option/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:50:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bfedfdf35b25d1f6",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Kenyan court sentences starvation cult leader to 200 years",
-      "snippet": "Paul Mackenzie and accomplices were convicted of murdering 190 children and one adult.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/kenyan-court-sentences-starvation-cult-leader-to-200-years?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:50:24.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_0512d91fc283e7f0",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Kenyan doomsday cult leader jailed for 200 years over 191 murders",
-      "snippet": "Cult leader Paul Mackenzie has been sentenced to a total of 200 years in prison for the murder of 190 children and one adult in the Shakahola Forest, on the Kenyan coast, between January 2021 and September 2023.",
-      "link": "https://news.sky.com/story/kenyan-doomsday-cult-leader-jailed-for-200-years-over-murder-of-191-people-13608808",
-      "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-paul-mackenzie-good-news-international_7398786.jpg?20261106075250",
-      "publishedAt": "2026-11-06T12:50:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_8ee2ca9dbb25deb2",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "The Red Wedding election",
-      "snippet": "It was a political bloodbath. Leading up to it, if you squinted, you could see a few paths for the incumbent party to mitigate some of the damage and minimize the impact of the awful fundamentals and historical trends approaching like a fre",
-      "link": "https://www.washingtonexaminer.com/premium/4792248/the-red-wedding-election/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:48:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79cfcadb5415c2b0",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-      "snippet": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result\nThe African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nels",
-      "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:48:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
