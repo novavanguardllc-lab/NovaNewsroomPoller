@@ -1,103 +1,141 @@
 {
-  "updatedAt": "2026-11-06T16:25:06.766Z",
+  "updatedAt": "2026-11-06T16:30:14.241Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.965Z"
+      "lastSuccess": "2026-11-06T16:30:14.304Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.828Z"
+      "lastSuccess": "2026-11-06T16:30:14.345Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:07.315Z"
+      "lastSuccess": "2026-11-06T16:30:14.329Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.832Z"
+      "lastSuccess": "2026-11-06T16:30:14.309Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.873Z"
+      "lastSuccess": "2026-11-06T16:30:14.370Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.871Z"
+      "lastSuccess": "2026-11-06T16:30:14.323Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.867Z"
+      "lastSuccess": "2026-11-06T16:30:14.351Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.885Z"
+      "lastSuccess": "2026-11-06T16:30:14.383Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.853Z"
+      "lastSuccess": "2026-11-06T16:30:14.391Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.923Z"
+      "lastSuccess": "2026-11-06T16:30:14.522Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "read ECONNRESET",
-      "lastErrorAt": "2026-11-06T16:25:12.975Z"
+      "online": true,
+      "lastSuccess": "2026-11-06T16:30:14.482Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.927Z"
+      "lastSuccess": "2026-11-06T16:30:14.354Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.984Z"
+      "lastSuccess": "2026-11-06T16:30:14.385Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.908Z"
+      "lastSuccess": "2026-11-06T16:30:14.409Z"
     },
     "Washington Post": {
       "online": false,
       "lastError": "Status code 502",
-      "lastErrorAt": "2026-11-06T16:25:06.943Z"
+      "lastErrorAt": "2026-11-06T16:30:14.403Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.989Z"
+      "lastSuccess": "2026-11-06T16:30:14.466Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.889Z"
+      "lastSuccess": "2026-11-06T16:30:14.362Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-06T16:25:06.965Z"
+      "lastErrorAt": "2026-11-06T16:30:14.527Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:07.002Z"
+      "lastSuccess": "2026-11-06T16:30:14.530Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:06.931Z"
+      "lastSuccess": "2026-11-06T16:30:14.368Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:07.234Z"
+      "lastSuccess": "2026-11-06T16:30:14.653Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:07.108Z"
+      "lastSuccess": "2026-11-06T16:30:14.625Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-06T16:25:07.088Z"
+      "lastSuccess": "2026-11-06T16:30:14.570Z"
     }
   },
   "items": [
+    {
+      "id": "story_b6c98d615302b40c",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida",
+      "snippet": "Thomas Markle Sr. moved to Florida after many years in the Philippines.",
+      "link": "https://abcnews.com/GMA/News/meghan-markles-father-thomas-markle-sr-arrested-fbi/story?id=137912305",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T16:28:50.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_fa3b6bb64c583af6",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
+      "snippet": "A week after a court ruled that Russia must be allowed to return to international ice hockey, the way forward remains unclear. Berlin is seeking a solution that will allow Germany to host next year's Word Championship.",
+      "link": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T16:28:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_da8edc880921e249",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "U.S. continues to generate jobs, yet inflation is eroding Americans' spending power",
+      "snippet": "U.S. employers created a surprising 165,000 new jobs last month, and the unemployment rate dipped to 4.1%.",
+      "link": "https://www.pbs.org/newshour/economy/u-s-continues-to-generate-jobs-yet-inflation-is-eroding-americans-spending-power",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T16:23:26.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5360330c95a65c47",
       "source": "The Hill",
@@ -810,6 +848,32 @@
       "imageUrl": null,
       "publishedAt": "2026-11-06T15:21:31.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9642be253d8128e9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "DOJ shake-up continues with head of national security division, US attorney in Miami resigning",
+      "snippet": "",
+      "link": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:21:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a7bb8a6e59cf0b50",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Lilly to sell obesity drugs directly on Hims & Hers site - Reuters",
+      "snippet": "Lilly to sell obesity drugs directly on Hims & Hers site  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakJ0R0VKODFoU09YcW1WRDVISTFsa3QzWk9hMWYyMHJYN0x6NmhvaTMtczJxaENnNE1STlhYOG1YRUU4UlN1dDl5Z0FlODVYc0J3a3hZTkR4MVlWYzNsc3RvWF9FM0JMVlpYQ2dTbU02QkV1aklrQmxueF9YUmxkenpwb0NDdEIzcGxpZElETTYyLVhJQWFjbE9qY3EwUE9oNDZz?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T15:19:19.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2629,71 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/op-eds/4794699/iran-war-gas-prices-trump-midterms/",
       "imageUrl": null,
       "publishedAt": "2026-11-06T13:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1fee5d027cf87aa9",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Democrats’ big blue wave will destroy the economy  ",
-      "snippet": "President Trump is right that the U.S. economy is the envy of the world. What a shame that Americans just voted to destroy it.   That is not an exaggeration. Granting such a sweeping victory to the Democratic Party, now in thrall to progres",
-      "link": "https://thehill.com/opinion/campaign/6202190-liberal-policies-threaten-growth/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26289702786648.jpg?w=900",
-      "publishedAt": "2026-11-06T13:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f365d26ed87354b9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "In 'Being Heumann,' Siân Heder and Ruth Madeley channel the spirit of a disability rights pioneer - AP News",
-      "snippet": "In 'Being Heumann,' Siân Heder and Ruth Madeley channel the spirit of a disability rights pioneer  AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTExvSk9xbHFIel9iTl9SYTFQdlFadkZCWC1rUFA3N2c2MndDTjJnY3VudmlveDFjbDB1R1UzN3lETHkzOXpMbHFpZUNRN2swZHRSTHJhNngyZWVHb1VFWTcwSUN5ZXZjYlVVTGpwTXdzY2FjVEJOYmQwMjlRay1mTHlCQTFPZG5qTTI5NU52a3h0QTh3NGRVMEtfZHA5UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T13:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a94b6beac0124671",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Schumer vows Senate Democrats would block any ‘right-winger’ Trump Supreme Court nominee",
-      "snippet": "Senate Democratic Leader Chuck Schumer (N.Y.) says Democrats would block any “right-winger” that President Trump attempts to appoint to the Supreme Court after they take control of the Senate, which could ramp up pressure on conservative Ju",
-      "link": "https://thehill.com/homenews/senate/6203353-chuck-schumer-donald-trump-supreme-court/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/schumerchuck_091526gn03_w.jpg?w=900",
-      "publishedAt": "2026-11-06T12:59:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3bae95004afd21aa",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "West Hollywood finds time to give legal benefits to throuples",
-      "snippet": "Californians are facing a litany of issues, from high taxes to unaffordable housing to gas prices. In West Hollywood, leaders have finally decided to deal with a major issue facing their residents: giving legal benefits to throuples. The We",
-      "link": "https://www.washingtonexaminer.com/premium/4793137/west-hollywood-give-legal-benefits-throuples/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:57:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_117e3ec399d6ea6f",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
-      "snippet": "Iran launches diplomatic offensive as US mulls resumption of war.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:57:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
