@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-07T01:15:09.763Z",
+  "updatedAt": "2026-11-07T01:20:08.903Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:09.930Z"
+      "lastSuccess": "2026-11-07T01:20:09.753Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:09.946Z"
+      "lastSuccess": "2026-11-07T01:20:09.068Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:09.904Z"
+      "lastSuccess": "2026-11-07T01:20:09.107Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.272Z"
+      "lastSuccess": "2026-11-07T01:20:09.470Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.204Z"
+      "lastSuccess": "2026-11-07T01:20:09.168Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:09.886Z"
+      "lastSuccess": "2026-11-07T01:20:09.423Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.045Z"
+      "lastSuccess": "2026-11-07T01:20:09.360Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.100Z"
+      "lastSuccess": "2026-11-07T01:20:09.100Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.046Z"
+      "lastSuccess": "2026-11-07T01:20:09.125Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.052Z"
+      "lastSuccess": "2026-11-07T01:20:09.428Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:09.974Z"
+      "lastSuccess": "2026-11-07T01:20:09.265Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.087Z"
+      "lastSuccess": "2026-11-07T01:20:09.440Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.083Z"
+      "lastSuccess": "2026-11-07T01:20:09.286Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.148Z"
+      "lastSuccess": "2026-11-07T01:20:09.568Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-07T01:15:10.106Z"
+      "lastErrorAt": "2026-11-07T01:20:09.758Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.451Z"
+      "lastSuccess": "2026-11-07T01:20:09.511Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:09.985Z"
+      "lastSuccess": "2026-11-07T01:20:09.282Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.070Z"
+      "lastSuccess": "2026-11-07T01:20:09.220Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.195Z"
+      "lastSuccess": "2026-11-07T01:20:09.729Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.041Z"
+      "lastSuccess": "2026-11-07T01:20:09.330Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.394Z"
+      "lastSuccess": "2026-11-07T01:20:09.720Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:11.897Z"
+      "lastSuccess": "2026-11-07T01:20:10.018Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-07T01:15:10.054Z"
+      "lastSuccess": "2026-11-07T01:20:09.482Z"
     }
   },
   "items": [
+    {
+      "id": "story_f815daeabdf9ea0a",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Secret Service finds man parked near White House with multiple firearms: Authorities",
+      "snippet": "The suspect, Ronny Guanipa-Chrinos, allegedly made threats to kill President Donald Trump, according to DHS.",
+      "link": "https://abcnews.com/US/man-arrested-after-secret-service-finds-parked-white/story?id=137930505",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T01:11:05.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_325e133d4c4b0f50",
       "source": "Guardian",
@@ -2681,19 +2694,6 @@
       "publishedAt": "2026-11-06T19:49:25.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a7857c0fe86377e0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Seahawks quarterback Drew Lock uses interesting analogy to explain how he knew Sam Darnold was hurt",
-      "snippet": "Drew Lock hilariously explained how he instantly knew Sam Darnord was hurt during the Seattle Seahawks' loss to the Chicago Bears on Monday night.",
-      "link": "https://www.foxnews.com/outkick-sports/seahawks-quarterback-drew-lock-interesting-analogy-explain-sam-darnold-hurt",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T19:48:34.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
