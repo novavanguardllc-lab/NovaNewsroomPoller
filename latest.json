@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-07T16:10:09.696Z",
+  "updatedAt": "2026-11-07T16:15:09.461Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.898Z"
+      "lastSuccess": "2026-11-07T16:15:09.690Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.274Z"
+      "lastSuccess": "2026-11-07T16:15:09.599Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.863Z"
+      "lastSuccess": "2026-11-07T16:15:09.617Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.806Z"
+      "lastSuccess": "2026-11-07T16:15:09.648Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.821Z"
+      "lastSuccess": "2026-11-07T16:15:09.539Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.840Z"
+      "lastSuccess": "2026-11-07T16:15:09.509Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.922Z"
+      "lastSuccess": "2026-11-07T16:15:09.701Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.029Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-07T16:15:09.525Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.048Z"
+      "lastSuccess": "2026-11-07T16:15:09.523Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.015Z"
+      "lastSuccess": "2026-11-07T16:15:09.562Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:09.983Z"
+      "lastSuccess": "2026-11-07T16:15:09.738Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.154Z"
+      "lastSuccess": "2026-11-07T16:15:09.663Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.006Z"
+      "lastSuccess": "2026-11-07T16:15:09.721Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.030Z"
+      "lastSuccess": "2026-11-07T16:15:09.603Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.045Z"
+      "lastSuccess": "2026-11-07T16:15:09.705Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.051Z"
+      "lastSuccess": "2026-11-07T16:15:09.802Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.025Z"
+      "lastSuccess": "2026-11-07T16:15:09.808Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.042Z"
+      "lastSuccess": "2026-11-07T16:15:09.800Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.261Z"
+      "lastSuccess": "2026-11-07T16:15:09.906Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.058Z"
+      "lastSuccess": "2026-11-07T16:15:09.780Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-07T16:10:10.052Z"
+      "lastErrorAt": "2026-11-07T16:15:09.800Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.113Z"
+      "lastSuccess": "2026-11-07T16:15:09.912Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-07T16:10:10.098Z"
+      "lastSuccess": "2026-11-07T16:15:09.858Z"
     }
   },
   "items": [
@@ -118,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4796455/peltola-sue-access-block-alaska-absentee-ballot/",
       "imageUrl": null,
       "publishedAt": "2026-11-07T16:05:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a22e64454523635f",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "2026 Rockefeller Center Christmas Tree Arrives in New York City",
+      "snippet": "A magnificent Norway spruce has made its journey from West Edmeston, New York, to Rockefeller Center. The tree will undergo a glow-up ahead of the lighting ceremony on Dec. 2.",
+      "link": "https://www.today.com/video/2026-rockefeller-center-christmas-tree-arrives-in-new-york-city-273069125683",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T16:04:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -261,6 +275,19 @@
       "link": "https://www.cbsnews.com/video/pope-leo-travels-to-latin-america-just-weeks-after-lung-cancer-surgery/",
       "imageUrl": null,
       "publishedAt": "2026-11-07T15:50:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bf01b80e149504d0",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Carson Daly Makes Debut as Saturday TODAY Co-Anchor",
+      "snippet": "TODAY’s Carson Daly celebrates his first day as permanent co-anchor of Saturday TODAY alongside Laura Jarrett. Daly will continue his weekday TODAY duties and serving as host and executive producer of “The Voice.”",
+      "link": "https://www.today.com/video/carson-daly-makes-debut-as-saturday-today-co-anchor-273068101935",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T15:41:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2666,32 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-07T10:17:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c55b613b6b0fed0f",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " A year after release from Israeli prison, a Gaza nurse says he's waiting to feel free",
-      "snippet": "Wissam Hassan al-Sakani was detained during an Israeli raid on Kamal Adwan Hospital, held for 11 months without charge and eventually released under a ceasefire deal.",
-      "link": "https://abcnews.com/International/year-after-release-israeli-prison-gaza-nurse-waiting/story?id=137908560",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T10:17:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_baca6cd715427620",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "An election night of firsts, and a soccer legend steps off the international stage: The news quiz",
-      "snippet": "Bob Dylan meets the pope, a Republican plan backfires, and the Met Gala unveils its 2027 theme (again).",
-      "link": "https://www.nbcnews.com/news/news-quiz/midterm-election-firsts-news-quiz-rcna607716",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T10:15:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
