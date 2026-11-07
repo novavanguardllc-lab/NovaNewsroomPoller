@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-07T14:25:07.080Z",
+  "updatedAt": "2026-11-07T14:30:12.801Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.304Z"
+      "lastSuccess": "2026-11-07T14:30:13.050Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.323Z"
+      "lastSuccess": "2026-11-07T14:30:13.022Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.261Z"
+      "lastSuccess": "2026-11-07T14:30:12.995Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.222Z"
+      "lastSuccess": "2026-11-07T14:30:12.927Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.241Z"
+      "lastSuccess": "2026-11-07T14:30:12.968Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.163Z"
+      "lastSuccess": "2026-11-07T14:30:12.883Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.411Z"
+      "lastSuccess": "2026-11-07T14:30:12.952Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.418Z"
+      "lastSuccess": "2026-11-07T14:30:13.008Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.414Z"
+      "lastSuccess": "2026-11-07T14:30:13.131Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.331Z"
+      "lastSuccess": "2026-11-07T14:30:13.004Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.390Z"
+      "lastSuccess": "2026-11-07T14:30:13.150Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.349Z"
+      "lastSuccess": "2026-11-07T14:30:12.989Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.373Z"
+      "lastSuccess": "2026-11-07T14:30:13.091Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.403Z"
+      "lastSuccess": "2026-11-07T14:30:13.065Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.436Z"
+      "lastSuccess": "2026-11-07T14:30:13.129Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.455Z"
+      "lastSuccess": "2026-11-07T14:30:13.124Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.427Z"
+      "lastSuccess": "2026-11-07T14:30:13.126Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.441Z"
+      "lastSuccess": "2026-11-07T14:30:13.159Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.639Z"
+      "lastSuccess": "2026-11-07T14:30:13.285Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.450Z"
+      "lastSuccess": "2026-11-07T14:30:13.207Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-07T14:25:07.441Z"
+      "lastErrorAt": "2026-11-07T14:30:13.186Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.523Z"
+      "lastSuccess": "2026-11-07T14:30:13.221Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-07T14:25:07.484Z"
+      "lastSuccess": "2026-11-07T14:30:13.232Z"
     }
   },
   "items": [
@@ -118,6 +118,19 @@
       "link": "https://www.cbsnews.com/news/zelenskyy-russia-attacks-us-talks/",
       "imageUrl": null,
       "publishedAt": "2026-11-07T14:20:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_63bf06c32ec30cd9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "11-night Caribbean cruise abruptly canceled after Coast Guard detains ship",
+      "snippet": "After the U.S. Coast Guard identified significant deficiencies, the MSC Poesia was detained in Miami, stranding over 2,000 cruise passengers. An attorney weighed in.",
+      "link": "https://www.foxnews.com/travel/11-night-caribbean-cruise-abruptly-canceled-coast-guard-detains-ship",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T14:16:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2682,19 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_18d6cd6b5da6bf15",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Early count in New Zealand’s election suggests result too close to call - AP News",
-      "snippet": "Early count in New Zealand’s election suggests result too close to call  AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T08:21:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
