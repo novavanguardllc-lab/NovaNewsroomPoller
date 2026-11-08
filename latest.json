@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-08T13:55:07.791Z",
+  "updatedAt": "2026-11-08T14:00:17.764Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.002Z"
+      "lastSuccess": "2026-11-08T14:00:17.991Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.042Z"
+      "lastSuccess": "2026-11-08T14:00:18.018Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:07.972Z"
+      "lastSuccess": "2026-11-08T14:00:17.866Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:07.882Z"
+      "lastSuccess": "2026-11-08T14:00:17.960Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.005Z"
+      "lastSuccess": "2026-11-08T14:00:18.022Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.033Z"
+      "lastSuccess": "2026-11-08T14:00:18.085Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:07.948Z"
+      "lastSuccess": "2026-11-08T14:00:18.067Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.104Z"
+      "lastSuccess": "2026-11-08T14:00:18.143Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.129Z"
+      "lastSuccess": "2026-11-08T14:00:18.148Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.144Z"
+      "lastSuccess": "2026-11-08T14:00:18.189Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.174Z"
+      "lastSuccess": "2026-11-08T14:00:18.203Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.062Z"
+      "lastSuccess": "2026-11-08T14:00:18.152Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:07.888Z"
+      "lastSuccess": "2026-11-08T14:00:18.179Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.163Z"
+      "lastSuccess": "2026-11-08T14:00:18.162Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.059Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-08T14:00:18.086Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.117Z"
+      "lastSuccess": "2026-11-08T14:00:18.042Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.158Z"
+      "lastSuccess": "2026-11-08T14:00:18.256Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.263Z"
+      "lastSuccess": "2026-11-08T14:00:18.531Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.172Z"
+      "lastSuccess": "2026-11-08T14:00:18.222Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-08T13:55:08.144Z"
+      "lastErrorAt": "2026-11-08T14:00:18.204Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.182Z"
+      "lastSuccess": "2026-11-08T14:00:18.281Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.199Z"
+      "lastSuccess": "2026-11-08T14:00:20.714Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:55:08.338Z"
+      "lastSuccess": "2026-11-08T14:00:18.371Z"
     }
   },
   "items": [
+    {
+      "id": "story_fbd7ac4179ac763b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Sen.-elect Adam Hamilton says he’d be ‘deeply disappointed’ if Democrats spent two years investigating Trump",
+      "snippet": "Sen.-elect Adam Hamilton said that he hopes to prioritize lowering costs and that he would be “deeply disappointed” to spend two years investigating Trump.",
+      "link": "https://www.nbcnews.com/politics/congress/sen-adam-hamilton-disappointed-democrats-trump-investigations-schumer-rcna608088",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:55:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d2684ee318acc89e",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Talarico makes ‘Saturday Night Live’ appearance after Texas win",
+      "snippet": "Sen.-elect James Talarico (D-Texas) made an appearance on “Saturday Night Live” (SNL) over the weekend following his historic win in the Lone Star State in Tuesday’s elections. The sketch — called the “Post-Midterm Cold Open” — featured two",
+      "link": "https://thehill.com/blogs/in-the-know/6206531-talarico-makes-saturday-night-live-appearance/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Texas_Rego_Getty-AAS_MikalaCompton.jpg?w=900",
+      "publishedAt": "2026-11-08T13:55:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e118e0a79b9e6aa1",
       "source": "DW",
@@ -119,6 +146,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-08T13:46:15.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_840b13a6791d8314",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Gulf War veteran left homeless after heart surgery details how he rebuilt his life from 'square one'",
+      "snippet": "Gulf War veteran Thomas Garrett Jr. shares his fight to rebuild his life after heart surgery as Fox Corporation and U.S.VETS partner on the \"Make Camo Your Cause\" campaign.",
+      "link": "https://www.foxnews.com/media/gulf-war-veteran-left-homeless-after-heart-surgery-details-how-he-rebuilt-his-life-from-square-one",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:46:02.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -223,6 +263,32 @@
       "imageUrl": null,
       "publishedAt": "2026-11-08T13:24:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e52927315d442c94",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Poker - AP News",
+      "snippet": "Poker  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5oT25SNzV4ckEtY2dzaFlZV2FkRER6eTh5UTVpc3VnUXVsUml5U0xORTBVNjU3cUhYWG1aZllkdHc4dw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:23:19.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_63a912df6f4e7567",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump lawsuits - AP News",
+      "snippet": "Trump lawsuits  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fUnNRWEZzMy1LU2hpcHJ1bkg3cExpVjZVTzVfUTBrT0Zya0lfSGx0U1RmcnpNYzBWTUk2LTE4ZkNWU0NfY3YwNjVmMG1SUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:21:58.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -682,6 +748,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b1ebb709d746c5fb",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Notre Dame Fighting Irish - AP News",
+      "snippet": "Notre Dame Fighting Irish  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Nl92THo3eERzdzFmb282YWFJVnpCTTAydGItWDhuU0NGNWlyYnlZZWMwMUN6LVFWWDhoYi05a2hDQlJMWVRreTlpNWNDZVFRY2lJc1Y5bUtKXzI2?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T12:37:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_6a3de20b1ab86360",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -833,6 +912,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzJFYTNKSXZzLVZvd0ZoTzZDQnloQ1pKZ3Z1MXNqeTA3M0ZTTFlzb3VKLTZ4MHM3S1Z6Q1hHYUw4bDhqZlJXZWtveE1GS29US0R3OS1sQ1BqYy02dDNJRzRsSWdMN2wzU21GWkNYdEhWTk1ESXRRZ2FWeFRCRVB0cDl5ejZ2OGF1NU1GY1FrQlRnekllOWtlc0ZydEFjVHlzeHZYdHNGNUJvTEs0OUI1cQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-08T12:19:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_98fca34009ac791a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "ERIC OLSON - AP News",
+      "snippet": "ERIC OLSON  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsVG9FVHFzYmVJR2NINklqSm1aOGhMdjdMTWpCbHRFVUpWYmdkbVZtUVF5bVJ5SXUwbGhickNleXhrRTJNY3duWjlUcFQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T12:16:16.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1202,6 +1294,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_bf7af1948bf3782a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "2026 Midterm Election Results: Senate, House and Governor Races - AP News",
+      "snippet": "2026 Midterm Election Results: Senate, House and Governor Races  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9EUEZoM3MzbXBaSnZQREppaHRmbDRQWnNQbUdhNFVqNi1qdHUtT01SWHJKTnE0MDU1aHE1dWhya1BWbGg0NWxJRzF1aktwbjVFVUpEaC1R?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T11:45:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_525e304aa1c39cf0",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -1533,6 +1638,19 @@
       "headline": "Baseball - AP News",
       "snippet": "Baseball  AP News",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1zNldiT1p2dkhWMnhBcGJxUkZ6bXVZaTVOckNJX1ZZbE1rNUd1VkFLek9fS216ck84NVpYdXJ6emJpQ1ZHQ2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T11:03:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c3a9a2a53048e18c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Pennsylvania - AP News",
+      "snippet": "Pennsylvania  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nU3JHYlhneGNzeDhTQWVwd0ZlRFVkVDFYb0ZhRmpKcUw1Mi1LZWs1c2VzN0cxMC0tTVlqSVNwb18xMHNZTV84WjZpQQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-08T11:03:48.000Z",
       "tier": "major",
@@ -2578,123 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_09762752c149b33e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "As AI data centres guzzle energy, can we harness their wasted heat?",
-      "snippet": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
-      "link": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T08:17:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b81f665762d5e338",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns - AP News",
-      "snippet": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZy1KSXNvR1dGeEJmdHRLLUNyanRpWlFMR3JKVlhQR3AyMU83Vkp1bTk0Y2tXUUhEVHdIUzZpQ2o5RmVzclR3S1QtVjlacmthZlQ0OUFyTTRzbl9Nb3JpMlFreTFPdzVoRlRNeDZNMlRBODVieTBXbU9vSTNSN1VvT2lNNjVfcXBaMmpTaTJtS2Q?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T08:06:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f22d837c2d1d7f6e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-      "snippet": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to\n“It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior ",
-      "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T08:00:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ae36fa156211797a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’",
-      "snippet": "Event regarded as Oscars of fashion industry replaces John Galliano retrospective with homage to the ‘extra ordinary’\nA few months after the planned John Galliano Met Gala retrospective was cancelled amid a backlash focused on the designer’",
-      "link": "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T08:00:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_60c37a136312b0ac",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
-      "snippet": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales\n\nWhite-tailed eagles reintroduced into England and Wales imperil endangered seabird populations and risk wiping out some colonies",
-      "link": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T08:00:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2869f325903fc5b8",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "India: Delhi chokes on most polluted Diwali eve in 10 years",
-      "snippet": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days. DW has more.",
-      "link": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T07:53:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_00485656fad72f94",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-      "snippet": "Saudi Arabia's Energy Ministry says building in the capital was damaged by falling shrapnel.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T07:40:07.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_b2ae056f78b42209",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "College Basketball News: Rankings, Scores, Stats & More - AP News",
-      "snippet": "College Basketball News: Rankings, Scores, Stats & More  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55MXM5MlpRTTFlUTBkcGw2VnpuTERsQWdubVBLNDBiNmNveU5WVE1VU2hFbXhpZWpDSlh5Ujllb0tnazQwRnAzc3BQWHBhcXRDanRJ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T07:39:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b8092eeb96f1481",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "snippet": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T07:35:29.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
