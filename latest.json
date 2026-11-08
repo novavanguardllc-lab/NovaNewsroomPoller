@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-08T13:40:09.638Z",
+  "updatedAt": "2026-11-08T13:45:09.859Z",
   "sourceStatus": {
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.831Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-08T13:45:10.120Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.887Z"
+      "lastSuccess": "2026-11-08T13:45:10.048Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.955Z"
+      "lastSuccess": "2026-11-08T13:45:10.024Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.058Z"
+      "lastSuccess": "2026-11-08T13:45:10.287Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.837Z"
+      "lastSuccess": "2026-11-08T13:45:09.945Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.813Z"
+      "lastSuccess": "2026-11-08T13:45:09.985Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.171Z"
+      "lastSuccess": "2026-11-08T13:45:10.359Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.750Z"
+      "lastSuccess": "2026-11-08T13:45:10.005Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.928Z"
+      "lastSuccess": "2026-11-08T13:45:10.092Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.003Z"
+      "lastSuccess": "2026-11-08T13:45:10.191Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.851Z"
+      "lastSuccess": "2026-11-08T13:45:10.146Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.967Z"
+      "lastSuccess": "2026-11-08T13:45:10.211Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.976Z"
+      "lastSuccess": "2026-11-08T13:45:10.153Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.012Z"
+      "lastSuccess": "2026-11-08T13:45:10.170Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:09.858Z"
+      "lastSuccess": "2026-11-08T13:45:10.195Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-08T13:40:10.030Z"
+      "lastErrorAt": "2026-11-08T13:45:10.208Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.045Z"
+      "lastSuccess": "2026-11-08T13:45:10.223Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.024Z"
+      "lastSuccess": "2026-11-08T13:45:10.214Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.040Z"
+      "lastSuccess": "2026-11-08T13:45:10.114Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.021Z"
+      "lastSuccess": "2026-11-08T13:45:10.200Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.149Z"
+      "lastSuccess": "2026-11-08T13:45:10.232Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.102Z"
+      "lastSuccess": "2026-11-08T13:45:10.278Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-08T13:40:10.273Z"
+      "lastSuccess": "2026-11-08T13:45:10.344Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://thehill.com/homenews/administration/6206264-live-trump-60-minutes-congress-midterms/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26311039691200-e1794090085929.jpg?w=900",
       "publishedAt": "2026-11-08T13:35:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_42939d3dc97103b7",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK spent £100m on zombie Brexit border inspection posts",
+      "snippet": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods\nThe UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection posts that were never us",
+      "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:32:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2680,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-08T07:35:38.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b8092eeb96f1481",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "snippet": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T07:35:29.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
