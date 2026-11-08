@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-08T17:50:09.928Z",
+  "updatedAt": "2026-11-08T17:55:07.612Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.137Z"
+      "lastSuccess": "2026-11-08T17:55:07.793Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.110Z"
+      "lastSuccess": "2026-11-08T17:55:07.834Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.213Z"
+      "lastSuccess": "2026-11-08T17:55:07.722Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.296Z"
+      "lastSuccess": "2026-11-08T17:55:07.778Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.127Z"
+      "lastSuccess": "2026-11-08T17:55:07.799Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.373Z"
+      "lastSuccess": "2026-11-08T17:55:07.850Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.421Z"
+      "lastSuccess": "2026-11-08T17:55:07.874Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.494Z"
+      "lastSuccess": "2026-11-08T17:55:07.929Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.576Z"
+      "lastSuccess": "2026-11-08T17:55:07.998Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.637Z"
+      "lastSuccess": "2026-11-08T17:55:08.059Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.651Z"
+      "lastSuccess": "2026-11-08T17:55:07.973Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.513Z"
+      "lastSuccess": "2026-11-08T17:55:07.959Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.505Z"
+      "lastSuccess": "2026-11-08T17:55:08.035Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.596Z"
+      "lastSuccess": "2026-11-08T17:55:08.038Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.155Z"
+      "lastSuccess": "2026-11-08T17:55:08.052Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.350Z"
+      "lastSuccess": "2026-11-08T17:55:07.894Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.559Z"
+      "online": false,
+      "lastError": "Status code 503",
+      "lastErrorAt": "2026-11-08T17:55:07.932Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.616Z"
+      "lastSuccess": "2026-11-08T17:55:08.468Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.687Z"
+      "lastSuccess": "2026-11-08T17:55:08.072Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-08T17:50:10.670Z"
+      "lastErrorAt": "2026-11-08T17:55:08.065Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.733Z"
+      "lastSuccess": "2026-11-08T17:55:08.156Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:10.766Z"
+      "lastSuccess": "2026-11-08T17:55:10.068Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-08T17:50:11.027Z"
+      "lastSuccess": "2026-11-08T17:55:08.113Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-08T17:46:31.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4ce2acb328fdd784",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
+      "snippet": "Physiotherapy services hit particularly hard compared with other areas of healthcare such as nursing\nAlmost half of the NHS trusts in England have no earmarked funding to cover staff on maternity leave, according to analysis that raises fre",
+      "link": "https://www.theguardian.com/society/2026/nov/08/half-of-nhs-trusts-in-england-lack-funds-earmarked-to-cover-maternity-leave",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T17:42:39.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2679,19 +2693,6 @@
       "link": "https://www.foxnews.com/outkick-betting/chicago-bears-favored-six-tampa-bay-buccaneers-keep-division-hopes-alive",
       "imageUrl": null,
       "publishedAt": "2026-11-08T13:11:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6ca4d9b155095123",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "ICE unlikely to scale back crackdown, sources say, citing Stephen Miller",
-      "snippet": "The Trump administration is unlikely to scale back its aggressive crackdown on illegal immigration following the results of the midterm elections, multiple U.S. officials told CBS News, citing the elevation of Stephen Miller as White House ",
-      "link": "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T13:10:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
