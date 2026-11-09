@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-09T17:50:10.216Z",
+  "updatedAt": "2026-11-09T17:55:06.924Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.278Z"
+      "lastSuccess": "2026-11-09T17:55:07.127Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.259Z"
+      "lastSuccess": "2026-11-09T17:55:07.049Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.288Z"
+      "lastSuccess": "2026-11-09T17:55:07.092Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.744Z"
+      "lastSuccess": "2026-11-09T17:55:07.443Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.293Z"
+      "lastSuccess": "2026-11-09T17:55:07.087Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.289Z"
+      "lastSuccess": "2026-11-09T17:55:07.149Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.365Z"
+      "lastSuccess": "2026-11-09T17:55:07.292Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.334Z"
+      "lastSuccess": "2026-11-09T17:55:07.209Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.323Z"
+      "lastSuccess": "2026-11-09T17:55:07.203Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.351Z"
+      "lastSuccess": "2026-11-09T17:55:07.186Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.343Z"
+      "lastSuccess": "2026-11-09T17:55:07.331Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.332Z"
+      "lastSuccess": "2026-11-09T17:55:07.145Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.297Z"
+      "lastSuccess": "2026-11-09T17:55:07.338Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.403Z"
+      "lastSuccess": "2026-11-09T17:55:07.425Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.372Z"
+      "lastSuccess": "2026-11-09T17:55:07.343Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.327Z"
+      "lastSuccess": "2026-11-09T17:55:07.332Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.329Z"
+      "lastSuccess": "2026-11-09T17:55:07.334Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.320Z"
+      "lastSuccess": "2026-11-09T17:55:07.248Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T17:50:10.405Z"
+      "lastErrorAt": "2026-11-09T17:55:07.350Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.411Z"
+      "lastSuccess": "2026-11-09T17:55:07.369Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.485Z"
+      "lastSuccess": "2026-11-09T17:55:07.433Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.470Z"
+      "lastSuccess": "2026-11-09T17:55:07.386Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:50:10.793Z"
+      "lastSuccess": "2026-11-09T17:55:07.361Z"
     }
   },
   "items": [
@@ -274,6 +274,19 @@
       "link": "https://www.foxnews.com/politics/former-gop-governor-heads-capitol-hill-before-election-count-complete-already-work",
       "imageUrl": null,
       "publishedAt": "2026-11-09T17:15:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_45bbd2bcb05fefb1",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What Is Congress’s Plan to Speed Up Energy Permits?",
+      "snippet": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.",
+      "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T17:14:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2682,19 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 15
-    },
-    {
-      "id": "story_3702d6f6bb0bb45a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Tech set to still sway US stock market's course despite AI-driven swoon - Reuters",
-      "snippet": "Tech set to still sway US stock market's course despite AI-driven swoon  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOXdISHo5SVE3RnA1bXZ4V05tYlAzSk5ZcUgwRUpycnVmOHlPeHQwbURpeHF2am5xQjU3ZVhMY0tweVVndXNjMUVpQUdCcXEyZlg5a1ZFVW9TNkkxdGJLaGllT3ZiM3pqLUxYVnRaNDVWZG1USmItMlJkU0pnc3Z0U2Zwd0l3UnowbDQ0UVN5cEJDQU9nS3FxbDFEc2RJRjV3NkpSeEdUNDEwWXJIUkVwR2ZB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:44:36.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
