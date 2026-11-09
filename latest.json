@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-09T17:00:17.855Z",
+  "updatedAt": "2026-11-09T17:05:06.842Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.004Z"
+      "lastSuccess": "2026-11-09T17:05:06.944Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:17.965Z"
+      "lastSuccess": "2026-11-09T17:05:06.975Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.062Z"
+      "lastSuccess": "2026-11-09T17:05:06.996Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.048Z"
+      "lastSuccess": "2026-11-09T17:05:06.894Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.026Z"
+      "lastSuccess": "2026-11-09T17:05:07.046Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.021Z"
+      "lastSuccess": "2026-11-09T17:05:07.182Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.188Z"
+      "lastSuccess": "2026-11-09T17:05:07.091Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.085Z"
+      "lastSuccess": "2026-11-09T17:05:07.040Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.075Z"
+      "lastSuccess": "2026-11-09T17:05:07.011Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.124Z"
+      "online": false,
+      "lastError": "Status code 406",
+      "lastErrorAt": "2026-11-09T17:05:07.040Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.105Z"
+      "lastSuccess": "2026-11-09T17:05:07.035Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.112Z"
+      "lastSuccess": "2026-11-09T17:05:07.043Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.132Z"
+      "lastSuccess": "2026-11-09T17:05:07.051Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.238Z"
+      "lastSuccess": "2026-11-09T17:05:07.170Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.161Z"
+      "lastSuccess": "2026-11-09T17:05:07.065Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.143Z"
+      "lastSuccess": "2026-11-09T17:05:07.022Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.092Z"
+      "lastSuccess": "2026-11-09T17:05:07.025Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.256Z"
+      "lastSuccess": "2026-11-09T17:05:07.082Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T17:00:18.145Z"
+      "lastErrorAt": "2026-11-09T17:05:07.094Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.266Z"
+      "lastSuccess": "2026-11-09T17:05:07.030Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.318Z"
+      "lastSuccess": "2026-11-09T17:05:07.216Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.312Z"
+      "lastSuccess": "2026-11-09T17:05:07.206Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:00:18.392Z"
+      "lastSuccess": "2026-11-09T17:05:06.990Z"
     }
   },
   "items": [
+    {
+      "id": "story_16724540d6e42ee9",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Olympic judo gold medalist Teddy Riner bids for French presidency",
+      "snippet": "Judo champion Teddy Riner, a five-time Olympic gold medalist, will run for president of France in 2027, he announced Monday on social media.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/11/09/france-Olympic-judo-Teddy-Riner-French-president/5551794239987/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/5551794239987/2026/upi/051bf8a86e30d4044780033b6b90911a/v1.5/Olympic-judo-gold-medalist-Teddy-Riner-bids-for-French-presidency.jpg",
+      "publishedAt": "2026-11-09T17:03:35.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cff7db0b80ca6d91",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Men recruited to French gang as children to kill give rare insight into drug underworld",
+      "snippet": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC.",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:59:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9f5bb90c68253abe",
       "source": "Wash Examiner",
@@ -118,6 +145,19 @@
       "link": "https://www.washingtonexaminer.com/news/senate/4797238/adam-hamilton-blue-wave-not-rousing-endorsement-democrats/",
       "imageUrl": null,
       "publishedAt": "2026-11-09T16:56:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9e1afe2d65ede503",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Men and women who smoke marijuana may experience different effects, study suggests",
+      "snippet": "UCLA researchers found occasional male cannabis users reported stronger effects like anxiety and elevated heart rate than women with similar THC levels.",
+      "link": "https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:55:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -266,6 +306,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_87860c70c501a931",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Counter protests rise after boycott ride past Jewish-owned restaurants",
+      "snippet": "An outpouring of support for Jewish-owned restaurants has erupted in Philadelphia after a pro-Palestinian bike group organized a boycott ride past the restaurants. NBC News' Erin McLaughlin breaks down details of both protests.",
+      "link": "https://www.nbcnews.com/video/counter-protests-rise-after-boycott-ride-past-jewish-owned-restaurants-273139781600",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:44:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_85b98edeaf065989",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -285,6 +338,19 @@
       "headline": "Secret Service arrests two after car crash and barricade breach outside White House",
       "snippet": "",
       "link": "https://www.foxnews.com/politics/secret-service-arrests-two-car-crash-barricade-breach-outside-white-house",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:43:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b5b446118e52302d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Man arrested outside White House after crashing vehicle into Lafayette Square Park",
+      "snippet": "Police arrested two individuals in separate incidents near the White House on Monday morning. The Secret Service has launched investigations into both.",
+      "link": "https://www.foxnews.com/politics/man-arrested-outside-white-house-after-crashing-vehicle-lafayette-square-park",
       "imageUrl": null,
       "publishedAt": "2026-11-09T16:43:03.000Z",
       "tier": "routine",
@@ -678,6 +744,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-09T16:18:23.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c0e1f2909a4a81a9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "In the front row at Gina Hinojosa’s watch party, a historic win hits home - AP News",
+      "snippet": "In the front row at Gina Hinojosa’s watch party, a historic win hits home  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSW44bUZ2OXc0MEptXzhBbVNqQXN1Ry1Zd21BVkxkQU5fUnhpdHdfLWUwTlE3ekh0YkVLeTM0NUl5b19OcU96RzZXeDYyak5ZTFJKVF9qYmU3SHhETE9KbGdnUUpVTGMyVkZhclhnNWJHaGRfNzlSOE5vemRGaElPSjQ4V29tLXBYMWxmYjkxSjhiZndWOHc3Z3M2VQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:18:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2617,84 +2696,6 @@
       "tier": "major",
       "topic": "sports",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_eb683941877c5abf",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Poland’s justice minister says investigation into Kraków shooting will aim to establish if the 24-year-old acted alone – Europe live",
-      "snippet": "Terrorism investigation was opened after attacker opened fire in a market square\nAFP has a quick snap that Ukraine is to hold “separate” meetings with Europeans and Nato in Abu Dhabi. The Kremlin earlier insisted no other European nations w",
-      "link": "https://www.theguardian.com/world/live/2026/nov/09/polands-krakow-attack-ukraine-russia-france-germany-europe-latest-news",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:17:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7b88819cb3ad7b56",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Joe Concha doubts Dana White would trade UFC empire for thankless press secretary job",
-      "snippet": "Washington Examiner columnist Joe Concha said that President Donald Trump’s joke about naming UFC President Dana White as the new White House press secretary was unlikely to come to fruition. “I mean, I don’t know anybody who’s taking the p",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4796990/joe-concha-doubts-dana-white-trade-ufc-empire-white-house-press-secretary/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:16:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8a6a25d7e20dcbde",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "What's next for potential congressional investigations of Trump Cabinet members",
-      "snippet": "Lawmakers are back on Capitol Hill after the midterms, and questions linger about potential probes against members of the Trump administration. CBS News' Nikole Killion reports.",
-      "link": "https://www.cbsnews.com/video/whats-next-for-potential-congressional-investigations-on-trump-cabinet-members/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:16:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_51c4fc2fcaf29559",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
-      "snippet": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVRvYUFQbS0za2RfNkk2T0xkYnVrcFVoNXZ3SzgwN2RpcTlMWDBha3lINTR1X0JSM0JkaldZMjB2SHFVYzJ2Mi1vcV9vamlQd1pOaWNtLV9aYjFlY1prMFh0ME1tZzdFa194dTJVSG1aU0c5bmZnU1BGWHdvbGhIakk1ekxVcjluRTZtQzJIQ19vSF91bHJsbVV4T1dWa1U?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:16:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a4b0fec7f34793f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Nvidia CEO Jensen Huang's affair with suspected Chinese spy rocks tech world",
-      "snippet": "Nvidia CEO Jensen Huang is under investigation by the tech giant's board after admitting to an affair with a woman the U.S. government suspects of spying for China. Jo Ling Kent reports.",
-      "link": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huangs-affair-with-suspected-chinese-spy-rocks-tech-world/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:15:32.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_463de6cda80a27c2",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Nvidia stock slumps amid board investigation into CEO Jensen Huang",
-      "snippet": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
-      "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:15:23.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
