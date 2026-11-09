@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-09T10:15:09.507Z",
+  "updatedAt": "2026-11-09T10:20:10.239Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.716Z"
+      "lastSuccess": "2026-11-09T10:20:10.676Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.922Z"
+      "lastSuccess": "2026-11-09T10:20:10.474Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.666Z"
+      "lastSuccess": "2026-11-09T10:20:10.833Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.423Z"
+      "lastSuccess": "2026-11-09T10:20:10.494Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.900Z"
+      "lastSuccess": "2026-11-09T10:20:10.899Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.851Z"
+      "lastSuccess": "2026-11-09T10:20:10.839Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.796Z"
+      "lastSuccess": "2026-11-09T10:20:10.518Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.786Z"
+      "lastSuccess": "2026-11-09T10:20:10.443Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.908Z"
+      "lastSuccess": "2026-11-09T10:20:11.097Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.723Z"
+      "lastSuccess": "2026-11-09T10:20:10.778Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.093Z"
+      "lastSuccess": "2026-11-09T10:20:10.993Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.833Z"
+      "lastSuccess": "2026-11-09T10:20:11.073Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.028Z"
+      "lastSuccess": "2026-11-09T10:20:10.939Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.816Z"
+      "lastSuccess": "2026-11-09T10:20:10.774Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T10:15:10.075Z"
+      "lastErrorAt": "2026-11-09T10:20:11.114Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.804Z"
+      "lastSuccess": "2026-11-09T10:20:10.625Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.927Z"
+      "lastSuccess": "2026-11-09T10:20:11.102Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.080Z"
+      "lastSuccess": "2026-11-09T10:20:11.034Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.744Z"
+      "lastSuccess": "2026-11-09T10:20:10.574Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.117Z"
+      "lastSuccess": "2026-11-09T10:20:11.176Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.072Z"
+      "lastSuccess": "2026-11-09T10:20:11.260Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:09.757Z"
+      "lastSuccess": "2026-11-09T10:20:10.618Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T10:15:10.172Z"
+      "lastSuccess": "2026-11-09T10:20:11.122Z"
     }
   },
   "items": [
+    {
+      "id": "story_cc0f13f9b3a8e8c6",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Congress returns for crowded lame-duck session as Hegseth impeachment looms",
+      "snippet": "Congress must pass legislation to avert a looming government shutdown, farm bill, FISA reform and National Defense Authorization Act in the coming weeks.",
+      "link": "https://abcnews.com/Politics/congress-returns-crowded-lame-duck-session-hegseth-impeachment/story?id=137918357",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T10:11:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_20c6a5bb30e47a20",
       "source": "France24",
@@ -108,6 +121,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_2eba7bb2f63e7b00",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "There’s a New Roy Cohn in Town",
+      "snippet": "Stephen Miller is the wartime consigliere Trump always wanted.",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T10:04:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0f19f81994160148",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "This Is How Democrats Won the Midterms",
+      "snippet": "The Democrats still have a long way to go before they can govern the country productively. But the victors of 2026 have started to point the way.",
+      "link": "https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T10:03:38.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_9d86d52f19008f00",
@@ -2656,45 +2695,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_f82cba94c0faa01d",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Asian stock markets climb after earlier tech rout",
-      "snippet": "Markets rebound after tech rout triggered by Democrats' sweeping victory in US midterm elections.",
-      "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T04:03:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d37bdd9c471b3370",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-      "snippet": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T04:02:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c49f6b64ba4f2c99",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Another hat trick for Cutter Gauthier as Ducks dispatch Penguins - Reuters",
-      "snippet": "Another hat trick for Cutter Gauthier as Ducks dispatch Penguins  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVQxeFZBR1cxQzBWSWtIdUdNSENDN0FHWU5UemM4cFZ1MFNrNTJieU00X2FMQUtQckxUVUVmYURFTkFLZlA3Nl9zM1N0N2NXM2ZJMThOR3lyX3lBZ09McFFCRjJBTEM2UFRydVBvVlRjZU8xZ1Z3eUZBYWdUTzNvTkFHcDlORlFXNmVnX3JlNHJBc3J2X0xhTUlXaUJ6MGlKQWhqT2J1bkZkVWxlekE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T04:01:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
