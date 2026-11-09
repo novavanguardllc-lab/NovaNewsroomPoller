@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-09T17:05:06.842Z",
+  "updatedAt": "2026-11-09T17:10:10.884Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:06.944Z"
+      "lastSuccess": "2026-11-09T17:10:10.945Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:06.975Z"
+      "lastSuccess": "2026-11-09T17:10:10.926Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:06.996Z"
+      "lastSuccess": "2026-11-09T17:10:10.932Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:06.894Z"
+      "lastSuccess": "2026-11-09T17:10:10.972Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.046Z"
+      "lastSuccess": "2026-11-09T17:10:10.963Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.182Z"
+      "lastSuccess": "2026-11-09T17:10:11.016Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.091Z"
+      "lastSuccess": "2026-11-09T17:10:11.141Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.040Z"
+      "lastSuccess": "2026-11-09T17:10:11.007Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.011Z"
+      "lastSuccess": "2026-11-09T17:10:11.028Z"
     },
     "Politico": {
-      "online": false,
-      "lastError": "Status code 406",
-      "lastErrorAt": "2026-11-09T17:05:07.040Z"
+      "online": true,
+      "lastSuccess": "2026-11-09T17:10:11.069Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.035Z"
+      "lastSuccess": "2026-11-09T17:10:11.050Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.043Z"
+      "lastSuccess": "2026-11-09T17:10:11.032Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.051Z"
+      "lastSuccess": "2026-11-09T17:10:11.014Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.170Z"
+      "lastSuccess": "2026-11-09T17:10:11.179Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.065Z"
+      "lastSuccess": "2026-11-09T17:10:11.128Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.022Z"
+      "lastSuccess": "2026-11-09T17:10:11.129Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.025Z"
+      "lastSuccess": "2026-11-09T17:10:11.123Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.082Z"
+      "lastSuccess": "2026-11-09T17:10:11.112Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T17:05:07.094Z"
+      "lastErrorAt": "2026-11-09T17:10:11.146Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.030Z"
+      "lastSuccess": "2026-11-09T17:10:11.151Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.216Z"
+      "lastSuccess": "2026-11-09T17:10:11.190Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:07.206Z"
+      "lastSuccess": "2026-11-09T17:10:12.720Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T17:05:06.990Z"
+      "lastSuccess": "2026-11-09T17:10:10.981Z"
     }
   },
   "items": [
+    {
+      "id": "story_1dd82de0be14facc",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Freedom Caucus outlines eight priorities during lame-duck session",
+      "snippet": "The conservative House Freedom Caucus sent a letter to Republican leadership Monday morning laying out eight legislative priorities before the party loses control of Congress. The letter, addressed to House Speaker Mike Johnson (R-LA) and S",
+      "link": "https://www.washingtonexaminer.com/news/house/4797193/freedom-caucus-outlines-eight-priorities-during-lame-duck-session/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T17:06:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_16724540d6e42ee9",
       "source": "UPI",
@@ -107,6 +119,45 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/5551794239987/2026/upi/051bf8a86e30d4044780033b6b90911a/v1.5/Olympic-judo-gold-medalist-Teddy-Riner-bids-for-French-presidency.jpg",
       "publishedAt": "2026-11-09T17:03:35.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_506bbac8e3d6a114",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Senate GOP rebels move to delay leadership vote, demand reckoning after midterm disaster",
+      "snippet": "Senate Republicans face a push from Ron Johnson and four allies to delay Tuesday's leadership elections after last week's stunning Election Night losses.",
+      "link": "https://www.foxnews.com/politics/senate-gop-rebels-move-delay-leadership-vote-demand-reckoning-after-midterm-disaster",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T17:00:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_857249d68d06e117",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "What to know about Gadi Eisenkot being appointed to form a government in israel",
+      "snippet": "Israeli opposition candidate Gadi Eisenkot has been tapped to form a government, a blow to Prime Minister Benjamin Netanyahu. CBS News' Dov Lieber reports.",
+      "link": "https://www.cbsnews.com/video/what-to-know-about-gadi-eisenkot-being-appointed-to-form-a-government-in-israel/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T17:00:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f149a744e2058cf0",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump’s Christmas nightmare: The ghost of impeachment future",
+      "snippet": "Trump may not have been visited by three ghosts last Tuesday night, but his nightmare was the spectacularly ignominious beating the Democrats handed to him.",
+      "link": "https://thehill.com/opinion/white-house/6205525-trump-election-defeat-scrooge/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/trump_donald_veto_11052025_AP26309777545710-2.jpg?w=900",
+      "publishedAt": "2026-11-09T17:00:00.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1112,6 +1163,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1038810d17be3e18",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US FDA orders new eye risk warnings for Ozempic, Zepbound - Reuters",
+      "snippet": "US FDA orders new eye risk warnings for Ozempic, Zepbound  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUG9HX0xJekVOS0FKR3BLMDJBSVJ6SEFrd2FSTU1aUmp1bTR0Vzl6V2Ewand4MTNVbGlTSXhFZEtGM19WZzhieEZrN3paaW1PWUVkZHlWdy1YalQ1OFlWblV4REdtc1hMQzlzTWJmWFRVRmNnNDdVY05oS292b00yTHQtZnh5djFrbTBpdGJDUnJ3akQ0ZlZoRzhaUXRDMXRURFhuM3lySkg4bnBmeDQyN0NjYXJIMDJJRW1LSUhxNHR0Zw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T15:59:21.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_8b5cc8f8d71bc2c5",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1264,6 +1328,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-09T15:52:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2b19e7084703b31b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Danish court fines Nordea $23 million over insufficient money laundering checks - Reuters",
+      "snippet": "Danish court fines Nordea $23 million over insufficient money laundering checks  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3RTbEpTdUx0Zm11ZGx3dmJnMF9ZRVBkUV9uSk50TU4yTkkxa3ROUloxbFBxOWRReXpGY3V0d0J3UU15ZGdIWHZySjVuUExwVGh1emFlc1ZOVFZrX0toQXNXMzlDRmgtXzd1bkI0aVpPaHdtZUhwcWRrcjdHY3NWbkh3WUFVY2UwcE1xVUFqVl8zM0xIa1FIT25GcndMVldRNTQxX2doVHVCX2lDT2dyazI5Y2dvMjlBdjU0YUtNQUttd3gwTTFWUy0zRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T15:52:24.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2617,84 +2694,6 @@
       "publishedAt": "2026-11-09T14:20:35.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dd410b7d75e535d4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump downplays growing wealth through presidency: ‘You should’ve had stock’",
-      "snippet": "President Donald Trump dismissed concerns that he has used the presidency to increase his fortune, saying he pays little attention to his personal wealth. In an interview with CBS’s 60 Minutes, Trump was pressed on the growth of his fortune",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4796997/trump-denies-growing-wealth-through-presidency/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:20:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_000b7d37ca5e3681",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump says his deportation policy ‘might have been too tough’ for voters in the election - AP News",
-      "snippet": "Trump says his deportation policy ‘might have been too tough’ for voters in the election  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnAzZ2VkbDFaRjdSZ2t1bXZBa0Jvbk1jbEFhSGtVUU9XVkhFeGJkUWR4bmdaNkp1ejJWdFZ4Y2pLOFZ4dGdUelN1dDAzZVdsNEExczIxa3JSS1dLN0dON3ZselJCUnZJdF9MUXJGY3NkSWJKUnhXNkpwTk9aM0VXdWllUzV2T3dCQzVWRjBXaEY4eVNNVkZvWlBwZXFxbGs?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:20:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_549012d5403ad0f9",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Hakeem Jeffries on immigration reform, tackling corruption and more",
-      "snippet": "Hakeem Jeffries joins \"CBS Mornings\" to discuss immigration reform, last week's midterm results, President Trump's promotion of Stephen Miller, corruption and more.",
-      "link": "https://www.cbsnews.com/video/hakeem-jeffries-on-immigration-reform-tackling-corruption-and-more/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:19:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_abb1c715d7c9f721",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Saving the Venetian lagoon: A natural buffer against climate change",
-      "snippet": "The Venetian lagoon is home to \"barene\" – salt marshes made of vegetation and mud, which play an important role against the effects of climate breakdown. They absorb CO2 and can store it long term in the soil, even more efficiently than lan",
-      "link": "https://www.france24.com/en/tv-shows/focus/20261109-saving-the-venetian-lagoon-a-natural-buffer-against-climate-change",
-      "imageUrl": "https://s.france24.com/media/display/4b69455a-da01-11f1-826d-bf1914cabd52/w:1024/p:16x9/FR-NW-OOV-ECRAN-FREEZE-ITALIE-LAGINE-DE-VENISE-BAIN-Lauren-transfer.jpg",
-      "publishedAt": "2026-11-09T14:18:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c55d4da5e4e50654",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Joe Biden to limit White House memoir promotion due to advancing cancer",
-      "snippet": "Former president’s new book Promise Me America provides an inside look at January 6, Covid-19 response and more\nJoe Biden will undertake only limited promotion of his upcoming White House memoir because of advancing cancer, the former presi",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:18:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5c2d5a9a2499920a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Falcons agree to trade veteran safety Jessie Bates III to Jaguars for 2 draft picks, AP source says - AP News",
-      "snippet": "Falcons agree to trade veteran safety Jessie Bates III to Jaguars for 2 draft picks, AP source says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0FFZno2dGlEVFlZWnNidmZpYWYyaUxXRUdCX0EwenZQYkx5TlE5NGt6OFA0ejctMUxDYUU1bUY4TWtjOFZVbnFrRU5VZnppQW5vUll6RFRBTkRGb19oVnNjOWloM2NHU0poZ2xkTXY2WlNvcTVDRmtqMVY5cHM5eVplZlQ3a3dlSGgtQld5MlE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T14:18:00.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
