@@ -151,6 +151,13 @@ module.exports = async (req, res) => {
     const state = existingState || { items: [], sourceStatus: {} };
     const now = new Date();
     const existingIds = new Set(state.items.map((i) => i.id));
+    // Snapshot of which sources were online/offline BEFORE this poll, so we
+    // can tell later whether anything the phone cares about actually changed
+    // (lastSuccess timestamps change every run and must not count).
+    const statusKey = (st) =>
+      JSON.stringify(Object.keys(st || {}).sort().map((k) => [k, !!st[k].online, st[k].lastError || ""]));
+    const prevStatusKey = statusKey(state.sourceStatus);
+    const prevItemCount = state.items.length;
 
     const results = await Promise.allSettled(sources.map((s) => pollSource(s, state, existingIds)));
     const newlyStoredItems = results.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
@@ -178,18 +185,28 @@ module.exports = async (req, res) => {
       // in essentially random order instead of true publish-time order.
       .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
-    await githubPutFile("state.json", state, stateSha);
+    // Only touch GitHub when something real changed. Every commit to the
+    // repo can trigger a Vercel build, so a quiet poll (no new stories, no
+    // source going on/offline, nothing aged out) now makes zero commits.
+    const changed =
+      newlyStoredItems.length > 0 ||
+      state.items.length !== prevItemCount + newlyStoredItems.length ||
+      statusKey(state.sourceStatus) !== prevStatusKey;
 
-    const { sha: latestSha } = await githubGetFile("latest.json");
-    await githubPutFile(
-      "latest.json",
-      {
-        updatedAt: now.toISOString(),
-        sourceStatus: state.sourceStatus,
-        items: state.items.slice(0, LATEST_FEED_SIZE), // state.items is now sorted newest-first
-      },
-      latestSha
-    );
+    if (changed) {
+      await githubPutFile("state.json", state, stateSha);
+
+      const { sha: latestSha } = await githubGetFile("latest.json");
+      await githubPutFile(
+        "latest.json",
+        {
+          updatedAt: now.toISOString(),
+          sourceStatus: state.sourceStatus,
+          items: state.items.slice(0, LATEST_FEED_SIZE), // state.items is now sorted newest-first
+        },
+        latestSha
+      );
+    }
 
     // Parallel rather than sequential — pushing 10+ new items one at a
     // time could by itself add several seconds, eating into the function's
