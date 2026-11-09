@@ -1,101 +1,154 @@
 {
-  "updatedAt": "2026-11-09T16:25:07.180Z",
+  "updatedAt": "2026-11-09T16:30:14.500Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.382Z"
+      "lastSuccess": "2026-11-09T16:30:14.545Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.300Z"
+      "lastSuccess": "2026-11-09T16:30:14.631Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.341Z"
+      "lastSuccess": "2026-11-09T16:30:14.654Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.335Z"
+      "lastSuccess": "2026-11-09T16:30:14.577Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.518Z"
+      "lastSuccess": "2026-11-09T16:30:14.587Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.388Z"
+      "lastSuccess": "2026-11-09T16:30:14.685Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.540Z"
+      "lastSuccess": "2026-11-09T16:30:14.608Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.502Z"
+      "lastSuccess": "2026-11-09T16:30:14.596Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.483Z"
+      "lastSuccess": "2026-11-09T16:30:14.581Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.422Z"
+      "lastSuccess": "2026-11-09T16:30:14.678Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.558Z"
+      "lastSuccess": "2026-11-09T16:30:14.642Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.499Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-09T16:30:14.649Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.361Z"
+      "lastSuccess": "2026-11-09T16:30:14.648Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.634Z"
+      "lastSuccess": "2026-11-09T16:30:14.750Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.547Z"
+      "lastSuccess": "2026-11-09T16:30:14.681Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.566Z"
+      "lastSuccess": "2026-11-09T16:30:14.657Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.562Z"
+      "lastSuccess": "2026-11-09T16:30:14.696Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.461Z"
+      "lastSuccess": "2026-11-09T16:30:14.711Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T16:25:07.564Z"
+      "lastErrorAt": "2026-11-09T16:30:14.687Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.661Z"
+      "lastSuccess": "2026-11-09T16:30:14.693Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.696Z"
+      "lastSuccess": "2026-11-09T16:30:14.823Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.676Z"
+      "lastSuccess": "2026-11-09T16:30:14.769Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T16:25:07.691Z"
+      "lastSuccess": "2026-11-09T16:30:14.562Z"
     }
   },
   "items": [
+    {
+      "id": "story_88de331e8cd0c8b7",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Kathy Hochul entertains massive political promotion as Democrats look ahead to 2028",
+      "snippet": "New York Gov. Kathy Hochul says she's open to a 2028 vice presidential run, telling The New York Times she \"didn't get to where I am by slamming doors.\"",
+      "link": "https://www.foxnews.com/politics/kathy-hochul-entertains-massive-political-promotion-democrats-look-ahead-2028",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:25:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a68faccf48060517",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Trump says idea to make UFC's Dana White his press secretary 'just a little fun'",
+      "snippet": "Trump does not currently have a press secretary after briefly giving the job to Katie Zacharia, who left the post after five days.",
+      "link": "https://www.pbs.org/newshour/politics/trump-says-idea-to-make-ufcs-dana-white-his-press-secretary-just-a-little-fun",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:25:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a17a80dbf48a4f03",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Melania Trump’s two-part docuseries releases Nov. 20 on Amazon",
+      "snippet": "First lady Melania Trump’s two-part docuseries is set to release Nov. 20, focusing on her return to the White House in 2025. Melania the Series will premiere on Amazon, with a focus on “never-before-told” stories. It’ll be available exclusi",
+      "link": "https://www.washingtonexaminer.com/news/entertainment/4797176/melania-the-series-amazon-release-november-20-first-lady-documentary/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:24:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7545189694b37e08",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Gunman who opened fire in Krakow, Poland, dies in hospital, police say",
+      "snippet": "The 24-year-old who opened fire in Krakow, Poland, killing six and wounding at least 15 others, died in a hospital on Monday, police say. Ramy Inocencio reports.",
+      "link": "https://www.cbsnews.com/video/gunman-who-opened-fire-in-krakow-poland-dies-in-hospital-police-say/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:23:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e21001ccf5b70e83",
       "source": "DW",
@@ -118,6 +171,32 @@
       "link": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-09T16:21:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_53ae5be20846d9a8",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘Black English’ and ‘Asian English’ should be census options, MPs say",
+      "snippet": "Exclusive: Cross-party call for ethnicity options to be broadened beyond ‘English’ being only within ‘White’ category\nBritons should be able to define themselves as both Black and English, according to senior MPs who are calling to broaden ",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/09/black-english-asian-english-should-be-census-options-mps",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:19:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_198d68377424d82e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "\"Reading Rainbow\" host LeVar Burton on his new memoir",
+      "snippet": "LeVar Burton, who hosted \"Reading Rainbow\" on PBS and starred in \"Star Trek: The Next Generation\" and ABC's \"Roots,\" sits down with \"CBS Mornings\" to talk about his new memoir, \"Take My Word For It.\"",
+      "link": "https://www.cbsnews.com/video/reading-rainbow-host-levar-burton-on-his-new-memoir/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:18:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -201,6 +280,19 @@
       "corroboratedCount": 4
     },
     {
+      "id": "story_2706ead396cc890c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Man uses excavator to destroy Chinese government building",
+      "snippet": "A man has driven an excavator into a Chinese government affairs centre in Shaanxi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:15:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b66e741b997e7025",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -279,6 +371,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5a12e4ff5d428f18",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: French officials suspect Iran is behind refrigerator hacks, sources say - Reuters",
+      "snippet": "EXCLUSIVE: French officials suspect Iran is behind refrigerator hacks, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:08:04.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_111b10407e41f54e",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -339,6 +444,19 @@
       "link": "https://abcnews.com/Politics/trump-plans-tremendous-numbers-pardons-2nd-half-term/story?id=137968247",
       "imageUrl": null,
       "publishedAt": "2026-11-09T16:06:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8233129c4cd1fc8d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
+      "snippet": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T16:02:52.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -883,6 +1001,19 @@
       "headline": "Voters’ rebuke of Trump gives Democrats historic opportunity and responsibility",
       "snippet": "What an unforgettable election night!     The American people delivered an enthusiastic, undeniable rebuke to President Donald Trump and the Republican Party that remade itself in his image. Democrats now have a responsibility to make the m",
       "link": "https://thehill.com/homenews/6204968-voters-reject-trump-republican-party/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/election_day_memorial_houston_11032026_AP26307689108575-2.jpg?w=900",
+      "publishedAt": "2026-11-09T15:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7f1446088b398f40",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Voters’ rebuke of Trump gives Democrats historic opportunity and responsibility",
+      "snippet": "What an unforgettable election night!     The American people delivered an enthusiastic, undeniable rebuke to President Donald Trump and the Republican Party that remade itself in his image. Democrats now have a responsibility to make the m",
+      "link": "https://thehill.com/opinion/6204968-voters-reject-trump-republican-party/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/election_day_memorial_houston_11032026_AP26307689108575-2.jpg?w=900",
       "publishedAt": "2026-11-09T15:30:00.000Z",
       "tier": "routine",
@@ -2562,136 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNldnOF8ybWVHdkNyWXAxOG1mSFRERGpWNlpaM2N6R1ctTUk1MDZEWlR4aEtWZ1RlT092T1NtaVBfbDRtWmItVi01TWpzV3BIdTRDUDJUblRwSkFSZDl6S0J1NE42bzE4bEsxVGMyeURKR3lTbmlYNTRLQnM2TmFCQ1JUZkJ1aFppVURGQjkxSk1PVWtCcEF1Sy12SlB5a3UyaW5lVkhkMWZtTktaclE?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-09T13:45:12.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_79bc331941130221",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
-      "snippet": "Santiago Pena faces charges of financial crimes following Ueno Bank's collapse, impacting half of Paraguay's population.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:44:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_aa930c646752664e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Obvious risk of further tragedy’ at rail crossing type at which Amazon driver died, inquiry finds",
-      "snippet": "Call for overhaul of manually operated level crossings after delivery worker was killed by passenger train in Kent\nAn Amazon delivery driver was killed by a train after he drove his van on to railway tracks at a manually operated level cros",
-      "link": "https://www.theguardian.com/business/2026/nov/09/amazon-driver-died-inquiry-manually-operated-level-crossing-kent",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:43:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c3e28cb1b13e22a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Africa returns to global debt market but prices stay high",
-      "snippet": "Africa’s poorest borrowers, which are eligible for the World Bank’s cheapest financing, paid 9.8% interest on new bonds in 2025.",
-      "link": "https://www.semafor.com/article/11/09/2026/africa-returns-to-global-debt-market-as-new-credit-agency-begins-operations",
-      "imageUrl": "https://img.semafor.com/5b5fdbbb1129f9e2c6932944673d7ae1f30086ad-3414x2224.jpg",
-      "publishedAt": "2026-11-09T13:43:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d14d4634eccca148",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war - Reuters",
-      "snippet": "Trump to meet Iran war mediator Qatar, no imminent deal seen to end the war  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0pwQmJtMVdmZDY2NVhWalgxSHZ0d0NvUzJ4cldzTHFQUmdHSERzZENUOXljYldMbFpRa3J5d0VhbkNtZGJVM1paVkFWZ1ZHZTFOQlNkNm5xZ2tkc0FYQkxvQkU3RHc5cm9lcjFXSzdCNlE5QjNXNnRoZktjUHhGRTRGOXZYbWZtUXlTaFBXN096VFZrTDBQQll5ZDJaZDlPdUlueEtHaGMyQ1ZnWHdxQll3UWI3WHdYZmc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:42:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_71dcfb292e4da940",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Hundreds gather in Philadelphia for Pro-Palestinian demonstration and counterprotest",
-      "snippet": "Protesters and counterprotesters clashed in Philadelphia's Rittenhouse Square on Sunday during a demonstration involving a boycott of Jewish-owned businesses, resulting in minor injuries to two police officers and the arrest of a teenager.",
-      "link": "https://thehill.com/homenews/state-watch/6207535-boycott-bike-ride-demonstrations-philadelphia/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:41:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_96a4fffb45b7b09d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Russell Brand set to be sentenced for rape, sexual assault convictions",
-      "snippet": "Russell Brand is set to be sentenced in Britain for rape and sexual assault convictions. Holly Williams reports.",
-      "link": "https://www.cbsnews.com/video/russell-brand-set-to-be-sentenced-for-rape-sexual-assault-convictions/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:41:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_043282b5a294a746",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump says deportation policy ‘too tough’ in push for bipartisan deal handing legal status to ‘good’ illegal immigrants",
-      "snippet": "President Donald Trump said on Sunday his immigration policy hurt the Republican Party in the midterm elections, and pressed Democrats to make a bipartisan deal with the White House that could offer legal status to “good” illegal immigrants",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4796970/trump-says-deportation-policy-too-tough-push-bipartisan-deal/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:40:58.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_7b95227136772eac",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US Congress gets first post-'Blue Wave' crack at data centers with permitting bill - Reuters",
-      "snippet": "US Congress gets first post-'Blue Wave' crack at data centers with permitting bill  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhSV24tejNOTWRUTlhYX2NjeVZDUng5dzBSNGZWR3VkODRZUkdyT1hFbU53WEgxQnZBcC15YXVGUFNJWmkxRTdkVEltakQzSlU5clN0c2U2bjZHZ3ZlZ0I2dmFoRjZMOUdmVmNRQWtPdlBqMUJHejlrSjB0U1pWVGdabmJ4UUlPVVZuZ2JCYktiOXhWX2FlUS1jUjc4UHZxYXRISDl4OXA4eF80UVF6Mm1xU2FCQWpKdVZuOFk3c0Z0Q3RrZm9xOTVn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:39:56.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3d19b659200a0391",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "South African voters punish ANC with worst-ever result",
-      "snippet": "The party that led the struggle against apartheid is no longer the force it was more than three decades ago.",
-      "link": "https://www.semafor.com/article/11/09/2026/south-african-voters-punish-anc-with-worst-ever-result",
-      "imageUrl": "https://img.semafor.com/4ce7daa311803bbdf7abd22983e242ba453888d3-5500x3667.jpg",
-      "publishedAt": "2026-11-09T13:39:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f809e0beda705203",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Paralympic Games - AP News",
-      "snippet": "Paralympic Games  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPVHdaM1k0eGhEVDZra0dSMXlDbWVZNDF2VXpfcTRldEplbjlueWdSU21MZmpic2NRR2dON1ZzZjJfZHdXZUl1VUhVVnJ0VXkx?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T13:36:30.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
