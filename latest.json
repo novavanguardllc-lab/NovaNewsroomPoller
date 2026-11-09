@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-09T02:50:09.404Z",
+  "updatedAt": "2026-11-09T02:55:06.845Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.701Z"
+      "lastSuccess": "2026-11-09T02:55:07.126Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.858Z"
+      "lastSuccess": "2026-11-09T02:55:07.006Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.965Z"
+      "lastSuccess": "2026-11-09T02:55:07.300Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.566Z"
+      "lastSuccess": "2026-11-09T02:55:07.015Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.837Z"
+      "lastSuccess": "2026-11-09T02:55:07.211Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.005Z"
+      "lastSuccess": "2026-11-09T02:55:07.152Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.866Z"
+      "lastSuccess": "2026-11-09T02:55:07.142Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.727Z"
+      "lastSuccess": "2026-11-09T02:55:07.386Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.882Z"
+      "lastSuccess": "2026-11-09T02:55:07.405Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.844Z"
+      "lastSuccess": "2026-11-09T02:55:07.576Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.889Z"
+      "lastSuccess": "2026-11-09T02:55:07.369Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.918Z"
+      "lastSuccess": "2026-11-09T02:55:07.453Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.119Z"
+      "lastSuccess": "2026-11-09T02:55:07.272Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.082Z"
+      "lastSuccess": "2026-11-09T02:55:07.365Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T02:50:10.298Z"
+      "lastErrorAt": "2026-11-09T02:55:07.551Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.997Z"
+      "lastSuccess": "2026-11-09T02:55:07.050Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.885Z"
+      "lastSuccess": "2026-11-09T02:55:07.464Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.296Z"
+      "lastSuccess": "2026-11-09T02:55:07.514Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:09.620Z"
+      "lastSuccess": "2026-11-09T02:55:07.493Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.360Z"
+      "lastSuccess": "2026-11-09T02:55:07.544Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.199Z"
+      "lastSuccess": "2026-11-09T02:55:07.688Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.239Z"
+      "lastSuccess": "2026-11-09T02:55:07.088Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T02:50:10.673Z"
+      "lastSuccess": "2026-11-09T02:55:09.390Z"
     }
   },
   "items": [
+    {
+      "id": "story_3c1744388cbe353e",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "They’re last place in their own division — and a legitimate Super Bowl contender",
+      "snippet": "The Green Bay Packers may be at the bottom of the NFC North division, but Jordan Love has them surging toward the postseason.",
+      "link": "https://www.nbcnews.com/sports/nfl/green-bay-packers-nfl-jordan-love-nfc-north-results-rcna608209",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T02:43:34.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7d9f30acc25f6d63",
       "source": "The Hill",
@@ -121,6 +134,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_41d9f869830d6bdb",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump admits immigration enforcement may have been too 'tough' in first interview since midterms",
+      "snippet": "President Donald Trump conceded his deportation policies may have been too \"tough\" and suggested that he could make a deal with the incoming Democratic Congress.",
+      "link": "https://www.foxnews.com/media/trump-admits-immigration-enforcement-may-have-been-too-tough-first-interview-since-midterms",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T02:34:49.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_166b21e3adb8cbeb",
@@ -186,6 +212,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_fe4155f870fe0c51",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump tells ‘60 Minutes’ his deportation policy ‘was too tough’",
+      "snippet": "During an interview on CBS' \"60 Minutes,\" President Trump was asked whether his deportation policies affected the midterm election outcome. Trump acknowledged that mass deportations hurt him during the midterms and expressed interest in neg",
+      "link": "https://www.nbcnews.com/video/trump-tells-60-minutes-his-deportation-policy-was-too-tough-273110085786",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T02:16:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_27ba2ac4c5ad7ca1",
@@ -695,6 +734,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a00725d8e1934914",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "North Carolina - AP News",
+      "snippet": "North Carolina  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56M3ptMjJ4OGlvUjl6dVY3TTI0eEozUWN6SXFJMmhtQ2ZnSmhDcm9LVDFpb25FQm5fSGRtLTJVR3luaU56UXdZM1pGZ01uZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T00:57:51.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a6814d31bbfeee0a",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -794,6 +846,19 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlJ3aXdMT0JONzNqSkhTSVB4aHV2alNnZ2NCWkRNTUVKRktKaE55c2dzN01PcUl5NDlzd1NMSWpWbjB3OXBSS0Ywci1tQ3VCd0V6OXZmNG5vdl83NzZ2RTZfQXlsSENjaWtMN2h5SFplTE5aWVV6RFRicmVaMk5OZDl3WFpKNVNiREdzTGJ2YUxiNGlteE5oOFo3MXhlVk5PaVNmZkxR?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-09T00:51:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a7e74b2297b57c76",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Carlos Alcaraz - AP News",
+      "snippet": "Carlos Alcaraz  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5USmdpeGFhRXQ5VFdxVEtPQ082TGNuOE9sZ2xHcFR0VkV1S2NYckhScXNiNFlsYjJ2VmJjdkhTVzJYMGd4M2tDSDUtUE00QQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T00:50:26.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1865,6 +1930,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ffeb1807152c1b46",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "11/8: CBS Weekend News",
+      "snippet": "Nvidia investigates its CEO over an alleged Chinese intelligence affair; an ambitious agenda and battles await the new Congress.",
+      "link": "https://www.cbsnews.com/video/110826-cbs-weekend-news/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T23:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_44efa13fdae82ffb",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -2617,84 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_739b1dd043dae989",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power - Reuters",
-      "snippet": "Pope Leo tells Argentina's Trump-ally Milei that leaders must know limits of power  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYV8wSU00NXg1Q0xRcmpIZWxTdkhGYV8zZmZuZ1pxdWpwQWpabFdGQVFQY1VSUkY5cUdNd1lnQWJjV3VkYy11Sk1nUHdkeGdnbFZ3bXRTNGxaeE9XWnVHRHlMVEF2T0I3QjVEX2dLY054QlZWUi1aTnBzc01RY21GUG1MYXhTcXhmZTl2UF9XZDh5WHlrNjk4ZXZ0OU16UkNhdnBjUi1mSDAwSkpxTnRMQjBLa3BVaWs?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T22:20:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_aaff1bd0cad1befa",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "‘I have fallen short’: Read Jensen Huang’s letter to Nvidia about his affair ",
-      "snippet": "In his letter to Nvidia employees, Huang apologized for infidelity and said the company’s board has launched an independent investigation.",
-      "link": "https://www.washingtonpost.com/technology/2026/11/08/read-jensen-huangs-letter-nvidia-about-his-affair-with-suspected-chinese-spy/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T22:20:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1d1b8f3ce29ce810",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Wolff says Antonelli still no Senna, but 'Senninha' can grow - Reuters",
-      "snippet": "Wolff says Antonelli still no Senna, but 'Senninha' can grow  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN01LWmlVUy1HMjZpbFF4UXkwdGhSOVNjSW5pVHlfb2VQaEZvV3BRMEdQcF9FaHZ3a0F5NDE4WGotQ0czUVdTX2tHOTRFa3dYUldPMG5qaW5MRWNyWUZxSjV6YVlZRGZxa1RjWWNlUDZmVE01dGtjelR5SWdtMkl6SnhUZ3BGY1RZdmZFZmdYQnpIc1o2UUVvbXNZX200VVFBcUxjZ21lZXM?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T22:20:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fdda5ae0064d46cc",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 California Proposition 37 Election Live Results - AP News",
-      "snippet": "2026 California Proposition 37 Election Live Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWnN5enN1aklNYkxoOEpIUlp4M1gtLTNYcXZTTGl2ZEhXbThFVWoxMkFoMWw0MHBlSDdtekxTQU9VSUtVVWR6SlpLT0dwNy1sU080OXRkN0VpeUtaWExoWG1Pa3hoSEV3ck1GWGV0ZUt2c3VocXhGdGNDZ1dvRjk2QldiRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T22:19:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a26f95d97d9cf28d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Abalos scores 13, Cornell defeats Keuka 99-59 - AP News",
-      "snippet": "Abalos scores 13, Cornell defeats Keuka 99-59  AP News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWS12YVQxMjF1aG9ObE5iM1JjTEFob2hkX0JfM3o2cFNjSUJrWWRyYXlfek52QkNyZ0V2SkhaUzUybHBjQ2YxY1FmbWtGZEkzYlZvOUlwZFpwdks4TXZhVGNNeHZ1R1VJVHE2OVF1MzJQZnh2enBJRy1tNDhoUDJMZFJCUEk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T22:19:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ff453408c68646ab",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "President Milei welcomes Pope Leo during historic visit to Argentina",
-      "snippet": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T22:16:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
