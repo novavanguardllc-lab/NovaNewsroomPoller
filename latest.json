@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-09T19:35:07.660Z",
+  "updatedAt": "2026-11-09T19:40:09.937Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.784Z"
+      "lastSuccess": "2026-11-09T19:40:10.065Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.029Z"
+      "lastSuccess": "2026-11-09T19:40:10.123Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.869Z"
+      "lastSuccess": "2026-11-09T19:40:10.133Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.165Z"
+      "lastSuccess": "2026-11-09T19:40:10.506Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.949Z"
+      "lastSuccess": "2026-11-09T19:40:10.169Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.941Z"
+      "lastSuccess": "2026-11-09T19:40:10.185Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.907Z"
+      "lastSuccess": "2026-11-09T19:40:10.249Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.849Z"
+      "lastSuccess": "2026-11-09T19:40:10.204Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.843Z"
+      "lastSuccess": "2026-11-09T19:40:10.292Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.980Z"
+      "lastSuccess": "2026-11-09T19:40:10.224Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.824Z"
+      "lastSuccess": "2026-11-09T19:40:10.363Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.911Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-09T19:40:10.186Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.861Z"
+      "lastSuccess": "2026-11-09T19:40:10.201Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.143Z"
+      "lastSuccess": "2026-11-09T19:40:10.479Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.926Z"
+      "lastSuccess": "2026-11-09T19:40:10.326Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.985Z"
+      "lastSuccess": "2026-11-09T19:40:10.311Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:07.984Z"
+      "lastSuccess": "2026-11-09T19:40:10.306Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.088Z"
+      "lastSuccess": "2026-11-09T19:40:10.275Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-09T19:35:08.148Z"
+      "lastErrorAt": "2026-11-09T19:40:10.309Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.181Z"
+      "lastSuccess": "2026-11-09T19:40:10.342Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.244Z"
+      "lastSuccess": "2026-11-09T19:40:10.372Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:10.277Z"
+      "lastSuccess": "2026-11-09T19:40:10.392Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-09T19:35:08.208Z"
+      "lastSuccess": "2026-11-09T19:40:10.494Z"
     }
   },
   "items": [
@@ -118,6 +119,58 @@
       "link": "https://thehill.com/video-clips/6208738-watch-live-hakeem-jeffries-press-conference-democratic-midterm-wins-hegseth-impeachment/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/jeffrieshakeem_091426gn03_w.jpg?w=900",
       "publishedAt": "2026-11-09T19:32:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f2ec6235cd6559a5",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
+      "snippet": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers\n\nUS politics live – latest updates\n\nA Republican lawmaker has moved to force a vote to impeach Pete Hegseth, the ",
+      "link": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T19:31:36.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_0cde9e380cd21cb2",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "New AI malware ranks victims by how much they're worth",
+      "snippet": "VOLTA-AUTODOXER malware uses AI to analyze stolen data and rank victims by potential value, helping criminals target the most profitable accounts.",
+      "link": "https://www.foxnews.com/tech/new-ai-malware-ranks-victims-how-much-theyre-worth",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T19:30:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8db2d774a4d33e79",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "GOP Rep. Thomas Massie files impeachment articles against Pete Hegseth",
+      "snippet": "Rep. Thomas Massie, R-Ky., on Monday reintroduced articles of impeachment against Defense Secretary Pete Hegseth over the U.S. war with Iran.",
+      "link": "https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T19:29:34.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_32ae78fe6fe4625c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
+      "snippet": "TV producer, who was in relationship with ex-comedian that reportedly ended in 2014, accuses him of ‘violence, coercive control and abuse’  \n\nRussell Brand sentenced to more than 10 years in prison for rape and sexual assault\n\nJemima Goldsm",
+      "link": "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T19:27:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -730,6 +783,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-09T18:45:45.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4d49eb483ab7029",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia and Ukraine showing flexibility on territory, US official says - Reuters",
+      "snippet": "Russia and Ukraine showing flexibility on territory, US official says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc21fOTJsSUt2S1FtclRIdUVUUnBmcVAyWjd2WkdvcWt4bEw4MUtmaFFoZF9EYlNCZUwzRVJtekFhMy1rWElPTUxwekhLQXRXT25pTWdLa2NGdkFteWtibmxSdUNOLWZEcUpjeVJtcTZ3S0ZWUWx4T3p1a2hwTTV5ZEp0amVHdHRsZ2hiM2E5QUQ2U2owd09vcDdKMmlZWEIyNEl3U1Fic2puR2hhendj?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T18:43:25.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2628,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-09T16:27:36.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7021721df426bcb3",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Who is Jensen Huang, Nvidia CEO facing probe over affair with alleged spy",
-      "snippet": "Jensen Huang, longtime CEO of the AI chip giant Nvidia, is facing an investigation from the company’s board after disclosing he had a romantic relationship with a woman that U.S. officials have accused of spying for China. Nvidia’s board of",
-      "link": "https://thehill.com/policy/technology/6208192-jensen-huang-nvidia-ceo-chinese-spy-affair/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP26238747371061-e1790621169206.jpg?w=900",
-      "publishedAt": "2026-11-09T16:26:37.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_88de331e8cd0c8b7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kathy Hochul entertains massive political promotion as Democrats look ahead to 2028",
-      "snippet": "New York Gov. Kathy Hochul says she's open to a 2028 vice presidential run, telling The New York Times she \"didn't get to where I am by slamming doors.\"",
-      "link": "https://www.foxnews.com/politics/kathy-hochul-entertains-massive-political-promotion-democrats-look-ahead-2028",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T16:25:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a68faccf48060517",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Trump says idea to make UFC's Dana White his press secretary 'just a little fun'",
-      "snippet": "Trump does not currently have a press secretary after briefly giving the job to Katie Zacharia, who left the post after five days.",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-idea-to-make-ufcs-dana-white-his-press-secretary-just-a-little-fun",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T16:25:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a17a80dbf48a4f03",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Melania Trump’s two-part docuseries releases Nov. 20 on Amazon",
-      "snippet": "First lady Melania Trump’s two-part docuseries is set to release Nov. 20, focusing on her return to the White House in 2025. Melania the Series will premiere on Amazon, with a focus on “never-before-told” stories. It’ll be available exclusi",
-      "link": "https://www.washingtonexaminer.com/news/entertainment/4797176/melania-the-series-amazon-release-november-20-first-lady-documentary/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T16:24:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_322552a6c6fda103",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Judo star Teddy Riner announces plan to run in France’s presidential election",
-      "snippet": "Five-times Olympic champion says he is neither leftwing nor rightwing, but would seek to ‘bring people together’\nThe French judo star and five-times Olympic gold medallist Teddy Riner has announced plans to run in next year’s presidential e",
-      "link": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T16:24:50.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
