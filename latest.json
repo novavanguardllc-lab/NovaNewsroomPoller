@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-10T18:40:09.262Z",
+  "updatedAt": "2026-11-10T18:45:10.047Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.416Z"
+      "lastSuccess": "2026-11-10T18:45:10.100Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.436Z"
+      "lastSuccess": "2026-11-10T18:45:10.138Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.476Z"
+      "lastSuccess": "2026-11-10T18:45:10.156Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.555Z"
+      "lastSuccess": "2026-11-10T18:45:10.134Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.576Z"
+      "lastSuccess": "2026-11-10T18:45:10.153Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.517Z"
+      "lastSuccess": "2026-11-10T18:45:10.165Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.482Z"
+      "lastSuccess": "2026-11-10T18:45:10.142Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.620Z"
+      "lastSuccess": "2026-11-10T18:45:10.137Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.656Z"
+      "lastSuccess": "2026-11-10T18:45:10.201Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.635Z"
+      "lastSuccess": "2026-11-10T18:45:10.238Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.622Z"
+      "lastSuccess": "2026-11-10T18:45:10.213Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.696Z"
+      "lastSuccess": "2026-11-10T18:45:10.274Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.618Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-10T18:45:10.153Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.678Z"
+      "lastSuccess": "2026-11-10T18:45:10.233Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.615Z"
+      "lastSuccess": "2026-11-10T18:45:10.182Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.659Z"
+      "lastSuccess": "2026-11-10T18:45:10.258Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-10T18:40:09.780Z"
+      "lastErrorAt": "2026-11-10T18:45:10.354Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.738Z"
+      "lastSuccess": "2026-11-10T18:45:10.255Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.835Z"
+      "lastSuccess": "2026-11-10T18:45:10.410Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.815Z"
+      "lastSuccess": "2026-11-10T18:45:10.482Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.778Z"
+      "lastSuccess": "2026-11-10T18:45:10.347Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:10.163Z"
+      "lastSuccess": "2026-11-10T18:45:10.512Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:40:09.795Z"
+      "lastSuccess": "2026-11-10T18:45:10.531Z"
     }
   },
   "items": [
+    {
+      "id": "story_588c903594e15703",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump's first Iran war escalation post-midterm losses seeks to choke off Tehran’s trade",
+      "snippet": "President Donald Trump launches Task Force Iron Gate to choke off Iran's land borders, but experts warn squeezing Tehran could trigger escalation.",
+      "link": "https://www.foxnews.com/politics/trumps-first-iran-war-escalation-post-midterm-losses-seeks-choke-off-tehrans-trade",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T18:43:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e1ae9b5c9838c892",
       "source": "The Hill",
@@ -108,6 +122,32 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_53847c5c1f672129",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Democrats rally behind GOP lawmaker's Hegseth impeachment push, signal more to come in January",
+      "snippet": "Democrats rallied behind Rep. Thomas Massie's eight-count impeachment resolution against Pete Hegseth, citing the Iran war and Nicolás Maduro's capture.",
+      "link": "https://www.foxnews.com/politics/democrats-rally-behind-gop-lawmaker-hegseth-impeachment-push-signal-more-january",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T18:35:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_85ccb763389ce65c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Lindsay Clancy judge denies motion to dismiss charges, preserve juror records",
+      "snippet": "The judge in Lindsay Clancy's case ruled on three motions, denying a move to dismiss charges against her. CBS News' Shanelle Kaul has more.",
+      "link": "https://www.cbsnews.com/video/lindsay-clancy-judge-denies-motion-to-dismiss-charges-preserve-juror-records/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T18:34:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_cefa6fc941934567",
@@ -145,6 +185,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/2721794335042/2026/i/17943355233271/v1.5/Pope-Leo-XIV-draws-Argentines-seeking-hope-amid-economic-hardship.jpg",
       "publishedAt": "2026-11-10T18:33:47.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7fa114fe35d2391d",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Nvidia and Huang face lawsuit alleging investors were misled about spy affair",
+      "snippet": "A shareholder has sued Nvidia and CEO Jensen Huang, accusing them of deceiving investors about Huang's affair with a purported Chinese spy.",
+      "link": "https://www.pbs.org/newshour/world/nvidia-and-huang-face-lawsuit-alleging-investors-were-misled-about-spy-affair",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T18:32:31.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1072,6 +1125,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_63b2d2cdb4c6daa5",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Microsoft tops Nvidia's market cap for first time since June 2025 - Reuters",
+      "snippet": "Microsoft tops Nvidia's market cap for first time since June 2025  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGpwLVRZNGJRQ3diMmx2QnhNaERXa3RCdzR1MThDdk04TGprcXF5Z3djdXFrUnlPN25udC1qNU5BNVRhN2ZnWWd1dk5sR0lUN0FhdDR5dWFIeWZqQ2UwMGFFdmpvbkxFazJfNy1HTjR4aHZJN3ZRTnFmMFhvcm43YjRhYXB0a29LbllQYUFxNkY5WUZ1MlJ4U0tELVNTa3c3Vkl1YlJyOA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T17:11:10.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b39edcf1f44bbf18",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -1484,6 +1550,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T16:39:06.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bf5b16b94b93296b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A glossary to help understand what happens in an initial public offering - AP News",
+      "snippet": "A glossary to help understand what happens in an initial public offering  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzdISVNJMFpXU2FId1V3ZTMwWjljMUIxXzVhRi14YWhCNEhaQ0tHYW1fQW52XzlzSXZSOFNFcFhBVDh5WnU4Ujk1S25zZ0FENGRIY1RVd3dScTJPR0YtNDhVQXhmbThvWmZ4MGJDbmdTWlluYWZkclpjNzQ2d2lOYUxmdGtwTmpvMUloc2xIeUxOenZYTGpuSWgyMUltbGl6V3JNUlFMTG9pZmM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T16:39:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2617,84 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_64db82d938b68e1e",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "DOC NYC documentary film festival returns. Check out this year's lineup.",
-      "snippet": "America's largest festival for nonfiction cinema, with more than 115 feature-length documentaries plus short film programs, opens in NYC theaters and streams online.",
-      "link": "https://www.cbsnews.com/news/doc-nyc-documentary-film-festival-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T15:32:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c67565d8838d217b",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Lauren Sánchez Bezos on her new children's holiday book",
-      "snippet": "Lauren Sánchez Bezos joins \"CBS Mornings\" to talk about her new children's holiday book, \"The Fly Who Flew to the North Pole.\"",
-      "link": "https://www.cbsnews.com/video/lauren-snchez-bezos-on-her-new-childrens-holiday-book/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T15:31:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_277b1c68d8515608",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
-      "snippet": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
-      "link": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T15:30:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c362fc547f8a8f52",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
-      "snippet": "The 24-year old suspect was found to have read a significant amount of material about Breivik and other far-right figures. Speculation over his motives have prompted a bitter political feud in Warsaw.",
-      "link": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T15:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d118c806d5644f4e",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Watch live: House Democrats give remarks after midterm sweep",
-      "snippet": "House Democratic leaders will hold a press conference Tuesday morning after Congress returned for its lame-duck session following the party’s sweeping midterm victories. Democrats are preparing to take control of the House in January, but s",
-      "link": "https://thehill.com/video-clips/6210118-watch-live-house-democrats-press-conference-hegseth-energy-midterms-presser/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/09/AP25073673297134-1-e1757421145229.jpg?w=900",
-      "publishedAt": "2026-11-10T15:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5e50949ac6b917cc",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Will Republicans finally stand up to Trump? ",
-      "snippet": "Republicans must break their blind loyalty to President Trump by challenging his policies on economics, foreign affairs, and ethics if they hope to avoid another electoral defeat in 2028.",
-      "link": "https://thehill.com/opinion/white-house/6209700-gop-must-abandon-trump-loyalty/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313799634342.jpg?w=900",
-      "publishedAt": "2026-11-10T15:30:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
