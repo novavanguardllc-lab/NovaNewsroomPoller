@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-10T03:05:06.362Z",
+  "updatedAt": "2026-11-10T03:10:10.217Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.843Z"
+      "lastSuccess": "2026-11-10T03:10:10.527Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.466Z"
+      "lastSuccess": "2026-11-10T03:10:10.656Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.405Z"
+      "lastSuccess": "2026-11-10T03:10:10.386Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.486Z"
+      "lastSuccess": "2026-11-10T03:10:10.552Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.441Z"
+      "lastSuccess": "2026-11-10T03:10:10.447Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.835Z"
+      "lastSuccess": "2026-11-10T03:10:10.879Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.545Z"
+      "lastSuccess": "2026-11-10T03:10:10.547Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.563Z"
+      "lastSuccess": "2026-11-10T03:10:10.599Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.565Z"
+      "lastSuccess": "2026-11-10T03:10:10.459Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.592Z"
+      "lastSuccess": "2026-11-10T03:10:10.858Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.484Z"
+      "lastSuccess": "2026-11-10T03:10:10.422Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.531Z"
+      "lastSuccess": "2026-11-10T03:10:10.743Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.570Z"
+      "lastSuccess": "2026-11-10T03:10:10.849Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.604Z"
+      "lastSuccess": "2026-11-10T03:10:10.802Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.481Z"
+      "lastSuccess": "2026-11-10T03:10:10.701Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.590Z"
+      "lastSuccess": "2026-11-10T03:10:10.939Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.970Z"
+      "lastSuccess": "2026-11-10T03:10:11.057Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.533Z"
+      "lastSuccess": "2026-11-10T03:10:10.408Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.595Z"
+      "lastSuccess": "2026-11-10T03:10:10.961Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-10T03:05:06.590Z"
+      "lastErrorAt": "2026-11-10T03:10:10.962Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.646Z"
+      "lastSuccess": "2026-11-10T03:10:11.133Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:06.886Z"
+      "lastSuccess": "2026-11-10T03:10:10.902Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-10T03:05:07.131Z"
+      "lastSuccess": "2026-11-10T03:10:11.346Z"
     }
   },
   "items": [
+    {
+      "id": "story_d6e2db18b426459f",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "California voters defeat billionaire tax proposal that divided Democrats",
+      "snippet": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies.",
+      "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T03:05:39.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_c435a141d2023c85",
       "source": "The Hill",
@@ -121,6 +134,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_8b8fe4b5b0d2a347",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Philadelphia Eagles hit rock bottom as coach Nick Sirianni denies flipping off home fans",
+      "snippet": "Nick Sirianni denied flipping off Philadelphia Eagles fans after a viral clip surfaced following the team's seventh straight loss to the New York Giants.",
+      "link": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-hit-rock-bottom-coach-nick-sirianni-denies-flipping-off-home-fans",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T02:53:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_c32684c84a6b69fc",
@@ -186,6 +212,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_4125e9c6317df54e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "California voters reject measure to tax the wealth of billionaires - AP News",
+      "snippet": "California voters reject measure to tax the wealth of billionaires  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY0JESW1QSUhockUwNGUtM21rdmJrcXNrVnE3WUI2ZWZNYno0ZXBDMmprN1k3WC1nYlAxRVJHbXJ1SW05R29XVUItZ1EzQWR3cWVxOXY3SDlhVzVaS0RGR3JYZ1A0MElEUGJ1OFlxZmNESW9yR3ZGS2k0QU1yZEswcVU3YUx0LXBNUGFXNktmUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T02:42:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_88914322202ffa9c",
@@ -1657,6 +1696,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b16e93836508bc0a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "11/9: CBS Evening News",
+      "snippet": "Secret Service arrests two men near the White House; articles of impeachment were introduced against Pete Hegseth.",
+      "link": "https://www.cbsnews.com/video/110926-cbs-evening-news/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T23:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ffdf71f9dceb2a7d",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1967,6 +2019,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_14d5677b0ab7459b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Thune and Schumer face questions about Senate leadership in aftermath of elections - AP News",
+      "snippet": "Thune and Schumer face questions about Senate leadership in aftermath of elections  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUkRrNVNyVXN3aXg4dFlDeTJSaXNjb2lfMm16anEybWhkT2x0Q3IzWkRNSGNzQmRfVEl4WEk1UE5WdFBkSFYyYkpSdGtJdHA2bk5GU1JvVjUtVXY4SDgwVmlrOTNUNjVpT3kwQ0hPS2NtTmUtT2lCRk9ldzZyXy1YS0RmYkNRbTZOSlNkc1RBLVFRS1BpS2NBUWl0RTR0SzVzci1sTFl3OWlFZTg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T23:06:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_d810333b373bd478",
@@ -2630,71 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_2b479cffd4aaf122",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "China rejects allegations it spied on Nvidia's Jensen Huang ",
-      "snippet": "Beijing dismissed allegations it spied on Nvidia’s CEO as “smears against China,” as the scandal threatened bilateral ties ahead of next week’s Trump-Xi meeting.",
-      "link": "https://www.semafor.com/article/11/09/2026/china-rejects-allegations-it-spied-on-nvidias-jensen-huang",
-      "imageUrl": "https://img.semafor.com/22eb630c386dbef8acc2c12a2decde636788f3e9-800x600.jpg",
-      "publishedAt": "2026-11-09T22:23:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c715929c9a723577",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "North Carolina U.S. Senate Election Live Results 2026 - AP News",
-      "snippet": "North Carolina U.S. Senate Election Live Results 2026  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONGhhWm5kU2ZMdFhyeExSUmZkWEp5Z3RmWmRPVWtTNGFCdXBfM0pSdHJmR1A3VW1rQkJjay1POE5zSXpEQldmVDJsNUpIRmhQcllEbmpVdUpDOV9VSjhRRlBwUGdzMlYxU0djNjROOGRTOElILXdvYkFidTBCMF9qazBR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T22:22:41.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_43168280bfa47ca4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Florida Midterm Election Results - AP News",
-      "snippet": "2026 Florida Midterm Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VNEhSb2JEUkpoOFdOVlNlNEJhcE5wS2drSmZvYzhhMXBwSEFGWTN0bDF2d2NKLUhKUjA2OXJaN3NsNkJReTdaU2V6cVczeTVjSkg3cnAtNklka1A1X09oV2dwdFhjN1RoTWxZ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T22:22:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_57c453cff6b6fd8b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Alaska U.S. Senate Election Live Results 2026 - AP News",
-      "snippet": "Alaska U.S. Senate Election Live Results 2026  AP News",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGX0liOGNkRTQzMDBlYmZKUTIzLV9fVDlrLWZFZ3FvUThwQkRPdHVrY1ctczFGVXlrU1BNMDgtbXVJekZkQnNrVDZuOU8zSkpsR2xNd3lLWk9pQndSZGNfclJ2QW54X2Fpdk0teUNHMno5RmpqWDYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T22:22:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1237ce0c1f28dd9c",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump says he floated Dana White for press secretary during ‘very bad press day’",
-      "snippet": "President Donald Trump held an impromptu press briefing with reporters at the White House on Monday, where he conceded that his announcement of UFC president Dana White as the next White House press secretary over the weekend was just “a li",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4798002/trump-says-he-floated-dana-white-for-press-secretary-during-very-bad-press-day-as-joke/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T22:21:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
