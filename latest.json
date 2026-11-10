@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-10T18:15:09.994Z",
+  "updatedAt": "2026-11-10T18:20:10.084Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.067Z"
+      "lastSuccess": "2026-11-10T18:20:10.198Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.046Z"
+      "lastSuccess": "2026-11-10T18:20:10.126Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.083Z"
+      "lastSuccess": "2026-11-10T18:20:10.148Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.037Z"
+      "lastSuccess": "2026-11-10T18:20:10.122Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.156Z"
+      "lastSuccess": "2026-11-10T18:20:10.244Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.107Z"
+      "lastSuccess": "2026-11-10T18:20:10.242Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.115Z"
+      "lastSuccess": "2026-11-10T18:20:10.157Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.089Z"
+      "lastSuccess": "2026-11-10T18:20:10.145Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.192Z"
+      "lastSuccess": "2026-11-10T18:20:10.231Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.176Z"
+      "lastSuccess": "2026-11-10T18:20:10.317Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.128Z"
+      "lastSuccess": "2026-11-10T18:20:10.281Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.214Z"
+      "lastSuccess": "2026-11-10T18:20:10.301Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.178Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-10T18:20:10.245Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.196Z"
+      "lastSuccess": "2026-11-10T18:20:10.284Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.150Z"
+      "lastSuccess": "2026-11-10T18:20:10.270Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.288Z"
+      "lastSuccess": "2026-11-10T18:20:10.291Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-10T18:15:10.205Z"
+      "lastErrorAt": "2026-11-10T18:20:10.285Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.210Z"
+      "lastSuccess": "2026-11-10T18:20:10.295Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.331Z"
+      "lastSuccess": "2026-11-10T18:20:10.394Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.076Z"
+      "lastSuccess": "2026-11-10T18:20:10.566Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.266Z"
+      "lastSuccess": "2026-11-10T18:20:10.388Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.356Z"
+      "lastSuccess": "2026-11-10T18:20:10.504Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-10T18:15:10.620Z"
+      "lastSuccess": "2026-11-10T18:20:10.140Z"
     }
   },
   "items": [
+    {
+      "id": "story_3c946d55ec3c7e69",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Chile advances $621 million undersea cable to Antarctica project",
+      "snippet": "Chilean experts confirmed that building an undersea fiber-optic cable of up to 2,548 miles to connect Chile with Antarctica is technically feasible.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/11/10/latam-chile-fiber-optic-cable-antarctica-feasibility/5881794333621/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/5881794333621/2026/i/17943342638742/v1.5/Chile-advances-621-million-undersea-cable-to-Antarctica-project.jpg",
+      "publishedAt": "2026-11-10T18:16:23.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9d23a6aec329d402",
       "source": "Wash Examiner",
@@ -1031,6 +1045,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_75a7fd3f4b8fb4a7",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Fed officials open door to a half-point hike after inflation beats expectations - Reuters",
+      "snippet": "Fed officials open door to a half-point hike after inflation beats expectations  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T16:49:41.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_5961f558911288a1",
@@ -2666,32 +2693,6 @@
       "link": "https://www.cbsnews.com/video/meghan-and-harry-make-first-public-appearance-since-her-estranged-fathers-arrest/",
       "imageUrl": null,
       "publishedAt": "2026-11-10T15:05:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d31584f2fe221d48",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Former GOP lawmaker, surgeon general say ‘transactional’ Trump might not veto bipartisan health legislation",
-      "snippet": "Former Republican Rep. Larry Bucshon (Ind.) and former Surgeon General Jerome Adams both believe President Trump may hold off on vetoing any bipartisan healthcare legislation passed by a Democratic-controlled Congress, saying on Tuesday tha",
-      "link": "https://thehill.com/policy/healthcare/6210263-trump-healthcare-veto-chances/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/08/adamsjerome_2020_AP.jpg?w=900",
-      "publishedAt": "2026-11-10T15:05:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ae0a884a0b8f412",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
-      "snippet": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T15:04:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
