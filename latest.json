@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-10T12:15:09.360Z",
+  "updatedAt": "2026-11-10T12:20:09.947Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.433Z"
+      "lastSuccess": "2026-11-10T12:20:10.029Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.414Z"
+      "lastSuccess": "2026-11-10T12:20:10.046Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.444Z"
+      "lastSuccess": "2026-11-10T12:20:10.071Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.407Z"
+      "lastSuccess": "2026-11-10T12:20:10.100Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.494Z"
+      "lastSuccess": "2026-11-10T12:20:10.105Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.492Z"
+      "lastSuccess": "2026-11-10T12:20:10.187Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.458Z"
+      "lastSuccess": "2026-11-10T12:20:10.086Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.500Z"
+      "lastSuccess": "2026-11-10T12:20:10.244Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.468Z"
+      "lastSuccess": "2026-11-10T12:20:10.153Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.484Z"
+      "lastSuccess": "2026-11-10T12:20:10.328Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.470Z"
+      "lastSuccess": "2026-11-10T12:20:10.259Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.528Z"
+      "lastSuccess": "2026-11-10T12:20:10.284Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.510Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-10T12:20:10.031Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.504Z"
+      "lastSuccess": "2026-11-10T12:20:10.272Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.642Z"
+      "lastSuccess": "2026-11-10T12:20:10.232Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.531Z"
+      "lastSuccess": "2026-11-10T12:20:10.268Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-10T12:15:09.521Z"
+      "lastErrorAt": "2026-11-10T12:20:10.263Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.613Z"
+      "lastSuccess": "2026-11-10T12:20:10.278Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.649Z"
+      "lastSuccess": "2026-11-10T12:20:10.353Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.441Z"
+      "lastSuccess": "2026-11-10T12:20:10.348Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.607Z"
+      "lastSuccess": "2026-11-10T12:20:10.445Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.626Z"
+      "lastSuccess": "2026-11-10T12:20:10.300Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-10T12:15:09.421Z"
+      "lastSuccess": "2026-11-10T12:20:10.367Z"
     }
   },
   "items": [
+    {
+      "id": "story_0595e684b8423d0f",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "FBI investigates Nvidia's CEO over alleged Chinese spying",
+      "snippet": "Nvidia shares fell following Jensen Huang’s admission of infidelity with an executive tied to Chinese intelligence.",
+      "link": "https://www.semafor.com/article/11/10/2026/fbi-investigates-nvidias-ceo-for-affair-with-an-alleged-chinese-spy",
+      "imageUrl": "https://img.semafor.com/301cf2d53c6f27acbab9c2497e98cf89d773cbca-2048x1152.jpg",
+      "publishedAt": "2026-11-10T12:18:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_fe03fc111db6df8e",
       "source": "Al Jazeera",
@@ -691,6 +705,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T11:09:26.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4a5edd724e7c98f3",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
+      "snippet": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T11:05:34.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2669,32 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_6b05ec01f6818d12",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
-      "snippet": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit\n\nEU sues IBM and two European firms over entry/exit border system\n\nThe writer Jojo Moyes is facing a two-year EU travel ban an",
-      "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T07:00:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5668c7ec7d5fa31c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "College football | Latest News & Updates - AP News",
-      "snippet": "College football | Latest News & Updates  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T06:56:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
