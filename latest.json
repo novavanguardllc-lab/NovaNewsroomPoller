@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-10T10:15:09.235Z",
+  "updatedAt": "2026-11-10T10:20:09.267Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.338Z"
+      "lastSuccess": "2026-11-10T10:20:09.331Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.295Z"
+      "lastSuccess": "2026-11-10T10:20:09.303Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.354Z"
+      "lastSuccess": "2026-11-10T10:20:09.356Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.426Z"
+      "lastSuccess": "2026-11-10T10:20:09.436Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.425Z"
+      "lastSuccess": "2026-11-10T10:20:09.396Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.351Z"
+      "lastSuccess": "2026-11-10T10:20:09.378Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.391Z"
+      "lastSuccess": "2026-11-10T10:20:09.427Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.435Z"
+      "lastSuccess": "2026-11-10T10:20:09.523Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.368Z"
+      "lastSuccess": "2026-11-10T10:20:09.417Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.372Z"
+      "lastSuccess": "2026-11-10T10:20:09.420Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.379Z"
+      "lastSuccess": "2026-11-10T10:20:09.433Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.412Z"
+      "lastSuccess": "2026-11-10T10:20:09.470Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.375Z"
+      "lastSuccess": "2026-11-10T10:20:09.424Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.499Z"
+      "lastSuccess": "2026-11-10T10:20:09.472Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.422Z"
+      "lastSuccess": "2026-11-10T10:20:09.450Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.385Z"
+      "lastSuccess": "2026-11-10T10:20:09.442Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.491Z"
+      "lastSuccess": "2026-11-10T10:20:09.513Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.497Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-10T10:20:09.431Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.533Z"
+      "lastSuccess": "2026-11-10T10:20:09.596Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-10T10:15:09.436Z"
+      "lastErrorAt": "2026-11-10T10:20:09.429Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.540Z"
+      "lastSuccess": "2026-11-10T10:20:09.574Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.629Z"
+      "lastSuccess": "2026-11-10T10:20:09.403Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-10T10:15:09.553Z"
+      "lastSuccess": "2026-11-10T10:20:09.552Z"
     }
   },
   "items": [
@@ -108,6 +109,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_faddd5c6fd5a8dff",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Inflation report to provide 1st snapshot of prices since midterm elections",
+      "snippet": "Inflation is expected to have held steady in October.",
+      "link": "https://abcnews.com/Business/inflation-report-provide-1st-snapshot-prices-midterm-elections/story?id=137970527",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T10:07:13.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_2295899b7ad7d5f2",
@@ -405,6 +419,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T09:52:47.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27447a273af5bc34",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "France summons Iran envoy over supermarket fridge hack, warns of response - Reuters",
+      "snippet": "France summons Iran envoy over supermarket fridge hack, warns of response  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFRPZy1SWjNiT21UM05JSTBmN3JnWW9Gb3pweVRYSFhxZzNfRlBtbEpCNEZ6VHJQZnhpaFZaZ05jTkpWOTNWaGhZMVlISGdxSzlVX2xKRmE2VXZzTmZ3ZElya0ZLQUs1UVM4MXRMNnR3al84MXZOREM1SzhjZHAzTTJYVkpiMzFTOUJ0VC1SNnJvRE5KTEVpUkE2SkJ1RklfSjREc1BzdGV5aGlWaElrYXVDUUt4bmh0dFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T09:52:02.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -877,6 +904,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8fd471f4879a5a6b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Israel - AP News",
+      "snippet": "Israel  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T08:14:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_3085af022d58f421",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1172,6 +1212,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-10T06:46:53.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e282f33af895b9d3",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "North Korea accuses UN chief of siding with South Korea over border tensions - Reuters",
+      "snippet": "North Korea accuses UN chief of siding with South Korea over border tensions  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdE9DZS1sejZ1Y3ZBTWlScEMzMnRUMDJHQ0ZaVzFyUDVFbEJHaUs4bHhObGNLUmk5cEZQbl8xa3pnSnpSR3lJNENIQXMySnBaMERlRHV0bGZaWXo3ODA1M0VlTGxDU1hHMkYyZkdDb2dZMmQ5YzVSSVlTVlRrNHZkOE1nbTRDUEF6RmpDbEs4ZlFkRVBidkM3QlZLN01pd09INHlvNEgzTTFYVkd3Z3VET2VMdVRZV2s0MlV6eUhDaXVQQmJZT2ww?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T06:46:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2640,58 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/crime/4798182/fbi-suspected-homicide-cruise-ship-texas/",
       "imageUrl": null,
       "publishedAt": "2026-11-10T02:02:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c934863d773d52fe",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Gary Fisketjon Has Died. He Edited Ellis, Tartt, McInerney and McCarthy.",
-      "snippet": "A champion of slow, methodical editing and long working relationships with writers, he was regarded as one of the best of his generation. He was 72.",
-      "link": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T02:01:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ce3e3e68184a033",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump said deportation policies may have been too tough, then he promoted Stephen Miller",
-      "snippet": "Just hours after telling 60 Minutes that his immigration policies may have been too tough at times, President Trump announced that he had promoted Stephen Miller, the architect of the administration's immigration strategy, to the role of Wh",
-      "link": "https://www.cbsnews.com/video/trump-says-deportation-policies-may-been-too-tough-despite-promoting-stephen-miller/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T02:01:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_68b9aafc5a8cd2ab",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israel’s Shin Bet finds no evidence of foreign election interference",
-      "snippet": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T01:59:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b8309b7ae717bb25",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-      "snippet": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T01:56:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
