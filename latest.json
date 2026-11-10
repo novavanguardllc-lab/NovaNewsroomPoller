@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-10T00:20:09.495Z",
+  "updatedAt": "2026-11-10T00:25:06.985Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.605Z"
+      "lastSuccess": "2026-11-10T00:25:07.135Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.711Z"
+      "lastSuccess": "2026-11-10T00:25:08.096Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.613Z"
+      "lastSuccess": "2026-11-10T00:25:07.167Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.765Z"
+      "lastSuccess": "2026-11-10T00:25:07.193Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.632Z"
+      "lastSuccess": "2026-11-10T00:25:07.204Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.967Z"
+      "lastSuccess": "2026-11-10T00:25:07.083Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.771Z"
+      "lastSuccess": "2026-11-10T00:25:07.212Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.849Z"
+      "lastSuccess": "2026-11-10T00:25:07.189Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.733Z"
+      "lastSuccess": "2026-11-10T00:25:07.303Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.714Z"
+      "lastSuccess": "2026-11-10T00:25:07.339Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.729Z"
+      "lastSuccess": "2026-11-10T00:25:07.245Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.835Z"
+      "lastSuccess": "2026-11-10T00:25:07.292Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.762Z"
+      "lastSuccess": "2026-11-10T00:25:07.344Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.725Z"
+      "lastSuccess": "2026-11-10T00:25:07.317Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.755Z"
+      "lastSuccess": "2026-11-10T00:25:07.264Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.785Z"
+      "lastSuccess": "2026-11-10T00:25:07.337Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.951Z"
+      "lastSuccess": "2026-11-10T00:25:07.496Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.789Z"
+      "lastSuccess": "2026-11-10T00:25:07.269Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.868Z"
+      "lastSuccess": "2026-11-10T00:25:07.329Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-10T00:20:09.952Z"
+      "lastErrorAt": "2026-11-10T00:25:07.307Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:09.892Z"
+      "lastSuccess": "2026-11-10T00:25:07.425Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:10.023Z"
+      "lastSuccess": "2026-11-10T00:25:07.148Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-10T00:20:10.341Z"
+      "lastSuccess": "2026-11-10T00:25:07.813Z"
     }
   },
   "items": [
+    {
+      "id": "story_6852e70c59b4c36c",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump defends Jensen Huang and Pete Hegseth at surprise news briefing with Dana White",
+      "snippet": "In his first post-midterm news briefing, President Donald Trump on Monday talked about Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy, the effort to impeach Defense Secretary Pete Hegseth and the massive Republican losses at t",
+      "link": "https://www.nbcnews.com/politics/white-house/trump-defends-jensen-huang-pete-hegseth-press-briefing-ufc-dana-white-rcna608446",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T00:14:06.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_da96c13a52f55976",
       "source": "BBC",
@@ -2682,19 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_9ad78a9553af787b",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "France blames Iran for last month's cyberattack on supermarket fridges",
-      "snippet": "France on Monday blamed Iran for last month's massive cyberattack on supermarket fridges, summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack.",
-      "link": "https://www.pbs.org/newshour/world/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T21:18:01.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
