@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-11T18:15:08.391Z",
+  "updatedAt": "2026-11-11T18:20:08.702Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.496Z"
+      "lastSuccess": "2026-11-11T18:20:08.856Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.435Z"
+      "lastSuccess": "2026-11-11T18:20:08.917Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:09.040Z"
+      "lastSuccess": "2026-11-11T18:20:08.956Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.453Z"
+      "lastSuccess": "2026-11-11T18:20:08.898Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.580Z"
+      "lastSuccess": "2026-11-11T18:20:09.035Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.601Z"
+      "lastSuccess": "2026-11-11T18:20:09.093Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.577Z"
+      "lastSuccess": "2026-11-11T18:20:09.074Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.461Z"
+      "lastSuccess": "2026-11-11T18:20:08.979Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.438Z"
+      "lastSuccess": "2026-11-11T18:20:08.993Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.518Z"
+      "lastSuccess": "2026-11-11T18:20:09.100Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.480Z"
+      "lastSuccess": "2026-11-11T18:20:09.081Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.594Z"
+      "lastSuccess": "2026-11-11T18:20:09.124Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.521Z"
+      "lastSuccess": "2026-11-11T18:20:09.057Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.574Z"
+      "lastSuccess": "2026-11-11T18:20:09.122Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.564Z"
+      "lastSuccess": "2026-11-11T18:20:09.155Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.476Z"
+      "lastSuccess": "2026-11-11T18:20:08.936Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.498Z"
+      "lastSuccess": "2026-11-11T18:20:09.234Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-11T18:15:08.623Z"
+      "lastErrorAt": "2026-11-11T18:20:09.258Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.604Z"
+      "lastSuccess": "2026-11-11T18:20:09.217Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.720Z"
+      "lastSuccess": "2026-11-11T18:20:09.202Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.726Z"
+      "lastSuccess": "2026-11-11T18:20:09.256Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:08.754Z"
+      "lastSuccess": "2026-11-11T18:20:09.317Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-11T18:15:10.367Z"
+      "lastSuccess": "2026-11-11T18:20:09.344Z"
     }
   },
   "items": [
+    {
+      "id": "story_611c4a76dcb18e16",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Woman claims hospital injected wrong drug into her spine during knee surgery, leaving her unable to walk",
+      "snippet": "Linda Gilbert's lawsuit alleges Ascension Saint Thomas Midtown injected potassium phosphate instead of mepivacaine, causing incomplete paraplegia.",
+      "link": "https://www.foxnews.com/health/woman-claims-hospital-injected-wrong-drug-spine-knee-surgery-leaving-unable-walk",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T18:13:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_929b57d96c405e2f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+      "snippet": "Moscow announces the veteran diplomat's sudden passing without further details.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T18:13:10.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_602505b9b86f3278",
       "source": "The Hill",
@@ -131,6 +157,32 @@
       "link": "https://www.semafor.com/article/11/11/2026/airwallexs-ceo-isnt-worried-about-ai",
       "imageUrl": "https://img.semafor.com/3a61a783798235b1fef95bf3f2599ffb46b31cba-4000x3000.png",
       "publishedAt": "2026-11-11T18:09:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_92136b9670721dd7",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Protesters target Alex Ovechkin's Ottawa game as World Juniors Russia debate intensifies",
+      "snippet": "Alex Ovechkin's game in Ottawa drew massive Ukrainian-Canadian protests over his vocal support for Vladimir Putin amid the ongoing Russia-Ukraine war.",
+      "link": "https://www.foxnews.com/outkick-sports/protesters-target-alex-ovechkin-ottawa-game-world-juniors-russia-debate-intensifies",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T18:08:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_09b0a1938bfbd127",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Rex Ryan charged after allegedly running over feet of two pedestrians with truck",
+      "snippet": "Former NFL head coach Rex Ryan, who led the New York Jets and Buffalo Bills, is accused of striking two pedestrians with his pickup truck last week in Nashville.",
+      "link": "https://www.nbcnews.com/news/us-news/rex-ryan-charged-striking-pedestrians-truck-rcna608813",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T18:07:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2086,6 +2138,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_25aa1ae7b6e4ec01",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Donald Trump - AP News",
+      "snippet": "Donald Trump  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T15:43:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f504081c0978f649",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2627,71 +2692,6 @@
       "link": "https://www.foxnews.com/politics/multiple-kennedy-family-members-seek-join-legal-battle-against-trumps-triumphal-arch",
       "imageUrl": null,
       "publishedAt": "2026-11-11T15:08:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a8db2f81630f1773",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Pro-Palestinian protesters hurl objects at Biden during Ireland visit",
-      "snippet": "A swarm of pro-Palestinian protesters threw objects, including what appeared to be milk, at former President Joe Biden on Tuesday as he visited Ireland to attend an event in honor of his son, Hunter. Video footage showed protesters yelling ",
-      "link": "https://www.washingtonexaminer.com/news/world/4799921/pro-palestine-protester-hurl-object-biden-ireland-visit/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T15:08:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2d164b67e7e1d019",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Dua Lipa, Tame Impala and SZA set to headline Coachella 2027",
-      "snippet": "The California festival has unveiled its lineup, which also features Madonna, Phoebe Bridgers and Robyn\nThe lineup for the 2027 Coachella festival has been revealed after months of speculation, with Dua Lipa, SZA and Tame Impala set to head",
-      "link": "https://www.theguardian.com/music/2026/nov/11/coachella-lineup-2027-dua-lipa",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T15:07:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8913ab2d916503d8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple - Reuters",
-      "snippet": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEMxa3hqTUpGNGxZRjBkeEJUd0ZpTGotc2JxY1lLZFNHRWZhQzJJakVabDFPeVRTMl93U2hmQmpMZ05qRWs3RjRhMjlaNThfdmRhTG5hNExQdHVsMmJHV2dPTzR5U3ozTTNjODJ6SkdsT05ROC1LTDg1T0EzaWI2ckE4X1ZHVUxhY0EyZWtPbUppME1Xd2xRSXRsV2tjcGJPZ1ZJaFB4ZDNDTnExMFA5QTBRWGlUVkNXczFKS2lZdnllaTA1ZXdVUkt2LThBb2hCb1ZfVjdVeW9EUXY4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T15:07:03.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2e78a1224fbe912d",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "WATCH LIVE: Trump marks Veterans Day with wreath laying, remarks at Arlington National Cemetery",
-      "snippet": "On Tuesday, nine family members of the Kennedy political dynasty asked a judge to block President Donald Trump's plan to build a towering memorial arch, saying the 250-foot structure would cast a shadow over their relatives' gravesites at A",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-marks-veterans-day-with-wreath-laying-remarks-at-arlington-national-cemetery",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T15:06:19.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_3a270928c1cfd18b",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "snippet": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T15:05:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
