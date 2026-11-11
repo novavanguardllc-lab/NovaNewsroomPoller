@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-11-11T17:00:15.948Z",
+  "updatedAt": "2026-11-11T17:05:06.589Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.022Z"
+      "lastSuccess": "2026-11-11T17:05:06.777Z"
     },
     "Al Jazeera": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-11-11T17:00:25.952Z"
+      "online": true,
+      "lastSuccess": "2026-11-11T17:05:06.728Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.205Z"
+      "lastSuccess": "2026-11-11T17:05:07.092Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.223Z"
+      "lastSuccess": "2026-11-11T17:05:07.101Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.246Z"
+      "lastSuccess": "2026-11-11T17:05:06.826Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.317Z"
+      "lastSuccess": "2026-11-11T17:05:06.890Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.249Z"
+      "lastSuccess": "2026-11-11T17:05:06.883Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.087Z"
+      "lastSuccess": "2026-11-11T17:05:06.710Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.187Z"
+      "lastSuccess": "2026-11-11T17:05:06.780Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.151Z"
+      "lastSuccess": "2026-11-11T17:05:06.803Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.311Z"
+      "lastSuccess": "2026-11-11T17:05:06.735Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.264Z"
+      "lastSuccess": "2026-11-11T17:05:06.880Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.270Z"
+      "lastSuccess": "2026-11-11T17:05:06.876Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.341Z"
+      "lastSuccess": "2026-11-11T17:05:06.873Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.305Z"
+      "lastSuccess": "2026-11-11T17:05:06.858Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.191Z"
+      "lastSuccess": "2026-11-11T17:05:06.750Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.267Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-11T17:05:06.884Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-11T17:00:16.342Z"
+      "lastErrorAt": "2026-11-11T17:05:06.897Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.357Z"
+      "lastSuccess": "2026-11-11T17:05:06.926Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.422Z"
+      "lastSuccess": "2026-11-11T17:05:06.988Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.326Z"
+      "lastSuccess": "2026-11-11T17:05:06.910Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:16.429Z"
+      "lastSuccess": "2026-11-11T17:05:07.007Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-11T17:00:18.572Z"
+      "lastSuccess": "2026-11-11T17:05:07.080Z"
     }
   },
   "items": [
@@ -106,6 +106,84 @@
       "link": "https://www.foxnews.com/food-drink/veterans-day-2026-brings-free-meals-popular-restaurants-some-deals-dont-end-nov-11",
       "imageUrl": null,
       "publishedAt": "2026-11-11T17:02:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0f3434a38275f854",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "El-Sayed on call for Hegseth resignation: ‘You’re not good at this’",
+      "snippet": "Michigan Sen.-elect Abdul El-Sayed (D) addressed Defense Secretary Pete Hegseth on Tuesday, asking him to “just resign” amid mounting calls for his impeachment. During an interview with CNN’s Kaitlan Collins, El-Sayed threw out an open ques",
+      "link": "https://thehill.com/homenews/administration/6213579-el-sayed-calls-hegseth-resignation/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26314030517506-e1794415643417.jpg?w=900",
+      "publishedAt": "2026-11-11T17:00:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a49e7010f6332d29",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "The Protect College Sports Act is probably dead — and that’s a good thing",
+      "snippet": "Football conference championships are nearly here, with the Atlantic Coast Conference, Southeastern Conference, and Big Ten Conference set to host some of the biggest games on the first Saturday in December. It could be the last season unde",
+      "link": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4798954/protect-college-sports-act-higher-education/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b7edc34b49ecf18d",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "The election is over. Now it’s time to deliver for American families",
+      "snippet": "With the midterm elections behind us, Washington’s attention is turning to the next Congress and the policies that will shape the country’s future. But amid the conversations about political victories, legislative priorities, and party lead",
+      "link": "https://www.washingtonexaminer.com/restoring-america/community-family/4799077/congress-should-support-families-paid-leave-newborn-tax-credit/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_984aaf25bfc51be4",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "The Senate should demand answers on abortion drugs before confirming Heidi Overton",
+      "snippet": "This month, the Senate may consider Heidi Overton’s nomination to lead the Food and Drug Administration. Before moving forward, it should demand answers about the Biden administration’s most consequential abortion policy: eliminating the in",
+      "link": "https://www.washingtonexaminer.com/restoring-america/community-family/4799488/senate-should-demand-answers-abortion-drugs-before-confirming-heidi-overton/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c6b6e094d5767cda",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Stephen Miller’s White House will test Mexico’s red lines ",
+      "snippet": "Mexico's security chief, Omar García Harfuch, should already be preparing for a White House that acts alone, possibly in opposition to Congress.",
+      "link": "https://thehill.com/opinion/international/6211857-miller-white-house-chief-staff/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/miller_stephen_08122026_AP26224759026011-2.jpg?w=900",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6caa14892c69d85c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
+      "snippet": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T16:58:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -367,6 +445,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-11T16:38:07.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_51de727fbe5e2994",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Portugal closes all schools and non-essential services due to a major Atlantic storm - AP News",
+      "snippet": "Portugal closes all schools and non-essential services due to a major Atlantic storm  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazd0ZXhSY3NWMktjVW1yU1NIbXRXUHp6dlR0S1RiYzZsZDhpc3dBMFh1YkZfd0Q3SjJkNG12b3pFYlEwU0Y2dkxQZjJiUHpOZFZlQlcwQTNvOFdKSWNncFd0Y0NMdnlvVTliZ2JoWWIwdW5UWUVTdW9aa1lZT0ZGU1VDSTlvUjNtLTl6N0xGQ2ZqWFh4ckFjLVY3OE1MbEFQUFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T16:38:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2602,97 +2693,6 @@
       "link": "https://abcnews.com/Politics/top-white-house-lawyer-warns-democrats-threats-oversight/story?id=138044143",
       "imageUrl": null,
       "publishedAt": "2026-11-11T14:12:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_67e569953349b805",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Details emerge on alleged cruise ship murder",
-      "snippet": "New details are emerging about a man who allegedly killed his wife on a cruise hours into the voyage. Jason Allen reports.",
-      "link": "https://www.cbsnews.com/video/details-emerge-on-alleged-cruise-ship-murder/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:12:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_47fa5436e7257481",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Peltola surpasses combined Dan Sullivan votes after latest drop",
-      "snippet": "Former Rep. Mary Peltola (D-Alaska) on Tuesday surpassed the combined vote total of Sen. Dan Sullivan (R-Alaska) and independent Dan J. Sullivan following the latest ballot drop in the to-be-determined Senate race. Peltola expanded her narr",
-      "link": "https://thehill.com/homenews/campaign/6212734-peltola-leads-both-dan-sullivans-alaska-senate-race-2026/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/PeltolaSullivan_1111.png?w=900",
-      "publishedAt": "2026-11-11T14:12:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0271c4e75ccb139e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Sophie Cunningham's 4 am hotel hallway dance party goes viral, Instagram ladies who served & #MACtion",
-      "snippet": "Screencaps highlights Sophie Cunningham's winning TikTok strategy and why she understands what Caitlin Clark and the WNBA Mean Girls don't.",
-      "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-4am-hotel-hallway-dance-party-goes-viral-instagram-ladies-served-maction",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:11:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_916adc860dcc99bc",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Edmund Fitzgerald sinking remembered as Lake Superior State hockey releases cinematic tribute on anniversary",
-      "snippet": "Lake Superior State hockey released a cinematic video set to Gordon Lightfoot's iconic song marking the 51st anniversary of the Edmund Fitzgerald.",
-      "link": "https://www.foxnews.com/outkick-sports/edmund-fitzgerald-sinking-remembered-lake-superior-state-hockey-releases-cinematic-tribute-anniversary",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:11:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1210327ea4b04222",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-      "snippet": "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:10:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_741f9959452172d4",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Russia and Ukraine settle on large prisoner swap after no major developments from talks",
-      "snippet": "Russia and Ukraine have agreed to a large-scale prisoner exchange following two days of U.S.-brokered peace talks in Abu Dhabi. Special envoy Steve Witkoff and Jared Kushner, President Donald Trump’s son-in-law, led the American delegation ",
-      "link": "https://www.washingtonexaminer.com/news/world/4799883/russia-ukraine-prisoner-swap-peace-talks/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:09:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_a438becb3259e8e1",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "South Africans divided over Olympic swimmer’s switch to Netherlands",
-      "snippet": "South Africa’s most decorated Olympian is switching nations to swim for the Netherlands.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/south-africans-divided-over-olympic-swimmers-switch-to-netherlands-2?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:09:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
