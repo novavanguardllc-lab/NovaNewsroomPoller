@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-11T03:35:07.116Z",
+  "updatedAt": "2026-11-11T03:40:09.052Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.306Z"
+      "lastSuccess": "2026-11-11T03:40:09.266Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.635Z"
+      "lastSuccess": "2026-11-11T03:40:09.571Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.281Z"
+      "lastSuccess": "2026-11-11T03:40:09.186Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.583Z"
+      "lastSuccess": "2026-11-11T03:40:09.510Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.208Z"
+      "lastSuccess": "2026-11-11T03:40:09.244Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.329Z"
+      "lastSuccess": "2026-11-11T03:40:09.292Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.221Z"
+      "lastSuccess": "2026-11-11T03:40:09.228Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.333Z"
+      "lastSuccess": "2026-11-11T03:40:09.198Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.254Z"
+      "lastSuccess": "2026-11-11T03:40:09.168Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.353Z"
+      "lastSuccess": "2026-11-11T03:40:09.206Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.359Z"
+      "lastSuccess": "2026-11-11T03:40:09.279Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.384Z"
+      "lastSuccess": "2026-11-11T03:40:09.342Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.365Z"
+      "lastSuccess": "2026-11-11T03:40:09.701Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.267Z"
+      "lastSuccess": "2026-11-11T03:40:09.225Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.347Z"
+      "lastSuccess": "2026-11-11T03:40:09.306Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.258Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-11T03:40:09.239Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.390Z"
+      "lastSuccess": "2026-11-11T03:40:09.314Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.434Z"
+      "lastSuccess": "2026-11-11T03:40:09.551Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.251Z"
+      "lastSuccess": "2026-11-11T03:40:09.162Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-11T03:35:07.498Z"
+      "lastErrorAt": "2026-11-11T03:40:09.347Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.445Z"
+      "lastSuccess": "2026-11-11T03:40:09.364Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:07.491Z"
+      "lastSuccess": "2026-11-11T03:40:09.406Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-11T03:35:10.401Z"
+      "lastSuccess": "2026-11-11T03:40:09.793Z"
     }
   },
   "items": [
+    {
+      "id": "story_e98485fc7ae60926",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
+      "snippet": "Ex-IDF chief Gadi Eisenkot has yet to forge a coalition that would allow him to replace Benjamin Netanyahu, despite the new Knesset being dominated by the critics of the current prime minister.",
+      "link": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T03:33:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_56319cecef1c40c7",
       "source": "Wash Examiner",
@@ -105,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/4799692/car-hits-pedestrians-north-hollywood-crash/",
       "imageUrl": null,
       "publishedAt": "2026-11-11T03:30:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de812d18fa06616a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Car Crashes Near Los Angeles Metro Station, Killing at Least 3",
+      "snippet": "At least three others were critically injured after a vehicle crashed near a North Hollywood station, the authorities said. The cause of the crash was not immediately clear.",
+      "link": "https://www.nytimes.com/2026/11/10/us/la-car-crash-north-hollywood.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T03:30:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -123,6 +150,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_a3123473338da200",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
+      "snippet": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T03:21:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f652c0289ab2c6cf",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -133,6 +173,19 @@
       "publishedAt": "2026-11-11T03:21:39.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4e22e3f1ddbe5e4d",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Iran opens training camp for women in readiness for war",
+      "snippet": "Iran has opened its first all-women military training camp amid fears of renewed US attacks.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_iran-opens-training-camp-for-women-101126?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T03:21:32.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -353,6 +406,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-11T02:44:43.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_58e4961319d04bd6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Dozens injured in South Korea after bus crashes into 32 vehicles - AP News",
+      "snippet": "Dozens injured in South Korea after bus crashes into 32 vehicles  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHNSZEFKcmwtMmVpdnBhZGotRzBPb1BiSnFBZGF2SEt5X1BZMHJEQ21jN2JxRXp1QTh6SzNqVGxta3VzX3RlZVlRTk14UnhxYmNCU3BUaUxFdC1URGhFSEFHWmp4RFM3OFlka2h5a2NWclBPRHU1czFOVzhlYjBlbjBWcVpwc0ZNQl9vd0t2YndGcVZu?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T02:34:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1265,6 +1331,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_0df6cb894718d769",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Kennedy family tries to stop Trump's Washington arch - Reuters",
+      "snippet": "Kennedy family tries to stop Trump's Washington arch  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSnhReDR0NDY1RHZLLVNtNlBuMXZ2OWRwYXlVZjV2aTBZcXdzMU1kNzZISWQzWkpkb1VMMFVKTFoya254TG9Ld2E2WXhNOV9NbzFFQVZabmhYTXNJMTRySlAteXhucHl6VGd6MTR5dTVNQ05kdDh2aHEybGFyaWpGNFBPeUR0Vmg5dzN6MFh2d2tHTE1PRU80dQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T00:46:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_7ee8a07ecad3d18a",
@@ -2617,84 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_a438e9252b03830c",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "IBM to curb sponsorship of visas, green cards",
-      "snippet": "The move marks a win for the Trump administration’s push against hiring foreign talent.",
-      "link": "https://www.semafor.com/article/11/10/2026/ibm-to-curb-sponsorship-of-visas-green-cards",
-      "imageUrl": "https://img.semafor.com/d5943ef3b2a0acf5f3b61cb77c2ea1b037cbceee-4953x3289.jpg",
-      "publishedAt": "2026-11-10T22:35:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb9ae06ae46f1f05",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Milei plots data center buildout in Patagonia",
-      "snippet": "US tech firms facing increasing domestic backlash set their sights on rural Argentina as a regulation-free data center haven.",
-      "link": "https://www.semafor.com/article/11/10/2026/milei-plots-data-center-buildout-in-patagonia",
-      "imageUrl": "https://img.semafor.com/c4fd6155af9c9cbef7612244affe89ea3abff537-3363x2242.jpg",
-      "publishedAt": "2026-11-10T22:33:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dc0e336cb207e617",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Supreme Court grapples with Department of Labor case involving migrant worker fines",
-      "snippet": "The Supreme Court grappled on Tuesday with a case involving poor working and living conditions for migrant workers at a New Jersey farm and how the federal government can collect damages for violations of the migrant worker program. The hig",
-      "link": "https://www.washingtonexaminer.com/news/supreme-court/4798842/supreme-court-department-of-labor-migrant-worker-fines/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T22:31:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4b166501d6cb873f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Biden’s book reveals ‘very generous letter’ from Trump during 2021 transition",
-      "snippet": "Former President Biden has revealed the contents of what he described as a “very generous” letter his predecessor President Trump left him in the Oval Office in 2021, offering a glimpse of goodwill between the political foes after a bitter ",
-      "link": "https://thehill.com/homenews/administration/6212102-biden-reveals-trump-letter/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/05/AP25020610309814-e1746621837425.jpg?w=900",
-      "publishedAt": "2026-11-10T22:31:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_258e5139f5a00b48",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Ukraine's Zelenskiy says he is pleased with messages from US envoys on diplomatic efforts to end war - Reuters",
-      "snippet": "Ukraine's Zelenskiy says he is pleased with messages from US envoys on diplomatic efforts to end war  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE1NajdIbmstcUtMa2VYcTRvZlFjbElZOG1aZVN6NDFyU1pxbTNlVkR6SnRqejAyYkMwcy0zV0YyT2lCeEtfaVNEVUwzaWo1cFA5Uko1QzVCQU13UDFhN1RWZGxwSjRqbmJEeUlqWVYwX0xuQ0EySE5wWk85X1Y4RXFUVnprRmw3eFpkY0RDbk1HTFg4N1I0X082Z3RNSkpOUDd0bGw0aFA0Zmdad2ozakRBQ0ZOeU1fTnZ4bExVUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T22:30:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5886a8bd7d4f81d3",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Police chief defends timing of N.J. township’s wire-fraud announcement",
-      "snippet": "“If we tipped our hand too early, they could have liquidated everything,” Cranbury Township Police Chief Giuseppe N. DeChiara said of the $26 million theft, which remains under investigation.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/10/police-chief-defends-timing-nj-townships-wire-fraud-announcement/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T22:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
