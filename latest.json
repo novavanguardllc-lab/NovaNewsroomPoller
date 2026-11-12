@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-12T19:50:09.296Z",
+  "updatedAt": "2026-11-12T19:55:06.437Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.555Z"
+      "lastSuccess": "2026-11-12T19:55:06.650Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.539Z"
+      "lastSuccess": "2026-11-12T19:55:06.506Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.570Z"
+      "lastSuccess": "2026-11-12T19:55:06.591Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.467Z"
+      "lastSuccess": "2026-11-12T19:55:06.664Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.372Z"
+      "lastSuccess": "2026-11-12T19:55:06.666Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.593Z"
+      "lastSuccess": "2026-11-12T19:55:06.716Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.408Z"
+      "lastSuccess": "2026-11-12T19:55:06.758Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.395Z"
+      "lastSuccess": "2026-11-12T19:55:06.710Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.452Z"
+      "lastSuccess": "2026-11-12T19:55:06.705Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.596Z"
+      "lastSuccess": "2026-11-12T19:55:06.767Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.415Z"
+      "lastSuccess": "2026-11-12T19:55:06.727Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.656Z"
+      "lastSuccess": "2026-11-12T19:55:06.806Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.611Z"
+      "lastSuccess": "2026-11-12T19:55:06.762Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.536Z"
+      "lastSuccess": "2026-11-12T19:55:06.693Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.658Z"
+      "lastSuccess": "2026-11-12T19:55:06.769Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.581Z"
+      "lastSuccess": "2026-11-12T19:55:06.567Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.774Z"
+      "lastSuccess": "2026-11-12T19:55:06.968Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T19:50:09.605Z"
+      "lastErrorAt": "2026-11-12T19:55:06.755Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.616Z"
+      "lastSuccess": "2026-11-12T19:55:06.743Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:10.092Z"
+      "lastSuccess": "2026-11-12T19:55:07.031Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.988Z"
+      "lastSuccess": "2026-11-12T19:55:06.610Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.689Z"
+      "lastSuccess": "2026-11-12T19:55:06.825Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T19:50:09.684Z"
+      "lastSuccess": "2026-11-12T19:55:07.618Z"
     }
   },
   "items": [
+    {
+      "id": "story_50c26ad7580c70ba",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "snippet": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
+      "link": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:45:40.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
     {
       "id": "story_cc25a87212480e0e",
       "source": "NYT",
@@ -144,6 +157,19 @@
       "link": "https://www.foxnews.com/health/hospital-sewers-breeding-grounds-dangerous-superbugs-study-finds",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:43:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ef66598e3ae13dff",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Iranian men guilty of spying on British journalists",
+      "snippet": "Two Iranian men were convicted under Britain's National Security Act for spying on dissident journalists.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:38:33.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -212,6 +238,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_26a80163b34dfae2",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
+      "snippet": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
+      "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:32:25.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_5c2e8066d22ea47d",
@@ -2655,45 +2694,6 @@
       "publishedAt": "2026-11-12T16:20:04.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_63f199ef6a2de2d5",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Amazon's Black Friday sale is coming soon — here's what you need to know",
-      "snippet": "Amazon announced its Black Friday and Cyber Monday sale dates. Find important dates, tips and early deals you can shop right now.",
-      "link": "https://www.foxnews.com/deals/amazon-black-friday-cyber-monday-2026-announcement",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:18:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_45408cecfc14c0a7",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-      "snippet": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died",
-      "link": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
-      "imageUrl": "https://s.france24.com/media/display/2915f31c-dead-11f1-ba4a-695cb59fade5/w:1024/p:16x9/2026-11-12T043325Z-1772503551-RC23MOA2UKYO-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-      "publishedAt": "2026-11-12T16:18:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_99de87c7aa37dcf1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Junior Caminero's agent tries to dunk on MLB owners amid pending lockout with brand deal compensation argument",
-      "snippet": "Junior Caminero's agent says adidas paid the star more than the Tampa Bay Rays did, taking aim at Major League Baseball owners before a lockout.",
-      "link": "https://www.foxnews.com/outkick-sports/junior-caminero-agent-tries-dunk-mlb-owners-pending-lockout-brand-deal-compensation-argument",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:17:34.000Z",
-      "tier": "routine",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
