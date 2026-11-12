@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-12T16:10:09.553Z",
+  "updatedAt": "2026-11-12T16:15:09.579Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.667Z"
+      "lastSuccess": "2026-11-12T16:15:09.726Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.624Z"
+      "lastSuccess": "2026-11-12T16:15:09.643Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.652Z"
+      "lastSuccess": "2026-11-12T16:15:09.860Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.682Z"
+      "lastSuccess": "2026-11-12T16:15:09.782Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.673Z"
+      "lastSuccess": "2026-11-12T16:15:09.863Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.669Z"
+      "lastSuccess": "2026-11-12T16:15:09.955Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.676Z"
+      "lastSuccess": "2026-11-12T16:15:09.977Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.701Z"
+      "lastSuccess": "2026-11-12T16:15:09.760Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.695Z"
+      "lastSuccess": "2026-11-12T16:15:09.884Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.739Z"
+      "lastSuccess": "2026-11-12T16:15:10.017Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.672Z"
+      "lastSuccess": "2026-11-12T16:15:09.951Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.735Z"
+      "lastSuccess": "2026-11-12T16:15:10.071Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.767Z"
+      "lastSuccess": "2026-11-12T16:15:09.983Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.723Z"
+      "lastSuccess": "2026-11-12T16:15:09.930Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.870Z"
+      "lastSuccess": "2026-11-12T16:15:10.004Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.748Z"
+      "lastSuccess": "2026-11-12T16:15:09.948Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.866Z"
+      "lastSuccess": "2026-11-12T16:15:10.164Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T16:10:09.755Z"
+      "lastErrorAt": "2026-11-12T16:15:09.974Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.759Z"
+      "lastSuccess": "2026-11-12T16:15:09.972Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:10.020Z"
+      "lastSuccess": "2026-11-12T16:15:09.833Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.972Z"
+      "lastSuccess": "2026-11-12T16:15:09.822Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:09.919Z"
+      "lastSuccess": "2026-11-12T16:15:10.001Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T16:10:10.410Z"
+      "lastSuccess": "2026-11-12T16:15:11.524Z"
     }
   },
   "items": [
+    {
+      "id": "story_001fc30457d024cf",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Hungary eases abortion rules",
+      "snippet": "The reforms mark a break the the conservative policies of former PM Viktor Orban. The controversial \"heartbeat regulation\" is to be scrapped and women are to be better protected against violence.",
+      "link": "https://www.dw.com/en/hungary-eases-abortion-rules/a-79931614?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:13:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3cb3f9869576fc9b",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "DC shooting leaves 1 person killed, 4 injured. Gunman dead",
+      "snippet": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:12:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_118bf152bcf217b3",
       "source": "Wash Examiner",
@@ -136,6 +162,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_21e1ac31c9e8006c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Fox News ‘Antisemitism Exposed’ Newsletter: Hate strikes out in Philly",
+      "snippet": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "link": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-hate-strikes-out-philly",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:06:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b91a3907c52eb98f",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
@@ -144,6 +183,32 @@
       "link": "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
       "imageUrl": null,
       "publishedAt": "2026-11-12T16:05:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1344499a8b30fdf1",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Sharp swings for Nvidia and oil prices weigh on Wall Street",
+      "snippet": "Nvidia's stock plunged as much as 14% at the start of trading following the resignation of Jensen Huang, its CEO, co-founder and face of the brand.",
+      "link": "https://www.pbs.org/newshour/economy/sharp-swings-for-nvidia-and-oil-prices-weigh-on-wall-street",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:05:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1146b8698578dbb7",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Another Trump heavyweight revealed to be living on military base as Cabinet roster grows",
+      "snippet": "Attorney General Todd Blanche has been living on a military base for months as multiple Trump administration officials relocate to protected housing.",
+      "link": "https://www.foxnews.com/politics/another-trump-heavyweight-revealed-living-military-base-cabinet-roster-grows",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:04:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -173,6 +238,32 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_9ffdd79f797dbc71",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Pence delivers scathing rebuke of Vance's Iran war assessment, blames Trump policies for GOP losses",
+      "snippet": "Mike Pence rejects JD Vance's claim that the Iran war alone cost Republicans Congress, pointing to inflation, self-dealing and policy failures.",
+      "link": "https://www.foxnews.com/politics/pence-delivers-scathing-rebuke-vances-iran-war-assessment-blames-trump-policies-gop-losses",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:00:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6410327232263251",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "NCAA makes ice-cold choice for its first official beer partner",
+      "snippet": "Modelo announced on Thursday its landmark partnership as the first-ever official beer partner of the NCAA, including March Madness, the Frozen Four and more.",
+      "link": "https://www.foxnews.com/outkick-sports/ncaa-makes-ice-cold-choice-first-official-beer-partner",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:00:08.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_8ce265a5e1b9cc60",
@@ -808,6 +899,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T15:04:48.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7aa0e1c4f12f11a3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks - AP News",
+      "snippet": "Advocacy groups sue AI giants to freeze new models, warning of ‘catastrophic’ risks  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3o4X0NMQVZxQ3g1Z216LW05QnZDQ2ZLZEc5cUhtU3NJSTJkWVoxTWsxUWUtNW05Ti04UHdCNEVKcnVZVEhnNXZoUks0N3BodVpGMjdYMEtUaFRHQnRwNUViNzdxUnEyWXVXMlgyeWQzaTg0N0NuRFFCbEFpM3pMaHViWFlvV1RVNEdfXzdEQWdwdFNSbkRIQU0yX3Q4aW1WTFhiNDNEWTFWcTlJYVJsMDVBaWNhV2g0Si1jcEdJRkRnQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T15:03:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2591,110 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_a65726aee1007c1e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Global AI stocks sink as Nvidia crisis deepens sector selloff - Reuters",
-      "snippet": "Global AI stocks sink as Nvidia crisis deepens sector selloff  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:15:53.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2d5446f7d51e047a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-      "snippet": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’\nZimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning s",
-      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:14:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_928a55b69a69f554",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Hungary eases abortion rules in women's rights overhaul - Reuters",
-      "snippet": "Hungary eases abortion rules in women's rights overhaul  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9xYTBTMXpRaHVLMVdybzRaZHZ1TVlfMDlfVkVPVVNQYWhlOE9DM0pDdXZxVzVBUk1PX09LNHRJUGs1aFhDLWNKM2dfQV9aRWpGTnpnemdjTS14eGFtVjVnQWUyekRTekcyaldHMlotbjcxSGdnQm1HUEZ0c21KSVRlbW56d0RCVF80d1haVDkxWHlNWGlXNQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:13:21.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bfc4dabf7884c7c0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Scammers stole his image to lure the lovesick. Then the lovesick came looking for him - AP News",
-      "snippet": "Scammers stole his image to lure the lovesick. Then the lovesick came looking for him  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXdQSVNmSEw1UG1MSmhJRFZpTmFyWnkyZElyaVZodDVFVy15TUljaWhGX20wX1JJMmZhaElVRUUtbHNnWnMzTmI1Z18zWGl0Nlh4NTVUQ0Izc0liWU1HTFhnRlJHazhUci1SeERlNGt0YmV3Z19FOHNaMmhyTFlvSXNhVElRVEVoSkxwcGVpRHpsVEptSHZzUGkxdFdCLXVickNfM0lHdkJQZ0VfV0RuaWNPVEs?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:12:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cc2ee2a266b55245",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Peltola holds lead after latest Alaska Senate vote drop",
-      "snippet": "Former Rep. Mary Peltola’s (D-Alaska) campaign said Wednesday that Sen. Dan Sullivan (R-Alaska) is running out of opportunities to overcome her lead in the state’s closely contested Senate race. The warning came after the latest batch of ba",
-      "link": "https://thehill.com/homenews/campaign/6215353-mary-peltola-dan-sullivan-alaska-senate-race-update/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/PeltolaSullivan_1112.png?w=900",
-      "publishedAt": "2026-11-12T13:11:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6293a5da084aeafe",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Video of bear chilling at the top of a tree proves their elite and frightening climbing skills",
-      "snippet": "Video captures a black bear climbing to dizzying heights on thin branches in Plattsburgh, New York, stunning the couple who spotted it from the road.",
-      "link": "https://www.foxnews.com/outkick-sports/video-bear-chilling-top-tree-proves-elite-frightening-climbing-skills",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:09:45.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_95f05da4f76fef6e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "5 myths about data broker opt-outs that expose retirees",
-      "snippet": "Data broker opt-outs may not keep your personal information private for long. Five common myths leave retirees especially vulnerable to scams.",
-      "link": "https://www.foxnews.com/tech/5-myths-about-data-broker-opt-outs-expose-retirees",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:08:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2b259c5c9570a85e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Brooklyn building collapse kills at least 8 and injures 17 as search continues",
-      "snippet": "Mayor Zohran Mamdani says crews are working through ‘extremely dangerous conditions’ to find anyone trapped\nRescue crews continued to search for survivors in the rubble of a collapsed building in Brooklyn, New York, at first light on Thursd",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T13:08:15.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
     }
   ]
 }
