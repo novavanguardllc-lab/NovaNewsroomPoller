@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-12T14:05:06.474Z",
+  "updatedAt": "2026-11-12T14:10:08.831Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.725Z"
+      "lastSuccess": "2026-11-12T14:10:09.015Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.643Z"
+      "lastSuccess": "2026-11-12T14:10:08.912Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.630Z"
+      "lastSuccess": "2026-11-12T14:10:09.053Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.751Z"
+      "lastSuccess": "2026-11-12T14:10:09.027Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.784Z"
+      "lastSuccess": "2026-11-12T14:10:09.064Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.771Z"
+      "lastSuccess": "2026-11-12T14:10:09.068Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.662Z"
+      "lastSuccess": "2026-11-12T14:10:09.023Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.776Z"
+      "lastSuccess": "2026-11-12T14:10:09.097Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.813Z"
+      "lastSuccess": "2026-11-12T14:10:09.092Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.905Z"
+      "lastSuccess": "2026-11-12T14:10:09.192Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.768Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-12T14:10:09.016Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.967Z"
+      "lastSuccess": "2026-11-12T14:10:09.185Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.936Z"
+      "lastSuccess": "2026-11-12T14:10:09.229Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.861Z"
+      "lastSuccess": "2026-11-12T14:10:09.174Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.908Z"
+      "lastSuccess": "2026-11-12T14:10:09.187Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.883Z"
+      "lastSuccess": "2026-11-12T14:10:09.124Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:07.143Z"
+      "lastSuccess": "2026-11-12T14:10:09.357Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T14:05:06.906Z"
+      "lastErrorAt": "2026-11-12T14:10:09.198Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.928Z"
+      "lastSuccess": "2026-11-12T14:10:09.204Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.568Z"
+      "lastSuccess": "2026-11-12T14:10:08.938Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.735Z"
+      "lastSuccess": "2026-11-12T14:10:08.989Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:06.992Z"
+      "lastSuccess": "2026-11-12T14:10:09.223Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T14:05:07.084Z"
+      "lastSuccess": "2026-11-12T14:10:11.167Z"
     }
   },
   "items": [
@@ -108,6 +109,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 8
+    },
+    {
+      "id": "story_5f3baaa49e76798b",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
+      "snippet": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy.",
+      "link": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T14:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 7
     },
     {
       "id": "story_f445fa5576b26e3f",
@@ -136,6 +150,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_20fe8e3b7cd05c71",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "What’s behind Australia’s surge in teen extremism?",
+      "snippet": "Young people are being found with ‘hard drives full of what can only be described as gore’, one expert says\nIn March, Guardian Australia revealed that most people who have been charged with the new federal crime of possession of violent ext",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/13/australia-surge-in-teen-extremism-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T14:00:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_847955b9cdbb5890",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -147,6 +174,32 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 8
+    },
+    {
+      "id": "story_2714c90369b5afa8",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Icac’s drama and dirt files show NSW’s ‘guns for hire’ problem. But neither major party is serious about reform",
+      "snippet": "Chris Minns is trying to address the threat of undeclared lobbying but falls well short of what the commission recommended five years ago\n\nGet our daily political email, free app or daily news podcast\n\nA dirt file on a state minister peddle",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T14:00:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a048229e172720f5",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "NSW’s latest news Instagram account has an unlikely group behind it: the Labor party",
+      "snippet": "Expert warns of ‘huge loophole in political communication laws’ as state government among parties presenting accounts as unaffiliated news sources\n\nGet our daily political email, free app or daily news podcast\n\n“Breaking,” a reel from the I",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/13/nsw-newsroom-instagram-account-labor-party",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T14:00:42.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_cb7f8ee8126e43a8",
@@ -2641,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T10:55:56.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_479ced4d4d265693",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India probes website blocks based on forged court orders; police seek logs - Reuters",
-      "snippet": "India probes website blocks based on forged court orders; police seek logs  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakM3a1dNankxNk10TnhZc2JfVlNFLVpET0pQYmtYMmI2WHlhOVN0X2p3VjBiYkxWOGx0YTVvU3o4dWRybUpNdUhUTFVpT3B5ajFVb2t6R2J4MnRGOWU0NVlfeG4zVUpPMEZ4eUlRVWlZYmpaNFVxNkdFakVGbXJhMmVRMlYxT3A3U053dC1SbW04dTRNRjhHR09LZjBVMzQ1QTZfbVQ5aVNfU1JBZG9QUnRn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T10:53:50.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_de8f064210b3b0a5",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
-      "snippet": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI's future at the Web Summit in Lisbon.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T10:53:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_183797951037c8f2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 U.S. Senate Election Results - AP News",
-      "snippet": "2026 U.S. Senate Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T10:52:15.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_288c8217774c4893",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "DR Congo's Tshisekedi signs referendum law amid fears of third-term bid",
-      "snippet": "DR Congo President Félix Tshisekedi paved the way for a constitutional amendment on November 10 by signing a law authorising a referendum. The move comes amid concerns that he could seek a third term in office, with opposition figures accus",
-      "link": "https://www.france24.com/en/video/20261112-dr-congo-s-tshisekedi-signs-referendum-law-amid-fears-of-third-term-bid",
-      "imageUrl": "https://s.france24.com/media/display/48a9a32e-de7e-11f1-b569-695cb59fade5/w:1024/p:16x9/capture-5871cbff.jpg",
-      "publishedAt": "2026-11-12T10:51:57.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
