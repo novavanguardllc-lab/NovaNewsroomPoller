@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-12T04:20:09.050Z",
+  "updatedAt": "2026-11-12T04:25:06.135Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.238Z"
+      "lastSuccess": "2026-11-12T04:25:06.269Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.120Z"
+      "lastSuccess": "2026-11-12T04:25:06.293Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.131Z"
+      "lastSuccess": "2026-11-12T04:25:06.190Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.137Z"
+      "lastSuccess": "2026-11-12T04:25:06.273Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.702Z"
+      "lastSuccess": "2026-11-12T04:25:06.608Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.182Z"
+      "lastSuccess": "2026-11-12T04:25:06.352Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.165Z"
+      "lastSuccess": "2026-11-12T04:25:06.349Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.161Z"
+      "lastSuccess": "2026-11-12T04:25:06.318Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.216Z"
+      "lastSuccess": "2026-11-12T04:25:06.399Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.179Z"
+      "lastSuccess": "2026-11-12T04:25:06.236Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.167Z"
+      "lastSuccess": "2026-11-12T04:25:06.334Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.197Z"
+      "lastSuccess": "2026-11-12T04:25:06.474Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.265Z"
+      "lastSuccess": "2026-11-12T04:25:06.374Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.134Z"
+      "lastSuccess": "2026-11-12T04:25:06.376Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T04:20:09.180Z"
+      "lastErrorAt": "2026-11-12T04:25:06.443Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.371Z"
+      "lastSuccess": "2026-11-12T04:25:06.441Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.191Z"
+      "lastSuccess": "2026-11-12T04:25:06.383Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.226Z"
+      "lastSuccess": "2026-11-12T04:25:06.452Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.207Z"
+      "lastSuccess": "2026-11-12T04:25:06.331Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.185Z"
+      "lastSuccess": "2026-11-12T04:25:06.386Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.278Z"
+      "lastSuccess": "2026-11-12T04:25:06.509Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.468Z"
+      "lastSuccess": "2026-11-12T04:25:06.552Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T04:20:09.687Z"
+      "lastSuccess": "2026-11-12T04:25:06.885Z"
     }
   },
   "items": [
@@ -227,6 +227,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b8bb9c4cdad0231b",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "snippet": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T03:32:54.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_df72687aa87f346f",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -340,6 +353,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26315710849283-e1794452327854.jpg?w=900",
       "publishedAt": "2026-11-12T03:02:53.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2e5b75e07a6afead",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Virginia U.S. Senate Election Live Results 2026 - AP News",
+      "snippet": "Virginia U.S. Senate Election Live Results 2026  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NZ1p4bC1Sa21YT3BqWG5TTjdNdXNFMDNqN3pjNU9oTENsbkowOEl4cEdWVDFGY0N3ZmdTamdGSFpESjZIdnJySDU5d0NYd3NyM0t2enFjTHlVQ0JSQTRtaWN4di1MZURZMTJwbGpwNHZmWjJjckptRGxR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T03:00:26.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2669,32 +2695,6 @@
       "tier": "major",
       "topic": "sports",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_4e44db9201c05f23",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Colom builds on slim lead in Mississippi, as AP calls for Democrat",
-      "snippet": "Democrat Scott Colom has built on his lead in the closely watched Mississippi Senate race, now ahead of Sen. Cindy Hyde-Smith (R) by nearly 4,500 votes, or about half a percentage point. The latest batch of votes came as heavily Democratic ",
-      "link": "https://thehill.com/homenews/campaign/6214689-colom-leads-hyde-smith/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26308705743005-e1793900871533.jpg?w=900",
-      "publishedAt": "2026-11-11T23:06:39.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_19cef2d2485d9bf7",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-      "snippet": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
-      "link": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T23:05:34.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 15
     }
   ]
 }
