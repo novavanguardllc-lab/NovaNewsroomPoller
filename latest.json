@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-12T11:55:06.858Z",
+  "updatedAt": "2026-11-12T12:00:16.167Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:06.984Z"
+      "lastSuccess": "2026-11-12T12:00:16.299Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.027Z"
+      "lastSuccess": "2026-11-12T12:00:16.426Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:06.945Z"
+      "lastSuccess": "2026-11-12T12:00:16.319Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:06.961Z"
+      "lastSuccess": "2026-11-12T12:00:16.493Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.363Z"
+      "lastSuccess": "2026-11-12T12:00:16.346Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.071Z"
+      "lastSuccess": "2026-11-12T12:00:16.480Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.132Z"
+      "lastSuccess": "2026-11-12T12:00:16.580Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.128Z"
+      "lastSuccess": "2026-11-12T12:00:16.664Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.120Z"
+      "lastSuccess": "2026-11-12T12:00:16.505Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.062Z"
+      "lastSuccess": "2026-11-12T12:00:16.542Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.083Z"
+      "lastSuccess": "2026-11-12T12:00:16.359Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.149Z"
+      "lastSuccess": "2026-11-12T12:00:16.584Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.200Z"
+      "lastSuccess": "2026-11-12T12:00:16.532Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.089Z"
+      "lastSuccess": "2026-11-12T12:00:16.483Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T11:55:07.221Z"
+      "lastErrorAt": "2026-11-12T12:00:16.566Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.351Z"
+      "lastSuccess": "2026-11-12T12:00:16.808Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.068Z"
+      "lastSuccess": "2026-11-12T12:00:16.488Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.225Z"
+      "lastSuccess": "2026-11-12T12:00:16.571Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.134Z"
+      "lastSuccess": "2026-11-12T12:00:16.602Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.140Z"
+      "lastSuccess": "2026-11-12T12:00:16.548Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.245Z"
+      "lastSuccess": "2026-11-12T12:00:16.675Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.257Z"
+      "lastSuccess": "2026-11-12T12:00:16.468Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T11:55:07.269Z"
+      "lastSuccess": "2026-11-12T12:00:16.598Z"
     }
   },
   "items": [
+    {
+      "id": "story_35327806a163a131",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties",
+      "snippet": "Seattle Mayor Katie Wilson backs the Seattle School Board's legal action against Initiative 638, the transgender sports measure voters passed by 13 points.",
+      "link": "https://www.foxnews.com/outkick-sports/seattle-mayor-backs-effort-block-girls-sports-initiative-passed-36-washingtons-39-counties",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T11:55:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_f14289feaffc7f08",
       "source": "Semafor",
@@ -186,6 +199,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5ad75f51d323d115",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+      "snippet": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
+      "link": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T11:43:19.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_eec4d0bd7d3e1eb5",
@@ -2593,6 +2619,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b981cdf83a459350",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trail Blazers sweep the Thunder with a 118-108 win - AP News",
+      "snippet": "Trail Blazers sweep the Thunder with a 118-108 win  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ2hXOXhldGRxWjJOOU9BMVVFVk05Vkh3WGxUSk9CNHZvRTdFTThhaXlwNS14LUdVN0JSb0J6U0RVQ0ZjZmU2RW5IRjJyRHQ5U01xRjVybkFMNXNNcUdyU2M2ZEdxX3kwTlU4dzBiOWQtVERDV1FPZm04RDYxeUJBQUpsWHBOQjJtemcwS191aWo?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T05:55:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_74eb17e07c1e89bc",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2653,45 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-12T05:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b93d520f9554c341",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop - AP News",
-      "snippet": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTh3T3U4V0h4TkZXQVRFeHF6RTRtbmFFZ1JPWlpJNlhJT19palZkU25lRXNWbE1wTTZQRjkzWmh3NHpUeERyQTVBRUNOOU1tZU1oZTdIMXZrZzQ4dDZLVFNQZ3cybkZpM0NrSGR4cnlhMFNSN0o5eTZSMzlXS3piNjQ1c3JtT0FSR2tKRURrMUZ1OTMyZk1VMm9iVFJ0YUYyWEtYcWF5Zl94Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T05:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_59cddb13d0624639",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Van crashes on mountain road in Nepal, 10 killed and 5 injured - AP News",
-      "snippet": "Van crashes on mountain road in Nepal, 10 killed and 5 injured  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODMyelJsalRWN2x0b0NjRmRBSzVwb3p5ejlpVXNzVlVCSkxMd1NJdllESU1HM1RQQzV6ZDVfRnVKNXlmRmlDMnRCdkUtcmlPY0IxRGpHTlFzZVRaQ1F0UWdtODN2T0lKbUZxOHJQOXBEeGNPM0NISTBUcGIzWWpHNGUwUGU0TDhzSlRCakx6QXJWdEI3RHV0QU9oNnAwdDQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T05:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_98b037112f833907",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - AP News",
-      "snippet": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T05:23:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
