@@ -1,102 +1,141 @@
 {
-  "updatedAt": "2026-11-12T20:10:09.216Z",
+  "updatedAt": "2026-11-12T20:15:09.498Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.281Z"
+      "lastSuccess": "2026-11-12T20:15:09.564Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.366Z"
+      "lastSuccess": "2026-11-12T20:15:09.643Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.394Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-12T20:15:19.500Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.407Z"
+      "lastSuccess": "2026-11-12T20:15:09.659Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.422Z"
+      "lastSuccess": "2026-11-12T20:15:09.685Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.467Z"
+      "lastSuccess": "2026-11-12T20:15:09.894Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.481Z"
+      "lastSuccess": "2026-11-12T20:15:09.806Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.485Z"
+      "lastSuccess": "2026-11-12T20:15:09.888Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.505Z"
+      "lastSuccess": "2026-11-12T20:15:09.782Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.522Z"
+      "lastSuccess": "2026-11-12T20:15:09.742Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.602Z"
+      "lastSuccess": "2026-11-12T20:15:09.882Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.611Z"
+      "lastSuccess": "2026-11-12T20:15:09.765Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.613Z"
+      "lastSuccess": "2026-11-12T20:15:09.820Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.616Z"
+      "lastSuccess": "2026-11-12T20:15:09.897Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.621Z"
+      "lastSuccess": "2026-11-12T20:15:09.904Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T20:10:09.625Z"
+      "lastErrorAt": "2026-11-12T20:15:09.925Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.639Z"
+      "lastSuccess": "2026-11-12T20:15:09.918Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.650Z"
+      "lastSuccess": "2026-11-12T20:15:09.933Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.703Z"
+      "lastSuccess": "2026-11-12T20:15:10.012Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.726Z"
+      "lastSuccess": "2026-11-12T20:15:10.022Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.768Z"
+      "lastSuccess": "2026-11-12T20:15:09.952Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:10:09.790Z"
+      "lastSuccess": "2026-11-12T20:15:10.181Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-12T20:10:10.097Z"
+      "online": true,
+      "lastSuccess": "2026-11-12T20:15:09.886Z"
     }
   },
   "items": [
+    {
+      "id": "story_f7fc84f5be4fa273",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Lutnick emerges as favored next-to-go in Trump’s post-midterm personnel shuffle",
+      "snippet": "Commerce Secretary Howard Lutnick is in the hot seat following reports about his actions involving the American chip giant Nvidia. Lutnick has surpassed both War Secretary Pete Hegseth and Secretary of State Marco Rubio as the prediction ma",
+      "link": "https://www.washingtonexaminer.com/news/white-house/4801781/lutnick-emerges-favored-next-to-go-trump-post-midterm-personnel-shuffle/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:11:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_44ee81a348b94b4b",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Trump and Netanyahu have ‘hard feelings’ as GOP debates escalation vs. diplomacy on Iran: Byron York",
+      "snippet": "Washington Examiner chief political correspondent Byron York highlighted division over whether to escalate military action against Iran or pursue a diplomatic solution. “There is a debate between the ‘finish it off’ crowd, who wants more ma",
+      "link": "https://www.washingtonexaminer.com/news/world/4801921/trump-netanyahu-hard-feelings-gop-debates-iran-byron-york/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:10:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_91a43dacc89068c5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "5 people found alive after 3 months adrift at sea in tiny 20-foot boat",
+      "snippet": "After drifting for three months across the Pacific Ocean from Micronesia, five survivors, including two children, were found off Fanning Island in Kiribati.",
+      "link": "https://www.foxnews.com/travel/5-found-alive-3-months-adrift-sea-tiny-20-foot-boat",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:10:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_1f4c930815bfeca7",
       "source": "ABC News",
@@ -109,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_29f939e00bc43ca9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Charles Barkley has heartfelt Veterans Day message interrupted on air by an untimely phone call",
+      "snippet": "Charles Barkley's passionate Veterans Day message on \"Inside the NBA\" was interrupted when Kenny Smith's phone went off loud enough to announce the caller.",
+      "link": "https://www.foxnews.com/outkick-sports/charles-barkley-heartfelt-veterans-day-message-interrupted-untimely-phone-call",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:07:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a65726aee1007c1e",
@@ -132,6 +184,19 @@
       "link": "https://thehill.com/homenews/campaign/6190120-cindy-holscher-kansas-governor-race/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP23089792528936-e1785529303895.jpg?w=900",
       "publishedAt": "2026-11-12T20:04:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cafcfcf76e1757cf",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+      "snippet": "Israeli fire killed 11 people in Gaza on Thursday, six of them in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike since Israel's elections last month. FRANCE 24's Mark Owen s",
+      "link": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
+      "imageUrl": "https://s.france24.com/media/display/d8bb4c84-ded2-11f1-b9be-3f371022a770/w:1024/p:16x9/EN-20261112-203639-204648-CS.jpg",
+      "publishedAt": "2026-11-12T20:03:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -263,6 +328,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:53:22.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a3949491986e3bd8",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
+      "snippet": "Ukrainian President Volodymyr Zelensky warned European leaders Thursday to be wary of discussions between the United States and Russia about a new security arrangement for the continent. Before launching the war in 2022, the Kremlin deliver",
+      "link": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements",
+      "imageUrl": "https://s.france24.com/media/display/eb157cac-ded1-11f1-b7cf-29048b396e03/w:1024/p:16x9/EN-20261112-201030-201228-CS.jpg",
+      "publishedAt": "2026-11-12T19:53:15.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -423,6 +501,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_6a20df73ed563020",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters",
+      "snippet": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:43:19.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0b75135a5764fa8d",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -496,6 +587,19 @@
       "link": "https://thehill.com/regulation/court-battles/6216986-bruesewitz-utley-legal-battle/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP23165565753786-e1794512767275.jpg?w=900",
       "publishedAt": "2026-11-12T19:38:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e6e4a4d4dc4754b7",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Plugged-in planet? COP31 host Turkey leads charge for electrification",
+      "snippet": "It’s sweater weather in Paris. But even though November brings brisk temperatures and fall foliage, it doesn’t mean last summer’s record heat should fade from our memories. One of the suggested reasons why students are so boiling mad is the",
+      "link": "https://www.france24.com/en/tv-shows/the-debate/20261112-plugged-in-planet-cop31-host-turkey-leads-charge-for-electrification",
+      "imageUrl": "https://s.france24.com/media/display/b85cdb4e-decb-11f1-b36a-3f371022a770/w:1024/p:16x9/2026-11-12T165926Z-848197191-RC2GMOAAGTKD-RTRMADP-3-CLIMATE-COP31-1.jpg",
+      "publishedAt": "2026-11-12T19:38:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -694,6 +798,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_87608b905fbefdd2",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "White House reportedly discussing Howard Lutnick's future as Commerce secretary",
+      "snippet": "Senior White House officials are discussing whether ​Commerce Secretary Howard Lutnick should be pushed out in the wake of the spy scandal surrounding Nvidia's now ​former ‌CEO Jensen Huang, two people familiar ⁠with the situation told Reut",
+      "link": "https://www.france24.com/en/white-house-reportedly-discussing-howard-lutnick-s-future-as-commerce-secretary",
+      "imageUrl": "https://s.france24.com/media/display/d1601f00-decd-11f1-b247-695cb59fade5/w:1024/p:16x9/EN-20261112-200116-200925-CS.jpg",
+      "publishedAt": "2026-11-12T19:22:28.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_c474ca6bac2ce4e9",
@@ -1120,6 +1237,19 @@
       "link": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-thursday-night-football-2000-bonuses-available-giants-commanders",
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:45:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3f90b868c268f2cf",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
+      "snippet": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial demands, competing visions of European security and an increa",
+      "link": "https://www.france24.com/en/video/20261112-winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
+      "imageUrl": "https://s.france24.com/media/display/bd0cc890-dec4-11f1-b12e-3f371022a770/w:1024/p:16x9/EN-20261112-151200-152330-CS.jpg",
+      "publishedAt": "2026-11-12T18:45:44.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2022,6 +2152,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_4d8ff38b773e8156",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
+      "snippet": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. T",
+      "link": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
+      "imageUrl": "https://s.france24.com/media/display/33654616-dab0-11f1-ad25-695cb59fade5/w:1024/p:16x9/2026-10-14T100614Z-1152484815-RC2Y2OATJ5N2-RTRMADP-3-FRANCE-POLITICS.jpg",
+      "publishedAt": "2026-11-12T17:43:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5da2b077838a8bbf",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2095,6 +2238,19 @@
       "link": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/mastbrian_090226gn01_w.jpg?w=900",
       "publishedAt": "2026-11-12T17:33:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cd3898fd292a8a85",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
+      "snippet": "The French government has been accused of weaponising an anti-terror law adopted in the wake of the 2015 Paris attacks to keep dozens of people away from massive protests sweeping the country. Lawyers and rights groups denounce an abuse of ",
+      "link": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
+      "imageUrl": "https://s.france24.com/media/display/fd886f68-d484-11f1-9138-695cb59fade5/w:1024/p:16x9/000-D4BK2ND.jpg",
+      "publishedAt": "2026-11-12T17:32:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2538,162 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T16:55:28.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d7a7fcb47330dea",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-      "snippet": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:55:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ba0baf38f19a6441",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Four died in military helicopter crash in eastern Turkey, defence ministry says - Reuters",
-      "snippet": "Four died in military helicopter crash in eastern Turkey, defence ministry says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFRDcndTTjFHZDZsUWgwMnZZWXhNdmtEMjFaQTVVMWk4dTVqMEQwXzE0SXZZLXZXQ3d3dThPQjUyVkxiVmJIZjRMOEFSbC1BNmoyWDJjSERIYjIybEZjazVOTzcxYXNSV2VFTWVlTG5IQmgxMnBkeW9WQTFPTUVZVHRYQm13aDNLelVRalVMX3R5NU1GcFRfVFVma1JNMFpSZHViaW5LOTNsbUlrekpndFFNblVSNTFGd0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:54:29.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b8bb9c4cdad0231b",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "snippet": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:54:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6d1eda8a82e98223",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "PODCAST: Nvidia CEO Jensen Huang resigns, Manchester United and Mississippi (updated) - Reuters",
-      "snippet": "PODCAST: Nvidia CEO Jensen Huang resigns, Manchester United and Mississippi (updated)  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEV1Z2t5d1lhNmRkZmprb0RBUUxUclhjRkFRVUdoSHc2NlFOZ3NwWDZSYlZ2ay1Eenlha0VxN0paeG1JeVVlWGd4QnZwbUJ5Y0ZkRkRKWDI0ZWtLcDhobGE1LWlKZEo1VkQ4RnFITkJXdXhrRFZFeDF0LTZveWdCTVpoZXJUVlZRYXpRc3BLNFNFdEd4dmxJX0c1M0JGeFJYTmtzag?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:48:22.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
-    },
-    {
-      "id": "story_d5773d21f6120552",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe - Reuters",
-      "snippet": "Oil tanker struck off UAE's Ras Al-Khaimah, all crew reported safe  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDlHRUduYXpITEh6ZXlxdm9Zc3hiVXlhZXhzbzUySkFvNkMyQ1pFYWlxbnZKUmR4T0tieF9rZHhWYnFzUXI2a0J4M2VOLUZPcGt3ckxrUzNrSFFfeXpXNDJjRzVIS2p6OWI5d1BhMHVzVVY4TktOaWJQYTJpenFZOXpISzBiUDZ5ZG5vVGE2U0U5RnFjQmlaRmNnUDk0YV9DRnl6UVRkOEtGR1RJdUF2VmxNRmVpN1lDeXRINVdYQ0xabGJkMTMwazNR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:45:39.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb0fde5fbe1870e4",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Italy vs France LIVE: UEFA Nations League",
-      "snippet": "Follow updates from the Group A1 clash, including the build-up, analysis and live text commentary of the game.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/12/italy-vs-france-live-uefa-nations-league?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:45:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fe9c35182c2173cb",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Prominent Israeli settler denied entry into France",
-      "snippet": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
-      "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:44:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5831b0a1168e5a0",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-      "snippet": "The first trilateral talks between Ukraine, the US and Russia in nine months have ended with an agreement on exchanging prisoners. Does this mark a genuine breakthrough and a step toward peace?",
-      "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:44:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_37170bfe547cc3f0",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Farage was guest on Brand podcast after sexual assault investigation began",
-      "snippet": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian\nNigel Farage appeared on Russell Brand’s US podcast nine months after police opened an investigation into the comedian after allegati",
-      "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:43:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8cf94f56c2fbea5a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "A 'moving and revealing' look at life in East Germany",
-      "snippet": "Eric Stange’s 2010 documentary weaves together interviews with world leaders and everyday East Germans.",
-      "link": "https://www.semafor.com/article/11/11/2026/a-documentary-with-moving-and-revealing-insight-into-east-germany",
-      "imageUrl": "https://img.semafor.com/62d5ec9dd5278fd1c9a4926e03836bfee5304d08-5320x3992.png",
-      "publishedAt": "2026-11-12T16:41:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_64a4da9c56d60cec",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-      "snippet": "Swedish activist criticised world governments for their failure to prevent environmental breakdown \nThe planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to",
-      "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:39:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b9be25ecd1ecc9c5",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "'There was no way of getting out': Witness describes gym shooting scene",
-      "snippet": "A witness describes hearing gunfire at a Washington, D.C. gym and how she and other people escaped.",
-      "link": "https://www.nbcnews.com/video/witness-describes-horrific-scene-at-washington-d-c-gym-shooting-273343045703",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:36:49.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
