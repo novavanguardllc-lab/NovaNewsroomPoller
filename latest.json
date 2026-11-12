@@ -1,101 +1,206 @@
 {
-  "updatedAt": "2026-11-12T20:05:06.586Z",
+  "updatedAt": "2026-11-12T20:10:09.216Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.680Z"
-    },
-    "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.687Z"
+      "lastSuccess": "2026-11-12T20:10:09.281Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.766Z"
+      "lastSuccess": "2026-11-12T20:10:09.366Z"
     },
-    "PBS": {
+    "AP": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.805Z"
+      "lastSuccess": "2026-11-12T20:10:09.394Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.791Z"
+      "lastSuccess": "2026-11-12T20:10:09.407Z"
     },
-    "Sky News": {
+    "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.899Z"
-    },
-    "CBS News": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.851Z"
-    },
-    "UPI": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.798Z"
-    },
-    "Politico": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.825Z"
-    },
-    "BBC": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:07.053Z"
-    },
-    "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.846Z"
+      "lastSuccess": "2026-11-12T20:10:09.422Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.915Z"
+      "lastSuccess": "2026-11-12T20:10:09.467Z"
     },
-    "Wash Examiner": {
+    "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.909Z"
+      "lastSuccess": "2026-11-12T20:10:09.481Z"
+    },
+    "CBS News": {
+      "online": true,
+      "lastSuccess": "2026-11-12T20:10:09.485Z"
+    },
+    "UPI": {
+      "online": true,
+      "lastSuccess": "2026-11-12T20:10:09.505Z"
+    },
+    "PBS": {
+      "online": true,
+      "lastSuccess": "2026-11-12T20:10:09.522Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.883Z"
+      "lastSuccess": "2026-11-12T20:10:09.602Z"
+    },
+    "Politico": {
+      "online": true,
+      "lastSuccess": "2026-11-12T20:10:09.611Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.946Z"
+      "lastSuccess": "2026-11-12T20:10:09.613Z"
     },
-    "DW": {
+    "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.897Z"
+      "lastSuccess": "2026-11-12T20:10:09.616Z"
     },
-    "Semafor": {
+    "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:07.034Z"
+      "lastSuccess": "2026-11-12T20:10:09.621Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-12T20:05:06.926Z"
+      "lastErrorAt": "2026-11-12T20:10:09.625Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-11-12T20:10:09.639Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.933Z"
+      "lastSuccess": "2026-11-12T20:10:09.650Z"
     },
-    "Reuters": {
+    "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:06.789Z"
-    },
-    "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-12T20:05:07.101Z"
+      "lastSuccess": "2026-11-12T20:10:09.703Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:07.045Z"
+      "lastSuccess": "2026-11-12T20:10:09.726Z"
+    },
+    "Reuters": {
+      "online": true,
+      "lastSuccess": "2026-11-12T20:10:09.768Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-12T20:05:09.410Z"
+      "lastSuccess": "2026-11-12T20:10:09.790Z"
+    },
+    "France24": {
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-12T20:10:10.097Z"
     }
   },
   "items": [
+    {
+      "id": "story_1f4c930815bfeca7",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Republicans push for Jensen Huang's testimony following Nvidia CEO's resignation",
+      "snippet": "\"I don't think he's got anything to hide now. Let it fly,\" Rep. Burchett said.",
+      "link": "https://abcnews.com/Politics/republicans-renew-push-jensen-huangs-testimony-nvidia-ceos/story?id=138083749",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:07:55.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_a65726aee1007c1e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit - Reuters",
+      "snippet": "AI stocks pare losses as investors assess fallout of Nvidia CEO's exit  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDc4NU9Ycko1b01GTVdRT1lMVzJWaEhrLS1OSU92el9GTTRMSEhyTW5VbThOZEhoVGNCbHNBU19EZS1UUlNiTW0wVU41RUdBVkJpQlNRazBvaHJFQ2VnT2FJU183NE9ub1RKQU5wMFp6N1luX3lrMFZubFVIaHJ0TWhZRVkyUzhJVjBsaDRlMEpKNUFLeWtITVhLRVhqOERFMzh0azNJeVlqVzI0ZUowcnV4Z3VYMUdXcFY0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:06:07.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9a9121dfcf8dcf09",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Cindy Holscher wins Kansas governor’s mansion, keeping it in Democrats’ hands",
+      "snippet": "Democratic state Sen. Cindy Holscher was projected to win the Kansas governor’s race, according to Decision Desk HQ (DDHQ), keeping the office in Democratic hands and denying Republicans one of their best pickup opportunities this year. Hol",
+      "link": "https://thehill.com/homenews/campaign/6190120-cindy-holscher-kansas-governor-race/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP23089792528936-e1785529303895.jpg?w=900",
+      "publishedAt": "2026-11-12T20:04:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_639340a170014ed1",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Hegseth awards medal to soldier who reprimanded group near tomb",
+      "snippet": "Defense Secretary Pete Hegseth awarded a medal to the service member who reprimanded his group for making noise at the Tomb of the Unknown Soldier​.",
+      "link": "https://www.cbsnews.com/news/hegseth-medal-reprimand-tomb-of-the-unknown-soldier/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:02:48.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_147542e6398bb7df",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Notre Dame head coach Marcus Freeman explains the meaning of his meme-worthy side-eye",
+      "snippet": "Marcus Freeman's viral side eye during Notre Dame's win over the Miami Hurricanes became an instant meme, and his players know the look well.",
+      "link": "https://www.foxnews.com/outkick-sports/notre-dame-head-coach-marcus-freeman-explains-meaning-meme-worthy-side-eye",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:02:29.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_425c48221cbd8942",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Democrats have flipped over 40 House seats. Here's the breakdown.",
+      "snippet": "Democrats won control of the House on Tuesday by flipping more than three dozen Republican-held seats, picking up perennial swing districts and seats that were once considered deep red.",
+      "link": "https://www.cbsnews.com/news/house-districts-flipped-2026-midterm-elections/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:01:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e28a56bd61ad7567",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "These House and Senate midterm races don't have winners yet",
+      "snippet": "Democrats won sizable House and Senate majorities in the 2026 midterm elections, but the exact margins are unclear because some races haven't been projected yet. Here's where the results stand.",
+      "link": "https://www.cbsnews.com/news/2026-midterm-election-house-senate-projections-toss-up/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:01:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_46f3afcf4a332c6f",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " At least 8 dead, including 2 children, after building collapses in Brooklyn",
+      "snippet": "A three-story building collapsed into an adjacent excavation site, where workers were on scene, according to an FDNY dispatch.",
+      "link": "https://abcnews.com/US/rescue-operations-underway-after-building-collapses-brooklyn-new/story?id=138059620",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T20:00:39.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_83e52dba603d5c38",
       "source": "NYT",
@@ -131,9 +236,35 @@
       "link": "https://www.nbcnews.com/tech/tech-news/colette-kress-nvidia-new-interim-ceo-jensen-huang-replace-who-is-rcna609039",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:57:05.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 5
+    },
+    {
+      "id": "story_cb8b474fe8634bac",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Longtime NBC Sports announcer Dan Hicks dies at 64 - AP News",
+      "snippet": "Longtime NBC Sports announcer Dan Hicks dies at 64  AP News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOei01RDZ1ZHBmNk9zdGFRenRwaHFSdU1ZMDNfblItUUR6dGxsbEJVQmZYYkNNZzI0b09nWXNjS1VWZ1dQN1BjZlFjMnU2VE1ONF9BaTVIc0tXNW9zMXBPT0ZQak9jQ2ROcW1QZ3Z3ZjNoM0NIVzF3aGNnYkE2MllVQW5JVUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:55:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d0b2265999235e26",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say - Reuters",
+      "snippet": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWtqakZ4LUVIb2dkYnZNS0ZXM3M3ZEpyZGQ1eDc0UWxOR2I4cWNLeXk5VW5HM0hjbGxvYktjN2s3ZThPNWswVFBpQmZ6a3FYUDVRVVdRWk9XRXB0VFNIejJObkRnWm0wZTNpUjM4TmgxVkMtY2RFbEp3UUZRakpMWmZMeHJlZXlQMHB3OXBaSE1KY24xS3EzUjNlNE1HblplZkpyWmFBbVprTGV5TVVrbWNPUjl6UnZOU3hMZlFtdEIyZ21jQ3dZ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:53:22.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_6a0423f140064b69",
@@ -149,6 +280,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2be0e3e6e43f0781",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "1 killed, 4 injured in shooting in D.C.; suspect is dead",
+      "snippet": "Residents have been asked to avoid the area of 15th and P Street in Washington, D.C., as police respond to the incident.",
+      "link": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:50:55.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_96e02a935b8d32b1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him - AP News",
+      "snippet": "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSktocy1OY2dwRlRpZnRkZ3V0d2hRdmgxRzM2bzlRVW1wdVd6a05PTGRUeTZDY3lwVkN4RFBDQUFrcmVBWmdnOVpkSVNlaVluTndndG1aeE1RQnBHY2NDcWVyeWg0VHhNQlBqejBSeXp0T0RBaTlUQS1rZ19kWEp4THhJa1cxWXhkSUl2Nm1YRG1xbmNMeV95S0NJMzl6M3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:50:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_6a2ed0cad30a432b",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -162,6 +319,32 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_05f61ea9cc502458",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Brooklyn building collapse killed 2 children and 6 adults, mayor says - AP News",
+      "snippet": "Brooklyn building collapse killed 2 children and 6 adults, mayor says  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTF0bXlzSWlmLWlkQWl1aE1xZzFRNjVtTXJtOFV4bUtGd2JQeGx0bjJ1bjRCQ2pUVFN2ejd2ZU5NZE5MVTdSNGpZbjU4RVV4MDVsQnRtLUZHV09LS0NYeWY1OGVaVkdWYk10Vy00UzdJY1lpSUYza2dWVGY3aC1vS3dCbDE2OVlHNHB5VVJYSDBSZi05eVNLcXRsMDZDWkJFZmYtMGxsN2hjQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:48:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_dc29cf3a466ca0c3",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+      "snippet": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier\n\nPete Hegseth awards medal to soldier who reprimanded him\n\nSign up for the Breaking New",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:46:10.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
       "id": "story_50c26ad7580c70ba",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -172,7 +355,7 @@
       "publishedAt": "2026-11-12T19:45:40.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 7
     },
     {
       "id": "story_cc25a87212480e0e",
@@ -192,7 +375,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "DC police identify accused Logan Circle gunman, signal potential motive",
-      "snippet": "Washington, D.C. police identified the suspected gunman accused of shooting five people, including one fatally, in D.C.’s Logan Circle neighborhood Thursday, according to the Associated Press. Three sources, including two law enforcement of",
+      "snippet": "Washington police identified the suspected gunman accused of shooting five people, including one fatally, in D.C.’s Logan Circle neighborhood Thursday, according to The Associated Press. Three sources, including two law enforcement official",
       "link": "https://thehill.com/homenews/state-watch/6217017-dc-logan-circle-shooting-suspect/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26316509235881-e1794512377380.jpg?w=900",
       "publishedAt": "2026-11-12T19:45:04.000Z",
@@ -201,15 +384,41 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2bffb4f9cdc57d72",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Who will succeed Jensen Huang at Nvidia? Analysts weigh in.",
+      "snippet": "Analysts say the board will be on the hunt for someone who has the technological know-how to lead the world's leading chip manufacturer.",
+      "link": "https://www.cbsnews.com/news/jensen-huang-next-nvidia-ceo-candidates/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:44:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
       "id": "story_c1775d81f36cded3",
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Matt Lambert, DC doctor, identified as gunman in deadly attack after HOA feud",
-      "snippet": "Dr. Matt Lambert allegedly posted a manifesto referencing an engineering report minutes before the deadly VIDA gym shooting in Logan Circle.",
+      "snippet": "Dr. Matt Lambert allegedly posted a manifesto referencing an engineering report minutes before the deadly Vida gym shooting in Logan Circle.",
       "link": "https://www.foxnews.com/us/matt-lambert-dc-doctor-identified-gunman-deadly-attack-after-hoa-feud",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:44:17.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f3680694346e9e31",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say - Reuters",
+      "snippet": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:43:53.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -222,9 +431,9 @@
       "link": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:43:09.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 4
     },
     {
       "id": "story_9bb2964941613a49",
@@ -240,6 +449,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_abedf8988b64eeb3",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What to Know About the Deadly Building Collapse in Brooklyn",
+      "snippet": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed, officials said.",
+      "link": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:38:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fa252ed32a05893e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+      "snippet": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:38:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ef66598e3ae13dff",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -248,22 +483,35 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:38:33.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_c0b1e4c27b0ce729",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Trump adviser moves to strike Qatar payment allegations from court record",
-      "snippet": "A political consulting firm led by a top outside adviser to President Trump is asking a federal judge to strike accusations made by one co-founder in which he accuses the other of receiving hundreds of thousands of dollars from Qatar-linked",
+      "snippet": "A political consulting firm led by a top outside adviser to President Trump is asking a federal judge to strike accusations made in a filing by one co-founder in which he accuses the other of receiving hundreds of thousands of dollars from ",
       "link": "https://thehill.com/regulation/court-battles/6216986-bruesewitz-utley-legal-battle/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/judge_chambers_books_gavel_07142010_AP24101721194195-2.jpg?w=900",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP23165565753786-e1794512767275.jpg?w=900",
       "publishedAt": "2026-11-12T19:38:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_bee007a93fb5d18c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+      "snippet": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker\n\nAnalysis: Jensen Huang built an AI kingdom. What now?\n\nFull report: Jensen Huang resigns as Nv",
+      "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:38:03.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 8
     },
     {
       "id": "story_7275f5c791bd8325",
@@ -279,17 +527,30 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_706e963faecdc5b9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Figure skating worlds face ‘impact’ as Finland restricts entry for Russian athletes - AP News",
+      "snippet": "Figure skating worlds face ‘impact’ as Finland restricts entry for Russian athletes  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3JjM01WOVF5dmxMUGVlQ3MtbERUV29oWFdvYnNHUWlialpudTZZMnJyWFFkSHNMX2JGX01wMjVHN0xrc3VMaGV3Y2Z0VjFuS0pJeHltekw1b3ZOVzdfNWdISTFONjRDcHB0RDdPZ25iZ180OXg2WEJaaWtRSnA2cHpzV1pJSWpLNXYySzV1UzZTT3owQk9YVWtScDlGdjVSMGNTaTNHeUVEZUhNSUtTag?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:35:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_59349c399de1b131",
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief",
-      "snippet": "Defense Secretary Pete Hegseth awarded a Joint Service Commendation Medal to the soldier who reprimanded his staff at the Tomb of the Unknown Soldier.",
+      "snippet": "War Secretary Pete Hegseth awarded a Joint Service Commendation Medal to the soldier who reprimanded his staff at the Tomb of the Unknown Soldier.",
       "link": "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:34:29.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_3aaceacba81b2c64",
@@ -313,9 +574,9 @@
       "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:33:37.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 12
     },
     {
       "id": "story_26a80163b34dfae2",
@@ -357,6 +618,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5fccdba4f2de2be7",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Takeaways From the Times’s Report on Aviation Safety",
+      "snippet": "How alarmed should we be about the state of air travel?",
+      "link": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:31:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_777c5106b1d88b33",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -383,11 +657,50 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7df318055668292b",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Pope declares Peru his \"homeland\" in final leg of South America trip",
+      "snippet": "Pope Leo declared Peru his \"homeland\" as he arrived in Lima at the start of his historic visit​, returning to the place that taught him how to be a pastor.",
+      "link": "https://www.cbsnews.com/news/pope-leo-peru-homeland-south-america-trip/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:26:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_42be5ca9f809d779",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump says \"we don't need a deal with Iran\"",
+      "snippet": "President Trump says the war with Iran has been won and \"we don't need a deal,\" as Tehran sticks to its demands and continues attacking ships.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:26:29.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_f532866572ca90b1",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "snippet": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:23:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_c474ca6bac2ce4e9",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Paxton finalizes divorce after ex-wife filed on ‘biblical grounds’: Report",
-      "snippet": "Former GOP Senate candidate and Texas Attorney General Ken Paxton (R) has reportedly finalized his divorce from his ex-wife, state Sen. Angela Paxton (R), after being married for over 40 years. His attorney confirmed to The New York Times, ",
+      "snippet": "Former GOP Senate candidate and Texas Attorney General Ken Paxton has reportedly finalized his divorce from his ex-wife, state Sen. Angela Paxton (R), after being married for more than 40 years. Ken Paxton’s attorney confirmed to The New Yo",
       "link": "https://thehill.com/homenews/state-watch/6216932-ken-angela-paxton-divorce-finalized/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/07/PaxtonKen_PaxtonAngela.jpg?w=900",
       "publishedAt": "2026-11-12T19:22:27.000Z",
@@ -396,14 +709,79 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_ec2a601e176775cf",
+      "id": "story_d30aa0ac8a963e97",
       "source": "ABC News",
       "sourceColor": "#3E5A7A",
-      "headline": " Outlook outage: Microsoft reports 'issues' with Teams and email",
-      "snippet": "Microsoft is reporting \"issues\" with users accessing Outlook and Teams.",
-      "link": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+      "headline": " Nvidia CEO Jensen Huang resigns amid alleged affair with reported spy",
+      "snippet": "CFO Colette Kress will serve as interim chief executive, Nvidia said.",
+      "link": "https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T19:11:32.000Z",
+      "publishedAt": "2026-11-12T19:20:58.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
+      "id": "story_4e47f951ad2667da",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+      "snippet": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:19:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4e0c47bd37ee353b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "When Bernice Gottlieb Visited a Community of People With Leprosy",
+      "snippet": "By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95.",
+      "link": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:16:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_79bed904631621d7",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
+      "snippet": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets\nTwo men of Iranian origin who were hired through social media as part of a plan to “eliminate” journalists in the UK have been f",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:15:30.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c12c9edf2a6fc5de",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster - Reuters",
+      "snippet": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:14:14.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_990479bd0eed8e07",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "US DOJ probes Nvidia as fallout from Huang’s resignation ripples across Washington",
+      "snippet": "The investigations focus on antitrust and tech companies Megaspeed and Supermicro.",
+      "link": "https://www.semafor.com/article/11/12/2026/us-doj-probes-nvidia",
+      "imageUrl": "https://img.semafor.com/dd8d424713f6f9f6706337eb1aa571f3dae42cb7-4500x3001.jpg",
+      "publishedAt": "2026-11-12T19:12:54.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -448,6 +826,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e58ef6dc8ab53d45",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
+      "snippet": "Suspect has died after suffering a gunshot wound; one injured person in critical condition\n\nMultiple people shot in Washington DC as police warn people to stay inside\n\nThe incident is shifting from an active shooter response to a barricaded",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:09:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_4e9d610c21620de4",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself - AP News",
+      "snippet": "5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMW5zRmhTTGNjXzZqa1hiWG1oWmVLeGZzZmZiVkhjOEpqTlJiMVZudG1meElSb2d5djFtM0FSUzM0UVdtYXdRcVZReTBxUG5rMW9ZYVQ3MlFXTGhZRG5rZmZnay1ONXlEVzJWdFRKZ3VLZGRDNFVzU21oVkZHTkhCZGlDNTA2NlgzY3lhdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:09:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b286561d0c40cc9e",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -456,9 +860,9 @@
       "link": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:07:00.000Z",
-      "tier": "major",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 2
     },
     {
       "id": "story_d631ab06f769bc57",
@@ -484,19 +888,6 @@
       "publishedAt": "2026-11-12T19:05:41.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e83a1c88ac9f8e41",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "The 23+ best Hanukkah gifts for kids and adults — plus, everything else you need for a celebration",
-      "snippet": "Hanukkah 2026 is from December 4 to 12. We found the best traditional and unique gifts for everyone on your list, as well as Judaica and hosting essentials.",
-      "link": "https://www.nbcnews.com/select/shopping/best-hanukkah-gifts-rcna608970",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T19:05:00.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -534,9 +925,9 @@
       "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-resignation-scandal-timeline/",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:04:13.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
       "id": "story_72161331ed244b1c",
@@ -555,12 +946,25 @@
       "id": "story_633d5f2300bbfb2e",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Trump orders JD Vance to stop Iran war negotiations and focus on domestic policy",
+      "headline": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
       "snippet": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’\n\nUS politics live – latest updates\n\nDonald Trump has said that the US is no longer seeking a deal to end the ",
       "link": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
       "imageUrl": null,
       "publishedAt": "2026-11-12T19:01:16.000Z",
-      "tier": "routine",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c6412933564da051",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Mercedes-Benz halts German investments as plant closures loom - Reuters",
+      "snippet": "Mercedes-Benz halts German investments as plant closures loom  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T19:01:07.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -617,17 +1021,56 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_bdd6ff2e3ac86e42",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Former death row prisoners call Byron Donalds to halt future Florida executions",
-      "snippet": "Donalds is governor-elect in state that leads the US in the number of executions, with its 20th this year taking place next week\nThree exonerated former death row prisoners in Florida have called on incoming governor Byron Donalds to halt t",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/byron-donalds-florida-executions",
+      "id": "story_1ad75c6b1f374a9f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Jensen Huang steps down and Nvidia sell-off continues - AP News",
+      "snippet": "Jensen Huang steps down and Nvidia sell-off continues  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmE5NnFhVTJwdTM3SGR0LWZQaHhWTzRGQnhqel9JbWN0WmFlV2xwbGhhSFkwaXFKVnRBZTlObmNRSmxmV3ZaV0h4MEpxWnBfVTRfMjRnNHFDSHFlWlJBTzl1a1Bua3c0WHJucFF4RnFKSXRKZWttay1mRzE2b2pXZkRFa3JGdHZtT2M4ZEQ1NmV1VEVCdG1mTGpiQXZfb29IMy1INzlJbnpORDNEcndQSEtULUY?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T18:58:44.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T18:55:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_ae07e93979e9d490",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+      "snippet": "Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.",
+      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:54:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 7
+    },
+    {
+      "id": "story_67f6c2d5ebc7d199",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Leaders of countries already hit hard by climate change tell UN summit that urgent action is needed - AP News",
+      "snippet": "Leaders of countries already hit hard by climate change tell UN summit that urgent action is needed  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjkzOWVoQXBnb2hPQ281NmxZU0N4SHVSRVFwcEFsNGZxd0NTZzJnMkxDZlIxV19OM3FQTFVnUTFoS0VvZlZucG83NV92bWVNN21ZNmlsMVBzZ2FrTVBHSXZxaE9Kbzd4ZnE5enN4TlJkM29oUmZ0MkJkSWN1YkZQaFZWekVndjJEX0czLVFIVUE4OExfbTJIeHQzX25lWFVQTkxGbg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:53:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_2f3f32ef5c0f04a8",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "Eight dead and at least 18 injured after Brooklyn building collapse",
+      "snippet": "A rescue operation continued Thursday as first responders sought anyone trapped beneath the rubble.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:52:33.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_a1d88e034a46b7fe",
@@ -638,9 +1081,9 @@
       "link": "https://thehill.com/policy/technology/6216664-nvidia-interim-ceo-colette-kress-jensen-huang-resignation-affairs/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP23234617861140.jpeg?w=900",
       "publishedAt": "2026-11-12T18:52:18.000Z",
-      "tier": "routine",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 5
     },
     {
       "id": "story_210ade447914aa7c",
@@ -654,6 +1097,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
+    },
+    {
+      "id": "story_b2a849cb17105da8",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "snippet": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:47:35.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_b6b46bafd9fb7a99",
@@ -734,6 +1190,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c84ec90bd9cb3d21",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal",
+      "snippet": "Nvidia CEO Jensen Huang has resigned effective immediately, the company's board of directors announced Thursday.",
+      "link": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-resigns/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:41:50.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
       "id": "story_097549300596c52f",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -812,6 +1281,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_328fcac5b6dd758f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Richard Posner, prolific legal scholar and outspoken appeals court judge, dies at 87 - AP News",
+      "snippet": "Richard Posner, prolific legal scholar and outspoken appeals court judge, dies at 87  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHlNeEhZeWp3d3FsZlVYYl9rWEs2aDVfSWN6ZXVSUk40VWZJbWpDSWtwYkdKQkpxR3ZfX29sRUJmMGFqZzBuU2ZTR0JORURsUDc4RlhfVzQ1S2NBS18tOXpvWk1RTHlWM2tCTHI3RUJIRTdkandQTDA2LXM5aDVGbzVoa3BXSklxU0htWWdEVQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:39:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0702b11143429d4b",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -859,9 +1341,9 @@
       "link": "https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier",
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:35:44.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 5
     },
     {
       "id": "story_88df02f62d2dbca0",
@@ -890,19 +1372,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d0b2265999235e26",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say - Reuters",
-      "snippet": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWtqakZ4LUVIb2dkYnZNS0ZXM3M3ZEpyZGQ1eDc0UWxOR2I4cWNLeXk5VW5HM0hjbGxvYktjN2s3ZThPNWswVFBpQmZ6a3FYUDVRVVdRWk9XRXB0VFNIejJObkRnWm0wZTNpUjM4TmgxVkMtY2RFbEp3UUZRakpMWmZMeHJlZXlQMHB3OXBaSE1KY24xS3EzUjNlNE1HblplZkpyWmFBbVprTGV5TVVrbWNPUjl6UnZOU3hMZlFtdEIyZ21jQ3dZ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T18:30:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_03fb99e894303573",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -911,6 +1380,19 @@
       "link": "https://thehill.com/opinion/congress-blog/6215212-house-speaker-build-consensus/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Quiz-Impeachment_111026_AP_J-Scott-Applewhite.jpg?w=900",
       "publishedAt": "2026-11-12T18:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c6a88938b538d71e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "snippet": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:28:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -933,13 +1415,39 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "O’Reilly: House Democrats’ new Epstein report ‘a bunch of bull’",
-      "snippet": "Conservative commentator Bill O’Reilly called a new House Judiciary Committee report on the Justice Department’s (DOJ) investigation into convicted sex offender and disgraced financier Jeffrey Epstein “a bunch of bull,” saying it failed to ",
+      "snippet": "Conservative commentator Bill O’Reilly called a new House Judiciary Committee report on the Department of Justice’s (DOJ) investigation into convicted sex offender and disgraced financier Jeffrey Epstein “a bunch of bull,” saying it failed ",
       "link": "https://thehill.com/homenews/media/6216776-oreilly-judiciary-committee-epstein-report-bull/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/BillOreilly_GettyImages.png?w=900",
       "publishedAt": "2026-11-12T18:27:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_8075950902ff920a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Will the Supreme Court Thwart Congressional Investigations?",
+      "snippet": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+      "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:27:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8c9dc5333e7cfeda",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption - Reuters",
+      "snippet": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:26:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_6e9cda982b724130",
@@ -950,19 +1458,6 @@
       "link": "https://www.aljazeera.com/economy/2026/11/12/home-sales-in-the-us-are-at-their-lowest-level-since-2016?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:26:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2bffb4f9cdc57d72",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Who will succeed Jensen Huang at Nvidia? Analysts weigh in.",
-      "snippet": "Analysts say the board will be on the hunt for someone who has the technological know-how to lead the world's leading chip manufacturer.",
-      "link": "https://www.cbsnews.com/news/jensen-huang-next-nvidia-ceo-candidates/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T18:26:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -992,6 +1487,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_750decc5cf697a20",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Two Iranian men found guilty in UK of assisting Iranian intelligence - Reuters",
+      "snippet": "Two Iranian men found guilty in UK of assisting Iranian intelligence  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaWdPVmJKU0hSSFFKaHZqSjhkbmswNjdjN0V5ak1BZHdna1AzWk1YeXlsdHd0WEFxSEppRlpadHY4UTBQTWV1MVliRTVtN005WTdHNTdOWndramJPbXFCYnZQNmJTcldoM3FMbTFmU0RTcGt4TTBETnVqTGFiNDkxNnhYaUlZU2QyeTJPZ2QtR2FPaXFqR3MwamRKRkpON0VFR1NUN0dOaUFYRUxidWJ4M2F3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:22:50.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_81d5f3801374e8cf",
@@ -1024,23 +1532,10 @@
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
       "headline": "What to know about the Logan Circle shooting in Washington, DC",
-      "snippet": "Trump has showcased the capital city as an example of his tough on crime approach.",
+      "snippet": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
       "link": "https://www.aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:22:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_26732e1fb8451a56",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "THC drink companies rush to sell inventory as Illinois ban takes effect",
-      "snippet": "Many hemp companies are shipping their remaining inventory to Wisconsin, Minnesota and Tennessee, which have different regulations\nAt midnight this morning in Illinois, hemp-derived THC drinks transformed from grocery store commodities into",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/thc-drinks-ban-illinois",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T18:21:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1059,15 +1554,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0477afb1906c8fe5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Congress considering limiting computer chip exports to China, Johnson says after Nvidia scandal",
-      "snippet": "House Speaker Mike Johnson says he's in favor of limiting computer chip exports to China, a major competitor to the U.S. in big tech's AI development race. CBS News' Nikole Killion reports.",
-      "link": "https://www.cbsnews.com/video/congress-considering-limiting-computer-chip-exports-to-china-johnson-says-after-nvidia-scandal/",
+      "id": "story_3fd6adce9727d9fa",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it - AP News",
+      "snippet": "Senators probe RFK Jr.'s Samoa trip testimony after AP and Guardian showed documents that refute it  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lEekgxMHlib0FkWW1YaWRoV0hKd1dQTzFuQ002eUNjZi1yWHc1a0U1MFd5VkFScUg1VDh3YmRqVXoxSGFHUlF6NWYtZXgydzFqOUktTjJELUJCS2J4azljdVZRZ3ZUUWdpMjdub1JGWmNHT3hVc28wTFJFMVpnUmt2aHpOb3dvVV9VcVV3OERjeEU4SUVRVncwNzBPNnRJREZpMWJMeXBHTlBveUIw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T18:18:39.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T18:20:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1081,6 +1576,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:18:11.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4bb8e941caf6e521",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy - AP News",
+      "snippet": "US envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:17:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1102,7 +1610,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "American Cancer Society recommends regular prostate cancer testing in updated guidelines",
-      "snippet": "The American Cancer Society released an updated guideline Thursday that recommends regular prostate cancer screening for average-risk men between the ages of 50-69 years old. The society also recommended annual screening starting at the age",
+      "snippet": "The American Cancer Society released an updated guideline Thursday that recommends regular prostate cancer screenings for average-risk men between the ages of 50-69 years old. The society also recommended annual screenings starting at the a",
       "link": "https://thehill.com/policy/healthcare/6216792-acs-updates-prostate-screening/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2022/09/prostate-cancer-cells-e1794506901263.jpg?w=900",
       "publishedAt": "2026-11-12T18:15:14.000Z",
@@ -1119,22 +1627,22 @@
       "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:15:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_38267926277dcf66",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "SpaceX denies latest Zelensky Starshield claims",
-      "snippet": "SpaceX on Thursday denied Ukrainian President Volodymyr Zelensky’s claim that Starshield systems are again being throttled in his country, just weeks after Kyiv said similar issues had been resolved. In October, Kyiv reported the first roun",
-      "link": "https://www.washingtonexaminer.com/news/world/4801571/spacex-denies-latest-volodymyr-zelensky-starshield-interference-claims-ukraine/",
+      "id": "story_d0aef2589ec4443c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns - AP News",
+      "snippet": "Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUJpQ1liNWFtSE1mbDNEelBsWnRaUG1kM1doMGlIR2I4MEpKcXVsb2JpYWlVU2JUSkc5Y2tvUjBQdC1OTzB4Ny1pZ29oell4RXZ0dHlfVHhaR3JScFhIckx6VkxaQ0xMU2pubmg1SG9PV3F1Y1JkUDNOTkdSMEtoaHB2REFWelRxOExGaFBJSVhnNzUwRWFtVA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T18:12:54.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T18:12:00.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 11
     },
     {
       "id": "story_a5dd670a41c56c2c",
@@ -1150,27 +1658,53 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_eda2470930b5f44c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
-      "snippet": "‘We love standards. Well done, Specialist’, the defense secretary writes following Veterans Day visit\nThe defense secretary, Pete Hegseth, on Thursday awarded a Joint Service Commendation Medal to the soldier who called out him and members ",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
+      "id": "story_a3d887525c687762",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
+      "snippet": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
+      "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T18:08:31.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-11-12T18:09:11.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 8
     },
     {
-      "id": "story_c700421337740eda",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Jeffries refuses to rule out government shutdown over Iran war",
-      "snippet": "House Minority Leader Hakeem Jeffries (D-NY) on Thursday did not rule out forcing a government shutdown to see the end of the Iran war. Jeffries was asked during a press conference if he would consider attaching a provision to end the Iran ",
-      "link": "https://www.washingtonexaminer.com/news/house/4801564/hakeem-jeffries-government-shutdown-iran-war/",
+      "id": "story_bfee3efea6ab456e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Oklahoma man is put to death for killing of girlfriend’s husband, with a Texas execution to follow - AP News",
+      "snippet": "Oklahoma man is put to death for killing of girlfriend’s husband, with a Texas execution to follow  AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXFXXzBQT0tMbmFaMTJZaUZLYm9OV0R3WFN6azdDV25nUVMyaExVOV9XSTU3TzVTNFpldHJMelpQUEI5QnQ5ZUNtRkkyeXR2dC1vYXFqSU8tOUNrYU1GbV9MZF9FM3d2MlA0c0FGV3BHTTJ4enlKTHRuYWZONWRTbENhRzBnQ2VXSzczbEdFV2plVXEyd0ZtaDA3akdnUQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T18:04:54.000Z",
+      "publishedAt": "2026-11-12T18:08:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c4f3530997d60f2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Black voters view Scott Colom's historic US Senate win through lens of Mississippi's racial legacy - AP News",
+      "snippet": "Black voters view Scott Colom's historic US Senate win through lens of Mississippi's racial legacy  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnBydk9uTGt2Y2lpWVZNOEQ4UkcyWk5sQXdrNTB6dzdhV25HaGRTUzhiRElLVkFmbDN0bDZJQ1BvNGN3czhJNGkxdEQ2V1B3Y2RZSk9OSjFsMHJwaC1neDVLaEU2TUI3bHdwMnBDRF9FRkhfMkFBeTFLOHRjN3Y0elVVOUJsVnc2M3hXVjZvclViVVpiRjl3VnZKeTBiUnpjbHo5cQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:08:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e9f481e11c47ec42",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Democrats Put Targets on Notice as Trump Oversight Takes Shape",
+      "snippet": "Letters sent by two key House committees tell companies and officials not to destroy documents.",
+      "link": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T18:07:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1197,19 +1731,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-12T18:02:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6070b329a3eab9f0",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Senate GOP urges White House to declassify key remaining Crossfire Hurricane documents",
-      "snippet": "Senate Judiciary Committee Chairman Chuck Grassley (R-IA) urged the White House on Thursday to release the remaining documents related to the FBI’s discredited investigation into alleged ties between President Donald Trump’s 2016 campaign a",
-      "link": "https://www.washingtonexaminer.com/news/justice/4801455/senate-gop-urges-white-house-to-declassify-key-remaining-crossfire-hurricane-documents/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T18:01:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1257,7 +1778,7 @@
       "id": "story_7878b4cfbd04dc29",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Dear new member: Welcome to Congress. Now you can deliver on affordability.",
+      "headline": "Dear new member: Welcome to Congress. Now you can deliver on affordability",
       "snippet": "Former House leaders Cheri Bustos and Joe Crowley advise newly elected members of Congress to prioritize solving economic affordability issues, such as energy costs, housing shortages, and financial scams, over partisan ideology.",
       "link": "https://thehill.com/opinion/congress-blog/6214735-advice-new-members-congress/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313550324889.jpg?w=900",
@@ -1267,41 +1788,54 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_342d3a05fa3b1e82",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Mamdani gives update on deadly NYC building collapse, rescue efforts",
-      "snippet": "New York City Mayor Zohran Mamdani shared updates and took questions following a deadly building collapse in Brooklyn. CBS News' Jared Ochacher reports.",
-      "link": "https://www.cbsnews.com/video/mamdani-gives-update-on-deadly-nyc-building-collapse-rescue-efforts/",
+      "id": "story_6fbd4046cd0522ad",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "World leaders set out clashing priorities as COP31 turns to negotiations - Reuters",
+      "snippet": "World leaders set out clashing priorities as COP31 turns to negotiations  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNngtTTdNNWh2YXdsTUNwRVo3NHZIY3JqcU1zaVBZdGdiODBGMmtaNTRDN1JWbmlpNERtc1l2UzB3VGdwZnlJQktOWTFJdl9qX3RxUW5vWl9RWFJjRE5ZTzNhQnM1eTFUaEdTV2JwODF1dlRVRVBPSkkzdmhDdE0yUV93b1ZPdWpNazhxbFBWY0FEdmt6VUh0Ri1iQzc1YnNMOVA2TnIyYUhIaG1VeDdGejBaVQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:57:33.000Z",
+      "publishedAt": "2026-11-12T17:59:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_af85cbb00b1eb28b",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – as it happened",
+      "snippet": "This blog is now closed\nOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn proposals. She said she was concerned by the id",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:58:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_b483e633ce27dae1",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "This cleansing balm can ‘remove even the toughest oil-based colorful makeup’ and it’s 30% off",
-      "snippet": "The Banila Co cleansing balm can remove stubborn makeup, dirt and waterproof products. It’s currently 30% off and at its lowest price in 90 days; it’s a great stocking stuffer for a beauty lover.",
-      "link": "https://www.nbcnews.com/select/shopping/banila-co-cleanser-deal-of-the-day-2026-rcna609020",
+      "id": "story_98b037112f833907",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - AP News",
+      "snippet": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:55:12.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T17:57:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_e4c792dd4b0f718e",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "\"48 Hours\" show schedule",
-      "snippet": "\"48 Hours\" uncovers the narrative behind true crime cases with unmatched reporting and suspense.",
-      "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
+      "id": "story_050ca20ee5016df2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news - AP News",
+      "snippet": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmdGNlhOUURTNDdjOXk4eHVVdC1FZGVHMEFsZEJHa2FUM2NrdUZWbzI0Q3gyRHllbXY4dWZ4NmdUZzU0UVRNRWcxTGJmb2lEalZSZkRQeUFvYUNNM3hEeEh1bXV3d0E5bXJnbUt2eTRkMTR1WjA0R1d5RHNNZElhWVlMSDVsckp2X0Nsa0JpSWQ3dlJPRDZMMU5mRnU1bHpEcXBPVWhKWnFVM1U?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:53:13.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T17:53:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1310,7 +1844,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "House Republican invites Musk to move Tesla HQ to Florida",
-      "snippet": "Rep. Carlos Giménez (R-Fla.) is asking Tesla CEO Elon Musk to move the company’s headquarters from Texas to Florida after Musk clashed with incoming Texas Gov. Gina Hinojosa (D) over a potential state land sale. “With the recent election of",
+      "snippet": "Rep. Carlos Gimenez (R-Fla.) is asking Tesla CEO Elon Musk to move the company’s headquarters from Texas to Florida after Musk clashed with incoming Texas Gov. Gina Hinojosa (D) over a potential state land sale. “With the recent election of",
       "link": "https://thehill.com/homenews/state-watch/6216703-gimenez-musk-florida-texas/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Musk_110926_AP_Julia-Demaree-Nikhinson.jpg?w=900",
       "publishedAt": "2026-11-12T17:52:53.000Z",
@@ -1327,7 +1861,20 @@
       "link": "https://www.nbcnews.com/now/video/nyc-mayor-mamdani-details-rescue-efforts-in-brooklyn-building-collapse-273346117988",
       "imageUrl": null,
       "publishedAt": "2026-11-12T17:52:36.000Z",
-      "tier": "developing",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_822345f6f04eda26",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses - Reuters",
+      "snippet": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:51:48.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
     },
@@ -1336,11 +1883,50 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Kellyanne Conway knocks GOP ad spending: ‘We lit billions of dollars on fire’",
-      "snippet": "Longtime conservative pollster Kellyanne Conway knocked Republican ad spending in the 2026 midterms, which the Republicans lost, calling it lighting “billions of dollars on fire.” “And you know, in this town, candidates often lose, but cons",
+      "snippet": "Longtime conservative pollster Kellyanne Conway knocked Republican ad spending in the 2026 midterms, which many Republicans lost, calling it lighting “billions of dollars on fire.” “And you know, in this town, candidates often lose, but con",
       "link": "https://thehill.com/homenews/campaign/6216648-kellyanne-conway-gop-ad-spending/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/08/GettyImages-2161889333-e1723554918194.jpg?w=900",
       "publishedAt": "2026-11-12T17:51:04.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_74eb17e07c1e89bc",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says - AP News",
+      "snippet": "Israeli strike on Gaza hospital kills 6 people, including a doctor and a child, Health Ministry says  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3ZJQlhjSko5MDVzS25JNzdQaWprR1pORklBMUI1Qlg0T3Zkc2J1eV8yUTE1S2RMdHlLcjdDbXNrNERFdDNtYTFleFlkNHZyeXBfQ25lcS05S29hd3YtT3ZWMXE2eUs2RXpuZXV2Z01OcklJeXdKT2FzR1dqZVRHRE9Ncl9QUzVSTkVod1V6RnFjMWNIcFBkWXBWU0FWWTM3TGJj?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:51:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bbc8590d8171afe3",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Usually private, Melania Trump steps into the spotlight after the midterm election - AP News",
+      "snippet": "Usually private, Melania Trump steps into the spotlight after the midterm election  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOandTVmJBNzQyaEhGMXIzc0JiUFpXcFZ0akZhVFdRVlJoVmdldmZzaTh5WUZ5V0ZXMVV2RGZCam5mX1JSN2tPa0E1cmI0MElyWXVKcnpJMmdQbnVJODRBRUtDQk00TS1rNTQ5UmhFYVFGejFPRkJqOVJkTG82UWxPWlEwcDQyWWUzS3NVSmxWNEl6ak9XY19UdTJqMlJmajNfRXp3RXZMcl8?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:51:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_be322e0775571e62",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US labor market resilient; existing home sales hit more than 16-year low in October - Reuters",
+      "snippet": "US labor market resilient; existing home sales hit more than 16-year low in October  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTZla1JsS2tMLXNSZGhQOXg4VnpnUkQxelh0RVlFQnl5b0ZGYXBwTXNVd3hWMVM1c0d5WjhPR3hGbnRPV3dDSloxV2w2Wm83a24wSUNHdTN0UmpHbzlTSHJ4VnVRNTBVdUlHTkdrZ21SdkFIZ09VMnRWZ1ZSU3ZFbk1SQnA4ZUJBVWxzSWpVTjRodDFqQlRiQzRRWHRzdzU3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:49:06.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1354,6 +1940,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T17:48:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_09820668be3b458a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Gunman kills one, wounds four in busy Washington, DC, neighborhood - Reuters",
+      "snippet": "Gunman kills one, wounds four in busy Washington, DC, neighborhood  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:48:46.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1374,7 +1973,7 @@
       "id": "story_e6f2ec83413ba26b",
       "source": "Washington Post",
       "sourceColor": "#5A3E3E",
-      "headline": "Housing market in worst slump since the aftermath of the Great Recession",
+      "headline": "Home sales in worst slump since the aftermath of the Great Recession",
       "snippet": "Home sales are slumping, and mortgage rates have pushed up the typical monthly payment for homebuyers in the U.S.",
       "link": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
       "imageUrl": null,
@@ -1392,19 +1991,6 @@
       "link": "https://www.nbcnews.com/news/us-news/2-children-8-dead-new-york-city-building-collapse-officials-say-rcna608974",
       "imageUrl": null,
       "publishedAt": "2026-11-12T17:47:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1645fa1daf50169b",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "United Airlines hijacking suspect ID’d as previously deported transgender asylum recipient, DHS says",
-      "snippet": "The previously deported Honduran man accused of trying to storm the cockpit of a United Airlines flight was granted asylum after saying he feared he would be killed in Honduras because he is transgender, the Department of Homeland Security ",
-      "link": "https://www.washingtonexaminer.com/policy/immigration/4801419/united-airlines-hijacking-suspect-idd-as-previously-deported-transgender-asylum-recipient-dhs-says/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:46:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1436,19 +2022,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4d8ff38b773e8156",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
-      "snippet": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. T",
-      "link": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
-      "imageUrl": "https://s.france24.com/media/display/33654616-dab0-11f1-ad25-695cb59fade5/w:1024/p:16x9/2026-10-14T100614Z-1152484815-RC2Y2OATJ5N2-RTRMADP-3-FRANCE-POLITICS.jpg",
-      "publishedAt": "2026-11-12T17:43:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_5da2b077838a8bbf",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -1459,46 +2032,20 @@
       "publishedAt": "2026-11-12T17:43:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 4
+      "corroboratedCount": 6
     },
     {
-      "id": "story_0470363cd19cb5df",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Mississippi makes history with Democrat senate win - The Latest",
-      "snippet": "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war. The closely contested race was called more than a week after t",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
+      "id": "story_a481ddf18c597c61",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
+      "snippet": "The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said.",
+      "link": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:42:03.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T17:42:19.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ec1a77ab9b0b7671",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Richard Blumenthal ‘will not be intimidated’ by DOJ over Trump ballroom investigation",
-      "snippet": "Sen. Richard Blumenthal (D-CT) vowed Thursday to continue investigating corporate donors to President Donald Trump’s White House ballroom after a top Justice Department official accused him of intimidating Americans who support the presiden",
-      "link": "https://www.washingtonexaminer.com/news/senate/4801570/richard-blumenthal-not-intimidated-doj-trump-ballroom-investigation/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:40:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_60ad73cecb7960d2",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Iconic NBC Sports announcer Dan Hicks dies at 64",
-      "snippet": "Dan Hicks died of an acute illness, according to his wife, ESPN broadcaster Hannah Storm.",
-      "link": "https://www.cbsnews.com/news/dan-hicks-dies-nbc-sports-announcer-dead-age-64-wife-hannah-storm/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:39:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_4f02bbbecb8b7a95",
@@ -1527,19 +2074,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b61dcfc13a2237f8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Flowers laid at Nvidia HQ as CEO Huang steps down - Reuters",
-      "snippet": "Flowers laid at Nvidia HQ as CEO Huang steps down  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HZmJGUlYxeEZ1UHFjWF92SVMyVlk1dEJqb3gwSlByLTRxM3pjTU05Z3k0TVJFODNQejlWVElNZlBLNEY1RU5rb2R6ODlnMzIyNno2Zl9uNXBxeUFPV3luN1l2U3V2NjQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:37:06.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_56059621fd767527",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1557,49 +2091,10 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "House Republican says Huang has agreed to appear before lawmakers",
-      "snippet": "Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to appear before Congress is a closed-door briefing focused on threats to U.S. national security, a top Republican told The Hill on",
+      "snippet": "Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to appear before Congress in a closed-door briefing focused on threats to U.S. national security, a top Republican told The Hill on",
       "link": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/mastbrian_090226gn01_w.jpg?w=900",
       "publishedAt": "2026-11-12T17:33:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_36b15595711a09fe",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "ICE shatters illegal immigrant arrest and deportation records in 2026",
-      "snippet": "U.S. Immigration and Customs Enforcement arrested and deported more illegal immigrants in fiscal 2026 than any year on record, according to the Department of Homeland Security. “Fiscal Year 2026 saw the highest number of ICE deportations an",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4801339/ice-arrests-deportations-records-2026-trump-administration-dhs/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:33:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5d45b997d63b9a72",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Daniel Jones, Jonathan Taylor react to Colts fire sale as they remain put: 'You're not happy to see it'",
-      "snippet": "Jonathan Taylor reveals he said farewell to Indianapolis fans before the NFL trade deadline, but the Colts ultimately kept their star running back.",
-      "link": "https://www.foxnews.com/outkick-sports/daniel-jones-jonathan-taylor-react-colts-fire-sale-remain-put-not-happy-see-it",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:32:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd3898fd292a8a85",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
-      "snippet": "The French government has been accused of weaponising an anti-terror law adopted in the wake of the 2015 Paris attacks to keep dozens of people away from massive protests sweeping the country. Lawyers and rights groups denounce an abuse of ",
-      "link": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
-      "imageUrl": "https://s.france24.com/media/display/fd886f68-d484-11f1-9138-695cb59fade5/w:1024/p:16x9/000-D4BK2ND.jpg",
-      "publishedAt": "2026-11-12T17:32:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1618,19 +2113,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e684eb4c6a89fe5d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "GOP lawmakers negotiating for Huang to appear before Congress",
-      "snippet": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress.",
-      "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:30:03.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_614e6fc89a632a7e",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -1641,6 +2123,32 @@
       "publishedAt": "2026-11-12T17:30:00.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5af5fc276eedeb02",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "LIVE:  ABC News Live",
+      "snippet": "24/7 coverage of breaking news and live events",
+      "link": "https://abcnews.com/video/41463246/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:29:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2a21dfdcafb882ee",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025 - AP News",
+      "snippet": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFV6R293QUppNWZnZGhyRWx5RTh5TXo1M0llRGJYVHFwT1dWSTNsT3U1cHpRejhBYVA5RFpWalFublBpb1BEaVRrUkZfRk9nRUVvXzhvRDNxeFkwOHhJOXV5RTlnMTk2RWVvVVlTT1M4WThFTnQxVU5YdWpINUsyZEFNTlJXa2FRRHBlaWl3?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:29:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1657,27 +2165,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4222657b99009790",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Putin says Russia will target foreign troops deployed to Ukraine",
-      "snippet": "Hardline remarks come as Ukrainian military faces disruptions to Elon Musk’s Starlink satellite service\nVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks th",
-      "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "id": "story_38e28142873c9d93",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Manchester United is nearing a deal to hire US men’s coach Mauricio Pochettino, source tells AP - AP News",
+      "snippet": "Manchester United is nearing a deal to hire US men’s coach Mauricio Pochettino, source tells AP  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWFqZ1AzSHF6cUhBQ3N4d3cySElIRnpqQ1NSSVpKS0s5ZW5pRnRSVkRZZmQ2cDF0dTRwYVZHM3J1ck91Qk9rdlJNbjR3YkF4a3hWNFh3QmVpRWtRTFdnQ1RXenZ4empBb21KbTFlbWl5SE5CWHVXbmFkSnpDeGdNanZ3ZG1oYlpLSklCWXU4WWkwNzZJTWd1RlZYV20?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:26:51.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-12T17:27:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_ee127c5fac608d13",
+      "id": "story_4222657b99009790",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Home sales hit 16-year low in October amid record-high mortgage rates",
-      "snippet": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high\nUS existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and risin",
-      "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "headline": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+      "snippet": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands\nVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardlin",
+      "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:26:07.000Z",
+      "publishedAt": "2026-11-12T17:26:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1691,29 +2199,16 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-12T17:25:58.000Z",
-      "tier": "developing",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d5288acb56257369",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump administration fast-tracks ibogaine research for PTSD",
-      "snippet": "The Trump administration announced on Thursday a multi-department investment in fast-tracking research for the psychotropic drug ibogaine to treat post-traumatic stress disorder and other serious mental illnesses. Health and Human Services ",
-      "link": "https://www.washingtonexaminer.com/policy/healthcare/4801392/trump-administration-fast-tracks-ibogaine-research-ptsd/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:25:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 5
     },
     {
       "id": "story_7e55501e79bc4bba",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "White House lawyer vows to fight ‘tooth and nail’ against ‘inappropriate’ investigations",
-      "snippet": "White House counsel Will Scharf on Wednesday vowed that he will fight “tooth and nail” against Democratic lawmakers pledging to open sweeping probes into the Trump administration next year, claiming their investigations are “inappropriate.”",
+      "snippet": "White House counsel Will Scharf vowed Wednesday that he will fight “tooth and nail” against Democratic lawmakers pledging to open sweeping probes into the Trump administration next year, claiming their investigations are “inappropriate.” “T",
       "link": "https://thehill.com/homenews/administration/6215926-white-house-counsel-vows-fight/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/01/6793d099544932.96973929-e1794496717247.jpeg?w=900",
       "publishedAt": "2026-11-12T17:24:59.000Z",
@@ -1787,19 +2282,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_c2999b17a6eb066d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Military helicopter crashes in southern Turkey, killing 4 - AP News",
-      "snippet": "Military helicopter crashes in southern Turkey, killing 4  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3NqZ09HUnN1dWk4TW9feTVwX1RuN0g5MVFCTmVGTXl6a1NJdFgwZjdrQTNtT2RPUHZOdnVOQ3JtN3lQX014UUhjOHkwZm52WU1sd1ZCUnFrTDNQMmdfaXhEc2pXT013MHBHeTZCOGttVWxSZGlZeW14QkdFeHNMVzFob19fNU0tZ3pvVXJOVnRLdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:22:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_fec7005801a648d0",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -1808,19 +2290,6 @@
       "link": "https://www.semafor.com/article/11/12/2026/dems-cautiously-optimistic-for-clean-energy-following-midterms-sweep",
       "imageUrl": "https://img.semafor.com/0704a650c91d649311e97d738abe13895e99b8ee-5900x3892.jpg",
       "publishedAt": "2026-11-12T17:21:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6fe46b17552f2147",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "I Saw the Future of Mind-Reading",
-      "snippet": "Thanks to A.I., it’s more possible than ever to glean the inner recesses of a person’s mind. The implications are big — and unnerving.",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/mind-reading-ai.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:20:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1852,41 +2321,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_328fcac5b6dd758f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Richard Posner, prolific legal scholar and outspoken appeals court judge, dies at 87 - AP News",
-      "snippet": "Richard Posner, prolific legal scholar and outspoken appeals court judge, dies at 87  AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHlNeEhZeWp3d3FsZlVYYl9rWEs2aDVfSWN6ZXVSUk40VWZJbWpDSWtwYkdKQkpxR3ZfX29sRUJmMGFqZzBuU2ZTR0JORURsUDc4RlhfVzQ1S2NBS18tOXpvWk1RTHlWM2tCTHI3RUJIRTdkandQTDA2LXM5aDVGbzVoa3BXSklxU0htWWdEVQ?oc=5",
+      "id": "story_6703ae356b8031fd",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+      "snippet": "This blog is now closed\nLuxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises.\n“I",
+      "link": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:18:00.000Z",
+      "publishedAt": "2026-11-12T17:17:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ec3480dead8dd7ae",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Wall St recovers as energy shares climb; Nvidia woes deepen - Reuters",
+      "snippet": "Wall St recovers as energy shares climb; Nvidia woes deepen  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T17:16:53.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9ec76f01875f5c7e",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Nonprofits sue five AI developers to freeze new models ‘before catastrophe strikes’",
-      "snippet": "A coalition of nonprofit organizations sued the top five artificial intelligence companies on Thursday, asking a California court to order a stop to the development of new models that could escape human oversight and cause catastrophe. The ",
-      "link": "https://www.washingtonexaminer.com/policy/technology/4801401/nonprofit-sue-five-ai-developers-freeze-new-models/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:17:16.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ad12868ad3f89212",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "\"Severance\" actor Tramell Tillman on working with Johnny Depp in \"Ebenezer\" movie",
-      "snippet": "Actor Tramell Tillman won an Emmy Award for his performance in \"Severance.\" Now he's playing the Ghost of Christmas Present in new movie \"Ebenezer,\" a reimagining of Charles Dickens' \"A Christmas Carol.\"",
-      "link": "https://www.cbsnews.com/video/severance-actor-tramell-tillman-on-working-with-johnny-depp-in-ebenezer-movie/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:17:13.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1904,63 +2360,11 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3e99e99bac95c6c1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Canadiens visit the Bruins in a battle of elite goalies Jacob Fowler and Jeremy Swayman",
-      "snippet": "Jacob Fowler's .925 save percentage faces Jeremy Swayman's .920 mark as the Montreal Canadiens visit the Boston Bruins in a premier goalie duel.",
-      "link": "https://www.foxnews.com/outkick-betting/canadiens-visit-bruins-battle-elite-goalies-jacob-fowler-jeremy-swayman",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:16:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_098de392d2e989c1",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Amazon's top editor shares picks for best books of 2026",
-      "snippet": "Amazon Books editorial director Sarah Gelman shares her list of the best books of the year.",
-      "link": "https://www.cbsnews.com/video/amazons-top-editor-shares-picks-for-best-books-of-2026/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:15:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b2f8d185bc8ae02a",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Legendary SS United States sinks beneath waves as divers prepare for first look",
-      "snippet": "Video captures the SS United States tilting and sinking into the Gulf of America as divers near Destin, Florida, prepare to explore the massive wreck.",
-      "link": "https://www.foxnews.com/travel/legendary-ss-united-states-sinks-beneath-waves-divers-prepare-first-look",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:15:30.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_71e063dda6646945",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "House advances six bills to expand nuclear energy",
-      "snippet": "The House of Representatives this week passed several bills to boost nuclear energy generation to respond to growing power demand and high electricity costs. Lawmakers passed six bills, most with bipartisan support, throughout the week aime",
-      "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4797932/house-lawmakers-pass-six-bills-boost-nuclear-energy-licenses-for-construction/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:15:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_aa1fb91bd2147af0",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Local fund to replace Pip for most young disabled people under Milburn plans",
-      "snippet": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments\n\nUK politics live – latest updates\n\nYoung people with disabilities will lose their personal independence p",
+      "headline": "Local funds for some young people losing Pip under Milburn plans",
+      "snippet": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence payments\nSome young people with disabilities will lose their personal independence payments but will be able to app",
       "link": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
       "imageUrl": null,
       "publishedAt": "2026-11-12T17:14:34.000Z",
@@ -1989,33 +2393,20 @@
       "snippet": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning.",
       "link": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:13:28.000Z",
+      "publishedAt": "2026-11-12T17:13:29.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_639340a170014ed1",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Hegseth awards medal to soldier who reprimanded group near tomb",
-      "snippet": "Defense Secretary Pete Hegseth awarded a medal to the service member who reprimanded his group for making noise at the Tomb of the Unknown Soldier​.",
-      "link": "https://www.cbsnews.com/news/hegseth-medal-reprimand-tomb-of-the-unknown-soldier/",
+      "id": "story_b04f871e66a6a66a",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "snippet": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T17:12:10.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_694cbbf5e3fa2e1a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "While many Americans resist, China embraces AI data center boom",
-      "snippet": "Far from the opposition American tech giants face, it's smooth sailing for the Chinese AI firms racing to catch up, and hoping to overtake them.",
-      "link": "https://www.cbsnews.com/news/china-ai-data-center-boom-as-us-tech-firms-face-resistance/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:11:41.000Z",
+      "publishedAt": "2026-11-12T17:11:48.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2024,14 +2415,14 @@
       "id": "story_74376ac6764048b7",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
-      "headline": "Sentinel at Tomb of the Unknown Soldier sentinel awarded medal by Hegseth",
+      "headline": "Sentinel at Tomb of the Unknown Soldier awarded medal by Hegseth",
       "snippet": "Defense Secretary Pete Hegseth awarded a prestigious medal to an Army sentinel on Thursday who loudly admonished the Pentagon chief and his group at the Tomb of the Unknown Soldier at Arlington National Cemetery for breaking decorum the day",
       "link": "https://thehill.com/policy/defense/6216510-hegseth-awards-sentinel-medal/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6abc23e5245759.78282136-e1790795637602.jpeg?w=900",
       "publishedAt": "2026-11-12T17:09:25.000Z",
-      "tier": "routine",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 5
     },
     {
       "id": "story_34b81621467f3b91",
@@ -2044,53 +2435,14 @@
       "publishedAt": "2026-11-12T17:08:54.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9f7ef5c71e5784ea",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "New Democratic lawmakers bring first-day-of-school energy to Capitol Hill",
-      "snippet": "And a politics editor, freshly returned to work after parental leave, can relate\n\nThis was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox\n\nMost of us probably remember that",
-      "link": "https://www.theguardian.com/us-news/2026/nov/12/the-stakes-new-democrats-congress-orientation",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:05:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8075950902ff920a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Will the Supreme Court Thwart Congressional Investigations?",
-      "snippet": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
-      "link": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:05:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b360ed640e87fc8",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Inner Mongolian farmers talk about AI data centers powering China's tech boom",
-      "snippet": "Vast data center construction projects are underway in rural Inner Mongolia as China looks to expand its AI tech boom. Anna Coren traveled to the region to speak with residents about the developments.",
-      "link": "https://www.cbsnews.com/video/inner-mongolian-farmers-talk-to-cbs-news-about-ai-data-centers-powering-chinas-tech-boom/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:04:52.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_391f2b9865442989",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Warren says Huang’s resignation ‘does not absolve him,’ Nvidia",
-      "snippet": "Massachusetts Sen. Elizabeth Warren (D) said Thursday that Nvidia CEO Jensen Huang’s resignation amid mounting controversy regarding his extramarital affairs including one with an alleged Chinese spy, “does not absolve him” or the company. ",
+      "snippet": "Sen. Elizabeth Warren (D-Mass.) said Thursday that Nvidia CEO Jensen Huang’s resignation amid mounting controversy regarding his extramarital affairs, including one with an alleged Chinese spy, “does not absolve him” or the company. “Jensen",
       "link": "https://thehill.com/policy/technology/6216479-warren-jensen-huang-nvidia-resignation/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26266622642409-e1792421680112.jpg?w=900",
       "publishedAt": "2026-11-12T17:02:20.000Z",
@@ -2108,19 +2460,6 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/6151794501905/2026/i/17945028338493/v1.5/More-than-1100-killed-in-Haiti-in-three-months-UN-report-says.jpg",
       "publishedAt": "2026-11-12T17:01:17.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_61d220e1243f3686",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WATCH: Deranged animal rights activist arrested after allegedly hitting carriage driver with skateboard",
-      "snippet": "Video captures Abigail Holbrook allegedly striking a Central Park horse carriage driver with a skateboard while shouting about animal abuse.",
-      "link": "https://www.foxnews.com/us/watch-deranged-animal-rights-activist-arrested-allegedly-hitting-carriage-driver-skateboard",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T17:00:31.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2146,46 +2485,46 @@
       "link": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-12T16:59:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_f90f66bbdab56c71",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Delta Air Lines CEO blames inflation for high ticket, baggage prices",
-      "snippet": "Ticket prices are trending up amid the holiday travel rush. Delta Air Lines CEO Ed Bastian shares his thoughts.",
-      "link": "https://www.cbsnews.com/video/delta-air-lines-ceo-blames-inflation-for-high-ticket-baggage-prices/",
+      "id": "story_b4a79af8eeb992aa",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Italian schools defy new wave of bomb threats to remain open - Reuters",
+      "snippet": "Italian schools defy new wave of bomb threats to remain open  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFJJaFJoR2JHVWdTZmVzdkw2MDhTc29qU0pDRmdmaXpwWjN2Q3VyYjlFUWJkRmJHTmlaNFFYdWIxdTFHR3p5VGlTaGExYzFwZ3BTRjV6dTJuQWdibllJN1lwd3E1RThuUEU2ekpfbU1GSUJwU2tyMkd5a3daSEkwNm5YU19zUEIxLWpSNjNDS0lzT1NCd2ZQRG1COA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T16:57:40.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c4f3530997d60f2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Black voters view Scott Colom's historic US Senate win through lens of Mississippi's racial legacy - AP News",
-      "snippet": "Black voters view Scott Colom's historic US Senate win through lens of Mississippi's racial legacy  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnBydk9uTGt2Y2lpWVZNOEQ4UkcyWk5sQXdrNTB6dzdhV25HaGRTUzhiRElLVkFmbDN0bDZJQ1BvNGN3czhJNGkxdEQ2V1B3Y2RZSk9OSjFsMHJwaC1neDVLaEU2TUI3bHdwMnBDRF9FRkhfMkFBeTFLOHRjN3Y0elVVOUJsVnc2M3hXVjZvclViVVpiRjl3VnZKeTBiUnpjbHo5cQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:57:00.000Z",
+      "publishedAt": "2026-11-12T16:58:06.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_e5ef0f05061061f5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Ukraine says Starshield throttled again as U.S. pushes for a deal",
-      "snippet": "Ukraine says its ability to intercept Russian strikes is again hampered by speed restrictions on Musk's Starshield network amid U.S.-led diplomacy.",
-      "link": "https://www.cbsnews.com/news/russia-ukraine-war-elon-musk-starshield-limited-us-witkoff-kushner-diplomacy/",
+      "id": "story_d3c497b4f0952b27",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The First Thing Democrats Should Do to Show They’re Serious on Affordability",
+      "snippet": "A party that just won an election on affordability should not pass up a chance to deliver immediately.",
+      "link": "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T16:56:29.000Z",
+      "publishedAt": "2026-11-12T16:56:46.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6b758ac74327c342",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Zelenskiy says Starshield speed limited again, hampering Ukraine's defences - Reuters",
+      "snippet": "Zelenskiy says Starshield speed limited again, hampering Ukraine's defences  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdYZlNPMU1SU1ZhVjBMUHNnaEdIaFNCcWtQTmdiTHE1RVZRdG1BbUVBQkhib2diNDFyeFh2QXBnYTI3Zk9pVHdaWEpldUQydy1IM3NjZ1lwMVVNajFCZDUyamFuVE5aVXVYX0FhYVh3bnlDa0FPTWpFZm9CNTNyclVCLVVWWDNYWUx3NmZwNmVxSnY4ckNqM3U0VlFEbmhrVERHeU9udWVEM2s1cm1zbFpjYjJybU9tNHlDN0FXajdkZVNUQ1ZEWTZ6ZWQ5N0xaWUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T16:56:28.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2229,80 +2568,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b2a849cb17105da8",
+      "id": "story_b8bb9c4cdad0231b",
       "source": "BBC",
       "sourceColor": "#6A57B8",
-      "headline": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-      "snippet": "The guard told the defence secretary and his companions to maintain an atmosphere of \"silence and respect\" during a Veterans Day visit.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "snippet": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T16:52:53.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_62465357c3b6a636",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "'Yes, Dear' star Anthony Clark dead at 62",
-      "snippet": "Anthony Clark's longtime manager calls him one of the funniest comedians he ever watched as tributes pour in for the \"Yes, Dear\" star who died at 62.",
-      "link": "https://www.foxnews.com/entertainment/yes-dear-star-anthony-clark-dead-62",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:52:35.000Z",
+      "publishedAt": "2026-11-12T16:54:12.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_653392c3cb3fa5d1",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "His viral NYC street interviews challenge celebrities to answer music trivia",
-      "snippet": "Jack Coyne hosts \"Track Star,\" a viral social media quiz show that asks celebrities and everyday contestants to guess the artists behind his playlist. Vladimir Duthiers takes his turn guessing some tunes.",
-      "link": "https://www.cbsnews.com/video/his-viral-nyc-street-interviews-challenge-celebrities-to-answer-music-trivia/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:52:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c0bcddf70f31af6e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WATCH: Socialist agitators lose it when cameras turn on them",
-      "snippet": "CodePink and Singham-linked activists swarmed Congress on Veterans Day, but when cameras turned on them, they blocked lenses and hurled insults.",
-      "link": "https://www.foxnews.com/politics/watch-socialist-agitators-lose-when-cameras-turn-them",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:50:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_668ce56b0ac9d2a3",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
-      "snippet": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique position in a booming AI",
-      "link": "https://www.france24.com/en/video/20261112-concentration-of-power-wealth-do-tech-ceos-have-more-authority-influence-than-elected-officials",
-      "imageUrl": "https://s.france24.com/media/display/647eefce-deb4-11f1-b21c-5f54d898a954/w:1024/p:16x9/EN-20261112-160417-161419-CS.jpg",
-      "publishedAt": "2026-11-12T16:49:25.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_822345f6f04eda26",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses - Reuters",
-      "snippet": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlQwLUxxTENmenRpSFFXVlNUeVkzeURtNWxCZ1RuVEQwdENKV0g3MndreVZsZFYwVGtpT3Q3SDJZU0pHTGI1WFFYWERreFJmbzVjaUtOR2NjUURRMTVHNVlKdGE0VkdRVzRvekpIcHdmRGdOV2kwRXVmbWl1blRIV1VKSjQ4c19FSVFTUWZNM2ptQ0ZaMW96a2UyTFphWjNsSnc3ZmJZdWhHNWpiS19hTDhYSk9vNkpkeng1N3prZ1Y3b1lI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:48:45.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2317,33 +2591,7 @@
       "publishedAt": "2026-11-12T16:48:22.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_41f8d69e66c5f9f6",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Senate Republicans keep Thune despite big loss because minority leader is a ‘thankless job’: Byron York",
-      "snippet": "Washington Examiner chief political correspondent Byron York said Republicans are bracing for a fight over the next two years after their drastic midterm losses. “I think it’s a realization from virtually all House Republicans that the next",
-      "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4801461/senate-republicans-keep-thune-despite-big-loss-because-minority-leader-is-a-thankless-job-byron-york/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:47:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b53f615474ad3574",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
-      "snippet": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city during a meeting with ",
-      "link": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
-      "imageUrl": "https://s.france24.com/media/display/1e9642f2-deb7-11f1-b9bd-f71d22e7fea9/w:1024/p:16x9/capture-38e7cc3a.jpg",
-      "publishedAt": "2026-11-12T16:46:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 4
     },
     {
       "id": "story_d5773d21f6120552",
@@ -2385,19 +2633,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_98ca4fa55ba51bfa",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Man accused of burying baby tried to flee state, authorities say",
-      "snippet": "A South Carolina man accused of burying his 11-month-old son in a dog crate in a clump of scrubby pines was denied bond Thursday.",
-      "link": "https://www.cbsnews.com/news/baby-buried-alive-father-denied-bond-carolina/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:44:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_e5831b0a1168e5a0",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -2406,46 +2641,20 @@
       "link": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-12T16:44:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_c6412933564da051",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Mercedes-Benz halts German investments as plant closures loom - Reuters",
-      "snippet": "Mercedes-Benz halts German investments as plant closures loom  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:43:34.000Z",
-      "tier": "major",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_be06e457cfb175ad",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump reacts after Nvidia CEO Jensen Huang resigns",
-      "snippet": "President Trump is floating a familiar name to replace Jensen Huang after he resigned as Nvidia's CEO. CBS News' Olivia Rinaldi and Drew Andre report, and Barron's Paul R. La Monica and Kelly O'Grady have more insight.",
-      "link": "https://www.cbsnews.com/video/trump-reacts-after-nvidia-ceo-jensen-huang-resigns/",
+      "id": "story_37170bfe547cc3f0",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Farage was guest on Brand podcast after sexual assault investigation began",
+      "snippet": "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedian\nNigel Farage appeared on Russell Brand’s US podcast nine months after police opened an investigation into the comedian after allegati",
+      "link": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
       "imageUrl": null,
-      "publishedAt": "2026-11-12T16:42:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_f3680694346e9e31",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump's Commerce chief Lutnick criticized over chip exports after Nvidia CEO resignation - Reuters",
-      "snippet": "Trump's Commerce chief Lutnick criticized over chip exports after Nvidia CEO resignation  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2JBc1RoY3pGRnZ0R1BzOW43SHY5eGxjZHpwMlZVZWNSRDMxaG51ZkVSdkVuN1I4bkdCTEZTV3ZETGRpVTBxaGhHSlprM25XNFd0b3N6eHJhc3RneHJrWGl2alVlTVh6R0xtbFJVLTRjaEE0djZxTE54Nkp4UHBYWVJKdGlhM2hmNFM2dWRNeWF0d2tRcnVYT0dtOXZDdGx4QXlsUHAzOHNKQUpaTFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:42:57.000Z",
-      "tier": "major",
+      "publishedAt": "2026-11-12T16:43:33.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2463,66 +2672,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d0480fd2eff2b090",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Biden judge rejects DOJ bid to halt probe of prosecutors in botched ICE protest case",
-      "snippet": "Judge April Perry ordered U.S. Attorney Andrew Boutros and three prosecutors to give sworn testimony in the Broadview Six case amid misconduct allegations.",
-      "link": "https://www.foxnews.com/politics/biden-judge-rejects-doj-bid-halt-probe-prosecutors-botched-ice-protest-case",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:40:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0d5b90a62b934716",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump lays out his lame-duck agenda, and it sounds familiar",
-      "snippet": "Welcome to Thursday’s edition of Washington Secrets. Today we run the rule over Donald Trump’s early morning Truth Social posts, which feature some of his greatest hits. Plus, we keep an eye on what could be a nice little Republican feud br",
-      "link": "https://www.washingtonexaminer.com/news/washington-secrets/4800748/trump-lame-duck-agenda-familiar/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:40:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1c880c879b60a453",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "AOC taps power player who helped Bernie Sanders defy the odds as major 2028 decision looms",
-      "snippet": "Alexandria Ocasio-Cortez tapped the strategist behind Bernie Sanders' record-breaking fundraising as progressive groups push her toward a 2028 bid.",
-      "link": "https://www.foxnews.com/politics/aoc-taps-power-player-helped-bernie-sanders-defy-odds-major-2028-decision-looms",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:40:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_64a4da9c56d60cec",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
-      "snippet": "Swedish activist criticised world governments for their failure to prevent environmental breakdown\nThe planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to ",
+      "snippet": "Swedish activist criticised world governments for their failure to prevent environmental breakdown \nThe planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to",
       "link": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
       "imageUrl": null,
       "publishedAt": "2026-11-12T16:39:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1a246aea8f2978d3",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "TPUSA students warn campus hostility toward conservatives is growing after Texas university attack",
-      "snippet": "Footage shows a caped suspect hurling an American flag and swinging a cane at Turning Point USA members on the University of Texas at Tyler campus.",
-      "link": "https://www.foxnews.com/media/tpusa-students-warn-campus-hostility-conservatives-growing-after-texas-university-attack",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:38:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2536,162 +2693,6 @@
       "link": "https://www.nbcnews.com/video/witness-describes-horrific-scene-at-washington-d-c-gym-shooting-273343045703",
       "imageUrl": null,
       "publishedAt": "2026-11-12T16:36:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a765a6b6f8bd3425",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Bond denied for South Carolina man accused of burying his 11-month-old son alive - AP News",
-      "snippet": "Bond denied for South Carolina man accused of burying his 11-month-old son alive  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0liVVZ1MndaN1poaEd3SFNDMnpoYkc3YW4tTnRlS0dkd2RqMDhpUmRMVWxWUXNuSld6RGlxMGtNcDBrR0t3ejRwR2ZUcFJhc3JZQWI5VDJuYW9zbnl2dGxvRWFGNk00Y0ZPbXNSOS1XR3gxT3VEeklab3AzTXp5Zm9pRF9OLWE2YUlKa3lnbS1sWlY2Q0laSnFmaWlpQTZlRXVN?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:36:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2479baec63f075af",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Arnold Schwarzenegger tells Jimmy Kimmel if he still considers himself a Republican",
-      "snippet": "Former California Gov. Arnold Schwarzenegger told Jimmy Kimmel he's still a Republican, citing Ronald Reagan as the kind of GOP leader he admires.",
-      "link": "https://www.foxnews.com/media/arnold-schwarzenegger-tells-jimmy-kimmel-considers-himself-republican",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:34:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8f9a0b337d05f37b",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Brooklyn building collapse death toll rises to 8 as rescuers search for survivors",
-      "snippet": "Search crews peered into crevices in the rubble, pulling out victims and at least one survivor through the overnight hours. The cause was still under investigation.",
-      "link": "https://www.pbs.org/newshour/nation/brooklyn-building-collapse-death-toll-rises-to-8-as-rescuers-search-for-survivors",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:34:17.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_65376efd77ae5a59",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Trump recommends Tim Cook for Nvidia CEO after Jensen Huang resigns",
-      "snippet": "President Trump weighed in on the search for a permanent CEO shortly after Nvidia’s announcement about Jensen Huang's resignation, saying that Apple executive chair Tim Cook should take the role. NBC News' Allie Canal and New York Times con",
-      "link": "https://www.nbcnews.com/video/trump-recommends-tim-cook-for-nvidia-ceo-after-jensen-huang-resigns-273344581767",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:32:41.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 9
-    },
-    {
-      "id": "story_45bcc98580e04fed",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Nvidia CEO Jensen Huang resigns amid Chinese spy scandal",
-      "snippet": "Nvidia CEO Jensen Huang resigned, the company's board of directors announced. Huang's resignation came amid an investigation into his extramarital affair with a suspected Chinese spy and a report of a second affair with an executive who rep",
-      "link": "https://www.cbsnews.com/video/nvidia-ceo-jensen-huang-resigns-amid-chinese-spy-scandal/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:32:23.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_83b281a2c3c10f61",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump floats Tim Cook as next Nvidia CEO",
-      "snippet": "President Donald Trump suggested former Apple CEO Tim Cook should replace former Nvidia CEO Jensen Huang after he abruptly resigned Thursday morning. “NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is on",
-      "link": "https://www.washingtonexaminer.com/policy/technology/4801414/trump-tim-cook-vidia-ceo/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:31:19.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_95dabc6170152758",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "P’nut the squirrel’s former owner has been detained by ICE and may be deported",
-      "snippet": "The arrest was the latest twist in the tale of Peanut, also known as P’nut, a once-orphaned squirrel whose fun antics made him a social media star.",
-      "link": "https://thehill.com/blogs/in-the-know/6216216-ice-detains-peanut-the-squirrel-former-owner/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26315775302839-e1794501018412.jpg?w=900",
-      "publishedAt": "2026-11-12T16:31:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_379b07e31b0cf9e7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Congress promised to close the THC loophole. Our kids are still waiting",
-      "snippet": "The Senate delayed a deadline to close the hemp-derived THC loophole, and Senator Pete Ricketts says America's kids are paying a tragic price.",
-      "link": "https://www.foxnews.com/opinion/congress-promised-close-thc-loophole-kids-still-waiting",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:30:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b634d1cd62ef017f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Ducks' Cutter Gauthier ties NHL record so old it was set by guys named 'Punch' and 'Phantom Joe'",
-      "snippet": "Ducks star forward Cutter Gauthier matches Lemieux and Mogilny's scoring feat, ties 105-year-old NHL record held by Punch Broadbent and \"Phantom Joe.\"",
-      "link": "https://www.foxnews.com/outkick-sports/ducks-cutter-gauthier-ties-nhl-record-set-by-punch-phantom-joe",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:30:28.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4d61f65015e1785a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
-      "snippet": "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reached\n\nBusiness live – latest updates\n\nThe UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars",
-      "link": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:30:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92175cae3bb815b7",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "New federal housing rule could displace thousands, experts warn",
-      "snippet": "Since 1995, mixed-status families have been permitted to live together in federally funded housing, but a revised rule changes that.",
-      "link": "https://www.cbsnews.com/news/hud-public-housing-citizenship-immigration-rule/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T16:30:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_448a25f0955ab379",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Want to be president? Look to the states.",
-      "snippet": "Whatever that president has, and whatever that president wants, it goes through the states.",
-      "link": "https://thehill.com/opinion/campaign/6214196-democratic-party-state-power/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/virginia_house_delegates_01142026_AP26014642896336-2.jpg?w=900",
-      "publishedAt": "2026-11-12T16:30:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
