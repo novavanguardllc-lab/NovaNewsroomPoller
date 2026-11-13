@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-13T04:35:06.237Z",
+  "updatedAt": "2026-11-13T04:40:09.631Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.273Z"
+      "lastSuccess": "2026-11-13T04:40:09.736Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.411Z"
+      "lastSuccess": "2026-11-13T04:40:09.678Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.656Z"
+      "lastSuccess": "2026-11-13T04:40:09.692Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.577Z"
+      "lastSuccess": "2026-11-13T04:40:09.775Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.281Z"
+      "lastSuccess": "2026-11-13T04:40:09.714Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.422Z"
+      "lastSuccess": "2026-11-13T04:40:09.819Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.414Z"
+      "lastSuccess": "2026-11-13T04:40:09.800Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.336Z"
+      "lastSuccess": "2026-11-13T04:40:09.813Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.341Z"
+      "lastSuccess": "2026-11-13T04:40:09.838Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.295Z"
+      "lastSuccess": "2026-11-13T04:40:09.753Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.391Z"
+      "lastSuccess": "2026-11-13T04:40:09.861Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.398Z"
+      "lastSuccess": "2026-11-13T04:40:09.773Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.460Z"
+      "lastSuccess": "2026-11-13T04:40:09.869Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.425Z"
+      "lastSuccess": "2026-11-13T04:40:09.834Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.433Z"
+      "lastSuccess": "2026-11-13T04:40:09.867Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T04:35:06.438Z"
+      "lastErrorAt": "2026-11-13T04:40:09.877Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.332Z"
+      "lastSuccess": "2026-11-13T04:40:09.831Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.446Z"
+      "lastSuccess": "2026-11-13T04:40:09.876Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.497Z"
+      "lastSuccess": "2026-11-13T04:40:09.916Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.555Z"
+      "lastSuccess": "2026-11-13T04:40:09.968Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.618Z"
+      "lastSuccess": "2026-11-13T04:40:09.699Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:07.266Z"
+      "lastSuccess": "2026-11-13T04:40:10.073Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T04:35:06.348Z"
+      "lastSuccess": "2026-11-13T04:40:09.804Z"
     }
   },
   "items": [
+    {
+      "id": "story_b16822aae8f74220",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Who is US Senator Chris Van Hollen?",
+      "snippet": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+      "link": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:28:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_61906f5e2b0455b1",
       "source": "DW",
@@ -118,6 +131,19 @@
       "link": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
       "imageUrl": null,
       "publishedAt": "2026-11-13T04:18:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1d5413ab52df9807",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "US envoys shuttle between Putin and Zelenskyy",
+      "snippet": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:12:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2666,32 +2692,6 @@
       "link": "https://www.washingtonexaminer.com/policy/technology/4802243/microsoft-outlook-outage-impact/",
       "imageUrl": null,
       "publishedAt": "2026-11-12T22:49:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_606d2da598df7b83",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "‘No ongoing investigations’ into Democrats’ oversight threats, Blanche says",
-      "snippet": "Attorney General Todd Blanche said Thursday that the Justice Department has no active criminal investigations into Democratic lawmakers’ remarks about their plans to scrutinize the Trump administration, days after he said lawmakers attempti",
-      "link": "https://www.washingtonexaminer.com/news/justice/4802158/no-ongoing-investigations-into-democrats-oversight-threats-blanche-says/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:47:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8553069b5228d4c3",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Democrat Cindy Holscher defeats Republican Ty Masterson in Kansas governor’s race",
-      "snippet": "Democratic state Sen. Cindy Holscher has narrowly won Kansas’ race for governor, NBC News projected Thursday, extending the party’s hold on the office in the red state.",
-      "link": "https://www.nbcnews.com/politics/2026-election/kansas-governor-cindy-holscher-democrat-election-win-masterson-rcna603370",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:46:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
