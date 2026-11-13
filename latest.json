@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-13T02:45:08.939Z",
+  "updatedAt": "2026-11-13T02:50:09.002Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:08.978Z"
+      "lastSuccess": "2026-11-13T02:50:09.040Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.024Z"
+      "lastSuccess": "2026-11-13T02:50:09.134Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:08.985Z"
+      "lastSuccess": "2026-11-13T02:50:09.092Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.101Z"
+      "lastSuccess": "2026-11-13T02:50:09.153Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:08.990Z"
+      "lastSuccess": "2026-11-13T02:50:09.065Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.049Z"
+      "lastSuccess": "2026-11-13T02:50:09.146Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.054Z"
+      "lastSuccess": "2026-11-13T02:50:09.138Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.053Z"
+      "lastSuccess": "2026-11-13T02:50:09.162Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.087Z"
+      "lastSuccess": "2026-11-13T02:50:09.151Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.106Z"
+      "lastSuccess": "2026-11-13T02:50:09.097Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.146Z"
+      "lastSuccess": "2026-11-13T02:50:09.198Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.097Z"
+      "lastSuccess": "2026-11-13T02:50:09.171Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.148Z"
+      "lastSuccess": "2026-11-13T02:50:09.219Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.109Z"
+      "lastSuccess": "2026-11-13T02:50:09.174Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.152Z"
+      "lastSuccess": "2026-11-13T02:50:09.216Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T02:45:09.164Z"
+      "lastErrorAt": "2026-11-13T02:50:09.220Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.121Z"
+      "lastSuccess": "2026-11-13T02:50:09.212Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.185Z"
+      "lastSuccess": "2026-11-13T02:50:09.234Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.755Z"
+      "lastSuccess": "2026-11-13T02:50:09.320Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.241Z"
+      "lastSuccess": "2026-11-13T02:50:09.246Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.335Z"
+      "lastSuccess": "2026-11-13T02:50:09.077Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:45:10.902Z"
+      "lastSuccess": "2026-11-13T02:50:09.665Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-13T02:45:09.156Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-13T02:50:09.140Z"
     }
   },
   "items": [
+    {
+      "id": "story_d88bf0c1aec50b2c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Toronto Blue Jays apologize after Muslim community outcry over Anthony Santander's Instagram posts",
+      "snippet": "Anthony Santander has not apologized after sharing posts called Islamophobic, leaving the Toronto Blue Jays to issue a corporate apology on his behalf.",
+      "link": "https://www.foxnews.com/outkick-sports/toronto-blue-jays-apologize-muslim-community-outcry-anthony-santander-instagram-posts",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T02:40:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d4a4eb02dd601254",
       "source": "Al Jazeera",
@@ -2679,19 +2693,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
       "imageUrl": null,
       "publishedAt": "2026-11-12T22:09:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_974291e7b4630fa9",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The Fall of the A.I. King",
-      "snippet": "How to understand Jensen Huang’s stunning departure.",
-      "link": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:09:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
