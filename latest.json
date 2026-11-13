@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-13T17:25:06.455Z",
+  "updatedAt": "2026-11-13T17:30:12.883Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.684Z"
+      "lastSuccess": "2026-11-13T17:30:13.000Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.578Z"
+      "lastSuccess": "2026-11-13T17:30:13.347Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.706Z"
+      "lastSuccess": "2026-11-13T17:30:13.081Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.790Z"
+      "lastSuccess": "2026-11-13T17:30:13.004Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.645Z"
+      "lastSuccess": "2026-11-13T17:30:13.023Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.799Z"
+      "lastSuccess": "2026-11-13T17:30:13.184Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.795Z"
+      "lastSuccess": "2026-11-13T17:30:13.181Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.784Z"
+      "lastSuccess": "2026-11-13T17:30:13.118Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.778Z"
+      "lastSuccess": "2026-11-13T17:30:13.103Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.617Z"
+      "lastSuccess": "2026-11-13T17:30:13.126Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.830Z"
+      "lastSuccess": "2026-11-13T17:30:13.141Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.625Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-13T17:30:13.185Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.846Z"
+      "lastSuccess": "2026-11-13T17:30:13.237Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.788Z"
+      "lastSuccess": "2026-11-13T17:30:13.045Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.841Z"
+      "lastSuccess": "2026-11-13T17:30:13.191Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.758Z"
+      "lastSuccess": "2026-11-13T17:30:13.221Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.826Z"
+      "lastSuccess": "2026-11-13T17:30:13.177Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T17:25:06.847Z"
+      "lastErrorAt": "2026-11-13T17:30:13.262Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.857Z"
+      "lastSuccess": "2026-11-13T17:30:13.257Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:07.166Z"
+      "lastSuccess": "2026-11-13T17:30:13.328Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.599Z"
+      "lastSuccess": "2026-11-13T17:30:13.635Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:06.883Z"
+      "lastSuccess": "2026-11-13T17:30:13.282Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T17:25:08.240Z"
+      "lastSuccess": "2026-11-13T17:30:13.377Z"
     }
   },
   "items": [
+    {
+      "id": "story_a266c8cff8dae10e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Best pet insurance companies of 2026",
+      "snippet": "Pet insurance premiums jumped by double digits last year. We priced the best pet insurance to see who's worth it.",
+      "link": "https://www.cbsnews.com/moneywatch/insurance/pets/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T17:26:46.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0a74c7ff8fd97549",
       "source": "Semafor",
@@ -105,6 +119,19 @@
       "link": "https://www.semafor.com/article/11/13/2026/jensen-huangs-biggest-mistake-was-getting-too-involved-in-dc",
       "imageUrl": "https://img.semafor.com/3c0de39b38df86dd272cdff8fd851703a1609851-3409x2316.jpg",
       "publishedAt": "2026-11-13T17:22:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_81f6b08fabf88efb",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Criminal probe launched into cruise ship over potential \"magic pipe\"",
+      "snippet": "The U.S. Coast Guard launched an investigation into a so-called \"magic pipe\" case, in which a ship transfers its oil discharge into its gray water system.",
+      "link": "https://www.cbsnews.com/news/coast-guard-msc-poesia-criminal-investigation-potential-magic-pipe/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T17:21:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -121,6 +148,32 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_6bc8266d0f5e022d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "The quarterback market in college football is out of control, and Kamario Taylor is just the beginning",
+      "snippet": "Kamario Taylor's reported $7.5 million NIL deal to stay at Mississippi State signals a quarterback market that shows no signs of slowing down.",
+      "link": "https://www.foxnews.com/outkick-sports/quarterback-market-college-football-out-of-control-kamario-taylor-beginning",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T17:19:21.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_05608f175ff0729e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ravens finally reveal Lamar Jackson's official return timeline and QB could miss rest of regular season",
+      "snippet": "Lamar Jackson faces a 6-10 week recovery from thumb surgery, and the Baltimore Ravens have lost four straight games in a crowded AFC North race.",
+      "link": "https://www.foxnews.com/outkick-sports/ravens-reveal-lamar-jackson-official-return-timeline-qb-could-miss-rest-regular-season",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T17:19:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_52d37673932a4856",
@@ -2216,6 +2269,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b14139a65d318738",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Judge orders cognitive checks on Hermès heir who says his fortune was stolen, sources say - Reuters",
+      "snippet": "EXCLUSIVE: Judge orders cognitive checks on Hermès heir who says his fortune was stolen, sources say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHFmc2FDSU8wbE5RWXlpcVJBRU1CdzN2WHpNcm8yYm91TTAyTklWV0NJZzhaOUxBQURQYVFrU18xR3FQVVJxRnVRWkFHLVNIWnU1eUZ5Xzd1SFl5RENQQl9vU1JfR3FxcGtKY1lSTkw1Q09EY0l3OENQTzQ0c1pYUmNnM0VVMzBSQzN1SVdTTWxPSHMxYmk5S3FoLUV1a1RLSWFrRmJfSzVkeUJ1X21LVXhaRGF3VjJ4WGZCRGFBU19hOGt0a1NsUXNKZlAxcWhjUXc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T14:29:46.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e273547bfd0b2e16",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -2554,6 +2620,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_521aa6031b3653c6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "US visa restrictions force some African contestants out of Miss Universe competition - AP News",
+      "snippet": "US visa restrictions force some African contestants out of Miss Universe competition  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRk1Bd3FOcWR5QXBFWEhjRzNPVTgtUHdmVEVCNmdCQ19hOFlkRjUtV0F1eTlQRXltd2NSbktxd2J6aVF4aG44ajVJM1BtV2xOMS10a2xXX2V5SENZYWR0cmJQdEFZM1hBMWw5TE5EU0RKellHX2ZnaXduVlN3RXVDWERWMENQU0Z0d0tLRE5PUmZvS3FvOFdWeTFKV2JHd2VaQjBTTlNWc2hORjlrRUxIZktUdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T14:08:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_938e701714210b28",
       "source": "Washington Post",
       "sourceColor": "#5A3E3E",
@@ -2617,84 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_40189de7b76567d1",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Hispanic voters are natural conservatives. Reagan knew. GOP needs to prove it again",
-      "snippet": "Donald Trump's border security record became a 2026 liability after indiscriminate deportation enforcement alienated hispanic voters, a Republican congressman argues.",
-      "link": "https://www.foxnews.com/opinion/hispanic-voters-natural-conservatives-reagan-knew-gop-needs-prove-again",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T14:00:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5a4acef3f519047f",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Incredibly unusual’ bird migrating from Siberia found in Cumbria – killed by cat",
-      "snippet": "Siberian rubythroat was thousands of miles off course from its route to winter in south or south-east Asia\nA bird that flies south from its breeding grounds in Siberia to winter in south and south-east Asia has been found thousands of miles",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T14:00:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0f5795fff275fd20",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "The Justice Department says lying is part of the job",
-      "snippet": "On Sept. 29, a FEMA official swore in a deposition that she went to law school as “a night student” while working for the agency. Two weeks later, her school’s subpoenaed records showed day classes in fall 2018 and spring 2019 and a degree ",
-      "link": "https://www.washingtonexaminer.com/op-eds/4798798/westfall-act-whistleblower-immunity-loophole/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T14:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b32a74cc2f72b686",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Stockpiling for disaster: What does the Pentagon know that it isn’t telling us?",
-      "snippet": "If American civilians are at risk, they have a right to know.",
-      "link": "https://thehill.com/opinion/national-security/6213835-iran-cyberattack-us-readiness/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26314485217367-e1794438377785.jpg?w=900",
-      "publishedAt": "2026-11-13T14:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4d08346698142389",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "The Latest Sportsbook Promos You Can Claim for Friday’s NBA Cup Slate",
-      "snippet": "The latest sportsbook promos for Friday’s NBA Cup slate, with $2,800 in bonuses from BetMGM, Fanatics, Hard Rock Bet, FanDuel, Underdog and Betr.",
-      "link": "https://www.foxnews.com/outkick-betting/latest-sportsbook-promos-you-can-claim-fridays-nba-cup-slate",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T13:59:39.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_148e869b2c0cee87",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US producer prices rise further in October - Reuters",
-      "snippet": "US producer prices rise further in October  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T13:55:17.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
