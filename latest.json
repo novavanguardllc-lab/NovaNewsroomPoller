@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-13T13:45:09.107Z",
+  "updatedAt": "2026-11-13T13:50:09.377Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.399Z"
+      "lastSuccess": "2026-11-13T13:50:09.769Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.198Z"
+      "lastSuccess": "2026-11-13T13:50:10.390Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.282Z"
+      "lastSuccess": "2026-11-13T13:50:09.676Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.415Z"
+      "lastSuccess": "2026-11-13T13:50:09.570Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.219Z"
+      "lastSuccess": "2026-11-13T13:50:09.512Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.473Z"
+      "lastSuccess": "2026-11-13T13:50:09.949Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.478Z"
+      "lastSuccess": "2026-11-13T13:50:09.929Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.412Z"
+      "lastSuccess": "2026-11-13T13:50:09.995Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.335Z"
+      "lastSuccess": "2026-11-13T13:50:10.131Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.531Z"
+      "lastSuccess": "2026-11-13T13:50:10.138Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.580Z"
+      "lastSuccess": "2026-11-13T13:50:10.151Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-13T13:45:09.481Z"
+      "online": true,
+      "lastSuccess": "2026-11-13T13:50:09.934Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.493Z"
+      "lastSuccess": "2026-11-13T13:50:10.033Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.423Z"
+      "lastSuccess": "2026-11-13T13:50:09.552Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.511Z"
+      "lastSuccess": "2026-11-13T13:50:10.190Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.553Z"
+      "lastSuccess": "2026-11-13T13:50:10.089Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.453Z"
+      "lastSuccess": "2026-11-13T13:50:09.870Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T13:45:09.481Z"
+      "lastErrorAt": "2026-11-13T13:50:10.509Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.519Z"
+      "lastSuccess": "2026-11-13T13:50:10.476Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.668Z"
+      "lastSuccess": "2026-11-13T13:50:10.371Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.568Z"
+      "lastSuccess": "2026-11-13T13:50:10.030Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:09.575Z"
+      "lastSuccess": "2026-11-13T13:50:10.556Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:45:10.782Z"
+      "lastSuccess": "2026-11-13T13:50:10.588Z"
     }
   },
   "items": [
+    {
+      "id": "story_febd7f2d77da59e2",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Sailor assigned to Congress’s medical office had to cut lawmaker’s toenails",
+      "snippet": "A Pentagon inspector general investigation into abuses at Congress’s medical office is nearing its conclusion, with former sailors revealing that they were forced to do tasks not fitting their position, such as clipping a lawmaker’s toenail",
+      "link": "https://www.washingtonexaminer.com/policy/defense/4802494/sailor-assigned-congresss-medical-office-cut-lawmakers-toenails/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:45:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d4a831cdaf7ee5e8",
       "source": "CBS News",
@@ -147,6 +159,19 @@
       "publishedAt": "2026-11-13T13:37:49.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_093a20b22b8acf62",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK’s biggest insurer hit by rise in subsidence claims after record hot summer",
+      "snippet": "Increase reported by Aviva after Hastings Direct said claims were up 140% in August and Axa said it had been a ‘surge year’\nThe UK’s largest insurer has been hit by a rise in subsidence claims after an extremely hot summer left households a",
+      "link": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:37:31.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2668,32 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-13T09:30:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_eeb5064126c2ad23",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Winter is coming: Putin seeks to 'hammer Ukrainians, their power grid, their water supplies'",
-      "snippet": "As renewed diplomatic efforts seek to bring an end to Russia's war on Ukraine, the prospect of a negotiated settlement remains unlikely due to Russia's irreconcilable territorial demands, competing visions of European security and an increa",
-      "link": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies",
-      "imageUrl": "https://s.france24.com/media/display/64f9ee20-df42-11f1-8bdb-f71d22e7fea9/w:1024/p:16x9/EN-20261112-151425-152330-CS.jpg",
-      "publishedAt": "2026-11-13T09:26:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_46480e7371165de9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "IAEA increasingly concerned about Iranian enrichment plant, its report says - Reuters",
-      "snippet": "IAEA increasingly concerned about Iranian enrichment plant, its report says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T09:25:09.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
