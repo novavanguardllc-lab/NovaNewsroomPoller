@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-13T05:30:12.983Z",
+  "updatedAt": "2026-11-13T05:35:06.567Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.043Z"
+      "lastSuccess": "2026-11-13T05:35:06.688Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.090Z"
+      "lastSuccess": "2026-11-13T05:35:06.754Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.023Z"
+      "lastSuccess": "2026-11-13T05:35:06.769Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.136Z"
+      "lastSuccess": "2026-11-13T05:35:06.830Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.015Z"
+      "lastSuccess": "2026-11-13T05:35:06.647Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.144Z"
+      "lastSuccess": "2026-11-13T05:35:06.867Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.128Z"
+      "lastSuccess": "2026-11-13T05:35:06.852Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.131Z"
+      "lastSuccess": "2026-11-13T05:35:06.851Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.154Z"
+      "lastSuccess": "2026-11-13T05:35:06.783Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.067Z"
+      "lastSuccess": "2026-11-13T05:35:06.825Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.204Z"
+      "lastSuccess": "2026-11-13T05:35:06.903Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.165Z"
+      "lastSuccess": "2026-11-13T05:35:06.809Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.218Z"
+      "lastSuccess": "2026-11-13T05:35:06.978Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.157Z"
+      "lastSuccess": "2026-11-13T05:35:06.925Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.171Z"
+      "lastSuccess": "2026-11-13T05:35:06.955Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T05:30:13.175Z"
+      "lastErrorAt": "2026-11-13T05:35:06.969Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.216Z"
+      "lastSuccess": "2026-11-13T05:35:06.847Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.182Z"
+      "lastSuccess": "2026-11-13T05:35:06.967Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.258Z"
+      "lastSuccess": "2026-11-13T05:35:07.101Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.288Z"
+      "lastSuccess": "2026-11-13T05:35:06.998Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.060Z"
+      "lastSuccess": "2026-11-13T05:35:06.723Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.734Z"
+      "lastSuccess": "2026-11-13T05:35:07.139Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T05:30:13.149Z"
+      "lastSuccess": "2026-11-13T05:35:07.023Z"
     }
   },
   "items": [
@@ -106,6 +106,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/2241794545767/2026/upi/8c8faea38ec5f7e773e54c242c68c3e6/v1.5/Four-Turkish-soldiers-killed-in-helicopter-crash.jpg",
       "publishedAt": "2026-11-13T05:21:27.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_53e5ba13d6b0811b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
+      "snippet": "Wisconsin officials euthanized a backyard poultry flock in Rusk County after confirming a case of highly pathogenic avian influenza in the birds.",
+      "link": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T05:20:20.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2682,19 +2695,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_1cfa407d1669ba05",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Widespread outage hits Microsoft platforms including Outlook, thousands report issues",
-      "snippet": "A widespread outage hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts and other errors across the tech giant’s suite of apps. NBC News' Marquise Francis reports on why this error is o",
-      "link": "https://www.nbcnews.com/video/widespread-outage-hits-microsoft-platforms-including-outlook-thousands-report-issues-273376325995",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T23:15:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
