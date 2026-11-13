@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-11-13T13:40:09.062Z",
+  "updatedAt": "2026-11-13T13:45:09.107Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.172Z"
+      "lastSuccess": "2026-11-13T13:45:09.399Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.269Z"
+      "lastSuccess": "2026-11-13T13:45:09.198Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.312Z"
+      "lastSuccess": "2026-11-13T13:45:09.282Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.271Z"
+      "lastSuccess": "2026-11-13T13:45:09.415Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.276Z"
+      "lastSuccess": "2026-11-13T13:45:09.219Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.362Z"
+      "lastSuccess": "2026-11-13T13:45:09.473Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.330Z"
+      "lastSuccess": "2026-11-13T13:45:09.478Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.371Z"
+      "lastSuccess": "2026-11-13T13:45:09.412Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.379Z"
+      "lastSuccess": "2026-11-13T13:45:09.335Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.339Z"
+      "lastSuccess": "2026-11-13T13:45:09.531Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.395Z"
+      "lastSuccess": "2026-11-13T13:45:09.580Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.336Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-13T13:45:09.481Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.396Z"
+      "lastSuccess": "2026-11-13T13:45:09.493Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.193Z"
+      "lastSuccess": "2026-11-13T13:45:09.423Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.391Z"
+      "lastSuccess": "2026-11-13T13:45:09.511Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.359Z"
+      "lastSuccess": "2026-11-13T13:45:09.553Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.436Z"
+      "lastSuccess": "2026-11-13T13:45:09.453Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T13:40:09.407Z"
+      "lastErrorAt": "2026-11-13T13:45:09.481Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.406Z"
+      "lastSuccess": "2026-11-13T13:45:09.519Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.569Z"
+      "lastSuccess": "2026-11-13T13:45:09.668Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.248Z"
+      "lastSuccess": "2026-11-13T13:45:09.568Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.490Z"
+      "lastSuccess": "2026-11-13T13:45:09.575Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T13:40:09.478Z"
+      "lastSuccess": "2026-11-13T13:45:10.782Z"
     }
   },
   "items": [
+    {
+      "id": "story_d4a831cdaf7ee5e8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Why you shouldn't wait until 2027 to deal with your credit card debt",
+      "snippet": "Thinking of waiting until 2027 to tackle your high-rate credit card debt? Here's why that could be a costly mistake.",
+      "link": "https://www.cbsnews.com/news/why-shouldnt-wait-until-2027-deal-with-credit-card-debt/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:39:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c8c98d524b675a8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Can you negotiate your pet insurance premiums? Here's what to know.",
+      "snippet": "Pet insurance costs can add up quickly, but there may be ways to lower your premiums without losing coverage.",
+      "link": "https://www.cbsnews.com/news/can-you-negotiate-your-pet-insurance-premiums/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:38:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c48d4f6abb81ee19",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump says he would ‘easily’ beat ‘highly overrated’ Obama",
+      "snippet": "President Trump claimed in a new interview that he could “easily” beat former President Obama in a political match-up, days after Republicans experienced sweeping losses in the midterm elections.  “I got many more votes than he got, and I g",
+      "link": "https://thehill.com/homenews/campaign/6218241-donald-trump-barack-obama-potential-matchup-midterms-postelection/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Trump_Obama_111326.png?w=900",
+      "publishedAt": "2026-11-13T13:38:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_bec07cada2965d2a",
       "source": "Fox News",
@@ -2653,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcEw4cVpnMkIxMTVtZEJlQmN3OHlsLUxxZnQxMWlfV3VfWTBYeHA2VEpBVWxpZk9TejdSaDgzazdlQUlMZy00aEhmZS1GYnhpVmU1bzdQTWM2VUJqd2dOWWowa1VQSWppQVdYSi1PVm0zX2J1b1hFU1QwaGs5N3lDZkJ3bEY5OG9Tai15M3VoRXVycFVBWjYwWjQ5dUhDcEJ4SWFHSXZxNDg5b2k2OG1DUVBoTHBDWE84dmVfZXc4WQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-13T09:25:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3ebe1da7f9d21a9d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EXCLUSIVE Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
-      "snippet": "EXCLUSIVE Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T09:20:06.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cad3b1300310ece5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 U.S. House Election Results - AP News",
-      "snippet": "2026 U.S. House Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T09:18:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3e5f1a1d7648e7a4",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Brazil's Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid - Reuters",
-      "snippet": "Brazil's Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWlOY0VHcXJMM0JmZ2hmN1YtWmh5bkRrZFRweG04bDNhRDFvWTZybmwxQU56R1hpY0lta2o4bUI2MGx6LTIxaWt4TVlHd0pfTFlndEFQQmlrWTVyNms2Skl6M2lwWklYeGl4ek5PdC1jb1RFT1ZLWFVPeThLR1V0ZTNtU2tNN1czSW5TUkptOEFYcU5WR3NhWXZJRFB2a1JDbjQ3WGNKTXVlSkpDR1UtM3ZSbHU2REo0dC1HQW55S2F0YmZSQU9MbVZB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T09:13:43.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
