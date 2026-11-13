@@ -1,101 +1,154 @@
 {
-  "updatedAt": "2026-11-13T15:20:09.225Z",
+  "updatedAt": "2026-11-13T15:25:06.829Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.487Z"
+      "lastSuccess": "2026-11-13T15:25:07.026Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.736Z"
+      "lastSuccess": "2026-11-13T15:25:07.276Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.504Z"
+      "lastSuccess": "2026-11-13T15:25:07.065Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.545Z"
+      "lastSuccess": "2026-11-13T15:25:07.068Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.332Z"
+      "lastSuccess": "2026-11-13T15:25:06.923Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.627Z"
+      "lastSuccess": "2026-11-13T15:25:07.249Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.625Z"
+      "lastSuccess": "2026-11-13T15:25:07.002Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.406Z"
+      "lastSuccess": "2026-11-13T15:25:07.086Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.525Z"
+      "lastSuccess": "2026-11-13T15:25:07.127Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.363Z"
+      "lastSuccess": "2026-11-13T15:25:06.986Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.609Z"
+      "lastSuccess": "2026-11-13T15:25:07.185Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.427Z"
+      "lastSuccess": "2026-11-13T15:25:07.101Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.628Z"
+      "lastSuccess": "2026-11-13T15:25:07.224Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.384Z"
+      "lastSuccess": "2026-11-13T15:25:06.961Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.633Z"
+      "lastSuccess": "2026-11-13T15:25:07.264Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.569Z"
+      "lastSuccess": "2026-11-13T15:25:07.145Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.606Z"
+      "lastSuccess": "2026-11-13T15:25:07.181Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T15:20:09.662Z"
+      "lastErrorAt": "2026-11-13T15:25:07.270Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.645Z"
+      "lastSuccess": "2026-11-13T15:25:07.252Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.856Z"
+      "lastSuccess": "2026-11-13T15:25:07.463Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.449Z"
+      "lastSuccess": "2026-11-13T15:25:07.110Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:20:09.683Z"
+      "lastSuccess": "2026-11-13T15:25:07.299Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-11-13T15:20:11.455Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-13T15:25:16.851Z"
     }
   },
   "items": [
+    {
+      "id": "story_8a45c360ce17ecf9",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Detroit: Horses on bus raised safety concerns for riders, animals",
+      "snippet": "The Detroit Department of Transportation says video of two horses boarding a city bus raised safety concerns, and it plans to use the incident to retrain bus operators and educate residents.",
+      "link": "https://www.cbsnews.com/news/detroit-ddot-horses-bus-service-animals-retraining-statement/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:22:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b440bc09d8521bba",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "China warns against new U.S. export controls on computer chips",
+      "snippet": "China is warning the U.S. against putting new export controls on semiconductors in the wake of the scandal surrounding​ AI chip giant Nvidia and its now-former CEO Jensen Huang.",
+      "link": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:19:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5a579197e74a1dd7",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Company under scrutiny for ties to Nvidia and China",
+      "snippet": "The unusual global footprint of Megaspeed, a major buyer of Nvidia's powerful AI computer chips, is fueling questions about whether it's a front for the Chinese government.",
+      "link": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:19:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_563f4e18459003e3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "These cute weighted stuffed animals make great gifts — FOX readers save 15%",
+      "snippet": "From Highland cows to sharks, Hugz weighted stuffed animals offer calming, hug-like comfort for kids and adults in a heatable, coolable design. Save 15% with code FOX15.",
+      "link": "https://www.foxnews.com/deals/hugz-weighted-animals-deal",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:16:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b2eafb900d4decb0",
       "source": "The Hill",
@@ -118,6 +171,45 @@
       "link": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/",
       "imageUrl": null,
       "publishedAt": "2026-11-13T15:13:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_baf30edce8325862",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Ukrainian director on telling the stories of survivors of sexual violence",
+      "snippet": "A new documentary sheds new light on the experiences of Ukrainian survivors of sexual violence by Russian soldiers. Alisa Kovalenko, the director of \"Traces,\" joins to talk about her documentary.",
+      "link": "https://www.cbsnews.com/video/ukrainian-director-on-telling-the-stories-of-survivors-of-sexual-violence/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:13:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9edb57701d4cfe89",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Democrats work to keep momentum in 2028",
+      "snippet": "Democrats saw massive wins in the 2026 midterm elections, taking control of the House and Senate. Now, they're planning their strategy for 2028 elections, including the presidential election.",
+      "link": "https://www.cbsnews.com/video/democrats-work-to-keep-momentum-in-2028/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:12:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2dd7768783ccb176",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Haitian forces recapture national stadium after two years of gang control",
+      "snippet": "Haitian security forces regained control Thursday, November 12, of the country's main stadium that had been under gang control for two years, forcing the national football team to play elsewhere. The Haitian National Police said in a statem",
+      "link": "https://www.france24.com/en/video/20261113-haitian-forces-recapture-national-stadium-after-two-years-of-gang-control",
+      "imageUrl": "https://s.france24.com/media/display/0f629408-df6f-11f1-8eb6-695cb59fade5/w:1024/p:16x9/2026-11-12T233346Z-704608318-RC26MOAZMZ8G-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+      "publishedAt": "2026-11-13T15:09:35.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1263,6 +1355,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-13T13:11:08.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_83121d430dc325af",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "How US tech pain is European stock markets' gain - Reuters",
+      "snippet": "How US tech pain is European stock markets' gain  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:10:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2591,110 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_c32572d59df110cd",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Means rocks boat, further straining Trump’s MAHA alliance",
-      "snippet": "A public feud between former senior Health adviser Calley Means and former White House chief of staff Susie Wiles is heating up as Means accuses Wiles and her former deputy chief of staff James Blair of corruption — highlighting the deepeni",
-      "link": "https://thehill.com/policy/healthcare/6217333-calley-means-susie-wiles-feud-maha/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/meanscalley_wilessusie_111226nkgn01_w.jpg?w=900",
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f117f08c4f0e7639",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-      "snippet": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_92e58ad6ea7ca451",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "The Quakers lose moral clarity amid Jew-hate",
-      "snippet": "On Nov. 8, 2026, on the eve of the 88th anniversary of Kristallnacht, the progressive group Philly Bike on Left organized a bike ride in Philadelphia’s Center City and Rittenhouse Square to point out Jewish and Israeli-American-owned busine",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4801562/quakers-lose-moral-clarity-amid-jew-hate/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fdd118b8ca06a5dd",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Oregon students return to school to begin long healing process after shooting ",
-      "snippet": "A nonprofit from South Carolina guided the school district in Bend in best practices to deal with trauma after the deaths of three children and a teacher.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/13/officials-repaired-school-after-fatal-shooting-healing-students-will-take-longer/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78623b6de5fd0305",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
-      "snippet": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not compromise on its hardline demands to end almos",
-      "link": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance",
-      "imageUrl": "https://s.france24.com/media/display/da448e3a-df4f-11f1-9d2a-f71d22e7fea9/w:1024/p:16x9/capture-4c0c2d8a.jpg",
-      "publishedAt": "2026-11-13T10:59:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b0c15e0d5a489286",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "El Salvador deploys armed robots to fight gangs in Haiti",
-      "snippet": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T10:57:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a040155e49cf141b",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Fallout from Nvidia scandal spreads as Huang resigns",
-      "snippet": "Jensen Huang resigned as chief executive of Nvidia on Thursday after revelations of extramarital affairs, including one with a woman accused of spying for China. The news wiped 4.3% of Nvidia’s share price by closing bell Thursday, while th",
-      "link": "https://www.france24.com/en/video/20261113-fallout-from-nvidia-scandal-spreads-as-huang-resigns",
-      "imageUrl": "https://s.france24.com/media/display/5a234d8a-df50-11f1-ad30-29048b396e03/w:1024/p:16x9/EN-20261113-110827-111017-CS.jpg",
-      "publishedAt": "2026-11-13T10:56:22.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_ea51dc48e4d7c01e",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Peruvians flock to see Pope Leo XIV in city he served as bishop",
-      "snippet": "Crowds in Peru's northern city of Chiclayo gathered early on Friday, November 13, ​ahead of ‌Pope Leo's arrival for the centerpiece event of his 12-day South America tour, an outdoor ⁠Mass with the people who called him their bishop for eig",
-      "link": "https://www.france24.com/en/video/20261113-peruvians-flock-to-see-pope-leo-xiv-in-city-he-served-as-bishop",
-      "imageUrl": "https://s.france24.com/media/display/662d1666-df4f-11f1-9644-5f54d898a954/w:1024/p:16x9/capture-68eec3bc.jpg",
-      "publishedAt": "2026-11-13T10:55:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
