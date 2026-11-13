@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-13T21:25:06.855Z",
+  "updatedAt": "2026-11-13T21:30:12.750Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.920Z"
+      "lastSuccess": "2026-11-13T21:30:12.877Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.922Z"
+      "lastSuccess": "2026-11-13T21:30:12.988Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.902Z"
+      "lastSuccess": "2026-11-13T21:30:12.934Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.925Z"
+      "lastSuccess": "2026-11-13T21:30:12.973Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.059Z"
+      "lastSuccess": "2026-11-13T21:30:13.117Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.933Z"
+      "lastSuccess": "2026-11-13T21:30:13.126Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.932Z"
+      "lastSuccess": "2026-11-13T21:30:13.161Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.095Z"
+      "lastSuccess": "2026-11-13T21:30:13.152Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.991Z"
+      "lastSuccess": "2026-11-13T21:30:13.214Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.955Z"
+      "lastSuccess": "2026-11-13T21:30:13.051Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.076Z"
+      "lastSuccess": "2026-11-13T21:30:13.191Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.968Z"
+      "lastSuccess": "2026-11-13T21:30:12.996Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.929Z"
+      "lastSuccess": "2026-11-13T21:30:13.122Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.093Z"
+      "lastSuccess": "2026-11-13T21:30:13.133Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.087Z"
+      "lastSuccess": "2026-11-13T21:30:13.136Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.050Z"
+      "lastSuccess": "2026-11-13T21:30:13.104Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.091Z"
+      "lastSuccess": "2026-11-13T21:30:13.149Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T21:25:07.065Z"
+      "lastErrorAt": "2026-11-13T21:30:13.150Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.100Z"
+      "lastSuccess": "2026-11-13T21:30:13.158Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:08.243Z"
+      "lastSuccess": "2026-11-13T21:30:13.299Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.946Z"
+      "lastSuccess": "2026-11-13T21:30:12.957Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:07.267Z"
+      "lastSuccess": "2026-11-13T21:30:13.287Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T21:25:06.964Z"
+      "lastSuccess": "2026-11-13T21:30:13.363Z"
     }
   },
   "items": [
+    {
+      "id": "story_c95807c7e9d6b295",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "FAA issues nationwide ground stop",
+      "snippet": "The Federal Aviation Administration on Friday issued a rare nationwide ground stop on all departing flights, U.S. Secretary of Transportation Sean Duffy said.",
+      "link": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T21:29:12.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 7
+    },
+    {
+      "id": "story_486ec4b4faea243e",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "F.A.A. Declares a Rare Nationwide Ground Stop",
+      "snippet": "The F.A.A. grounded all flights nationwide, citing “extraordinary circumstances” and “reasons of safety.”",
+      "link": "https://www.nytimes.com/2026/11/13/world/americas/nationwide-ground-stop-flights-faa.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T21:26:42.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
+    },
     {
       "id": "story_e928971bfd834963",
       "source": "The Hill",
@@ -420,6 +446,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b9b27cc2307b62a",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Pope Leo cheered on return to Peru city where he served as bishop",
+      "snippet": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T20:52:31.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_1ce49df085e40710",
@@ -2653,45 +2692,6 @@
       "link": "https://www.foxnews.com/outkick-sports/giants-star-cam-skattebo-reveals-odd-pregame-meal-caused-puke-mid-game",
       "imageUrl": null,
       "publishedAt": "2026-11-13T17:47:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4e5ff7623a482d0a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brad Ausmus missed out on the Astros GM job before landing in the dugout - AP News",
-      "snippet": "Brad Ausmus missed out on the Astros GM job before landing in the dugout  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUlqU0ZHLXlRODVaSUlCc2h4dEJnelVPSWgtbjdobmk1eFF3cXdLZmZQMGZkOEV0cVAxVFdpODFDcHJzM0JwLXF4WjJoc2xPTXZFczdScDlKbWZyNGhSRTFfT0x1YlFVd0dIS1FTTUpQTWZWLUZaTklBcHpIR0JsSzd0SVkwUFU2?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T17:47:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_22859701e1670291",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Mom who plowed into soccer field and killed 2 will not face charges, DA says",
-      "snippet": "Sedgwick County DA Marc Bennett says negligence alone cannot support vehicular manslaughter charges under Kansas law after the Stryker Complex crash.",
-      "link": "https://www.foxnews.com/us/mom-plowed-soccer-field-killed-2-will-not-face-charges-da-says",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T17:46:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_562ef8dc14c3ea14",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
-      "snippet": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But four years after applying to join the EU, Kosovo has still not ",
-      "link": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
-      "imageUrl": "https://s.france24.com/media/display/419fc3dc-df4c-11f1-8b89-29048b396e03/w:1024/p:16x9/capture-5e8d4fca.jpg",
-      "publishedAt": "2026-11-13T17:46:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
