@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-13T07:50:08.631Z",
+  "updatedAt": "2026-11-13T07:55:06.430Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.781Z"
+      "lastSuccess": "2026-11-13T07:55:06.600Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.757Z"
+      "lastSuccess": "2026-11-13T07:55:06.564Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:09.163Z"
+      "lastSuccess": "2026-11-13T07:55:06.934Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.917Z"
+      "lastSuccess": "2026-11-13T07:55:06.567Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.788Z"
+      "lastSuccess": "2026-11-13T07:55:06.490Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.977Z"
+      "lastSuccess": "2026-11-13T07:55:06.663Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.937Z"
+      "lastSuccess": "2026-11-13T07:55:06.666Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.980Z"
+      "lastSuccess": "2026-11-13T07:55:06.647Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.804Z"
+      "lastSuccess": "2026-11-13T07:55:06.643Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.825Z"
+      "lastSuccess": "2026-11-13T07:55:06.678Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.910Z"
+      "lastSuccess": "2026-11-13T07:55:06.726Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.844Z"
+      "lastSuccess": "2026-11-13T07:55:06.629Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.959Z"
+      "lastSuccess": "2026-11-13T07:55:06.731Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.940Z"
+      "lastSuccess": "2026-11-13T07:55:06.729Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.963Z"
+      "lastSuccess": "2026-11-13T07:55:06.745Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T07:50:08.959Z"
+      "lastErrorAt": "2026-11-13T07:55:06.847Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.990Z"
+      "lastSuccess": "2026-11-13T07:55:06.699Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:09.018Z"
+      "lastSuccess": "2026-11-13T07:55:06.846Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:09.137Z"
+      "lastSuccess": "2026-11-13T07:55:06.821Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:09.080Z"
+      "lastSuccess": "2026-11-13T07:55:06.853Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:09.154Z"
+      "lastSuccess": "2026-11-13T07:55:06.841Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:09.956Z"
+      "lastSuccess": "2026-11-13T07:55:06.917Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T07:50:08.957Z"
+      "lastSuccess": "2026-11-13T07:55:06.684Z"
     }
   },
   "items": [
+    {
+      "id": "story_a5806609289cc24b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Couple accused of killing registered sex offender in pre-planned stabbing in Arizona desert",
+      "snippet": "A couple allegedly planned the stabbing of a registered sex offender in a desert area in Arizona and now face first-degree homicide charges, police say.",
+      "link": "https://www.foxnews.com/us/couple-accused-killing-registered-sex-offender-pre-planned-stabbing-arizona-desert",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T07:43:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7548aad5d39dc336",
       "source": "Al Jazeera",
@@ -2682,19 +2695,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_b5c80b7ef2730c52",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Mississippi reacts after Scott Colom wins Senate race",
-      "snippet": "CBS news projects that Scott Colom has won the Mississippi Senate race after a razor tight battle with Cindy Hyde-Smith. CBS News' Mark Strassmann reports.",
-      "link": "https://www.cbsnews.com/video/mississippi-reacts-after-scott-colom-wins-senate-race/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T23:49:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
