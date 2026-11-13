@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-13T02:20:08.750Z",
+  "updatedAt": "2026-11-13T02:25:05.766Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:09.305Z"
+      "lastSuccess": "2026-11-13T02:25:05.801Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:10.051Z"
+      "lastSuccess": "2026-11-13T02:25:06.129Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:09.327Z"
+      "lastSuccess": "2026-11-13T02:25:05.831Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.793Z"
+      "lastSuccess": "2026-11-13T02:25:05.897Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.796Z"
+      "lastSuccess": "2026-11-13T02:25:05.810Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.933Z"
+      "lastSuccess": "2026-11-13T02:25:05.944Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.905Z"
+      "lastSuccess": "2026-11-13T02:25:05.925Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:09.037Z"
+      "lastSuccess": "2026-11-13T02:25:05.930Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.801Z"
+      "lastSuccess": "2026-11-13T02:25:05.849Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.806Z"
+      "lastSuccess": "2026-11-13T02:25:05.854Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.859Z"
+      "lastSuccess": "2026-11-13T02:25:05.922Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.904Z"
+      "lastSuccess": "2026-11-13T02:25:05.880Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.935Z"
+      "lastSuccess": "2026-11-13T02:25:05.960Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.922Z"
+      "lastSuccess": "2026-11-13T02:25:05.938Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.929Z"
+      "lastSuccess": "2026-11-13T02:25:05.959Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T02:20:08.922Z"
+      "lastErrorAt": "2026-11-13T02:25:05.945Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.894Z"
+      "lastSuccess": "2026-11-13T02:25:05.894Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:09.370Z"
+      "lastSuccess": "2026-11-13T02:25:05.997Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:09.169Z"
+      "lastSuccess": "2026-11-13T02:25:06.264Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.997Z"
+      "lastSuccess": "2026-11-13T02:25:05.974Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.790Z"
+      "lastSuccess": "2026-11-13T02:25:06.207Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:10.492Z"
+      "lastSuccess": "2026-11-13T02:25:06.192Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T02:20:08.910Z"
+      "lastSuccess": "2026-11-13T02:25:05.935Z"
     }
   },
   "items": [
+    {
+      "id": "story_e684eb4c6a89fe5d",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "GOP lawmakers press Huang to appear before Congress",
+      "snippet": "Republicans on Capitol Hill are negotiating for now-resigned Nvidia CEO Jensen Huang​ to appear before Congress.",
+      "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T02:23:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_69bc96bcdaeb920e",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Chris Van Hollen launches bid to unseat Schumer as Senate majority leader",
+      "snippet": "Sen. Chris Van Hollen (D-MD) on Thursday night announced that he would be challenging Sen. Chuck Schumer (D-NY) for majority leader after previously ruling out the possibility. “In this election, Americans called on us to unrig an economy r",
+      "link": "https://www.washingtonexaminer.com/news/senate/4802382/chris-van-hollen-schumer-senate-majority-leader/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T02:23:05.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
     {
       "id": "story_4beae20b0b03cf37",
       "source": "CBS News",
@@ -2664,32 +2690,6 @@
       "headline": "Witkoff and Kushner spearhead Russia and Iran negotiations. Has Rubio been sidelined?",
       "snippet": "Secretary of State Marco Rubio is the United States’s top diplomat, but his recent engagement with the country’s two most prominent foreign policy priorities has appeared to be from the sidelines. Presidential envoys Jared Kushner and Steve",
       "link": "https://www.washingtonexaminer.com/policy/foreign-policy/4800396/witkoff-kushner-spearhead-russia-iran-negotiations-rubio-sidelined/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_679cb7156cfcebea",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Jeffries and Schumer have plenty of critics – but no challengers: From the Politics Desk",
-      "snippet": "In today’s edition, Jonathan Allen explains why Hakeem Jeffries and Chuck Schumer don’t appear to be in much danger of losing their Democratic leadership bids.",
-      "link": "https://www.nbcnews.com/politics/politics-news/jeffries-schumer-plenty-critics-no-challengers-politics-desk-rcna609057",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a9ed6e7eeefe6a86",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "11/12: The Takeout with Major Garrett",
-      "snippet": "Jensen Huang steps down as Nvidia CEO; Mississippi reacts after Scott Colom wins his Senate race.",
-      "link": "https://www.cbsnews.com/video/111226-the-takeout-with-major-garrett/",
       "imageUrl": null,
       "publishedAt": "2026-11-12T22:00:00.000Z",
       "tier": "routine",
