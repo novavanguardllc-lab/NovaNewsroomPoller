@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-13T01:30:12.007Z",
+  "updatedAt": "2026-11-13T01:35:06.333Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.644Z"
+      "lastSuccess": "2026-11-13T01:35:06.478Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.171Z"
+      "lastSuccess": "2026-11-13T01:35:06.877Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.113Z"
+      "lastSuccess": "2026-11-13T01:35:06.789Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.121Z"
+      "lastSuccess": "2026-11-13T01:35:06.573Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.132Z"
+      "lastSuccess": "2026-11-13T01:35:06.394Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.210Z"
+      "lastSuccess": "2026-11-13T01:35:06.532Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.215Z"
+      "lastSuccess": "2026-11-13T01:35:06.575Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.094Z"
+      "lastSuccess": "2026-11-13T01:35:06.728Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.250Z"
+      "lastSuccess": "2026-11-13T01:35:06.552Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.270Z"
+      "lastSuccess": "2026-11-13T01:35:06.582Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.319Z"
+      "lastSuccess": "2026-11-13T01:35:06.622Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.293Z"
+      "lastSuccess": "2026-11-13T01:35:06.598Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.275Z"
+      "lastSuccess": "2026-11-13T01:35:06.629Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.278Z"
+      "lastSuccess": "2026-11-13T01:35:06.570Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.283Z"
+      "lastSuccess": "2026-11-13T01:35:06.626Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T01:30:12.494Z"
+      "lastErrorAt": "2026-11-13T01:35:06.752Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.369Z"
+      "lastSuccess": "2026-11-13T01:35:06.565Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.394Z"
+      "lastSuccess": "2026-11-13T01:35:06.649Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.630Z"
+      "lastSuccess": "2026-11-13T01:35:07.670Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.454Z"
+      "lastSuccess": "2026-11-13T01:35:06.677Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.474Z"
+      "lastSuccess": "2026-11-13T01:35:06.435Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.720Z"
+      "lastSuccess": "2026-11-13T01:35:06.712Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T01:30:12.352Z"
+      "lastSuccess": "2026-11-13T01:35:06.585Z"
     }
   },
   "items": [
+    {
+      "id": "story_21e5fdddc37a7e94",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+      "snippet": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts.",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T01:26:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_803ce875cfd7dbb2",
       "source": "ABC News",
@@ -1081,6 +1094,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP25043847819357-e1794525472973.jpg?w=900",
       "publishedAt": "2026-11-12T23:24:15.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7b4fe6b3238dd3a8",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south - AP News",
+      "snippet": "Canada threatens to sue Stellantis over auto plant sale as Trump’s trade war shifts production south  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3ppYVMtX0Y3YUxuMGZuSUk5UlBrWWNvNkFZVzVvejFndGVIREtVREJ6cEtiTDRsMTU4Mkk0ZWZSOEdIczdyRmxnbFg2VVZtcDh0Y2tBdWpkb0VLQXpSNGQyVVVVMHhlbmVsSHByYkpHUGF6OHhoRXRsb0wzeGFQWFNIZ2xVeDlETjlFRlJVQzFrd2dfLTJZOHZBU1VpN2JaaWMyOTlyeDM5WVU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T23:21:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2667,32 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-12T21:19:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_82deb12ddacbc352",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Deadly shooting in Washington DC",
-      "snippet": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T21:18:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_63809816c8bf65e2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Witnesses who watched a Brooklyn building come crashing down felt helpless amid the chaos - AP News",
-      "snippet": "Witnesses who watched a Brooklyn building come crashing down felt helpless amid the chaos  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXBYQ0JobDdQREV2TlExUU9YNVRSM1doRk1ORFZNWWE2c005VF9uZGUzLUhQcWlyTThielhaMzB4UzkzREhUcjZ6SktDTzczbURoQjE5WjlnRU9VZjdsdnB3V1RBdUZ3TGtEbmJhZmZXdEJHUTJTNjFINFNDRm1McmJjSHFNMUJURHJJQjZZd2FWUkVGSFgySXdDdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T21:17:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
