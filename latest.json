@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-13T23:35:06.240Z",
+  "updatedAt": "2026-11-13T23:40:09.090Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.292Z"
+      "lastSuccess": "2026-11-13T23:40:09.638Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.305Z"
+      "lastSuccess": "2026-11-13T23:40:09.205Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.356Z"
+      "lastSuccess": "2026-11-13T23:40:09.197Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.401Z"
+      "lastSuccess": "2026-11-13T23:40:09.217Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.468Z"
+      "lastSuccess": "2026-11-13T23:40:09.260Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.296Z"
+      "lastSuccess": "2026-11-13T23:40:09.246Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.300Z"
+      "lastSuccess": "2026-11-13T23:40:09.412Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.471Z"
+      "lastSuccess": "2026-11-13T23:40:09.297Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.421Z"
+      "lastSuccess": "2026-11-13T23:40:09.403Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.367Z"
+      "lastSuccess": "2026-11-13T23:40:09.327Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.320Z"
+      "lastSuccess": "2026-11-13T23:40:09.280Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.398Z"
+      "lastSuccess": "2026-11-13T23:40:09.376Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.406Z"
+      "lastSuccess": "2026-11-13T23:40:09.290Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.453Z"
+      "lastSuccess": "2026-11-13T23:40:09.370Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.460Z"
+      "lastSuccess": "2026-11-13T23:40:09.380Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.449Z"
+      "lastSuccess": "2026-11-13T23:40:09.366Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.480Z"
+      "lastSuccess": "2026-11-13T23:40:09.392Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T23:35:06.470Z"
+      "lastErrorAt": "2026-11-13T23:40:09.386Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.488Z"
+      "lastSuccess": "2026-11-13T23:40:09.453Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.647Z"
+      "lastSuccess": "2026-11-13T23:40:09.619Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.737Z"
+      "lastSuccess": "2026-11-13T23:40:09.537Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.724Z"
+      "lastSuccess": "2026-11-13T23:40:09.500Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T23:35:06.764Z"
+      "lastSuccess": "2026-11-13T23:40:09.691Z"
     }
   },
   "items": [
@@ -105,6 +105,19 @@
       "link": "https://www.cbsnews.com/video/111326-48-hours-case-by-case-episode-30/",
       "imageUrl": null,
       "publishedAt": "2026-11-14T00:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27531f5cf26d5fd6",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "What to know about Microsoft's outage and why it takes so long to restore email services",
+      "snippet": "Unlike modern web apps or authentication gatekeepers, email wasn't designed to fail fast, meaning to immediately halt when a problem arises.",
+      "link": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T23:33:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -565,6 +578,19 @@
       "corroboratedCount": 6
     },
     {
+      "id": "story_0e47d73c65e48b50",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+      "snippet": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T22:36:45.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_fcc1899af9d52bc9",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -628,6 +654,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_18418026b6326836",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "The US flu season is off to a very early start. It’s targeting the South and West now - AP News",
+      "snippet": "The US flu season is off to a very early start. It’s targeting the South and West now  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM0staG9UN2hSTUhhalFvTENMa3N1Z01KbW9BN0xNcFlyd3I4RnlaZE85NnVsTkViM0tTUHBYTTdQWXExaEJkcGdjUm56ZGJEbHRjZUZpSF8zc054U0JPRkJ2LXE4VXhVVWViMkFsdVdmazVTVDlwSkJndDVFdmltY0xubEpqR2ZGWHNYQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T22:28:56.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_c685c8cf63f3893f",
@@ -717,6 +756,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26304707564987-e1794607372265.jpg?w=900",
       "publishedAt": "2026-11-13T22:16:50.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2754b7413773a561",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "FAA grounds all flights across the U.S. due to air traffic control communications problems - AP News",
+      "snippet": "FAA grounds all flights across the U.S. due to air traffic control communications problems  AP News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWnBCX3ZEYmFWLTVmc2dmbFNkQ1d6MF9ZdUFKWEVIUTZpaEFpOGNLODdmNFoyZHVxMnNoM1Zic1FGeHE4ejBCT0gxVWZrZzNEOWpDSTlnYkpGOVNicTlHZnIyTmxJQjlzU0hjTFAwM29LX1kxbDRuck5kOWYyb2x3UnFTc2pNelJzV2hBaW8xQm9GbU5ocm8zdG9OOEdDbmZ5dXpZQ1hYampzUWJYbVBKRjVORHN3VEtreFNxT2RiWk5nZTNxWWRDZDZ6bW0wSUxqeDdidzFZYjRWVTl2bm1fRA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T22:14:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2643,58 +2695,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_9a70958191ef9d41",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
-      "snippet": "Authorities conclude search for victims in wreckage of the building and release the names of the eight victims\nThe New York City police department (NYPD) and New York City fire department (FDNY) have concluded the search for victims in the ",
-      "link": "https://www.theguardian.com/us-news/2026/nov/13/brooklyn-building-collapse-victims",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T20:02:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_452228a4117dc5b3",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Emergency crews responding to vessel collision near Port of New Orleans",
-      "snippet": "The incident occurred Friday on the Mississippi River.",
-      "link": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T20:01:36.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f69d64da2f3d7a17",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "This towel warmer is the ultimate cold-weather bathroom upgrade, now 15% off",
-      "snippet": "This towel warmer fits two towels in its 21-liter capacity and heats in minutes, now 20% off as part of Amazon Black Friday deals.",
-      "link": "https://www.foxnews.com/deals/towel-warmer-amazon-deals",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T20:00:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_82273af136011dd0",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Trump should enforce immigration law through employers, not ICE raids",
-      "snippet": "President Donald Trump has acknowledged that his enforcement of immigration laws was likely perceived as too tough and contributed to the Republican debacle last week. He’s right, but that doesn’t mean he should back off of enforcement. It ",
-      "link": "https://www.washingtonexaminer.com/in_focus/4802764/trump-enforce-immigration-law-employers-not-ice-raids/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T20:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
