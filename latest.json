@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-13T15:50:09.467Z",
+  "updatedAt": "2026-11-13T15:55:06.752Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.594Z"
+      "lastSuccess": "2026-11-13T15:55:06.869Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:10.089Z"
+      "lastSuccess": "2026-11-13T15:55:07.197Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.649Z"
+      "lastSuccess": "2026-11-13T15:55:06.947Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.667Z"
+      "lastSuccess": "2026-11-13T15:55:06.997Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.655Z"
+      "lastSuccess": "2026-11-13T15:55:06.953Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.813Z"
+      "lastSuccess": "2026-11-13T15:55:07.085Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.830Z"
+      "lastSuccess": "2026-11-13T15:55:07.147Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.692Z"
+      "lastSuccess": "2026-11-13T15:55:07.070Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.718Z"
+      "lastSuccess": "2026-11-13T15:55:06.993Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.877Z"
+      "lastSuccess": "2026-11-13T15:55:07.078Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.894Z"
+      "lastSuccess": "2026-11-13T15:55:07.172Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.900Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-13T15:55:07.085Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.888Z"
+      "lastSuccess": "2026-11-13T15:55:07.177Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.678Z"
+      "lastSuccess": "2026-11-13T15:55:07.217Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.898Z"
+      "lastSuccess": "2026-11-13T15:55:07.167Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.873Z"
+      "lastSuccess": "2026-11-13T15:55:07.252Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.793Z"
+      "lastSuccess": "2026-11-13T15:55:07.137Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T15:50:09.921Z"
+      "lastErrorAt": "2026-11-13T15:55:07.253Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:09.921Z"
+      "lastSuccess": "2026-11-13T15:55:07.258Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:10.010Z"
+      "lastSuccess": "2026-11-13T15:55:07.309Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:10.027Z"
+      "lastSuccess": "2026-11-13T15:55:07.015Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:10.062Z"
+      "lastSuccess": "2026-11-13T15:55:07.352Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T15:50:11.714Z"
+      "lastSuccess": "2026-11-13T15:55:07.409Z"
     }
   },
   "items": [
@@ -108,6 +109,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_78e1bf4bf8a10a9b",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+      "snippet": "The Maryland Democrat, who's the ranking member of the Senate Foreign Relations Subcommittee, just announced he's going to run for Majority Leader post. He spoke to NPR about his foreign aid vision.",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:46:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a766dfc10540085f",
@@ -786,6 +800,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_8015899d14013368",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth - Reuters",
+      "snippet": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUY1ZVU4V1FfVjg4bkIxMkpIVWJqQ0tVeDRsb1ZOSGRkWlo5THVweFduVWVjTXloTWVRZnhhdGJqX0I3RnlHRlkxd3MzNzFUcFBibFd2bUJKNkI2RXdPVE5FeXJRNGZLQzZDcnZXQ0pRcGdPRjBvZWs1Xzd6VTlfLXJXb1dNUjZuM0N1LWZpaUExWmk1ZXpIdlhCM29RTkpLWE9YSXdIM3hLQk41c2M5ZFJCWExESUhabjl6Mjg2dTU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T14:31:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d9c8e120fb98d703",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -1133,6 +1160,19 @@
       "imageUrl": "https://s.france24.com/media/display/981089fc-df67-11f1-b7dc-29048b396e03/w:1024/p:16x9/EN-20261113-141517-141709-CS.jpg",
       "publishedAt": "2026-11-13T14:06:44.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b8fd8b4d6fae7b7a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "BYD launches luxury brand Denza in India, taking on Mercedes, Toyota - Reuters",
+      "snippet": "BYD launches luxury brand Denza in India, taking on Mercedes, Toyota  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm5YUEdGS1YxQ0FsVGhGb3huMnZJZ1dCLXpPQzkxZGFMNXlCcXpXb0xULVJFS18yeFJjTG5iLXpTTDIyXzFzTC1HQ19SczRiejhCbHZhVzEwdVg1OGUxTWphNVhSZG02QVNSV0M1UnoyMWRCUExDTmkzUFpLaV8wQ2VKOEUxdVJIemgyRlVSVnF6TGFVQ2toaWJRVVU4VHJuVGJwZ3prTDlQazJGQ25US3VfOA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T14:01:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1603,6 +1643,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_9a13614f2fa2ccb1",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia says Europeans can join Ukraine peace talks if they show 'readiness to contribute' - Reuters",
+      "snippet": "Russia says Europeans can join Ukraine peace talks if they show 'readiness to contribute'  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeUZLZHJfVTJLQ0YwVGJBUmRIOXFKNW5VTU90Ni02a1EyWmc0NlZzX3NEay1fcE9INk1tdzYtYzF3Z2xWTU44NV8zRHRoRnR1U2hJM0xXWVllcFhyZDc5TldPbXUtaXVlX0Z5V0syOXBsb0s1QnpOMl9UYktfM2JHejl3dmVmd3ItcVp5Q0I5VTZGakVJaXU2Z1JTb1RqNktScGxEVEV0ZWpjeVBJZDZQVEFSMkNyRWpLY292Q0ticw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:11:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_f9c0f97313927569",
@@ -2640,58 +2693,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
       "imageUrl": null,
       "publishedAt": "2026-11-13T11:24:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_57426440a2ca8037",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Six people dead near Kenya's capital after building collapses - Citizen TV - Reuters",
-      "snippet": "Six people dead near Kenya's capital after building collapses - Citizen TV  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGR3Mk1maEdYRWpJY3l4dHFmZzdRYUJENl85bk9NblJYaW50bW0tUkt2b20yR0tzVTRBZ0VPY1R6bTl6UTRQcFduek1KTUtoZ2ZZOXItU2ZzWXlDNWlxRTBxTjBjelRCNGpfZ1pwWFUwc09UV19CZXdyZk4zd1Q3bkFOSEQzUHloZ2hUM2FMa2EyQzlDdnVEaXpzNkpYak1pdG91RTFrLTRmdi1BWjZES2ZQNDI0YXpKRktHVg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T11:24:09.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a8337d857fe9de0a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Nigeria election body to comply with presidential candidate ruling",
-      "snippet": "With less than 10 weeks until January’s vote, the president’s leading challenger Atiku Abubakar is hoping to overturn a judgement excluding him from the race.",
-      "link": "https://www.semafor.com/article/11/13/2026/nigeria-election-body-to-comply-with-candidate-ruling",
-      "imageUrl": "https://img.semafor.com/0bd901a71c15da82b25c26926a2721e5ebd854c0-5500x3667.jpg",
-      "publishedAt": "2026-11-13T11:21:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a723686eb41f14cd",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Live: Microsoft struggles to restore services as outage hits global users",
-      "snippet": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T11:18:01.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_478e654a1bfe41ef",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Man charged after seven women sexually assaulted in 30 minutes on UK campus",
-      "snippet": "Police called to Huddersfield University on Tuesday after women reported being ‘approached and grabbed’\nA 29-year-old man has been charged after seven women reported being sexually assaulted on the Huddersfield University campus over a 30 m",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/13/man-charged-women-sexually-assaulted-huddersfield-university",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T11:17:35.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
