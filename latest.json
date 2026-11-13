@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-13T14:10:09.227Z",
+  "updatedAt": "2026-11-13T14:15:09.203Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.449Z"
+      "lastSuccess": "2026-11-13T14:15:09.370Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.634Z"
+      "lastSuccess": "2026-11-13T14:15:09.487Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.426Z"
+      "lastSuccess": "2026-11-13T14:15:09.481Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.389Z"
+      "lastSuccess": "2026-11-13T14:15:09.423Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.391Z"
+      "lastSuccess": "2026-11-13T14:15:09.326Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.566Z"
+      "lastSuccess": "2026-11-13T14:15:09.662Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.366Z"
+      "lastSuccess": "2026-11-13T14:15:09.306Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.502Z"
+      "lastSuccess": "2026-11-13T14:15:09.421Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.526Z"
+      "lastSuccess": "2026-11-13T14:15:09.529Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.290Z"
+      "lastSuccess": "2026-11-13T14:15:09.311Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.347Z"
+      "lastSuccess": "2026-11-13T14:15:09.386Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.507Z"
+      "lastSuccess": "2026-11-13T14:15:09.543Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.569Z"
+      "lastSuccess": "2026-11-13T14:15:09.344Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.486Z"
+      "lastSuccess": "2026-11-13T14:15:09.404Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.583Z"
+      "lastSuccess": "2026-11-13T14:15:09.587Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.483Z"
+      "lastSuccess": "2026-11-13T14:15:09.444Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.556Z"
+      "lastSuccess": "2026-11-13T14:15:09.523Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-13T14:10:09.586Z"
+      "lastErrorAt": "2026-11-13T14:15:09.667Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.568Z"
+      "lastSuccess": "2026-11-13T14:15:09.670Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:10.085Z"
+      "lastSuccess": "2026-11-13T14:15:09.645Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.877Z"
+      "lastSuccess": "2026-11-13T14:15:09.782Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:09.599Z"
+      "lastSuccess": "2026-11-13T14:15:09.724Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-13T14:10:10.684Z"
+      "lastSuccess": "2026-11-13T14:15:11.254Z"
     }
   },
   "items": [
+    {
+      "id": "story_2de6df90cef7db31",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "NASCAR star delivers a brutal reality check after fans turned off the championship race",
+      "snippet": "Denny Hamlin challenged NASCAR to become relevant again in the sports landscape after championship race viewership dropped nearly 11% from last year.",
+      "link": "https://www.foxnews.com/outkick-sports/nascar-star-delivers-brutal-reality-check-fans-turned-off-championship-race",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T14:10:43.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_938e701714210b28",
       "source": "Washington Post",
@@ -2682,19 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_01a0b2bd69c3de0e",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Ukraine updates: Second car bomb to hit Russia in two days",
-      "snippet": "A second car bomb exploded in Moscow, targeting an exiled Ukrainian political aide, according to Russian media. Meanwhile Ukraine and Russia exchanged deadly strikes overnight. DW has more.",
-      "link": "https://www.dw.com/en/ukraine-updates-second-car-bomb-to-hit-russia-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
