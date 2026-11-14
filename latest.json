@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-14T12:50:09.031Z",
+  "updatedAt": "2026-11-14T12:55:06.653Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.260Z"
+      "lastSuccess": "2026-11-14T12:55:06.876Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.159Z"
+      "lastSuccess": "2026-11-14T12:55:06.780Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.108Z"
+      "lastSuccess": "2026-11-14T12:55:06.838Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.216Z"
+      "lastSuccess": "2026-11-14T12:55:06.817Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.184Z"
+      "lastSuccess": "2026-11-14T12:55:06.940Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.121Z"
+      "lastSuccess": "2026-11-14T12:55:06.957Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.101Z"
+      "lastSuccess": "2026-11-14T12:55:06.981Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.166Z"
+      "lastSuccess": "2026-11-14T12:55:07.001Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.278Z"
+      "lastSuccess": "2026-11-14T12:55:06.821Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.283Z"
+      "lastSuccess": "2026-11-14T12:55:06.828Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.322Z"
+      "lastSuccess": "2026-11-14T12:55:07.047Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.332Z"
+      "lastSuccess": "2026-11-14T12:55:06.963Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.325Z"
+      "lastSuccess": "2026-11-14T12:55:06.923Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-14T12:50:09.351Z"
+      "lastErrorAt": "2026-11-14T12:55:07.075Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.339Z"
+      "lastSuccess": "2026-11-14T12:55:07.070Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.345Z"
+      "lastSuccess": "2026-11-14T12:55:07.103Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.460Z"
+      "lastSuccess": "2026-11-14T12:55:07.058Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.286Z"
+      "lastSuccess": "2026-11-14T12:55:06.977Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.466Z"
+      "lastSuccess": "2026-11-14T12:55:07.122Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:10.382Z"
+      "lastSuccess": "2026-11-14T12:55:07.154Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.341Z"
+      "lastSuccess": "2026-11-14T12:55:07.170Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.440Z"
+      "lastSuccess": "2026-11-14T12:55:07.259Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-14T12:50:09.234Z"
+      "lastSuccess": "2026-11-14T12:55:06.951Z"
     }
   },
   "items": [
+    {
+      "id": "story_7a2ecbb75427a3b8",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Bomb found at industrial plant in Peoria, Illinois; rendered safe",
+      "snippet": "Police said the device had been rendered safe but are still searching the industrial area.",
+      "link": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T12:52:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ab711a548c28101c",
       "source": "Wash Examiner",
@@ -2682,19 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
-    },
-    {
-      "id": "story_32a6b4bed2b5bd80",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Trump, Xi, Putin to hold historic meeting in China: White House",
-      "snippet": "Donald Trump, Vladimir Putin and Xi Jinping will hold the first three-way meeting between the leaders of the United States, Russia and China at a summit in Shenzhen next week, the White House said Friday.",
-      "link": "https://www.france24.com/en/live-news/20261114-trump-xi-putin-to-hold-historic-meeting-in-china-white-house-1",
-      "imageUrl": "https://s.france24.com/media/display/8e236566-dfc3-11f1-8c61-695cb59fade5/w:1024/p:16x9/53e0e6206b83af62dd02c94af2942c3de1923689.jpg",
-      "publishedAt": "2026-11-14T05:09:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
