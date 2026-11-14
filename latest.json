@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-14T10:25:06.895Z",
+  "updatedAt": "2026-11-14T10:30:12.003Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.251Z"
+      "lastSuccess": "2026-11-14T10:30:12.108Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.386Z"
+      "lastSuccess": "2026-11-14T10:30:12.150Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.437Z"
+      "lastSuccess": "2026-11-14T10:30:12.201Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.169Z"
+      "lastSuccess": "2026-11-14T10:30:12.488Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.429Z"
+      "lastSuccess": "2026-11-14T10:30:12.186Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.055Z"
+      "lastSuccess": "2026-11-14T10:30:12.270Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.349Z"
+      "lastSuccess": "2026-11-14T10:30:12.210Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.455Z"
+      "lastSuccess": "2026-11-14T10:30:12.208Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.587Z"
+      "lastSuccess": "2026-11-14T10:30:12.332Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.408Z"
+      "lastSuccess": "2026-11-14T10:30:12.190Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.331Z"
+      "lastSuccess": "2026-11-14T10:30:12.266Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.557Z"
+      "lastSuccess": "2026-11-14T10:30:12.425Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.651Z"
+      "lastSuccess": "2026-11-14T10:30:12.341Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-14T10:25:07.597Z"
+      "lastErrorAt": "2026-11-14T10:30:12.334Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.575Z"
+      "lastSuccess": "2026-11-14T10:30:12.348Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.606Z"
+      "lastSuccess": "2026-11-14T10:30:12.362Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.497Z"
+      "lastSuccess": "2026-11-14T10:30:12.302Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.391Z"
+      "lastSuccess": "2026-11-14T10:30:12.284Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.647Z"
+      "lastSuccess": "2026-11-14T10:30:12.400Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.678Z"
+      "lastSuccess": "2026-11-14T10:30:12.391Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.589Z"
+      "lastSuccess": "2026-11-14T10:30:12.408Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.835Z"
+      "lastSuccess": "2026-11-14T10:30:12.554Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-14T10:25:07.117Z"
+      "lastSuccess": "2026-11-14T10:30:12.454Z"
     }
   },
   "items": [
@@ -147,6 +147,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_09810f02d31b5c0d",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "A seismic shakeup at Nvidia, and a Senate flip for the ages: The news quiz",
+      "snippet": "The FDA issues a warning about GLP-1s, a soccer behemoth dumps its head coach, and this year’s Booker prize winner makes history.",
+      "link": "https://www.nbcnews.com/news/news-quiz/nvidia-news-quiz-rcna609023",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T10:15:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_b589bf5bb7e6811f",
@@ -2679,19 +2692,6 @@
       "link": "https://www.cbsnews.com/video/spacex-launches-huge-starship-rocket-on-15th-test-flight/",
       "imageUrl": null,
       "publishedAt": "2026-11-14T01:49:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c79fcc95c6e001e7",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "snippet": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T01:47:36.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
