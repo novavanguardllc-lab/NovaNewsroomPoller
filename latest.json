@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-14T13:10:10.236Z",
+  "updatedAt": "2026-11-14T13:15:09.329Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.387Z"
+      "lastSuccess": "2026-11-14T13:15:09.551Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.415Z"
+      "lastSuccess": "2026-11-14T13:15:09.463Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.322Z"
+      "lastSuccess": "2026-11-14T13:15:09.391Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.451Z"
+      "lastSuccess": "2026-11-14T13:15:09.511Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.435Z"
+      "lastSuccess": "2026-11-14T13:15:09.598Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.440Z"
+      "lastSuccess": "2026-11-14T13:15:09.443Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.491Z"
+      "lastSuccess": "2026-11-14T13:15:09.584Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.352Z"
+      "lastSuccess": "2026-11-14T13:15:09.573Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.507Z"
+      "lastSuccess": "2026-11-14T13:15:09.603Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.343Z"
+      "lastSuccess": "2026-11-14T13:15:09.606Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.487Z"
+      "lastSuccess": "2026-11-14T13:15:09.721Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.564Z"
+      "lastSuccess": "2026-11-14T13:15:09.677Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.525Z"
+      "lastSuccess": "2026-11-14T13:15:09.661Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-14T13:10:10.523Z"
+      "lastErrorAt": "2026-11-14T13:15:09.749Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.548Z"
+      "lastSuccess": "2026-11-14T13:15:09.696Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.530Z"
+      "lastSuccess": "2026-11-14T13:15:09.748Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.502Z"
+      "lastSuccess": "2026-11-14T13:15:09.656Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.423Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-14T13:15:09.607Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.674Z"
+      "lastSuccess": "2026-11-14T13:15:09.775Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:12.209Z"
+      "lastSuccess": "2026-11-14T13:15:09.888Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.787Z"
+      "lastSuccess": "2026-11-14T13:15:09.730Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.633Z"
+      "lastSuccess": "2026-11-14T13:15:09.847Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-14T13:10:10.460Z"
+      "lastSuccess": "2026-11-14T13:15:09.868Z"
     }
   },
   "items": [
+    {
+      "id": "story_556878c5250704cf",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Spain vs England: UEFA Nations League – predictions, how to watch, teams",
+      "snippet": "Spain, who are unbeaten in their last 43 competitive meetings, host England in Madrid on Sunday.",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:03:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_6315cb44a61b96e4",
       "source": "The Hill",
@@ -108,6 +122,45 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_3d241e8aaa6d98b4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ford privacy promise raises questions about your car data",
+      "snippet": "Ford's new privacy promise pledges not to sell driving data to insurers or brokers, but disabling connected car data sharing could cost you key features.",
+      "link": "https://www.foxnews.com/tech/ford-privacy-promise-raises-questions-car-data",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:00:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6c7f261383f38e0d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
+      "snippet": "Rep. Randy Fine compared JD Vance's post-midterm remarks on the Iran war to 1932 Germany, vowing he will not support a 2028 presidential bid.",
+      "link": "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:00:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_58c88e76dc817b94",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Stroke survivors get FDA-approved daily pill shown to cut repeat risk by 26%",
+      "snippet": "Sunharbo (asundexian) is the first FDA-approved factor XIa inhibitor for secondary stroke prevention, but key limitations and risks do remain.",
+      "link": "https://www.foxnews.com/health/stroke-survivors-get-fda-approved-daily-pill-shown-cut-repeat-risk",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:00:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_266867ab2b7b01b6",
@@ -123,6 +176,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_515d2c2c0da1950f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "THAD ROTHROCK: Bible reminds us to keep serving God even after we retire",
+      "snippet": "Barna Group found only 19% of Christians say their church provides intergenerational connections, yet older adults have decades of wisdom to offer.",
+      "link": "https://www.foxnews.com/opinion/thad-rothrock-bible-reminds-us-keep-serving-god-even-after-we-retire",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:00:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_396dc7e69ce8092d",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -131,6 +197,32 @@
       "link": "https://www.cbsnews.com/video/from-the-archives-mary-whyte-an-artistic-labor-of-love/",
       "imageUrl": null,
       "publishedAt": "2026-11-14T13:00:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d6a5a0efa1e99fdb",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Media can’t muster any outrage or coverage of violent comments from the left",
+      "snippet": "Jennifer Welch and Angie Sullivan laughed about the Charlie Kirk assassination on their podcast, sparking outrage across conservative media.",
+      "link": "https://www.foxnews.com/opinion/media-cant-muster-outrage-coverage-violent-comments-left",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:00:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_855e3e05d5c59938",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Natalee Holloway's confessed killer caught trying to extort $250K from grieving mother in FBI sting video",
+      "snippet": "Previously unseen FBI sting video captures Joran van der Sloot's attempt to extort Beth Holloway for information about her daughter Natalee Holloway.",
+      "link": "https://www.foxnews.com/us/natalee-holloway-confessed-killer-caught-trying-extort-250k-grieving-mother-fbi-sting-video",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:00:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -175,6 +267,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_855ba49d7369d348",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+      "snippet": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T12:57:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fdf7443f1b5c814d",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Green turtles move from ‘endangered’ to ‘least concern’ status",
+      "snippet": "Green turtles have been reclassified from endangered to ‘least concern’ in global conservation rankings.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/green-turtles-move-from-endangered-to-least-concern-status?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T12:53:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_32bbc6bf0d5f8e64",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -196,6 +314,19 @@
       "link": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
       "imageUrl": null,
       "publishedAt": "2026-11-14T12:52:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e5f58bc8e3514fe0",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+      "snippet": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T12:49:17.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2562,136 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-14T06:14:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3902a9135b765fdc",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Southeast Asian leaders will call for peaceful resolutions of conflicts. Trump will join final talks - AP News",
-      "snippet": "Southeast Asian leaders will call for peaceful resolutions of conflicts. Trump will join final talks  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnl6T2hQSElYUzA0RXNscy1hcS1aQi1mX3ZvN3FaZnhPNnlyaG05QkRlU3BZdGdUR2Z1ZXJuVnVxRzdTRnpRSzR1NnBDTGs0a0EyVE5YLTFiVWFNcHAwelBmWVh1SE5STFYybDVzY3JiejQtNmM2R2Z1TkY2MzR2MFNGclQ1cmFsY0FtM2l6MEhiSnVS?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T06:11:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3668bad9c2305aa0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
-      "snippet": "President Trump endorsed Republican Bernadette Wilson for Alaska governor, but bitter GOP infighting and ranked-choice voting complicated the race to succeed Mike Dunleavy.",
-      "link": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T06:09:34.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_92031673ecf10b23",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Gen Z protests: Do Baby Boomers really have it better than young people?",
-      "snippet": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
-      "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T06:09:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f98034d4f68db627",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift - AP News",
-      "snippet": "French-speaking nations hold a summit in Cambodia but an African conflict threatens a rift  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSFF4emZuN20xb2VrOFVEVmRWbEppdFl4UDRGN040eTlPZjZCcm9Rb3AtNGxhWU91YjQ5UlI3VmxPTFlsa0hoMTZRY1M4Y3V6ZFpJdkJKaVBpQVNQdm56MHdyZHB3R1ItaUdVUktkSkRuUlJRaHQydFVZSmZoTWZoUHNyZkVVVUxmZk1GZGFuVFZOWFNUX1ZoN2liMlJ1eEVkM3pLejdxdlIzQQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T06:08:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78407fc29898f8cd",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Microsoft says consumer products 'fully recovered', business services improving",
-      "snippet": "Resolution seems in sight on Saturday following confirmation by tech giant Microsoft on Friday that services had ​fully ‌recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online com",
-      "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
-      "imageUrl": "https://s.france24.com/media/display/847567e0-dfef-11f1-93ed-695cb59fade5/w:1024/p:16x9/AP26313848301021.jpg",
-      "publishedAt": "2026-11-14T06:07:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_25b6951773cfaf62",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK tells blind Nigerian pensioner to go home to India",
-      "snippet": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rules\nA blind Nigerian pensioner who has lived in the UK for 26 years has been told by the Home Office she can safely “go home” to ",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T06:00:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_63457934ce41ab36",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Riots in France: How anti-government protests spiraled out of control - Reuters",
-      "snippet": "Riots in France: How anti-government protests spiraled out of control  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3F1XzJUQTItaTJpX1hvYTBuU1J0Z2tnX0d2a0ZPTHBUQ1JlYk1FODF4QnFreUdRQm81d2MxeGdXTm5XV25EdDFPXy0yQkNmMTduYXRiMjlrXzFYd0RISjRZbzhuazYySERDU1pXN0hadDZpdXdTTjlxQnJWQ1VJNmVwUWlwUmR1VW1FV0pfMkZROHY3R1dUNnlEVFlxX0RzdDRNVjBJNGlqQ2NXZU5hc2JR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T06:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_caabb547847b87ff",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Goalkeeper Owono handed 12-match ban after De Miguel death",
-      "snippet": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
-      "link": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T05:59:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_20d4a7d08d13bb31",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead - AP News",
-      "snippet": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T05:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c7472632cbc6b1e2",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Airport chaos continues after US ground stop lifted – as it happened",
-      "snippet": "This blog is now closed. See our full reports:\n\nUS aviation agency lifts nationwide ground stop affecting all air travel\n\nChaos at US airports as flight stoppage grinds travel plans to a halt\n\nSign up for the Breaking News US email\n\nWe’re w",
-      "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T05:55:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
