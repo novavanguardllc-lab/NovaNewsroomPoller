@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-15T19:25:06.619Z",
+  "updatedAt": "2026-11-15T19:30:12.968Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.663Z"
+      "lastSuccess": "2026-11-15T19:30:13.079Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.710Z"
+      "lastSuccess": "2026-11-15T19:30:13.176Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.681Z"
+      "lastSuccess": "2026-11-15T19:30:13.217Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.667Z"
+      "lastSuccess": "2026-11-15T19:30:13.116Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.726Z"
+      "lastSuccess": "2026-11-15T19:30:13.100Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.685Z"
+      "lastSuccess": "2026-11-15T19:30:13.198Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.721Z"
+      "lastSuccess": "2026-11-15T19:30:13.202Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.694Z"
+      "lastSuccess": "2026-11-15T19:30:13.236Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.765Z"
+      "lastSuccess": "2026-11-15T19:30:13.316Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.813Z"
+      "lastSuccess": "2026-11-15T19:30:13.285Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:07.043Z"
+      "lastSuccess": "2026-11-15T19:30:13.360Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.718Z"
+      "lastSuccess": "2026-11-15T19:30:13.205Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.730Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-15T19:30:13.221Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.800Z"
+      "lastSuccess": "2026-11-15T19:30:13.255Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:07.102Z"
+      "lastSuccess": "2026-11-15T19:30:13.472Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-15T19:25:06.823Z"
+      "lastErrorAt": "2026-11-15T19:30:13.321Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.819Z"
+      "lastSuccess": "2026-11-15T19:30:13.260Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.821Z"
+      "lastSuccess": "2026-11-15T19:30:13.320Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.804Z"
+      "lastSuccess": "2026-11-15T19:30:13.330Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.787Z"
+      "lastSuccess": "2026-11-15T19:30:13.212Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.980Z"
+      "lastSuccess": "2026-11-15T19:30:13.495Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.837Z"
+      "lastSuccess": "2026-11-15T19:30:13.477Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-15T19:25:06.897Z"
+      "lastSuccess": "2026-11-15T19:30:13.435Z"
     }
   },
   "items": [
+    {
+      "id": "story_35c70eaa46182f32",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Cassidy slams RFK Jr. for \"series of failures\" as HHS secretary",
+      "snippet": "GOP Sen. Bill Cassidy of Louisiana railed against Robert F. Kennedy Jr. for what he called a \"series of failures\" at the helm of the Department of Health and Human Services.",
+      "link": "https://www.cbsnews.com/news/rfjk-series-of-failures-hhs-bill-cassidy-face-the-nation/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T19:26:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4d11d6ca10932949",
       "source": "UPI",
@@ -106,6 +120,19 @@
       "imageUrl": "https://cdnph.upi.com/ph/st/th/4651794768670/2026/upi/4312563da0cce5540f84ed760b3bc2b3/v1.5/Iran-launches-drone-strike-on-US-base-in-Bahrain.jpg",
       "publishedAt": "2026-11-15T19:19:37.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e98b473068bc78a3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "WWE's Brie Bella recalls Paige's surprise return at WrestleMania 42: 'Magical moment'",
+      "snippet": "Brie Bella recalls the \"magical moment\" when Paige replaced injured Nikki Bella at WrestleMania 42 to capture the WWE Women's Tag Team titles.",
+      "link": "https://www.foxnews.com/outkick-sports/wwe-brie-bella-recalls-paiges-surprise-return-wrestlemania-42-magical-moment",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T19:16:04.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -121,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_50950d834186bd6b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Taylor Swift’s husband Travis Kelce injures ankle against Falcons, returns to game",
+      "snippet": "Travis Kelce limped off with a left ankle injury after a 23-yard catch from Patrick Mahomes as the Chiefs listed him questionable against the Falcons.",
+      "link": "https://www.foxnews.com/outkick-sports/taylor-swift-husband-travis-kelce-injures-ankle-falcons-questionable-return",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T19:14:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_7a1a0e44c53c1c9d",
@@ -183,6 +223,19 @@
       "link": "https://www.washingtonexaminer.com/news/senate/4804232/van-hollen-funding-atc-system-duffy-ground-stop/",
       "imageUrl": null,
       "publishedAt": "2026-11-15T19:03:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b51e7d4c47d1400f",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Israeli drone filmed flying low outside homes in southern Lebanon",
+      "snippet": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T19:02:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -289,6 +342,19 @@
       "publishedAt": "2026-11-15T18:43:43.000Z",
       "tier": "major",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fa8dcadc9a99c072",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "LSU guard MiLaysia Fulwiley arrested after allegedly fleeing the scene of a traffic stop - AP News",
+      "snippet": "LSU guard MiLaysia Fulwiley arrested after allegedly fleeing the scene of a traffic stop  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRGFtcnBhUlAwMzFwWWFaWThIdDVWQ3Y1SWktRTVLbndhTzEwTXBueVNheHVYNHVTNm9TVHIwYUdnSXhLSGRlbW1PRkRhT2YxdEwzMjhfaXVySEtVaEZNU1V3WEZUVVVxVkZEQ1Nlem11U2Zvam0xV0hyenVHaEFEV2pMZWtaQ3hRNldGYzNUdXUwQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T18:43:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2627,71 +2693,6 @@
       "link": "https://www.cbsnews.com/news/aiding-veterans-with-the-healing-arts/",
       "imageUrl": null,
       "publishedAt": "2026-11-15T14:27:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_765b621774ff2af6",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Richard Sterban of The Oak Ridge Boys dead at 83",
-      "snippet": "Richard Sterban's iconic bass voice powered The Oak Ridge Boys' \"Elvira\" to No. 1. His family revealed he battled pancreatic cancer since March.",
-      "link": "https://www.foxnews.com/entertainment/richard-sterban-oak-ridge-boys-dead-83",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T14:26:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dfadf1cbb9ba5160",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Aiding veterans with the healing arts",
-      "snippet": "With her in-person and virtual painting workshops and online tutorials, artist Mary Whyte teaches veterans to use art to deal with isolation and trauma through her \"watercolor boot camps.\" Correspondent Martha Teichner reports on an arts pr",
-      "link": "https://www.cbsnews.com/video/aiding-veterans-with-the-healing-arts/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T14:26:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_917fd20ae8d4e395",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "A deep dive into Ivory Coast's solar energy goals",
-      "snippet": "Can Ivory Coast, which remains heavily dependent on fossil fuels, turn to solar power to make its energy consumption greener and more sustainable? We visited the country's new solar power plant in Ferkessédougou, in the north of the country",
-      "link": "https://www.france24.com/en/a-deep-dive-into-ivory-coast-s-solar-energy-goals",
-      "imageUrl": "https://s.france24.com/media/display/a07102cc-e0ff-11f1-86c8-3f371022a770/w:1024/p:16x9/EN-20261115-081217-081424-CS.jpg",
-      "publishedAt": "2026-11-15T14:25:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ec4bcf5fd26723b",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Ex-NFL star says he'd cut Giants' Jameis Winston for 'Who Let the Dogs Out' stunt vs Commanders",
-      "snippet": "Jameis Winston's viral \"Who Let the Dogs Out\" cadence against the Washington Commanders drew a fiery response from Donte Whitner on \"Get Up.\"",
-      "link": "https://www.foxnews.com/outkick-sports/ex-nfl-star-says-hed-cut-giants-jameis-winston-who-let-dogs-out-stunt-vs-commanders",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T14:23:38.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4c7eee5e385e29ad",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Alaska Senate race still uncalled",
-      "snippet": "Treasury Secretary Sean Duffy is set to appear on several Sunday news talk shows after a rare Federal Aviation Administration (FAA) nationwide ground stop disrupted flights across the country Friday. It was only the second of such stoppage ",
-      "link": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26318583853941-e1794716953875.jpg?w=900",
-      "publishedAt": "2026-11-15T14:18:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
