@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-11-15T22:05:06.972Z",
+  "updatedAt": "2026-11-15T22:10:09.341Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.041Z"
+      "lastSuccess": "2026-11-15T22:10:09.447Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.081Z"
+      "lastSuccess": "2026-11-15T22:10:09.492Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.122Z"
+      "lastSuccess": "2026-11-15T22:10:09.463Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.049Z"
+      "lastSuccess": "2026-11-15T22:10:09.415Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.163Z"
+      "lastSuccess": "2026-11-15T22:10:09.468Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.114Z"
+      "lastSuccess": "2026-11-15T22:10:09.449Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.126Z"
+      "lastSuccess": "2026-11-15T22:10:09.451Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.139Z"
+      "lastSuccess": "2026-11-15T22:10:09.436Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.211Z"
+      "lastSuccess": "2026-11-15T22:10:09.543Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.157Z"
+      "lastSuccess": "2026-11-15T22:10:09.477Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.097Z"
+      "lastSuccess": "2026-11-15T22:10:09.759Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.129Z"
+      "lastSuccess": "2026-11-15T22:10:09.498Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.169Z"
+      "lastSuccess": "2026-11-15T22:10:09.459Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.160Z"
+      "lastSuccess": "2026-11-15T22:10:09.495Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.090Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-15T22:10:19.343Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-15T22:05:07.124Z"
+      "lastErrorAt": "2026-11-15T22:10:09.504Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.142Z"
+      "lastSuccess": "2026-11-15T22:10:09.503Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.146Z"
+      "lastSuccess": "2026-11-15T22:10:09.522Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.237Z"
+      "lastSuccess": "2026-11-15T22:10:09.514Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.116Z"
+      "lastSuccess": "2026-11-15T22:10:09.453Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.650Z"
+      "lastSuccess": "2026-11-15T22:10:09.685Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.272Z"
+      "lastSuccess": "2026-11-15T22:10:09.593Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-15T22:05:07.342Z"
+      "lastSuccess": "2026-11-15T22:10:09.639Z"
     }
   },
   "items": [
+    {
+      "id": "story_917b9a52c8079353",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers) ",
+      "snippet": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T22:07:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_41423fc22fe94049",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Britain's Prince Harry visits war-wounded in Ukraine - Reuters",
+      "snippet": "Britain's Prince Harry visits war-wounded in Ukraine  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYW9nUmdzZ1RDU1hwVmQ3Z0RIWndjWWM1aFBEa0xFTmxtRm1WUHlfNXhZY2wwaWVwbHZOeERYX2NEeU93eVlFTURBLVdRT2hoYkp5QjhuSVl1dVlqQmVTaThMZWpPeGdXdm44bVE5NG51UUZsTXRqYjZZUjZGSWNnWm5aMTlDTDNHTDJEcy1FX2V5NDlJSVdtZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T22:05:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c66d5c11acd4d66c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+      "snippet": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games\nPrince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country.\nThe Duke of Sussex ",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T22:00:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9b6bf71a00d4db39",
       "source": "The Hill",
@@ -105,6 +145,19 @@
       "link": "https://thehill.com/policy/defense/6220052-lame-duck-ndaa-defense-fighting/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/dome_captiol_100526gn02_w.jpg?w=900",
       "publishedAt": "2026-11-15T22:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ef2717616441a4f5",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "snippet": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis\n\nGet our daily political email, free app or daily news podcast\n\nAustralia has urged Israel to allow critical humanitarian aid",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T21:57:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2640,58 +2693,6 @@
       "link": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
       "imageUrl": null,
       "publishedAt": "2026-11-15T16:20:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_77828ca2a56f6add",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-      "snippet": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds\nDonald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presi",
-      "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T16:18:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fd19341b165e515c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters",
-      "snippet": "Africa CDC says Ebola outbreak still out of control six months since it was declared  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T16:15:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d711ff89bae4cc3c",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Cruise passengers sharply divided over cutting buffet lines to sneak quick bites",
-      "snippet": "Etiquette expert Diane Gottsman of Texas reveals why grabbing just one item while on a cruise ship buffet line still counts as cutting — and when rare exceptions apply.",
-      "link": "https://www.foxnews.com/travel/cruise-passengers-sharply-divided-cutting-buffet-lines-sneak-bites",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T16:15:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_64178a3da0a58963",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "snippet": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T16:15:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
