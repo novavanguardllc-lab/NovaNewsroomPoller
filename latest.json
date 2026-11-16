@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-11-16T22:25:07.114Z",
+  "updatedAt": "2026-11-16T22:30:16.903Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.322Z"
+      "lastSuccess": "2026-11-16T22:30:17.147Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.438Z"
+      "lastSuccess": "2026-11-16T22:30:17.003Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.161Z"
+      "lastSuccess": "2026-11-16T22:30:16.940Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.236Z"
+      "lastSuccess": "2026-11-16T22:30:17.036Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.278Z"
+      "lastSuccess": "2026-11-16T22:30:16.956Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.352Z"
+      "lastSuccess": "2026-11-16T22:30:16.979Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.440Z"
+      "lastSuccess": "2026-11-16T22:30:16.971Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.436Z"
+      "lastSuccess": "2026-11-16T22:30:17.111Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.346Z"
+      "lastSuccess": "2026-11-16T22:30:17.000Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.336Z"
+      "lastSuccess": "2026-11-16T22:30:16.975Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.444Z"
+      "lastSuccess": "2026-11-16T22:30:16.948Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.421Z"
+      "lastSuccess": "2026-11-16T22:30:17.012Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.478Z"
+      "lastSuccess": "2026-11-16T22:30:17.133Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.475Z"
+      "lastSuccess": "2026-11-16T22:30:17.126Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T22:25:07.490Z"
+      "lastErrorAt": "2026-11-16T22:30:17.127Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.488Z"
+      "lastSuccess": "2026-11-16T22:30:17.122Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.383Z"
+      "lastSuccess": "2026-11-16T22:30:17.102Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.592Z"
+      "lastSuccess": "2026-11-16T22:30:17.272Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.401Z"
+      "lastSuccess": "2026-11-16T22:30:16.968Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.463Z"
+      "lastSuccess": "2026-11-16T22:30:17.150Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.518Z"
+      "lastSuccess": "2026-11-16T22:30:17.158Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-16T22:25:07.554Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-16T22:30:17.187Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:25:09.166Z"
+      "lastSuccess": "2026-11-16T22:30:17.356Z"
     }
   },
   "items": [
+    {
+      "id": "story_eac1039b51998de6",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "United Airlines reports ‘widespread system outage’ days after FAA ground stop",
+      "snippet": "United Airlines on Monday reported a “widespread system outage” just days after the Federal Aviation Administration initiated a nationwide ground stop, disrupting travel throughout the weekend. United said it is troubleshooting the issue, b",
+      "link": "https://www.washingtonexaminer.com/travel/4805404/united-airlines-widespread-system-outage/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:27:51.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
+      "id": "story_8217f30dada4d9ac",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "United Airlines says it's experiencing a \"widespread system outage\"",
+      "snippet": "It wasn't immediately clear what parts of the airline's systems were affected, but United apologized to customers for the inconvenience on social media.",
+      "link": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:25:35.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
+    {
+      "id": "story_adf85664e0ab0c4c",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Estonia closing Russian border after ‘lowlifes’ allegedly paid to burn drone company",
+      "snippet": "Estonia is shutting its border with Russia after the government claims the Kremlin hired residents of a neighboring country to set fire to a major defense company, and neighbors are now weighing similar measures. The country’s Internal Secu",
+      "link": "https://www.washingtonexaminer.com/news/world/4805054/estonia-closes-russia-border-burned-drone-company-russophobia/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:25:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d2878bbdf05d01cc",
       "source": "Semafor",
@@ -147,6 +187,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_cc9ba7f46cbf0410",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "United Airlines experiences ‘widespread system outage’ days after nationwide FAA ground stop",
+      "snippet": "United Airlines flights were stuck on tarmacs as pilots reported a companywide IT issue preventing takeoff data, days after the nationwide FAA ground stop.",
+      "link": "https://www.foxnews.com/us/united-airlines-experiences-widespread-system-outage-days-after-nationwide-faa-ground-stop",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:15:42.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_2c058850d8ebce55",
@@ -210,6 +263,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T22:06:55.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e6a2d770fd97db77",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Hungary PM Magyar urges Fidesz lawmakers to quit over cash haul in graft probe - Reuters",
+      "snippet": "Hungary PM Magyar urges Fidesz lawmakers to quit over cash haul in graft probe  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWYtR2ZRc1RDTm1IX3Q2eGZMRVBaMGZyT2Y4b0pobEUxR2ZvS083aFhtNXF0ZGNvcEtfUVlzM19iZlFaTXhwTElHTExvS3d2cG83NUkyUWE4SlNuRC1TbVhhcmJsblNNZG42UmxZS2ZyT0hSME5yRHZHdTdxZlNBelJkWXBnTzFFUGU3U1RwNWMyZDc0Q0ZsbXdhYXFUbEFhU0ZkUlJjVjlKbG1nMXhIZnRTY2g?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:06:51.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -392,6 +458,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T21:35:40.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_836a41695b04d548",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "US Supreme Court sidesteps fight over Maryland's 'sensitive places' gun curbs - Reuters",
+      "snippet": "US Supreme Court sidesteps fight over Maryland's 'sensitive places' gun curbs  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2VQNUlyODBQVlYxYW5VS3dueDFETVFMdmFheVAzNFFYaUVVZ0VtTEZQeU9zakJpY2xXcElBa2plamdsdHotdDdOWnlEUkM2WlpCanRpb05FQTJrVFlFOXotQVlmek5CaE84aXRXR1B5cUpBTTUzaXZpVTQzVjhFc1lXblEtaVhHQ2lFeXVFSDVJQ2NYQ3ZLLUtBN29mcTNkQ3JxNDV4SlhYUGtSUS1rWGRUQUV2Y3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T21:34:35.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2614,84 +2693,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
       "imageUrl": null,
       "publishedAt": "2026-11-16T19:04:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_abf7f3c4a35f3d8d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Opposition accuses Netanyahu of ‘attempted coup’ as police investigate whether prime minister’s office weaponized law enforcement and intelligence against Arab leaders",
-      "snippet": "Israeli opposition leaders are accusing Prime Minister Benjamin Netanyahu of staging an “attempted coup” to delegitimize the October election as police investigate allegations that his office weaponized law enforcement against opponents. Ne",
-      "link": "https://www.washingtonexaminer.com/news/world/4804686/israel-opposition-accuses-benjamin-netanyahu-attempted-coup/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:03:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fb5848161b3d08f2",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "OpenAI unveils tool to better detect child sexual abuse material",
-      "snippet": "OpenAI released a new tool Monday aimed at detecting possible child sexual abuse material (CSAM), including content made with artificial intelligence. The image classifier, which will be available for vetted organizations and law enforcemen",
-      "link": "https://thehill.com/policy/technology/6223070-openai-new-tool-child-sexual-abuse-material-classifier/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26272791421972-e1794855738659.jpg?w=900",
-      "publishedAt": "2026-11-16T19:03:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e0b0bce43c5d4e2d",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Third U.S. aircraft carrier in Middle East as Trump keeps options open in Iran war",
-      "snippet": "A third American aircraft carrier has arrived in the Middle East. A U.S. official speaking on the condition of anonymity on Monday confirmed the USS Theodore Roosevelt's arrival in the region.",
-      "link": "https://www.pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:02:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bb2a97e71757d87f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies - Reuters",
-      "snippet": "California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUnZpbWVjMld3R0NVUjRwT1ZIZW04eFJwYVYzNzUzUi1pckdSQmJiZkh5MnNWeHlnX2ZDVUtBVGU5emdtV3hweWlENDBqeXFoTThlSWhTY0pNRURXbFBmOWRySmkwOGxFZGlPQW9qekNhVzB2bW1SQW1rbU52M01vRTc2M0V3Zktfb00xNE04NElpSTU3c2RXTlVZT3JPYkdSRkFqRUpVSmhvZ0JtcHM5LURPN2hXWDZ5Mk1HVkVZQW5Cdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:01:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_72cdceac232f3a02",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Challenging Consensus, Scientist Says Epstein Autopsy Photos Show Homicide",
-      "snippet": "Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.",
-      "link": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:01:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_16f498a805ca00eb",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Tennessee names new corrections chief after botched executions",
-      "snippet": "Josh Smith has been appointed to lead the Department of Corrections in Tennessee following the botched execution of Christa Pike last month.",
-      "link": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:00:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
