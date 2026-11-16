@@ -1,101 +1,154 @@
 {
-  "updatedAt": "2026-11-16T20:10:09.140Z",
+  "updatedAt": "2026-11-16T20:15:09.029Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.206Z"
+      "lastSuccess": "2026-11-16T20:15:09.128Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.331Z"
+      "lastSuccess": "2026-11-16T20:15:09.251Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.229Z"
+      "lastSuccess": "2026-11-16T20:15:09.087Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.323Z"
+      "lastSuccess": "2026-11-16T20:15:09.351Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.565Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-16T20:15:09.545Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.388Z"
+      "lastSuccess": "2026-11-16T20:15:09.267Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.348Z"
+      "lastSuccess": "2026-11-16T20:15:09.410Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.430Z"
+      "lastSuccess": "2026-11-16T20:15:09.406Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.453Z"
+      "lastSuccess": "2026-11-16T20:15:09.339Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.468Z"
+      "lastSuccess": "2026-11-16T20:15:09.246Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.346Z"
+      "lastSuccess": "2026-11-16T20:15:09.168Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.433Z"
+      "lastSuccess": "2026-11-16T20:15:09.287Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.498Z"
+      "lastSuccess": "2026-11-16T20:15:09.451Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.374Z"
+      "lastSuccess": "2026-11-16T20:15:09.441Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T20:10:09.505Z"
+      "lastErrorAt": "2026-11-16T20:15:09.456Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.511Z"
+      "lastSuccess": "2026-11-16T20:15:09.470Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.492Z"
+      "lastSuccess": "2026-11-16T20:15:09.327Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.708Z"
+      "lastSuccess": "2026-11-16T20:15:09.691Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.426Z"
+      "lastSuccess": "2026-11-16T20:15:09.432Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.517Z"
+      "lastSuccess": "2026-11-16T20:15:09.488Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.531Z"
+      "lastSuccess": "2026-11-16T20:15:09.556Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.650Z"
+      "lastSuccess": "2026-11-16T20:15:09.226Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T20:10:09.603Z"
+      "lastSuccess": "2026-11-16T20:15:09.536Z"
     }
   },
   "items": [
+    {
+      "id": "story_005864cce3ed75b3",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "California sues OpenAI over Hugging Face, says they’re a public nuisance",
+      "snippet": "California is suing OpenAI, alleging the artificial intelligence giant developed and tested dangerous models without adequate safeguards, putting the public at risk of cybersecurity attacks and other potential harms. The lawsuit, filed by C",
+      "link": "https://www.washingtonexaminer.com/policy/technology/4805056/california-sues-openai-hugging-face-public-nuisance/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T20:14:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b263140d80397bd0",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Sacks criticizes rush to judgment on ex-Nvidia CEO",
+      "snippet": "The former White House AI czar wouldn’t weigh in on whether Jensen Huang should be reinstated.",
+      "link": "https://www.semafor.com/article/11/16/2026/sacks-criticizes-rush-to-judgment-on-ex-nvidia-ceothe-former-white-house-ai-czar-wouldnt-weigh-in-on-whether-jensen-huang-should-be-reinstated",
+      "imageUrl": "https://img.semafor.com/a1c3fbb9cde4f86b1963bfb637dc65293c3ae42e-5000x3335.jpg",
+      "publishedAt": "2026-11-16T20:11:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6ff645110b7c1b5d",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Uber driver left with life-threatening injuries as police investigate possible hate crime ",
+      "snippet": "An Uber driver was “fighting for his life” on Monday following an attack that Minnesota police are investigating as a potential hate crime, officials said Monday.",
+      "link": "https://www.nbcnews.com/news/us-news/uber-driver-left-life-threatening-injuries-police-investigate-possible-rcna609664",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T20:09:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f63ab7846f865f0e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Dem governor rips College Republicans for hosting ex-Trump Border chief, provokes fiery response",
+      "snippet": "NJ Dem Gov. Mikie Sherrill says the state will work with Rutgers to 'protect' students as the college's student Republicans chapter invites former Trump immigration official to speak on campus.",
+      "link": "https://www.foxnews.com/politics/dem-governor-rips-college-republicans-hosting-ex-trump-border-chief-provokes-fiery-response",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T20:09:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_567412f0e6da1543",
       "source": "Wash Examiner",
@@ -170,6 +223,19 @@
       "link": "https://www.washingtonexaminer.com/news/world/4804980/hillary-clinton-canada-mark-carner-world-democratic-leader-trump-jab/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T20:00:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a3be9526776929e4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Chase Bank Reports Technical Issue Disrupting Transactions",
+      "snippet": "Chase was among several U.S. banks whose customers reported technical issues on Monday.",
+      "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T20:00:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2630,71 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_a82073535da5b2bd",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "LIVE: Germany vs Netherlands – UEFA Nations League",
-      "snippet": "Previews, team news and live text commentary as Germany host the Netherlands in league's final Group A2 football match.",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T17:15:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_36dcd8e621fdc528",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Preliminary study finds a clue in the quest to help diagnose CTE in the living",
-      "snippet": "Scientists stumbled onto a hint that measuring a toxic protein tied to Alzheimer's disease just might one day be useful in diagnosing a different brain disease in football players and others who have suffered repeated blows to the head.",
-      "link": "https://www.pbs.org/newshour/science/preliminary-study-finds-a-clue-in-the-quest-to-help-diagnose-cte-in-the-living",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T17:14:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_efc2fe9f3e45cd9c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "British actor Robert Pattinson named as new James Bond - Reuters",
-      "snippet": "British actor Robert Pattinson named as new James Bond  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T17:11:35.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_17ac6f465941680a",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "New trial is set in Lindsay Clancy case over the killing of her 3 children",
-      "snippet": "A new trial is set to begin March 29 in the case that has drawn international attention and a debate over postpartum diagnoses.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/16/new-trial-is-set-lindsay-clancy-murder-case-over-deaths-her-3-children/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T17:08:46.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_0196e5a29a220314",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Trump denies responsibility for FAA nationwide ground stop",
-      "snippet": "Trump denies responsibility for FAA nationwide ground stop",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T17:08:10.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
