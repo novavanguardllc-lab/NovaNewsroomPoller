@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-16T09:35:07.631Z",
+  "updatedAt": "2026-11-16T09:40:08.383Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.786Z"
+      "lastSuccess": "2026-11-16T09:40:08.548Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.746Z"
+      "lastSuccess": "2026-11-16T09:40:08.522Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.792Z"
+      "lastSuccess": "2026-11-16T09:40:08.572Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:08.032Z"
+      "lastSuccess": "2026-11-16T09:40:08.622Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.826Z"
+      "lastSuccess": "2026-11-16T09:40:08.593Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.811Z"
+      "lastSuccess": "2026-11-16T09:40:08.564Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.849Z"
+      "lastSuccess": "2026-11-16T09:40:08.670Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.858Z"
+      "lastSuccess": "2026-11-16T09:40:08.684Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.891Z"
+      "lastSuccess": "2026-11-16T09:40:08.701Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.851Z"
+      "lastSuccess": "2026-11-16T09:40:08.707Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.910Z"
+      "lastSuccess": "2026-11-16T09:40:08.711Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 404",
-      "lastErrorAt": "2026-11-16T09:35:07.854Z"
+      "online": true,
+      "lastSuccess": "2026-11-16T09:40:08.725Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.925Z"
+      "lastSuccess": "2026-11-16T09:40:08.731Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.886Z"
+      "lastSuccess": "2026-11-16T09:40:08.805Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.896Z"
+      "lastSuccess": "2026-11-16T09:40:08.834Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.955Z"
+      "lastSuccess": "2026-11-16T09:40:08.830Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.971Z"
+      "lastSuccess": "2026-11-16T09:40:08.898Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.965Z"
+      "lastSuccess": "2026-11-16T09:40:08.763Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:08.007Z"
+      "lastSuccess": "2026-11-16T09:40:08.869Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T09:35:07.966Z"
+      "lastErrorAt": "2026-11-16T09:40:08.884Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:07.915Z"
+      "lastSuccess": "2026-11-16T09:40:08.877Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:08.082Z"
+      "lastSuccess": "2026-11-16T09:40:08.919Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:35:08.883Z"
+      "lastSuccess": "2026-11-16T09:40:10.415Z"
     }
   },
   "items": [
+    {
+      "id": "story_b171e60ed83d5bbf",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Delaware hit by rare November tornado",
+      "snippet": "Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina\nThe National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods neighbourhood, Delaware, on Th",
+      "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T09:27:06.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_797d00ec636ba3b4",
       "source": "Guardian",
@@ -782,6 +794,19 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV21EUHlpcVpLbWhUTnNzV3RGVkRzV0k1WU9aeDlSS0dQV2dwS1dvak5OaEdTLVFjMGxXMUU5Z1M4VDU4NnBKcl9ZVHdUWlVwZF94MDZ2dDQwRFo5Z0ktMWZuN2hJZjZ5ckVtUDhjcmlLdm1feUpyV0M3MENTMEN5eldYZko2QlpZMTVGaVFlUlZ3WFYzVGVlM29xN1NpOFZhcy1KaWpyRGtOcnhXeTdabXZVbU8?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T07:46:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e818478fdefffa7f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "China says Xi-Putin-Trump meeting has 'groundbreaking significance' - Reuters",
+      "snippet": "China says Xi-Putin-Trump meeting has 'groundbreaking significance'  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXU1Wlg2cExOMXk1YUpOSUNEazJkdmhmczM5cnExb1ZVZExBX0VCOElDdmpQaVAzYnpGVDB5LWRtS1I1SHpxdWdDUFIwZkhXVmRUNk9vQWJ0NU12MXUyVTR6NVFIOFgxWF9UZklfMFN2TTNRMFVFNEt3RnVCZXRnUWwwNE1aNExZd1FOTnd2MFZBNTkwMVhSUHJnRHpzeDBfbFRVS2pDWFVZVGltcHRhZjFIbw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T07:45:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1575,6 +1600,19 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0poay11emY4V2pvcHFiV3pLbXNXWFVvd1o2bkZWOHRKNHIwSFg1Z1RuQjRaNWhLeTIwZTF2Vmx4OHMtaER3bFJmWjZjMHhpT3VUQ0lvRzVBUjRodlBrOW40MEVxNkl0TkVZLWdGTQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T05:21:51.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f74a88435db12a8f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "British women to receive automatic pardons for past abortion convictions - AP News",
+      "snippet": "British women to receive automatic pardons for past abortion convictions  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQzZURkdrYjc4WWoxV2U3a1NjTGMxc3BtZ3hkZkVuTUp4c3p4VWZYWFNHM2d1R25vemNuY1dHUjkzNG13RngwRkxqVkhPMlZtS2xKVmFQRUJuVlc3RnE5VXVsQ2VheEZ0N1pyTXNLSkI0WDlCVVVJeUJLbEZCcEp5NVlpUmRZaDVzU0VfM0Z5T0hlTUlZY0xsTjZDOUVXN1hhaVpOd3lkOVdMeFU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T05:13:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkZtWE5GWVdzVWtrMkxjX2hQbUdlNGlBYjVUVDc0V01nbzFFZnpGRzlmV0dnanB4cVJiSEM4Y2lpa2J0UXpZRzVUVGJNVnZGTy14MnNQbjluUHBoTFZWelpyWWsxdi1DX2RiWkFFMTVpZzlfMmtsVVBvRkNEVjlxcFFORU92bDY3djBTdnF4UXFfOXhRdEQ4SlpUQkhJQ0JDZFJNY2dYNVlxN1FZWVJr?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T02:13:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_70bbc3ba685a71a1",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Taking a ride in a flying car",
-      "snippet": "Flying cars have been parked in our imagination for more than a century, but a Bay Area startup, Alef, has spent 11 years trying to get the idea off the ground. Itay Hod takes a ride, getting a bird's-eye view of the future.",
-      "link": "https://www.cbsnews.com/video/taking-ride-flying-car/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T02:12:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_86a4e525de0e0dd1",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Miguel Ángel Félix Gallardo, Mexican Drug Lord, Dies in Prison",
-      "snippet": "Miguel Ángel Félix Gallardo, who helped build the foundations of modern-day drug empires, was the subject of a major U.S. manhunt for his role in the murder of a D.E.A. agent.",
-      "link": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T02:11:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_761bc75c2e4a6ee8",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Brunson hits tiebreaking 3-pointer in OT, Knicks earn 14th straight win over slumping Raptors - AP News",
-      "snippet": "Brunson hits tiebreaking 3-pointer in OT, Knicks earn 14th straight win over slumping Raptors  AP News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmpTOFZJanRwU18zVDlYLXFsUjF5b3diTEpHenRvNDd3RlpfaGdGRV9tTU13a1ptMlkyWmdLOWJtQmJZcEI1OWVZcnFxSkJxVmZoRlpmYmd2WHRQMEN5T1RpYVJ3OUJIZjhhbUhGblREX2JQanlzU1h0NkJwWjliNUQxaU14S2c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T02:11:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
