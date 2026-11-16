@@ -1,99 +1,98 @@
 {
-  "updatedAt": "2026-11-16T07:30:12.287Z",
+  "updatedAt": "2026-11-16T07:35:06.704Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.450Z"
+      "lastSuccess": "2026-11-16T07:35:06.767Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.489Z"
+      "lastSuccess": "2026-11-16T07:35:06.833Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.373Z"
+      "lastSuccess": "2026-11-16T07:35:06.794Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.710Z"
+      "lastSuccess": "2026-11-16T07:35:06.786Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.405Z"
+      "lastSuccess": "2026-11-16T07:35:06.806Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.546Z"
+      "lastSuccess": "2026-11-16T07:35:07.118Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.668Z"
+      "lastSuccess": "2026-11-16T07:35:06.913Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.633Z"
+      "lastSuccess": "2026-11-16T07:35:06.791Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.689Z"
+      "lastSuccess": "2026-11-16T07:35:06.849Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.631Z"
+      "lastSuccess": "2026-11-16T07:35:06.769Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.507Z"
+      "lastSuccess": "2026-11-16T07:35:06.893Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-16T07:30:12.633Z"
+      "online": true,
+      "lastSuccess": "2026-11-16T07:35:06.793Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.527Z"
+      "lastSuccess": "2026-11-16T07:35:06.925Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.567Z"
+      "lastSuccess": "2026-11-16T07:35:06.909Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.685Z"
+      "lastSuccess": "2026-11-16T07:35:06.929Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.629Z"
+      "lastSuccess": "2026-11-16T07:35:06.890Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.748Z"
+      "lastSuccess": "2026-11-16T07:35:07.033Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.665Z"
+      "lastSuccess": "2026-11-16T07:35:06.814Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.846Z"
+      "lastSuccess": "2026-11-16T07:35:07.028Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T07:30:12.712Z"
+      "lastErrorAt": "2026-11-16T07:35:07.034Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.671Z"
+      "lastSuccess": "2026-11-16T07:35:06.914Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.878Z"
+      "lastSuccess": "2026-11-16T07:35:07.080Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T07:30:12.788Z"
+      "lastSuccess": "2026-11-16T07:35:07.047Z"
     }
   },
   "items": [
@@ -367,6 +366,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T06:12:51.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_28ec585cecba9c4d",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "EU nations to unveil Rwanda deal for migrant return hub",
+      "snippet": "Five EU countries including Germany and Denmark are set to announce Monday a deal to establish a migrant deportation centre in Rwanda -- the first such facility outside the bloc.",
+      "link": "https://www.france24.com/en/africa/20261116-eu-nations-to-unveil-rwanda-deal-for-migrant-return-hub",
+      "imageUrl": "https://s.france24.com/media/display/fc6e005a-e183-11f1-946e-f71d22e7fea9/w:1024/p:16x9/9521062135528b281502a69403234cbad4e4369f.jpg",
+      "publishedAt": "2026-11-16T06:07:22.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2680,19 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXFYOEg3cHpDTUFrTU9IRlQyWDlvRGVMVVN3VmxOelY3WnhCREJNdElKcEY5ZWpBSmhoalMzWDdaM0Y5Z0VXbkxVemg3YmdhSUg5UmYybnhFOHhWbVhXdjdoT1BUUGNQUFVtX2o1SkJRSnBJNEdLX081amJyUll6WHFpUk5SaWlkd2JGN0VnRFZKYi1WT1B0NzFUOUVKdkFfcTQ5RmdFeHdvcWI5c2pRaXF6MFBydw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T00:13:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_37732cccb69a27fa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "SK Hynix to spend $1 billion over five years to support chip suppliers - Reuters",
-      "snippet": "SK Hynix to spend $1 billion over five years to support chip suppliers  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbDRWSThFSldhVWEwa1J0VHdPLXZnaVJidjk5aDNDY2JiRnlLTTJXbjVaLUN1VnVlM3hOZVZhdnZTNklWYlhINF9UVWFldjEwYk1LckhLQkU4SndRcjZkWnpORUNkV1B5dXBUN2Fua3NJVUtKYnV2WnNtUm5tR1Z0SkRuUnliQWpwSndON2JNcEJoT2QzMkQyaWVicUVlTFdHa1FaZ0Z3ZU9kZ2l1S1BxVHZ5VjlSbFRjZ0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T00:10:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
