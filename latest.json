@@ -1,99 +1,98 @@
 {
-  "updatedAt": "2026-11-16T22:15:09.239Z",
+  "updatedAt": "2026-11-16T22:20:13.303Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.697Z"
+      "lastSuccess": "2026-11-16T22:20:13.379Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.398Z"
+      "lastSuccess": "2026-11-16T22:20:13.402Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.438Z"
+      "lastSuccess": "2026-11-16T22:20:13.395Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.582Z"
+      "lastSuccess": "2026-11-16T22:20:13.519Z"
     },
     "Reuters": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-16T22:15:09.784Z"
+      "online": true,
+      "lastSuccess": "2026-11-16T22:20:13.749Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.513Z"
+      "lastSuccess": "2026-11-16T22:20:13.665Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.804Z"
+      "lastSuccess": "2026-11-16T22:20:13.557Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.894Z"
+      "lastSuccess": "2026-11-16T22:20:13.659Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.485Z"
+      "lastSuccess": "2026-11-16T22:20:13.554Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.416Z"
+      "lastSuccess": "2026-11-16T22:20:13.423Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.754Z"
+      "lastSuccess": "2026-11-16T22:20:13.560Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.761Z"
+      "lastSuccess": "2026-11-16T22:20:13.563Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.837Z"
+      "lastSuccess": "2026-11-16T22:20:13.675Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.901Z"
+      "lastSuccess": "2026-11-16T22:20:13.650Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T22:15:09.942Z"
+      "lastErrorAt": "2026-11-16T22:20:13.692Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.960Z"
+      "lastSuccess": "2026-11-16T22:20:13.685Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.656Z"
+      "lastSuccess": "2026-11-16T22:20:13.629Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:10.016Z"
+      "lastSuccess": "2026-11-16T22:20:13.817Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.750Z"
+      "lastSuccess": "2026-11-16T22:20:13.643Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.882Z"
+      "lastSuccess": "2026-11-16T22:20:13.668Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:10.042Z"
+      "lastSuccess": "2026-11-16T22:20:13.708Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:09.863Z"
+      "lastSuccess": "2026-11-16T22:20:13.835Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:15:10.103Z"
+      "lastSuccess": "2026-11-16T22:20:13.906Z"
     }
   },
   "items": [
@@ -111,6 +110,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_6cf698d0cf3181d7",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "California attorney general sues OpenAI over alleged safety failures",
+      "snippet": "California Attorney General Rob Bonta (D) on Monday sued OpenAI for allegedly placing public safety at risk with its advanced AI models, claiming it had no guardrails to prevent the breach of technology startup Hugging Face. Two autonomous ",
+      "link": "https://thehill.com/homenews/state-watch/6223583-california-sues-openai-huggingface-hack/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/6a554fa9dbbb44.37337668-e1794863381160.jpeg?w=900",
+      "publishedAt": "2026-11-16T22:09:48.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_f2adeffd6b6deaee",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -119,6 +131,19 @@
       "link": "https://www.washingtonexaminer.com/policy/defense/4804977/roosevelt-carrier-strike-group-arrives-middle-east/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T22:08:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1bf0c59695859d51",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "California braces for more towering waves as powerful storms approach",
+      "snippet": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby\nThe massive, 50-foot swells along California’s coast this weekend foretold an intense week of towering waves t",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:06:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -145,6 +170,19 @@
       "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-16T22:04:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c2bf10ae6da6b30a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Why Robert Pattinson Could Be a Great James Bond",
+      "snippet": "Robert Pattinson’s gift for portraying petulant losers would seem at odds with the requirements for 007. But the actor may be just what the franchise needs.",
+      "link": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:03:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2692,6 @@
       "link": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T18:58:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2fe02c25120413a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
-      "snippet": "The history of the sprawling corporate combinations is rich, colorful and mostly disappointing. Could a SpaceX-Tesla merger be a success story?",
-      "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T18:57:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1411a4c965cfebae",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Man appears in court over deaths of two people in Leeds police pursuit crash",
-      "snippet": "Leigh Ross, 39, charged with causing death by dangerous driving of Cameron Bell, 22, and Jade Langton, 23\nA man has appeared in court charged with causing the deaths of two people in a car crash in Leeds.\nLeigh Ross, 39, was charged in conn",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T18:55:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a6fafe5c719f8215",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "FOX News to present 7th annual 'All-American Christmas Tree Lighting' with Melania Trump on Nov 20",
-      "snippet": "FOX News Media's 7th annual \"All-American Christmas Tree Lighting\" will take place on Friday, Nov. 20, outside the network's New York City headquarters.",
-      "link": "https://www.foxnews.com/media/fox-news-present-7th-annual-all-american-christmas-tree-lighting-melania-trump-nov-20",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T18:55:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
