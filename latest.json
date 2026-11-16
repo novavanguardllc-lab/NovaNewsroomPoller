@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-16T23:00:14.827Z",
+  "updatedAt": "2026-11-16T23:05:06.543Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.027Z"
+      "lastSuccess": "2026-11-16T23:05:06.715Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.920Z"
+      "lastSuccess": "2026-11-16T23:05:06.640Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.868Z"
+      "lastSuccess": "2026-11-16T23:05:06.602Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.912Z"
+      "lastSuccess": "2026-11-16T23:05:06.591Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.466Z"
+      "lastSuccess": "2026-11-16T23:05:07.071Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.886Z"
+      "lastSuccess": "2026-11-16T23:05:06.608Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.876Z"
+      "lastSuccess": "2026-11-16T23:05:06.593Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.033Z"
+      "lastSuccess": "2026-11-16T23:05:06.646Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.943Z"
+      "lastSuccess": "2026-11-16T23:05:06.636Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.918Z"
+      "lastSuccess": "2026-11-16T23:05:06.615Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.874Z"
+      "lastSuccess": "2026-11-16T23:05:06.596Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.998Z"
+      "lastSuccess": "2026-11-16T23:05:06.599Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.037Z"
+      "lastSuccess": "2026-11-16T23:05:06.756Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.926Z"
+      "lastSuccess": "2026-11-16T23:05:06.619Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T23:00:15.081Z"
+      "lastErrorAt": "2026-11-16T23:05:06.756Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.048Z"
+      "lastSuccess": "2026-11-16T23:05:06.703Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.991Z"
+      "lastSuccess": "2026-11-16T23:05:06.743Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.212Z"
+      "lastSuccess": "2026-11-16T23:05:06.833Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.015Z"
+      "lastSuccess": "2026-11-16T23:05:06.628Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:14.995Z"
+      "lastSuccess": "2026-11-16T23:05:06.718Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:15.067Z"
+      "lastSuccess": "2026-11-16T23:05:06.846Z"
     },
     "AP": {
       "online": false,
       "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-16T23:00:15.323Z"
+      "lastErrorAt": "2026-11-16T23:05:06.928Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T23:00:16.924Z"
+      "lastSuccess": "2026-11-16T23:05:06.892Z"
     }
   },
   "items": [
+    {
+      "id": "story_bcf74afa2471dcf1",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "EU agrees to resurrect cooperation deal with Syria",
+      "snippet": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T23:00:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4ad70548b7169bcb",
       "source": "CBS News",
@@ -148,6 +161,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 8
+    },
+    {
+      "id": "story_add937ab14a33f62",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results",
+      "snippet": "The device, a headset delivering light and sound, is based on the theory that audiovisual stimulation can evoke brainwave responses that might help preserve neurological function.",
+      "link": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:45:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a049ea3a0f65f285",
@@ -2668,32 +2694,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26320393156640-e1794856787716.jpg?w=900",
       "publishedAt": "2026-11-16T19:23:14.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c4170fc72711ae0a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Khanna proposes $1,700 Iran war refund checks for Americans",
-      "snippet": "Rep. Ro Khanna (D-Calif.) on Monday proposed $1,700 refund checks to reimburse Americans for the economic impact of the Iran war. Khanna, a progressive and potential 2028 presidential contender, said on social media the checks would be sent",
-      "link": "https://thehill.com/the-120/6223191-khanna-proposes-iran-war-refunds/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/11/khannaro_111825gn01_w.jpg?w=900",
-      "publishedAt": "2026-11-16T19:22:45.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_e82b02e560a4e038",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US envoy Kushner says progress made in Ukraine talks - Reuters",
-      "snippet": "US envoy Kushner says progress made in Ukraine talks  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmhPQUFLblhESV9CWnFmX2ZONzdHOTFMQkhHMW9hUzNoYlp6ZU5BUnE5b1pJZ05TbjFOODNDa2VKTW9UMzRETE5hdVBhSzVmLTJjalRFUjA2RERZdW5GS0lXOUdMM0RLRmIyWndqWUFrUjA3VFZISUMtTHdVMjQzYUJreWdKaGFnSV8xbkR5NWs4b2VBTE1BMVJlZlNvdGl3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:21:53.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
