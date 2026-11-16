@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-16T21:10:09.257Z",
+  "updatedAt": "2026-11-16T21:15:09.573Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.402Z"
+      "lastSuccess": "2026-11-16T21:15:09.657Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.414Z"
+      "lastSuccess": "2026-11-16T21:15:09.719Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.336Z"
+      "lastSuccess": "2026-11-16T21:15:09.663Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.450Z"
+      "lastSuccess": "2026-11-16T21:15:09.796Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.316Z"
+      "lastSuccess": "2026-11-16T21:15:10.130Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.584Z"
+      "lastSuccess": "2026-11-16T21:15:09.737Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.508Z"
+      "lastSuccess": "2026-11-16T21:15:09.819Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.568Z"
+      "lastSuccess": "2026-11-16T21:15:09.817Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.579Z"
+      "lastSuccess": "2026-11-16T21:15:09.769Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.369Z"
+      "lastSuccess": "2026-11-16T21:15:09.717Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.495Z"
+      "lastSuccess": "2026-11-16T21:15:09.851Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.558Z"
+      "lastSuccess": "2026-11-16T21:15:09.870Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.633Z"
+      "lastSuccess": "2026-11-16T21:15:09.913Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.594Z"
+      "lastSuccess": "2026-11-16T21:15:09.859Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T21:10:09.644Z"
+      "lastErrorAt": "2026-11-16T21:15:09.924Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.644Z"
+      "lastSuccess": "2026-11-16T21:15:09.941Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.629Z"
+      "lastSuccess": "2026-11-16T21:15:09.910Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.741Z"
+      "lastSuccess": "2026-11-16T21:15:10.020Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.554Z"
+      "lastSuccess": "2026-11-16T21:15:09.838Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.598Z"
+      "lastSuccess": "2026-11-16T21:15:09.916Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.663Z"
+      "lastSuccess": "2026-11-16T21:15:09.951Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.472Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-16T21:15:09.960Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T21:10:09.754Z"
+      "lastSuccess": "2026-11-16T21:15:10.098Z"
     }
   },
   "items": [
+    {
+      "id": "story_85090b10eb07416c",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "North Korea outreach in the mix for Trump’s Asia swing",
+      "snippet": "The president met with the North Korean leader during his first term, but has yet to organize a second-term meeting.",
+      "link": "https://www.semafor.com/article/11/16/2026/north-korea-outreach-in-the-mix-for-trumps-asia-swing",
+      "imageUrl": "https://img.semafor.com/d9be9400e18fce35fd9e6fdf847ce314c60ac157-1964x1272.jpg",
+      "publishedAt": "2026-11-16T21:10:13.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_28c0a80b6b33990b",
       "source": "UPI",
@@ -121,6 +135,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5d3b25d05c722657",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Nvidia board not interested in bringing Jensen Huang back to company, source says",
+      "snippet": "Nvidia board members are not interested in bringing Jensen Huang back to the company as CEO or in any other capacity at the chipmaker, according to a source directly familiar with their thinking. Madison Mills, senior AI reporter for Axios,",
+      "link": "https://www.cbsnews.com/video/nvidia-board-not-interested-in-bringing-jensen-huang-back-to-company-source-says/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T21:02:21.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_3f88dbf8a02aa8e7",
@@ -484,6 +511,19 @@
       "publishedAt": "2026-11-16T20:27:06.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d93c19aac6874e98",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting",
+      "snippet": "Trump will participate in the first-ever trilateral meeting with Putin and Xi.",
+      "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T20:26:28.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2656,45 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ffe2bd54c097ebe",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
-      "snippet": "Ukraine struck Vladimir Putin's prized Crimea bridge in what Russia called the war's largest drone attack, setting industrial facilities ablaze.",
-      "link": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T18:15:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_46cddedae8707e50",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Michigan Governor Election Live Results 2026 - AP News",
-      "snippet": "Michigan Governor Election Live Results 2026  AP News",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93TTR3TGhib195cmhlRkFSaHEwcXREdEpaTTR3YmVSVVBuNDJqUmFCZWxhSnltdGxwT3pTTmVJbFp6V2oyS296TWZUV3p1LXM0eWFjS0FMOEdyMWVLckVaOFYtZlVIMEdiZGQyWHFFOWs5LUg0ejRPdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T18:15:37.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_80ee697716198ae7",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Grammy Awards: Raye and Rosalia lead nominations",
-      "snippet": "The nominations for the 2027 Grammy Awards are in and women dominated the top categories for the highest accolade in the music industry.",
-      "link": "https://www.dw.com/en/grammy-awards-raye-and-rosalia-lead-nominations/a-79961198?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T18:14:00.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
