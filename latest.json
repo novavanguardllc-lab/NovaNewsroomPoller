@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-11-16T22:40:09.380Z",
+  "updatedAt": "2026-11-16T22:45:08.249Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.429Z"
+      "lastSuccess": "2026-11-16T22:45:08.470Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.436Z"
+      "lastSuccess": "2026-11-16T22:45:08.432Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.432Z"
+      "lastSuccess": "2026-11-16T22:45:08.309Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.448Z"
+      "lastSuccess": "2026-11-16T22:45:08.387Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.951Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-16T22:45:08.759Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.469Z"
+      "lastSuccess": "2026-11-16T22:45:08.429Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.549Z"
+      "lastSuccess": "2026-11-16T22:45:08.495Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.521Z"
+      "lastSuccess": "2026-11-16T22:45:08.531Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.477Z"
+      "lastSuccess": "2026-11-16T22:45:08.415Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.459Z"
+      "lastSuccess": "2026-11-16T22:45:08.393Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.517Z"
+      "lastSuccess": "2026-11-16T22:45:08.528Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.590Z"
+      "lastSuccess": "2026-11-16T22:45:08.534Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.536Z"
+      "lastSuccess": "2026-11-16T22:45:08.544Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.487Z"
+      "lastSuccess": "2026-11-16T22:45:08.538Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T22:40:09.550Z"
+      "lastErrorAt": "2026-11-16T22:45:08.612Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.548Z"
+      "lastSuccess": "2026-11-16T22:45:08.555Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.512Z"
+      "lastSuccess": "2026-11-16T22:45:08.525Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.651Z"
+      "lastSuccess": "2026-11-16T22:45:08.642Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.530Z"
+      "lastSuccess": "2026-11-16T22:45:08.492Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.539Z"
+      "lastSuccess": "2026-11-16T22:45:08.591Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.599Z"
+      "lastSuccess": "2026-11-16T22:45:08.649Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:09.999Z"
+      "lastSuccess": "2026-11-16T22:45:08.720Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:40:11.369Z"
+      "lastSuccess": "2026-11-16T22:45:08.809Z"
     }
   },
   "items": [
+    {
+      "id": "story_30b4c61e16692361",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "AI makes everyone more vulnerable",
+      "snippet": "AT&T CEO John Stankey says at Semafor’s Silicon Valley & The World that he’s not a doomer about AI, but sees anxiety levels high because of cybersecurity risks.",
+      "link": "https://www.semafor.com/article/11/16/2026/ai-makes-everyone-more-vulnerable",
+      "imageUrl": "https://img.semafor.com/5ccb797598a2f43ada9f076b078e06764bcb6a42-3020x1662.png",
+      "publishedAt": "2026-11-16T22:44:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_54bdfa7b95adbade",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "United Airlines has a widespread system outage just days after nationwide ground stop - AP News",
+      "snippet": "United Airlines has a widespread system outage just days after nationwide ground stop  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2xoSnd5Sm9rYTl5eFVRVzc2MFlNSk5qNUJRckg2X0tVazZEZG4wNTVVYW9JeWNyY1J6TWlKS0VURXd1c1JzUUdYU01WQzhQNWhkOEVCOXo4TTlLSnFNanUzVW9BYkZMOVBSb3ZfRnFMWXZFSGp1ZE5vSF9MTEd3VmxSTGI0YlR1VlE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:42:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 8
+    },
+    {
+      "id": "story_ea2cd04da4da2096",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Buttigieg fires back at Trump over FAA outage blame",
+      "snippet": "Former Transportation Secretary Pete Buttigieg on Monday went after President Trump for blaming him for the recent Federal Aviation Administration (FAA) ground stop. “Well, we’ve been trying to get the money for two years to fix it, and But",
+      "link": "https://thehill.com/policy/transportation/6223723-buttigieg-trump-faa-groundstop/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292761702279-e1792769600762.jpg?w=900",
+      "publishedAt": "2026-11-16T22:40:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_ebfa914b30eb5083",
       "source": "The Hill",
@@ -1015,6 +1055,19 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdW1pNlZXMVNNRXJtVGFiRUhPUm0tWGFqeGt4Q1VwallIOGtKTGFiTlZGZnZCd2F5RldrQ2E0b0V0emF1TkFkOTh0Q1FOa3phejllUmhxZGpGUkhlUFJqUlhoSkNFUWR6ZVhhbmxiUDRENXJXTEFZS3ZVUzQ1clVybUVIUFBzTWNhejhxSURKeUVEa2RSaWNGd3czU1B4WWxmZ1R6QURmVWJLWWJIMkVlck5UVnRxY1luMlFXVFBqMVVmeWQ2clpvOGhn?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T20:49:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bd2162eccfd632b6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Aaron Glenn’s ‘superpower’ shift: Why the Jets coach ceded defensive calls - AP News",
+      "snippet": "Aaron Glenn’s ‘superpower’ shift: Why the Jets coach ceded defensive calls  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlZmR1NtaEp4NEFQWndhTnVzQ20tbHQtV21vbl9TQ2tiSC1UV2tGVEF3ZFp2SE5BaXluZ2gyVFpMUVdSREx5RHBtMWhpYVZmYXNKdE1JN0R1MlZYaDc1bEVKOGQzLXM2eVh4enpLUHJiRkVsV1plVzhjeFdXaTJXQW5GclhOel9qN2Z4OUxR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T20:48:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2643,58 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_80b30c1ef2f5898e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Over/Under Betting Explained: How Totals Bets Work in the NFL, NBA and MLB",
-      "snippet": "An over/under bet is a wager on the combined score of a game. Learn how totals work, what a push is, how lines move and when the over or the under makes sense.",
-      "link": "https://www.foxnews.com/outkick-betting/over-under-betting-explained",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:12:57.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2cde475d15a87bf0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "What Is a Parlay Bet? — How Parlays Work, Payouts and Rules Explained",
-      "snippet": "A parlay combines two or more bets into one wager with a bigger payout, but every leg has to win. Learn how parlays work, how payouts are calculated and the real cost of each leg.",
-      "link": "https://www.foxnews.com/outkick-betting/what-is-a-parlay-bet",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:12:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ae0ba84a5212ddd8",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Freeman Johnson, the oldest of the dwindling number of Pearl Harbor survivors, dies at 106",
-      "snippet": "Freeman Johnson was below deck working on a boiler of the USS St. Louis when the Japanese attack happened in December 1941.",
-      "link": "https://www.pbs.org/newshour/nation/freeman-johnson-the-oldest-of-the-dwindling-number-of-pearl-harbor-survivors-dies-at-106",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:12:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c187ba5c339c5e4f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Customers at major banks report difficulty accessing accounts online - AP News",
-      "snippet": "Customers at major banks report difficulty accessing accounts online  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2I5X1NCMDRQZURDMlVFTTY4TmJ1TFVCeUIyWFRuenhhUmV4QTd5ZW9ydEdUaUFXb0dGTVFjR3VubUxvaExsZ3pfWUd2dUw1dEdFbDg5TWhkbEFxNEJydHNtaTgxRnJ1VXRNdjJQY25GSU1NdEZRcG9wUlN0NTJlRHk4QW5WbHk1eV9XOTROU2M3M3N4ZU0wbkxBSTY?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:12:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 4
     }
   ]
 }
