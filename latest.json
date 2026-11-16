@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-16T16:35:07.539Z",
+  "updatedAt": "2026-11-16T16:40:09.084Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.576Z"
+      "lastSuccess": "2026-11-16T16:40:09.121Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.648Z"
+      "lastSuccess": "2026-11-16T16:40:09.150Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.644Z"
+      "lastSuccess": "2026-11-16T16:40:09.148Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.643Z"
+      "lastSuccess": "2026-11-16T16:40:09.149Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.593Z"
+      "lastSuccess": "2026-11-16T16:40:09.182Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.985Z"
+      "lastSuccess": "2026-11-16T16:40:09.621Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.581Z"
+      "lastSuccess": "2026-11-16T16:40:09.217Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.680Z"
+      "lastSuccess": "2026-11-16T16:40:09.235Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.688Z"
+      "lastSuccess": "2026-11-16T16:40:09.220Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.663Z"
+      "lastSuccess": "2026-11-16T16:40:09.190Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.659Z"
+      "lastSuccess": "2026-11-16T16:40:09.213Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.700Z"
+      "lastSuccess": "2026-11-16T16:40:09.189Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.714Z"
+      "lastSuccess": "2026-11-16T16:40:09.212Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.685Z"
+      "lastSuccess": "2026-11-16T16:40:09.244Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.641Z"
+      "lastSuccess": "2026-11-16T16:40:09.187Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.658Z"
+      "lastSuccess": "2026-11-16T16:40:09.268Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.690Z"
+      "lastSuccess": "2026-11-16T16:40:09.262Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T16:35:07.695Z"
+      "lastErrorAt": "2026-11-16T16:40:09.245Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.585Z"
+      "lastSuccess": "2026-11-16T16:40:09.605Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.813Z"
+      "lastSuccess": "2026-11-16T16:40:09.311Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.706Z"
+      "lastSuccess": "2026-11-16T16:40:09.250Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.757Z"
+      "lastSuccess": "2026-11-16T16:40:09.346Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-11-16T16:35:07.940Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-16T16:40:19.093Z"
     }
   },
   "items": [
@@ -134,6 +135,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 8
+    },
+    {
+      "id": "story_15065b20df5af940",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+      "snippet": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T16:28:19.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
     },
     {
       "id": "story_5cdaa795b5c4cd2e",
@@ -2679,19 +2693,6 @@
       "link": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-16T13:45:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d6a01bde7685ca98",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
-      "snippet": "The Pakistan Tehreek-e-Insaf party founder says court orders on his care were ignored and he ‘may not return alive’.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T13:45:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
