@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-16T09:25:06.588Z",
+  "updatedAt": "2026-11-16T09:30:12.703Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.699Z"
+      "lastSuccess": "2026-11-16T09:30:12.801Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.776Z"
+      "lastSuccess": "2026-11-16T09:30:12.869Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.801Z"
+      "lastSuccess": "2026-11-16T09:30:12.914Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.796Z"
+      "lastSuccess": "2026-11-16T09:30:12.972Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.780Z"
+      "lastSuccess": "2026-11-16T09:30:12.899Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:07.048Z"
+      "lastSuccess": "2026-11-16T09:30:12.952Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.872Z"
+      "lastSuccess": "2026-11-16T09:30:13.131Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.852Z"
+      "lastSuccess": "2026-11-16T09:30:13.118Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.892Z"
+      "lastSuccess": "2026-11-16T09:30:13.159Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.861Z"
+      "lastSuccess": "2026-11-16T09:30:13.115Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:07.040Z"
+      "lastSuccess": "2026-11-16T09:30:12.977Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.877Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-16T09:30:13.081Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.715Z"
+      "lastSuccess": "2026-11-16T09:30:12.981Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.842Z"
+      "lastSuccess": "2026-11-16T09:30:13.030Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:07.034Z"
+      "lastSuccess": "2026-11-16T09:30:13.138Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.940Z"
+      "lastSuccess": "2026-11-16T09:30:13.081Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:07.055Z"
+      "lastSuccess": "2026-11-16T09:30:13.155Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.915Z"
+      "lastSuccess": "2026-11-16T09:30:13.095Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:07.025Z"
+      "lastSuccess": "2026-11-16T09:30:13.318Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T09:25:07.041Z"
+      "lastErrorAt": "2026-11-16T09:30:13.144Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:06.859Z"
+      "lastSuccess": "2026-11-16T09:30:13.134Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:07.101Z"
+      "lastSuccess": "2026-11-16T09:30:13.175Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T09:25:08.654Z"
+      "lastSuccess": "2026-11-16T09:30:13.187Z"
     }
   },
   "items": [
@@ -147,6 +148,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_16304d8522abe94a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Iran war - AP News",
+      "snippet": "Iran war  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T08:56:15.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_c6ce5be8c285c5c2",
@@ -795,6 +809,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T07:42:48.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d7a7f1d050e2beb9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports - Reuters",
+      "snippet": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request, Straits Times reports  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLU1GeHExbUdxcTVjVHhtNjNOUmhTNkRJTEZ5QlRRR1lsVGN6WkRmZ204VjZCVkN4Nm5JZ2tfV1loOHhRYU5JN2I5UGVyVDQyVkFpQ1JWQzlUSFlGYzlmREU3MG0yM2pGQkxxQ2JnTm9TdkVxQUw5SW5BMGJXR01RTnNaSFZYSVBlQVZDcXl2SXV6OWZhamYzRUYxc3pOTHN4WUZZdUdrQU1TVEdqTVRENkd0Nmx2SDkteURUQzcxamFoYmZQYmsyRXJB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T07:42:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2666,32 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmpTOFZJanRwU18zVDlYLXFsUjF5b3diTEpHenRvNDd3RlpfaGdGRV9tTU13a1ptMlkyWmdLOWJtQmJZcEI1OWVZcnFxSkJxVmZoRlpmYmd2WHRQMEN5T1RpYVJ3OUJIZjhhbUhGblREX2JQanlzU1h0NkJwWjliNUQxaU14S2c?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T02:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4ed5733dc81b8259",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
-      "snippet": "Pete Buttigieg said the Democratic Party \"overtorqued\" on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
-      "link": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T02:07:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1e82a85f4a22a863",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "SEC fines Arkansas $500K after fans storm field following South Carolina upset - Reuters",
-      "snippet": "SEC fines Arkansas $500K after fans storm field following South Carolina upset  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1doVFEyNVdmM0NFcGsxRnRWTlJsdnJILTN3SjNUUThMN1dmZ2ZDSjVuY0RvQXFMQlR3VFcta0hjcXBaVFdwU2RtaGh6d2lzVENqT2x1emlIWU9Ga1VUdTQ2b041dWc4Nk1zeURjUU95djVGRDRsVnpTeUxyVmVpRzZ4NkphRWZUd1FNbzE5VjRBSFZZNUx5VnVvcC12RlVMTDVKSThMbktSMXhRWG9rYUNiX0VFOXhMZmJabGxacmhBUzg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T02:07:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
