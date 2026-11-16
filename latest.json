@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-16T13:40:09.391Z",
+  "updatedAt": "2026-11-16T13:45:09.284Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.519Z"
+      "lastSuccess": "2026-11-16T13:45:09.380Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.558Z"
+      "lastSuccess": "2026-11-16T13:45:09.598Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.525Z"
+      "lastSuccess": "2026-11-16T13:45:09.404Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.619Z"
+      "lastSuccess": "2026-11-16T13:45:09.546Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.606Z"
+      "lastSuccess": "2026-11-16T13:45:09.536Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.907Z"
+      "lastSuccess": "2026-11-16T13:45:09.466Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.665Z"
+      "lastSuccess": "2026-11-16T13:45:09.579Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.777Z"
+      "lastSuccess": "2026-11-16T13:45:09.629Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.702Z"
+      "lastSuccess": "2026-11-16T13:45:09.563Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.725Z"
+      "lastSuccess": "2026-11-16T13:45:09.557Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.657Z"
+      "lastSuccess": "2026-11-16T13:45:09.568Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.643Z"
+      "lastSuccess": "2026-11-16T13:45:09.566Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.739Z"
+      "lastSuccess": "2026-11-16T13:45:09.635Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.706Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-16T13:45:09.633Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.685Z"
+      "lastSuccess": "2026-11-16T13:45:09.591Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.794Z"
+      "lastSuccess": "2026-11-16T13:45:09.773Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.722Z"
+      "lastSuccess": "2026-11-16T13:45:09.633Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T13:40:09.800Z"
+      "lastErrorAt": "2026-11-16T13:45:09.641Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.964Z"
+      "lastSuccess": "2026-11-16T13:45:09.444Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.883Z"
+      "lastSuccess": "2026-11-16T13:45:09.725Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.818Z"
+      "lastSuccess": "2026-11-16T13:45:09.646Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:09.926Z"
+      "lastSuccess": "2026-11-16T13:45:09.778Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:40:12.412Z"
+      "lastSuccess": "2026-11-16T13:45:10.857Z"
     }
   },
   "items": [
+    {
+      "id": "story_9e5c6ea20983555d",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Ukraine strikes Crimea’s Kerch Bridge in historic attacks",
+      "snippet": "Ukraine launched record strikes targeting Russia overnight, including drone attacks on a strategically important bridge that links the Crimean peninsula to mainland Russia. Kyiv attacked the Kerch Bridge in Crimea, the Black Sea peninsula w",
+      "link": "https://www.washingtonexaminer.com/news/world/4804403/ukraine-strikes-crimeas-kerch-bridge-historic-attacks/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:42:21.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_c8e915fe6a6f7d12",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Exclusive: Pennsylvania bids for US Space Academy with “the strength and the pride of Pittsburgh”",
+      "snippet": "NORTH FAYETTE TOWNSHIP, Pennsylvania — Two years ago, the campus on McKee Road was the kind of place Western Pennsylvanians drove past without looking. Pittsburgh Technical College had closed its doors on Aug. 9, 2024, its classrooms dark a",
+      "link": "https://www.washingtonexaminer.com/opinion/4804400/pennsylvania-bids-us-space-academy/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:40:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_376986e89b81e040",
       "source": "Wash Examiner",
@@ -121,6 +148,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_ba6ccce3f0c5c200",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "International student enrollments at US universities plunge this fall, data shows",
+      "snippet": "Report finds fewer international students studying in US amid Trump’s crackdowns on immigration and education\nFewer international students are studying at US universities as the Trump administration cracks down on immigration and reshapes h",
+      "link": "https://www.theguardian.com/us-news/2026/nov/16/us-international-student-enrollment-trump",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:32:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_49ef9d8b7fb2b655",
@@ -196,6 +236,19 @@
       "link": "https://www.semafor.com/article/11/16/2026/oil-up-on-renewed-hostilities-in-the-middle-east",
       "imageUrl": "https://img.semafor.com/b72ea2f4d619abb8d2c3048b8eda24f3b7936c7f-2595x1730.jpg",
       "publishedAt": "2026-11-16T13:27:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_21d8d76d09ce873d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Beckham firm sues after fragrance found for sale in Poundland",
+      "snippet": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’\n\nBusiness live – latest updates\n\nDavid Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance ra",
+      "link": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:26:35.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2641,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T10:29:02.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1f769fc5f645a2e3",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Lebanon’s second airport could provide economic and political benefits",
-      "snippet": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
-      "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:28:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_189957edc3527406",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Russia denies orchestrating cyberattack on Romanian institution - Reuters",
-      "snippet": "Russia denies orchestrating cyberattack on Romanian institution  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFhIYktpNWRIcVNMUzd1a2ppV2VxMXNpb0dKZUhSS2NZZmV2NjN2blpzdDAtWnBmT3F4Z1FURzZxN2lQbFR3UHlSM29DaGxKLU9HYTM2NFBPTllKWVhqaExWZDRQTHRDV2VrcEI0UFZzOEprYy0xbFZ3LTZtb0VTOVJSZUlER2FNNHJnaV9jb1Z4blBEM0N4cGxPNFFULUFFNXlqNg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:27:38.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4f6e85874292a36a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Governor Election Results - AP News",
-      "snippet": "2026 Governor Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWHJqVGFrR1hzNVFwNjI1VVNqbzhXaWE4SVI5VEFYTDlSWllnY19Ha3E2WEFkMXRqaXludDhvUXVQaTR2NC1WeWFWNWpZQ3cwcWc0RXNTM3QtOFFKTGRLaTBENUNMXzlfd1RFUg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:23:27.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3917611cef18b955",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Inside Acwa’s clean power battle plan  ",
-      "snippet": "The Riyadh-based developer confronts rising costs, cybersecurity risks, and the US data center backlash.",
-      "link": "https://www.semafor.com/article/11/15/2026/inside-acwas-clean-power-battle-plan",
-      "imageUrl": "https://img.semafor.com/eeeef52859fa3ec959c09d58545e1bd63d3501b9-2400x1800.png",
-      "publishedAt": "2026-11-16T10:23:26.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
