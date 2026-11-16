@@ -1,101 +1,140 @@
 {
-  "updatedAt": "2026-11-16T19:05:07.367Z",
+  "updatedAt": "2026-11-16T19:10:10.361Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.519Z"
+      "lastSuccess": "2026-11-16T19:10:10.517Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.645Z"
+      "lastSuccess": "2026-11-16T19:10:10.482Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.484Z"
+      "lastSuccess": "2026-11-16T19:10:10.426Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.623Z"
+      "lastSuccess": "2026-11-16T19:10:10.476Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.620Z"
+      "lastSuccess": "2026-11-16T19:10:10.539Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.538Z"
+      "lastSuccess": "2026-11-16T19:10:10.823Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.469Z"
+      "lastSuccess": "2026-11-16T19:10:10.544Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.682Z"
+      "lastSuccess": "2026-11-16T19:10:10.700Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.800Z"
+      "lastSuccess": "2026-11-16T19:10:10.640Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.704Z"
+      "lastSuccess": "2026-11-16T19:10:10.631Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.698Z"
+      "lastSuccess": "2026-11-16T19:10:10.595Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.696Z"
+      "lastSuccess": "2026-11-16T19:10:10.621Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.747Z"
+      "lastSuccess": "2026-11-16T19:10:10.656Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.650Z"
+      "lastSuccess": "2026-11-16T19:10:10.625Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.638Z"
+      "lastSuccess": "2026-11-16T19:10:10.574Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.565Z"
+      "lastSuccess": "2026-11-16T19:10:10.618Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.729Z"
+      "lastSuccess": "2026-11-16T19:10:10.704Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T19:05:07.720Z"
+      "lastErrorAt": "2026-11-16T19:10:10.738Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.582Z"
+      "lastSuccess": "2026-11-16T19:10:10.462Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.888Z"
+      "lastSuccess": "2026-11-16T19:10:10.776Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.744Z"
+      "lastSuccess": "2026-11-16T19:10:10.732Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:07.794Z"
+      "lastSuccess": "2026-11-16T19:10:10.810Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T19:05:08.726Z"
+      "lastSuccess": "2026-11-16T19:10:11.568Z"
     }
   },
   "items": [
+    {
+      "id": "story_58d368dd2bd9c18e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Major U.S. banks report widespread service outages",
+      "snippet": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
+      "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T19:06:36.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fffce45dce2f0650",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "Russia says Ukraine hit Crimea bridge in its largest drone attack",
+      "snippet": "Russia said Monday that Ukraine launched its largest drone strike of the war, hitting the Kerch Bridge connecting to Crimea, shutting down traffic.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/11/16/ukraine-drone-strike-kerch-bridge-crimea/3461794855027/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/3461794855027/2026/upi/0f77e0d7e03bc62638328f4ca01454be/v1.5/Russia-says-Ukraine-hit-Crimea-bridge-in-its-largest-drone-attack.jpg",
+      "publishedAt": "2026-11-16T19:04:48.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3a910931f160ac9f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
+      "snippet": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains\nSaudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troop",
+      "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T19:04:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_abf7f3c4a35f3d8d",
       "source": "Wash Examiner",
@@ -144,6 +183,19 @@
       "link": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T19:00:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a997d88960ce1c57",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Freeze, fraud alert or monitoring? What to do after a breach",
+      "snippet": "A credit freeze, fraud alert and identity monitoring each protect different parts of your financial life after a data breach. Here's how to choose.",
+      "link": "https://www.foxnews.com/tech/freeze-fraud-alert-monitoring-what-do-after-breach",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T19:00:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2641,58 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T15:33:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d0a383a26f9d8985",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Drawing China close, is Kim Jong Un bracing to confront the U.S.?",
-      "snippet": "As North Korea and China draw closer together, is Kim Jong Un ramping up for a confrontation with the U.S.?",
-      "link": "https://www.cbsnews.com/news/north-korea-china-russia-kim-jong-un-nuclear-weapons-us-confrontation/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T15:32:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_24fdfabec58870b9",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Cowboys' Elijah Garcia gets completely fooled on 49ers' trick play, underscoring poor defensive effort in loss",
-      "snippet": "The Dallas Cowboys allowed 584 yards in a 46-40 loss as a 49ers trick play left defender Elijah Garcia chasing the wrong ball carrier entirely.",
-      "link": "https://www.foxnews.com/outkick-sports/cowboys-elijah-garcia-fooled-49ers-trick-play-poor-defensive-effort-loss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T15:32:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8704e0c240c9ca76",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump says he might meet with North Korea's Kim Jong Un in China - Reuters",
-      "snippet": "Trump says he might meet with North Korea's Kim Jong Un in China  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29EcDdndEN4TW9IeVFRVnVQTV9YVzNZVHUyT0F3aElTeTFQMFU2X05QUXR3c01hVVlrTEotZjVhU3YwNFZuTlUyZDVfM2pTTjNGTHR1Q25GalEtUFByZTFKLUd4TV84UU9vUngxd245SktvQ00tbWNOMDZ0WkRoVDV3OXh6UWxMZ0t3aWVuSC01U2VYclVHX2k1ZnpnTHFTSTh3bw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T15:32:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d14f966fc6cde170",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Sanders endorses Van Hollen for Senate leader: ‘This is not a personality contest’",
-      "snippet": "Sen. Bernie Sanders (I-VT) is backing Sen. Chris Van Hollen’s (D-MD) challenge to Sen. Chuck Schumer (D-NY) for Senate Democratic leader, arguing the party needs a new direction following its sweeping midterm victory. Sanders made the case ",
-      "link": "https://www.washingtonexaminer.com/news/senate/4804520/bernie-sanders-endorses-chris-van-hollen-senate-majority-leader/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T15:31:53.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
