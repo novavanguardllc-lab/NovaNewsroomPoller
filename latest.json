@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-16T06:00:15.264Z",
+  "updatedAt": "2026-11-16T06:05:06.352Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.355Z"
+      "lastSuccess": "2026-11-16T06:05:06.434Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.334Z"
+      "lastSuccess": "2026-11-16T06:05:06.480Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.358Z"
+      "lastSuccess": "2026-11-16T06:05:06.437Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.421Z"
+      "lastSuccess": "2026-11-16T06:05:06.745Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.375Z"
+      "lastSuccess": "2026-11-16T06:05:06.572Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.821Z"
+      "lastSuccess": "2026-11-16T06:05:06.459Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.414Z"
+      "lastSuccess": "2026-11-16T06:05:06.671Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.424Z"
+      "lastSuccess": "2026-11-16T06:05:06.414Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.441Z"
+      "lastSuccess": "2026-11-16T06:05:06.675Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.416Z"
+      "lastSuccess": "2026-11-16T06:05:06.657Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.377Z"
+      "lastSuccess": "2026-11-16T06:05:06.502Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.534Z"
+      "lastSuccess": "2026-11-16T06:05:06.560Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.391Z"
+      "lastSuccess": "2026-11-16T06:05:06.558Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.398Z"
+      "lastSuccess": "2026-11-16T06:05:06.497Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.539Z"
+      "lastSuccess": "2026-11-16T06:05:06.713Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.518Z"
+      "lastSuccess": "2026-11-16T06:05:06.619Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.556Z"
+      "lastSuccess": "2026-11-16T06:05:06.731Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.436Z"
+      "lastSuccess": "2026-11-16T06:05:06.632Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.581Z"
+      "lastSuccess": "2026-11-16T06:05:06.778Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T06:00:15.542Z"
+      "lastErrorAt": "2026-11-16T06:05:06.734Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.442Z"
+      "lastSuccess": "2026-11-16T06:05:06.693Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T06:00:15.597Z"
+      "lastSuccess": "2026-11-16T06:05:06.802Z"
     },
     "The Hill": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-11-16T06:00:25.278Z"
+      "online": true,
+      "lastSuccess": "2026-11-16T06:05:06.796Z"
     }
   },
   "items": [
+    {
+      "id": "story_aac58f6cd01083da",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The New Congress Must Rein in Trump’s Dangerous China Policy",
+      "snippet": "Trump’s accommodating approach toward China has emboldened Beijing, but the new Congress has a rare chance to change course.",
+      "link": "https://www.nytimes.com/2026/11/16/opinion/china-us-trump-asia-military.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T06:00:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e26241b76ce23567",
       "source": "AP",
@@ -2681,19 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-15T23:29:59.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_936ba96886552a93",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Yemen: Anti-Houthi forces pull back as rebels advance",
-      "snippet": "Forces aligned with the Yemeni government and Saudi Arabia are seeking to strengthen control over the interim capital Aden as the Iran-backed Houthis approach.",
-      "link": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T23:29:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
