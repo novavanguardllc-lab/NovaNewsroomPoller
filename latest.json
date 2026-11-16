@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-16T11:25:06.755Z",
+  "updatedAt": "2026-11-16T11:30:13.020Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.799Z"
+      "lastSuccess": "2026-11-16T11:30:13.145Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.810Z"
+      "lastSuccess": "2026-11-16T11:30:13.210Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.815Z"
+      "lastSuccess": "2026-11-16T11:30:13.097Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.897Z"
+      "lastSuccess": "2026-11-16T11:30:13.255Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.900Z"
+      "lastSuccess": "2026-11-16T11:30:13.121Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:07.178Z"
+      "lastSuccess": "2026-11-16T11:30:13.485Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.948Z"
+      "lastSuccess": "2026-11-16T11:30:13.351Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.868Z"
+      "lastSuccess": "2026-11-16T11:30:13.339Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.939Z"
+      "lastSuccess": "2026-11-16T11:30:13.365Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.935Z"
+      "lastSuccess": "2026-11-16T11:30:13.322Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.933Z"
+      "lastSuccess": "2026-11-16T11:30:13.319Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.854Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-16T11:30:13.340Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.816Z"
+      "lastSuccess": "2026-11-16T11:30:13.113Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.834Z"
+      "lastSuccess": "2026-11-16T11:30:13.336Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.977Z"
+      "lastSuccess": "2026-11-16T11:30:13.371Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.929Z"
+      "lastSuccess": "2026-11-16T11:30:13.308Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:07.014Z"
+      "lastSuccess": "2026-11-16T11:30:13.376Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.970Z"
+      "lastSuccess": "2026-11-16T11:30:13.277Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:07.079Z"
+      "lastSuccess": "2026-11-16T11:30:13.525Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T11:25:06.952Z"
+      "lastErrorAt": "2026-11-16T11:30:13.355Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:07.031Z"
+      "lastSuccess": "2026-11-16T11:30:13.440Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:07.028Z"
+      "lastSuccess": "2026-11-16T11:30:13.445Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T11:25:06.998Z"
+      "lastSuccess": "2026-11-16T11:30:13.430Z"
     }
   },
   "items": [
+    {
+      "id": "story_371b0757f145e354",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Fewer foreign students studying at U.S. universities, study shows",
+      "snippet": "Fewer international students are studying at U.S. universities as the Trump administration cracks down on immigration and reshapes higher education, a study shows.",
+      "link": "https://www.cbsnews.com/news/us-universities-fewer-foreign-students-trump-administration-policies/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T11:21:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4b2202df9e040f88",
       "source": "France24",
@@ -131,6 +145,32 @@
       "link": "https://www.france24.com/en/video/20261116-not-a-minute-longer-israel-s-eisenkot-calls-for-netanyahu-s-ouster",
       "imageUrl": "https://s.france24.com/media/display/7db42cb4-e1ae-11f1-8a4c-f71d22e7fea9/w:1024/p:16x9/EN-20261116-103439-103615-CS.jpg",
       "publishedAt": "2026-11-16T11:16:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_776aed175fa5712c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest",
+      "snippet": "Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokesperson\nEurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in ",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T11:12:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c656e17c3cca6bff",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
+      "snippet": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms success\nHello and welcome to the US politics live blog.\nSenator Elizabeth Warren, the likely incoming chair of ",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T11:11:16.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -703,6 +743,19 @@
       "link": "https://www.washingtonpost.com/transportation/2026/11/16/us-flights-gradually-return-normal-after-days-disruption/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T10:12:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a9eaf50dc7ff0d18",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Man jailed for life for attempted murder of children that sparked Dublin riots",
+      "snippet": "A man who attempted to murder three children as they waited outside their school in Dublin has been sentenced to life in prison.",
+      "link": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748",
+      "imageUrl": "https://e3.365dm.com/26/03/1920x1080/skynews-dublin-dublin-riots_7203476.jpg?20261116102750",
+      "publishedAt": "2026-11-16T10:11:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2642,58 +2695,6 @@
       "publishedAt": "2026-11-16T06:57:31.000Z",
       "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_57879b52c713b036",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Australian MP's first words since leaving hospital",
-      "snippet": "Helen Haines, the Australian politician who lost both legs after an alleged attack, has said she is \"full of gratitude\" upon leaving hospital.",
-      "link": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
-      "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-helen-haines-haines_7407524.jpg?20261116065935",
-      "publishedAt": "2026-11-16T06:49:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5e2ee5839e2646b3",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-      "snippet": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future\nGood morning. Ahead of the hotly anticipated UK-EU summit this Friday, Andy Burnham is expecte",
-      "link": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T06:46:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_80bee33ec0c620e5",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "South African rand slips as stronger dollar weighs - Reuters",
-      "snippet": "South African rand slips as stronger dollar weighs  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0hGX3hZdGJDMzhZYmpIbXp6LWtmaTlyWjFtV0I3aVVMSUkyeVkxRmdYTzE2QVZsRW5qQV80aS1qQ2pVMGZ2dzdaX0Fxa2k4b1pNV1NlS2VOSkhidThwUl9LZ1ZJQXA2RkxaeWlaWlh5OGlXTGZ2a3hyYXgxZHYxV0VEbFdQcmhmNlZqSkxTZ1VEbDd0UWk2V1BlOV8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T06:46:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_10ab0e2356cd5e39",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge - Reuters",
-      "snippet": "India's wholesale inflation accelerates to 12.29% in October on fuel price surge  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOTZCYmwwajlmSXIyWWx2WXhZaE81VjdHTS1vc0wtdUpBNG01WnFDdVF1bXlmNXNwalQ2N2lKT1hXODMydGtUY25fcDgxQW5jVnFTVUNXQ09NN2twb1hiNE9kVHowRUZhenVIY2dDUzhPTkFaTzBqaUF5emNlaHdLc3JEcWhrTlBuemFxR01HNUNJV1FjVnlxYTJ0bWpIcks0YUFv?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T06:37:00.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
