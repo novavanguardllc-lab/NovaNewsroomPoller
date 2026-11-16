@@ -1,99 +1,100 @@
 {
-  "updatedAt": "2026-11-16T22:45:08.249Z",
+  "updatedAt": "2026-11-16T22:50:09.163Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.470Z"
+      "lastSuccess": "2026-11-16T22:50:09.451Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.432Z"
+      "lastSuccess": "2026-11-16T22:50:09.255Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.309Z"
+      "lastSuccess": "2026-11-16T22:50:09.228Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.387Z"
+      "lastSuccess": "2026-11-16T22:50:09.439Z"
     },
     "Reuters": {
       "online": false,
       "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-16T22:45:08.759Z"
+      "lastErrorAt": "2026-11-16T22:50:09.660Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.429Z"
+      "lastSuccess": "2026-11-16T22:50:09.361Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.495Z"
+      "lastSuccess": "2026-11-16T22:50:09.412Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.531Z"
+      "lastSuccess": "2026-11-16T22:50:09.410Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.415Z"
+      "lastSuccess": "2026-11-16T22:50:09.275Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.393Z"
+      "lastSuccess": "2026-11-16T22:50:09.353Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.528Z"
+      "lastSuccess": "2026-11-16T22:50:09.455Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.534Z"
+      "lastSuccess": "2026-11-16T22:50:09.419Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.544Z"
+      "lastSuccess": "2026-11-16T22:50:09.466Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.538Z"
+      "lastSuccess": "2026-11-16T22:50:09.490Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T22:45:08.612Z"
+      "lastErrorAt": "2026-11-16T22:50:09.461Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.555Z"
+      "lastSuccess": "2026-11-16T22:50:09.496Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.525Z"
+      "lastSuccess": "2026-11-16T22:50:09.349Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.642Z"
+      "lastSuccess": "2026-11-16T22:50:09.558Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.492Z"
+      "lastSuccess": "2026-11-16T22:50:09.387Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.591Z"
+      "lastSuccess": "2026-11-16T22:50:09.453Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.649Z"
+      "lastSuccess": "2026-11-16T22:50:09.581Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.720Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-16T22:50:09.510Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T22:45:08.809Z"
+      "lastSuccess": "2026-11-16T22:50:09.702Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "link": "https://www.semafor.com/article/11/16/2026/ai-makes-everyone-more-vulnerable",
       "imageUrl": "https://img.semafor.com/5ccb797598a2f43ada9f076b078e06764bcb6a42-3020x1662.png",
       "publishedAt": "2026-11-16T22:44:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c2df0b22276cc037",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "The Memo: Sean Duffy’s $50B FAA request gets cool reception from Congress",
+      "snippet": "The reverberations from Friday’s massive air-traffic ground-stop are now being felt on Capitol Hill as the Trump administration pushes for an extra $50 billion in funding for the Federal Aviation Administration (FAA). The push is being spea",
+      "link": "https://thehill.com/homenews/analysis/6223711-duffy-pushes-air-traffic-upgrades/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26212574425730-e1794832531360.jpg?w=900",
+      "publishedAt": "2026-11-16T22:44:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -124,6 +138,32 @@
       "corroboratedCount": 8
     },
     {
+      "id": "story_60cbf77f84f52261",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Chase outage disrupts online banking and Zelle payments in United States",
+      "snippet": "American users of several major banking apps and online portals reported outages on Monday, according to the monitoring site Downdetector.com, with one institution ruling out a cyberattack as the cause. Among those affected by the outages w",
+      "link": "https://www.france24.com/en/americas/20261116-chase-outage-disrupts-online-banking-and-zelle-payments-in-united-states-us-software",
+      "imageUrl": "https://s.france24.com/media/display/0b34ad5e-e20c-11f1-ace7-3f371022a770/w:1024/p:16x9/AP26320767161907.jpg",
+      "publishedAt": "2026-11-16T22:40:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c95ec2cf0f9c7c09",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+      "snippet": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:40:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ea2cd04da4da2096",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -132,6 +172,32 @@
       "link": "https://thehill.com/policy/transportation/6223723-buttigieg-trump-faa-groundstop/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26292761702279-e1792769600762.jpg?w=900",
       "publishedAt": "2026-11-16T22:40:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a2cd4bc922b2ba8f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "T-Mobile Black Friday deals: Get an iPhone 18 Pro for $0 upfront and $500 off Google Pixel Watch 5",
+      "snippet": "T-Mobile's Black Friday deals slash up to $500 off the Google Pixel Watch 5, dropping it to as low as $30 with a new line, plus perks like DoorDash.",
+      "link": "https://www.foxnews.com/deals/t-mobile-black-friday-deals",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:37:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d94d5d3a875f871e",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Boston Globe compares Dianna Russini to Bob Woodward amid Vrabel-sourcing scandal",
+      "snippet": "The Boston Globe compares NFL reporter Dianna Russini to Bob Woodward over her closeness to Patriots coach Mike Vrabel, but the paper sees a difference.",
+      "link": "https://www.foxnews.com/outkick-sports/boston-globe-compares-dianna-russini-bob-woodward-amid-vrabel-sourcing-scandal",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:36:31.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -187,6 +253,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 6
+    },
+    {
+      "id": "story_f9f4cfd2f896ad79",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "La Francophonie 'waning in global influence': Linguistic institutions becoming 'less important'",
+      "snippet": "François Picard is pleased to welcome Phil Clark, professor of international politics at SOAS University of London. The diplomatic crisis between Rwanda and the Democratic Republic of Congo spilling out at the Francophonie summit in Phnom P",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20261116-la-francophonie-waning-in-global-influence-linguistic-institutions-becoming-less-important",
+      "imageUrl": "https://s.france24.com/media/display/2c7ebce6-e209-11f1-a83b-3f371022a770/w:1024/p:16x9/EN-20261116-181805-182744-CS.jpg",
+      "publishedAt": "2026-11-16T22:29:45.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_eac1039b51998de6",
@@ -410,6 +489,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b3d9ab7ecaa880e2",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "snippet": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. ",
+      "link": "https://www.france24.com/en/tv-shows/a-propos/20261116-europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
+      "imageUrl": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
+      "publishedAt": "2026-11-16T22:07:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1bf0c59695859d51",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -447,6 +539,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_b64898284b7019d2",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "snippet": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. ",
+      "link": "https://www.france24.com/en/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
+      "imageUrl": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
+      "publishedAt": "2026-11-16T22:05:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_840e8eb0f24a6823",
@@ -496,6 +601,19 @@
       "link": "https://www.nbcnews.com/news/us-news/women-stranded-faa-ground-stop-buy-ford-bronco-27-hour-road-trip-rcna609629",
       "imageUrl": null,
       "publishedAt": "2026-11-16T22:03:18.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d3a82bd12c96586a",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Trump says he needs funding for air traffic control after ground stop",
+      "snippet": "US ​President ​Donald Trump, pressed on a ​technology ‌failure ⁠that ‌grounded thousands of ⁠flights last week, ​on ‌Monday told reporters ‌that ​the government needed funding for upgrade ​to ​air traffic ​control equipment. FRANCE 24's Mon",
+      "link": "https://www.france24.com/en/trump-says-he-needs-funding-for-air-traffic-control-after-ground-stop",
+      "imageUrl": "https://s.france24.com/media/display/a84d7300-e1fd-11f1-b1a8-29048b396e03/w:1024/p:16x9/EN-20261116-210837-211856-CS.jpg",
+      "publishedAt": "2026-11-16T22:01:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2576,123 +2694,6 @@
       "link": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-16T19:18:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_646b2890562cfe61",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "How Robert Pattinson stacks up against the past James Bonds - AP News",
-      "snippet": "How Robert Pattinson stacks up against the past James Bonds  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVG5ZVDBuLXk0YTFHQ3B5SWhYT3ZrdUlGakxnWnk1ZkM1ak53MzJmOFhXNFNWZWF6YnpyYS0zNmxaYTEyWVlHT2RzR2lLQ3pER0lQekpMNEE0azFMT083UUM1OFF6OTE1V2tRMEJtaTV1OERrdkJOVl9jUmd0M0M4cGdnLTJnOHI5SEJPc3VCQWZMS1RRVUYtR2dn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:18:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_0b11e9ef4c51437c",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Pakistan: Former leader Khan pleads for medical care",
-      "snippet": "Imran Khan appealed to judges to be treated \"before it's too late.\" His wife was also included in the request.",
-      "link": "https://www.dw.com/en/pakistan-former-leader-khan-pleads-for-medical-care/a-79961718?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:17:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_349134aed1b0ce2a",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "snippet": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:16:52.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_fbbc7948a3113f47",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "How Milburn won over Labour on tackling rising youth unemployment",
-      "snippet": "Labour grandee seems to have assuaged MPs’ nerves on need for welfare reform to tackle youth unemployment crisis\nIn a boxing gym in Peterborough almost a year ago, Alan Milburn, freshly appointed to run a government review into the nearly 1",
-      "link": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:16:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4481004b6a74623a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Haiti fans celebrate culture, share political views despite 6-0 loss to US - AP News",
-      "snippet": "Haiti fans celebrate culture, share political views despite 6-0 loss to US  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3hjN1BtaG5wOTFfb2swcXJnRGhlN3ZUQWJwdVZzV3Z4RWlxSnJFd2hUSUJhdUQzWlNiM3RFLXNEMkwwWC1sYjZpeTBRbFFmMGhSa2JCMEVpSFhySU5TcWtxWlR2d2RQZWZGWHB4a3VjSnlaaGxleGRDaGJkYUlvU0ZERXpwOE45TWpxZ3YxUXR2MF9wMnF5dzFHTzVPYlRfRkE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:14:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cdf6a4fe92929752",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "NFL Betting Strategy Guide: How to Bet on Football",
-      "snippet": "A complete NFL betting strategy guide: how to read lines, shop for the best price, use key numbers, time your bets through the week and manage a bankroll across the season.",
-      "link": "https://www.foxnews.com/outkick-betting/nfl-betting-strategy",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:13:42.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_19daf31ea210d461",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "What Is Futures Betting? — How Championship, Win Total and Award Bets Work",
-      "snippet": "A futures bet is a wager on a result decided later in the season, like a Super Bowl winner or MVP. Learn how futures are priced, when to bet them and how to hedge a winning ticket.",
-      "link": "https://www.foxnews.com/outkick-betting/futures-betting-explained",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:13:26.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7e705bc375224f92",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "What Is a Moneyline Bet? — How Moneyline Odds, Payouts and Favorites Work",
-      "snippet": "A moneyline bet is a wager on which team wins the game. Learn how to read plus and minus odds, calculate payouts and implied probability, and when to pick the moneyline over the spread.",
-      "link": "https://www.foxnews.com/outkick-betting/what-is-a-moneyline-bet",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:13:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b3e14c34d6771a16",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "White House tightens grip on agency testimony ahead of Democratic investigations",
-      "snippet": "The White House on Monday issued a memorandum directing federal agencies to obtain its approval before employees agree to testify before Congress, tightening control over the administration’s response to Democratic investigations after Repu",
-      "link": "https://www.washingtonexaminer.com/news/white-house/4804846/white-house-tightens-grip-agency-testimony-ahead-of-democratic-investigations/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T19:13:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
