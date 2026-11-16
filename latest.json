@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-16T08:45:08.989Z",
+  "updatedAt": "2026-11-16T08:50:09.062Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.122Z"
+      "lastSuccess": "2026-11-16T08:50:09.165Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.088Z"
+      "lastSuccess": "2026-11-16T08:50:09.238Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.182Z"
+      "lastSuccess": "2026-11-16T08:50:09.306Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.221Z"
+      "lastSuccess": "2026-11-16T08:50:09.536Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.201Z"
+      "lastSuccess": "2026-11-16T08:50:09.257Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.414Z"
+      "lastSuccess": "2026-11-16T08:50:09.545Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.269Z"
+      "lastSuccess": "2026-11-16T08:50:09.508Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.307Z"
+      "lastSuccess": "2026-11-16T08:50:09.456Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.341Z"
+      "lastSuccess": "2026-11-16T08:50:09.462Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.263Z"
+      "lastSuccess": "2026-11-16T08:50:09.436Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.188Z"
+      "lastSuccess": "2026-11-16T08:50:09.296Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.344Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-16T08:50:09.440Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.179Z"
+      "lastSuccess": "2026-11-16T08:50:09.319Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.167Z"
+      "lastSuccess": "2026-11-16T08:50:09.364Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.300Z"
+      "lastSuccess": "2026-11-16T08:50:09.481Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.337Z"
+      "lastSuccess": "2026-11-16T08:50:09.405Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.388Z"
+      "lastSuccess": "2026-11-16T08:50:09.562Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.257Z"
+      "lastSuccess": "2026-11-16T08:50:09.424Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.448Z"
+      "lastSuccess": "2026-11-16T08:50:09.639Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T08:45:09.361Z"
+      "lastErrorAt": "2026-11-16T08:50:09.555Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.347Z"
+      "lastSuccess": "2026-11-16T08:50:09.466Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:09.471Z"
+      "lastSuccess": "2026-11-16T08:50:09.656Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T08:45:10.891Z"
+      "lastSuccess": "2026-11-16T08:50:10.339Z"
     }
   },
   "items": [
+    {
+      "id": "story_9258a833ab662ffb",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Latin American News | Latest Latin American News - AP News",
+      "snippet": "Latin American News | Latest Latin American News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ndGJHcWFWd3JYNVhLbDFQbjRLNDZnWlVPRUVlS0FQcVhBTzI4emRPS2dwZ2pzWWphdzZ1YXl0T0l2X1UwT1drcXliZnM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T08:43:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_402d0774aa2552ff",
       "source": "France24",
@@ -106,6 +120,19 @@
       "imageUrl": "https://s.france24.com/media/display/a660692a-e195-11f1-bda7-f71d22e7fea9/w:1024/p:16x9/000-D7K64G3.jpg",
       "publishedAt": "2026-11-16T08:40:22.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0c850fd700247abb",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "France temporarily bans firework mortars amid school protests - Reuters",
+      "snippet": "France temporarily bans firework mortars amid school protests  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUFvQmRoWHRyMlFlNFRTc3hCTDJWQXFGd2dacHJGTThMQnFWNVJ6cDRTeHFPdDY2S3Q2RmYxLV9DNnZTcVdOMlgxT0VDM0FGZlgtZm42aXJMS0V2NWJFMnFUN2lfTzA0a0RRaHpGVVVwY3ZsN2dpNWVKZjF4a1Q0T3M1UXgzU2Zyc05taFFhWnI1VDV2MmRKYk5zQkJpR3ViR09FckNn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T08:37:44.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -474,6 +501,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ea7e74088df30372",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "UN ready to support any denuclearisation effort from US, China, Russia talks - Reuters",
+      "snippet": "UN ready to support any denuclearisation effort from US, China, Russia talks  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV21EUHlpcVpLbWhUTnNzV3RGVkRzV0k1WU9aeDlSS0dQV2dwS1dvak5OaEdTLVFjMGxXMUU5Z1M4VDU4NnBKcl9ZVHdUWlVwZF94MDZ2dDQwRFo5Z0ktMWZuN2hJZjZ5ckVtUDhjcmlLdm1feUpyV0M3MENTMEN5eldYZko2QlpZMTVGaVFlUlZ3WFYzVGVlM29xN1NpOFZhcy1KaWpyRGtOcnhXeTdabXZVbU8?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T07:46:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_82c42e576dd4342a",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -730,6 +770,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T07:00:36.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_be7a106133212f72",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future - Reuters",
+      "snippet": "COMMENTARY: War-torn present clouds Saudi Arabia's post-oil future  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek1oaDQwcHhPSlhNTmNsZDhJc1dSQ1BwODVvWDBsdlhpUUxfVUJnUUdlQnNmTUFtYWlhblk4N1c1YWJFdEVqNmIzYjZSWTFsSjRXc1FhRzRIME90alJDb2pMeHlzbjVjWWdYb2FUbGIza3NkWmhLOFE4WHhOeXdhaHh6NjhtS0pENGtzc1RUMmVIZ0t2cnJ2WHA1alNwMzgzWEVZR3RnU0ZJMFVxcWNOWUdwOFRlRXhhQllPZmd6MA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T07:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1028,6 +1081,19 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZmpsZ3hhUzB4QUo1cVdmaGFCWTZTR2lhN3NRNzFFZDNaSXI2RGJxYzBwTy1SYVNFZ3VKUFZnMS1RSE9rTG01dkZFY1R4dHNHU2VLUTVCeHJYM1J4d2FBS1g3VGxySklybkZv?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T05:53:03.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_71aea54cfbb7f0aa",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A fire in a building in southern Thailand killed 11 people - AP News",
+      "snippet": "A fire in a building in southern Thailand killed 11 people  AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcm1QcDhvNnh1RXdfNkE4dy1pekxwSTN0dWpIRFJaRkZ6Q0tQc3QzWjYxdERjOGxrWDNJeVRnRGNVYnJBUGFMRmNtOGdfNklXVVRpTEhnaTE5R09JVVBXanV0QlBKbjJKcnV0RTZBTDk1XzlncmdHYms5NEpQd1F3cVNRM21ENU0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T05:50:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2630,71 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_2433ebd30507795f",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
-      "snippet": "The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged\nIndependent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorat",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T01:36:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ed2063bfeca3fe8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally - Reuters",
-      "snippet": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T01:35:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ff73f50d09ebfeba",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10",
-      "snippet": "Video shows flames and thick black smoke billowing over MetLife Stadium near the adjacent train station after the Bills' 31-12 win over the Jets.",
-      "link": "https://www.foxnews.com/outkick-sports/massive-fire-erupts-outside-metlife-stadium-bills-defeat-jets-week-10",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T01:32:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d96f28fc0d23a72d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed - Reuters",
-      "snippet": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNxZjdMUWpxX0k5UFljV1NLWVhkTW5lMnE0SVVsRjlVNml3N1BCWmt2NTgwV0RGZkNYam1yQ1N3MXRjUHJLME5jZmY0dERCNGo4Rl9rZjdKZldwajhnbmlTQ25PRzE4WndhUEFoS29fZmFDWVczMUZfRFRRa21MektCU0luRGJiNllsTnZiRmZHVUN1R0kwTlJsM2dCN2hlYzJyOXk0bUZRX29XajFHRkhubzk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T01:32:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1fe4cb292740f9ee",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Dallas Mavericks - AP News",
-      "snippet": "Dallas Mavericks  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yVGVUNFgwUEpmTTNLYU94ZlpaSTdCT3RmYzQtY18wRFJDOHRsS1M5bVE2RUZnQTdrcGpsSy1CM1NPVVRncFJ4WWVwVC1lNEVR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T01:31:10.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
