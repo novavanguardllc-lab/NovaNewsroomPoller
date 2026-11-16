@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-16T17:35:06.527Z",
+  "updatedAt": "2026-11-16T17:40:09.336Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.614Z"
+      "lastSuccess": "2026-11-16T17:40:09.438Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.658Z"
+      "lastSuccess": "2026-11-16T17:40:09.495Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.587Z"
+      "lastSuccess": "2026-11-16T17:40:09.389Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.622Z"
+      "lastSuccess": "2026-11-16T17:40:09.555Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.620Z"
+      "lastSuccess": "2026-11-16T17:40:09.527Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:07.060Z"
+      "lastSuccess": "2026-11-16T17:40:09.416Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.632Z"
+      "lastSuccess": "2026-11-16T17:40:09.742Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.714Z"
+      "lastSuccess": "2026-11-16T17:40:09.521Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.655Z"
+      "lastSuccess": "2026-11-16T17:40:09.572Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.634Z"
+      "lastSuccess": "2026-11-16T17:40:09.556Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.635Z"
+      "lastSuccess": "2026-11-16T17:40:09.552Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.668Z"
+      "lastSuccess": "2026-11-16T17:40:09.541Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.688Z"
+      "lastSuccess": "2026-11-16T17:40:09.573Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.659Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-16T17:40:09.570Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.646Z"
+      "lastSuccess": "2026-11-16T17:40:09.469Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.653Z"
+      "lastSuccess": "2026-11-16T17:40:09.550Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.672Z"
+      "lastSuccess": "2026-11-16T17:40:09.560Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T17:35:06.689Z"
+      "lastErrorAt": "2026-11-16T17:40:09.569Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.629Z"
+      "lastSuccess": "2026-11-16T17:40:09.493Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.772Z"
+      "lastSuccess": "2026-11-16T17:40:09.652Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.728Z"
+      "lastSuccess": "2026-11-16T17:40:09.584Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.815Z"
+      "lastSuccess": "2026-11-16T17:40:09.656Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T17:35:06.796Z"
+      "lastSuccess": "2026-11-16T17:40:09.672Z"
     }
   },
   "items": [
+    {
+      "id": "story_1cc4cd08b35a52e1",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Nearly two million people are behind bars in the US. How did we get here?",
+      "snippet": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America, goes inside the U.S. prison system and explores how \nour approach to criminals has changed over time.",
+      "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:34:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_687e0630fd69c4fd",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Cowboys defensive coordinator shows why he should be fired by asking Von Miller to cover Christian McCaffrey",
+      "snippet": "The Dallas Cowboys asked Von Miller to cover Christian McCaffrey man-to-man on a cover zero blitz, and the 66-yard touchdown exposed a coaching flaw.",
+      "link": "https://www.foxnews.com/outkick-sports/cowboys-defensive-coordinator-shows-why-he-should-be-fired-asking-von-miller-cover-christian-mccaffrey",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:33:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_40a4e7fe35bc62ec",
       "source": "CBS News",
@@ -110,6 +137,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_7d41ffc20fdb23e7",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Titans kicker Joey Slye may have delivered the hardest hit of NFL Week 10 action against Jaguars",
+      "snippet": "Tennessee Titans kicker Joey Slye delivered a crushing open-field hit that forced a Josh Cameron fumble in the Week 10 loss to the Jacksonville Jaguars.",
+      "link": "https://www.foxnews.com/outkick-sports/titans-kicker-joey-slye-hardest-hit-nfl-week-10-jaguars",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:30:11.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ba5ec7ac8f67c5f0",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -118,6 +158,19 @@
       "link": "https://thehill.com/opinion/energy-environment/6221661-fear-fantasy-and-used-nuclear-fuel/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP20038053998295.jpg?w=900",
       "publishedAt": "2026-11-16T17:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_46b3a4f6e8145590",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Justin Herbert's 11 interceptions in eight games highlight the Chargers' disastrous 0-win season",
+      "snippet": "The winless Los Angeles Chargers meet the 4-5 Baltimore Ravens on a short week, with Justin Herbert's 11 interceptions in eight games fueling a slump.",
+      "link": "https://www.foxnews.com/outkick-betting/justin-herbert-11-interceptions-eight-games-highlight-chargers-disastrous-0-win-season",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:29:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -136,6 +189,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c87d7a7d748d6768",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Elderly homeowner’s hired help turns into squatter nightmare made worse by blue state laws: report",
+      "snippet": "Jordy Smith, 76, said a fake plumber locked her out of her San Diego home and rented rooms to over a dozen people before Squatter Squad intervened.",
+      "link": "https://www.foxnews.com/us/elderly-homeowner-hired-help-turns-squatter-nightmare-made-worse-blue-state-laws-report",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:28:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0887ea174edc56e7",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -144,6 +210,19 @@
       "link": "https://www.washingtonexaminer.com/policy/healthcare/4804691/john-powers-new-national-institutes-health-niaid-director/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T17:27:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4c9d8080508f293c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Leon Slater retains TNA world title at Destination X after Trey Miguel's resilience amid travel chaos",
+      "snippet": "Leon Slater retained the TNA World Championship at Destination X after a bloody battle with Trey Miguel, who nearly missed the Edmonton show.",
+      "link": "https://www.foxnews.com/outkick-sports/leon-slater-retains-tna-world-title-destination-x-trey-miguel-resilience-travel-chaos",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:27:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -344,6 +423,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1ade596635bb4626",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Louisville up to No. 3 in women's AP Top 25 after UConn win; South Carolina, Michigan still 1-2 - AP News",
+      "snippet": "Louisville up to No. 3 in women's AP Top 25 after UConn win; South Carolina, Michigan still 1-2  AP News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa3U4cHhKOEFyRlp0dFpYVEZUd0p5d0NHdHdBVVBQZ1hSSnluSk80ZUwta25qM24xbW5aMXJWVUhDV1dZQ0w1SUFsYWtGYXhoTkFIUkpTdTBPZ3E0YWo2YlZtZzJJRF9fWWE0T0ZNaDdlN0ItakJHbmMyMTJuUFFYUUs3SkpzZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T17:03:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2936bcce730ac8cb",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -498,6 +590,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_f2e4808c538dc73b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Third American aircraft carrier arrives in the Middle East as Trump keeps options open in Iran war - AP News",
+      "snippet": "Third American aircraft carrier arrives in the Middle East as Trump keeps options open in Iran war  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZiWEcxLU9Xck9JR2h3VDIwa1VETmRCam5zQm1BWmhNcGhZS0pBdi1BZGRZLXhZT3VmUG5wYld2N1gydV8teDVFc0UtNVljakJ5Q1JNRkRUb0dqRDRfX0p4QVBGdkZRaWd3Y1J6aFdZWlZhVGt5LWxzcG9mRHVPYnBXZFFrSXVqYXkxd081YzdlNTN1T05yVTgwZUIzSUhQQWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T16:49:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_4eb05e6f9c72014f",
@@ -2591,110 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_bd9f5c9667aa240d",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'Historical fiction is about filling in the gaps', author Ian McGuire says",
-      "snippet": "A Man Booker Prize nominee has been speaking to FRANCE 24 about his latest novel and his passion for researching and writing historical fiction. Ian McGuire was shortlisted for the prize in 2016 for his novel “The North Water”. His latest b",
-      "link": "https://www.france24.com/en/tv-shows/perspective/20261116-historical-fiction-is-about-filling-in-the-gaps-author-ian-mcguire-says",
-      "imageUrl": "https://s.france24.com/media/display/b89038f0-e1c2-11f1-852e-5f54d898a954/w:1024/p:16x9/DL00004072-VOD-00018864-CS0940.jpg",
-      "publishedAt": "2026-11-16T14:31:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d76d5f4d35c6ea4f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Stephen Miller’s appointment signals chaos for Trump’s final two years",
-      "snippet": "Political analysts and lawmakers expressed concern over President Donald Trump's decision to appoint Stephen Miller as White House chief of staff, fearing his focus on controversial immigration policies and culture wars could further polari",
-      "link": "https://thehill.com/opinion/white-house/6221206-miller-appointment-gop-future/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26318084959563.jpg?w=900",
-      "publishedAt": "2026-11-16T14:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_789779ac242544e5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "3 times a separate checking account makes sense to open",
-      "snippet": "There are certain circumstances in which it makes sense to open a separate checking account. Here are three to know.",
-      "link": "https://www.cbsnews.com/news/when-separate-checking-account-makes-sense/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T14:29:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a9daf0fb16345799",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Microsoft identifies issues leading to global Outlook outage",
-      "snippet": "Microsoft executive lays out issues leading to the Outlook outage in social media post.",
-      "link": "https://abcnews.com/US/outlook-outage-cause-microsoft-reason-teams-down/story?id=138174626",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T14:27:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8822240bdef83f85",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump heading to Asia ahead of trilateral summit with Putin and Xi",
-      "snippet": "President Trump is setting off on a multi-day swing in Asia, where he's scheduled to meet with Russian President Vladimir Putin and China's President Xi Jinping for a highly anticipated summit.",
-      "link": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T14:27:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_953e17489adadcac",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "US moves to close 'remote access' chip loophole ",
-      "snippet": "The prior limits had allowed Chinese AI firms to access cutting-edge US-made chips via data centers in third countries.",
-      "link": "https://www.semafor.com/article/11/16/2026/us-moves-to-close-remote-access-chip-loophole",
-      "imageUrl": "https://img.semafor.com/9475f67875ae5ff45ba5405ca703b1af2eeb06d1-4000x2667.jpg",
-      "publishedAt": "2026-11-16T14:27:31.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_451a10acb84c8558",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Angry NASCAR fans sound off after a rocky season, Kyle Busch makes history & new race WAG steals the show",
-      "snippet": "NASCAR fans flood in with complaints about stages, the Gen car and streaming as Denny Hamlin warns the sport is falling behind in relevancy.",
-      "link": "https://www.foxnews.com/outkick-sports/angry-nascar-fans-sound-off-rocky-season-kyle-busch-makes-history-new-race-wag-steals-show",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T14:27:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_873e54d1c6df17fd",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Russell Brand and the media that made him",
-      "snippet": "A rape conviction for the British comedian and actor leads to a reckoning for the media that kept him in the spotlight.",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/16/russell-brand-and-the-media-that-made-him?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T14:25:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
