@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-16T05:55:06.498Z",
+  "updatedAt": "2026-11-16T06:00:15.264Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.752Z"
+      "lastSuccess": "2026-11-16T06:00:15.355Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.719Z"
+      "lastSuccess": "2026-11-16T06:00:15.334Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.596Z"
+      "lastSuccess": "2026-11-16T06:00:15.358Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.759Z"
+      "lastSuccess": "2026-11-16T06:00:15.421Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.675Z"
+      "lastSuccess": "2026-11-16T06:00:15.375Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.636Z"
+      "lastSuccess": "2026-11-16T06:00:15.821Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.854Z"
+      "lastSuccess": "2026-11-16T06:00:15.414Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.878Z"
+      "lastSuccess": "2026-11-16T06:00:15.424Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.942Z"
+      "lastSuccess": "2026-11-16T06:00:15.441Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.881Z"
+      "lastSuccess": "2026-11-16T06:00:15.416Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.693Z"
+      "lastSuccess": "2026-11-16T06:00:15.377Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.897Z"
+      "lastSuccess": "2026-11-16T06:00:15.534Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.653Z"
+      "lastSuccess": "2026-11-16T06:00:15.391Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.798Z"
+      "lastSuccess": "2026-11-16T06:00:15.398Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.954Z"
+      "lastSuccess": "2026-11-16T06:00:15.539Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.920Z"
+      "lastSuccess": "2026-11-16T06:00:15.518Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.978Z"
+      "lastSuccess": "2026-11-16T06:00:15.556Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.938Z"
+      "lastSuccess": "2026-11-16T06:00:15.436Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:07.080Z"
+      "lastSuccess": "2026-11-16T06:00:15.581Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T05:55:06.959Z"
+      "lastErrorAt": "2026-11-16T06:00:15.542Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:06.880Z"
+      "lastSuccess": "2026-11-16T06:00:15.442Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T05:55:07.025Z"
+      "lastSuccess": "2026-11-16T06:00:15.597Z"
     },
     "The Hill": {
-      "online": true,
-      "lastSuccess": "2026-11-16T05:55:07.099Z"
+      "online": false,
+      "lastError": "Request timed out after 10000ms",
+      "lastErrorAt": "2026-11-16T06:00:25.278Z"
     }
   },
   "items": [
@@ -162,6 +163,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_abfc3a1aacf2d925",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Widow of Haiti’s slain leader Moise to contest presidential vote",
+      "snippet": "Martine Moise is one of ​33 registered candidates running in Haiti's first presidential election in a decade.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T05:38:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_aab61b85999cbbf2",
       "source": "UPI",
       "sourceColor": "#5A5A5A",
@@ -172,6 +186,19 @@
       "publishedAt": "2026-11-16T05:35:30.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d17fb8af45bfdca9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
+      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T05:30:40.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-15T23:29:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_04b3a57fb8a7be95",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Green Bay Packers - AP News",
-      "snippet": "Green Bay Packers  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93ejZFdEVFTGdEZ210MmdPY3dkM25Da21Rek0zbjdhOUxfQzhDQ3pPaEg0Q2xVMEFTcjRablM0UFB3c2JBRzJ2V1ZyX21OWGJ2N2c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T23:26:51.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_314e35048165a4f7",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Panic and fear in Ukraine's frontline village - Reuters",
-      "snippet": "Panic and fear in Ukraine's frontline village  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkcENGWC0tLWFOQTdUc053LVlIblZGY2gzMFRHcnRyNEtldWtkdTg1TjZZaTZVOWNUd21fU3RxRUxpLWxpcE00UHdldVNFMk5RUndKV2FvU3NvZVRiSG11a255VG5zOW8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T23:26:21.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
