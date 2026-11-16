@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-16T15:40:10.248Z",
+  "updatedAt": "2026-11-16T15:45:09.481Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.390Z"
+      "lastSuccess": "2026-11-16T15:45:09.590Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.410Z"
+      "lastSuccess": "2026-11-16T15:45:09.776Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.414Z"
+      "lastSuccess": "2026-11-16T15:45:09.750Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.469Z"
+      "lastSuccess": "2026-11-16T15:45:09.755Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.448Z"
+      "lastSuccess": "2026-11-16T15:45:09.655Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.458Z"
+      "lastSuccess": "2026-11-16T15:45:09.699Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.515Z"
+      "lastSuccess": "2026-11-16T15:45:09.730Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.581Z"
+      "lastSuccess": "2026-11-16T15:45:09.850Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.554Z"
+      "lastSuccess": "2026-11-16T15:45:09.972Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.545Z"
+      "lastSuccess": "2026-11-16T15:45:09.853Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.533Z"
+      "lastSuccess": "2026-11-16T15:45:09.809Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.539Z"
+      "lastSuccess": "2026-11-16T15:45:09.955Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.536Z"
+      "lastSuccess": "2026-11-16T15:45:09.912Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.542Z"
+      "lastSuccess": "2026-11-16T15:45:09.797Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.499Z"
+      "lastSuccess": "2026-11-16T15:45:09.818Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.528Z"
+      "lastSuccess": "2026-11-16T15:45:09.869Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.585Z"
+      "lastSuccess": "2026-11-16T15:45:09.916Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T15:40:10.600Z"
+      "lastErrorAt": "2026-11-16T15:45:09.974Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.737Z"
+      "lastSuccess": "2026-11-16T15:45:09.952Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.728Z"
+      "lastSuccess": "2026-11-16T15:45:10.092Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.619Z"
+      "lastSuccess": "2026-11-16T15:45:09.988Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:10.685Z"
+      "lastSuccess": "2026-11-16T15:45:10.008Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T15:40:11.662Z"
+      "lastSuccess": "2026-11-16T15:45:11.499Z"
     }
   },
   "items": [
+    {
+      "id": "story_586cd43f1e3d1176",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "British actor Robert Pattinson confirmed as new James Bond",
+      "snippet": "James Bond 007 ranks among the longest-running and highest-grossing movie franchises in Hollywood's ​history.",
+      "link": "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:41:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
+    },
     {
       "id": "story_1265446b69abc9f4",
       "source": "Wash Examiner",
@@ -108,6 +121,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_cb43f9aaf2596a2a",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Robert Pattinson named next James Bond",
+      "snippet": "Robert Pattinson has been cast as the next James Bond, replacing Daniel Craig as 007 in director Denis Villeneuve’s upcoming Amazon MGM film.",
+      "link": "https://www.foxnews.com/entertainment/robert-pattinson-named-next-james-bond",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:35:40.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_2c575bf21f28de4b",
@@ -144,6 +170,19 @@
       "link": "https://www.cbsnews.com/news/north-korea-china-russia-kim-jong-un-nuclear-weapons-us-confrontation/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T15:32:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24fdfabec58870b9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Cowboys' Elijah Garcia gets completely fooled on 49ers' trick play, underscoring poor defensive effort in loss",
+      "snippet": "The Dallas Cowboys allowed 584 yards in a 46-40 loss as a 49ers trick play left defender Elijah Garcia chasing the wrong ball carrier entirely.",
+      "link": "https://www.foxnews.com/outkick-sports/cowboys-elijah-garcia-fooled-49ers-trick-play-poor-defensive-effort-loss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:32:13.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -188,6 +227,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3ab82f41448afa66",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Lindsay Clancy to face retrial for the killings of her three children",
+      "snippet": "Lindsay Clancy will be tried for the second time for the killing of her three children in 2023. Clancy's first trial ended in a mistrial.  NBC News’ Steven Romo and Danny Cevallos detail the next steps in this high-profile case.",
+      "link": "https://www.nbcnews.com/video/lindsay-clancy-to-face-retrial-for-the-killings-of-her-three-children-273580613582",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:28:37.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_d3579b517e67e0d5",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -199,6 +251,32 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_551c87c3b5dded0a",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Students protest as air pollution chokes New Delhi",
+      "snippet": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:27:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f9e5673299a5c3c8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "At least 17 killed in two South Africa mass shootings",
+      "snippet": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:26:39.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_af1f4b03bec6a14b",
@@ -224,6 +302,19 @@
       "publishedAt": "2026-11-16T15:26:04.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1af2f2874d1ca3ef",
+      "source": "Sky News",
+      "sourceColor": "#8A3E5C",
+      "headline": "Head of French football to stand against Infantino in FIFA presidential election",
+      "snippet": "The head of the French Football Federation has announced he will stand against Gianni Infantino in the FIFA presidential election.",
+      "link": "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
+      "imageUrl": "https://e3.365dm.com/26/08/1920x1080/skynews-breakingnews-uk_7322499.jpg?20260826125921",
+      "publishedAt": "2026-11-16T15:25:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -448,6 +539,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_6a7244d10539b0c1",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia - Reuters",
+      "snippet": "Silicon Valley leaders back call for Jensen Huang's return to Nvidia  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnJmVHNCR2NpOGp0dlZibjRKMHA2S0hJM21UQTlDUmpTdXJwekFtbWxwdGVEZDVSRm0tUjZyWHQ3dGZVSmdBQkdCMHgwS0E1MU1MczV4c0p1cjRZT2I0dFpvWEZQU3VDSXNPZ1hKZHhQenJ6RVNpbFhIUm5KeVFSdHgxNGx5U2dHd0hsanhrMW1vWEUybU9maXg0cUJNUlpzcnp6NG9LS25kcjllZ3REY0o3Z3R1blU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:12:40.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_07f81946c150a873",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -456,6 +560,19 @@
       "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html",
       "imageUrl": null,
       "publishedAt": "2026-11-16T15:07:55.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_35e4adb598050742",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Person of interest in custody after device found at Illinois plant",
+      "snippet": "A person of interest is in custody after a device was found at the Peoria, Illinois BioUrja Renewables facility.",
+      "link": "https://abcnews.com/US/person-interest-custody-after-device-found-illinois-plant/story?id=138178192",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:07:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2575,123 +2692,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvde1klewg88o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-16T12:42:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bca1ee1aa356844a",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Ex-Barclays CEO Bob Diamond on investing in the Gulf and the irrelevancy of Bitcoin",
-      "snippet": "The former banker, who now runs private equity fund Atlas Merchant Capital, says he’s still bullish on the Gulf despite the war, and that the future of finance is tokenization.",
-      "link": "https://www.semafor.com/article/11/15/2026/ex-barclays-ceo-bob-diamond-on-investing-in-the-gulf-and-the-irrelevancy-of-bitcoin",
-      "imageUrl": "https://img.semafor.com/b6e440d4fd38aae7dfa822ea8dd48bb122a485a2-3108x2331.png",
-      "publishedAt": "2026-11-16T12:41:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9af97dc4f2e4c4a2",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "British farmers hope UK-EU deal with revive post-Brexit trade",
-      "snippet": "Al Jazeera’s Charlie Angela speaks to a farmer in Sussex, who hopes a proposed UK-EU deal will ease trade barriers.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:38:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bf53f4e88bf38140",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Pakistan ex-PM Imran Khan appeals for urgent medical help, says he 'may not return alive' - Reuters",
-      "snippet": "Pakistan ex-PM Imran Khan appeals for urgent medical help, says he 'may not return alive'  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVzRuT3hmMTFMaTRMTkRoUUotUzlSWUpLdE5qdERpbkxSdzR5TEFoaE1mWWU1a0pHb21teGlKNzJLMjZZNXk5LXBhLUhRbWVTVVNpTzlVR2hRVm9rcE5mSnRkT2wyandpVGtmaTZmTEFXcFhwNDd0MU9ZdU5yTjY2SkFfaHFjSURSeEdBeks1UVlYYThPT2p6QWkwVEl4WHJrc096ekE4R0F5WW5ZdENSWGUwWXhock5QMy1ncllRUEFYOGs3N2t0QnlTMA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:37:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fe3bf0272ea4b4a3",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Africa’s power drive is short of developers, Gridworks CEO says",
-      "snippet": "There are big plans to connect millions to electricity in Africa but a lack of early-stage capital may hold things up.",
-      "link": "https://www.semafor.com/article/11/16/2026/africas-power-drive-is-short-of-developers-gridworks-ceo-says",
-      "imageUrl": "https://img.semafor.com/d49f8a6f90b5e3ae2394bbfe02b87b388a394fae-2048x1238.jpg",
-      "publishedAt": "2026-11-16T12:36:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8d5a143784b680b3",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-      "snippet": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:36:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d8cddb5476e37f62",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "AI learning tool helps blind students excel in Malawi",
-      "snippet": "An artificial intelligence tool developed by a 25-year-old Malawian innovator is being used to help blind students.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:35:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2289cb9a7c3e73c5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Cargo ship sinks off Bulgaria’s Black Sea coast - AP News",
-      "snippet": "Cargo ship sinks off Bulgaria’s Black Sea coast  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbG5ySm9OSExGYnZid3J1UjJFU3NfbFI2UGM0aVZoN0QwQlh3VzcxWlRqNjFYalphNEJVRDFZMVRxb2tZUktmQVBZbHU2ODVkLWJNU3N6WjE0UlJJNVNJdjFUYWYzaHJFX2huTFJuckJEQUZaUk1UTC1iaXFLUWlFbkQ1OVpnYllyaFdmcHZpVWE1THJNUktVVjg2UUs4QzBFaUFxZVFR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:34:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8cfada25e5a98136",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  New video of tanker collision and riverboat sinking",
-      "snippet": "Authorities say a 500-foot Atlantic asphalt tanker collided into the American Heritage cruise ship on Friday, causing the ship to fall on its side and capsize in just 22 minutes.",
-      "link": "https://abcnews.com/video/138173484/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:31:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5cd7997497135996",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  'Cat Tour' brings together cat lovers in Massachusetts",
-      "snippet": "ABC News' Danny New explains how feline lovers recently got their fix in Somerville, Massachusetts.",
-      "link": "https://abcnews.com/video/138171416/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:30:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
