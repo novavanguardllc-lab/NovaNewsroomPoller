@@ -1,99 +1,98 @@
 {
-  "updatedAt": "2026-11-16T13:45:09.284Z",
+  "updatedAt": "2026-11-16T13:50:08.802Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.380Z"
+      "lastSuccess": "2026-11-16T13:50:08.930Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.598Z"
+      "lastSuccess": "2026-11-16T13:50:08.980Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.404Z"
+      "lastSuccess": "2026-11-16T13:50:08.960Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.546Z"
+      "lastSuccess": "2026-11-16T13:50:08.945Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.536Z"
+      "lastSuccess": "2026-11-16T13:50:08.896Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.466Z"
+      "lastSuccess": "2026-11-16T13:50:09.240Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.579Z"
+      "lastSuccess": "2026-11-16T13:50:08.941Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.629Z"
+      "lastSuccess": "2026-11-16T13:50:09.119Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.563Z"
+      "lastSuccess": "2026-11-16T13:50:09.216Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.557Z"
+      "lastSuccess": "2026-11-16T13:50:09.161Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.568Z"
+      "lastSuccess": "2026-11-16T13:50:09.158Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.566Z"
+      "lastSuccess": "2026-11-16T13:50:09.185Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.635Z"
+      "lastSuccess": "2026-11-16T13:50:09.255Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-16T13:45:09.633Z"
+      "online": true,
+      "lastSuccess": "2026-11-16T13:50:09.177Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.591Z"
+      "lastSuccess": "2026-11-16T13:50:09.061Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.773Z"
+      "lastSuccess": "2026-11-16T13:50:09.155Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.633Z"
+      "lastSuccess": "2026-11-16T13:50:09.400Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-16T13:45:09.641Z"
+      "lastErrorAt": "2026-11-16T13:50:09.242Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.444Z"
+      "lastSuccess": "2026-11-16T13:50:09.038Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.725Z"
+      "lastSuccess": "2026-11-16T13:50:09.343Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.646Z"
+      "lastSuccess": "2026-11-16T13:50:09.260Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:09.778Z"
+      "lastSuccess": "2026-11-16T13:50:09.358Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-16T13:45:10.857Z"
+      "lastSuccess": "2026-11-16T13:50:10.104Z"
     }
   },
   "items": [
@@ -124,6 +123,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_ebce7fb181b8d671",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Spain's Canary Islands flooded by thousands of migrants as country declares emergency",
+      "snippet": "Spain's Canary Islands processed over 2,200 migrants in two days as violent protests over housing costs and skyrocketing rents erupted nationwide.",
+      "link": "https://www.foxnews.com/world/spain-canary-islands-flooded-thousands-migrants-country-declares-emergency",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:39:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_376986e89b81e040",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -132,6 +144,19 @@
       "link": "https://www.washingtonexaminer.com/news/senate/4804401/doj-warns-elizabeth-warren-hunting-scalps-trump-private-associates/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T13:38:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_13ca5ddebe72b9fb",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
+      "snippet": "Move reflects growing demand for outdoor swimming as Britain heats up and follows campaign by MPs\nAndy Burnham is setting up a public fund to rebuild the UK’s lidos after a revival in outdoor swimming.\nOutdoor pools were built across the UK",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:35:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -202,6 +227,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a0804d89a7e5caf8",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Beyond the Horizon: Searching for Kenya’s elusive black leopard",
+      "snippet": "Maasai photographer Latei Moses searches Kenya for the rare wild cat, telling his own story through his lens.",
+      "link": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7075807f95fd676c",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -210,6 +248,19 @@
       "link": "https://www.semafor.com/article/11/16/2026/trump-arrives-in-the-philippines-a-key-ally-in-resisting-chinese-aggression",
       "imageUrl": "https://img.semafor.com/9c0bc1a75f3c196b9a720600d631086291721283-3014x1694.jpg",
       "publishedAt": "2026-11-16T13:28:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_495610e1e9d7ad86",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+      "snippet": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:28:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2412,6 +2463,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5cddd7150a67e978",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Scores of Bahraini Shi'ite clerics get life in prison for plotting with Iran - Reuters",
+      "snippet": "Scores of Bahraini Shi'ite clerics get life in prison for plotting with Iran  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanludnBDamtkVEE2Z001ZE5MczVVaTJMell5ZHZvSEJtcHJCaW9qMWNQS3hzRDVQVHBmWXFxUnB6MHFpN0pIRVJqV3dobWhEQ2R6QlRDdmw1R2tLZ1ROUUZGaEsxR2JfUFlhcFQ1MUJrR0JzM2luNy1SOEFzSGw1VkVRSDNtNWc0cldSR3RnTXYzRjd6RGZZaTd3UEdQOWZHeThLeGpZaURNUmc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T10:57:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_109d1bd428752832",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -2628,71 +2692,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTdmMm1TbkluVjhvMWlfcWRfNjZMQVBERW9EUnJXUzczWGxSOTZKU3BlOGVHTU83bXVPb0FDY0RjUnJ4MXNzLXBRWGNJdklCN0NkbmJLVWxiMEpZNjBUNmNLWXVVdFRnbnRKR1JEbzdsQ3U5S1AxY3BldXY4eWVvS3RrUXhxS0VKX0lQM1RSRGQ4UDRreGRVZGdsZ0ktVUp6Z3o5bUJTdFdldS1GLUgteXRrUFZmOHBxTzg0OXZpMk5SYlkwZzlucENiQQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-16T10:35:05.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e5604490cd69a9f9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Xi Jinping - AP News",
-      "snippet": "Xi Jinping  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DS0lFMF84d0hDeko4UVVkbndGQVhTT1RaX3V3TkNYX0ZtZzg2MlVwV2FNQ1ktdTcxekhERXM2ZHF2RUZMU0lWbg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:32:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_329fb68b48f3c720",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Boots to begin prescribing medical cannabis in UK",
-      "snippet": "Online service will be offered to patients with eligible conditions, in a first for a British high street pharmacy\nBoots is to start prescribing medical cannabis, it has announced, in a first for a UK high street pharmacy.\nThe online servic",
-      "link": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:32:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5b24b78f68775bc8",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Stocks decline on tech sell-off as concerns over the Nvidia fallout persist - AP News",
-      "snippet": "Stocks decline on tech sell-off as concerns over the Nvidia fallout persist  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXdFLTA2eFh1c1k5N2ZnWnBXdkpYX3ZzMkNaUC03SjBXeDlVcHplSm1fUnRnVzJsaGhFb0I2eHp2Si1uaTNRaEotekFyYlZYRVlxdzNydUhEaXZaa0c5dW1ybEp5T2wyWUN2eVhGaTdpdVV5bkRuRDJxQVd0X2wySmFhQXNiaWROVmRJRXdIRDVtSC1CN3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:32:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c968007f68e266c8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Senator accuses US Commerce Department of failing to stem flow of AI chips to China - Reuters",
-      "snippet": "Senator accuses US Commerce Department of failing to stem flow of AI chips to China  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHNHRklwUzFDcEI3SGJYeUxvRlloS25SR2VfUHd3ZldiQUdldUlsQ1JUOUdXWW1QU1FOanlHSGxza3Zqa04yNGQ3clFqcVcxMGkxdWM4cjI2aDE0ZTFKWmdBeWx1NV9QajF1NlhHUjhieUszTHdvZE5kMjBMa3lOTTFmWDF4Mlg5cURTTVh0X1BpRlVxbUpLbHV6T3hzU1FRNFNHVFpHNWlEZ1lkMjRDREFMbkdsRk9nS005Rk1vbmZodw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:31:40.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f43af6de507ddde4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Vladimir Putin - AP News",
-      "snippet": "Vladimir Putin  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yT0hMRW51WnhKX3BYVkctR2lYZXhUME9uVWNCZHlEOFdXMXhjaHBvSjFKVjVqWWdoXzRXdXlvaUx4NmxGQXkxU1kxWmRYdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T10:29:02.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
