@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-17T01:05:07.023Z",
+  "updatedAt": "2026-11-17T01:10:08.973Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.087Z"
+      "lastSuccess": "2026-11-17T01:10:09.517Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.174Z"
+      "lastSuccess": "2026-11-17T01:10:09.022Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.076Z"
+      "lastSuccess": "2026-11-17T01:10:09.040Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.113Z"
+      "lastSuccess": "2026-11-17T01:10:09.444Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.438Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T01:10:09.264Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.135Z"
+      "lastSuccess": "2026-11-17T01:10:09.057Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.123Z"
+      "lastSuccess": "2026-11-17T01:10:09.114Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.277Z"
+      "lastSuccess": "2026-11-17T01:10:09.195Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.119Z"
+      "lastSuccess": "2026-11-17T01:10:09.036Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.122Z"
+      "lastSuccess": "2026-11-17T01:10:09.097Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.235Z"
+      "lastSuccess": "2026-11-17T01:10:09.137Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.162Z"
+      "lastSuccess": "2026-11-17T01:10:09.043Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.216Z"
+      "lastSuccess": "2026-11-17T01:10:09.204Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.202Z"
+      "lastSuccess": "2026-11-17T01:10:09.216Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T01:05:07.301Z"
+      "lastErrorAt": "2026-11-17T01:10:09.213Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.297Z"
+      "lastSuccess": "2026-11-17T01:10:09.200Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.198Z"
+      "lastSuccess": "2026-11-17T01:10:09.165Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.582Z"
+      "lastSuccess": "2026-11-17T01:10:09.397Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.158Z"
+      "lastSuccess": "2026-11-17T01:10:09.178Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.254Z"
+      "lastSuccess": "2026-11-17T01:10:09.294Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.315Z"
+      "lastSuccess": "2026-11-17T01:10:09.270Z"
     },
     "AP": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T01:05:07.340Z"
+      "online": true,
+      "lastSuccess": "2026-11-17T01:10:09.845Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:05:07.543Z"
+      "lastSuccess": "2026-11-17T01:10:09.674Z"
     }
   },
   "items": [
+    {
+      "id": "story_1566f584f47b11a4",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Boy with autism works to help other kids like himself, landing him Time's \"Kid of the Year\"",
+      "snippet": "Nine-year-old Ledger Mann took the initiative to create comfort bags for police to use when searching for lost kids who may have autism or sensory challenges, like himself. Time magazine recognized his efforts and named him \"Kid of the Year",
+      "link": "https://www.cbsnews.com/video/boy-autism-helps-others-times-kid-of-the-year/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T01:01:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4123b6beea678b83",
       "source": "France24",
@@ -106,6 +119,19 @@
       "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
       "imageUrl": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
       "publishedAt": "2026-11-17T00:58:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_238b245bceda12ec",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Bodycam video shows police breaking up massive Virginia house party",
+      "snippet": "A husband and wife in Virginia are facing charges over a wild house party for their teenagers that police say involved underage drinking and fireworks. The couple said it was crashed by hundreds of teens. Jericka Duncan has the body camera ",
+      "link": "https://www.cbsnews.com/video/bodycam-video-shows-police-breaking-up-massive-virginia-house-party/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T00:58:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2373,6 +2399,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5668c7ec7d5fa31c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "College football | Latest News & Updates - AP News",
+      "snippet": "College football | Latest News & Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T21:21:30.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ba496bde535b4ec6",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2655,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T20:50:40.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a80b14cd718b91d0",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "November 17 blackout hoax: How a conspiracy theory went viral around the world",
-      "snippet": "A conspiracy theory claiming a worldwide “blackout” will hit on November 17 has spread across social media, cutting electricity, internet and banking services. The rumour stems from a routine US FEMA emergency alert test, but was amplified ",
-      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
-      "imageUrl": "https://s.france24.com/media/display/4ad0d512-e1ff-11f1-9244-695cb59fade5/w:1024/p:16x9/blackout.png",
-      "publishedAt": "2026-11-16T20:50:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6fd61cdbd4f128d3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Trump says he doesn't take any responsibility for nationwide ground stop",
-      "snippet": "President Trump said Monday that he doesn't take any responsibility for Friday's nationwide ground stop that lasted for hours. CBS News' Olivia Rinaldi, Jared Ochacher and Taurean Small report while former FAA assistant administrator for pu",
-      "link": "https://www.cbsnews.com/video/trump-says-he-doesnt-take-any-responsibility-for-nationwide-ground-stop/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T20:50:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_06713a87646ddbfd",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Pope concludes South America homecoming, reassures faithful after cancer scare",
-      "snippet": "Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. Just a month after undergoing lung cancer surgery, the 71-yea",
-      "link": "https://www.france24.com/en/americas/20261116-pope-concludes-south-america-homecoming-reassures-faithful-after-cancer-scare",
-      "imageUrl": "https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg",
-      "publishedAt": "2026-11-16T20:50:05.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
