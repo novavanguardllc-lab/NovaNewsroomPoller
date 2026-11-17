@@ -1,103 +1,114 @@
 {
-  "updatedAt": "2026-11-17T00:40:09.632Z",
+  "updatedAt": "2026-11-17T00:45:09.172Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.838Z"
+      "lastSuccess": "2026-11-17T00:45:09.219Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.733Z"
+      "lastSuccess": "2026-11-17T00:45:09.415Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.714Z"
+      "lastSuccess": "2026-11-17T00:45:09.234Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.994Z"
+      "lastSuccess": "2026-11-17T00:45:09.338Z"
     },
     "Reuters": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T00:40:10.116Z"
+      "online": true,
+      "lastSuccess": "2026-11-17T00:45:09.291Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.854Z"
+      "lastSuccess": "2026-11-17T00:45:09.232Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.934Z"
+      "lastSuccess": "2026-11-17T00:45:09.353Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.892Z"
+      "lastSuccess": "2026-11-17T00:45:09.420Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.798Z"
+      "lastSuccess": "2026-11-17T00:45:09.272Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.756Z"
+      "lastSuccess": "2026-11-17T00:45:09.253Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.932Z"
+      "lastSuccess": "2026-11-17T00:45:09.342Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.997Z"
+      "lastSuccess": "2026-11-17T00:45:09.356Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:10.014Z"
+      "lastSuccess": "2026-11-17T00:45:09.461Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.955Z"
+      "lastSuccess": "2026-11-17T00:45:09.362Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T00:40:09.937Z"
+      "lastErrorAt": "2026-11-17T00:45:09.684Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:10.038Z"
+      "lastSuccess": "2026-11-17T00:45:09.458Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.920Z"
+      "lastSuccess": "2026-11-17T00:45:09.452Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:10.136Z"
+      "lastSuccess": "2026-11-17T00:45:09.582Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.944Z"
+      "lastSuccess": "2026-11-17T00:45:09.412Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:09.936Z"
+      "lastSuccess": "2026-11-17T00:45:09.472Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:10.076Z"
+      "lastSuccess": "2026-11-17T00:45:09.490Z"
     },
     "AP": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T00:40:10.084Z"
+      "online": true,
+      "lastSuccess": "2026-11-17T00:45:09.606Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T00:40:11.867Z"
+      "lastSuccess": "2026-11-17T00:45:09.802Z"
     }
   },
   "items": [
+    {
+      "id": "story_cec9adc675815990",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Latest details on U.S. bank issues, delays",
+      "snippet": "The U.S. was roiled by another round of tech failures on Monday, this time affecting flights and banks nationwide. Jo Ling Kent has more.",
+      "link": "https://www.cbsnews.com/video/latest-details-us-bank-issues-delays/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T00:39:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_4dd0009e1622fa34",
       "source": "Wash Examiner",
@@ -110,6 +121,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_b72ec2876e056bba",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "UK seeks closer ties with EU after Brexit fail",
+      "snippet": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T00:30:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_c11b8f4649b7f7b4",
@@ -172,6 +196,19 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4805095/appeals-court-colorado-antidiscrimination-law-pronouns/",
       "imageUrl": null,
       "publishedAt": "2026-11-17T00:21:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_52301871255b2458",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+      "snippet": "The country's unresolved Oromia-Somali border dispute fuels renewed violence, displacing thousands.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T00:21:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2127,6 +2164,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_13a9993e57884ae9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Investors cooled on data center stocks in third quarter, filings show - Reuters",
+      "snippet": "Investors cooled on data center stocks in third quarter, filings show  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFpuNnJJVTJrLVZPRnR1Xzg0R2RVSU1EYzdGNU16VHdDbW9XUlhqX0dLbDNtVDZocVlXMU5xdHNhYUtLOGU4QTM5WHo1bFpuSmRzU2hqYmRnZTFXMW1LUlZYWDBOUVpGZ3lhY2dCS1RyendacjdzdjNPZVd4MHVObExnVTlneFFmSC1VdEd1b202VVphY3RadmhFT1V0Z1l2VmdWdnJBSWRwUlpLQWxtY2FpdHRoWGRLU1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T21:13:43.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2f6fa16debcf22ab",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2645,58 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_fd643a6f50385cfc",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Ashley Moody suggests NYPD officers from disbanded unit join Florida’s law enforcement agencies",
-      "snippet": "Sen. Ashley Moody (R-FL) suggested Florida’s law enforcement agencies as an alternative for officers who were part of a New York City Police Department unit that Mayor Zohran Mamdani cut from the force on Monday. Mamdani disbanded the NYPD’",
-      "link": "https://www.washingtonexaminer.com/news/crime/4804885/ashley-moody-nypd-disbanded-unit-florida/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T20:28:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ac2689718079c522",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Should Ukraine trade Donbas for NATO membership?",
-      "snippet": "President Volodymyr Zelensky asserting that the United States has asked him about a straight-up swap Russia gets the Donbas, the rest of Ukraine gets NATO membership, a guarantee against Moscow later having a second go and annexing the enti",
-      "link": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership",
-      "imageUrl": "https://s.france24.com/media/display/5dbb5ee6-e1ef-11f1-8f0e-f71d22e7fea9/w:1024/p:16x9/Anglais-2026-11-16T18-54-18-039Z.jpg",
-      "publishedAt": "2026-11-16T20:27:06.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d93c19aac6874e98",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Trump Asia trip live updates: Logistical hurdles with a Trump-Kim Jong Un meeting",
-      "snippet": "Trump will participate in the first-ever trilateral meeting with Putin and Xi.",
-      "link": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T20:26:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_536d99028cb4e02c",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Suspect in custody after bomb found at Illinois ethanol plant",
-      "snippet": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation\nAuthorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into c",
-      "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T20:25:06.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
