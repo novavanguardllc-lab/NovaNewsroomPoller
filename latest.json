@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-17T09:30:12.594Z",
+  "updatedAt": "2026-11-17T09:35:07.221Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.696Z"
+      "lastSuccess": "2026-11-17T09:35:07.273Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.708Z"
+      "lastSuccess": "2026-11-17T09:35:07.296Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.657Z"
+      "lastSuccess": "2026-11-17T09:35:07.354Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.776Z"
+      "lastSuccess": "2026-11-17T09:35:07.401Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.819Z"
+      "lastSuccess": "2026-11-17T09:35:07.419Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.865Z"
+      "lastSuccess": "2026-11-17T09:35:07.398Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.860Z"
+      "lastSuccess": "2026-11-17T09:35:07.416Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.704Z"
+      "lastSuccess": "2026-11-17T09:35:07.358Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.779Z"
+      "lastSuccess": "2026-11-17T09:35:07.317Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T09:30:12.880Z"
+      "lastErrorAt": "2026-11-17T09:35:07.420Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.761Z"
+      "lastSuccess": "2026-11-17T09:35:07.378Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.855Z"
+      "lastSuccess": "2026-11-17T09:35:07.459Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.817Z"
+      "lastSuccess": "2026-11-17T09:35:07.428Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.874Z"
+      "lastSuccess": "2026-11-17T09:35:07.464Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.955Z"
+      "lastSuccess": "2026-11-17T09:35:07.598Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.877Z"
+      "lastSuccess": "2026-11-17T09:35:07.493Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.895Z"
+      "lastSuccess": "2026-11-17T09:35:07.498Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.680Z"
+      "lastSuccess": "2026-11-17T09:35:07.705Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.915Z"
+      "lastSuccess": "2026-11-17T09:35:09.117Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.797Z"
+      "lastSuccess": "2026-11-17T09:35:07.394Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.862Z"
+      "lastSuccess": "2026-11-17T09:35:07.476Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.969Z"
+      "lastSuccess": "2026-11-17T09:35:07.617Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:30:12.701Z"
+      "lastSuccess": "2026-11-17T09:35:07.364Z"
     }
   },
   "items": [
+    {
+      "id": "story_85a26c9976447668",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+      "snippet": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:29:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_2c71b4b4f3f8f451",
       "source": "Al Jazeera",
@@ -508,6 +521,19 @@
       "link": "https://www.upi.com/Top_News/World-News/2026/11/17/Canada-Carney-Xi-expand-trade-deal/5951794899547/",
       "imageUrl": "https://cdnph.upi.com/ph/st/th/5951794899547/2026/i/17949011373653/v1.5/Canada-China-expand-trade-deal-as-PM-Carney-visits-Shenzhen.jpg",
       "publishedAt": "2026-11-17T07:47:22.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d8b6a0d102c6ab0c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Bahrain says it intercepts Iranian air attacks, IRGC says it targets US radar - Reuters",
+      "snippet": "Bahrain says it intercepts Iranian air attacks, IRGC says it targets US radar  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXAzM1RQRHF5amo0TVJ3VVV4d0d4cnNHVUhFSE41QnlpSGJ4UEhXc1ZIeUhKRzlzcVRRYWhxajZiNF84MWlPb29LazZhT2g5MnJUZlZZREF6N1FLTjZOYWFQZnZjLWdCMzN5OVZIcWVJWkc2RGVrZmRxT0l5LV83YUdlakdRaFd4SDI0MURvUFVQdXh6cUktbmJyeExSRmp1NVZlWWJ6ZHVCVUdUZEd2Z1NMLUNCcU9SSTIxMGRQMnNUX1Rtckp6ZVRn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T07:47:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2666,32 +2692,6 @@
       "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
       "imageUrl": null,
       "publishedAt": "2026-11-17T00:59:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4123b6beea678b83",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Russian strikes hit two key bridges in Kyiv, disrupting water and power supplies",
-      "snippet": "Russian forces struck two major bridges crossing the Dnipro River in Kyiv late Monday, damaging critical infrastructure and causing water and power cuts in parts of the Ukrainian capital, Mayor Vitali Klitschko said. The attacks came as Mos",
-      "link": "https://www.france24.com/en/europe/20261117-russian-strikes-hit-two-key-bridges-in-kyiv-disrupting-water-and-power-supplies-ukraine",
-      "imageUrl": "https://s.france24.com/media/display/d2e45bd2-e221-11f1-8e06-5f54d898a954/w:1024/p:16x9/AP26319581736584.jpg",
-      "publishedAt": "2026-11-17T00:58:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_238b245bceda12ec",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Bodycam video shows police breaking up massive Virginia house party",
-      "snippet": "A husband and wife in Virginia are facing charges over a wild house party for their teenagers that police say involved underage drinking and fireworks. The couple said it was crashed by hundreds of teens. Jericka Duncan has the body camera ",
-      "link": "https://www.cbsnews.com/video/bodycam-video-shows-police-breaking-up-massive-virginia-house-party/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T00:58:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
