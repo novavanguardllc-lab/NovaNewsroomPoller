@@ -1,102 +1,155 @@
 {
-  "updatedAt": "2026-11-17T03:00:14.993Z",
+  "updatedAt": "2026-11-17T03:05:06.372Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.031Z"
+      "lastSuccess": "2026-11-17T03:05:06.411Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.209Z"
+      "lastSuccess": "2026-11-17T03:05:06.529Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.024Z"
+      "lastSuccess": "2026-11-17T03:05:06.422Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.140Z"
+      "lastSuccess": "2026-11-17T03:05:06.565Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.041Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T03:05:06.700Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.206Z"
+      "lastSuccess": "2026-11-17T03:05:06.532Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.083Z"
+      "lastSuccess": "2026-11-17T03:05:06.546Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.214Z"
+      "lastSuccess": "2026-11-17T03:05:06.566Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.072Z"
+      "lastSuccess": "2026-11-17T03:05:06.526Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.049Z"
+      "lastSuccess": "2026-11-17T03:05:06.442Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.051Z"
+      "lastSuccess": "2026-11-17T03:05:06.548Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.105Z"
+      "lastSuccess": "2026-11-17T03:05:06.696Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.242Z"
+      "lastSuccess": "2026-11-17T03:05:06.584Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.202Z"
+      "lastSuccess": "2026-11-17T03:05:06.571Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T03:00:15.250Z"
+      "lastErrorAt": "2026-11-17T03:05:06.616Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.222Z"
+      "lastSuccess": "2026-11-17T03:05:06.596Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.190Z"
+      "lastSuccess": "2026-11-17T03:05:06.487Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.422Z"
+      "lastSuccess": "2026-11-17T03:05:06.784Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.228Z"
+      "lastSuccess": "2026-11-17T03:05:06.592Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.262Z"
+      "lastSuccess": "2026-11-17T03:05:06.586Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.285Z"
+      "lastSuccess": "2026-11-17T03:05:06.666Z"
     },
     "AP": {
       "online": false,
       "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T03:00:15.256Z"
+      "lastErrorAt": "2026-11-17T03:05:06.790Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T03:00:15.528Z"
+      "lastSuccess": "2026-11-17T03:05:06.969Z"
     }
   },
   "items": [
+    {
+      "id": "story_8e41bf9fe90d951f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "3 killed when minivan crashes into Los Angeles food stand",
+      "snippet": "At least three people were killed, and two others were severely injured when a minivan crashed into a food stand near a Metro bus stop in North Hollywood.",
+      "link": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T03:00:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_119ef95390dd58cf",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran",
+      "snippet": "JD Vance on Monday said he and President Donald Trump are totally aligned on the war in Iran after the vice president this month attributed Republicans’ electoral beatdown in the midterm elections to voter frustrations with the conflict.",
+      "link": "https://www.nbcnews.com/politics/jd-vance/vance-says-no-daylight-trump-iran-war-rcna609681",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T02:59:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_72343f36c8ad8fb8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "American basketball player’s Nigeria trip ends in arrest after officials spot him abandoning suspicious bags",
+      "snippet": "Nigerian officials say an American basketball player abandoned two checked bags containing 75 pounds of cannabis before officers arrested him in a parking lot.",
+      "link": "https://www.foxnews.com/world/american-basketball-players-nigeria-trip-ends-arrest-officials-spot-abandoning-suspicious-bags",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T02:57:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fbdd1f57ef6ed209",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'",
+      "snippet": "Rep. Ro Khanna proposed a $1,700 refund check for every American family to cover higher gas, food and electricity bills tied to the war in Iran.",
+      "link": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T02:55:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d196537fb2b28078",
       "source": "Fox News",
@@ -2642,58 +2695,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-16T22:06:51.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2f3e3028b5a9d2c9",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "California sues OpenAI over hacking risks",
-      "snippet": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
-      "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T22:06:22.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_b64898284b7019d2",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-      "snippet": "As Europe's ​defence ministries look to limit dependency on American technology and major software company Palantir Technologies for critical military functions, a growing number of firms within the region are competing for their business. ",
-      "link": "https://www.france24.com/en/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence",
-      "imageUrl": "https://s.france24.com/media/display/3907b1e8-e209-11f1-b453-29048b396e03/w:1024/p:16x9/EN-20261116-223115-224331-CS.jpg",
-      "publishedAt": "2026-11-16T22:05:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_840e8eb0f24a6823",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Germany thrash Netherlands to book quarterfinal spot",
-      "snippet": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
-      "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T22:04:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c2bf10ae6da6b30a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Why Robert Pattinson Could Be a Great James Bond",
-      "snippet": "Robert Pattinson’s gift for portraying petulant losers would seem at odds with the requirements for 007. But the actor may be just what the franchise needs.",
-      "link": "https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T22:03:37.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
