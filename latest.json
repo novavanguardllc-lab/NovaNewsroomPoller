@@ -1,102 +1,116 @@
 {
-  "updatedAt": "2026-11-17T01:45:08.744Z",
+  "updatedAt": "2026-11-17T01:50:09.041Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.177Z"
+      "lastSuccess": "2026-11-17T01:50:09.114Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.819Z"
+      "lastSuccess": "2026-11-17T01:50:09.136Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.805Z"
+      "lastSuccess": "2026-11-17T01:50:09.097Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.920Z"
+      "lastSuccess": "2026-11-17T01:50:09.160Z"
     },
     "Reuters": {
       "online": false,
       "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T01:45:09.277Z"
+      "lastErrorAt": "2026-11-17T01:50:09.317Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.958Z"
+      "lastSuccess": "2026-11-17T01:50:09.179Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.977Z"
+      "lastSuccess": "2026-11-17T01:50:09.258Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.138Z"
+      "lastSuccess": "2026-11-17T01:50:09.261Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.055Z"
+      "lastSuccess": "2026-11-17T01:50:09.202Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.938Z"
+      "lastSuccess": "2026-11-17T01:50:09.206Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.057Z"
+      "lastSuccess": "2026-11-17T01:50:09.419Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:08.980Z"
+      "lastSuccess": "2026-11-17T01:50:09.363Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.197Z"
+      "lastSuccess": "2026-11-17T01:50:09.277Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.077Z"
+      "lastSuccess": "2026-11-17T01:50:09.301Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T01:45:09.300Z"
+      "lastErrorAt": "2026-11-17T01:50:09.488Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.297Z"
+      "lastSuccess": "2026-11-17T01:50:09.305Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.124Z"
+      "lastSuccess": "2026-11-17T01:50:09.297Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.275Z"
+      "lastSuccess": "2026-11-17T01:50:09.406Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.020Z"
+      "lastSuccess": "2026-11-17T01:50:09.242Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.141Z"
+      "lastSuccess": "2026-11-17T01:50:09.263Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.317Z"
+      "lastSuccess": "2026-11-17T01:50:09.330Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.285Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T01:50:09.438Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T01:45:09.535Z"
+      "lastSuccess": "2026-11-17T01:50:09.685Z"
     }
   },
   "items": [
+    {
+      "id": "story_a8851e3ed78b6aeb",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Medical students should ‘learn the hard way,’ AI startup CEO says",
+      "snippet": "Cognitive offloading is “really acute,” OpenEvidence CEO Daniel Nadler said at Semafor’s Silicon Valley & The World.",
+      "link": "https://www.semafor.com/article/11/16/2026/medical-students-should-learn-the-hard-way-ai-startup-ceo-says",
+      "imageUrl": "https://img.semafor.com/5d4949af82448d2eba9ee55530274847e6c456d9-932x550.png",
+      "publishedAt": "2026-11-17T01:48:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8106e514c2b35c6b",
       "source": "France24",
@@ -2681,19 +2695,6 @@
       "imageUrl": "https://s.france24.com/media/display/f292a3e4-e203-11f1-abf6-3f371022a770/w:1024/p:16x9/8ae939012046ee76762d8ea8784d4673a57d1b91.jpg",
       "publishedAt": "2026-11-16T21:23:21.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5668c7ec7d5fa31c",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "College football | Latest News & Updates - AP News",
-      "snippet": "College football | Latest News & Updates  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBscF9PZzh5MHFsTGlQMzFZMkRHaDdBbmdwSFhoMGhRb0pwZzB2b2FDNXZNcUlLVnl6WlpTWFVsRXNmQlphSFd1WTdPSWQ0VUlr?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T21:21:30.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
