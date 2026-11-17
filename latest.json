@@ -1,102 +1,129 @@
 {
-  "updatedAt": "2026-11-17T07:20:08.972Z",
+  "updatedAt": "2026-11-17T07:25:06.871Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.129Z"
+      "lastSuccess": "2026-11-17T07:25:06.991Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.263Z"
+      "lastSuccess": "2026-11-17T07:25:07.087Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.259Z"
+      "lastSuccess": "2026-11-17T07:25:07.089Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.169Z"
+      "lastSuccess": "2026-11-17T07:25:07.033Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.472Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T07:25:07.332Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.204Z"
+      "lastSuccess": "2026-11-17T07:25:07.182Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.084Z"
+      "lastSuccess": "2026-11-17T07:25:07.041Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.231Z"
+      "lastSuccess": "2026-11-17T07:25:07.202Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.191Z"
+      "lastSuccess": "2026-11-17T07:25:07.069Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.226Z"
+      "lastSuccess": "2026-11-17T07:25:07.084Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.071Z"
+      "lastSuccess": "2026-11-17T07:25:06.962Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.081Z"
+      "lastSuccess": "2026-11-17T07:25:07.329Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.276Z"
+      "lastSuccess": "2026-11-17T07:25:07.326Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.212Z"
+      "lastSuccess": "2026-11-17T07:25:07.110Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T07:20:09.281Z"
+      "lastErrorAt": "2026-11-17T07:25:07.334Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.296Z"
+      "lastSuccess": "2026-11-17T07:25:07.347Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.257Z"
+      "lastSuccess": "2026-11-17T07:25:07.170Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.455Z"
+      "lastSuccess": "2026-11-17T07:25:07.319Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.291Z"
+      "lastSuccess": "2026-11-17T07:25:07.245Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.270Z"
+      "lastSuccess": "2026-11-17T07:25:07.190Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.381Z"
+      "lastSuccess": "2026-11-17T07:25:07.354Z"
     },
     "AP": {
       "online": false,
       "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T07:20:09.460Z"
+      "lastErrorAt": "2026-11-17T07:25:07.332Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:20:09.345Z"
+      "lastSuccess": "2026-11-17T07:25:07.430Z"
     }
   },
   "items": [
+    {
+      "id": "story_a86706e3346d8033",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Live: France braces for new day of protests as unions call for nationwide strike",
+      "snippet": "France braced for another day of protests Tuesday as unions called for a nationwide strike by public sector workers in a bid to secure pay rises. Youth organisations and Yellow Vest activists are also set to join the demonstrations. Follow ",
+      "link": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
+      "imageUrl": "https://s.france24.com/media/display/0525ee54-e253-11f1-b211-695cb59fade5/w:1024/p:16x9/AP26304574779724.jpg",
+      "publishedAt": "2026-11-17T07:16:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ec207f4236748f6d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
+      "snippet": "Wage growth falls to to 3.5% in September, as ministers examine how best to get young people into work\n\nMilburn urges Burnham to spend billions on young people\n\nWho are the Neets? UK youth job crisis in five charts\n\nThe UK unemployment rate",
+      "link": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T07:16:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_874ae443859aba3c",
       "source": "DW",
@@ -1450,6 +1477,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_bbc91e8a7acd7766",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "French cricket 'dying' as federation crisis and chaos deepens",
+      "snippet": "Cricket in France is at risk of disappearing altogether, less than two years before the sport makes its long-awaited Olympic return.",
+      "link": "https://www.france24.com/en/live-news/20261117-french-cricket-dying-as-federation-crisis-and-chaos-deepens",
+      "imageUrl": "https://s.france24.com/media/display/b6986e2c-e227-11f1-a74f-f71d22e7fea9/w:1024/p:16x9/30196fd7fd358c21910cba0e0609223f1f607d33.jpg",
+      "publishedAt": "2026-11-17T01:39:23.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_8106e514c2b35c6b",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2654,45 +2694,6 @@
       "link": "https://www.washingtonexaminer.com/policy/defense/4805326/iran-publishes-footage-april-shootdown-f15e-fireball-triggered-rescue-operation/",
       "imageUrl": null,
       "publishedAt": "2026-11-16T23:40:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_08955c03006ab6e3",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Giants release returner Charlie Jones after fumbles and sign Xavier Gipson - AP News",
-      "snippet": "Giants release returner Charlie Jones after fumbles and sign Xavier Gipson  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDdKRWdVUFNqMG0wRG9DVHRXNEFZMEU1YUlCaTl6VzJKakd3SEtWS3VnLXYybzVScld4TktCbUlpQnNIdUhXcnFVVlVuYmZOOU9KT21NWHdhdFQ2VnpOaXdETkVqaE5wTzNsVjZScDYwZTFVbUNFOXU0WWh4V3FoTXNRTmZscUdPbG1Oc0kzelNtLTRJVWYwYmZR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:40:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4ca20bea7f9b525a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Details on widespread outages reported by major U.S. banks",
-      "snippet": "Customers at Bank of America, JPMorgan Chase and other major banks reported widespread service outages Monday. CBS News business contributor Ann Berry has more.",
-      "link": "https://www.cbsnews.com/video/details-on-widespread-outages-reported-by-major-us-banks/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:39:39.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_5499d2355304fe61",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
-      "snippet": "Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.",
-      "link": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:39:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
