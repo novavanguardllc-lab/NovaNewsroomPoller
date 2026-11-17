@@ -1,103 +1,115 @@
 {
-  "updatedAt": "2026-11-17T07:25:06.871Z",
+  "updatedAt": "2026-11-17T07:30:13.226Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:06.991Z"
+      "lastSuccess": "2026-11-17T07:30:13.627Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.087Z"
+      "lastSuccess": "2026-11-17T07:30:13.845Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.089Z"
+      "lastSuccess": "2026-11-17T07:30:13.461Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.033Z"
+      "lastSuccess": "2026-11-17T07:30:13.567Z"
     },
     "Reuters": {
       "online": false,
       "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T07:25:07.332Z"
+      "lastErrorAt": "2026-11-17T07:30:13.887Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.182Z"
+      "lastSuccess": "2026-11-17T07:30:13.665Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.041Z"
+      "lastSuccess": "2026-11-17T07:30:14.047Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.202Z"
+      "lastSuccess": "2026-11-17T07:30:13.987Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.069Z"
+      "lastSuccess": "2026-11-17T07:30:13.747Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.084Z"
+      "lastSuccess": "2026-11-17T07:30:13.445Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:06.962Z"
+      "lastSuccess": "2026-11-17T07:30:13.704Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.329Z"
+      "lastSuccess": "2026-11-17T07:30:13.843Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.326Z"
+      "lastSuccess": "2026-11-17T07:30:14.042Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.110Z"
+      "lastSuccess": "2026-11-17T07:30:13.981Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T07:25:07.334Z"
+      "lastErrorAt": "2026-11-17T07:30:14.086Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.347Z"
+      "lastSuccess": "2026-11-17T07:30:14.081Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.170Z"
+      "lastSuccess": "2026-11-17T07:30:13.826Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.319Z"
+      "lastSuccess": "2026-11-17T07:30:14.164Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.245Z"
+      "lastSuccess": "2026-11-17T07:30:13.964Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.190Z"
+      "lastSuccess": "2026-11-17T07:30:13.983Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.354Z"
+      "lastSuccess": "2026-11-17T07:30:14.215Z"
     },
     "AP": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-17T07:25:07.332Z"
+      "online": true,
+      "lastSuccess": "2026-11-17T07:30:13.589Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T07:25:07.430Z"
+      "lastSuccess": "2026-11-17T07:30:14.181Z"
     }
   },
   "items": [
+    {
+      "id": "story_81ff25122bd9012e",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Portugal coach Jorge Jesus responds to criticism from Ronaldo’s mother",
+      "snippet": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
+      "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T07:21:25.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a86706e3346d8033",
       "source": "France24",
@@ -238,6 +250,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-17T06:37:35.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8e60dcb017a62dd5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump is to arrive in the Philippines to talk trade and seek respite from troubles at home - AP News",
+      "snippet": "Trump is to arrive in the Philippines to talk trade and seek respite from troubles at home  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNThOYXI2SmpKNVh5LU05MjAyN2F2YjJHbUJJeG1IOHhWOTFPQVp2U3VUTVdhcHUtVkpUWDhKb3ZOSnFCZE0wNVAtZ1NmOUMyaERmZ3RWTDF6TmFzQ2pSWkpPZVhjeUlwTnp2M1dBRW1RbFBIYUhHTUduczlyQ0JlRHA4bFFfbHVad3dZNnc3UzFGb21UQUk4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T06:28:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1490,6 +1515,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_c50cec7a0e795106",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "French cricket 'dying' as funding scandal prompts federation crisis",
+      "snippet": "France's national cricket organisation is on the verge of total collapse three years after an explosive FRANCE 24 investigation revealed accusations that the body was faking matches to claim funds from the International Cricket Council.",
+      "link": "https://www.france24.com/en/france/20261117-french-cricket-dying-as-funding-scandal-prompts-federation-crisis",
+      "imageUrl": "https://s.france24.com/media/display/b6986e2c-e227-11f1-a74f-f71d22e7fea9/w:1024/p:16x9/30196fd7fd358c21910cba0e0609223f1f607d33.jpg",
+      "publishedAt": "2026-11-17T01:39:23.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_8106e514c2b35c6b",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2655,45 +2693,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-16T23:42:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7bbdfd0a5ea3ff22",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Russian strikes hit two bridges in Kyiv, cause water, power cuts, mayor says - Reuters",
-      "snippet": "Russian strikes hit two bridges in Kyiv, cause water, power cuts, mayor says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEEyb1UxS0hVQ1J2dDRzdTMxMFUwaXFhV1lNclI1bml5Q2VMbUZWU0pFaW1FNTh6WllSaE1RSzFDa0cwQUZzSDlUSmh1QnZyVFl5MWRyMUNySnZjOFloMDRNRXc3X2lqcEEzenp5Z05jd2hxX3R1bHBZVGl6UThrMzNrVXpjVGtnWXlvOVkwU3BMNnQ3bUxHNDVBbzA2bVdVRjdhZEhNNlVFR2E3akdzUVAzMHBxUHlnby1xQmln?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:41:23.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_19c13e69f57a70f2",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "U.S. works to close loophole that let China access advanced AI chips",
-      "snippet": "The Trump administration announced new rules today to further restrict China's access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce Department allowed loopholes for chip exports. The rule put",
-      "link": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:40:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6905bf8e5841f927",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Iran publishes footage of April shootdown of F-15 for first time",
-      "snippet": "Iranian state media published the first footage of the April 3 shootdown of an American F-15E Strike Eagle, a shootdown that triggered one of the largest rescue operations in U.S. history. On Monday, state media released a 35-second clip sh",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4805326/iran-publishes-footage-april-shootdown-f15e-fireball-triggered-rescue-operation/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:40:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
