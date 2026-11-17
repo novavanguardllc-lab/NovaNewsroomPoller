@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-17T02:15:08.704Z",
+  "updatedAt": "2026-11-17T02:20:09.063Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.875Z"
+      "lastSuccess": "2026-11-17T02:20:09.232Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.771Z"
+      "lastSuccess": "2026-11-17T02:20:09.375Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.758Z"
+      "lastSuccess": "2026-11-17T02:20:09.118Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.935Z"
+      "lastSuccess": "2026-11-17T02:20:09.371Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.249Z"
+      "lastSuccess": "2026-11-17T02:20:09.314Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.995Z"
+      "lastSuccess": "2026-11-17T02:20:09.475Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.016Z"
+      "lastSuccess": "2026-11-17T02:20:09.513Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.051Z"
+      "lastSuccess": "2026-11-17T02:20:09.518Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.991Z"
+      "lastSuccess": "2026-11-17T02:20:09.496Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:08.954Z"
+      "lastSuccess": "2026-11-17T02:20:09.271Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.043Z"
+      "lastSuccess": "2026-11-17T02:20:09.619Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.057Z"
+      "lastSuccess": "2026-11-17T02:20:09.453Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.111Z"
+      "lastSuccess": "2026-11-17T02:20:09.531Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.041Z"
+      "lastSuccess": "2026-11-17T02:20:09.554Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T02:15:09.235Z"
+      "lastErrorAt": "2026-11-17T02:20:09.573Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.097Z"
+      "lastSuccess": "2026-11-17T02:20:09.592Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.090Z"
+      "lastSuccess": "2026-11-17T02:20:09.434Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.218Z"
+      "lastSuccess": "2026-11-17T02:20:09.794Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.037Z"
+      "lastSuccess": "2026-11-17T02:20:09.538Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.055Z"
+      "lastSuccess": "2026-11-17T02:20:09.617Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.235Z"
+      "lastSuccess": "2026-11-17T02:20:09.645Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.153Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T02:20:09.499Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T02:15:09.312Z"
+      "lastSuccess": "2026-11-17T02:20:10.043Z"
     }
   },
   "items": [
+    {
+      "id": "story_38484c93ecc78e99",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Singapore discussing effect of new chip rules with US, minister says",
+      "snippet": "Josephine Teo told Semafor’s Silicon Valley & The World she’s in touch with the US State Department.",
+      "link": "https://www.semafor.com/article/11/16/2026/singapore-working-to-gauge-effect-of-new-us-chip-rules-minister-says",
+      "imageUrl": "https://img.semafor.com/573c18cbfc56c80670faa49a207165ccaec6a507-5000x3335.jpg",
+      "publishedAt": "2026-11-17T02:16:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_bd988becd4d555d6",
       "source": "CBS News",
@@ -2679,19 +2693,6 @@
       "link": "https://www.foxnews.com/entertainment/dj-john-summits-tour-bus-reportedly-involved-fatal-crash",
       "imageUrl": null,
       "publishedAt": "2026-11-16T21:38:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c8d01b67dfb88167",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-      "snippet": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T21:35:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
