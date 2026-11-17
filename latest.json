@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-17T06:40:09.894Z",
+  "updatedAt": "2026-11-17T06:45:08.696Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.932Z"
+      "lastSuccess": "2026-11-17T06:45:08.748Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.952Z"
+      "lastSuccess": "2026-11-17T06:45:08.755Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.950Z"
+      "lastSuccess": "2026-11-17T06:45:08.848Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.943Z"
+      "lastSuccess": "2026-11-17T06:45:08.737Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.316Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T06:45:09.053Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.019Z"
+      "lastSuccess": "2026-11-17T06:45:08.754Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.995Z"
+      "lastSuccess": "2026-11-17T06:45:08.842Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.014Z"
+      "lastSuccess": "2026-11-17T06:45:08.893Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.074Z"
+      "lastSuccess": "2026-11-17T06:45:08.902Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.956Z"
+      "lastSuccess": "2026-11-17T06:45:08.781Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.998Z"
+      "lastSuccess": "2026-11-17T06:45:08.878Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.079Z"
+      "lastSuccess": "2026-11-17T06:45:08.839Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.083Z"
+      "lastSuccess": "2026-11-17T06:45:08.917Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.062Z"
+      "lastSuccess": "2026-11-17T06:45:08.887Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T06:40:10.150Z"
+      "lastErrorAt": "2026-11-17T06:45:08.960Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.158Z"
+      "lastSuccess": "2026-11-17T06:45:08.943Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.105Z"
+      "lastSuccess": "2026-11-17T06:45:08.873Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.148Z"
+      "lastSuccess": "2026-11-17T06:45:09.002Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.057Z"
+      "lastSuccess": "2026-11-17T06:45:08.835Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.370Z"
+      "lastSuccess": "2026-11-17T06:45:08.875Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.176Z"
+      "lastSuccess": "2026-11-17T06:45:09.032Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:09.975Z"
+      "lastSuccess": "2026-11-17T06:45:08.801Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:40:10.631Z"
+      "lastSuccess": "2026-11-17T06:45:09.232Z"
     }
   },
   "items": [
+    {
+      "id": "story_3d9092a38487f70d",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "New mass protests expected in France Tuesday as presidential election approaches",
+      "snippet": "Unions in France are calling for a strike Tuesday to demand wage increases, with students also expected to join. With under five months to go before the presidential election, FRANCE 24's Monte Francis asks Ariane Bogain, Senior Lecturer in",
+      "link": "https://www.france24.com/en/new-mass-protests-expected-france-tuesday-presidential-election-approaches",
+      "imageUrl": "https://s.france24.com/media/display/8dab9a30-e20d-11f1-b0c0-5f54d898a954/w:1024/p:16x9/EN-20261116-213120-214015-CS.jpg",
+      "publishedAt": "2026-11-17T06:41:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_cb0c5eb2fbafeb96",
       "source": "Guardian",
@@ -2679,19 +2693,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-16T23:25:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_15c804eaa6424c82",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "'It's close to bulletproof' doctor says of MMR vaccine as measles cases rise",
-      "snippet": "Global health authorities are expected to announce that the U.S. has lost its status as a country where measles is eliminated, a public health milestone it achieved 26 years ago. This past year, the number of cases in the U.S. doubled, maki",
-      "link": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:25:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
