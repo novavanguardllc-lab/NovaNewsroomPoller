@@ -1,101 +1,166 @@
 {
-  "updatedAt": "2026-11-17T09:55:06.721Z",
+  "updatedAt": "2026-11-17T10:00:14.769Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.759Z"
+      "lastSuccess": "2026-11-17T10:00:14.811Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.783Z"
+      "lastSuccess": "2026-11-17T10:00:14.951Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.778Z"
+      "lastSuccess": "2026-11-17T10:00:14.837Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.952Z"
+      "lastSuccess": "2026-11-17T10:00:14.882Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.940Z"
+      "lastSuccess": "2026-11-17T10:00:15.013Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:07.073Z"
+      "lastSuccess": "2026-11-17T10:00:15.032Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.974Z"
+      "lastSuccess": "2026-11-17T10:00:14.960Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.833Z"
+      "lastSuccess": "2026-11-17T10:00:14.849Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.780Z"
+      "lastSuccess": "2026-11-17T10:00:14.953Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T09:55:06.979Z"
+      "lastErrorAt": "2026-11-17T10:00:15.021Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.821Z"
+      "lastSuccess": "2026-11-17T10:00:14.991Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.938Z"
+      "lastSuccess": "2026-11-17T10:00:14.880Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.892Z"
+      "lastSuccess": "2026-11-17T10:00:14.998Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.981Z"
+      "lastSuccess": "2026-11-17T10:00:15.136Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:07.070Z"
+      "lastSuccess": "2026-11-17T10:00:15.134Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.990Z"
+      "lastSuccess": "2026-11-17T10:00:15.045Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.999Z"
+      "lastSuccess": "2026-11-17T10:00:15.020Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:07.164Z"
+      "lastSuccess": "2026-11-17T10:00:14.819Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:07.016Z"
+      "lastSuccess": "2026-11-17T10:00:15.083Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.955Z"
+      "lastSuccess": "2026-11-17T10:00:14.893Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.854Z"
+      "lastSuccess": "2026-11-17T10:00:14.933Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.994Z"
+      "lastSuccess": "2026-11-17T10:00:15.088Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-17T09:55:06.812Z"
+      "lastSuccess": "2026-11-17T10:00:15.261Z"
     }
   },
   "items": [
+    {
+      "id": "story_cf7d471cbf203e50",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "snippet": "The attacks, far from the front lines, forced the only bridge between Russia and the occupied Crimean Peninsula to close. Traffic on two bridges in Kyiv was also stopped.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:55:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_bf00305940fba7f7",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
+      "snippet": "Afghan women risk their lives to pursue their dreams, despite strict Taliban restrictions.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:53:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1c7792155df00109",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Powering towns on pig manure: How Denmark has transformed energy generation",
+      "snippet": "Pigs are big business in Denmark. Now their waste is being turned into biogas, which powers the national grid.",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:51:02.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3ed305e1ffb46b51",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
+      "snippet": "Ukraine's forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow's forces, meanwhile, fired ballistic missiles and drones at Kyiv.",
+      "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:50:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e390852b202c9490",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Buttigieg trashes Duffy’s ground stop response, but his DOT failures doom his 2028 bid",
+      "snippet": "Pete Buttigieg's criticism of Sean Duffy's airline ground stop response is backfiring, reviving scrutiny of his supply chain absence and #WheresPete era.",
+      "link": "https://www.foxnews.com/opinion/buttigieg-trashes-duffys-ground-stop-response-dot-failures-doom-2028-bid",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:50:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_df1e9aa4a2755ead",
       "source": "Fox News",
@@ -331,6 +396,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9ba25bb2821d0a6e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says - Reuters",
+      "snippet": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T08:42:18.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_ad4dccd65a3607c4",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -560,6 +638,19 @@
       "link": "https://www.theguardian.com/business/2026/nov/17/waitrose-christmas-ad-launch-keira-knightley",
       "imageUrl": null,
       "publishedAt": "2026-11-17T08:00:07.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b446843f5d4bf1a5",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Xi and Carney call for deeper ties as Canada looks beyond US for trade",
+      "snippet": "The leaders of China and Canada have called for deeper ties as Ottawa navigates strained relations with the United States and seeks closer cooperation with Beijing",
+      "link": "https://abcnews.com/Business/wireStory/xi-carney-call-deeper-ties-canada-us-trade-138199624",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T07:57:49.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -833,6 +924,19 @@
       "link": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
       "imageUrl": null,
       "publishedAt": "2026-11-17T07:02:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a65ee405d333d867",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Body of Melbourne Cup horse found dumped in Sydney skip bin",
+      "snippet": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T07:01:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2588,110 +2692,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-17T01:26:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9d8e5b6ac78ffc25",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit - Reuters",
-      "snippet": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0l1bEVvMnNwMHJqM01iVWVDR2JJQmRvaU51TmJQdGRLVnVKUENDTWlLTW5wVEdSVG5uTFEtYktLMUlDWjU4ZXJ3U0ROcjZtMEZNVlZCZFBiMTNGTldnMVBEX09UMkhLS0pQSlVqMmlXMTllMGdxZ3BsU2xrM1lvU0JDWHdSYzh3QjJhRVFUc3N2YW5xLUpXOGNWdG10cTM5R3BYNWtjLTNFN01oaGo2UzVvRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:26:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_ceb243c34ec91325",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Raye and Rosalía lead 2027 Grammy nominations",
-      "snippet": "The Grammy nominations were announced on Monday, and Raye led the charge with 11 nods. She's up for record and song of the year for \"Where Is My Husband\" and album of the year for \"This Music May Contain Hope.\" Entertainment Tonight corresp",
-      "link": "https://www.cbsnews.com/video/raye-and-rosala-lead-2027-grammy-nominations/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:24:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_169201a7e678016c",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "OpenAI CFO says latest funding round was unplanned, prompted by news report ",
-      "snippet": "Sarah Friar said at Semafor’s Silicon Valley & The World that the frontier lab’s latest fundraise was “opportunistic.”",
-      "link": "https://www.semafor.com/article/11/16/2026/openai-cfo-says-latest-funding-round-was-unplanned-prompted-by-news-report",
-      "imageUrl": "https://img.semafor.com/91a6c9db4fa1b66cde9343269afec89f23be6fc0-5000x3335.jpg",
-      "publishedAt": "2026-11-17T01:24:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a73d20fc20b8e2aa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Shares slide on tech weakness ahead of Nvidia earnings - Reuters",
-      "snippet": "Shares slide on tech weakness ahead of Nvidia earnings  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:22:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_37fa1cb45e94c768",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "DOJ official invokes 2020 Lindsey Graham case amid Democrats’ subpoena threats",
-      "snippet": "A top official in the Justice Department is warning Democratic lawmakers that their recent oversight threats may not be fully shielded from criminal subpoenas, pointing to a Supreme Court dispute involving the late Sen. Lindsey Graham. Acti",
-      "link": "https://www.washingtonexaminer.com/news/justice/4804796/doj-lindsey-graham-case-democrat-subpoena-threats/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:21:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_02b6262a7355a1b2",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Irish court jails man for life over Dublin knife attack that sparked riots",
-      "snippet": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:19:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c97473baf472110",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
-      "snippet": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff\nThe Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago",
-      "link": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:18:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3e60842077495f8c",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "EU countries announce migrant deportation centre in Rwanda",
-      "snippet": "Germany, Austria, the Netherlands, Denmark and Greece have announced that Rwanda will be used as a deportation centre.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T01:12:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
