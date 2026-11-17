@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-17T12:55:06.741Z",
+  "updatedAt": "2026-11-17T13:00:15.269Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.950Z"
+      "lastSuccess": "2026-11-17T13:00:15.568Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.905Z"
+      "lastSuccess": "2026-11-17T13:00:15.474Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.861Z"
+      "lastSuccess": "2026-11-17T13:00:15.710Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.048Z"
+      "lastSuccess": "2026-11-17T13:00:15.665Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.045Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-17T13:00:15.861Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.051Z"
+      "lastSuccess": "2026-11-17T13:00:15.810Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.077Z"
+      "lastSuccess": "2026-11-17T13:00:15.884Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.898Z"
+      "lastSuccess": "2026-11-17T13:00:15.626Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.920Z"
+      "lastSuccess": "2026-11-17T13:00:15.791Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T12:55:07.066Z"
+      "lastErrorAt": "2026-11-17T13:00:16.119Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.966Z"
+      "lastSuccess": "2026-11-17T13:00:15.768Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.038Z"
+      "lastSuccess": "2026-11-17T13:00:15.932Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.099Z"
+      "lastSuccess": "2026-11-17T13:00:16.029Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.080Z"
+      "lastSuccess": "2026-11-17T13:00:15.940Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.209Z"
+      "lastSuccess": "2026-11-17T13:00:16.108Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.063Z"
+      "lastSuccess": "2026-11-17T13:00:15.841Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.072Z"
+      "lastSuccess": "2026-11-17T13:00:16.127Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.453Z"
+      "lastSuccess": "2026-11-17T13:00:15.605Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.138Z"
+      "lastSuccess": "2026-11-17T13:00:16.278Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.995Z"
+      "lastSuccess": "2026-11-17T13:00:15.649Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:06.983Z"
+      "lastSuccess": "2026-11-17T13:00:15.805Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.114Z"
+      "lastSuccess": "2026-11-17T13:00:16.170Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-17T12:55:07.408Z"
+      "lastSuccess": "2026-11-17T13:00:15.466Z"
     }
   },
   "items": [
+    {
+      "id": "story_bf824eb4b4a01fa5",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Ravens star tees off on team's poor effort in loss to winless Chargers: 'That's the reality of it'",
+      "snippet": "Kyle Hamilton ripped the Baltimore Ravens after a fifth straight loss, saying the team is \"disgracing those standards\" in a stunning fall to 4-6.",
+      "link": "https://www.foxnews.com/outkick-sports/ravens-star-tees-off-teams-poor-effort-loss-winless-chargers-reality",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T12:51:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a4a9adcd6140966c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump warns Iran about reported plot against admin officials: 'We take it very seriously'",
+      "snippet": "Trump warned Iran would face unprecedented retaliation over a reported plot targeting Washington, D.C., as senior officials relocate to military housing.",
+      "link": "https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T12:50:35.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_e40108318e6d64d3",
       "source": "Fox News",
@@ -2669,32 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_4569191042d976d3",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Late Night Flies High on the F.A.A. Ground Stop",
-      "snippet": "“Sometimes, it feels like maybe Elon and his DOGE bros shouldn’t have fired more than a thousand employees at the F.A.A.,” Jimmy Kimmel said.",
-      "link": "https://www.nytimes.com/2026/11/17/arts/television/late-night-faa-ground-stop.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T08:23:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5045b67f0a52770b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
-      "snippet": "A student with near-perfect scores on two tests has confessed to using artificial intelligence.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T08:15:32.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
