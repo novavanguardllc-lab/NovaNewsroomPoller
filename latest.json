@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-17T06:00:14.775Z",
+  "updatedAt": "2026-11-17T06:05:07.073Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.814Z"
+      "lastSuccess": "2026-11-17T06:05:07.148Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:15.015Z"
+      "lastSuccess": "2026-11-17T06:05:07.235Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.911Z"
+      "lastSuccess": "2026-11-17T06:05:07.206Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.846Z"
+      "lastSuccess": "2026-11-17T06:05:07.187Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.886Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-17T06:05:07.493Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.936Z"
+      "lastSuccess": "2026-11-17T06:05:07.313Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.939Z"
+      "lastSuccess": "2026-11-17T06:05:07.228Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.942Z"
+      "lastSuccess": "2026-11-17T06:05:07.238Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.926Z"
+      "lastSuccess": "2026-11-17T06:05:07.290Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.891Z"
+      "lastSuccess": "2026-11-17T06:05:07.209Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.946Z"
+      "lastSuccess": "2026-11-17T06:05:07.233Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.953Z"
+      "lastSuccess": "2026-11-17T06:05:07.299Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.969Z"
+      "lastSuccess": "2026-11-17T06:05:07.294Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.962Z"
+      "lastSuccess": "2026-11-17T06:05:07.260Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-17T06:00:14.964Z"
+      "lastErrorAt": "2026-11-17T06:05:07.300Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.979Z"
+      "lastSuccess": "2026-11-17T06:05:07.322Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:15.009Z"
+      "lastSuccess": "2026-11-17T06:05:07.282Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:15.084Z"
+      "lastSuccess": "2026-11-17T06:05:07.355Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.988Z"
+      "lastSuccess": "2026-11-17T06:05:07.251Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.950Z"
+      "lastSuccess": "2026-11-17T06:05:07.302Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:15.125Z"
+      "lastSuccess": "2026-11-17T06:05:07.390Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:14.826Z"
+      "lastSuccess": "2026-11-17T06:05:07.526Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-17T06:00:15.030Z"
+      "lastSuccess": "2026-11-17T06:05:09.121Z"
     }
   },
   "items": [
+    {
+      "id": "story_b1602a2dbd6730cd",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "snippet": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T05:59:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d15d9bf384d70fe4",
       "source": "DW",
@@ -1800,6 +1814,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_239c0d9f2f5e2006",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "California lifeguard speaks out about daring rescue",
+      "snippet": "New video shows 29-year-old lifeguard Griffin Houldin racing into the dangerous surf to save a swimmer. Houldin battled the 10-to-15-foot swells pummeling him toward the cliff. NBC News’ Liz Kreutz spoke to him today.",
+      "link": "https://www.nbcnews.com/nightly-news/video/california-lifeguard-speaks-out-about-daring-rescue-273613381734",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T00:23:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_9c378e6079cfd0c4",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -2669,32 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_77f80985372ff138",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Ukraine hits key Crimea bridge with drones",
-      "snippet": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv.",
-      "link": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
-      "imageUrl": "https://s.france24.com/media/display/3b52c1ca-e210-11f1-ae4f-695cb59fade5/w:1024/p:16x9/EN-20261116-230143-230237-CS.jpg",
-      "publishedAt": "2026-11-16T23:13:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_094a5325fc8f2a17",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "United Airlines reports widespread tech outage affecting departures",
-      "snippet": "Hundreds of departing flights have been delayed. The issue comes just days after an air traffic control outage caused major disruption to US airlines.",
-      "link": "https://www.dw.com/en/united-airlines-reports-widespread-tech-outage-affecting-departures/a-79964387?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:13:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 9
     }
   ]
 }
