@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-18T11:30:11.955Z",
+  "updatedAt": "2026-11-18T11:35:06.357Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.168Z"
+      "lastSuccess": "2026-11-18T11:35:06.429Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.110Z"
+      "lastSuccess": "2026-11-18T11:35:06.497Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.042Z"
+      "lastSuccess": "2026-11-18T11:35:06.480Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.184Z"
+      "lastSuccess": "2026-11-18T11:35:06.735Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.125Z"
+      "lastSuccess": "2026-11-18T11:35:06.540Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.142Z"
+      "lastSuccess": "2026-11-18T11:35:06.796Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.063Z"
+      "lastSuccess": "2026-11-18T11:35:06.774Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.173Z"
+      "lastSuccess": "2026-11-18T11:35:06.521Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.195Z"
+      "lastSuccess": "2026-11-18T11:35:06.615Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.229Z"
+      "lastSuccess": "2026-11-18T11:35:06.722Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.208Z"
+      "lastSuccess": "2026-11-18T11:35:06.661Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.279Z"
+      "lastSuccess": "2026-11-18T11:35:06.744Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.272Z"
+      "lastSuccess": "2026-11-18T11:35:06.713Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.225Z"
+      "lastSuccess": "2026-11-18T11:35:06.739Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.311Z"
+      "lastSuccess": "2026-11-18T11:35:06.716Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-18T11:30:12.270Z"
+      "lastErrorAt": "2026-11-18T11:35:06.668Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.288Z"
+      "lastSuccess": "2026-11-18T11:35:06.757Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.211Z"
+      "lastSuccess": "2026-11-18T11:35:06.709Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.269Z"
+      "lastSuccess": "2026-11-18T11:35:06.682Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.443Z"
+      "lastSuccess": "2026-11-18T11:35:06.862Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.331Z"
+      "lastSuccess": "2026-11-18T11:35:06.814Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.256Z"
+      "lastSuccess": "2026-11-18T11:35:06.647Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-18T11:30:12.307Z"
+      "lastSuccess": "2026-11-18T11:35:08.640Z"
     }
   },
   "items": [
+    {
+      "id": "story_bcedede844065078",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "MICHAEL RUIZ: Tyler Robinson defense wants testing on bullet fragments paused in assassination of Charlie Kirk",
+      "snippet": "Tyler Robinson's lawyers want Utah ballistics testing paused as prosecutors push FBI virtual comparison microscopy on Charlie Kirk's autopsy fragments.",
+      "link": "https://www.foxnews.com/us/michael-ruiz-tyler-robinson-defense-wants-testing-bullet-fragments-paused-assassination-charlie-kirk",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T11:30:59.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dc73cd7f47c4f84a",
       "source": "Semafor",
@@ -183,6 +196,19 @@
       "link": "https://www.france24.com/en/tv-shows/press-review/20261118-failures-incompetence-broken-promises-deutsche-bank-exposed-in-major-leak",
       "imageUrl": "https://s.france24.com/media/display/a58d00bc-e33e-11f1-9bac-ff16da94d1fe/w:1024/p:16x9/capture-c33fe14e.jpg",
       "publishedAt": "2026-11-18T11:12:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5ff6b8cba1299a02",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Waymo driverless cars barred from California freeways following troubling incidents",
+      "snippet": "The state of California has slapped a temporary freeway ban on Waymo's autonomous cars",
+      "link": "https://abcnews.com/US/waymo-driverless-cars-barred-california-freeways-series-troubling/story?id=138221652",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T11:11:45.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -760,6 +786,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b9ccd9ac17db3186",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "LPG tanker that sank off Bulgaria on Tuesday was hit by projectiles, official says - Reuters",
+      "snippet": "LPG tanker that sank off Bulgaria on Tuesday was hit by projectiles, official says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWVUzZGRjYm9CTmNMSnBBZ21xeS1sbVJ5QmJFSkw5eHNLZkNZNDdRTWhUa1lLbFdlSmtTYzBBMnh0NHhQa0lwelZVRld2VzljZUd1VVlUYUlrdjZycVhDWTdTU2dmdVc5dzNIcnJLaUM5eUxXWUJWc1hvVWFDdFQ5eWFrY09mZlBUWVBVTWJNd0tsbjZybVFKVWZLQ1JiY0R4dGlpYkZUX3FucFMzZDB0d3IwbjV1Y3IyMjRONQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T10:35:45.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_3d44534895bdd683",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -795,6 +834,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T10:32:03.000Z",
       "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_fbfa68dd8ec9e64b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EU proposes new €45 billion loan for Ukraine for 2027 to be repaid by Russia - Reuters",
+      "snippet": "EU proposes new €45 billion loan for Ukraine for 2027 to be repaid by Russia  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFhjUFo4SHBqb20yY1dQWmZZNlZhV2VvZjRQLTFoQjlYeFItaHNXX0FZVmhuazRYODFqcEk5RThWZUNpX2lPOFJrZ0M5U0hEODBZZFNndnE3U18xNWRtVGhlYmRXU3V1My16RTUybkdaSXRvc3NIOWpNdllIWG1GMjE4Z2N1bm1naUZjNXF6bVBPSF9lalVpeHdNN1FQeWRtZDBfaTh3ZXBaQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T10:31:44.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
     },
@@ -2642,58 +2694,6 @@
       "publishedAt": "2026-11-18T05:16:25.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bffa9643cd4c353d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-      "snippet": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-      "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T05:11:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_359045f8c4cf3dbd",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
-      "snippet": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program\n\nGet our daily political email, free app or daily news podcast\n\nOne Nation has vowed to cut Australia’s refugee in",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T05:11:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7ae24501577c2244",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend - AP News",
-      "snippet": "Iran war dents Middle East sports model as events are canceled or postponed. F1 bucks the trend  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczVIdTE3NFhiUkYySjFhRU9xZkhYSHVWVkNMSE42aVVGTEQwMWJBREJ3ZDlWSkhhem5idmhWOGZhNG9HblVySjlMZ3dMUUFFSE1xbVBsc3BsQ3hTcEJVWkdUeU1WMXdaTDZ3al8tSDNscnhaeWt5UWdXRnRGbmQzcXQxTXlTeHhpcTY2ZmZMRHdnR0U?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T05:07:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_34a319bccd05c78f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Ohio Midterm Election Results - AP News",
-      "snippet": "2026 Ohio Midterm Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T05:05:47.000Z",
-      "tier": "major",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
