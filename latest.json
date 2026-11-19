@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-19T13:15:08.891Z",
+  "updatedAt": "2026-11-19T13:20:09.070Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.007Z"
+      "lastSuccess": "2026-11-19T13:20:09.163Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.046Z"
+      "lastSuccess": "2026-11-19T13:20:09.264Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.023Z"
+      "lastSuccess": "2026-11-19T13:20:09.316Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:08.972Z"
+      "lastSuccess": "2026-11-19T13:20:09.203Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:08.980Z"
+      "lastSuccess": "2026-11-19T13:20:09.232Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.041Z"
+      "lastSuccess": "2026-11-19T13:20:09.252Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.015Z"
+      "lastSuccess": "2026-11-19T13:20:09.214Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.037Z"
+      "lastSuccess": "2026-11-19T13:20:09.326Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.030Z"
+      "lastSuccess": "2026-11-19T13:20:09.447Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.117Z"
+      "lastSuccess": "2026-11-19T13:20:09.426Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.131Z"
+      "lastSuccess": "2026-11-19T13:20:09.351Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.052Z"
+      "lastSuccess": "2026-11-19T13:20:09.487Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.059Z"
+      "lastSuccess": "2026-11-19T13:20:09.486Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.074Z"
+      "lastSuccess": "2026-11-19T13:20:09.491Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.071Z"
+      "lastSuccess": "2026-11-19T13:20:09.506Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T13:15:09.066Z"
+      "lastErrorAt": "2026-11-19T13:20:09.532Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.136Z"
+      "lastSuccess": "2026-11-19T13:20:09.548Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.097Z"
+      "lastSuccess": "2026-11-19T13:20:09.517Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.065Z"
+      "lastSuccess": "2026-11-19T13:20:09.471Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:10.885Z"
+      "lastSuccess": "2026-11-19T13:20:09.646Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.088Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-19T13:20:09.493Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.230Z"
+      "lastSuccess": "2026-11-19T13:20:09.694Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T13:15:09.193Z"
+      "lastSuccess": "2026-11-19T13:20:09.629Z"
     }
   },
   "items": [
+    {
+      "id": "story_5cbf1748a6250e16",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Does your credit card already provide travel insurance? Here's how to tell",
+      "snippet": "Your credit card may offer valuable travel protections, but knowing what's covered, and what's not, is key.",
+      "link": "https://www.cbsnews.com/news/does-your-credit-card-provide-travel-insurance/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T13:14:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_e1ed08c113e1e99b",
       "source": "CBS News",
@@ -1146,6 +1160,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26322454118709_97b614.jpg?w=900",
       "publishedAt": "2026-11-19T12:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_476a347a8c07401f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Sen. Tim Kaine says he will force votes on human rights consequences of US policies in Russia - AP News",
+      "snippet": "Sen. Tim Kaine says he will force votes on human rights consequences of US policies in Russia  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUZGMzI5d053MGNlVEZJeWNXSXNWYzNBUDNwSGp3V1ZadXFiSlZVOV9HVk5lbXdudDg3UVJLcHU4c2oxM1d4dXR3cXNCY1VrQUpkLXZxLUp0cmdraWJZY3JndkFabEc2VHdValN3Q0pnVmtET3BMZVV5QUNVdHNOZ3dIZDNWbW0wMDc3cjJVTlVVVHlJOXFz?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2359,6 +2386,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_440ebdf589d37e37",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Former Sen. Ben Sasse’s memoir on surviving cancer, co-written with his daughter, is set for March 9 - AP News",
+      "snippet": "Former Sen. Ben Sasse’s memoir on surviving cancer, co-written with his daughter, is set for March 9  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOamtaQ3g3d0tQSHk2R19zSDJoTTZxTURraXo3TlBIUTF3QTZYQVMtZGNFQmRWYXVqeUwyN2xuZHE3LUFqUElra0RsS2NjR2szbDdENE15QUpfOGh5MEhjdkhHVkh4dF9KY2VXTlU2RTMtTWVQdko3aV81SUpmMmRuQm5aRS11TGtlUEtWejE4dDQ4NS10X0ktX1ZIaw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T10:03:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4bf48d5812470eaa",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
@@ -2656,45 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_b980cd0969179de5",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Infantino to face France's Diallo and Japan's Tashima in FIFA presidential election",
-      "snippet": "FIFA confirmed on Thursday that France's Philippe Diallo and Japan's Kozo Tashima will run against incumbent Gianni Infantino in next year's presidential election. Infantino has faced criticism since July over his aborted plan to sell stake",
-      "link": "https://www.france24.com/en/sport/20261119-infantino-to-face-france-s-diallo-and-japan-s-tashima-in-fifa-presidential-election",
-      "imageUrl": "https://s.france24.com/media/display/82098b82-e3fd-11f1-939d-6d75ed565170/w:1024/p:16x9/main-95.png",
-      "publishedAt": "2026-11-19T09:39:22.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_506aac51626045a9",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Two candidates to stand against Infantino in FIFA election",
-      "snippet": "FIFA has confirmed which candidates will stand in next year's presidential election - as UEFA challenges restrictions placed on documents relating to the World Cup sell-off scandal.",
-      "link": "https://news.sky.com/story/fifa-confirms-candidates-to-stand-against-gianni-infantino-in-presidential-election-13613862",
-      "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-philippe-diallo-gianni-infantino_7410244.jpg?20261119095059",
-      "publishedAt": "2026-11-19T09:32:00.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_dbf06332b3db4c15",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ohio - AP News",
-      "snippet": "Ohio  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xOXluQWtwTGprc2dkRnBmUEJuU1BmWjlsNFNmb1pZRF9NYTJySnF0WTVnTDZDZEZETXZHQkpZdWU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T09:29:18.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
