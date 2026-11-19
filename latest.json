@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-19T00:25:06.194Z",
+  "updatedAt": "2026-11-19T00:30:12.686Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.235Z"
+      "lastSuccess": "2026-11-19T00:30:12.779Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.264Z"
+      "lastSuccess": "2026-11-19T00:30:12.743Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.270Z"
+      "lastSuccess": "2026-11-19T00:30:12.787Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.244Z"
+      "lastSuccess": "2026-11-19T00:30:12.811Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.640Z"
+      "lastSuccess": "2026-11-19T00:30:12.762Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.330Z"
+      "lastSuccess": "2026-11-19T00:30:12.848Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.283Z"
+      "lastSuccess": "2026-11-19T00:30:12.784Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.301Z"
+      "lastSuccess": "2026-11-19T00:30:12.863Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.280Z"
+      "lastSuccess": "2026-11-19T00:30:12.800Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.342Z"
+      "lastSuccess": "2026-11-19T00:30:12.899Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.345Z"
+      "lastSuccess": "2026-11-19T00:30:12.866Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.260Z"
+      "lastSuccess": "2026-11-19T00:30:12.825Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.292Z"
+      "lastSuccess": "2026-11-19T00:30:13.024Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.375Z"
+      "lastSuccess": "2026-11-19T00:30:12.886Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.334Z"
+      "lastSuccess": "2026-11-19T00:30:13.020Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.358Z"
+      "lastSuccess": "2026-11-19T00:30:12.896Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.363Z"
+      "lastSuccess": "2026-11-19T00:30:12.906Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T00:25:06.401Z"
+      "lastErrorAt": "2026-11-19T00:30:12.917Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.496Z"
+      "lastSuccess": "2026-11-19T00:30:13.007Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.424Z"
+      "lastSuccess": "2026-11-19T00:30:12.926Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.397Z"
+      "lastSuccess": "2026-11-19T00:30:12.879Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.519Z"
+      "lastSuccess": "2026-11-19T00:30:13.014Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T00:25:06.810Z"
+      "lastSuccess": "2026-11-19T00:30:14.355Z"
     }
   },
   "items": [
+    {
+      "id": "story_a40bab2dbc024556",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "Russian national charged with spying on Silicon Valley defense contractor",
+      "snippet": "The tech company was targeted for aiding Ukraine, federal prosecutors said.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/18/russian-national-charged-with-spying-silicon-valley-defense-contractor/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:25:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_6dc0d0327334a9ed",
       "source": "Wash Examiner",
@@ -981,6 +994,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_51a037bfc3a2cdd5",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
+      "snippet": "A Microsoft conference was forced to evacuate people, and restaurants and other businesses closed up shop for the day.",
+      "link": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:52:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f6f52093262d35d4",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1423,6 +1449,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_34a319bccd05c78f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "2026 Ohio Midterm Election Results - AP News",
+      "snippet": "2026 Ohio Midterm Election Results  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:18:46.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4342c8f59a565390",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -1577,6 +1616,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_d0f258e702dbbed7",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Florida’s El Niño Rains Bring Hail and High Water",
+      "snippet": "Officials point to particularly strong El Niño conditions, a climate pattern that delivers wetter weather to parts of the southern United States, as Florida faces torrential rain.",
+      "link": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T21:55:08.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_170e9cf5765c4828",
@@ -1956,6 +2008,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a1f9ba4f69736ae1",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Texas resumes issuing data center air permits, regulator says - Reuters",
+      "snippet": "Texas resumes issuing data center air permits, regulator says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNURMb2podnB3UVNJaXNFVkR1RzhINldCNmF4YlM3WDU0ZVZjZUc2ZGloRkJFU05DMmFrTWJJTWZKcVZhb3NGaVp1b00zVFJuaElEeFpMZDkwOFBSY3dBSk5qcWMyWWo3RlpEN19QX2x0UzNlY2lZRU5Ealp2N2RDRkh6b2J1VGFnanhhUVZUZ0NIZDhNMlg5aFZzRE45VnQ5Y2tPZHE2OUZjdkU?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T21:24:15.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a2a27fde85e4f03d",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2081,6 +2146,19 @@
       "link": "https://www.foxnews.com/world/kim-jong-un-nuclear-buildup-sparks-serious-concern-trump-xi-putin-summit",
       "imageUrl": null,
       "publishedAt": "2026-11-18T21:07:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_245ebdead001ac56",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "U.S. Catholic Bishops Are Discussing A.I. at Annual Meeting",
+      "snippet": "At their annual fall meeting, the bishops are discussing how to address the negative impacts of A.I., even as some struggle to navigate the fast-evolving technology.",
+      "link": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T21:05:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2614,84 +2692,6 @@
       "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
       "imageUrl": null,
       "publishedAt": "2026-11-18T20:28:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_72662246126d9390",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Thousands of users report Wells Fargo services are down in latest outage",
-      "snippet": "Wells Fargo banking services are down for the second time this week in what appears to be another technical error affecting popular online services in the United States. Users across social media say they can’t access their Wells Fargo acco",
-      "link": "https://www.washingtonexaminer.com/policy/technology/4807498/wells-fargo-bank-service-outage/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T20:28:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_68398d901986638f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump to meet Putin one-on-one during China trip",
-      "snippet": "President Trump plans to meet with Russian President Vladimir Putin Thursday in China, separate from their planned trilateral meeting with Chinese President Xi Jinping, a White House official said. The meeting with Putin will be their first",
-      "link": "https://thehill.com/homenews/administration/6228595-trump-putin-meeting-china/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/08/Security-guarantees_082625_Getty_Andrew-Caballero-Reynolds.jpg?w=900",
-      "publishedAt": "2026-11-18T20:26:50.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_63e265b1d7a826cc",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
-      "snippet": "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released Wednesday by the Pew Research Center.",
-      "link": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T20:25:17.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_b849a499be6a7344",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-      "snippet": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T20:24:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a9552c33b92e4ef2",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Man accused of starting Palisades fire faces retrial",
-      "snippet": "ABC News legal analyst Brian Buckmire and correspondent Alex Stone explain what prosecutors are arguing differently and the potential sentence if the man is convicted at his federal retrial.",
-      "link": "https://abcnews.com/video/138259933/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T20:24:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ee7b14dff8918da3",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-      "snippet": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history\nPete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, N",
-      "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T20:24:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
