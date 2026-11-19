@@ -1,101 +1,141 @@
 {
-  "updatedAt": "2026-11-19T12:25:06.848Z",
+  "updatedAt": "2026-11-19T12:30:12.523Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.913Z"
+      "lastSuccess": "2026-11-19T12:30:12.608Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.891Z"
+      "lastSuccess": "2026-11-19T12:30:12.622Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.950Z"
+      "lastSuccess": "2026-11-19T12:30:12.593Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.343Z"
+      "lastSuccess": "2026-11-19T12:30:12.631Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.330Z"
+      "lastSuccess": "2026-11-19T12:30:12.638Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.895Z"
+      "lastSuccess": "2026-11-19T12:30:12.582Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.939Z"
+      "lastSuccess": "2026-11-19T12:30:12.645Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.977Z"
+      "lastSuccess": "2026-11-19T12:30:12.720Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.025Z"
+      "lastSuccess": "2026-11-19T12:30:12.717Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.948Z"
+      "lastSuccess": "2026-11-19T12:30:12.809Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.934Z"
+      "lastSuccess": "2026-11-19T12:30:12.652Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.967Z"
+      "lastSuccess": "2026-11-19T12:30:12.666Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.974Z"
+      "lastSuccess": "2026-11-19T12:30:12.758Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.032Z"
+      "lastSuccess": "2026-11-19T12:30:12.813Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.932Z"
+      "lastSuccess": "2026-11-19T12:30:12.661Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.943Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-19T12:30:12.687Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:06.929Z"
+      "lastSuccess": "2026-11-19T12:30:12.736Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.072Z"
+      "lastSuccess": "2026-11-19T12:30:12.682Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T12:25:07.134Z"
+      "lastErrorAt": "2026-11-19T12:30:12.760Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.132Z"
+      "lastSuccess": "2026-11-19T12:30:12.822Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.159Z"
+      "lastSuccess": "2026-11-19T12:30:12.834Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:07.117Z"
+      "lastSuccess": "2026-11-19T12:30:12.804Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:25:09.164Z"
+      "lastSuccess": "2026-11-19T12:30:12.891Z"
     }
   },
   "items": [
+    {
+      "id": "story_c84927df27bbd2bf",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Yahoo for the loo! An ode to the commode! Dotty for the potty! It's World Toilet Day!",
+      "snippet": "November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+      "link": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:26:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_53b632b4ea42a152",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "snippet": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+      "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:26:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_618ba7c923e66da6",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Watch live: The Hill’s Capitol Crypto Forum",
+      "snippet": "A new generation of financial infrastructure is taking shape through the development of blockchain networks and dollar-backed tokens known as stablecoins. Central to this evolution is the Clarity Act — a comprehensive landmark bill that wou",
+      "link": "https://thehill.com/policy/technology/6229646-watch-live-the-hill-capitol-crypto-forum/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/M-SplashShare-HillxBlock-1920x1080-1.png?w=900",
+      "publishedAt": "2026-11-19T12:21:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_b961f41e74def09d",
       "source": "France24",
@@ -107,6 +147,19 @@
       "publishedAt": "2026-11-19T12:20:35.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0d498ec3738e4b61",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Super Bowl champ Ben Watson speaks out on Christian Nigerian persecution, double-standards and Trump's impact",
+      "snippet": "Super Bowl champion Benjamin Watson says he doesn't trust US leadership to protect persecuted Christians in Nigeria without public pressure on lawmakers.",
+      "link": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:20:20.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2641,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-19T06:14:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9b1de6dde25dc076",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
-      "snippet": "Critics hail GTA 6 as a 'masterpiece', 'spectacular', and an 'astonishing American epic'.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:08:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b9904e33a099b650",
-      "source": "UPI",
-      "sourceColor": "#5A5A5A",
-      "headline": "Trump, Putin meet ahead of trilateral talks with Xi",
-      "snippet": "President Donald Trump met with Russian leader Vladimir Putin on Thursday in Shenzhen, before trilateral meetings with Chinese President Xi Jinping.",
-      "link": "https://www.upi.com/Top_News/World-News/2026/11/19/Trump-Putin-Xi-meeting/9141795065409/",
-      "imageUrl": "https://cdnph.upi.com/ph/st/th/9141795065409/2026/upi/f77f7eb2029977d73d7ea1dff04dade9/v1.5/Trump-Putin-meet-ahead-of-trilateral-talks-with-Xi.jpg",
-      "publishedAt": "2026-11-19T06:07:31.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_58686d07a349c0ff",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-      "snippet": "The three leaders have divergent geopolitical goals and visions for the world order.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:07:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_177817c71f85433b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
-      "snippet": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
-      "link": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:06:23.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
