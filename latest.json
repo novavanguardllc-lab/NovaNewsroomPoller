@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-19T17:30:12.179Z",
+  "updatedAt": "2026-11-19T17:35:06.738Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.686Z"
+      "lastSuccess": "2026-11-19T17:35:06.977Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.467Z"
+      "lastSuccess": "2026-11-19T17:35:06.980Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.422Z"
+      "lastSuccess": "2026-11-19T17:35:06.899Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.359Z"
+      "lastSuccess": "2026-11-19T17:35:06.942Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.238Z"
+      "lastSuccess": "2026-11-19T17:35:06.824Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.381Z"
+      "lastSuccess": "2026-11-19T17:35:06.904Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.458Z"
+      "lastSuccess": "2026-11-19T17:35:07.331Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.549Z"
+      "lastSuccess": "2026-11-19T17:35:06.986Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.524Z"
+      "lastSuccess": "2026-11-19T17:35:06.863Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.568Z"
+      "lastSuccess": "2026-11-19T17:35:07.048Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.501Z"
+      "lastSuccess": "2026-11-19T17:35:07.007Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.538Z"
+      "lastSuccess": "2026-11-19T17:35:07.020Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.588Z"
+      "lastSuccess": "2026-11-19T17:35:07.107Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.551Z"
+      "lastSuccess": "2026-11-19T17:35:07.018Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.600Z"
+      "lastSuccess": "2026-11-19T17:35:07.122Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T17:30:12.624Z"
+      "lastErrorAt": "2026-11-19T17:35:07.129Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.659Z"
+      "lastSuccess": "2026-11-19T17:35:07.141Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.691Z"
+      "lastSuccess": "2026-11-19T17:35:07.137Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.619Z"
+      "lastSuccess": "2026-11-19T17:35:07.108Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:14.529Z"
+      "lastSuccess": "2026-11-19T17:35:07.291Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-19T17:30:12.544Z"
+      "online": true,
+      "lastSuccess": "2026-11-19T17:35:07.022Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.699Z"
+      "lastSuccess": "2026-11-19T17:35:07.159Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T17:30:12.801Z"
+      "lastSuccess": "2026-11-19T17:35:07.265Z"
     }
   },
   "items": [
+    {
+      "id": "story_72293b6169479e49",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Auditors concerned about billions ICE is spending to expand immigration detention",
+      "snippet": "Federal auditors warn that ICE is spending billions of dollars to expand immigration detention without \"determining the cost effectiveness\" of new initiatives.",
+      "link": "https://abcnews.com/US/federal-auditors-raise-concerns-billions-ice-spending-expand/story?id=138293636",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T17:31:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_9713c6d7d9af456e",
       "source": "Wash Examiner",
@@ -106,6 +118,32 @@
       "link": "https://www.washingtonexaminer.com/news/world/4808624/israel-launches-first-armored-incursion-hamas-territory-since-ceasefire/",
       "imageUrl": null,
       "publishedAt": "2026-11-19T17:25:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b5ef4cb0d3cc52d",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Frontier Airlines launches $399 unlimited flight pass with no blackout dates",
+      "snippet": "Frontier Airlines launched its 2027 GoWild Annual Pass, which offers unlimited flights with no blackout dates at a promotional price starting at $399.",
+      "link": "https://thehill.com/policy/transportation/6230202-frontier-airlines-unlimited-flight-pass-2027/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/08/anaheim-police-dept.-2-4-e1756291215591.png?w=900",
+      "publishedAt": "2026-11-19T17:25:12.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c5073f981d8bf87f",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "CMA Awards pays tribute to Dolly Parton as Lainey Wilson calls her ‘our Tennessee angel’",
+      "snippet": "Lainey Wilson and Vince Gill opened the CMA Awards with an emotional duet of Dolly Parton's \"I Will Always Love You\" that drew a standing ovation.",
+      "link": "https://www.foxnews.com/entertainment/cma-awards-pays-tribute-dolly-parton-lainey-wilson-calls-tennessee-angel",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T17:24:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -135,6 +173,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_df6fe7c2a3070bd8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Rob Lowe calls out Hollywood double standard after festivals reject Ben Shapiro-written film",
+      "snippet": "Rob Lowe said on The Free Press podcast that festivals rejected his Ben Shapiro film \"Confession\" over politics, and a critic warned he could \"pay a professional price.\"",
+      "link": "https://www.foxnews.com/culture/rob-lowe-calls-out-hollywood-double-standard-after-festivals-reject-ben-shapiro-written-film",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T17:22:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_f89b1721bb2380b7",
@@ -366,6 +417,19 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-19T17:02:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_28d10ef896f0825a",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "This waterproof JBL speaker is $60 off right now and at its lowest price since January",
+      "snippet": "The JBL Charge 6 portable Bluetooth speaker is 30% off on Amazon; that’s its lowest price since January. It’s waterproof, drop-proof and has a long-lasting battery — it’s a great holiday gift.",
+      "link": "https://www.nbcnews.com/select/shopping/jbl-charge-6-deal-of-the-day-2026-rcna610225",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T17:01:41.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2628,71 +2692,6 @@
       "link": "https://www.cbsnews.com/video/details-emerge-on-south-carolina-stand-your-ground-murder-case/",
       "imageUrl": null,
       "publishedAt": "2026-11-19T14:13:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd8d871171c7ad04",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  Bob Woodward talks new memoir, 'Secrets'",
-      "snippet": "The legendary journalist who helped expose the Watergate scandal discusses his new memoir and the stories behind some of his biggest investigations.",
-      "link": "https://abcnews.com/video/138287381/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T14:09:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f266e3abfb9113b7",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Rob Manfred acts like a turkey with his most 'soulless' comments yet on looming MLB lockout",
-      "snippet": "Rob Manfred says a lockout decision will come at the last possible moment, but his blunt take on Thanksgiving is stealing attention from stalled MLB talks.",
-      "link": "https://www.foxnews.com/outkick-sports/rob-manfred-acts-like-turkey-soulless-comments-looming-mlb-lockout",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T14:08:35.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_54f541d2d7675be7",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "ICJ rules Myanmar committed genocide against the Rohingya",
-      "snippet": "In August 2017, after attacks by a Rohingya militia, Myanmar’s army launched a “clearance campaign” in Rakhine state, with survivors describing mass killings, rapes and burned villages as hundreds of thousands fled to Bangladesh. The Gambia",
-      "link": "https://www.france24.com/en/icj-rules-myanmar-committed-genocide-against-the-rohingya",
-      "imageUrl": "https://s.france24.com/media/display/1839856c-e421-11f1-9169-6b451f569414/w:1024/p:16x9/EN-20261119-140816-141029-CS.jpg",
-      "publishedAt": "2026-11-19T14:07:11.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_42117513a83fa4f0",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Actor Larry Poindexter dies at 66 days after being hit by car",
-      "snippet": "Actor Larry Poindexter died Wednesday while awaiting surgery for broken ribs days after being struck by a car in Los Angeles; no cause of death released.",
-      "link": "https://www.foxnews.com/entertainment/actor-larry-poindexter-dies-66-days-being-hit-car",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T14:05:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e875b639ec05c548",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "'JAG' actor Larry Poindexter dead at 66",
-      "snippet": "Actor Larry Poindexter died Wednesday while awaiting surgery for broken ribs days after being struck by a car in Los Angeles; no cause of death released.",
-      "link": "https://www.foxnews.com/entertainment/jag-actor-larry-poindexter-dead-66",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T14:05:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
