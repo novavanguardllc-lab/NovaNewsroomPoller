@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-19T15:10:10.008Z",
+  "updatedAt": "2026-11-19T15:15:09.951Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.192Z"
+      "lastSuccess": "2026-11-19T15:15:10.192Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.127Z"
+      "lastSuccess": "2026-11-19T15:15:10.326Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.268Z"
+      "lastSuccess": "2026-11-19T15:15:10.516Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.248Z"
+      "lastSuccess": "2026-11-19T15:15:10.067Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.133Z"
+      "lastSuccess": "2026-11-19T15:15:10.089Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.166Z"
+      "lastSuccess": "2026-11-19T15:15:10.275Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.212Z"
+      "lastSuccess": "2026-11-19T15:15:10.509Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.311Z"
+      "lastSuccess": "2026-11-19T15:15:10.249Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.295Z"
+      "lastSuccess": "2026-11-19T15:15:10.272Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.419Z"
+      "lastSuccess": "2026-11-19T15:15:10.385Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.376Z"
+      "lastSuccess": "2026-11-19T15:15:10.232Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.194Z"
+      "lastSuccess": "2026-11-19T15:15:10.387Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.438Z"
+      "lastSuccess": "2026-11-19T15:15:10.393Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.308Z"
+      "lastSuccess": "2026-11-19T15:15:10.309Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.491Z"
+      "lastSuccess": "2026-11-19T15:15:10.409Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T15:10:10.436Z"
+      "lastErrorAt": "2026-11-19T15:15:10.419Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.433Z"
+      "lastSuccess": "2026-11-19T15:15:10.427Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.390Z"
+      "lastSuccess": "2026-11-19T15:15:10.419Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.392Z"
+      "lastSuccess": "2026-11-19T15:15:10.394Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:12.048Z"
+      "lastSuccess": "2026-11-19T15:15:10.533Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.297Z"
+      "lastSuccess": "2026-11-19T15:15:10.290Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.532Z"
+      "lastSuccess": "2026-11-19T15:15:10.432Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:10:10.646Z"
+      "lastSuccess": "2026-11-19T15:15:10.606Z"
     }
   },
   "items": [
+    {
+      "id": "story_d972b04d3b404195",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trevor Lawrence talks importance of teaming up with FedEx, Feeding America to deliver Thanksgiving meal kits",
+      "snippet": "Trevor Lawrence teamed up with FedEx and Feeding America to assemble Thanksgiving meal kits in Jacksonville, featuring his sweet potato casserole recipe.",
+      "link": "https://www.foxnews.com/outkick-sports/trevor-lawrence-talks-importance-teaming-fedex-feeding-america-deliver-thanksgiving-meal-kits",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T15:10:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_28c220b80f6195de",
       "source": "France24",
@@ -105,6 +118,19 @@
       "link": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
       "imageUrl": "https://s.france24.com/media/display/2e36442a-e428-11f1-a386-1bac47ab2f5d/w:1024/p:16x9/EN-20261119-143639-144049-CS.jpg",
       "publishedAt": "2026-11-19T15:07:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a219ae020d27002c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Photos, videos show devastating South Florida flooding",
+      "snippet": "Significant flooding devastated some South Florida communities this week.",
+      "link": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T15:06:25.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -149,6 +175,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f4c8d4ec1a8e1074",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Briana Scurry previews the NWSL Championship",
+      "snippet": "Soccer Hall of Famer Briana Scurry joins Norah O'Donnell in Washington, D.C., to preview the NWSL Championship game between the Washington Spirit and Kansas City Current.",
+      "link": "https://www.cbsnews.com/video/briana-scurry-previews-the-nwsl-championship/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T15:03:14.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_64a0a94cf029c7e6",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -157,6 +196,19 @@
       "link": "https://thehill.com/homenews/campaign/6229970-elon-musk-claims-not-maga/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/06/AP24324780149643-e1749214263573.jpg?w=900",
       "publishedAt": "2026-11-19T15:03:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9b19fd96c1e6b73c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Four UK men convicted of sexual assault and rape of woman at invitation of husband",
+      "snippet": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sex\nFour men have been convicted of sexually assaulting and raping a woman at the invitation of her husband who had drugged and bound her.\nPhilip Y",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T15:02:39.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2489,6 +2541,19 @@
       "corroboratedCount": 7
     },
     {
+      "id": "story_efab9257545b52fd",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "COP31 negotiators publish revised deal text with no mention of fossil fuels - Reuters",
+      "snippet": "COP31 negotiators publish revised deal text with no mention of fossil fuels  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnNmMHZITEU3THdLMmZxbTI5UGtOeXdNb1BPNG9kckV1cENjajg5THowdFRDbENYSWJYS2JhZzJOVVJnRVdBX2RSOWluYmtURUxnWmlEbDV1SEJ1R0NhYVJRX084NHNzNVlKNGZwcUdtdU5IbE5ERGJuMVZHSWh3THhnT3lRdXJ5SGNSZjF4ZFlqNkNtOHRyd1hUa2FkZHRUY2ZZMVpMSVBJVkdqT3JiWXVFMHJnU3YtcVVjNzZXQTRiSk95T2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:16:18.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_d7d8b6795ce10a64",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -2627,71 +2692,6 @@
       "link": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
       "imageUrl": null,
       "publishedAt": "2026-11-19T12:03:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d70510c1b63da938",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Walmart raises outlook for 3rd time this year after a solid quarter - AP News",
-      "snippet": "Walmart raises outlook for 3rd time this year after a solid quarter  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWNQOUFtUEpuRG1GT0YxZTZaektqZ3FUT2psMmZNdGw1eGQxZkdJajlwaWpPOXRScmgxRU5ZaUVUdkd6Vl9QcWVzbDhCWVN2SDlPeDliUTJUV1N4U1NOdTVmLWJQQ2xJMFRYOHg5emZCODR5THdhNks1TDBxQU1YbWRhWDRyNUZsdFp4UGJfaHdsZFdRUzVXdWd4b2FUaU1fdTZYNmtabw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:03:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_3da9d13aaec0905d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained",
-      "snippet": "Iran's reported dirty bomb exploration puts new focus on a threat experts say could shut down a city and displace families even without mass casualties.",
-      "link": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:00:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2afc447a2e270a0",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Are Prediction Markets the Future of Finance? | Money Moves with Jill Schlesinger",
-      "snippet": "Are prediction markets harmless, or a dangerous gateway to gambling? Jill, Mark and special guest Kayla Sabbagh explore why younger generations are increasingly betting on everything—and what risks come with these easy-to-access platforms. ",
-      "link": "https://www.cbsnews.com/video/are-prediction-markets-the-future-of-finance-money-moves-with-jill-schlesinger/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:00:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e8502c2f7d93f0a0",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Anti-vaccine group once led by RFK Jr says Meta removed posts after Guardian report",
-      "snippet": "Children’s Health Defense, which was allowed back after misinformation ban, accuses tech company of censorship\nAn anti-vaccine group led for years by Robert F Kennedy Jr said Meta has “taken down” posts on its accounts, after a Guardian rep",
-      "link": "https://www.theguardian.com/us-news/2026/nov/19/childrens-health-defense-meta-rfk-jr",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:00:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1d5e4837432a7b7f",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Woman who says abortion pills nearly killed her urges RFK Jr to act as group demands mail-order crackdown",
-      "snippet": "Haile McAnally, who said she nearly died after taking abortion pills, says mailing mifepristone to doorsteps is reckless as she urges RFK Jr. to act.",
-      "link": "https://www.foxnews.com/media/woman-says-abortion-pills-nearly-killed-urges-rfk-jr-act-group-demands-mail-order-crackdown",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:00:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
