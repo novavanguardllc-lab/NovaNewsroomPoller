@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-19T08:10:09.342Z",
+  "updatedAt": "2026-11-19T08:15:08.920Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.390Z"
+      "lastSuccess": "2026-11-19T08:15:08.998Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.406Z"
+      "lastSuccess": "2026-11-19T08:15:08.969Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.472Z"
+      "lastSuccess": "2026-11-19T08:15:09.019Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.468Z"
+      "lastSuccess": "2026-11-19T08:15:09.342Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.460Z"
+      "lastSuccess": "2026-11-19T08:15:09.368Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.445Z"
+      "lastSuccess": "2026-11-19T08:15:09.058Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.476Z"
+      "lastSuccess": "2026-11-19T08:15:09.056Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.509Z"
+      "lastSuccess": "2026-11-19T08:15:09.124Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.583Z"
+      "lastSuccess": "2026-11-19T08:15:09.118Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.494Z"
+      "lastSuccess": "2026-11-19T08:15:09.016Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.498Z"
+      "lastSuccess": "2026-11-19T08:15:08.974Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.539Z"
+      "lastSuccess": "2026-11-19T08:15:09.132Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.544Z"
+      "lastSuccess": "2026-11-19T08:15:09.121Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.530Z"
+      "lastSuccess": "2026-11-19T08:15:09.136Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.507Z"
+      "lastSuccess": "2026-11-19T08:15:09.075Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.514Z"
+      "lastSuccess": "2026-11-19T08:15:09.080Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.487Z"
+      "lastSuccess": "2026-11-19T08:15:09.090Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.526Z"
+      "lastSuccess": "2026-11-19T08:15:09.072Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T08:10:09.544Z"
+      "lastErrorAt": "2026-11-19T08:15:09.142Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.599Z"
+      "lastSuccess": "2026-11-19T08:15:09.160Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.617Z"
+      "lastSuccess": "2026-11-19T08:15:09.280Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.697Z"
+      "lastSuccess": "2026-11-19T08:15:09.256Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:10:09.640Z"
+      "lastSuccess": "2026-11-19T08:15:10.925Z"
     }
   },
   "items": [
+    {
+      "id": "story_2ceb3ba661dc9e5c",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "How a rocket scientist is fueling the NFL’s best defense",
+      "snippet": "The Minnesota Vikings’ defense is the top-rated unit in the entire NFL — and a former rocket scientist may be the reason why.",
+      "link": "https://www.nbcnews.com/sports/nfl/rocket-scientist-fueling-nfls-best-defense-rcna610015",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T08:01:00.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c189a49335f5d24e",
       "source": "Fox News",
@@ -105,6 +118,19 @@
       "link": "https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge",
       "imageUrl": null,
       "publishedAt": "2026-11-19T08:00:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8c1ff0a9b2195c81",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "EDF snaps up 1.3m more customers after Utilita takeover",
+      "snippet": "Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier\nEDF Energy will grow its share of the UK’s household energy market to more than 6m customer accounts after snapping up the pay-as",
+      "link": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T08:00:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -223,6 +249,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-19T07:36:08.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_38fbb4a689cacb92",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Taiwan reports two Russian military aircraft nearby, second time this week - Reuters",
+      "snippet": "Taiwan reports two Russian military aircraft nearby, second time this week  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T07:10:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -380,6 +419,19 @@
       "publishedAt": "2026-11-19T06:16:49.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a427c5405000e681",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Mammoth end 6-game slide with 4-1 win over Avalanche - AP News",
+      "snippet": "Mammoth end 6-game slide with 4-1 win over Avalanche  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXBWQzNvdERSRDFzWFd2QTlQS0w1SUt5cklfTlFIcGxXSlFFS3lhdm5QRGRqalk3ZDczYTQ3U1NhY2R3WDcwcGYyOEVsUEdFSGItclU0QXJGdS00Z3YwSW1SRkhRTVVURUpBVmstaGdWcnlqMlJHak9XZE5LUFNDQ3VXTnlaUFFaUkxr?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T06:16:00.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -675,6 +727,19 @@
       "headline": "Denmark expected to ratify Trump deal over Greenland on Thursday - Reuters",
       "snippet": "Denmark expected to ratify Trump deal over Greenland on Thursday  Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLV9HMkljSnNmOWZWZGFRQWEzUTRpMEg3bXpXSllFdERYS0VNLVV3bnEzN1ZZeG85b3VWb2gzaXFLMldWejVlNGhfWlNqazFtUDQ1cDdJeVVGWTlac0xvVWlwRnZIU0NnNURrX2s1XzRXQmZtWGlxcUxRQUY3QTVKOWVfNDQ5dW5FOENXUV80Z0dSNTB1TTV6dE5TT09PYWs4X0E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T05:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7461d1d3cdf28725",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Ivan Kharchenkov scores 20 points and No. 12 Arizona knocks off No. 3 UConn 85-79 - AP News",
+      "snippet": "Ivan Kharchenkov scores 20 points and No. 12 Arizona knocks off No. 3 UConn 85-79  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXkxRlZYT2xDMXJLZndqR2twU1BLeHNoazRTeklOMzE1cENpeUkxMFREV2NLMnUyWlFIZS02VWgxQnN5d0JuTEdsQlFrZDJoWENpVUdRS1JTVW03YzB2aVR2djdRbGk4T0d4NGNuaGtNMXpsRHh2aF90MjM5dHpRV29GUzNlaW0xYXZSbnZCalotdjY5?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-19T05:02:00.000Z",
       "tier": "major",
@@ -1200,6 +1265,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_ff993ae0de99ad9b",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Russia is integral part of Asia-Pacific, Putin tells APEC leaders - Reuters",
+      "snippet": "Russia is integral part of Asia-Pacific, Putin tells APEC leaders  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzltQXdId2dDT1BuNko3akc0RFloTWFUdmtyX2kxQXZrdThHaGViaEt0Smh2NVg1NkljQWFDUTUyaGNXTGpsaVlONzVzREVXQ01rTnZJaTFhYkhTcVVIM0drN1FXamNTaFRJRXZycjVHQ0dqNEpqTFRNaWR6T2c2NUoxaHR1dnBNckZ4RXNjUVgzSkREMUtEZ0lKal8wMWR2Q2l1dUxVZjBkWjJCdlE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T03:34:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_a4f0249de458f90d",
@@ -2614,84 +2692,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:49:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_819a86e48d5bece5",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  'Looksmaxxing' influencer Clavicular indicted on rape charges",
-      "snippet": "Braden Peters is accused of giving alcohol to a teen and sexually assaulting her at his family's Cape Cod home.",
-      "link": "https://abcnews.com/video/138265776/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:48:46.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_997db19d302ae312",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement",
-      "snippet": "In less than a week, the painting went from top lot to top liability — and back again. On Wednesday it set a record for the artist.",
-      "link": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:47:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bef9892dbf553562",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Unemployment rate jumps to 4.9% – the highest level in five years",
-      "snippet": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal\n\nGet our daily political email, free app or daily news podcast\n\nUnemployment has surged to 4.9% in October, from 4.7%, in a shock increase that wil",
-      "link": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:47:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7ab40838ae16e90f",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Iran ramps up attacks on Gulf countries after U.S. strikes",
-      "snippet": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
-      "link": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:46:41.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_303dc1c63a7ca19a",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Rainfall supercharged by El Ni&ntilde;o causes road flooding, synagogue roof collapse in South Florida",
-      "snippet": "A slow-moving storm system dumped heavy rains that prompted an emergency declaration Wednesday in South Florida where the roof of a synagogue collapsed and cars were submerged along roads, authorities said.",
-      "link": "https://www.pbs.org/newshour/nation/rainfall-supercharged-by-el-nino-causes-road-flooding-synagogue-roof-collapse-in-south-florida",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:46:37.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_73ac3bf4e808aee6",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters",
-      "snippet": "Outside the U.S. Capitol, Patrick McEnroe backed the TEAM USA Act, citing nearly 70% foreign Division I tennis rosters as U.S. taxpayers fund Olympians.",
-      "link": "https://www.foxnews.com/outkick-sports/patrick-mcenroe-joins-rep-tim-walberg-back-team-usa-act-capping-foreign-college-athletes-20-percent-rosters",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:45:32.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
