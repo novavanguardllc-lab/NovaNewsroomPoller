@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-19T11:35:06.958Z",
+  "updatedAt": "2026-11-19T11:40:11.121Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.169Z"
+      "lastSuccess": "2026-11-19T11:40:11.165Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.143Z"
+      "lastSuccess": "2026-11-19T11:40:11.184Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.185Z"
+      "lastSuccess": "2026-11-19T11:40:11.191Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.088Z"
+      "lastSuccess": "2026-11-19T11:40:11.206Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.487Z"
+      "lastSuccess": "2026-11-19T11:40:11.609Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.037Z"
+      "lastSuccess": "2026-11-19T11:40:11.188Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.208Z"
+      "lastSuccess": "2026-11-19T11:40:11.194Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.226Z"
+      "lastSuccess": "2026-11-19T11:40:11.248Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.247Z"
+      "lastSuccess": "2026-11-19T11:40:11.286Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.215Z"
+      "lastSuccess": "2026-11-19T11:40:11.261Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.196Z"
+      "lastSuccess": "2026-11-19T11:40:11.235Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.203Z"
+      "lastSuccess": "2026-11-19T11:40:11.233Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.221Z"
+      "lastSuccess": "2026-11-19T11:40:11.339Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.270Z"
+      "lastSuccess": "2026-11-19T11:40:11.257Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.055Z"
+      "lastSuccess": "2026-11-19T11:40:11.219Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.174Z"
+      "lastSuccess": "2026-11-19T11:40:11.252Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.194Z"
+      "lastSuccess": "2026-11-19T11:40:11.226Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.261Z"
+      "lastSuccess": "2026-11-19T11:40:11.387Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T11:35:07.326Z"
+      "lastErrorAt": "2026-11-19T11:40:11.265Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.325Z"
+      "lastSuccess": "2026-11-19T11:40:11.336Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.384Z"
+      "lastSuccess": "2026-11-19T11:40:11.412Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.313Z"
+      "lastSuccess": "2026-11-19T11:40:11.331Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T11:35:07.366Z"
+      "lastSuccess": "2026-11-19T11:40:13.705Z"
     }
   },
   "items": [
+    {
+      "id": "story_366114ee547f08af",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
+      "snippet": "An official source says dozens of animal poisoning cases have emerged in the West Bank, with contaminated cisterns and food bait found across grazing areas.",
+      "link": "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T11:30:05.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_0388a3d7701dd241",
       "source": "Guardian",
@@ -2679,19 +2692,6 @@
       "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
       "imageUrl": null,
       "publishedAt": "2026-11-19T05:00:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aae72e4c06797373",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-      "snippet": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas  \nThe world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels t",
-      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T05:00:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
