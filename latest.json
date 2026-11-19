@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-19T01:15:08.843Z",
+  "updatedAt": "2026-11-19T01:20:08.431Z",
   "sourceStatus": {
+    "Guardian": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.512Z"
+    },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.336Z"
-    },
-    "Al Jazeera": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.886Z"
-    },
-    "PBS": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.930Z"
-    },
-    "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.272Z"
-    },
-    "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.402Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.968Z"
+      "lastSuccess": "2026-11-19T01:20:08.552Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.911Z"
+      "lastSuccess": "2026-11-19T01:20:08.565Z"
     },
-    "Sky News": {
+    "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.908Z"
+      "lastSuccess": "2026-11-19T01:20:08.586Z"
     },
-    "Politico": {
+    "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.904Z"
+      "lastSuccess": "2026-11-19T01:20:08.599Z"
     },
-    "Washington Post": {
+    "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.913Z"
+      "lastSuccess": "2026-11-19T01:20:08.626Z"
+    },
+    "PBS": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.647Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.933Z"
+      "lastSuccess": "2026-11-19T01:20:08.684Z"
     },
-    "Guardian": {
+    "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.882Z"
+      "lastSuccess": "2026-11-19T01:20:08.734Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.111Z"
+      "lastSuccess": "2026-11-19T01:20:08.748Z"
     },
-    "France24": {
+    "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.938Z"
-    },
-    "CBS News": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.927Z"
+      "lastSuccess": "2026-11-19T01:20:08.751Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.922Z"
+      "lastSuccess": "2026-11-19T01:20:08.757Z"
+    },
+    "Washington Post": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.761Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.987Z"
+      "lastSuccess": "2026-11-19T01:20:08.768Z"
+    },
+    "CBS News": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.771Z"
+    },
+    "France24": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.774Z"
+    },
+    "Politico": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.784Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.798Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T01:15:08.990Z"
-    },
-    "Semafor": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.057Z"
+      "lastErrorAt": "2026-11-19T01:20:08.806Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.997Z"
-    },
-    "DW": {
-      "online": true,
-      "lastSuccess": "2026-11-19T01:15:08.981Z"
+      "lastSuccess": "2026-11-19T01:20:08.815Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.016Z"
+      "lastSuccess": "2026-11-19T01:20:08.851Z"
+    },
+    "Semafor": {
+      "online": true,
+      "lastSuccess": "2026-11-19T01:20:08.930Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T01:15:09.308Z"
+      "lastSuccess": "2026-11-19T01:20:09.167Z"
     }
   },
   "items": [
+    {
+      "id": "story_06181339fac7ba1a",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Settler rams into Palestinians at multiple locations in central Israel",
+      "snippet": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T01:13:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_75c12444c6ea9571",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Musk on midterms spending: ‘I feel pretty foolish’",
+      "snippet": "Tesla CEO Elon Musk on Wednesday said he feels “pretty foolish” after he spent $442 million toward Republican campaigns in the 2026 midterm elections, where the party saw sweeping losses to Democrats. Musk, the world’s richest person, told ",
+      "link": "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Zoom-In-Musk_100826_AP_Julia-Deamree-Nikhinson.jpg?w=900",
+      "publishedAt": "2026-11-19T01:11:24.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_dc8971aae4da6e37",
       "source": "Guardian",
@@ -118,6 +144,19 @@
       "link": "https://www.cbsnews.com/video/some-americans-stocking-up-on-supplies-after-wave-of-major-tech-outages/",
       "imageUrl": null,
       "publishedAt": "2026-11-19T01:07:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eda4d7e98a2a0a41",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": "WATCH:  NASA's Voyager 1 now a light-day away after 1977 launch",
+      "snippet": "NASA launched its Voyager 1 space probe in 1977. It's made it more than 16 billion miles in space, marking the farthest any human made object has ever traveled.",
+      "link": "https://abcnews.com/video/138265738/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T01:06:59.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -149,6 +188,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_6a0c40898d549363",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives",
+      "snippet": "Storm expected to move into southern California, with LA residents warned of potential evacuation orders\nHeavy rain pounded California’s Bay area, with record rainfall in downtown San Francisco and flooding and power outages across the regi",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T01:03:34.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1f58f5893ca5972d",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -169,7 +221,7 @@
       "snippet": "During a House hearing Wednesday, DHS Secretary Markwayne Mullin pushed back on the idea that recent tech outages were related or the result of cyberattacks. CBS News' Taurean Small has more.",
       "link": "https://www.cbsnews.com/video/intel-officials-grilled-by-lawmakers-on-recent-tech-outages/",
       "imageUrl": null,
-      "publishedAt": "2026-11-19T01:01:55.000Z",
+      "publishedAt": "2026-11-19T01:01:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -201,6 +253,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_263bc90af0dc09dc",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " CMA Awards 2026: Taylor Swift, Ella Langley, Jessica Chastain and more hit the carpet",
+      "snippet": "Country music's biggest stars and recognizable faces from across the world of entertainment hit the 2026 CMA Awards in style Wednesday night.",
+      "link": "https://abcnews.com/GMA/Style/cma-awards-2026-red-carpet-style/story?id=138221006",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:58:59.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_47c732f8291cdd91",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -214,12 +279,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_4b27184b6df9edd1",
+      "id": "story_3f4d23c4cdcdc488",
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet",
       "snippet": "Iran's Islamic Revolutionary Guard Corps warned Bahrain's monarchy its survival is in doubt as drones and missiles hit the U.S. Navy's Fifth Fleet home.",
-      "link": "https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-push-evict-us-fifth-fleet",
+      "link": "https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:54:57.000Z",
       "tier": "routine",
@@ -240,19 +305,6 @@
       "corroboratedCount": 2
     },
     {
-      "id": "story_eda4d7e98a2a0a41",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": "WATCH:  NASA's Voyager 1 now a light-day away after 1977 launch",
-      "snippet": "NASA launched its Voyager 1 space probe in 1977. It's made it more than 16 billion miles in space, marking the farthest any human made object has ever traveled.",
-      "link": "https://abcnews.com/video/138265738/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:54:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_06a5ee332257723b",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -260,7 +312,20 @@
       "snippet": "President Trump has arrived in China ahead of his highly-anticipated meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. CBS News' Nancy Cordes reports.",
       "link": "https://www.cbsnews.com/video/latest-on-trumps-summit-with-xi-putin/",
       "imageUrl": null,
-      "publishedAt": "2026-11-19T00:54:05.000Z",
+      "publishedAt": "2026-11-19T00:54:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_ed2e1f48c5614903",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Shadow of Yalta Hangs Over Trump’s Summit in China",
+      "snippet": "A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:52:52.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
@@ -274,6 +339,19 @@
       "link": "https://www.foxnews.com/outkick-sports/tyler-herro-three-words-sums-status-ex-teammate-bam-adebayo-first-game-since-punching-incident",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:51:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_178f94915ff3cf34",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+      "snippet": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’\n\nSign up for US breaking News email\n\nLinked to that, the White House held a briefing call with se",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:50:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -318,17 +396,43 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_997db19d302ae312",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement",
+      "snippet": "In less than a week, the painting went from top lot to top liability — and back again. On Wednesday it set a record for the artist.",
+      "link": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:47:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bef9892dbf553562",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Unemployment rate jumps to 4.9% – the highest level in five years",
-      "snippet": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal\nUnemployment has surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries the economy has passed a tipping point f",
+      "snippet": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal\n\nGet our daily political email, free app or daily news podcast\n\nUnemployment has surged to 4.9% in October, from 4.7%, in a shock increase that wil",
       "link": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:47:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_7ab40838ae16e90f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Iran ramps up attacks on Gulf countries after U.S. strikes",
+      "snippet": "America's Persian Gulf allies and oil tankers are under fire as Iran appears to lash out following U.S. strikes on a key island in the Strait of Hormuz.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:46:41.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_303dc1c63a7ca19a",
@@ -339,9 +443,9 @@
       "link": "https://www.pbs.org/newshour/nation/rainfall-supercharged-by-el-nino-causes-road-flooding-synagogue-roof-collapse-in-south-florida",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:46:37.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_73ac3bf4e808aee6",
@@ -355,6 +459,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_cd59702caf3401b5",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Anthropic announces price of $83 per share for IPO",
+      "snippet": "Anthropic is set for a valuation well above $1 trillion.",
+      "link": "https://abcnews.com/Business/anthropic-announces-price-83-share-ipo/story?id=138245320",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:44:55.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_a72278ca30f59e91",
@@ -381,6 +498,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_be8b727b149731d8",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+      "snippet": "The sale valued the A.I. company, which makes the Claude chatbot, at more than $1.5 trillion. Shares begin trading on Thursday.",
+      "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:41:26.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_c4a653fe6dabd51e",
@@ -456,7 +586,20 @@
       "link": "https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:36:03.000Z",
-      "tier": "routine",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_1ff552f460d619ee",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "From pop stars to poets to politicians, hundreds gather for joyful tribute to Gloria Steinem - AP News",
+      "snippet": "From pop stars to poets to politicians, hundreds gather for joyful tribute to Gloria Steinem  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmQ5UUZzSGVwMy1RWXZfckM5Z0hPWFdRVnE2U283c2REWDZGSDVadGxnR0NPa3phSElUU1V3R05oRDE2OUxFUHhnM1FxU0J0SmxYWWdHZDk4bm1PT3pQLUR1SFZCeHVLNU5FN0cyTkxxZXMzOUpOeUdLc2RQYjRwaEF3UEVodzhpT3RF?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:35:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -487,6 +630,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_b8d9033d5394309a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
+      "snippet": "The Colombian president said his nation would not allow American forces to take part in anti-cartel operations on its soil.",
+      "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:30:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f76e6f25e07f7f0e",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -513,19 +669,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0875000a0eabdb8a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Dedan Thomas Jr. scores 30 as No. 8 Houston topples No. 1 Florida 86-76 in Players Era 8 semifinals - AP News",
-      "snippet": "Dedan Thomas Jr. scores 30 as No. 8 Houston topples No. 1 Florida 86-76 in Players Era 8 semifinals  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUJ1SzZVblRrU3IxdnpoWXEtbzQ3ekRhRnFBUTMzcFNnRlN2bjVlblA1TGo5X25rblpvb0ktWmdyWWRWQkxhNThzVC1NTjdaSzVjS2t0cmY4MGl2ZlA2dDl4WmRXMG81N0dfNmxBRnJaNUQxazJmUEVpODRsSEVvazNNenpvcUhQTnhTbW8wQmpELVJwNWFN?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:26:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_a40bab2dbc024556",
       "source": "Washington Post",
       "sourceColor": "#5A3E3E",
@@ -534,9 +677,9 @@
       "link": "https://www.washingtonpost.com/nation/2026/11/18/russian-national-charged-with-spying-silicon-valley-defense-contractor/",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:25:28.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_6dc0d0327334a9ed",
@@ -573,9 +716,9 @@
       "link": "https://www.nbcnews.com/politics/2026-election/high-school-valedictorians-get-nike-shoes-request-mississippis-incomin-rcna610116",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:17:24.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_d8abb0b94743f7a0",
@@ -604,24 +747,11 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_263bc90af0dc09dc",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " CMA Awards 2026: Taylor Swift, Glen Powell and more step out on red carpet",
-      "snippet": "The 60th annual Country Music Association Awards are being held Nov. 18 in Nashville, Tennessee, with Lainey Wilson as host.",
-      "link": "https://abcnews.com/GMA/Style/cma-awards-2026-red-carpet-style/story?id=138221006",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:07:56.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_151493f70770098d",
       "source": "Fox News",
       "sourceColor": "#B4453F",
-      "headline": "Bucket-list vacation destination just got a lot tougher for Americans to reach",
-      "snippet": "U.S. airlines are cutting seats to popular vacation destination Costa Rica this winter, with January capacity down 12.5% and San José hit harder than Liberia as airfares climb.",
+      "headline": "Bucket list vacation destination just got a lot tougher for Americans to reach",
+      "snippet": "U.S. airlines are cutting seats to popular vacation destination Costa Rica this winter, with January capacity down 12.5%, and San José hit harder than Liberia as airfares climb.",
       "link": "https://www.foxnews.com/travel/bucket-list-vacation-destination-got-lot-tougher-americans-reach",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:07:37.000Z",
@@ -634,7 +764,7 @@
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'",
-      "snippet": "James Carville challenged the far-left wing of the Democratic Party to test their popularity and run their dream candidate against mainstream rivals in the 2028 presidential primary.",
+      "snippet": "James Carville challenged the far-left wing of the Democratic Party to test its popularity and run a dream candidate against mainstream rivals in the 2028 presidential primary.",
       "link": "https://www.foxnews.com/media/carville-dares-far-left-run-somebody-against-mainstream-dems-primary-end-civil-war",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:06:11.000Z",
@@ -654,19 +784,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_32c69df381dbac39",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "CMA Awards 2026: Taylor Swift, Lainey Wilson dazzle as stars hit the red carpet",
-      "snippet": "Taylor Swift and more hit the CMAs red carpet in standout styles. See all the looks and vote for your favorite fashion moment.",
-      "link": "https://www.foxnews.com/entertainment/cma-awards-2026-taylor-swift-lainey-wilson-dazzle-stars-hit-red-carpet",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:03:41.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     },
     {
       "id": "story_dafd55170e41e453",
@@ -690,7 +807,20 @@
       "link": "https://abcnews.com/Politics/judge-extends-temporary-restraining-order-blocks-construction-trumps/story?id=138262809",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:03:07.000Z",
-      "tier": "developing",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cbeeca485e6ac24b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida - AP News",
+      "snippet": "Rainfall supercharged by El Niño causes road flooding, collapsed synagogue roof in south Florida  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2hjT213Zm5QNUU1QkJIX1pEUWNsR1lCbUhOVm1IR3VWNmpoMVczbjBTVkFkbGUyWEQ2elJpT1BYUkNpLVZja3kwbzZHbXdLUGs1dGc5OFI2bVpQbEhqSS1WcUprOTZsTzU2Y2hxcm12UUdRTTdqektyNWZ2UTVpNWpoOEhqLXJBUHpPXzhxZFdFYzJ3ZVJfZzZuSThhRXB4Q0FWTURB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:03:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
     },
@@ -725,7 +855,7 @@
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
       "headline": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-      "snippet": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+      "snippet": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:01:02.000Z",
@@ -742,9 +872,9 @@
       "link": "https://thehill.com/homenews/6229121-gop-warns-trump-trilateral-summit/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26322237968353-e1795046052590.jpg?w=900",
       "publishedAt": "2026-11-19T00:00:59.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_ac88d87dc26c5c3b",
@@ -799,6 +929,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e07f3bce8b5b862a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Hardcore GTA fans ditch work so they have time to play",
+      "snippet": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
+      "link": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_0c9ce52f3a577c87",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -848,7 +991,7 @@
       "publishedAt": "2026-11-18T23:55:44.000Z",
       "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 3
     },
     {
       "id": "story_8b069159513b0b61",
@@ -864,6 +1007,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e6e30802e23ef22f",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement - Reuters",
+      "snippet": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZV9uT1R6QjFJeHlkYmhUeTdIQ0F0Ync2akZibV9hdmhtNEZMelUzSkk1WlFTNTJUd2NKdC1ILW9rWHZJb3JZemxwT2dwNlc5QjNIYzlNS1kwVkt6aDl5aVl0VFdvRUNPYzBMeXJtMnM4YVJPWjdvSzZ6eWlQNXVFdGdhNkw3YzhpQ0V4Yk11dlFKS21RREIxZVcwUFJxS0xKZ25TMDE1bGtDRUJ2aUp2VVFBVkUtSDU1VXBLNENB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:55:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_56673e8fb67a197f",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -872,9 +1028,9 @@
       "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:54:56.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_6f64192690cac4ab",
@@ -885,6 +1041,19 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:53:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_70abe257caa0dd7a",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Florida pastor convicted in plot to kill Haitian president",
+      "snippet": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
+      "link": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:52:36.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -955,17 +1124,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_cd59702caf3401b5",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Anthropic announces price of $83 per share for IPO",
-      "snippet": "Anthropic is set for a valuation well above $1 trillion.",
-      "link": "https://abcnews.com/Business/anthropic-announces-price-83-share-ipo/story?id=138245320",
+      "id": "story_c4da92541f779d4f",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Anthropic's IPO set for blastoff in key test for AI boom",
+      "snippet": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
+      "link": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T23:46:40.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-11-18T23:47:00.000Z",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_ffb5b824c47ff989",
@@ -976,9 +1145,9 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4808252/federal-judge-14-day-extension-restraining-order-block-trump-arch-as-litigation-continues/",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:46:24.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_36c00fa2bd7676cd",
@@ -989,15 +1158,15 @@
       "link": "https://www.pbs.org/newshour/show/news-wrap-democrats-nominate-hakeem-jeffries-for-speaker-of-the-house",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:45:27.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_c6d87bb33ae78f6a",
       "source": "BBC",
       "sourceColor": "#6A57B8",
-      "headline": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "headline": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
       "snippet": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
@@ -1007,14 +1176,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_997db19d302ae312",
+      "id": "story_d17055218fe67266",
       "source": "NYT",
       "sourceColor": "#3E3E3E",
-      "headline": "Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement",
-      "snippet": "In less than a week, the painting went from top lot to top liability — and back again. On Wednesday it set a record for the artist.",
-      "link": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
+      "headline": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
+      "snippet": "The footage offers a detailed account of the collapse last week, which killed eight people. On Wednesday, the city said that an adjacent building would need to be demolished.",
+      "link": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T23:41:24.000Z",
+      "publishedAt": "2026-11-18T23:43:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1033,6 +1202,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_04acc2886ccc61d6",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas - AP News",
+      "snippet": "US and Venezuela sign a deal to reestablish military ties, Hegseth says in visit to Caracas  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk1RlZIUXh1dXlFVHVzSlh1YjVibG0wdV81RS1na0Ywc3p5MEhaOXB6YlREV3FFRzJpM1VhMFgzYnNLU3hvaXBXOUh4TkpXa01XYTRzS1o1R0VXcHhzZXc4ZkRZYUIxRVVpRXB6Zm9BRUNMQlE5aGFySVUzR2RpVmpsV1A2UFNSLTRITEZNVG5BdUlZ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:39:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_32224de2dbb70a71",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1046,6 +1228,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f8e9049856f1237b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
+      "snippet": "While the three leaders would like to project the image that they are guiding the world order, they are unlikely to settle major issues at their gathering in Shenzhen, China.",
+      "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:35:48.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_b0717db2279dfd24",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1054,9 +1249,22 @@
       "link": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:35:12.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_e890038b522e275d",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse - AP News",
+      "snippet": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenVGckxZaVBEZ3NVQnpZRkczWEZyeUtaaDRkd0FoT0pfYkdsY21MeVExVmZJR3NTSUJoNnp1TzlSY0pUSWNTQmkySUxKSnJ5UzIzX18yMFl4SGhVQU1Oa0VjR1oxWjJscTVHdnJpMjZEb1lmeDNvSHd0aEZTaFJ3SWktbkVTR3dfdTJVUUFuU0sySnZLNUx5dGNYRVBZcl80b2gydUdR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:35:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_75fa20dc18bb2ede",
@@ -1076,13 +1284,26 @@
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Irish activist indicted in US over alleged destruction of $60M military plane",
-      "snippet": "United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair.",
+      "snippet": "United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair",
       "link": "https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:29:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_8e5294945485c026",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Judge extends block on construction of Trump's triumphal arch - Reuters",
+      "snippet": "Judge extends block on construction of Trump's triumphal arch  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmVRdG1JVzZLUGVCQVVXQnEzdW1PQ3dra0VWVlQ3NGJaNDdIOVoxc0hzNzBFZnNsTy1tbi13Q1EtRHJ2WEYwTTJSX1YwTWJodGpnMjVETE9zLVYxc3Noc3BZNnJUc3MwR3h4YnJsZnJ1MDg0UGdPNUFTOGFGaUxsQU5ldC0wd2VTVk41VGFXWmZydEFldk9hYUt6aGlXLWZFSTVtRDVwbnNqeHNmY2w0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:29:29.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_a9a048ea5e7cb5b1",
@@ -1106,16 +1327,16 @@
       "link": "https://www.cbsnews.com/video/what-to-expect-as-trump-in-china-for-talks-with-xi-putin/",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:28:47.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_1431aa957fde93a3",
       "source": "BBC",
       "sourceColor": "#6A57B8",
-      "headline": "Russian man accused of spying on US tech defence company that assists Ukraine",
-      "snippet": "The suspect followed employees and and was found with fake US ID documents and two Russian passports, US prosecutors say.",
+      "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "snippet": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
       "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:28:03.000Z",
@@ -1132,9 +1353,9 @@
       "link": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:27:37.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_494eb7fac761782a",
@@ -1167,7 +1388,7 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-      "snippet": "Military incursion into Gaza, the first since ceasefire was agreed last October, comes as Eisenkot seeks to form government without Netanyahu\nThe Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground o",
+      "snippet": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu\nThe Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow ",
       "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:25:25.000Z",
@@ -1179,11 +1400,37 @@
       "id": "story_40942ef4a24b5821",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
-      "headline": "Russian national who targeted Palantir workers charged as foreign agent, sources say",
+      "headline": "Russian national who targeted Palantir workers charged as a foreign agent, sources say",
       "snippet": "Igor D’iu bought laptops, remote access software and cellphones, then sat at a Palo Alto coffee shop near Palantir’s headquarters, according to an affidavit.",
       "link": "https://www.nbcnews.com/politics/justice-department/russian-national-igor-diu-targeted-palantir-workers-sources-say-rcna610112",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:24:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a06ed46cd23ed91c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses - Reuters",
+      "snippet": "Democrats probe whether Lutnick helped Cantor Fitzgerald avoid Nvidia-linked losses  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTZfWHVZQkZBSHhzWl9pY3ZMUk9HQVhEUmtmckJNcVBYUXFHQ2ZDZF9XUkpESEF2bjM1cjh3S2R6T3N4cG8xeDJCS0NOQ1JLMDRRcFZvUjl0X3YzREVxM1RheFRESF9QekdKTnpFRC1oaW51Mkwwb0w1REYwSngzRjh1VXA1ZVJick5SczdmTjltWExrV0JEeXRVUmVpbDhEQ0lORlAzWGpWaG50UWJFOGpValMzd09jZGhQNQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:23:41.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_cb025945b716cc7d",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "snippet": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives.",
+      "link": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:23:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1199,7 +1446,7 @@
       "publishedAt": "2026-11-18T23:22:50.000Z",
       "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 2
     },
     {
       "id": "story_ce685956666d4ce7",
@@ -1238,7 +1485,7 @@
       "publishedAt": "2026-11-18T23:19:26.000Z",
       "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_75205eb53fce93c0",
@@ -1280,6 +1527,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f37d6ba5dd78e9c5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner - AP News",
+      "snippet": "DOT's Duffy said ground stop might have been shorter if L3Harris had spotted the problem sooner  AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZW1PRm53Ti1nVTlRejJTV3loQl9QbkxGWVdoVTFucEVid1BXZjJYbFpVc2RPVjhLRndBc1pyeVpmNk52Wl9lTnBCZUFpUFVGdy1PdkJteVA0Y05rbXNQX3VRVjVnSTMyenBOaTF5TlE5THBBYURRNkZhRk9taGJLem9LaVFBZFA2a1JYcQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:14:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1fe6144e69912e80",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1306,15 +1566,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d17055218fe67266",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Video from MTA Bus Captures Moments Before Fatal Brooklyn Building Collapse",
-      "snippet": "The footage offers a detailed account of the collapse last week, which killed eight people. On Wednesday, the city said that an adjacent building would need to be demolished.",
-      "link": "https://www.nytimes.com/2026/11/18/nyregion/brooklyn-building-collapse-video.html",
+      "id": "story_248ed118dafa55b1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Fishermen from Ecuador sue Trump administration over boat strike - AP News",
+      "snippet": "Fishermen from Ecuador sue Trump administration over boat strike  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUExGelNTM2dSQkwyel96TlkzWTV0WXNRR2QzVmNzVkMxRjRxUDFHOEgyeHhhQV9MX0pET1FQVVE0XzF0TTN6SzNkQ2lxVDBhb2VIMmpKY2NHWlc1cS10R0pqLTdHbjdiZWtWYUxFMElCb3pYRWg1VllVTVFVRFRGWDdLTXR1cmhqV2c0b1J5V0MyRk5ZTXJ6eGJVY3R4dFlZMVlWRW9aMA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T23:12:59.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-18T23:10:39.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1327,6 +1587,19 @@
       "link": "https://www.pbs.org/newshour/show/on-settle-in-min-jin-lee-and-amna-nawaz-discuss-the-real-stories-behind-her-novels",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:10:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4b835e60b6c65815",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+      "snippet": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
+      "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:10:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1348,7 +1621,7 @@
       "id": "story_058708bf6ccf00f8",
       "source": "Fox News",
       "sourceColor": "#B4453F",
-      "headline": "Two bad teams, one cheap ticket: The Jets-Chargers seats barely cost more than a SoFi cheeseburger",
+      "headline": "Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger",
       "snippet": "Aaron Glenn's New York Jets have lost five straight, and the matchup with the 1-8 Los Angeles Chargers has fans paying just $26 as both teams eye the NFL Draft instead.",
       "link": "https://www.foxnews.com/outkick-sports/two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-cost-more-than-sofi-cheeseburger",
       "imageUrl": null,
@@ -1366,7 +1639,33 @@
       "link": "https://www.pbs.org/newshour/politics/high-school-valedictorians-to-get-custom-kicks-after-sen-elect-colom-asks-nike-to-just-do-it",
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:07:29.000Z",
-      "tier": "routine",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_7fa662933725cd7d",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Anthropic IPO to mint thousands of millionaires - Reuters",
+      "snippet": "Anthropic IPO to mint thousands of millionaires  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:06:33.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_83a52a0dbb40e219",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat - AP News",
+      "snippet": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWZGc1M5VlU3LU01dEhuVXE2TXp6ekxhOXpob2p2ZzEtQnJQLW0xcGh4UVNRTm94Y3pYOWZldjd3cFFvZmJweDJNOW9Ic2Nad3ZqWXZGWUZQcFdIVFdPOWJ0RjNvRm1feTNHek5rQkhxLVZOZmp1OTc2NW9wWkxvRzJkcC1nUkFMTDl4ZjctY2hqNWd1?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:06:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1380,6 +1679,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T23:04:06.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_82fd188902c06f28",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants - AP News",
+      "snippet": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3oySmt4WDNyUnNPN1QzRXJpcDZ1OWFUUkFZMXlJX3dfQXYxWkFSaDNuN2hLb1NpM3hpQWowSVlLQmVMd1c3MUM5RnY0ck9DMXh0TDNOTmc0cFMyeS1ZX0dHSDRJQzdmMGhodHRCSFF6VThMb24yem4zSG0wd3hRbE1oa19Ubk55T1R5RXdGN1NSaXpNSzkzTkNaR3I2VXNxdGlPdFNaeGFXbjlTS1c4Tm1OelIwVm8?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T23:03:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1488,17 +1800,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_95ef7fd8c0cd6703",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - AP News",
-      "snippet": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
+      "id": "story_5654a5d4aaa40cd9",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "How the Anthropic IPO stacks up against SpaceX - Reuters",
+      "snippet": "How the Anthropic IPO stacks up against SpaceX  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T22:55:00.000Z",
+      "publishedAt": "2026-11-18T22:54:09.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_815f25c11f127191",
@@ -1531,7 +1843,7 @@
       "source": "Fox News",
       "sourceColor": "#B4453F",
       "headline": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
-      "snippet": "Suspected Russian aircraft entered Japanese airspace near Okinoshima as Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
+      "snippet": "Suspected Russian aircraft entered Japanese airspace near Okinoshima, and Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
       "link": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:52:36.000Z",
@@ -1566,24 +1878,24 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_70abe257caa0dd7a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Florida pastor convicted in plot to kill Haitian president",
-      "snippet": "A Florida pastor with dual Haitian-American citizenship has been convicted of U.S. charges related to the 2021 assassination of Haitian President Jovenel Moïse.",
-      "link": "https://www.cbsnews.com/news/haitian-president-jovenel-moise-assassination-conviction/",
+      "id": "story_95ef7fd8c0cd6703",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion - AP News",
+      "snippet": "Anthropic reportedly prices its IPO at $83 per share, valuing the AI giant at $1.5 trillion  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVVmSzl3dVBhbDdFbTMtTUl2LWVHU1FRb2hvYzJZNWdFU0ZDTmU3NFBVNDVWQXNXQlk2QmkzblN4MUplLWVGc1NheHNRZVpZTHZ1eG9OME53SUNtOExJQzNFSTJpLUw0cWxnSjR4VWlXLWZhZUZsc0dna1J6bmxZTTNBb0l2LUpq?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T22:49:39.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-11-18T22:49:32.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 3
     },
     {
       "id": "story_ffaf75f088d156ed",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
-      "snippet": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City \nGamers across Australia woke up Thursday morning feeling like Christmas came early, some bleary-eyed from late night",
+      "headline": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+      "snippet": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City\n\nGet our weekend culture and lifestyle email\n\nGamers across Australia woke up Thursday morning feeling like Christmas",
       "link": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:48:46.000Z",
@@ -1592,16 +1904,29 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_248ed118dafa55b1",
+      "id": "story_5bf016b91c636f9e",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Fishermen from Ecuador sue Trump administration over boat strike - AP News",
-      "snippet": "Fishermen from Ecuador sue Trump administration over boat strike  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUExGelNTM2dSQkwyel96TlkzWTV0WXNRR2QzVmNzVkMxRjRxUDFHOEgyeHhhQV9MX0pET1FQVVE0XzF0TTN6SzNkQ2lxVDBhb2VIMmpKY2NHWlc1cS10R0pqLTdHbjdiZWtWYUxFMElCb3pYRWg1VllVTVFVRFRGWDdLTXR1cmhqV2c0b1J5V0MyRk5ZTXJ6eGJVY3R4dFlZMVlWRW9aMA?oc=5",
+      "headline": "Fed minutes: Higher interest rates needed in December as inflation worries mount - AP News",
+      "snippet": "Fed minutes: Higher interest rates needed in December as inflation worries mount  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd2Q1ZnpsMjBsaWNUMEJIVUxmTTNSeUYyOWphQWtydFJKbDIzN3JiUXpvcEQ0dnhBcFVhRHdGWTR4dTRCQW5FNi1BVE8ycGtnTXEtWkZJMS1COGc5M25oUmNWb1hMemNpZ0p3MlRGSjBRLU1rX2cwRUlrbjNCWEcxazRkazhVd2dTUUFuWU1KN1RiVHBURHc?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T22:47:00.000Z",
+      "publishedAt": "2026-11-18T22:48:00.000Z",
       "tier": "major",
-      "topic": "news",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7129039b71518a1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NFL Scores, News & Stats | Latest Super Bowl News - AP News",
+      "snippet": "NFL Scores, News & Stats | Latest Super Bowl News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:46:03.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1609,7 +1934,7 @@
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
       "headline": "Trump officials seek to ease anxiety over sweeping tech outages",
-      "snippet": "The Trump administration is seeking to calm Americans about a series of tech outages that have raised public anxiety and spurred questions about whether there is a larger problem.  National Security Advisor Marco Rubio, speaking on camera f",
+      "snippet": "The Trump administration is seeking to calm Americans about a series of tech outages that have raised public anxiety and spurred questions about whether there is a larger problem.  Speaking on camera from Asia, Secretary of State Marco Rubi",
       "link": "https://thehill.com/homenews/administration/6228962-trump-officials-seek-to-ease-anxiety-over-sweeping-tech-outages/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26322610916241-e1795041643984.jpg?w=900",
       "publishedAt": "2026-11-18T22:45:43.000Z",
@@ -1621,12 +1946,25 @@
       "id": "story_fb545258c35ce3d0",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
-      "headline": "Russian national indicted for allegedly spying on Silicon Valley defense company",
+      "headline": "Russian national indicted on charges of allegedly spying on Silicon Valley defense company",
       "snippet": "A federal grand jury indicted a Russian national on Wednesday for allegedly spying on employees of an unidentified technology and defense company based in Silicon Valley. Igor D’iu was charged with conspiring to act as an agent of a foreign",
       "link": "https://www.washingtonexaminer.com/news/justice/4808094/russian-national-spy-silicon-valley-defense-company-stalking/",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:43:21.000Z",
-      "tier": "routine",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_29a9e805ec29f78e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Surge in software patches likely behind recent tech outages, experts say - Reuters",
+      "snippet": "Surge in software patches likely behind recent tech outages, experts say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:43:02.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1639,9 +1977,9 @@
       "link": "https://www.nytimes.com/2026/11/18/briefing/trump-putin-xi-meeting.html",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:42:26.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_cebcf42de785fca1",
@@ -1657,16 +1995,16 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_018e3f2464e1e539",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Thune: \"Open question\" whether Senate GOP can pass massive defense bill",
-      "snippet": "Senate Majority Leader John Thune said Wednesday it's still an \"open question\" whether Republicans have the votes to approve a massive new defense package sought by the Trump administration.",
-      "link": "https://www.cbsnews.com/news/thune-senate-gop-defense-bill-reconciliation/",
+      "id": "story_2e562f7bf2931c0a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "The Vice City Heat: Miami’s NBA team goes all in on ‘Grand Theft Auto VI’ collaboration - AP News",
+      "snippet": "The Vice City Heat: Miami’s NBA team goes all in on ‘Grand Theft Auto VI’ collaboration  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUcxQ1RFX3RZeDZHRWUtb21xRGdNUUkya3V6V0xOMjhjXzF6WXE0aEJYWElBaGdwRldZM3dkTTZnenVTeDZ3d2h3Sk16SFkxVTlrVWFYRkszXzBQZTd6LXdSN0labGkzT1h0ZFB6empTSlUxcWRQU1BVVUpsV3pCbHVESVpUdVk1QnMwTEJlNm90c1IyMUE?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T22:38:58.000Z",
-      "tier": "routine",
-      "topic": "news",
+      "publishedAt": "2026-11-18T22:40:00.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1678,6 +2016,19 @@
       "link": "https://www.pbs.org/newshour/politics/ap-report-bernie-sanders-unveils-how-hell-push-for-medicare-for-all-when-democrats-take-power",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:38:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_018e3f2464e1e539",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Thune: \"Open question\" whether Senate GOP can pass massive defense bill",
+      "snippet": "Senate Majority Leader John Thune said Wednesday it's still an \"open question\" whether Republicans have the votes to approve a massive new defense package sought by the Trump administration.",
+      "link": "https://www.cbsnews.com/news/thune-senate-gop-defense-bill-reconciliation/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:38:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1706,7 +2057,7 @@
       "publishedAt": "2026-11-18T22:36:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_c9644b0a54ed0bd5",
@@ -1722,12 +2073,12 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e07f3bce8b5b862a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Hardcore GTA fans ditch work to prioritize play",
-      "snippet": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
-      "link": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/",
+      "id": "story_c3261a1d086e0f1f",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "snippet": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:34:56.000Z",
       "tier": "routine",
@@ -1761,19 +2112,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_eae606ee908b1cef",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Nvidia shares fall despite bumper earnings",
-      "snippet": "Nvidia shares dipped Wednesday after its bumper earnings failed to quell jitters over Jensen Huang’s departure.",
-      "link": "https://www.semafor.com/article/11/18/2026/nvidia-shares-fall-despite-bumper-earnings",
-      "imageUrl": "https://img.semafor.com/dea21fbe221d84c8ad7f2aec0d483b6f92338188-3500x2333.jpg",
-      "publishedAt": "2026-11-18T22:33:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_6ba25faf7ee4e07a",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -1781,6 +2119,19 @@
       "snippet": "Cases of the flu are spiking early nationwide, with the CDC reporting Louisiana at very high activity and influenza A (H1N1) the top virus this season.",
       "link": "https://www.foxnews.com/health/flu-activity-rises-across-us-6-states-reach-high-levels-cdc-data-shows",
       "imageUrl": null,
+      "publishedAt": "2026-11-18T22:33:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eae606ee908b1cef",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Nvidia shares fall despite bumper earnings",
+      "snippet": "Nvidia shares dipped Wednesday after its bumper earnings failed to quell jitters over Jensen Huang’s departure.",
+      "link": "https://www.semafor.com/article/11/18/2026/nvidia-shares-fall-despite-bumper-earnings",
+      "imageUrl": "https://img.semafor.com/dea21fbe221d84c8ad7f2aec0d483b6f92338188-3500x2333.jpg",
       "publishedAt": "2026-11-18T22:33:23.000Z",
       "tier": "routine",
       "topic": "news",
@@ -1821,9 +2172,9 @@
       "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
       "imageUrl": null,
       "publishedAt": "2026-11-18T22:31:41.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_53bb9e96c5a40eca",
@@ -1885,7 +2236,7 @@
       "snippet": "The director of national intelligence and multiple sources said the National Security Agency's network outage stemmed from the patching of vulnerabilities in the programming language, PHP.",
       "link": "https://www.cbsnews.com/news/national-security-agency-network-outage-software-vulnerability/",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T22:28:21.000Z",
+      "publishedAt": "2026-11-18T22:28:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1901,17 +2252,17 @@
       "publishedAt": "2026-11-18T22:27:58.000Z",
       "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 2
     },
     {
-      "id": "story_b8d9033d5394309a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Colombia Rejects Joint Plan With U.S. to Target Drug Gangs",
-      "snippet": "The Colombian president said his nation would not allow Americans forces to take part in anti-cartel operations on its soil.",
-      "link": "https://www.nytimes.com/2026/11/18/world/americas/colombia-us-joint-military.html",
+      "id": "story_cd4c072bf6d08976",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Paramedic responding to deadly accident discovers son is the victim",
+      "snippet": "Logan Mumford, 28, died from his injuries after a car he had been working on fell on top of him, authorities said.",
+      "link": "https://abcnews.com/US/paramedic-responding-deadly-accident-discovers-son-victim/story?id=138257124",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T22:26:59.000Z",
+      "publishedAt": "2026-11-18T22:27:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1925,9 +2276,9 @@
       "link": "https://www.semafor.com/article/11/18/2026/putin-eyes-benefit-in-meeting-trump-xi-at-apec",
       "imageUrl": "https://img.semafor.com/74ea5af6d2da16d80eca867a35183ae07fb370fa-2700x1798.jpg",
       "publishedAt": "2026-11-18T22:26:43.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_8638b1bc978304d8",
@@ -1995,6 +2346,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_5a9c9cfa6d108117",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Muslims are projected to outnumber Christians by 2035 as the world’s largest religion - AP News",
+      "snippet": "Muslims are projected to outnumber Christians by 2035 as the world’s largest religion  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNmVE82STJXZmVsTDNGb2tfdldvRTFfUHZvMkp3bjRscUFKOElQX2JoV3pKV0Y3aHV3QVVBNGd0YU1aQno2ZzNYSVVrS1dGVVlEbzBoTDlGcU1YMXdtNFdBMF8yalB0WFF2eWJMdzh3VXNTckVoUGZzSWw4c1JCMkI5eWloTHM3SUVKd0hRLTVMYVlReWplaHhKQUZZbXlmaHpjbHBSVjM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:18:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c243b69ebe7e76aa",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters",
+      "snippet": "Nvidia retreats as strong outlook fails to dispel uncertainty  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:17:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4342c8f59a565390",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -2003,7 +2380,33 @@
       "link": "https://www.semafor.com/article/11/18/2026/republicans-warily-eye-trumps-meeting-with-putin-xi",
       "imageUrl": "https://img.semafor.com/b7197940c483d7a1581265a8493f101437508cf9-2560x2035.jpg",
       "publishedAt": "2026-11-18T22:16:28.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_8632300b475f26d6",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
+      "snippet": "Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.",
+      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:15:23.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f2aac3aafff280b1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Takeaways from Mullin's House testimony on cyber outages, the Texas-LSU flight and immigration - AP News",
+      "snippet": "Takeaways from Mullin's House testimony on cyber outages, the Texas-LSU flight and immigration  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDEtcVdMZnJyYmFnRzhTLVJHcHZNYXZuTzZPM1JlQW5HTVVJSWdMZk54ajE1NjF2V0laVjhScWh3LURPNlBmTnVBd0VvTERPeFU4ZXNKN1UwZVVDcEN6MnU5VVBDTEluVUFrUWt6VHlCSHJHUjBWQ29GYm50ZUpWUmRGY3cycHp0d042YmtBV0Y3amFOaTdJX3VUSzhoalA2djJDMDczTWppaHYxVm5vYUliSQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:14:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2029,9 +2432,9 @@
       "link": "https://thehill.com/regulation/court-battles/6228830-trump-arch-construction-halted-december/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26096746490700-e1795039916781.jpg?w=900",
       "publishedAt": "2026-11-18T22:12:37.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_37fad7fe3bb7c1d1",
@@ -2047,10 +2450,23 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b1608b3e8e30c4b8",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "3 students recount how they saved classmate from violent attacker at Northwestern Univ.",
+      "snippet": "A man who is accused of attempting to strangle a Northwestern University student in her dorm room got into the building after following two other students to the campus from the train, prosecutors said. NBC Chicago's Vi Nguyen reports on th",
+      "link": "https://www.nbcnews.com/video/3-students-recount-how-they-saved-classmate-from-violent-attacker-at-northwestern-univ-273765445554",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:12:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1be8a13483633717",
       "source": "PBS",
       "sourceColor": "#4A7A8C",
-      "headline": "Democrats flipped 9 US Senate seats &mdash; the most in almost 70 years",
+      "headline": "Democrats flipped 9 U.S. Senate seats &mdash; the most in almost 70 years",
       "snippet": "Former Rep. Mary Peltola's victory over Republican incumbent Sen. Dan Sullivan in Alaska's competitive U.S. Senate race has flipped a ninth Republican-held seat to the Democrats, giving Peltola's party its biggest midterm gain in nearly 70 ",
       "link": "https://www.pbs.org/newshour/politics/democrats-flipped-9-us-senate-seats-the-most-in-almost-70-years",
       "imageUrl": null,
@@ -2069,6 +2485,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/johnsonmike_110926gn08_w.jpg?w=900",
       "publishedAt": "2026-11-18T22:07:23.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2b79dbd8bfa665d9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Takeaways from the AP’s reporting on auctions for deep-sea mining off US territories - AP News",
+      "snippet": "Takeaways from the AP’s reporting on auctions for deep-sea mining off US territories  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNS02Q21rdnhQSWFSWUdPWmlZdHQ5Tk5LNmxIRVpxWGZGMnNMV0ExVTRReXNZRUxaMEdwRXhoX19KVU5aWHl1Y0hxUmI1d2tsTkNhbEIxS0ZILW1NOW03bEhsTjlZWE9hVUxPaVBZVzBtWXl6bWZ1ajNaWlJXNDY2c3pIeUptNVZKSmVwVVAxaThkeHNmMUZfOVRBYnc5RGg2OGNEenhmdVgyN040azJlQzRxRDBEU3lNem5rZW1ZYnNhdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T22:06:01.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2112,19 +2541,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_8632300b475f26d6",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
-      "snippet": "Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.",
-      "link": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T22:00:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_2a6953648bf53bf7",
       "source": "NBC News",
       "sourceColor": "#8A5A3E",
@@ -2136,19 +2552,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_e890038b522e275d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse - AP News",
-      "snippet": "Florida pastor convicted of US charges related to assassination of Haitian President Jovenel Moïse  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenVGckxZaVBEZ3NVQnpZRkczWEZyeUtaaDRkd0FoT0pfYkdsY21MeVExVmZJR3NTSUJoNnp1TzlSY0pUSWNTQmkySUxKSnJ5UzIzX18yMFl4SGhVQU1Oa0VjR1oxWjJscTVHdnJpMjZEb1lmeDNvSHd0aEZTaFJ3SWktbkVTR3dfdTJVUUFuU0sySnZLNUx5dGNYRVBZcl80b2gydUdR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T22:00:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 3
     },
     {
       "id": "story_d0f258e702dbbed7",
@@ -2173,6 +2576,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-18T21:53:17.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8e3d896cad4ca051",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
+      "snippet": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T21:53:07.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2210,10 +2626,23 @@
       "snippet": "President Trump nominated T. Elliot Gaiser, who heads the Justice Department's Office of Legal Counsel, to serve on the U.S. district court in the Dallas area.",
       "link": "https://www.cbsnews.com/news/john-cornyn-trump-elliot-gaiser-justice-department-federal-judge/",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T21:50:15.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-18T21:50:00.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_7836f66c047bb51b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "High school valedictorians to get custom kicks after Sen.-elect Colom asks Nike to ‘Just Do It’ - AP News",
+      "snippet": "High school valedictorians to get custom kicks after Sen.-elect Colom asks Nike to ‘Just Do It’  AP News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjhiSHJiOF9FYUt6M0E4NzdhclJUSmlFTldTcFVRNVoyaWpYNzk3MFpFWUhfaUY2ZXY4X2dUUUtTcFpGUWFCUmNOLXNZUm1MTlFoT2tQN0pMSTJEVlVaNDRHTWNqRUhpa21pR3M1Z1c2TnAzYW5UdkVnc1g3cUtwWUpRNWxwV2VKbGQ0M2tuUjBMN0V6aHNTdk05LURBYWxiUzRVdGJQWUlRMDBkdVM1RkhnMGdQOGM?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T21:49:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_07022d8eeed4584a",
@@ -2229,15 +2658,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d7580d6345600417",
+      "id": "story_b5890c78a6534c6f",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Anthropic prices blockbuster IPO at $83 a share, source says - Reuters",
-      "snippet": "Anthropic prices blockbuster IPO at $83 a share, source says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
+      "headline": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
+      "snippet": "Wall Street ends mixed after Nvidia earnings, Fed minutes  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-18T21:47:43.000Z",
+      "publishedAt": "2026-11-18T21:46:43.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b7a65e74a3d228d4",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Trump admin says it's weighing new penalties against China over jailed Americans",
+      "snippet": "Beijing has shut down attempts to open negotiations, officials say.",
+      "link": "https://abcnews.com/Politics/trump-administration-weighs-new-penalties-china-jailed-americans/story?id=138188622",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T21:46:25.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2250,448 +2692,6 @@
       "link": "https://www.foxnews.com/outkick-sports/boston-college-hockey-retire-late-johnny-gaudreau-no-13-pregame-ceremony",
       "imageUrl": null,
       "publishedAt": "2026-11-18T21:46:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_261052e8e9e441e7",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Will people skip work and hurt the U.S. economy to play Grand Theft Auto 6?",
-      "snippet": "Are you a gamer who's planning to suddenly be struck by a stomach bug on Nov. 19? Or did you request paid time off that day?",
-      "link": "https://www.pbs.org/newshour/nation/will-people-skip-work-and-hurt-the-u-s-economy-to-play-grand-theft-auto-6",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:44:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c59192aa0193b92d",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Concerns over cyberattacks and outages hijack House hearing on top threats to US",
-      "snippet": "House Democrats and Republicans focused a more than three-hour hearing in Washington on Wednesday on the federal government’s response to a series of outages affecting both the private and public sector. Trump administration officials told ",
-      "link": "https://www.washingtonexaminer.com/news/house/4807967/cybersecurity-attack-outages-worldwide-threats-house-hearing-congress/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:43:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_46bbe8cf14cc8a00",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
-      "snippet": "The artificial intelligence giant will become by far the largest publicly traded “public benefit corporation,” a structure that mandates it balance safety and profit.",
-      "link": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:41:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9529eec269b30312",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Mullin, Clayton face bipartisan grilling over tech outages",
-      "snippet": "Homeland Security Sec. Markwayne Mullin and Director of National Intelligence Jay Clayton said there was no evidence that tech outages hitting businesses across the country were the result of nefarious actions at a timely hearing Wednesday ",
-      "link": "https://thehill.com/homenews/house/6228792-homeland-security-tech-outages/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26322589736424.jpg?w=900",
-      "publishedAt": "2026-11-18T21:41:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_adf55fed7d8944c2",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "New York presses ICE on winter safety at tent facility for women",
-      "snippet": "The state of New York pressed Immigration and Customs Enforcement (ICE) about winter safety at a Batavia detention center for women in a letter sent on Tuesday. New York’s Department of Health (DOH) and Department of Environmental Conservat",
-      "link": "https://thehill.com/homenews/state-watch/6228723-new-york-ice-batavia-tent-facility/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/NewYork_Suter_AP_YukiIwamura.jpg?w=900",
-      "publishedAt": "2026-11-18T21:40:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f801e12580333d8f",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "From a West Virginia mountaintop, a Marine’s mission to unite a nation",
-      "snippet": "PRESTON COUNTY, West Virginia — Whetsell Settlement is too small to call a village. It is a scattering of farms on a Preston County mountaintop, high above a broad stretch of the Cheat River Valley, where about 40 families lived off the lan",
-      "link": "https://www.washingtonexaminer.com/opinion/columnists/4808078/west-virginia-mountaintop-marine-mission-unite-nation/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:39:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2a7ed7ee18a084fe",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Anthropic sets share price at $83 for stock market debut, above expected range",
-      "snippet": "Artificial intelligence firm positioned for one of the biggest IPOs in history, with trading slated to begin Thursday\nAnthropic set the share price for its debut on the US stock market at $83 on Wednesday, positioning the artificial intelli",
-      "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:39:15.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ab898480df9321d0",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Ellison calls Musk ‘greatest entrepreneur of our time’ after $1 billion Skydance investment",
-      "snippet": "Skydance CEO David Ellison praised Elon Musk as the “greatest entrepreneur of our time” after the Tesla and SpaceX executive invested $1 billion in the entertainment conglomerate following the closed merger between Paramount and Warner Bros",
-      "link": "https://www.washingtonexaminer.com/news/business/4807901/david-ellison-elon-musk-skydance-investment/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:37:44.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e6ed23bc121d2903",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "From pop stars to poets to politicians, hundreds gathering for joyful tribute to Gloria Steinem",
-      "snippet": "Luminaries from political figures to pop stars to poets were gathering Wednesday in Manhattan for a joyful and music-filled tribute to Gloria Steinem, the trailblazing activist, prolific author and most visible symbol of American feminism.",
-      "link": "https://www.pbs.org/newshour/nation/from-pop-stars-to-poets-to-politicians-hundreds-gathering-for-joyful-tribute-to-gloria-steinem",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:33:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_70c56e17e7266883",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Pennsylvania reports eighth measles-related death",
-      "snippet": "Pennsylvania health officials and the Centers for Disease Control and Prevention (CDC) on Wednesday reported the commonwealth’s eighth measles-related death this year, one day after the U.S. lost its measles elimination status after 25 year",
-      "link": "https://thehill.com/policy/healthcare/6228640-pennsylvania-reports-eighth-measles-death/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/measles_texas_02212025_AP25147596898532.png?w=900",
-      "publishedAt": "2026-11-18T21:33:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5fd69201505708bc",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Data watchdog probes massive Deutsche Bank leak - Reuters",
-      "snippet": "Data watchdog probes massive Deutsche Bank leak  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUs3dGNkUWtlLXg5WGdnMVhya2NRY3FLWmdXQkdXZjRCZl9LWklodUZsTE9YZVZNUmpyS3VxUWFRZEJmcjRGdW8zQnRpTEhMZllnZUJQT09jQ3dEenduR1NfRXBYTGJPUG9VUnVTQzlMYi1qWFprWnRqSms0ejh2QWlsNHdCV0V1dnFkaFhvYm55bHBYWExVcTgtaWpRaUhKbHRrMUk4SDFGMk9SN1pXNjJCWQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:32:20.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7fa662933725cd7d",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Anthropic IPO to mint thousands of millionaires - Reuters",
-      "snippet": "Anthropic IPO to mint thousands of millionaires  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:31:27.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2b519cde99708c6e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "UConn's $32 million-plus Gampel Pavilion naming deal lands in court over a promise made in 1989",
-      "snippet": "Harry A. Gampel's daughters allege UConn's $32.5 million M&T Bank deal broke a 1989 promise that his name would grace Gampel Pavilion in perpetuity.",
-      "link": "https://www.foxnews.com/outkick-sports/uconn-32-million-gampel-pavilion-naming-deal-lands-court-promise-made-1989",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:30:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_03dbb73cd4508d78",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "The best tech gifts for gamers, fitness fans and even analog lovers",
-      "snippet": "Shop the best tech gifts of 2026, including the Oura Ring 5, Nintendo Switch 2, a screen-free kids’ phone, a retro camcorder and a brand new laptop from Dell.",
-      "link": "https://www.nbcnews.com/select/shopping/best-tech-gifts-2026-rcna610086",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b626402a8de6192b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "2026 Maine Midterm Election Results - AP News",
-      "snippet": "2026 Maine Midterm Election Results  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcVNqTFVUcUU0YUtCXzQyT0FqMlp1TkhvVldOTGpGLUh5T3c3ZkZaTkpta0hHaXNaU0RsZ2Uxc1JvUG5ET3pSNzVKR2ZMRUpDSVV5N25ubW9oZWUtZ25YVG1ocllBT3h1?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:29:25.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8e5294945485c026",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "US judge extends block on construction of Trump's arch - Reuters",
-      "snippet": "US judge extends block on construction of Trump's arch  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmVRdG1JVzZLUGVCQVVXQnEzdW1PQ3dra0VWVlQ3NGJaNDdIOVoxc0hzNzBFZnNsTy1tbi13Q1EtRHJ2WEYwTTJSX1YwTWJodGpnMjVETE9zLVYxc3Noc3BZNnJUc3MwR3h4YnJsZnJ1MDg0UGdPNUFTOGFGaUxsQU5ldC0wd2VTVk41VGFXWmZydEFldk9hYUt6aGlXLWZFSTVtRDVwbnNqeHNmY2w0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:28:45.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_64ad5e1b601ca871",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Ron Johnson faces heat for saying ‘no way to fix Social Security’",
-      "snippet": "Sen. Ron Johnson (R-WI) on Wednesday faced backlash for suggesting that the issues Social Security is facing could be insurmountable, as Democrats accused him of “throwing in the towel” on the country’s largest entitlement program. Johnson,",
-      "link": "https://www.washingtonexaminer.com/news/senate/4808022/ron-johnson-facing-criticism-saying-no-way-to-fix-social-security/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:28:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0a4eeca95ef80c9d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
-      "snippet": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:28:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c5c72d03a8e9069d",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Member of anti-migrant group found guilty of Staffordshire murder",
-      "snippet": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police\nA member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:27:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bfb18bc748aa068a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Palo Alto to buy AI startup Applied Compute for $4.5 billion - Reuters",
-      "snippet": "Palo Alto to buy AI startup Applied Compute for $4.5 billion  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5sQ0s3NEtGMUtHWHpjajhUZjB3WW1PcGNIOF9IdktwUTVFbVh6V2VsMVFsWFRBMlE5VmtyUXlPMUtfZlk2UU4zbGxoZ19ocThmVjNudnNUWFhNR3BlT0V5dUxuYVk5VXUyT2EwZHI3QmtTS1N1ejVTV005UmNvdV93MjVEVDBkQldGU3E2bTBzVHpUbWZNY2wtbWx6TzA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:26:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_82fd188902c06f28",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants - AP News",
-      "snippet": "Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants  AP News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3oySmt4WDNyUnNPN1QzRXJpcDZ1OWFUUkFZMXlJX3dfQXYxWkFSaDNuN2hLb1NpM3hpQWowSVlLQmVMd1c3MUM5RnY0ck9DMXh0TDNOTmc0cFMyeS1ZX0dHSDRJQzdmMGhodHRCSFF6VThMb24yem4zSG0wd3hRbE1oa19Ubk55T1R5RXdGN1NSaXpNSzkzTkNaR3I2VXNxdGlPdFNaeGFXbjlTS1c4Tm1OelIwVm8?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:25:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9a49f85a2fc32a3c",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
-      "snippet": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:24:19.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a1f9ba4f69736ae1",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Texas resumes issuing data center air permits, regulator says - Reuters",
-      "snippet": "Texas resumes issuing data center air permits, regulator says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNURMb2podnB3UVNJaXNFVkR1RzhINldCNmF4YlM3WDU0ZVZjZUc2ZGloRkJFU05DMmFrTWJJTWZKcVZhb3NGaVp1b00zVFJuaElEeFpMZDkwOFBSY3dBSk5qcWMyWWo3RlpEN19QX2x0UzNlY2lZRU5Ealp2N2RDRkh6b2J1VGFnanhhUVZUZ0NIZDhNMlg5aFZzRE45VnQ5Y2tPZHE2OUZjdkU?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:24:15.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a2a27fde85e4f03d",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "NIH to move remaining retired research chimps to sanctuary",
-      "snippet": "The National Institutes of Health (NIH) announced Wednesday it will release the last government-owned research chimpanzees in early 2027 to a sanctuary, ending a decade-long effort to get the animals out of federal laboratories. The 34 chim",
-      "link": "https://thehill.com/policy/healthcare/6228600-nih-retires-last-research-chimpanzees-2027/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP24313847001542-1-e1795036885139.jpg?w=900",
-      "publishedAt": "2026-11-18T21:21:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9753931be40c1d67",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Bassirou Diomaye Faye excluded from Senegal's ruling party",
-      "snippet": "In tonight's edition, the political divorce between Senegal's president and the powerful former prime minister and mentor is official. Also, all of Nigeria's states have shown willingness for a push to create their own police forces. And  i",
-      "link": "https://www.france24.com/en/bassirou-diomaye-faye-excluded-from-senegal-s-ruling-party",
-      "imageUrl": "https://s.france24.com/media/display/99dabb00-e394-11f1-9448-6d75ed565170/w:1024/p:16x9/DL00006190-VOD-00023669-01.jpg",
-      "publishedAt": "2026-11-18T21:21:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9c402fa8e54ee44d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Alzheimer’s blood marker could predict cognitive decline risks, says Mayo Clinic",
-      "snippet": "A Mayo Clinic study finds a p-tau217 blood test may predict cognitive decline risk within five to 10 years, offering a less invasive option than PET scans.",
-      "link": "https://www.foxnews.com/health/alzheimers-blood-marker-predict-cognitive-decline-risks-mayo-clinic",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:20:55.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_42880276f06ddbcc",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Dave McCormick calls Holocaust museum decolonization speech ‘garbage’",
-      "snippet": "Sen. Dave McCormick (R-PA) on Wednesday unleashed on a Canadian scholar over a lecture at Pennsylvania State University discussing the decolonization of Holocaust museums, calling the lecture “garbage.” Erica Lehrer, a sociocultural anthrop",
-      "link": "https://www.washingtonexaminer.com/news/senate/4807839/dave-mccormick-holocaust-museum-decolonization-penn-state/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:19:27.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c131bf590a27fab2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Skydance to combine Warner Bros. TV Group and Paramount Television Studios - AP News",
-      "snippet": "Skydance to combine Warner Bros. TV Group and Paramount Television Studios  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTUNTOHhTM1Vnak9WYXVtLXpOdldPZEVQR2JIUlZUT084cV9iSmZ0WW9vMTltNGpUUC1lcV9VZ3hNbmZEandZdUp2VVhJMk0xYlNwckFTOV94S19VeGl1c2xwSFl5MzV0SUpCV1Y5TnZJcFNUM1ZpVldYRTZFM1VtTTE1Sjg1M3RHQUluQV9lUkphbFlLYVZLOVlDdVk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:19:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cf097f16cfda7fdf",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-      "snippet": "The U.S. Army is hiring contractors to build 17 reinforced concrete bunkers in Israel, Saudi Arabia and Lebanon amid Iranian missile and drone attacks.",
-      "link": "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:18:28.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_30474dd71901cf81",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "France is making Michel Houellebecq’s satire look prophetic",
-      "snippet": "When Irish author Sally Rooney promised to send her book royalties to the designated terrorist group Palestine Action, her British publisher, Faber, announced it could no longer sell her books in the United Kingdom. Rooney was depicted as a",
-      "link": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4808006/france-is-making-michel-houellebecq-satire-look-prophetic-surrender-of-liberal-westerners/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:17:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea549d279baa59b6",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Anthropic is about to be worth more than $1 trillion. What that means for the rest of us",
-      "snippet": "Leading AI lab Anthropic is expected to make the largest-ever public market debut when it starts trading on the Nasdaq stock exchange Thursday.",
-      "link": "https://www.nbcnews.com/business/markets/anthropic-ipo-valuation-ai-boom-rcna610069",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:13:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e48ba57fcb4e2086",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Floodwaters submerge cars and parking lots in Florida town",
-      "snippet": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:08:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6919484a5177d745",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Kim Jong Un's nuclear buildup sparks 'serious concern' ahead of Trump-Xi-Putin summit",
-      "snippet": "IAEA chief Rafael Grossi warned Kim Jong Un's North Korean uranium enrichment expansion at Yongbyon is complete, calling it a serious concern.",
-      "link": "https://www.foxnews.com/world/kim-jong-un-nuclear-buildup-sparks-serious-concern-trump-xi-putin-summit",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:07:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_245ebdead001ac56",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "U.S. Catholic Bishops Are Discussing A.I. at Annual Meeting",
-      "snippet": "At their annual fall meeting, the bishops are discussing how to address the negative impacts of A.I., even as some struggle to navigate the fast-evolving technology.",
-      "link": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T21:05:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
