@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-19T15:35:06.510Z",
+  "updatedAt": "2026-11-19T15:40:09.268Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.603Z"
+      "lastSuccess": "2026-11-19T15:40:09.526Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.649Z"
+      "lastSuccess": "2026-11-19T15:40:09.446Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:07.001Z"
+      "lastSuccess": "2026-11-19T15:40:09.532Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.588Z"
+      "lastSuccess": "2026-11-19T15:40:09.548Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.565Z"
+      "lastSuccess": "2026-11-19T15:40:09.380Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.647Z"
+      "lastSuccess": "2026-11-19T15:40:09.404Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:07.012Z"
+      "lastSuccess": "2026-11-19T15:40:09.443Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.621Z"
+      "lastSuccess": "2026-11-19T15:40:09.500Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.643Z"
+      "lastSuccess": "2026-11-19T15:40:09.480Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.687Z"
+      "lastSuccess": "2026-11-19T15:40:09.580Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.630Z"
+      "lastSuccess": "2026-11-19T15:40:09.592Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.566Z"
+      "lastSuccess": "2026-11-19T15:40:09.624Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.722Z"
+      "lastSuccess": "2026-11-19T15:40:09.623Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.624Z"
+      "lastSuccess": "2026-11-19T15:40:09.683Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.733Z"
+      "lastSuccess": "2026-11-19T15:40:09.640Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T15:35:06.751Z"
+      "lastErrorAt": "2026-11-19T15:40:09.610Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.713Z"
+      "lastSuccess": "2026-11-19T15:40:09.621Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.703Z"
+      "lastSuccess": "2026-11-19T15:40:09.703Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.690Z"
+      "lastSuccess": "2026-11-19T15:40:09.627Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:07.426Z"
+      "lastSuccess": "2026-11-19T15:40:12.046Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.606Z"
+      "lastSuccess": "2026-11-19T15:40:09.686Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.738Z"
+      "lastSuccess": "2026-11-19T15:40:09.756Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T15:35:06.830Z"
+      "lastSuccess": "2026-11-19T15:40:09.920Z"
     }
   },
   "items": [
+    {
+      "id": "story_ac415a4f2efbce2b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Apple Photos AI watermark can tag your real pictures",
+      "snippet": "Apple Photos now embeds an invisible SynthID watermark in images edited with Apple Intelligence tools like Clean Up, Extend and Reframe in iOS 27.2.",
+      "link": "https://www.foxnews.com/tech/apple-photos-ai-watermark-tag-real-pictures",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T15:32:30.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_192390f99d363320",
       "source": "The Hill",
@@ -2680,19 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-19T12:26:30.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_53b632b4ea42a152",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-      "snippet": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
-      "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:26:01.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
