@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-19T08:20:08.783Z",
+  "updatedAt": "2026-11-19T08:25:06.935Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.019Z"
+      "lastSuccess": "2026-11-19T08:25:07.119Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:08.916Z"
+      "lastSuccess": "2026-11-19T08:25:07.048Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:08.973Z"
+      "lastSuccess": "2026-11-19T08:25:07.196Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.027Z"
+      "lastSuccess": "2026-11-19T08:25:07.272Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.066Z"
+      "lastSuccess": "2026-11-19T08:25:07.359Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:08.935Z"
+      "lastSuccess": "2026-11-19T08:25:07.057Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:08.864Z"
+      "lastSuccess": "2026-11-19T08:25:07.192Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.112Z"
+      "lastSuccess": "2026-11-19T08:25:07.232Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.057Z"
+      "lastSuccess": "2026-11-19T08:25:07.300Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:08.961Z"
+      "lastSuccess": "2026-11-19T08:25:07.217Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.083Z"
+      "lastSuccess": "2026-11-19T08:25:07.134Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.172Z"
+      "lastSuccess": "2026-11-19T08:25:07.169Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.095Z"
+      "lastSuccess": "2026-11-19T08:25:07.177Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.133Z"
+      "lastSuccess": "2026-11-19T08:25:07.224Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.115Z"
+      "lastSuccess": "2026-11-19T08:25:07.153Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.099Z"
+      "lastSuccess": "2026-11-19T08:25:07.175Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.081Z"
+      "lastSuccess": "2026-11-19T08:25:07.242Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.153Z"
+      "lastSuccess": "2026-11-19T08:25:07.260Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T08:20:09.117Z"
+      "lastErrorAt": "2026-11-19T08:25:07.369Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.194Z"
+      "lastSuccess": "2026-11-19T08:25:07.378Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.236Z"
+      "lastSuccess": "2026-11-19T08:25:07.432Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.296Z"
+      "lastSuccess": "2026-11-19T08:25:07.343Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T08:20:09.216Z"
+      "lastSuccess": "2026-11-19T08:25:07.487Z"
     }
   },
   "items": [
+    {
+      "id": "story_69be7e3e1ef4d0bf",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+      "snippet": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T08:19:17.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_69b02858779a01ab",
       "source": "Fox News",
@@ -2679,19 +2692,6 @@
       "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
       "imageUrl": null,
       "publishedAt": "2026-11-19T00:50:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3b74b51da677dc82",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Tim Ryan, Rep. Dan Crenshaw on whether Americans should be worried about widespread tech outages",
-      "snippet": "Former Democratic Congressman Tim Ryan of Ohio and Republican Rep. Dan Crenshaw of Texas join \"The Takeout\" to discuss the recent wave of tech outages and more.",
-      "link": "https://www.cbsnews.com/video/politicians-discuss-whether-americans-should-be-worried-amid-widespread-tech-outages/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T00:49:21.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
