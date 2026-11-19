@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-19T12:10:09.155Z",
+  "updatedAt": "2026-11-19T12:15:08.487Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.354Z"
+      "lastSuccess": "2026-11-19T12:15:08.611Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.297Z"
+      "lastSuccess": "2026-11-19T12:15:08.628Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.404Z"
+      "lastSuccess": "2026-11-19T12:15:08.661Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.667Z"
+      "lastSuccess": "2026-11-19T12:15:08.939Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.401Z"
+      "lastSuccess": "2026-11-19T12:15:09.010Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.362Z"
+      "lastSuccess": "2026-11-19T12:15:08.579Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.380Z"
+      "lastSuccess": "2026-11-19T12:15:08.615Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.474Z"
+      "lastSuccess": "2026-11-19T12:15:08.658Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.582Z"
+      "lastSuccess": "2026-11-19T12:15:08.682Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.515Z"
+      "lastSuccess": "2026-11-19T12:15:08.639Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.458Z"
+      "lastSuccess": "2026-11-19T12:15:08.590Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.483Z"
+      "lastSuccess": "2026-11-19T12:15:08.647Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.496Z"
+      "lastSuccess": "2026-11-19T12:15:08.793Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.559Z"
+      "lastSuccess": "2026-11-19T12:15:08.798Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.462Z"
+      "lastSuccess": "2026-11-19T12:15:08.633Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.445Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-19T12:15:08.612Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.441Z"
+      "lastSuccess": "2026-11-19T12:15:08.596Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.547Z"
+      "lastSuccess": "2026-11-19T12:15:08.695Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-19T12:10:09.644Z"
+      "lastErrorAt": "2026-11-19T12:15:08.803Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.643Z"
+      "lastSuccess": "2026-11-19T12:15:08.810Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.769Z"
+      "lastSuccess": "2026-11-19T12:15:08.825Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.624Z"
+      "lastSuccess": "2026-11-19T12:15:08.788Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-19T12:10:09.729Z"
+      "lastSuccess": "2026-11-19T12:15:08.924Z"
     }
   },
   "items": [
+    {
+      "id": "story_9f5b862ca7a1dbef",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "China blocks Bloomberg reporter from Trump-Putin-Xi meeting over question to Trump",
+      "snippet": "Chinese officials barred Bloomberg's Annmarie Hordern from the meeting of President Donald Trump, Xi Jinping and Vladimir Putin after her earlier question.",
+      "link": "https://www.foxnews.com/politics/china-blocks-bloomberg-reporter-trump-putin-xi-meeting-question-trump",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:10:11.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f4ddc6a6b0285ca9",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Trump’s historic summit with Xi, Putin marks unprecedented moment in global diplomacy and more top headlines",
+      "snippet": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "link": "https://www.foxnews.com/us/trumps-historic-summit-xi-putin-global-diplomacy-more-top-headlines",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:10:01.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
     {
       "id": "story_2c0388f2bcef5403",
       "source": "France24",
@@ -2666,32 +2693,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
       "imageUrl": null,
       "publishedAt": "2026-11-19T06:00:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_41281cef2db6c182",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
-      "snippet": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’\nThe former minister Tulip Siddiq has said she is considering taking legal action against the former interim leader of ",
-      "link": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:00:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f7a610bb917a81ad",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Andrey Zvyagintsev Is the Prophet of Putinism",
-      "snippet": "Andrey Zvyagintsev’s latest film invites viewers to see contemporary Russia in the terms of classical myth.",
-      "link": "https://www.nytimes.com/2026/11/19/opinion/zvyagintsev-russia-minotaur-putin.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:00:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
