@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-20T06:55:06.636Z",
+  "updatedAt": "2026-11-20T07:00:13.736Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.748Z"
+      "lastSuccess": "2026-11-20T07:00:13.772Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.813Z"
+      "lastSuccess": "2026-11-20T07:00:13.783Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.861Z"
+      "lastSuccess": "2026-11-20T07:00:13.796Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.878Z"
+      "lastSuccess": "2026-11-20T07:00:13.805Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.894Z"
+      "lastSuccess": "2026-11-20T07:00:13.824Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.118Z"
+      "lastSuccess": "2026-11-20T07:00:13.860Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.001Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-20T07:00:13.888Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.939Z"
+      "lastSuccess": "2026-11-20T07:00:13.813Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.880Z"
+      "lastSuccess": "2026-11-20T07:00:13.802Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.918Z"
+      "lastSuccess": "2026-11-20T07:00:13.886Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.024Z"
+      "lastSuccess": "2026-11-20T07:00:13.837Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.964Z"
+      "lastSuccess": "2026-11-20T07:00:13.811Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T06:55:07.122Z"
+      "lastErrorAt": "2026-11-20T07:00:13.880Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.980Z"
+      "lastSuccess": "2026-11-20T07:00:13.868Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.942Z"
+      "lastSuccess": "2026-11-20T07:00:13.879Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.985Z"
+      "lastSuccess": "2026-11-20T07:00:13.876Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.144Z"
+      "lastSuccess": "2026-11-20T07:00:13.898Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.959Z"
+      "lastSuccess": "2026-11-20T07:00:13.865Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.185Z"
+      "lastSuccess": "2026-11-20T07:00:13.962Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:06.845Z"
+      "lastSuccess": "2026-11-20T07:00:14.150Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.136Z"
+      "lastSuccess": "2026-11-20T07:00:14.135Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.099Z"
+      "lastSuccess": "2026-11-20T07:00:13.939Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T06:55:07.237Z"
+      "lastSuccess": "2026-11-20T07:00:14.090Z"
     }
   },
   "items": [
+    {
+      "id": "story_7173a86c9318b477",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
+      "snippet": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives\nFour babies who died in New South Wales – three after free births and one after a home birth – might have surviv",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T06:51:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_61eced57e4cc0016",
       "source": "DW",
@@ -287,6 +301,19 @@
       "link": "https://www.upi.com/Top_News/World-News/2026/11/20/saudiarabia-Houthis-attack-Riyadh-skyscraper/7451795150384/",
       "imageUrl": "https://cdnph.upi.com/ph/st/th/7451795150384/2026/i/17951522751750/v1.5/Houthi-militants-strike-Riyadhs-tallest-skyscraper.jpg",
       "publishedAt": "2026-11-20T05:26:37.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_10349e9b4ef62a67",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Men’s college basketball - AP News",
+      "snippet": "Men’s college basketball  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNkNoaUZuSmkyb0o3VmM1UGJQbkRxS21KTmR3VWJnekJEUUpDWnk0VXQ1ZDVfY0VHYkdlZWl0UnJaRm5lNE1naG54TGVpTHZ0ejlWaXhqVWpmUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T05:15:01.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "publishedAt": "2026-11-20T00:02:03.000Z",
       "tier": "major",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_205406d5556431dc",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Iran war live: Houthis escalate attacks on Saudi capital",
-      "snippet": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T23:58:40.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_02a44d4af099ffc6",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Florida conducts record 20th execution of 2026 on same day Texas set to put a man to death - AP News",
-      "snippet": "Florida conducts record 20th execution of 2026 on same day Texas set to put a man to death  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFhOeXRzRUxWeEJsYjVMWWhhSFZEaVU5MS0zT2FIeF9FOXktLVZZUm9LdFV1WkdGZlFWemt1ZEMzUWdqQnBncWVid1FsLXlLMzV4OWZGLTlpTFJHemh5V0trTmJBWnZ3QV9mc1RfNGJuNjhqZGFmZ2lhMTRxZ3ZfcjJyUlA0MWtZd0l3?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T23:58:00.000Z",
-      "tier": "major",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
