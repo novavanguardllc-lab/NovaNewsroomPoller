@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-20T10:25:06.625Z",
+  "updatedAt": "2026-11-20T10:30:11.952Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.665Z"
+      "lastSuccess": "2026-11-20T10:30:12.074Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.701Z"
+      "lastSuccess": "2026-11-20T10:30:12.266Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.669Z"
+      "lastSuccess": "2026-11-20T10:30:12.085Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.736Z"
+      "lastSuccess": "2026-11-20T10:30:12.181Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.674Z"
+      "lastSuccess": "2026-11-20T10:30:12.240Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.733Z"
+      "lastSuccess": "2026-11-20T10:30:12.303Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.739Z"
+      "lastSuccess": "2026-11-20T10:30:12.311Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.753Z"
+      "lastSuccess": "2026-11-20T10:30:12.161Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.745Z"
+      "lastSuccess": "2026-11-20T10:30:12.245Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.681Z"
+      "lastSuccess": "2026-11-20T10:30:12.204Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.802Z"
+      "lastSuccess": "2026-11-20T10:30:12.277Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.751Z"
+      "lastSuccess": "2026-11-20T10:30:12.157Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T10:25:06.770Z"
+      "lastErrorAt": "2026-11-20T10:30:12.316Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.758Z"
+      "lastSuccess": "2026-11-20T10:30:12.234Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.804Z"
+      "lastSuccess": "2026-11-20T10:30:12.173Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:07.135Z"
+      "lastSuccess": "2026-11-20T10:30:12.307Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.773Z"
+      "lastSuccess": "2026-11-20T10:30:12.324Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.779Z"
+      "lastSuccess": "2026-11-20T10:30:12.218Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.852Z"
+      "lastSuccess": "2026-11-20T10:30:12.483Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-20T10:25:07.087Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-20T10:30:12.451Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.709Z"
+      "lastSuccess": "2026-11-20T10:30:12.121Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:06.901Z"
+      "lastSuccess": "2026-11-20T10:30:12.422Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T10:25:08.783Z"
+      "lastSuccess": "2026-11-20T10:30:12.436Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3ba11184ba6331f8",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Brussels, London eye 'reset' deal at Burnham's EU summit",
+      "snippet": "British Prime Minister Andy Burnham is due to meet EU chiefs Ursula von der Leyen and Antonio Costa in Brussels on Friday for a summit aimed at resetting ties after the turbulent years surrounding Brexit. The two sides are hoping to strike ",
+      "link": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
+      "imageUrl": "https://s.france24.com/media/display/7e1d1a86-dec9-11f1-8a7a-3f371022a770/w:1024/p:16x9/95573a01316e9f2442d9e3bbfadeecdedf1ef781.jpg",
+      "publishedAt": "2026-11-20T10:28:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -561,6 +575,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-20T09:42:52.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6784575ef645eb46",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+      "snippet": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing\nA pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T09:36:10.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1265,6 +1292,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_6cd9a5b0ed2ec22e",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Germany news: Merz joins German-Ukrainian business forum",
+      "snippet": "Chancellor Merz is taking part in a forum to boost business ties with Ukraine. Meanwhile, youth protests are expected to take to the streets again. DW has the latest.",
+      "link": "https://www.dw.com/en/germany-news-merz-joins-german-ukrainian-business-forum/live-79998529?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T06:41:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 6
     },
     {
       "id": "story_968b51712184497c",
@@ -2654,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-20T02:40:45.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1219086181079b9f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Anthropic's Australian data centre overwhelmingly opposed by residents - Reuters",
-      "snippet": "Anthropic's Australian data centre overwhelmingly opposed by residents  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0tkWmlBUktrOUtfR2pyekRxYkg0OW1MY3hhLU5sSUI0SGpMcFVFaUIxMkRTZDVKdzVHYmc4NmEySlFhWmpScjJSSWxLaTNMQjlvRXI2TGhKanh4N1JDMVBwd01tRmwwT29uQWc3Vk5KQ3RMX2NFUlFCTDhhX2cyOFhTU2djTm1wYzB1S2tDTUVJWlRFcEg5cDFPZVc1NTJLXzhaSzVEQzV0RWV4X3hNamRrM3dtV0lNSnpkRi1kTjF3Zw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T02:39:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_227bf34dfcb1cb23",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "NBA icon Russell Westbrook hands out 1,500 Thanksgiving meals in the rain for kids in LA",
-      "snippet": "Russell Westbrook braved rain at Jesse Owens Park giving out 1,500 Thanksgiving meals and winter coats through the Why Not? Foundation in South LA.",
-      "link": "https://www.foxnews.com/outkick-sports/nba-icon-russell-westbrook-hands-out-1500-thanksgiving-meals-rain-kids-la",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T02:37:43.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_032f4c980091e103",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Indian stocks seen falling from nine-month highs; Asia market rout deepens - Reuters",
-      "snippet": "Indian stocks seen falling from nine-month highs; Asia market rout deepens  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEJHRkZDOVdTT19VcGt0YU9SeHdvSmo4cDZVR1R2RzdDUUFJREc0bkNBcDFrUDN1X052bGljQUdsQ19jMTkxZlhYZTI3LW94RUFKb043WXpDZW5mUThLVk95eVcxU005bVNGV0EyY2JlWUlpWDAwZHJDaGJSMlNIMndQZ0QyWGtGVlo4WjB1YjZzNGlfYzBPVFdfaE1MTVdabVZmLXdLdkxsTDJmczdWSW5wRUNlMTg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T02:34:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
