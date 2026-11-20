@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-20T13:20:08.749Z",
+  "updatedAt": "2026-11-20T13:25:06.613Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.003Z"
+      "lastSuccess": "2026-11-20T13:25:06.809Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.930Z"
+      "lastSuccess": "2026-11-20T13:25:06.847Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.864Z"
+      "lastSuccess": "2026-11-20T13:25:06.728Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.873Z"
+      "lastSuccess": "2026-11-20T13:25:06.749Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.043Z"
+      "lastSuccess": "2026-11-20T13:25:06.910Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.129Z"
+      "lastSuccess": "2026-11-20T13:25:07.068Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.009Z"
+      "lastSuccess": "2026-11-20T13:25:06.866Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.006Z"
+      "lastSuccess": "2026-11-20T13:25:06.864Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.888Z"
+      "lastSuccess": "2026-11-20T13:25:06.953Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.030Z"
+      "lastSuccess": "2026-11-20T13:25:06.905Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.068Z"
+      "lastSuccess": "2026-11-20T13:25:06.929Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.905Z"
+      "lastSuccess": "2026-11-20T13:25:06.849Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T13:20:09.247Z"
+      "lastErrorAt": "2026-11-20T13:25:07.103Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.164Z"
+      "lastSuccess": "2026-11-20T13:25:06.948Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.048Z"
+      "lastSuccess": "2026-11-20T13:25:06.952Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.087Z"
+      "lastSuccess": "2026-11-20T13:25:06.945Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.188Z"
+      "lastSuccess": "2026-11-20T13:25:07.123Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.947Z"
+      "lastSuccess": "2026-11-20T13:25:06.966Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.296Z"
+      "lastSuccess": "2026-11-20T13:25:07.178Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.305Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-20T13:25:07.149Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:08.966Z"
+      "lastSuccess": "2026-11-20T13:25:07.148Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.243Z"
+      "lastSuccess": "2026-11-20T13:25:07.024Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:20:09.266Z"
+      "lastSuccess": "2026-11-20T13:25:08.461Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dc8f36b243320162",
+      "source": "UPI",
+      "sourceColor": "#5A5A5A",
+      "headline": "European Union, Britain ink reset deal on food, farming and mobility",
+      "snippet": "EU-U.K. relations entered a new era with a new deal to enable frictionless trade by aligning food and farming standards and a youth mobility scheme.",
+      "link": "https://www.upi.com/Top_News/World-News/2026/11/20/EU-Britain-finalize-Brexit-reset-deal/4331795173655/",
+      "imageUrl": "https://cdnph.upi.com/ph/st/th/4331795173655/2026/upi_com/ae4b14076cafa6375f477cfde5bd7dd6/v1.5/European-Union-Britain-ink-reset-deal-on-food-farming-and-mobility.jpg",
+      "publishedAt": "2026-11-20T13:20:36.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -146,6 +160,19 @@
       "publishedAt": "2026-11-20T13:17:22.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5fb00449145bc3d4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Al Michaels matched Thursday's horrible NFL game with equally horrible energy, and fans noticed",
+      "snippet": "Al Michaels' flat call of the Texans' 26-3 blowout over the Colts drew fan criticism Thursday night, as Daniel Jones got benched in the fourth quarter.",
+      "link": "https://www.foxnews.com/outkick-sports/al-michaels-matched-thursday-horrible-nfl-game-equally-horrible-energy-fans-noticed",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T13:12:40.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -496,6 +523,19 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26313600542955.jpg?w=900",
       "publishedAt": "2026-11-20T12:30:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_aa5660d1b28eae58",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy - AP News",
+      "snippet": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnJyYmUxaFJEN0NCWDR3bnBXbGdfcEZWOE1MTTI5NVVTQ3VQLUwxQVVTU19rZ2VTSmlJX1pZUWFTVU9DZDAxSExnczNaUVJrWmxvWmdVMENzVzQ0d2c1RXB4aVl6YTFPRFpXVkhxeldaVnlKOFFsR1E3QmdpR3hzR2MtR2k2ekJSbzZFNkhOUzBPVTdVcTQxcTFkdy03REpxT2dEYUNjR0F2UQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T12:30:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2653,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1U0YXRHVEVxTWJpZVBNZDU4SktDOWZfUF9wWlB2Y1IwM0dWenFmMDNFZ2lkY2tCN05zZEsxOGZyN1YxOGMzQXVLanRwdmJDd005T1NXSHBMTUpUMlF1NHJLTkMxWGRnaTc1bXhKODEtMk5hbjA1UFphWnBDdno4VE1sY29Pbk15N2ZCcVNTVWZtclhVTmJZeml5WFltWXZ5a083eXN0dXZDdG1RTDYtVk1IVWIxbG1UUHVKNGdzMDQzT0t1?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-20T09:40:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_77ce998683fd2d0b",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "White House removes cyber-security chief after series of tech outages",
-      "snippet": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:37:59.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6784575ef645eb46",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-      "snippet": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing\nA pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment",
-      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:36:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e672df5a451d04fd",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "UK finds fix for fridge and freezer vulnerability after European hacks - Reuters",
-      "snippet": "UK finds fix for fridge and freezer vulnerability after European hacks  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORVlPYjE2cEpJQjlLNzNNcjVjRnI3LUxkcnE5UVJBak9QOTlPUXR2S1htU3BEUWxfM0RfUmo2QVVfX0g3cXpzTjdUSFNRMERVR0FKUVJ4T21TYUhUU2d3bE9tV2hpaGo1bUxqc25WR0VYWFl0Z0UxZDBiMGM3RUdYODlURmFxYnVvcm9KTXVhZWdObGl0bTZfNENXTTlhdG9ibzVNX1hCOFpkQ1k?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:34:09.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
