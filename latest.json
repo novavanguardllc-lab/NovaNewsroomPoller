@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-20T14:35:06.550Z",
+  "updatedAt": "2026-11-20T14:40:09.264Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.746Z"
+      "lastSuccess": "2026-11-20T14:40:09.589Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.811Z"
+      "lastSuccess": "2026-11-20T14:40:09.514Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.691Z"
+      "lastSuccess": "2026-11-20T14:40:09.432Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.789Z"
+      "lastSuccess": "2026-11-20T14:40:09.394Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.785Z"
+      "lastSuccess": "2026-11-20T14:40:09.629Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.944Z"
+      "lastSuccess": "2026-11-20T14:40:09.719Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.706Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-20T14:40:09.599Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.766Z"
+      "lastSuccess": "2026-11-20T14:40:09.611Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.668Z"
+      "lastSuccess": "2026-11-20T14:40:09.417Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.850Z"
+      "lastSuccess": "2026-11-20T14:40:09.669Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.870Z"
+      "lastSuccess": "2026-11-20T14:40:09.815Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.687Z"
+      "lastSuccess": "2026-11-20T14:40:09.455Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T14:35:06.946Z"
+      "lastErrorAt": "2026-11-20T14:40:10.010Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.875Z"
+      "lastSuccess": "2026-11-20T14:40:09.777Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.946Z"
+      "lastSuccess": "2026-11-20T14:40:09.773Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.903Z"
+      "lastSuccess": "2026-11-20T14:40:09.873Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.913Z"
+      "lastSuccess": "2026-11-20T14:40:10.019Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.824Z"
+      "lastSuccess": "2026-11-20T14:40:09.642Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.954Z"
+      "lastSuccess": "2026-11-20T14:40:10.045Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.844Z"
+      "lastSuccess": "2026-11-20T14:40:09.838Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:06.831Z"
+      "lastSuccess": "2026-11-20T14:40:09.917Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:07.093Z"
+      "lastSuccess": "2026-11-20T14:40:10.007Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T14:35:07.006Z"
+      "lastSuccess": "2026-11-20T14:40:11.621Z"
     }
   },
   "items": [
@@ -105,6 +106,45 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3c68554c4f1569c3",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Outages in US cause worry, despite official attempts to downplay concerns",
+      "snippet": "Experts say Trump administration is not taking the threat of AI attacks seriously, as consumers stock up on supplies.",
+      "link": "https://www.aljazeera.com/news/2026/11/20/outages-in-us-cause-worry-despite-official-attempts-to-downplay-concerns?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T14:34:04.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27fc82e273681a1d",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Senate foreign relations chairman warns of 'horrific trend' as Christians killed in Ethiopia",
+      "snippet": "The State Department calls for independent investigations after at least 34 people were killed in Ethiopia's Arsi Zone, most said to be Ethiopian Orthodox Christians.",
+      "link": "https://www.foxnews.com/world/senate-foreign-relations-chairman-warns-horrific-trend-christians-killed-ethiopia",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T14:33:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7c496c34b55215a9",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Russia launches brutal attacks in Ukraine hours after Trump-Putin meeting, missiles reach Poland",
+      "snippet": "A series of Russian attacks slammed Ukraine, and several missiles reached Poland just hours after President Trump met with Vladimir Putin in China. The Kyiv Independent's Asami Terajima joins with more.",
+      "link": "https://www.cbsnews.com/video/russia-launches-brutal-attacks-targeting-ukraine-hours-after-trump-meeting/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T14:31:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1436,6 +1476,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3802b87185f2c213",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Alphabet raises $4.19 billion in Canadian bond offering - Reuters",
+      "snippet": "Alphabet raises $4.19 billion in Canadian bond offering  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFVQU3VBb1FwSmxpYnh6M1hNLU03RW1TSkZpbUJPcXpkQ1lZbWFocERJLTA3cUZWZ2JELUtSY050MW5Kdko5VHhoUFRqdW5XUGlWNlliWlZYLUxFa0tCY3RLaERDa3p2aGNGVEk3VjhlNFpPQTR0clR6MzJKQzBPS1JXSHljRUFIdkJRSWFFOVBrWERMQnVYTGVMTloxbVF5?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T12:09:25.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_5cb554bbfef4bba8",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2641,58 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-20T10:32:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fc771ea08d4d586f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Associated Press News: Breaking News | Latest News Today - AP News",
-      "snippet": "Associated Press News: Breaking News | Latest News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T10:30:30.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0a35dd1b87a61aa0",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "UK-EU reset deal agreed, Downing Street says - Reuters",
-      "snippet": "UK-EU reset deal agreed, Downing Street says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFZfOXJRS2RFTTlMenB0cXUxNG1mNnVFaThZUGVfM0J0cnY5ckZmRTZDbWZGVWtWSFBhR3lHMF9ZZWVMOHpOSFNMZjNROTc0Z3JFSkJzaUdXYVpQWmg2T1E5ckIyYk82bXpHUzUzTTRkc1dTX2hzYi12RHVVYUxPM0ExbDRNb29tcVhPdEJaZ3RrUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T10:30:27.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_ada712f2f3a90bbd",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Why AOC’s future could depend on Chuck Schumer",
-      "snippet": "As one New Yorker faces a long-shot leadership challenge, the other is looking at a Senate race that many Democrats believe will have an open primary.",
-      "link": "https://www.semafor.com/article/11/20/2026/why-aocs-future-could-depend-on-chuck-schumer",
-      "imageUrl": "https://img.semafor.com/062b1d6cebcb54ae1644491ebfc90dcbad3e00f1-1440x1080.png",
-      "publishedAt": "2026-11-20T10:30:05.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7bf66a36291c5f94",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Bigfoot believers get a boost from an unlikely ally: the U.S. Forest Service",
-      "snippet": "In recent months, the agency has released several historic files and held a forum on the hairy cryptid of timberland lore.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/20/bigfoot-believers-get-boost-an-unlikely-ally-us-forest-service/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T10:30:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
