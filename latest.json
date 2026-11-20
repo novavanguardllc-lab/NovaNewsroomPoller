@@ -1,101 +1,115 @@
 {
-  "updatedAt": "2026-11-20T07:55:05.758Z",
+  "updatedAt": "2026-11-20T08:00:14.373Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.796Z"
+      "lastSuccess": "2026-11-20T08:00:14.439Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.815Z"
+      "lastSuccess": "2026-11-20T08:00:14.481Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.803Z"
+      "lastSuccess": "2026-11-20T08:00:14.443Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.898Z"
+      "lastSuccess": "2026-11-20T08:00:14.556Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.854Z"
+      "lastSuccess": "2026-11-20T08:00:14.505Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.884Z"
+      "lastSuccess": "2026-11-20T08:00:14.551Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.860Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-20T08:00:14.566Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.844Z"
+      "lastSuccess": "2026-11-20T08:00:14.500Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.903Z"
+      "lastSuccess": "2026-11-20T08:00:14.566Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.893Z"
+      "lastSuccess": "2026-11-20T08:00:14.526Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.956Z"
+      "lastSuccess": "2026-11-20T08:00:14.519Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.848Z"
+      "lastSuccess": "2026-11-20T08:00:14.609Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T07:55:05.992Z"
+      "lastErrorAt": "2026-11-20T08:00:14.700Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.908Z"
+      "lastSuccess": "2026-11-20T08:00:14.597Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.981Z"
+      "lastSuccess": "2026-11-20T08:00:14.850Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.979Z"
+      "lastSuccess": "2026-11-20T08:00:14.627Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.990Z"
+      "lastSuccess": "2026-11-20T08:00:14.699Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:05.841Z"
+      "lastSuccess": "2026-11-20T08:00:14.605Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:06.011Z"
+      "lastSuccess": "2026-11-20T08:00:14.760Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:06.205Z"
+      "lastSuccess": "2026-11-20T08:00:14.748Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:06.218Z"
+      "lastSuccess": "2026-11-20T08:00:14.787Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:06.064Z"
+      "lastSuccess": "2026-11-20T08:00:14.691Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T07:55:07.751Z"
+      "lastSuccess": "2026-11-20T08:00:14.645Z"
     }
   },
   "items": [
+    {
+      "id": "story_cae0940f8422b3d3",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+      "snippet": "Former Secret Service cyberfraud investigator Jason Brown warns AI voice cloning scams could trick families into losing thousands of dollars this holiday season.",
+      "link": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T07:53:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_5a9fb310bc5076a4",
       "source": "Al Jazeera",
@@ -2679,19 +2693,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
       "imageUrl": null,
       "publishedAt": "2026-11-20T00:16:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c99e7ff3a44c64bd",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
-      "snippet": "Jen O’Malley Dillon, who led the former president’s last two White House bids, is inviting top Democratic operatives to a gathering funded in part by the megadonor Alex Soros.",
-      "link": "https://www.nytimes.com/2026/11/19/us/politics/alex-soros-jen-omalley-dillon-2028-democratic-presidential-race.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T00:16:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
