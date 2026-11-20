@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-20T16:25:06.459Z",
+  "updatedAt": "2026-11-20T16:30:12.283Z",
   "sourceStatus": {
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.553Z"
+      "lastSuccess": "2026-11-20T16:30:12.367Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.536Z"
+      "lastSuccess": "2026-11-20T16:30:12.623Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.616Z"
+      "lastSuccess": "2026-11-20T16:30:12.718Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.604Z"
+      "lastSuccess": "2026-11-20T16:30:12.439Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.551Z"
+      "lastSuccess": "2026-11-20T16:30:12.626Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.609Z"
+      "lastSuccess": "2026-11-20T16:30:12.459Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.548Z"
+      "lastSuccess": "2026-11-20T16:30:12.424Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.599Z"
+      "lastSuccess": "2026-11-20T16:30:12.597Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.969Z"
+      "lastSuccess": "2026-11-20T16:30:12.767Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.577Z"
+      "lastSuccess": "2026-11-20T16:30:12.520Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.933Z"
+      "lastSuccess": "2026-11-20T16:30:12.848Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.666Z"
+      "lastSuccess": "2026-11-20T16:30:12.609Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.643Z"
+      "lastSuccess": "2026-11-20T16:30:12.507Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.623Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-20T16:30:12.508Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.614Z"
+      "lastSuccess": "2026-11-20T16:30:12.560Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.689Z"
+      "lastSuccess": "2026-11-20T16:30:12.741Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T16:25:06.681Z"
+      "lastErrorAt": "2026-11-20T16:30:12.725Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.670Z"
+      "lastSuccess": "2026-11-20T16:30:12.707Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:08.521Z"
+      "lastSuccess": "2026-11-20T16:30:12.811Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.673Z"
+      "lastSuccess": "2026-11-20T16:30:12.564Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.675Z"
+      "lastSuccess": "2026-11-20T16:30:12.687Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.778Z"
+      "lastSuccess": "2026-11-20T16:30:12.787Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T16:25:06.748Z"
+      "lastSuccess": "2026-11-20T16:30:12.683Z"
     }
   },
   "items": [
@@ -105,6 +106,32 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a670c9b304d14f35",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "6 reasons stocks are falling, and what you should do about it",
+      "snippet": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+      "link": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T16:27:50.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7abcb9e67aa8baf2",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Anthropic shares fall a day after blockbuster opening",
+      "snippet": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T16:27:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -456,6 +483,19 @@
       "link": "https://www.theguardian.com/society/2026/nov/20/cosmetic-cowboys-law-avoid-more-deaths-family-brazilian-butt-lift-victim",
       "imageUrl": null,
       "publishedAt": "2026-11-20T15:55:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_92ad03fca75d90cc",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "snippet": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T15:55:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -924,6 +964,19 @@
       "link": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
       "imageUrl": null,
       "publishedAt": "2026-11-20T15:15:28.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_3fcc04ba00f0060c",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "What we know about the latest Russian missile strikes on Ukraine",
+      "snippet": "What we know about the latest Russian missile strikes on Ukraine.",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T15:14:01.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2640,58 +2693,6 @@
       "link": "https://www.washingtonexaminer.com/news/house/4809758/jamie-raskin-investigates-government-agencies-use-messaging-apps/",
       "imageUrl": null,
       "publishedAt": "2026-11-20T13:35:25.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_c20b206f87b8a40c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant - Reuters",
-      "snippet": "Myanmar's Rohingya win landmark genocide ruling, but return home remains distant  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2g5Z3pOWXZjSC0zVlVLN2ZFVHZYZHg5N2dqVGdBZFlmblkwcl9nSFpUQ1ROb0lIeTZPUG5iaGxHRUJSX0lNTG5mdkc0d3N5cV9pb1lQZFhhY1Bnczlfem1yRElXR3g1ajZzeFBabHctXzFZejFiQzF1T0RYRzVMT3U1NjZKYzl5T3AwRVNVOGZHTXdHbXl2eUMwcDVlNXhrVm9sVzVka1diN0xRSVBZMTd5c0RxOFZKX3JlRUhqek9IZ0xlWWR4ZQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T13:32:14.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_5b7175becac8743a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Who gets to look presidential?",
-      "snippet": "Amid the celebrations, I noticed whose futures we were imagining.",
-      "link": "https://thehill.com/opinion/campaign/6230042-bottoms-ossoff-el-sayed-success/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/lance_bottoms_keisha_10172026_AP26291047303793-2.jpg?w=900",
-      "publishedAt": "2026-11-20T13:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_577accc6d1be5029",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Live updates: Trump to brief on China summit; GOP at odds over reconciliation",
-      "snippet": "President Trump, fresh from his trip to Asia, is set to brief reporters on his trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. Trump touted the rare summit as “Great and Highly Consequential” in a ",
-      "link": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26323310225723-e1795179399684.jpg?w=900",
-      "publishedAt": "2026-11-20T13:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_494d3a5cb2cdd0b4",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Magnitude 4.4 earthquake rocks Los Angeles County",
-      "snippet": "An earthquake with a magnitude of 4.4 shook Los Angeles County early Friday morning.",
-      "link": "https://thehill.com/homenews/state-watch/6232627-los-angeles-earthquake-magnitude-4-4/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/earthquake-e1795180624366.jpg?w=900",
-      "publishedAt": "2026-11-20T13:29:27.000Z",
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
