@@ -1,99 +1,99 @@
 {
-  "updatedAt": "2026-11-20T13:25:06.613Z",
+  "updatedAt": "2026-11-20T13:30:12.333Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.809Z"
+      "lastSuccess": "2026-11-20T13:30:12.423Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.847Z"
+      "lastSuccess": "2026-11-20T13:30:12.403Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.728Z"
+      "lastSuccess": "2026-11-20T13:30:12.428Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.749Z"
+      "lastSuccess": "2026-11-20T13:30:12.447Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.910Z"
+      "lastSuccess": "2026-11-20T13:30:12.450Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:07.068Z"
+      "lastSuccess": "2026-11-20T13:30:12.506Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.866Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-20T13:30:12.405Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.864Z"
+      "lastSuccess": "2026-11-20T13:30:12.386Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.953Z"
+      "lastSuccess": "2026-11-20T13:30:12.429Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.905Z"
+      "lastSuccess": "2026-11-20T13:30:12.443Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.929Z"
+      "lastSuccess": "2026-11-20T13:30:12.465Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.849Z"
+      "lastSuccess": "2026-11-20T13:30:12.387Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T13:25:07.103Z"
+      "lastErrorAt": "2026-11-20T13:30:12.547Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.948Z"
+      "lastSuccess": "2026-11-20T13:30:12.524Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.952Z"
+      "lastSuccess": "2026-11-20T13:30:12.546Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.945Z"
+      "lastSuccess": "2026-11-20T13:30:12.522Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:07.123Z"
+      "lastSuccess": "2026-11-20T13:30:12.528Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:06.966Z"
+      "lastSuccess": "2026-11-20T13:30:12.455Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:07.178Z"
+      "lastSuccess": "2026-11-20T13:30:12.559Z"
     },
     "Reuters": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-20T13:25:07.149Z"
+      "online": true,
+      "lastSuccess": "2026-11-20T13:30:12.834Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:07.148Z"
+      "lastSuccess": "2026-11-20T13:30:13.068Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:07.024Z"
+      "lastSuccess": "2026-11-20T13:30:12.608Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T13:25:08.461Z"
+      "lastSuccess": "2026-11-20T13:30:12.615Z"
     }
   },
   "items": [
@@ -106,6 +106,58 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bd432aad49ceb8e7",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Army postpones plan to detonate nearly five tons of explosive lead azide after provoking bipartisan outrage",
+      "snippet": "For about 20 years, 68 drums of lead azide, an explosive used to make detonators, sat in bunkers at the Iowa Army Ammunition Plant in Middletown, a small town near the Mississippi River in southeastern Iowa. This year, the material began to",
+      "link": "https://www.washingtonexaminer.com/policy/energy-and-environment/4809683/army-delay-iowa-lead-azide-detonation-bipartisan-backlash/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T13:27:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ac6c6ee27fb33589",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "NYC Mayor Mamdani announces delayed plan to close city's largest jail",
+      "snippet": "New York City Mayor Zohran Mamdani says his administration is closing Rikers Island for good, with four new jails by 2029 near public transit.",
+      "link": "https://www.foxnews.com/us/nyc-mayor-mamdani-announces-delayed-plan-close-citys-largest-jail",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T13:26:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24a0e2a901a74bd8",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Abu Dhabi court orders freeze on stolen Binance assets amid recovery efforts",
+      "snippet": "The injunction applies to 18 companies, including Trump family- and Abu Dhabi-backed World Liberty Financial.",
+      "link": "https://www.semafor.com/article/11/20/2026/abu-dhabi-court-orders-freeze-on-stolen-binance-assets-amid-recovery-efforts",
+      "imageUrl": "https://img.semafor.com/cfa9edf58ed7d4a54f66442216f4ebd9d307c952-2048x1367.jpg",
+      "publishedAt": "2026-11-20T13:25:20.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_61854d96040f3cd9",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+      "snippet": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’\nNigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot",
+      "link": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T13:23:22.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -158,6 +210,19 @@
       "link": "https://www.washingtonexaminer.com/news/senate/4809652/chuck-schumer-last-stand/",
       "imageUrl": null,
       "publishedAt": "2026-11-20T13:17:22.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f1a48fe1ed72c918",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
+      "snippet": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sector\nThe home secretary has launched an attack on providers of housing for vulnerable residents in her Birmingham constituency, saying s",
+      "link": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T13:15:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -326,6 +391,19 @@
       "snippet": "Recent events may be a harbinger of things to come; no one knows. What we do know is that fear-mongering about AI became a political weapon for Democrats, independent of sober consideration of its merits or risks.",
       "link": "https://thehill.com/opinion/technology/6231515-software-outages-heightened-ai-anxiety/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GettyImages-2295448136-1.jpg?w=900",
+      "publishedAt": "2026-11-20T13:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e3ca83fbe4a4e0bc",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Boebert: Trump ‘did some things that hurt my voters’",
+      "snippet": "Outgoing Rep. Lauren Boebert (R-Colo.) said the midterm results, which swayed overwhelmingly toward Democrats, could be a “referendum” on President Trump or the Republican Party. “I’m not mad at the president,” Boebert said Thursday, accord",
+      "link": "https://thehill.com/homenews/campaign/6232552-lauren-boebert-colorado-loss-donald-trump-policies-midterms/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26314530550005_9f9042-e1795180613686.jpg?w=900",
       "publishedAt": "2026-11-20T13:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2616,84 +2694,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/raskinjamie_063026gn01_w.jpg?w=900",
       "publishedAt": "2026-11-20T09:45:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e744c463481ed4df",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Deportes - AP News",
-      "snippet": "Deportes  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:44:36.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6a9103e006a15cc8",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Lufthansa to cut 1,000 jobs, citing ongoing losses — reports",
-      "snippet": "According to a letter obtained by the media, Lufthansa's executive board said the German company is losing €20 million every month. In addition to job cuts, operational cuts are also planned.",
-      "link": "https://www.dw.com/en/lufthansa-to-cut-1-000-jobs-citing-ongoing-losses-reports/a-80000062?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:43:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f55f6b5ec4882c41",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Crime - AP News",
-      "snippet": "Crime  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nNV9HSjd2YV9uVDgwYmYzWUZES2p3SGFWeFBQNFlxVEViNHU0MndFbUp3cTR1REJCMS1DT21sVW9sUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:42:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_5b58a7a369a0545a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "My Fan Picks - AP News",
-      "snippet": "My Fan Picks  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBRbWM5ZDY2WmNLMDRDdmxqcUZCcWxreWJkUF84bmpCU2NTSHRjWHhCeDZHWE5LTGQ1Z3RneS02N2t4Sjdh?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:42:52.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_395245f908d1e9ab",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Young people record their older relatives for The Great Listen",
-      "snippet": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:41:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_574fb809a1fb225b",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "More Russian regions limit fuel sales as Ukrainian drone strikes hit refinery output - Reuters",
-      "snippet": "More Russian regions limit fuel sales as Ukrainian drone strikes hit refinery output  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1U0YXRHVEVxTWJpZVBNZDU4SktDOWZfUF9wWlB2Y1IwM0dWenFmMDNFZ2lkY2tCN05zZEsxOGZyN1YxOGMzQXVLanRwdmJDd005T1NXSHBMTUpUMlF1NHJLTkMxWGRnaTc1bXhKODEtMk5hbjA1UFphWnBDdno4VE1sY29Pbk15N2ZCcVNTVWZtclhVTmJZeml5WFltWXZ5a083eXN0dXZDdG1RTDYtVk1IVWIxbG1UUHVKNGdzMDQzT0t1?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:40:01.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
