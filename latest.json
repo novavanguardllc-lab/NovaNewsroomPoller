@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-20T02:45:08.420Z",
+  "updatedAt": "2026-11-20T02:50:08.653Z",
   "sourceStatus": {
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.606Z"
+      "lastSuccess": "2026-11-20T02:50:08.949Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.595Z"
+      "lastSuccess": "2026-11-20T02:50:08.852Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.570Z"
+      "lastSuccess": "2026-11-20T02:50:08.904Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:09.066Z"
+      "lastSuccess": "2026-11-20T02:50:08.788Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.890Z"
+      "lastSuccess": "2026-11-20T02:50:08.747Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.668Z"
+      "lastSuccess": "2026-11-20T02:50:08.946Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.815Z"
+      "lastSuccess": "2026-11-20T02:50:09.131Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.534Z"
+      "lastSuccess": "2026-11-20T02:50:09.166Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.744Z"
+      "lastSuccess": "2026-11-20T02:50:09.049Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.784Z"
+      "lastSuccess": "2026-11-20T02:50:08.927Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.551Z"
+      "lastSuccess": "2026-11-20T02:50:08.811Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.755Z"
+      "lastSuccess": "2026-11-20T02:50:09.090Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.731Z"
+      "lastSuccess": "2026-11-20T02:50:08.890Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.644Z"
+      "lastSuccess": "2026-11-20T02:50:08.976Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.724Z"
+      "lastSuccess": "2026-11-20T02:50:09.027Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.604Z"
+      "lastSuccess": "2026-11-20T02:50:08.914Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.761Z"
+      "lastSuccess": "2026-11-20T02:50:09.392Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-20T02:45:08.750Z"
+      "lastErrorAt": "2026-11-20T02:50:09.069Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.767Z"
+      "lastSuccess": "2026-11-20T02:50:09.084Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:09.005Z"
+      "lastSuccess": "2026-11-20T02:50:09.274Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.758Z"
+      "lastSuccess": "2026-11-20T02:50:09.068Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:08.830Z"
+      "lastSuccess": "2026-11-20T02:50:09.153Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-20T02:45:09.085Z"
+      "lastSuccess": "2026-11-20T02:50:09.360Z"
     }
   },
   "items": [
+    {
+      "id": "story_a4ce8c1410712928",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "What Democrats are saying about the possibility of a government shutdown in December",
+      "snippet": "Top appropriators in the House are hoping to avoid a government shutdown heading into the holiday season as the possibility grows that Democrats could take a hard line on funding for the Iran war. Several Senate Democrats have committed to ",
+      "link": "https://www.washingtonexaminer.com/news/house/4809015/democrats-government-shutdown-possibility-december/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T02:48:23.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_227bf34dfcb1cb23",
       "source": "Fox News",
@@ -2680,19 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-19T22:03:44.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_53c664202381b4f2",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Becerra suggests prosecutions for AI attacks",
-      "snippet": "California Gov.-elect Xavier Becerra (D) on Thursday suggested that humans behind AI cyberattacks should face prosecution. “If some of these incursions that we’ve seen by these AI agents have been done by human beings, we’d have filed crimi",
-      "link": "https://thehill.com/homenews/state-watch/6231598-becerra-proposes-ai-cyberattack-prosecution/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/05/Becerra_Vakil-Mueller_AP_JaeCHong.jpg?w=900",
-      "publishedAt": "2026-11-19T22:02:07.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
