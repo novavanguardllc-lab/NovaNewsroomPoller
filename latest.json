@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-21T04:25:06.017Z",
+  "updatedAt": "2026-11-21T04:30:12.032Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.177Z"
+      "lastSuccess": "2026-11-21T04:30:12.087Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.143Z"
+      "lastSuccess": "2026-11-21T04:30:12.073Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.090Z"
+      "lastSuccess": "2026-11-21T04:30:12.092Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.210Z"
+      "lastSuccess": "2026-11-21T04:30:12.094Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.446Z"
+      "lastSuccess": "2026-11-21T04:30:12.445Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.191Z"
+      "lastSuccess": "2026-11-21T04:30:12.099Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.229Z"
+      "lastSuccess": "2026-11-21T04:30:12.121Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.206Z"
+      "lastSuccess": "2026-11-21T04:30:12.126Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.226Z"
+      "lastSuccess": "2026-11-21T04:30:12.133Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.429Z"
+      "lastSuccess": "2026-11-21T04:30:12.167Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.217Z"
+      "lastSuccess": "2026-11-21T04:30:12.119Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.195Z"
+      "lastSuccess": "2026-11-21T04:30:12.146Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.333Z"
+      "lastSuccess": "2026-11-21T04:30:12.172Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-21T04:25:06.435Z"
+      "lastErrorAt": "2026-11-21T04:30:12.231Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.439Z"
+      "lastSuccess": "2026-11-21T04:30:12.237Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.277Z"
+      "lastSuccess": "2026-11-21T04:30:12.304Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.253Z"
+      "lastSuccess": "2026-11-21T04:30:12.113Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.470Z"
+      "lastSuccess": "2026-11-21T04:30:12.346Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.364Z"
+      "lastSuccess": "2026-11-21T04:30:12.226Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.419Z"
+      "lastSuccess": "2026-11-21T04:30:12.279Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.664Z"
+      "lastSuccess": "2026-11-21T04:30:12.407Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.325Z"
+      "lastSuccess": "2026-11-21T04:30:12.433Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-21T04:25:06.381Z"
+      "lastSuccess": "2026-11-21T04:30:12.218Z"
     }
   },
   "items": [
@@ -105,6 +105,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ccc1cd1ce7212f4c",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "FBI investigating potential breach of its crime database",
+      "snippet": "The FBI is investigating an apparent breach of its National Crime Information Center, two people briefed on the matter told NBC News Friday.",
+      "link": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T04:19:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2679,19 +2692,6 @@
       "link": "https://www.cbsnews.com/video/appeals-court-indefinitely-halts-armys-planned-detonation-of-unstable-explosives-in-iowa/",
       "imageUrl": null,
       "publishedAt": "2026-11-20T22:29:57.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c17e38edffcffc1a",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Details on death of Fiona the hippo",
-      "snippet": "Fiona the hippo, who went viral after her premature birth almost a decade ago, died this week, the Cincinnati Zoo says. David Wysong, trending news and video editor for the Cincinnati Enquirer, joins CBS News to discuss.",
-      "link": "https://www.cbsnews.com/video/details-on-death-of-fiona-the-hippo/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T22:25:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
