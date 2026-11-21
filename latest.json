@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-21T18:20:08.754Z",
+  "updatedAt": "2026-11-21T18:25:06.420Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.803Z"
+      "lastSuccess": "2026-11-21T18:25:06.541Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.820Z"
+      "lastSuccess": "2026-11-21T18:25:06.696Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.817Z"
+      "lastSuccess": "2026-11-21T18:25:06.654Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.879Z"
+      "lastSuccess": "2026-11-21T18:25:06.766Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.866Z"
+      "lastSuccess": "2026-11-21T18:25:06.735Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.988Z"
+      "lastSuccess": "2026-11-21T18:25:06.705Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.869Z"
+      "lastSuccess": "2026-11-21T18:25:06.800Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.864Z"
+      "lastSuccess": "2026-11-21T18:25:06.731Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.895Z"
+      "lastSuccess": "2026-11-21T18:25:06.762Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.876Z"
+      "lastSuccess": "2026-11-21T18:25:06.728Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.843Z"
+      "lastSuccess": "2026-11-21T18:25:06.566Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.885Z"
+      "lastSuccess": "2026-11-21T18:25:06.771Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.844Z"
+      "lastSuccess": "2026-11-21T18:25:06.604Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.918Z"
+      "lastSuccess": "2026-11-21T18:25:06.746Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.964Z"
+      "lastSuccess": "2026-11-21T18:25:06.796Z"
     },
     "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.882Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-21T18:25:06.768Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:09.039Z"
+      "lastSuccess": "2026-11-21T18:25:06.941Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-21T18:20:08.964Z"
+      "lastErrorAt": "2026-11-21T18:25:06.767Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.839Z"
+      "lastSuccess": "2026-11-21T18:25:06.681Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:09.000Z"
+      "lastSuccess": "2026-11-21T18:25:06.806Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:08.828Z"
+      "lastSuccess": "2026-11-21T18:25:06.600Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:09.054Z"
+      "lastSuccess": "2026-11-21T18:25:06.844Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-21T18:20:09.112Z"
+      "lastSuccess": "2026-11-21T18:25:06.867Z"
     }
   },
   "items": [
@@ -118,6 +119,19 @@
       "link": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/",
       "imageUrl": null,
       "publishedAt": "2026-11-22T00:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6c3af45b1395dbb4",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Storms expected on both coasts threatens Thanksgiving travel",
+      "snippet": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.",
+      "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T18:22:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2679,19 +2693,6 @@
       "link": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
       "imageUrl": "https://s.france24.com/media/display/d14e7d92-e5a1-11f1-ada4-e56ab3dc0809/w:1024/p:16x9/Cargo-Finland.jpg",
       "publishedAt": "2026-11-21T12:35:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b61360cd327bbd98",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Germany's religious freedom report: Authoritarian regimes, holy wars, and spies abroad",
-      "snippet": "Harassment, persecution, surveillance: Across much of the world, people of faith are facing growing pressure. A new German government report is unusually direct in criticizing China in particular.",
-      "link": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-21T12:31:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
