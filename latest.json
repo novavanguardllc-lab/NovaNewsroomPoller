@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-21T19:40:08.916Z",
+  "updatedAt": "2026-11-21T19:45:09.051Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:08.953Z"
+      "lastSuccess": "2026-11-21T19:45:09.104Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:08.965Z"
+      "lastSuccess": "2026-11-21T19:45:09.108Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:08.988Z"
+      "lastSuccess": "2026-11-21T19:45:09.092Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.096Z"
+      "lastSuccess": "2026-11-21T19:45:09.235Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.101Z"
+      "lastSuccess": "2026-11-21T19:45:09.178Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.052Z"
+      "lastSuccess": "2026-11-21T19:45:09.147Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.110Z"
+      "lastSuccess": "2026-11-21T19:45:09.191Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.113Z"
+      "lastSuccess": "2026-11-21T19:45:09.262Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.064Z"
+      "lastSuccess": "2026-11-21T19:45:09.259Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.092Z"
+      "lastSuccess": "2026-11-21T19:45:09.159Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.015Z"
+      "lastSuccess": "2026-11-21T19:45:09.143Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.044Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-21T19:45:09.178Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.105Z"
+      "lastSuccess": "2026-11-21T19:45:09.109Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.128Z"
+      "lastSuccess": "2026-11-21T19:45:09.242Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.086Z"
+      "lastSuccess": "2026-11-21T19:45:09.222Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.149Z"
+      "lastSuccess": "2026-11-21T19:45:09.248Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.230Z"
+      "lastSuccess": "2026-11-21T19:45:09.406Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-21T19:40:09.124Z"
+      "lastErrorAt": "2026-11-21T19:45:09.276Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.301Z"
+      "lastSuccess": "2026-11-21T19:45:09.117Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.122Z"
+      "lastSuccess": "2026-11-21T19:45:09.276Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.331Z"
+      "lastSuccess": "2026-11-21T19:45:09.139Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.147Z"
+      "lastSuccess": "2026-11-21T19:45:09.298Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-21T19:40:09.181Z"
+      "lastSuccess": "2026-11-21T19:45:09.511Z"
     }
   },
   "items": [
@@ -118,6 +119,32 @@
       "link": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/",
       "imageUrl": null,
       "publishedAt": "2026-11-22T00:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6bb0948a08a8b60c",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Man charged with attempted murder after councillor stabbed in Bradford",
+      "snippet": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place\nA man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police h",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T19:42:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f7a595b4073c0f55",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump on reported FBI hack: ‘I always like to put things in a positive spin’",
+      "snippet": "President Trump said Saturday the potential breach of the FBI’s nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never learned otherwise.” “I always like to put th",
+      "link": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26265144701453-e1795201949891.jpg?w=900",
+      "publishedAt": "2026-11-21T19:36:46.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2669,32 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_bbdb4d72c1b57c12",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax - Reuters",
-      "snippet": "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEktcWd6MTVXNDk2WEVleTlEckNHZy1HdDNfYjhTcmZaODB0ZE9YQXlpUUdBdmpiYjhvcUJDUWNRbUh6NjJCM1NPSlNCd2NJeTE1Mlpoel83ajNSQ1lWbTdGbFc2MWpvam9SWjU2WFZBZktuU2NBYmpaTlZmR1dsQU1sZzJ5LWZQbE9BS3VjbTRKZGg3QmNhWGNVT3VNV0JPWlZXZmtNVTVXZnUzZ05NR1Nzcjc1WEJZc24tT3M5Z1Rfdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-21T13:40:32.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7fc9aa10031a39aa",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "EU and Indonesia sign trade deal after 10 years of negotiations - Reuters",
-      "snippet": "EU and Indonesia sign trade deal after 10 years of negotiations  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXBKanhocjVnYXhZczc5TjhSZHBQMTcwOVRLekN0TzZzVTd6S3Rfc2gtVDNVVk5QOVIydlZzVTgtR3VObmplSVdlM2dVY3M3M19Ycy1wRUxLNnJ6RnlaN1dBQldDZlh5QnFBMjFNUHVuSk5zazlxRkh6VzlrQm83aFVXa2JQdTh1Z3RCQmZQZTgtejVRRnQ0dFNaUjZqVGpNck5haVVBN2NRZGxaZFktTlBn?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-21T13:37:27.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
