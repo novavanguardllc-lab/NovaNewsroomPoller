@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-21T10:55:06.877Z",
+  "updatedAt": "2026-11-21T11:00:14.751Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.263Z"
+      "lastSuccess": "2026-11-21T11:00:15.072Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.223Z"
+      "lastSuccess": "2026-11-21T11:00:14.870Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.065Z"
+      "lastSuccess": "2026-11-21T11:00:14.907Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.305Z"
+      "lastSuccess": "2026-11-21T11:00:14.943Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.191Z"
+      "lastSuccess": "2026-11-21T11:00:15.203Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.088Z"
+      "lastSuccess": "2026-11-21T11:00:14.927Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.107Z"
+      "lastSuccess": "2026-11-21T11:00:15.148Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.585Z"
+      "lastSuccess": "2026-11-21T11:00:15.099Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.295Z"
+      "lastSuccess": "2026-11-21T11:00:14.896Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.345Z"
+      "lastSuccess": "2026-11-21T11:00:14.954Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.273Z"
+      "lastSuccess": "2026-11-21T11:00:15.130Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.126Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-21T11:00:15.204Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.444Z"
+      "lastSuccess": "2026-11-21T11:00:15.118Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-21T10:55:07.626Z"
+      "lastErrorAt": "2026-11-21T11:00:15.113Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.604Z"
+      "lastSuccess": "2026-11-21T11:00:15.135Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.571Z"
+      "lastSuccess": "2026-11-21T11:00:14.984Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.588Z"
+      "lastSuccess": "2026-11-21T11:00:15.185Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.674Z"
+      "lastSuccess": "2026-11-21T11:00:15.142Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.267Z"
+      "lastSuccess": "2026-11-21T11:00:15.109Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.534Z"
+      "lastSuccess": "2026-11-21T11:00:15.366Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.730Z"
+      "lastSuccess": "2026-11-21T11:00:15.168Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.170Z"
+      "lastSuccess": "2026-11-21T11:00:15.306Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-21T10:55:07.409Z"
+      "lastSuccess": "2026-11-21T11:00:15.035Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e81871a89f27f6a7",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "COP31: UN Climate summit runs into overtime as deal remains elusive",
+      "snippet": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
+      "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T10:52:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1475,6 +1489,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b2b543b9e4984c8e",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "South Korea's Lee says speed is vital in AI race on data centre visit - Reuters",
+      "snippet": "South Korea's Lee says speed is vital in AI race on data centre visit  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGZoMTNJTG5jUnB2cE5iMkpFeERNR1ozUzE2TkdCR3VTYnJFMko1NXhRaFBQOHMybVRkZUFXc1VpX3R6LXF6WkdZRWg3ZVlYQkVBMDV6czFlVXVaZW1vUGF0RlJwalFBQ1ZRb29zWHB6d3laQVJXbHIxUVdSeHBXTFA0eU1kaTA2QzJ6ZVd6cGVZeGlDY1VTcDE0c0JNX1RsQTZqOHhnX0ttd1dBVWRVbVdWM0pkOC16Vm9tSWlB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T05:34:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_4b869844854fe2d1",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2666,32 +2693,6 @@
       "link": "https://www.nytimes.com/2026/11/20/us/fbi-investigation-fulton-county-2020-election.html",
       "imageUrl": null,
       "publishedAt": "2026-11-21T01:01:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_19a61c4902447d0d",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Markets plunge deeper one day after Anthropic's record-breaking IPO",
-      "snippet": "The market fell deeper into the red on Friday, one day after Anthropic's record-breaking IPO, amid a tech selloff fueled by Nvidia's recent instability. Jo Ling Kent reports.",
-      "link": "https://www.cbsnews.com/video/markets-plunge-deeper-one-day-after-anthropics-record-breaking-ipo/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-21T01:01:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c22547aeba9322e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal",
-      "snippet": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
-      "link": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appeal",
-      "imageUrl": null,
-      "publishedAt": "2026-11-21T00:58:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
