@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-22T10:35:06.254Z",
+  "updatedAt": "2026-11-22T10:40:08.725Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.554Z"
+      "lastSuccess": "2026-11-22T10:40:08.885Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.512Z"
+      "lastSuccess": "2026-11-22T10:40:08.989Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.386Z"
+      "lastSuccess": "2026-11-22T10:40:08.905Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.367Z"
+      "lastSuccess": "2026-11-22T10:40:09.172Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.468Z"
+      "lastSuccess": "2026-11-22T10:40:09.028Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.449Z"
+      "lastSuccess": "2026-11-22T10:40:09.174Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.576Z"
+      "lastSuccess": "2026-11-22T10:40:09.006Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.569Z"
+      "lastSuccess": "2026-11-22T10:40:09.085Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.465Z"
+      "lastSuccess": "2026-11-22T10:40:09.088Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.586Z"
+      "lastSuccess": "2026-11-22T10:40:09.010Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.627Z"
+      "lastSuccess": "2026-11-22T10:40:09.130Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.533Z"
+      "lastSuccess": "2026-11-22T10:40:09.190Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.556Z"
+      "lastSuccess": "2026-11-22T10:40:09.175Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.573Z"
+      "lastSuccess": "2026-11-22T10:40:09.156Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.742Z"
+      "lastSuccess": "2026-11-22T10:40:09.196Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.993Z"
+      "lastSuccess": "2026-11-22T10:40:09.150Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-22T10:35:06.728Z"
+      "lastErrorAt": "2026-11-22T10:40:09.193Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.432Z"
+      "lastSuccess": "2026-11-22T10:40:09.151Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.815Z"
+      "lastSuccess": "2026-11-22T10:40:09.247Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.792Z"
+      "lastSuccess": "2026-11-22T10:40:11.245Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.712Z"
+      "lastSuccess": "2026-11-22T10:40:09.316Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.428Z"
+      "lastSuccess": "2026-11-22T10:40:09.035Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-22T10:35:06.491Z"
+      "lastSuccess": "2026-11-22T10:40:09.169Z"
     }
   },
   "items": [
@@ -119,6 +119,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-22T10:30:24.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_721e640b9af54e9a",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Former Italian police chief found dead",
+      "snippet": "Italian Prime Minister Giorgia Meloni has expressed shock following the death of a former national police chief, whose body was found on Saturday. He had been under investigation over an alleged cover-up in an inquiry into a bombing linked ",
+      "link": "https://www.france24.com/en/former-italian-police-chief-found-dead",
+      "imageUrl": "https://s.france24.com/media/display/a9d7f9c0-e658-11f1-9bb1-ebb478925cf0/w:1024/p:16x9/EN-20261122-101007-101157-CS.jpg",
+      "publishedAt": "2026-11-22T10:25:52.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2681,19 +2694,6 @@
       "publishedAt": "2026-11-22T01:47:24.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_191c6154c58604da",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "No. 4 UCLA QB Ty Dieffenbach injured in 1st of 3 OTs in loss to Michigan when he was tackled on run - AP News",
-      "snippet": "No. 4 UCLA QB Ty Dieffenbach injured in 1st of 3 OTs in loss to Michigan when he was tackled on run  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXc2T2s4SWp1czBfbERsTFAwSk01aUl1dngzVVBSLXZWVDBYYXRCcktrVHFoWjdGcnQ1OWg3aUxzd1MtazZJeWRsVWlfTWVCVFZMNzRqcm5SSVRSMGZ1dWhOY1QyMTRaVzhEVzRiRkVZQzYwOFE5ek5HRGdjWkRDRmtYbUIweDdoRnc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T01:47:00.000Z",
-      "tier": "major",
-      "topic": "sports",
       "corroboratedCount": 1
     }
   ]
