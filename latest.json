@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-22T11:25:06.581Z",
+  "updatedAt": "2026-11-22T11:30:12.271Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.704Z"
+      "lastSuccess": "2026-11-22T11:30:12.339Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.800Z"
+      "lastSuccess": "2026-11-22T11:30:12.418Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.659Z"
+      "lastSuccess": "2026-11-22T11:30:12.383Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.924Z"
+      "lastSuccess": "2026-11-22T11:30:12.435Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.864Z"
+      "lastSuccess": "2026-11-22T11:30:12.390Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.899Z"
+      "lastSuccess": "2026-11-22T11:30:12.429Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.838Z"
+      "lastSuccess": "2026-11-22T11:30:12.443Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.917Z"
+      "lastSuccess": "2026-11-22T11:30:12.403Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.956Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-22T11:30:12.462Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.746Z"
+      "lastSuccess": "2026-11-22T11:30:12.388Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.988Z"
+      "lastSuccess": "2026-11-22T11:30:12.497Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:07.024Z"
+      "lastSuccess": "2026-11-22T11:30:12.473Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:07.031Z"
+      "lastSuccess": "2026-11-22T11:30:12.448Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.998Z"
+      "lastSuccess": "2026-11-22T11:30:12.461Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:07.009Z"
+      "lastSuccess": "2026-11-22T11:30:12.506Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.962Z"
+      "lastSuccess": "2026-11-22T11:30:12.438Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-22T11:25:07.004Z"
+      "lastErrorAt": "2026-11-22T11:30:12.498Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.884Z"
+      "lastSuccess": "2026-11-22T11:30:12.432Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:07.173Z"
+      "lastSuccess": "2026-11-22T11:30:12.564Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:07.146Z"
+      "lastSuccess": "2026-11-22T11:30:12.582Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:07.122Z"
+      "lastSuccess": "2026-11-22T11:30:12.558Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.856Z"
+      "lastSuccess": "2026-11-22T11:30:12.379Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:25:06.820Z"
+      "lastSuccess": "2026-11-22T11:30:12.396Z"
     }
   },
   "items": [
@@ -105,6 +106,32 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bcbdc8155cc6f8fb",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Russian ship attacked by drone in Baltic Sea off Finland",
+      "snippet": "Russian ship attacked by drone in Baltic Sea off Finland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T11:15:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4e95c65bfea50bcf",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Messi throws ball in opponent’s face, avoids red card as Inter Miami lose",
+      "snippet": "Lionel Messi escapes red-card booking for controversial throw-in in Miami's 3-0 defeat by Columbus in MLS Cup playoffs.",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/lionel-messi-inter-miami-yellow-red-card-mls-playoffs?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T11:07:30.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -131,6 +158,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTERSMk14WEFYekl4TFNXSVNPMW0xMUFveUdlRG9aNlE3TWtJNWxoUE5HWG95ZUZGdEE2WTBodGwxUVRiTF9XUnBidDlJcDMzdUhMOTVKV2lrRS0wVGZzUW9RcHNVdURKVmVZYVA4REZ6TzZjTGRBN0xNMjZqZHRDNFhOdmp5V2Z5X3N5dzJpVzFwZ2NDbDZCQXdqZ1FVRllsbUdRSHRudkFBMEhRWFdBdjFRUDA4UQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-22T11:06:05.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1e5cbe2ba3adc982",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers - Reuters",
+      "snippet": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T11:03:27.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -573,6 +613,19 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QR3huWGxwNU5TM3lzQ2VHTXc0UWR5VURxMmNIQjlsQkRfeklWc21VazJCYkQ1UHRmOEhENEVJdW9COUt3WGdMTg?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-22T10:04:34.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de074e47ec19381e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXN2eUZ2WTBJSHJEaHVQRXFfcXhuUXZfY2wteDVDVGNDLXRQYW1QakRQTmppLWcxMVp4WXplQjFHLTVkTTROVHUxaVFzUHJHY3VUR1paZkFEaGhPS0xyV1BpcHBGVnJyQmtBaFdZcy1EQ2llUkZqWkdYUnZJUUdGUDJkSnlncTBrV0VORmlZelA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T10:04:20.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1657,6 +1710,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2a77c3f7d2411205",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": " - AP News",
+      "snippet": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkJwdElXeTB1YUpSdjN3dUl5TGZwRS1tZDhSbjA3WXgwTElFak9IQTNvazU5NXBSLWtneUU0RHAwb0FVVkw4NFhhejRmb1B6djNtRktNZ3FTdXdoNVljSUY5QkU3aWs1UzVraENOckhkMzNZNnNtQ21lcGxZcEprMVB0X0RFTkZQZHk2OUZlYTNGT25NdWFsWGxtckltRXg2TGdiMUhhOA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T06:17:27.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_133f726ebd745ea4",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -2627,71 +2693,6 @@
       "link": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
       "imageUrl": "https://s.france24.com/media/display/30f63712-e624-11f1-976a-ebb478925cf0/w:1024/p:16x9/c0934c40446967fd901759e5363f0c2bf9251a33.jpg",
       "publishedAt": "2026-11-22T03:24:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_96e76c3cfa529617",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-      "snippet": "The European Space Agency announced BepiColombo's arrival via social media.",
-      "link": "https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T03:21:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4d41706b79e92c5c",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Elias Lindholm scores 4 as Bruins outlast Capitals - Reuters",
-      "snippet": "Elias Lindholm scores 4 as Bruins outlast Capitals  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkZPMGdCY1dna2VoUEFZQlEwaExRX2JEdmc5RHZBRG05TE0xM3RaUFAwMEY3aWlYY0FZVlU2eTJhUmQwZTZ0bkZ1V25zU2JWekVkVElub0JxbnNGNWhsd0JsaXFiYmZUZXNpRlExVVNZZXNIaXNULUxnLWRCSWRoSEVEbV9FNTZtNjZJUGJwUlFpTnVWekVGYkZsNHo3QWsx?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T03:18:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_964b0540e0c0f42b",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Stutzle’s 2 goals in the 3rd period help power the Senators to a 4-2 win over the Kings - AP News",
-      "snippet": "Stutzle’s 2 goals in the 3rd period help power the Senators to a 4-2 win over the Kings  AP News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGpiZVVjVGJKMXZWLXp0WkxkMUUteVNrNV95QVhlNWg1MjhoX05HaDRHN3pVQ1Y0T0ljcjZOTFhmNGFFV3gwbmdBcmM5ZUdhZ0NRbkNwTVFuM1NLX3Z2U0l2SGpEZHIza3UyRWU3NHRXSEhzaFMxRlE1SDZRZk1sV19hOG1KUTg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T03:16:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_595c7b442b987876",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Van Hollen says it’s still a “wide-open race” for majority leader",
-      "snippet": "Sen. Chris Van Hollen (D-Md.), who is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) to lead the body’s Democratic caucus in the next Congress, said this week that the race for majority leader is “wide open.” The progressive Demo",
-      "link": "https://thehill.com/homenews/senate/6235600-van-hollen-schumer-senate-race/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Top-Van-Hollen_051226_AP_Jose-Luis-Magana.jpg?w=900",
-      "publishedAt": "2026-11-22T03:10:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_aaf8b799ded5a141",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "This non-toxic cutting board is up to 40% off — and it even sharpens knives",
-      "snippet": "Shop this dual-sided titanium and wheat straw cutting board with separate surfaces for meat and produce, plus a built-in knife sharpener. FOX readers save up to 40%.",
-      "link": "https://www.foxnews.com/deals/tibo-cutting-board",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T03:05:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
