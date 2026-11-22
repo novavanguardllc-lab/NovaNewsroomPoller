@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-22T21:25:06.303Z",
+  "updatedAt": "2026-11-22T21:30:12.122Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.517Z"
+      "lastSuccess": "2026-11-22T21:30:12.238Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.436Z"
+      "lastSuccess": "2026-11-22T21:30:12.302Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.441Z"
+      "lastSuccess": "2026-11-22T21:30:12.342Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.543Z"
+      "lastSuccess": "2026-11-22T21:30:12.439Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.596Z"
+      "lastSuccess": "2026-11-22T21:30:12.466Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.607Z"
+      "lastSuccess": "2026-11-22T21:30:12.577Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.563Z"
+      "lastSuccess": "2026-11-22T21:30:12.403Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.603Z"
+      "lastSuccess": "2026-11-22T21:30:12.580Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.632Z"
+      "lastSuccess": "2026-11-22T21:30:12.568Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.641Z"
+      "lastSuccess": "2026-11-22T21:30:12.583Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.639Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-22T21:30:12.583Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.636Z"
+      "lastSuccess": "2026-11-22T21:30:12.586Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.533Z"
+      "lastSuccess": "2026-11-22T21:30:12.376Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.629Z"
+      "lastSuccess": "2026-11-22T21:30:12.543Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.773Z"
+      "lastSuccess": "2026-11-22T21:30:12.726Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.650Z"
+      "lastSuccess": "2026-11-22T21:30:12.610Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-22T21:25:06.645Z"
+      "lastErrorAt": "2026-11-22T21:30:12.601Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.573Z"
+      "lastSuccess": "2026-11-22T21:30:12.356Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:07.093Z"
+      "lastSuccess": "2026-11-22T21:30:12.786Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.697Z"
+      "lastSuccess": "2026-11-22T21:30:12.503Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.662Z"
+      "lastSuccess": "2026-11-22T21:30:12.624Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.526Z"
+      "lastSuccess": "2026-11-22T21:30:12.321Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-22T21:25:06.719Z"
+      "lastSuccess": "2026-11-22T21:30:12.386Z"
     }
   },
   "items": [
@@ -105,6 +106,32 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_81fbc1e9870b4b4f",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "El-Sayed would pass Medicare for All as ‘TrumpCare’: ‘I don’t really care what it’s called",
+      "snippet": "Sen.-elect Abdul El-Sayed (D-Mich.) on Sunday said he would pass a single-payer healthcare bill, commonly referred to as Medicare for All, with the name “TrumpCare,” adding that he does not “really care what it’s called.” NBC News’s “Meet t",
+      "link": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26314030517506-e1794415643417.jpg?w=900",
+      "publishedAt": "2026-11-22T21:24:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_49dfa92aa0ba95b8",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Appeals court says federal law requiring accommodations for pregnant workers is unconstitutional",
+      "snippet": "The appeals court said the act was unconstitutional because a majority of U.S. House members weren't physically present when it was approved as part of a spending package in December 2022.",
+      "link": "https://www.pbs.org/newshour/nation/appeals-court-says-federal-law-requiring-accommodations-for-pregnant-workers-is-unconstitutional",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T21:21:26.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -656,6 +683,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_41ac9c0dd2fc63c2",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Chinese player Liu suspended amid match-fixing probe - Reuters",
+      "snippet": "Chinese player Liu suspended amid match-fixing probe  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaTNOT0xoMUxOWXZ1cDNvME80cHBkWU5TZTFJbXhNQlB3VnVxQmtoVTZvM1BfZVBoZTZ0TGZmNmZDMGRacmpNa2FGd29IWjhyVllDYVhHOXJ2Wk9Nc0lXN3p3b1hOVkNDN085bWl1SVBNanBlQ3B0Y3pqNmhldUlfQmh3Z2M1dE1fUkhRTjNDZHhiR3p2RExEZTdjRzN4SmZJX1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T19:45:32.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_504411b4585f36f0",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -706,6 +746,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_cf5c25a21e9cc5bf",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Violence - AP News",
+      "snippet": "Violence  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rekFyZ3RrVXlMV1R2dGxwYk93MVk1Zy1CS2Z4TldWNk1EUEMtVUxia1dwaERYVXAzN0VDYktibGdwanhDS1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T19:38:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_71731c15a4cdb6ba",
@@ -2437,6 +2490,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_343846edc33abc89",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Analog Devices, Inc. (ADI.O) | Stock Price & Latest News - Reuters",
+      "snippet": "Analog Devices, Inc. (ADI.O) | Stock Price & Latest News  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5peG40NFdBdXBaemZqZW1rc2lQMUkwZHVZN1NIdUVndENXalUyM2R5MDN6MFVFaGVNbktBcFFjalhmd0FWNVNLVndkeEhqWnNKdlpFUDVqXzk0SkFV?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T16:36:44.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_1b9be3bea8d455cb",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2628,71 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-22T16:12:54.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f6488b8d5334708e",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Bisleri International Pvt Ltd - Reuters",
-      "snippet": "Bisleri International Pvt Ltd  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84aDFlQS1adWVMOVJDUVdXSDR1Nmp6RmtON2hnX0hqVk9GbWdxUFgtMmlpV0F5X2FMOVBJVVVYV0lVM3psUlY4Y2UxT2U2eVNxbDJFa1k3RV8xMTFPLWpZQ3RIV2hadk1RajRKOFpwYw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T16:11:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3410010252adfdbe",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "India's food regulator to take Bisleri to court over water quality finding - Reuters",
-      "snippet": "India's food regulator to take Bisleri to court over water quality finding  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVhZanItQzQtSUpybTFaaC1hd3JSdEhmSmtRRm9lNmUydjNfcktzWGhJaWd6UUxoYTY5aEZCdDF0OUZ5MU5iXzUwQkxZS2xrYTlVa3RTdjFzZUlTNzQzNTdtdUQ2VEdiSmJJYjdjeHNOckRRMnFmeVJFWW1fbmJQM2FYV0xZTDdOeUN5WmVqWlp4bVBWSzYtblktOXFtRXBqQzUzNFZhclowSWU0d0JGRVlFYVNVZHA1MUF0ZkR2V29JaDlkRWI0ZEY1c1dxXy1nN002dDJR?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T16:11:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_61b490c7e36a9898",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "World News: Top & Breaking World News Today - AP News",
-      "snippet": "World News: Top & Breaking World News Today  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1PRFY2SmRjOGtzcEdoNlUzaU5aR2c4MnhydnlTTm9ZR3lOaEFNbzVhZGd3Zmh2S0IySTVERXRBX3pfTjA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T16:11:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_073b63c20721332f",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "NCAA women: Pregame handshakes not required - Reuters",
-      "snippet": "NCAA women: Pregame handshakes not required  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenRLOU5yemk3LUk0eFdIVmhSTFJOSDBxNDdJOGxTaDdDNVpBNWN6RV9JRFpVTkVMQU1QSnRVS21EZ2VDTmxYSDVIaUZvYlNNSG9IdHREdkxCdHlGTmNTc0JtMXE5bzFIdGRMejJ3N2J2SS1EUlM2b3JvdnJRNmF6bHRWZ0p3clRhVXMtYzZNbHBLSi14?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T16:09:43.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2f228341af8e65fc",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Pope has lunch with 1,300 poor people to mark 10th World Day of the Poor - AP News",
-      "snippet": "Pope has lunch with 1,300 poor people to mark 10th World Day of the Poor  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcVZoaFZveWc2QVkzU0pVLVZIM1NTejhUMDRHYjIzUkxYTExMVHN5MjQtbVQyY0RLQ25XNldielhTYmtyVEo3U1lodmlXMF9UeHQ5Zl9CenNISlMyQWp5NXZyY3N2b09UNFpZSlRxMWxldnI1bGZLU0RpVzNjSHo4MGdJaW9SUS1VZXJiSFhUMnNVRVJfSlVfVy1KZEJkOEtVS0Q3a2lKMTlzZ1VZSXNoWW5FN1ZtckxuMEdUcUJHd20yRTR6MkRFYQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T16:08:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
