@@ -1,99 +1,98 @@
 {
-  "updatedAt": "2026-11-22T11:30:12.271Z",
+  "updatedAt": "2026-11-22T11:35:06.785Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.339Z"
+      "lastSuccess": "2026-11-22T11:35:06.920Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.418Z"
+      "lastSuccess": "2026-11-22T11:35:06.985Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.383Z"
+      "lastSuccess": "2026-11-22T11:35:07.000Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.435Z"
+      "lastSuccess": "2026-11-22T11:35:07.140Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.390Z"
+      "lastSuccess": "2026-11-22T11:35:07.147Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.429Z"
+      "lastSuccess": "2026-11-22T11:35:07.102Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.443Z"
+      "lastSuccess": "2026-11-22T11:35:07.009Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.403Z"
+      "lastSuccess": "2026-11-22T11:35:07.043Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-22T11:30:12.462Z"
+      "online": true,
+      "lastSuccess": "2026-11-22T11:35:07.222Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.388Z"
+      "lastSuccess": "2026-11-22T11:35:07.048Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.497Z"
+      "lastSuccess": "2026-11-22T11:35:07.269Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.473Z"
+      "lastSuccess": "2026-11-22T11:35:07.130Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.448Z"
+      "lastSuccess": "2026-11-22T11:35:07.226Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.461Z"
+      "lastSuccess": "2026-11-22T11:35:07.183Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.506Z"
+      "lastSuccess": "2026-11-22T11:35:07.287Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.438Z"
+      "lastSuccess": "2026-11-22T11:35:07.143Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-22T11:30:12.498Z"
+      "lastErrorAt": "2026-11-22T11:35:07.273Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.432Z"
+      "lastSuccess": "2026-11-22T11:35:07.190Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.564Z"
+      "lastSuccess": "2026-11-22T11:35:07.310Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.582Z"
+      "lastSuccess": "2026-11-22T11:35:07.410Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.558Z"
+      "lastSuccess": "2026-11-22T11:35:07.395Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.379Z"
+      "lastSuccess": "2026-11-22T11:35:07.070Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-22T11:30:12.396Z"
+      "lastSuccess": "2026-11-22T11:35:07.210Z"
     }
   },
   "items": [
@@ -106,6 +105,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b8b646a03d594bf8",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Bayern Munich bosses under fire over Jamal Musiala comments",
+      "snippet": "Officials have publicly questioned whether Musiala will ever fully recover from a debilitating neurological condition and queried the validity of his contract, prompting criticism from fans, media and the FIFPRO union.",
+      "link": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T11:30:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1304,6 +1316,19 @@
       "publishedAt": "2026-11-22T08:31:43.000Z",
       "tier": "major",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_85deca99d2a139ae",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "SNB closely watching for second-round inflation effects, vice chairman tells paper - Reuters",
+      "snippet": "SNB closely watching for second-round inflation effects, vice chairman tells paper  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd20zVmVWWWtOalczYzVfN2dsU0o0T3ZCN2xULVRDNEUzdTFfb01vc1lhT0VMLWZzQUhCTkU1R1ZOQ2U4TW51U2JrazYxSmxjdkx4MkpYbHktNF9qZ0tOSEYxY3FST2hWTEE4bGlmUHlJNzNsNjRQeFBnemFNRkpja1ZseEhHSHZXOFh4bFUtLVZjWGdKRjA5dk9DR2tRRHBiZkFHU0o4RWJoNmsxTVNzVzkwVG9PY2hEREV1UmpoNU02ZHB1UXlwYk9R?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T08:25:43.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -2668,32 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-22T03:32:34.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0c2fd45fa71e7989",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Mikal Bridges’ game-winner helps Knicks survive blown lead vs. Blazers - Reuters",
-      "snippet": "Mikal Bridges’ game-winner helps Knicks survive blown lead vs. Blazers  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGFkN0k0RWVTbl9PMmxDQWdfTnl4dG1EeEpsd0xBS0xaTVZSYWxLQWJUUE1QTlk5TDdqMmljRFRZMFNsVUpVUnNEcHp1bmliSVJWZFRaeVZzeEpDZ0VRMk9yV3Y1OGE2dkg3M1BKc05kQ1pjT19UVDBPZVNzSHFLa2hLVHJwOFBvdFA4LWJzX3pEZUg4SjhoZzVrUk8wYzFITU9aQUxpZzJwdk9hR1lteTZXaWNLZ0dCcFdOWVplN0FzXzBYWWc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T03:26:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_199c72515b725252",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-      "snippet": "Bahrain accused Iran of striking a civilian industrial site on Saturday evening, as two tankers were hit in the Strait of Hormuz. Tehran reported shooting dow a US drone amid stalled efforts to end the war.",
-      "link": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
-      "imageUrl": "https://s.france24.com/media/display/30f63712-e624-11f1-976a-ebb478925cf0/w:1024/p:16x9/c0934c40446967fd901759e5363f0c2bf9251a33.jpg",
-      "publishedAt": "2026-11-22T03:24:14.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
