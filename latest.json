@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-23T11:40:09.481Z",
+  "updatedAt": "2026-11-23T11:45:09.115Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.637Z"
+      "lastSuccess": "2026-11-23T11:45:09.226Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.644Z"
+      "lastSuccess": "2026-11-23T11:45:09.322Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.739Z"
+      "lastSuccess": "2026-11-23T11:45:09.400Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.686Z"
+      "lastSuccess": "2026-11-23T11:45:09.347Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.666Z"
+      "lastSuccess": "2026-11-23T11:45:09.538Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.980Z"
+      "lastSuccess": "2026-11-23T11:45:09.379Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.762Z"
+      "lastSuccess": "2026-11-23T11:45:09.451Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.599Z"
+      "lastSuccess": "2026-11-23T11:45:09.289Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.783Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-23T11:45:09.543Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.911Z"
+      "lastSuccess": "2026-11-23T11:45:09.438Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.862Z"
+      "lastSuccess": "2026-11-23T11:45:09.487Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.718Z"
+      "lastSuccess": "2026-11-23T11:45:09.459Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.747Z"
+      "lastSuccess": "2026-11-23T11:45:09.492Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.698Z"
+      "lastSuccess": "2026-11-23T11:45:09.417Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.743Z"
+      "lastSuccess": "2026-11-23T11:45:09.467Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:10.222Z"
+      "lastSuccess": "2026-11-23T11:45:09.504Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.706Z"
+      "lastSuccess": "2026-11-23T11:45:09.441Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.923Z"
+      "lastSuccess": "2026-11-23T11:45:09.518Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.766Z"
+      "lastSuccess": "2026-11-23T11:45:09.495Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T11:40:09.923Z"
+      "lastErrorAt": "2026-11-23T11:45:09.488Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.945Z"
+      "lastSuccess": "2026-11-23T11:45:09.604Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:09.899Z"
+      "lastSuccess": "2026-11-23T11:45:09.678Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:40:10.044Z"
+      "lastSuccess": "2026-11-23T11:45:11.354Z"
     }
   },
   "items": [
@@ -105,6 +106,58 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_8c7a7c836848235c",
+      "source": "Semafor",
+      "sourceColor": "#4A6A8A",
+      "headline": "Investec strikes deals in African banking push ",
+      "snippet": "The specialist South African lender is betting on local partners as African banks race across borders for growth.",
+      "link": "https://www.semafor.com/article/11/23/2026/investec-strikes-deals-in-african-banking-push",
+      "imageUrl": "https://img.semafor.com/c16e2fa37cdbdf1b54e91bff0ccfea8ef1028946-4027x2340.jpg",
+      "publishedAt": "2026-11-23T11:39:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_481e09fdece7161a",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Your Nvidia Questions",
+      "snippet": "Reporters answered your queries about the scandal.",
+      "link": "https://www.nytimes.com/2026/11/23/briefing/nvidia-jensen-huang.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T11:35:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_80050a4151370cd8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "NFL Week 11 Sunday takeaways: Brock Purdy is a game manager and an MVP candidate, Aaron Rodgers is cooked",
+      "snippet": "From Brock Purdy beating the Vikings’ blitz to the Cowboys giving up 30 points and still winning by 21, here’s one takeaway from every game on the NFL’s Week 11 Sunday slate.",
+      "link": "https://www.foxnews.com/outkick-sports/nfl-week-11-sunday-takeaways-brock-purdy-game-manager-mvp-candidate-aaron-rodgers-cooked",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T11:33:58.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ad1ca624e54d969b",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+      "snippet": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry\nOne of the UK’s flagship electric vehicle battery projects has been thrown into turmoil after i",
+      "link": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T11:33:44.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2640,58 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHNqQjMxSlNrcGN4LVZIUC0yZUpTTUQyOU1SNnJaTkFpQkFnRHFYODF0R0hhbnBkbTFfbEpMYU9WSlNMYWFLTjhPOGszWHFoX0JnZnZBY2pVNDVFbEFJYlBKSHhiZ1EyaU80anh6d3RuVFVPZUFJOUVmZndKbWVxRGlaLW1DUG1QN2ZkS2ZOTEhZbUJSRk5zTUtRNXVrNkZjaWNjSGVvRy1iRlZRMkFfa0gzcTl4Zw?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-23T06:38:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ea869718bbe9d46e",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Five takeaways from the failed climate talks COP31",
-      "snippet": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "link": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T06:33:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b7ca6a51babfc3e2",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Is rule-breaking contagious? The bad apple effect explained",
-      "snippet": "Seeing someone break a rule makes people more likely to break it too, a new study finds, especially when the rule-breaker is on their side politically. Watching others behave well barely made a difference.",
-      "link": "https://www.dw.com/en/is-rule-breaking-contagious-the-bad-apple-effect-explained/a-79980025?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T06:33:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_199088f8c48bb0ac",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Rule-breaking is contagious — and good examples barely help",
-      "snippet": "Seeing someone break a rule makes people more likely to break it too, a new study finds, especially when the rule-breaker is on their side politically. Watching others behave well barely made a difference.",
-      "link": "https://www.dw.com/en/rule-breaking-is-contagious-and-good-examples-barely-help/a-79980025?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T06:33:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1202f02a2065cc4a",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEZnUks2REEtTmxXYURqYVpmTzRpN2kzbWF4eHZmVWdEdmxDQkNrbENRS1FhMWQ1S0NKakdmRG8teGE2Q1c2ZVJwQ0o0ZVFrWTJQR0NSeVFxRF9zQzFNNXZmSDBtNUNmY2JUM05lZTlHcEVOamtNWjdxeExOTndPZDFuRFNSVUd5bGxOZFFfNklPZzU1aFFqZnQ0QVl0N3NXWkE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T06:27:37.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
