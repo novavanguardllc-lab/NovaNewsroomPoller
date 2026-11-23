@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-23T06:45:08.668Z",
+  "updatedAt": "2026-11-23T06:50:09.569Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:08.983Z"
+      "lastSuccess": "2026-11-23T06:50:09.987Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:08.843Z"
+      "lastSuccess": "2026-11-23T06:50:09.806Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.245Z"
+      "lastSuccess": "2026-11-23T06:50:10.147Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:08.879Z"
+      "lastSuccess": "2026-11-23T06:50:09.870Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.384Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-23T06:50:10.188Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.392Z"
+      "lastSuccess": "2026-11-23T06:50:09.910Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:08.897Z"
+      "lastSuccess": "2026-11-23T06:50:10.172Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.022Z"
+      "lastSuccess": "2026-11-23T06:50:10.071Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.062Z"
+      "lastSuccess": "2026-11-23T06:50:10.277Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.099Z"
+      "lastSuccess": "2026-11-23T06:50:10.409Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.223Z"
+      "lastSuccess": "2026-11-23T06:50:10.270Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.044Z"
+      "lastSuccess": "2026-11-23T06:50:10.274Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.040Z"
+      "lastSuccess": "2026-11-23T06:50:10.413Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:08.859Z"
+      "lastSuccess": "2026-11-23T06:50:09.828Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.338Z"
+      "lastSuccess": "2026-11-23T06:50:10.312Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.351Z"
+      "lastSuccess": "2026-11-23T06:50:10.447Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.248Z"
+      "lastSuccess": "2026-11-23T06:50:10.166Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.443Z"
+      "lastSuccess": "2026-11-23T06:50:10.487Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.402Z"
+      "lastSuccess": "2026-11-23T06:50:10.310Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T06:45:09.525Z"
+      "lastErrorAt": "2026-11-23T06:50:10.488Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.579Z"
+      "lastSuccess": "2026-11-23T06:50:10.519Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.519Z"
+      "lastSuccess": "2026-11-23T06:50:10.651Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:45:09.562Z"
+      "lastSuccess": "2026-11-23T06:50:10.569Z"
     }
   },
   "items": [
@@ -106,6 +107,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e26241b76ce23567",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "2026 Arizona Midterm Election Results - AP News",
+      "snippet": "2026 Arizona Midterm Election Results  AP News",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZmpsZ3hhUzB4QUo1cVdmaGFCWTZTR2lhN3NRNzFFZDNaSXI2RGJxYzBwTy1SYVNFZ3VKUFZnMS1RSE9rTG01dkZFY1R4dHNHU2VLUTVCeHJYM1J4d2FBS1g3VGxySklybkZv?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T06:47:49.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2682,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_b7770b3d86ad21ac",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
-      "snippet": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
-      "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T23:30:07.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
     }
   ]
 }
