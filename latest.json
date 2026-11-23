@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-23T20:55:06.307Z",
+  "updatedAt": "2026-11-23T21:00:13.874Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.360Z"
+      "lastSuccess": "2026-11-23T21:00:14.074Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.388Z"
+      "lastSuccess": "2026-11-23T21:00:14.264Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.490Z"
+      "lastSuccess": "2026-11-23T21:00:14.085Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.412Z"
+      "lastSuccess": "2026-11-23T21:00:14.150Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.376Z"
+      "lastSuccess": "2026-11-23T21:00:14.048Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.403Z"
+      "lastSuccess": "2026-11-23T21:00:14.157Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.421Z"
+      "lastSuccess": "2026-11-23T21:00:14.036Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.417Z"
+      "lastSuccess": "2026-11-23T21:00:14.198Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.465Z"
+      "lastSuccess": "2026-11-23T21:00:14.233Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.396Z"
+      "lastSuccess": "2026-11-23T21:00:14.054Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.414Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-23T21:00:14.140Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.504Z"
+      "lastSuccess": "2026-11-23T21:00:14.176Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.456Z"
+      "lastSuccess": "2026-11-23T21:00:14.133Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.487Z"
+      "lastSuccess": "2026-11-23T21:00:14.168Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.349Z"
+      "lastSuccess": "2026-11-23T21:00:13.974Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.493Z"
+      "lastSuccess": "2026-11-23T21:00:14.212Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.510Z"
+      "lastSuccess": "2026-11-23T21:00:14.184Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.435Z"
+      "lastSuccess": "2026-11-23T21:00:14.196Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T20:55:06.572Z"
+      "lastErrorAt": "2026-11-23T21:00:14.192Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.571Z"
+      "lastSuccess": "2026-11-23T21:00:14.564Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.746Z"
+      "lastSuccess": "2026-11-23T21:00:14.225Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.583Z"
+      "lastSuccess": "2026-11-23T21:00:14.271Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T20:55:06.733Z"
+      "lastSuccess": "2026-11-23T21:00:14.484Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_385496c00558da8b",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Daily on Energy: Mining the deep seas won’t be easy",
+      "snippet": "WHAT’S HAPPENING TODAY: Good afternoon and happy Monday, readers! It is Thanksgiving week, and President Donald Trump is set to carry on a Thanksgiving tradition tomorrow by pardoning two turkeys named “Freedom” and “Feathers.” You can lear",
+      "link": "https://www.washingtonexaminer.com/daily-on-energy/4812973/daily-on-energy-mining-the-deep-seas-wont-be-easy/",
+      "imageUrl": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f983.png",
+      "publishedAt": "2026-11-23T20:58:10.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -183,6 +197,19 @@
       "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-23T20:41:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_1edba1678f0f10c4",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
+      "snippet": "London force also makes eight arrests in operation centred on New Spitalfields Market in the capital\nA tonne of cocaine was found hidden in boxes of oranges as part of one of the biggest drug seizures in the history of the Metropolitan poli",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/23/metropolitan-police-seize-cocaine-hidden-boxes-oranges-new-spitalfields",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T20:41:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2668,32 +2695,6 @@
       "publishedAt": "2026-11-23T17:27:00.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cb3aa5832c980298",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "FIFA picks US to co-host 2031 Women’s World Cup and UK for 2035 edition - AP News",
-      "snippet": "FIFA picks US to co-host 2031 Women’s World Cup and UK for 2035 edition  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWm82TE84Qm96Y2xpQ0N4Y1ByS2hwSVMxSU5UV0RIbWlWd2phNlFCUVktQWtSbWJCemZCQkRTd2Q4eWJGclFhbDVlQmI5bkN1OWoxbEtDUGFlUWNMbjJTVHlLOEE4OEF6NGc3SHNkTzBkSEZlTUw2RTlHdGhQSlB6T3hvNVRvXzR1dHgyX0xzU3Y3QWRuVjFsOTdsUFI?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T17:25:00.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2899c804fa74025f",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "What failure of COP31 reveals about a divided world",
-      "snippet": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T17:24:25.000Z",
-      "tier": "routine",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
