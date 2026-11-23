@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-23T06:55:05.948Z",
+  "updatedAt": "2026-11-23T07:00:14.130Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.131Z"
+      "lastSuccess": "2026-11-23T07:00:14.278Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.152Z"
+      "lastSuccess": "2026-11-23T07:00:14.230Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.187Z"
+      "lastSuccess": "2026-11-23T07:00:14.432Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.270Z"
+      "lastSuccess": "2026-11-23T07:00:14.396Z"
     },
     "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.491Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-23T07:00:14.616Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.233Z"
+      "lastSuccess": "2026-11-23T07:00:14.412Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.033Z"
+      "lastSuccess": "2026-11-23T07:00:14.535Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.110Z"
+      "lastSuccess": "2026-11-23T07:00:14.390Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.191Z"
+      "lastSuccess": "2026-11-23T07:00:14.513Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.249Z"
+      "lastSuccess": "2026-11-23T07:00:14.592Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.327Z"
+      "lastSuccess": "2026-11-23T07:00:14.491Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.193Z"
+      "lastSuccess": "2026-11-23T07:00:14.614Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.331Z"
+      "lastSuccess": "2026-11-23T07:00:14.596Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.052Z"
+      "lastSuccess": "2026-11-23T07:00:14.528Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.664Z"
+      "lastSuccess": "2026-11-23T07:00:14.609Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.334Z"
+      "lastSuccess": "2026-11-23T07:00:14.628Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.206Z"
+      "lastSuccess": "2026-11-23T07:00:14.613Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.452Z"
+      "lastSuccess": "2026-11-23T07:00:14.641Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.470Z"
+      "lastSuccess": "2026-11-23T07:00:14.610Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T06:55:06.350Z"
+      "lastErrorAt": "2026-11-23T07:00:14.633Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.469Z"
+      "lastSuccess": "2026-11-23T07:00:14.656Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.447Z"
+      "lastSuccess": "2026-11-23T07:00:14.690Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:55:06.500Z"
+      "lastSuccess": "2026-11-23T07:00:14.712Z"
     }
   },
   "items": [
@@ -119,6 +120,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-23T06:47:49.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_af75c65b14939e5d",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+      "snippet": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions\nGood morning. Nobody",
+      "link": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T06:46:49.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2679,19 +2693,6 @@
       "link": "https://thehill.com/homenews/state-watch/6236426-zohran-mamdani-releases-new-911-records/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-31.png?w=900",
       "publishedAt": "2026-11-22T23:33:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_cd04c6f477f554eb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump says Iran unleashed missile, drone surge after midterms",
-      "snippet": "President Donald Trump says Iran launched more missiles and drones over the past week than at any point in over a year, and all were knocked down with no damage.",
-      "link": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T23:33:06.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
