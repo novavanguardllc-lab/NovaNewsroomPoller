@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-23T11:15:08.818Z",
+  "updatedAt": "2026-11-23T11:20:08.646Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.923Z"
+      "lastSuccess": "2026-11-23T11:20:08.748Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.891Z"
+      "lastSuccess": "2026-11-23T11:20:08.830Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.974Z"
+      "lastSuccess": "2026-11-23T11:20:08.962Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.967Z"
+      "lastSuccess": "2026-11-23T11:20:09.032Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.431Z"
+      "lastSuccess": "2026-11-23T11:20:08.905Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.235Z"
+      "lastSuccess": "2026-11-23T11:20:08.865Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.983Z"
+      "lastSuccess": "2026-11-23T11:20:08.950Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.960Z"
+      "lastSuccess": "2026-11-23T11:20:08.821Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.979Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-23T11:20:09.042Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.010Z"
+      "lastSuccess": "2026-11-23T11:20:09.093Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.071Z"
+      "lastSuccess": "2026-11-23T11:20:09.023Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.995Z"
+      "lastSuccess": "2026-11-23T11:20:09.040Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.018Z"
+      "lastSuccess": "2026-11-23T11:20:09.037Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.964Z"
+      "lastSuccess": "2026-11-23T11:20:08.909Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.027Z"
+      "lastSuccess": "2026-11-23T11:20:09.026Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.035Z"
+      "lastSuccess": "2026-11-23T11:20:08.969Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:08.992Z"
+      "lastSuccess": "2026-11-23T11:20:08.940Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.051Z"
+      "lastSuccess": "2026-11-23T11:20:09.066Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.015Z"
+      "lastSuccess": "2026-11-23T11:20:09.043Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T11:15:09.038Z"
+      "lastErrorAt": "2026-11-23T11:20:09.047Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.106Z"
+      "lastSuccess": "2026-11-23T11:20:09.190Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:09.100Z"
+      "lastSuccess": "2026-11-23T11:20:09.168Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T11:15:11.038Z"
+      "lastSuccess": "2026-11-23T11:20:09.132Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ba6043d395e893f3",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Search on for lioness seen roaming Istanbul's outskirts",
+      "snippet": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city's outskirts, Turkish officials say.",
+      "link": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T11:15:15.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2679,19 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYy1NZUhkNnFfNE93Q2Fwd19BWUFKdnR2QlNneG42QnZtN2h6R3psSzBlUGgxc2Z3ZDFvSzMzLVJ5VkFOSnp6Y0xUSjlJeURjUXNKUFhKX1J5cWNwcUM5dnl1UDlacFFsSEhfbWk1NllaZ0g4UGVBNHQwSVpkSDhMWDVMT1ZpOFFMYjh3MkJLU3VCU0xRVHV3ZjQxMXFZQVBEbGtfQURObGRYR1E2T3oyY19WbUc3c0xtLWc?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-23T06:04:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6800a2c04f987c09",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Citi's $35-billion UK error could complicate exit from US regulatory penalty box - Reuters",
-      "snippet": "Citi's $35-billion UK error could complicate exit from US regulatory penalty box  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVMxWWx3akhhdTVwTkFRU0pvbUFJSGU0MjhtY0JISTktTmRzNkJwb3B2a1JIWXluU3BZY08tX3JacHJnZjZmVXFkcU5nd2VIdDZhUEdvRFZyUnVHWWx4dGZtYlJ0QzFFX2ZKOHAxYkJselp3dXNkYWFRcGJmZ0VVMUxqNFg3UTduLXFmQThrbWZtRHpYZjhZMlc3WU1QZHdMQVRUaWVnNEEwZTZ2ZjNVU3FKMmtHaGVnaFhFNV90NkxkT1Bk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T06:01:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
