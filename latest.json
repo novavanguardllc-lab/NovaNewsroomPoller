@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-23T12:25:06.626Z",
+  "updatedAt": "2026-11-23T12:30:13.233Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.878Z"
+      "lastSuccess": "2026-11-23T12:30:13.379Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.736Z"
+      "lastSuccess": "2026-11-23T12:30:13.303Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.780Z"
+      "lastSuccess": "2026-11-23T12:30:13.403Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.831Z"
+      "lastSuccess": "2026-11-23T12:30:13.410Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:07.056Z"
+      "lastSuccess": "2026-11-23T12:30:13.452Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.730Z"
+      "lastSuccess": "2026-11-23T12:30:13.351Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.758Z"
+      "lastSuccess": "2026-11-23T12:30:13.331Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.861Z"
+      "lastSuccess": "2026-11-23T12:30:13.442Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.835Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-23T12:30:13.494Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.912Z"
+      "lastSuccess": "2026-11-23T12:30:13.424Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.898Z"
+      "lastSuccess": "2026-11-23T12:30:13.481Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.798Z"
+      "lastSuccess": "2026-11-23T12:30:13.314Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.817Z"
+      "lastSuccess": "2026-11-23T12:30:13.457Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.837Z"
+      "lastSuccess": "2026-11-23T12:30:13.412Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.940Z"
+      "lastSuccess": "2026-11-23T12:30:13.532Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.945Z"
+      "lastSuccess": "2026-11-23T12:30:13.551Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.794Z"
+      "lastSuccess": "2026-11-23T12:30:13.459Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.932Z"
+      "lastSuccess": "2026-11-23T12:30:13.543Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.916Z"
+      "lastSuccess": "2026-11-23T12:30:13.444Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T12:25:06.920Z"
+      "lastErrorAt": "2026-11-23T12:30:13.536Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:06.976Z"
+      "lastSuccess": "2026-11-23T12:30:13.602Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:07.116Z"
+      "lastSuccess": "2026-11-23T12:30:13.684Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T12:25:08.905Z"
+      "lastSuccess": "2026-11-23T12:30:13.586Z"
     }
   },
   "items": [
@@ -157,6 +158,19 @@
       "link": "https://www.france24.com/en/video/20261123-out-of-control-ice-agents-make-arrests-at-seattle-airport-in-horrific-scene",
       "imageUrl": "https://s.france24.com/media/display/c806d7ae-e734-11f1-a6ea-e56ab3dc0809/w:1024/p:16x9/miniice.jpg",
       "publishedAt": "2026-11-23T12:11:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b57c26003617f196",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "System Outages, Weather Issues Impact Thanksgiving Travel",
+      "snippet": "Thanksgiving week is off to a messy start with weather and air travel issues impacting hundreds of flights. The FAA had to briefly shut down Delta flights to Atlanta’s Hartsfield-Jackson Airport on Sunday morning after an outage involving o",
+      "link": "https://www.today.com/video/delta-restores-service-after-bumpy-start-to-thanksgiving-week-274004549752",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T12:11:08.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -994,6 +1008,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8670678d7c834aee",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Budget cuts threaten Germany's fight against antisemitism and racism",
+      "snippet": "Numerous grassroots initiatives in Germany are facing funding cuts. Affected organizations are sounding the alarm, pointing to growing challenges posed by far-right extremism.",
+      "link": "https://www.dw.com/en/budget-cuts-threaten-germany-s-fight-against-antisemitism-and-racism/a-80018644?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T10:55:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f8e87dbd86238c79",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -1080,6 +1107,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-23T10:43:19.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a0b2e622ad4a2400",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Victor Wembanyama - AP News",
+      "snippet": "Victor Wembanyama  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwenRWUnNocHIwRkdKS2hFRkZYU0liQU5oMEdPZW5yTXFjZy1VdUhZeGhGU3VuWUc5ejdld0NfOWVjdzBXaDYyMnY1YTVvNkg2S1E?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T10:41:31.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2653,45 +2693,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42LVRfRE1VN3p6TWQtbjFtRG1EeEFPNHlxaVg5M0lSTmYtQkRqUi1iNEhBbXRtd09QYW1BUGt2R3lFQjVicmJRYUIwNko?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-23T08:02:43.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_d17fb8af45bfdca9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
-      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T08:01:10.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_343d89310cfb9cc0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Mexico - AP News",
-      "snippet": "Mexico  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsbDhZRnVyak5fWkhUTkVPUVpNS2p0MUVqal8yalItaTZtLVJYOHNtVDUyT2J1SDhzaF9sSndpZWh0aHc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T08:01:06.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_46f99d55ffbce6ea",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Michigan - AP News",
-      "snippet": "Michigan  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9BTWtOdGNlc2xxQVVTcnE5b0FuUy1HT056Xy1VWk5pQWJ6TEgwT2pkUnZaN2JIcEE3Z242STNLOGR0VjRIdFE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T08:01:05.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
