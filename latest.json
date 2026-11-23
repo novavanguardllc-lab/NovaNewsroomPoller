@@ -1,99 +1,98 @@
 {
-  "updatedAt": "2026-11-23T06:50:09.569Z",
+  "updatedAt": "2026-11-23T06:55:05.948Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:09.987Z"
+      "lastSuccess": "2026-11-23T06:55:06.131Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:09.806Z"
+      "lastSuccess": "2026-11-23T06:55:06.152Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.147Z"
+      "lastSuccess": "2026-11-23T06:55:06.187Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:09.870Z"
+      "lastSuccess": "2026-11-23T06:55:06.270Z"
     },
     "Reuters": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-23T06:50:10.188Z"
+      "online": true,
+      "lastSuccess": "2026-11-23T06:55:06.491Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:09.910Z"
+      "lastSuccess": "2026-11-23T06:55:06.233Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.172Z"
+      "lastSuccess": "2026-11-23T06:55:06.033Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.071Z"
+      "lastSuccess": "2026-11-23T06:55:06.110Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.277Z"
+      "lastSuccess": "2026-11-23T06:55:06.191Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.409Z"
+      "lastSuccess": "2026-11-23T06:55:06.249Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.270Z"
+      "lastSuccess": "2026-11-23T06:55:06.327Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.274Z"
+      "lastSuccess": "2026-11-23T06:55:06.193Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.413Z"
+      "lastSuccess": "2026-11-23T06:55:06.331Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:09.828Z"
+      "lastSuccess": "2026-11-23T06:55:06.052Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.312Z"
+      "lastSuccess": "2026-11-23T06:55:06.664Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.447Z"
+      "lastSuccess": "2026-11-23T06:55:06.334Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.166Z"
+      "lastSuccess": "2026-11-23T06:55:06.206Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.487Z"
+      "lastSuccess": "2026-11-23T06:55:06.452Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.310Z"
+      "lastSuccess": "2026-11-23T06:55:06.470Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-23T06:50:10.488Z"
+      "lastErrorAt": "2026-11-23T06:55:06.350Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.519Z"
+      "lastSuccess": "2026-11-23T06:55:06.469Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.651Z"
+      "lastSuccess": "2026-11-23T06:55:06.447Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-23T06:50:10.569Z"
+      "lastSuccess": "2026-11-23T06:55:06.500Z"
     }
   },
   "items": [
@@ -120,6 +119,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-23T06:47:49.000Z",
       "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2ae1af277a23645a",
+      "source": "France24",
+      "sourceColor": "#3E5C8A",
+      "headline": "Ligue 1: Marseille lose to Le Mans after being up 2 goals at home",
+      "snippet": "Olympique de Marseille suffered a home defeat against Le Mans (3–2). Having led 2-0 after 40 minutes thanks to goals from Gouiri (33’) and Paixão (40’), OM collapsed.",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261123-ligue-1-marseille-lose-to-le-mans-after-being-up-2-goals-at-home",
+      "imageUrl": "https://s.france24.com/media/display/659a3e8c-e6e2-11f1-a088-ebb478925cf0/w:1024/p:16x9/om-1-2.jpg",
+      "publishedAt": "2026-11-23T06:41:41.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2683,19 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_c35aa5b4512073b5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Lawyer: Father and daughter detained by ICE at Seattle airport were travelling to family baptism - AP News",
-      "snippet": "Lawyer: Father and daughter detained by ICE at Seattle airport were travelling to family baptism  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEtrdGZScmR2TTNyNG1MR0xlT3FhUW00LV95MFR6TjJwRXdUOHlVV25jVTVuZktGX1UxTlpweUVEZDJreXJGVmZRZFdBZ05OekFyNEZHdUsxOXFuRXRoUjNuOXRWN201RHVEZ2tvS0VveF9yVUJWZGhsWWgtcWtxTFhiOEtpVGdkY1V1cTI2RnNTTmpRc1BaTm9ld05ZWU0?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T23:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
