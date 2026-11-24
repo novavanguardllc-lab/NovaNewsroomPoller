@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-24T16:35:06.523Z",
+  "updatedAt": "2026-11-24T16:40:09.626Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.717Z"
+      "lastSuccess": "2026-11-24T16:40:09.778Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.980Z"
+      "lastSuccess": "2026-11-24T16:40:09.937Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.690Z"
+      "lastSuccess": "2026-11-24T16:40:09.759Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.740Z"
+      "lastSuccess": "2026-11-24T16:40:09.810Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.605Z"
+      "lastSuccess": "2026-11-24T16:40:09.730Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.770Z"
+      "lastSuccess": "2026-11-24T16:40:10.081Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.720Z"
+      "lastSuccess": "2026-11-24T16:40:09.939Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.634Z"
+      "lastSuccess": "2026-11-24T16:40:09.883Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.671Z"
+      "lastSuccess": "2026-11-24T16:40:09.830Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.601Z"
+      "lastSuccess": "2026-11-24T16:40:09.885Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.754Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-24T16:40:09.811Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.649Z"
+      "lastSuccess": "2026-11-24T16:40:09.719Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.750Z"
+      "lastSuccess": "2026-11-24T16:40:09.815Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.736Z"
+      "lastSuccess": "2026-11-24T16:40:09.871Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.837Z"
+      "lastSuccess": "2026-11-24T16:40:09.966Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.787Z"
+      "lastSuccess": "2026-11-24T16:40:09.922Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.760Z"
+      "lastSuccess": "2026-11-24T16:40:09.895Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.823Z"
+      "lastSuccess": "2026-11-24T16:40:10.076Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:07.053Z"
+      "lastSuccess": "2026-11-24T16:40:10.135Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-24T16:35:06.872Z"
+      "lastErrorAt": "2026-11-24T16:40:10.092Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.872Z"
+      "lastSuccess": "2026-11-24T16:40:09.976Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.948Z"
+      "lastSuccess": "2026-11-24T16:40:10.118Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:35:06.968Z"
+      "lastSuccess": "2026-11-24T16:40:12.487Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_30b01b428c7f2c91",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "New details emerge about U.S. involvement in drug lord's capture",
+      "snippet": "The U.S. has sought to line up allies across Latin America to allow U.S. forces to operate in their territories, with mixed responses from across the region.",
+      "link": "https://www.cbsnews.com/news/chapo-isidro-arrest-us-drone-mexico-help-capture-drug-lord/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:35:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -149,6 +163,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f12547c18aa2bf17",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Illegal alien with lengthy rap sheet charged in home invasion murder of woman, 62, day after no-bail release",
+      "snippet": "Alexander Florentino was charged in the murder of Jin Yu inside her New York City Chinatown apartment a day after a judge released him without bail.",
+      "link": "https://www.foxnews.com/us/illegal-alien-lengthy-rap-sheet-charged-home-invasion-murder-woman-62-day-after-no-bail-release",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:31:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_302db3c5822d5549",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -170,6 +197,19 @@
       "link": "https://thehill.com/opinion/technology/6238353-preventing-ai-driven-job-displacement/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/amodei_dario_daniela_anthropic_ipo_11192026_AP26323536700914.png?w=900",
       "publishedAt": "2026-11-24T16:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ff2e3bc3d0fbc5ef",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history",
+      "snippet": "",
+      "link": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:29:47.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -222,6 +262,19 @@
       "link": "https://www.theguardian.com/society/2026/nov/24/dea-fentanyl-new-mexico-sting",
       "imageUrl": null,
       "publishedAt": "2026-11-24T16:26:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_6dd3e2ecc64210d8",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Chicago Cubs reportedly sign Japanese star Teruaki Sato to monster contract worth $120 million",
+      "snippet": "Teruaki Sato joins the Chicago Cubs on a six-year, $120 million deal after winning Japan's Triple Crown, pairing with MVP Pete Crow-Armstrong.",
+      "link": "https://www.foxnews.com/outkick-sports/chicago-cubs-sign-japanese-star-teruaki-sato-monster-contract-120-million",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:25:19.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2643,58 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_8526d1936bca90f8",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "DR Congo and Kenya agree to restore ties",
-      "snippet": "After years of strained relations over the conflict in eastern Congo, Kinshasa and Nairobi are moving towards a diplomatic reset. DR Congo's President Felix Tshisekedi met his Kenyan counterpart William Ruto over the weekend and they agreed",
-      "link": "https://www.france24.com/en/video/20261124-dr-congo-and-kenya-agree-to-restore-ties",
-      "imageUrl": "https://s.france24.com/media/display/49b19f2a-e800-11f1-b97c-c131ae9bfe9c/w:1024/p:16x9/EN-20261123-225155-225317-CS.jpg",
-      "publishedAt": "2026-11-24T13:35:58.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8d443f8208eb6325",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-      "snippet": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-      "link": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T13:35:51.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_78c3f8a2089dd3e2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Nvidia board's Huang reversal raises doubts about independence, critics say - Reuters",
-      "snippet": "Nvidia board's Huang reversal raises doubts about independence, critics say  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0s4b2VlR0lnRDlhYWpheHZuRHcwNmd3VWFzUFZTZkNfbjlYaG8ybDVjZ1d4VlFXS3JaZmFWTjhkTlpaeTBKVTN3aGV1eERkMFlmZGRxUzVsYzRaZFhNblp5S2d0czFZV3ZJZVpOc0c4YlJJazhiQzlYYkFJYUo5YnhfMklmdDVGVklQMHBCQkN6dVRLQkRHWEFGaDZQMFBDblJzam5wSTFxdWd5SUdNRXdpUVRSVzNFYmNOUFo0SkllU0FMSF9lbQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T13:35:26.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_28d0dd91d66577a6",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Getting court approval, U.S. Army to detonate degraded bomb-making material in Iowa on Wednesday",
-      "snippet": "The detonation of 68 barrels of lead azide was initially planned for last Friday, but the Army has since changed the date three times following an outpouring of public concern about potential health and environmental effects.",
-      "link": "https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T13:34:10.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
