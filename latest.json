@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-24T09:40:10.561Z",
+  "updatedAt": "2026-11-24T09:45:08.750Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.810Z"
+      "lastSuccess": "2026-11-24T09:45:08.974Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:11.056Z"
+      "lastSuccess": "2026-11-24T09:45:08.927Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.657Z"
+      "lastSuccess": "2026-11-24T09:45:08.874Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.708Z"
+      "lastSuccess": "2026-11-24T09:45:08.835Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.891Z"
+      "lastSuccess": "2026-11-24T09:45:08.992Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.905Z"
+      "lastSuccess": "2026-11-24T09:45:09.040Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.910Z"
+      "lastSuccess": "2026-11-24T09:45:09.035Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.918Z"
+      "lastSuccess": "2026-11-24T09:45:08.979Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.902Z"
+      "lastSuccess": "2026-11-24T09:45:09.012Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.718Z"
+      "lastSuccess": "2026-11-24T09:45:08.996Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.924Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-24T09:45:08.875Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.914Z"
+      "lastSuccess": "2026-11-24T09:45:08.990Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.753Z"
+      "lastSuccess": "2026-11-24T09:45:09.031Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.789Z"
+      "lastSuccess": "2026-11-24T09:45:09.077Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.935Z"
+      "lastSuccess": "2026-11-24T09:45:09.216Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.869Z"
+      "lastSuccess": "2026-11-24T09:45:09.141Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.897Z"
+      "lastSuccess": "2026-11-24T09:45:09.050Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:11.020Z"
+      "lastSuccess": "2026-11-24T09:45:09.202Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:11.043Z"
+      "lastSuccess": "2026-11-24T09:45:08.950Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-24T09:40:10.936Z"
+      "lastErrorAt": "2026-11-24T09:45:09.238Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.942Z"
+      "lastSuccess": "2026-11-24T09:45:09.272Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.964Z"
+      "lastSuccess": "2026-11-24T09:45:09.297Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-24T09:40:10.984Z"
+      "lastSuccess": "2026-11-24T09:45:09.290Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d3283a4f23b3363d",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "How two directors fought back when their film was stolen and won an International Emmy Award",
+      "snippet": "Two German film students confronted the American who won festival prizes with their animated movie. Their documentary on their fight against plagiarism is now in the spotlight.",
+      "link": "https://www.dw.com/en/how-two-directors-fought-back-when-their-film-was-stolen-and-won-an-international-emmy-award/a-76103455?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T09:40:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -794,6 +808,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldRdngyRk9qdWlNdVBkYlFrTnBtV3M3WU45al9qVVp6OE9VRktQTWVKRWY0aWlfNjBhTVFNVlhaYkp4aEJVeVItSlpIUjAwd2I5RGh5MV9wZHVnNkc5c3F1MzA0elVvZ2x2bVFrMUM3NHgwVjJYaHpPRS0xa25Tb0VIUVBySTd5blMxNXhQYlVWMkh5bG0tbHRNN3hvck8zQnI3SG4tdGg?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-24T07:52:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b075701aaf3ebde2",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Hanoi eatery blast kills 3 and injures more than a dozen - AP News",
+      "snippet": "Hanoi eatery blast kills 3 and injures more than a dozen  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE9ZWEhqNHBLUzMzYXVpOGd4S1N0cVlCWUFPV2Yyblh2dE11Q2VVUjIwZEFfWUxyLUIzWElhdFRDNlZmdldqVWU0NG5WU3RfeFQyQTU3YnVsQlR6OC1TeUZvWUYzbEU0NnhNZ2tNc3h6TWJBRFdpZ2xOamY0anBaVWNhSnh2SlVvX3V2VmJ0alRocEFOS3VPM0tHZUttNUJ4TTRmdXBoZ21nMVdfTkE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T07:51:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2669,32 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_f1ddc8e4129da2b8",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Bengals wide receiver Tee Higgins skips designer labels to pay tribute to Fiona the Hippo",
-      "snippet": "Tee Higgins skipped loud designer fits for a Fiona the Hippo shirt before the Bengals faced the Washington Commanders, a tribute the whole city felt.",
-      "link": "https://www.foxnews.com/outkick-sports/bengals-wide-receiver-tee-higgins-skips-designer-labels-pay-tribute-fiona-hippo",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T01:34:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6ee5d9f2ed1e8262",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-      "snippet": "Qatar’s Prime Minister says he’s working towards deescalating tensions between Iran and the US.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T01:32:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
