@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-24T17:35:06.837Z",
+  "updatedAt": "2026-11-24T17:40:08.738Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:06.944Z"
+      "lastSuccess": "2026-11-24T17:40:08.957Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:06.978Z"
+      "lastSuccess": "2026-11-24T17:40:09.166Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.221Z"
+      "lastSuccess": "2026-11-24T17:40:09.099Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.099Z"
+      "lastSuccess": "2026-11-24T17:40:08.977Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.103Z"
+      "lastSuccess": "2026-11-24T17:40:09.120Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.375Z"
+      "lastSuccess": "2026-11-24T17:40:09.043Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.207Z"
+      "lastSuccess": "2026-11-24T17:40:09.240Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.146Z"
+      "lastSuccess": "2026-11-24T17:40:08.843Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-24T17:35:06.948Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-24T17:40:09.176Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:06.920Z"
+      "lastSuccess": "2026-11-24T17:40:09.019Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:06.882Z"
+      "lastSuccess": "2026-11-24T17:40:09.046Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:06.962Z"
+      "lastSuccess": "2026-11-24T17:40:09.000Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.191Z"
+      "lastSuccess": "2026-11-24T17:40:09.176Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.125Z"
+      "lastSuccess": "2026-11-24T17:40:09.060Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.097Z"
+      "lastSuccess": "2026-11-24T17:40:09.138Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.041Z"
+      "lastSuccess": "2026-11-24T17:40:09.161Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.181Z"
+      "lastSuccess": "2026-11-24T17:40:09.192Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-24T17:35:07.168Z"
+      "lastErrorAt": "2026-11-24T17:40:09.188Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.198Z"
+      "lastSuccess": "2026-11-24T17:40:09.276Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.204Z"
+      "lastSuccess": "2026-11-24T17:40:09.221Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.362Z"
+      "lastSuccess": "2026-11-24T17:40:09.440Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.163Z"
+      "lastSuccess": "2026-11-24T17:40:09.183Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-24T17:35:07.515Z"
+      "lastSuccess": "2026-11-24T17:40:09.284Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_067ac2dcd759a725",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "House Democrat: Trump intervention in Huang expulsion sets ‘bad precedent’",
+      "snippet": "Rep. Suhas Subramanyam (D-Va.) called on his party to thoroughly investigate President Trump’s role in getting Nvidia’s board to restore Jensen Huang as the company’s CEO to ensure that future presidents cannot do the same. “It’s setting a ",
+      "link": "https://thehill.com/homenews/house/6240192-subramanyam-calls-trump-nvidia-probe/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/subramanyamsuhas_032626gn01_w.jpg?w=900",
+      "publishedAt": "2026-11-24T17:36:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -404,6 +418,19 @@
       "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
       "imageUrl": null,
       "publishedAt": "2026-11-24T17:05:38.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ca6bd074c97c660e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "snippet": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T17:04:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1276,6 +1303,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-24T16:12:37.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2709984fd078141b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Russia backs tax rises as 2027 budget sees military spending soar - AP News",
+      "snippet": "Russia backs tax rises as 2027 budget sees military spending soar  AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmdZWEVxcnVibXZJbXBEX01OM2M1dGpSNjJhVDlSRWtMSkxqYVNYTUpUVjF0dDRHdVVhOVhGNFhMemxXSWl6VUpIdVRmMTNFXzA4eVd4QzB6UFo4WkFCYW9fbUV6aXJ2bW1BZFpQdWkwZFVnMEhlSFpUQUxEYThNVXRrWGJLd1V0UlZ5ODVtVWNaYWxMOGlOVVllbFlsbUFUY1pEamRCaWFuSXpL?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:12:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2654,45 +2694,6 @@
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26323320410406.jpg?w=900",
       "publishedAt": "2026-11-24T15:00:00.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8ff499aa72f85381",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Watch: Army, FEMA officials give update on planned Iowa detonation",
-      "snippet": "Officials from the U.S. Army and Federal Emergency Management Agency (FEMA) will brief reporters Tuesday morning on the planned detonation of lead-containing munitions in Iowa. The operation, slated for Wednesday after a previous delay, has",
-      "link": "https://thehill.com/video-clips/6239478-watch-live-army-fema-officials-joint-press-conference-iowa-detonation/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26327823562925-e1795531466229.jpg?w=900",
-      "publishedAt": "2026-11-24T14:57:33.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_da2820e5ff9852f2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Army says weather conditions favorable for Wednesday detonation of bomb-making material in Iowa - AP News",
-      "snippet": "Army says weather conditions favorable for Wednesday detonation of bomb-making material in Iowa  AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRkhUQ2g4MktLbDJLbVNZT3RFbXQ4NFZtcUJmVTZLb0lMYXV1dDZ6V0tfWVZxUlBnSkhPYTBtNWo3Q2ZzcEJRSWJZTmlqSFR5UnN3RVd2VXo5VTBPRmU3TXVTWENBNWpDV0lkRVdVVVlONUVlRkx2UTN2dDhOQUhja21BWWlXMjFzTEJmcHFFRXRmbHJ0ZDU2QXh3V2IzZw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T14:57:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9e81c9e8f706923a",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025 - Reuters",
-      "snippet": "China probes Shanghai party boss Chen Jining, marking fourth Politburo member to fall since 2025  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWENXdFJEUVN5WUF1ODgwSWdpRUZiSWk0UVFoX3QzbVF4N19LRDJmaUdpTm1ZVlU2Rmx2Zm5hX1RleFg2aDRjWlN6QTBCM1JNc0VOZ2FRbEFvVUYyNF96REhoU0RsUTVyVkYzUXVfdmFHaTQxMnk2WVZQWU1XR25NaGV0TERXS2RtVmR6bVBCZ1loZHRzZzlQajlZdjkySHhpdDJV?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T14:56:18.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
