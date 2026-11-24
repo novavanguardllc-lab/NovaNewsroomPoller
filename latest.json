@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-24T05:00:14.053Z",
+  "updatedAt": "2026-11-24T05:05:07.187Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.146Z"
+      "lastSuccess": "2026-11-24T05:05:07.294Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.104Z"
+      "lastSuccess": "2026-11-24T05:05:07.306Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.297Z"
+      "lastSuccess": "2026-11-24T05:05:07.318Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.187Z"
+      "lastSuccess": "2026-11-24T05:05:07.354Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.159Z"
+      "lastSuccess": "2026-11-24T05:05:07.279Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.202Z"
+      "lastSuccess": "2026-11-24T05:05:07.280Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.225Z"
+      "lastSuccess": "2026-11-24T05:05:07.326Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.192Z"
+      "lastSuccess": "2026-11-24T05:05:07.260Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.300Z"
+      "lastSuccess": "2026-11-24T05:05:07.312Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.207Z"
+      "lastSuccess": "2026-11-24T05:05:07.323Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.221Z"
+      "lastSuccess": "2026-11-24T05:05:07.314Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.380Z"
+      "lastSuccess": "2026-11-24T05:05:07.529Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.259Z"
+      "lastSuccess": "2026-11-24T05:05:07.348Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.272Z"
+      "lastSuccess": "2026-11-24T05:05:07.367Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.131Z"
+      "lastSuccess": "2026-11-24T05:05:07.276Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.302Z"
+      "lastSuccess": "2026-11-24T05:05:07.468Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.306Z"
+      "lastSuccess": "2026-11-24T05:05:07.374Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.290Z"
+      "lastSuccess": "2026-11-24T05:05:07.460Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-24T05:00:14.295Z"
+      "lastErrorAt": "2026-11-24T05:05:07.455Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.427Z"
+      "lastSuccess": "2026-11-24T05:05:07.453Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.394Z"
+      "lastSuccess": "2026-11-24T05:05:07.544Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.376Z"
+      "lastSuccess": "2026-11-24T05:05:07.489Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-24T05:00:14.153Z"
+      "lastSuccess": "2026-11-24T05:05:07.643Z"
     }
   },
   "items": [
@@ -105,6 +105,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fbc77a0dfdeb0c47",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+      "snippet": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+      "link": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T05:01:05.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2679,19 +2692,6 @@
       "link": "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
       "imageUrl": null,
       "publishedAt": "2026-11-23T22:35:41.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 5
-    },
-    {
-      "id": "story_400a3170654cca60",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
-      "snippet": "The Trump administration has added Megaspeed to a trade blacklist after tensions over its failure to do so raised questions. The news came the same day that Jensen Huang was reinstated as Nvidia's CEO.",
-      "link": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T22:35:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 5
