@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-24T16:55:06.438Z",
+  "updatedAt": "2026-11-24T17:00:15.751Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.490Z"
+      "lastSuccess": "2026-11-24T17:00:16.002Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.922Z"
+      "lastSuccess": "2026-11-24T17:00:16.019Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.502Z"
+      "lastSuccess": "2026-11-24T17:00:15.875Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.543Z"
+      "lastSuccess": "2026-11-24T17:00:16.048Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.635Z"
+      "lastSuccess": "2026-11-24T17:00:15.847Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.613Z"
+      "lastSuccess": "2026-11-24T17:00:16.689Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.896Z"
+      "lastSuccess": "2026-11-24T17:00:16.139Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.523Z"
+      "lastSuccess": "2026-11-24T17:00:16.007Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.537Z"
+      "lastSuccess": "2026-11-24T17:00:15.958Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.593Z"
+      "lastSuccess": "2026-11-24T17:00:16.052Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.548Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-24T17:00:16.050Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.518Z"
+      "lastSuccess": "2026-11-24T17:00:16.039Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.509Z"
+      "lastSuccess": "2026-11-24T17:00:16.056Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.585Z"
+      "lastSuccess": "2026-11-24T17:00:15.935Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.624Z"
+      "lastSuccess": "2026-11-24T17:00:16.134Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.576Z"
+      "lastSuccess": "2026-11-24T17:00:16.124Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.602Z"
+      "lastSuccess": "2026-11-24T17:00:16.143Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.681Z"
+      "lastSuccess": "2026-11-24T17:00:16.240Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.893Z"
+      "lastSuccess": "2026-11-24T17:00:16.030Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-24T16:55:06.627Z"
+      "lastErrorAt": "2026-11-24T17:00:16.182Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.633Z"
+      "lastSuccess": "2026-11-24T17:00:16.149Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:06.690Z"
+      "lastSuccess": "2026-11-24T17:00:16.286Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-24T16:55:08.547Z"
+      "lastSuccess": "2026-11-24T17:00:17.985Z"
     }
   },
   "items": [
@@ -123,6 +124,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_3e976c82eb71e7d7",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Top House Democrat calls for public hearing with Jensen Huang",
+      "snippet": "A ranking member of the House Foreign Affairs Committee on Tuesday called for a public hearing from recently reinstated Nvidia CEO Jensen Huang, who has been facing mounting scrutiny over reports of a relationship with an alleged Chinese sp",
+      "link": "https://thehill.com/policy/technology/6240078-top-house-democrat-calls-for-public-hearing-with-jensen-huang/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/6aab0119f0a1a8.99683010.jpeg?w=900",
+      "publishedAt": "2026-11-24T16:52:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_2816938d89804dbe",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -133,6 +147,19 @@
       "publishedAt": "2026-11-24T16:52:03.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ccf50adfa9c98fee",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Florida Gators head coach Jon Sumrall takes swipe at predecessor Billy Napier in Monday press conference",
+      "snippet": "Florida Gators coach Jon Sumrall jabbed predecessor Billy Napier's special teams blunders, saying boosters wanted proof of concept before buying in.",
+      "link": "https://www.foxnews.com/outkick-sports/florida-gators-head-coach-jon-sumrall-takes-swipe-predecessor-billy-napier-monday-press-conference",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:51:41.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -599,6 +626,19 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-24T16:11:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_76bebe2ad86b2b53",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "The Mortality Gap Between Black and White Americans Is Shrinking",
+      "snippet": "A new report shows significant progress on racial health disparities, though many still persist.",
+      "link": "https://www.nytimes.com/2026/11/24/well/black-white-americans-health-death-rates.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T16:11:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2656,45 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_2fdb79467f5dc0b6",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Ukraine insists attack on Russian ships in Libya was self-defence - Reuters",
-      "snippet": "Ukraine insists attack on Russian ships in Libya was self-defence  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTzIzWjZLTEdiVXRtR0I1cEJ3MFVCUzF5ZktKdWRUQlNtMEVDTnQ4Mk5xU2tvODVlRUJFeE5KOGlieGxsYkp5c1dhZklONzRZNW1VWTR4OVM1MGFQM0cxRXBaQm93b1lhWG1qR3F0ZGV2VTRRRGxtbTRkU1VYQ2c2dEtHckpXQmJCbmpYZlNKeFVrNW8zVjBldDFEWGc1TmIzRTJTM0ozNy1yanVq?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T13:59:01.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_dcffbcc5251d01f3",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "The FDA is redefining \"ultra-processed food.\" A doctor explains what that means.",
-      "snippet": "The U.S. Food and Drug Administration plans to update its definition of ultra-processed foods. Dr. Céline Gounder explains.",
-      "link": "https://www.cbsnews.com/video/the-fda-plans-to-redefine-ultra-processed-food-a-doctor-explains/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T13:56:51.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7dfd72916188539b",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Israeli air strike kills senior Hamas military official in Gaza",
-      "snippet": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
-      "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T13:55:11.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
