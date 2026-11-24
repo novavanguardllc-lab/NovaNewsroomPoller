@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-24T14:10:09.593Z",
+  "updatedAt": "2026-11-24T14:15:09.289Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.785Z"
+      "lastSuccess": "2026-11-24T14:15:09.418Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:10.047Z"
+      "lastSuccess": "2026-11-24T14:15:10.439Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.709Z"
+      "lastSuccess": "2026-11-24T14:15:09.361Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.729Z"
+      "lastSuccess": "2026-11-24T14:15:09.531Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.832Z"
+      "lastSuccess": "2026-11-24T14:15:09.576Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.851Z"
+      "lastSuccess": "2026-11-24T14:15:09.671Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.852Z"
+      "lastSuccess": "2026-11-24T14:15:09.673Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.864Z"
+      "lastSuccess": "2026-11-24T14:15:09.657Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.770Z"
+      "lastSuccess": "2026-11-24T14:15:09.554Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.714Z"
+      "lastSuccess": "2026-11-24T14:15:09.558Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.840Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-24T14:15:09.658Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.836Z"
+      "lastSuccess": "2026-11-24T14:15:09.582Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.740Z"
+      "lastSuccess": "2026-11-24T14:15:09.485Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.798Z"
+      "lastSuccess": "2026-11-24T14:15:09.545Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.920Z"
+      "lastSuccess": "2026-11-24T14:15:09.652Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.887Z"
+      "lastSuccess": "2026-11-24T14:15:09.640Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.860Z"
+      "lastSuccess": "2026-11-24T14:15:09.666Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:10.002Z"
+      "lastSuccess": "2026-11-24T14:15:09.771Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:10.080Z"
+      "lastSuccess": "2026-11-24T14:15:09.858Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-24T14:10:09.939Z"
+      "lastErrorAt": "2026-11-24T14:15:09.672Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:09.944Z"
+      "lastSuccess": "2026-11-24T14:15:09.680Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:10.033Z"
+      "lastSuccess": "2026-11-24T14:15:09.692Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-24T14:10:11.788Z"
+      "lastSuccess": "2026-11-24T14:15:11.303Z"
     }
   },
   "items": [
@@ -105,6 +106,19 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_dda55d4899d84343",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Cotton: ‘Congress has much to investigate’ after Trump push to reinstate Huang",
+      "snippet": "Senate Intelligence Committee Chairman Tom Cotton (R-Ark.) says “Congress has much to investigate” in the wake of President Trump’s push to reinstate Jensen Huang as CEO of Nvidia, something that caused the company’s stock to soar more than",
+      "link": "https://thehill.com/homenews/senate/6239366-tom-cotton-donald-trump-jensen-huang-nvidia/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/10/cottontom_072826gn03_w.jpg?w=900",
+      "publishedAt": "2026-11-24T14:09:42.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -131,6 +145,19 @@
       "link": "https://abcnews.com/video/138408581/",
       "imageUrl": null,
       "publishedAt": "2026-11-24T14:02:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9dcb806d4de1080b",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump helped Huang back to Nvidia \"at the expense of our national security,\" lawmaker says",
+      "snippet": "Jensen Huang was reinstated as Nvidia's CEO just days after he resigned following his affair with an alleged Chinese spy. Rep. Raja Krishnamoorthi, a Democrat from Illinois, weighs in, plus Fortune AI editor Jeremy Kahn shares his thoughts ",
+      "link": "https://www.cbsnews.com/video/democrat-reacts-to-nvidia-reinstating-huang/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T14:01:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -432,6 +459,19 @@
       "publishedAt": "2026-11-24T13:35:51.000Z",
       "tier": "routine",
       "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_78c3f8a2089dd3e2",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Nvidia board's Huang reversal raises doubts about independence, critics say - Reuters",
+      "snippet": "Nvidia board's Huang reversal raises doubts about independence, critics say  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0s4b2VlR0lnRDlhYWpheHZuRHcwNmd3VWFzUFZTZkNfbjlYaG8ybDVjZ1d4VlFXS3JaZmFWTjhkTlpaeTBKVTN3aGV1eERkMFlmZGRxUzVsYzRaZFhNblp5S2d0czFZV3ZJZVpOc0c4YlJJazhiQzlYYkFJYUo5YnhfMklmdDVGVklQMHBCQkN6dVRLQkRHWEFGaDZQMFBDblJzam5wSTFxdWd5SUdNRXdpUVRSVzNFYmNOUFo0SkllU0FMSF9lbQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T13:35:26.000Z",
+      "tier": "major",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2655,45 +2695,6 @@
       "publishedAt": "2026-11-24T10:33:27.000Z",
       "tier": "routine",
       "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a3f7cd8ca5f29629",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Too young to be vaccinated for measles? Babies face growing threats from outbreaks",
-      "snippet": "As measles outbreaks continue to soar, a new question has emerged: Should doctors give measles shots earlier to better protect babies?",
-      "link": "https://www.nbcnews.com/health/health-news/measles-babies-vaccine-dose-protect-outbreaks-rcna610383",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T10:30:41.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0bf01d2c9deae0e8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Xiaomi third-quarter profit falls 57% as EV sales decline - Reuters",
-      "snippet": "Xiaomi third-quarter profit falls 57% as EV sales decline  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T10:30:16.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c1f191be6ab03379",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "French police officer who shot teenager will face murder trial - Reuters",
-      "snippet": "French police officer who shot teenager will face murder trial  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGkyM3pxV25SRFhXMzlEYmpkaVg1ckxDcldhTFFjd2NnQ0tJQXF1NG1yNHlvM0QtUHNIWlVQMDg2bzdwMG1iUnh0ZlNMV19UTGo3Z1BxZW50MnJTektrWHJMVkt5b0NoeHF1U1ExdjFQU0p2T0Etb0hxS0Jwc25aOTIwUEtGb19OQmNJc3ZReWZlckFxNFJfaEtTN2UxOGdHUFZEZVFFRQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T10:30:09.000Z",
-      "tier": "major",
-      "topic": "news",
       "corroboratedCount": 1
     }
   ]
