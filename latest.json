@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-25T12:55:06.903Z",
+  "updatedAt": "2026-11-25T13:00:14.702Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.103Z"
+      "lastSuccess": "2026-11-25T13:00:14.798Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.042Z"
+      "lastSuccess": "2026-11-25T13:00:14.803Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.144Z"
+      "lastSuccess": "2026-11-25T13:00:14.830Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.022Z"
+      "lastSuccess": "2026-11-25T13:00:14.770Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.147Z"
+      "lastSuccess": "2026-11-25T13:00:14.936Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.329Z"
+      "lastSuccess": "2026-11-25T13:00:14.968Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.190Z"
+      "lastSuccess": "2026-11-25T13:00:14.846Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.226Z"
+      "lastSuccess": "2026-11-25T13:00:14.879Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.195Z"
+      "lastSuccess": "2026-11-25T13:00:14.815Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.124Z"
+      "lastSuccess": "2026-11-25T13:00:14.925Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.151Z"
+      "lastSuccess": "2026-11-25T13:00:14.840Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.172Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-25T13:00:14.849Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.167Z"
+      "lastSuccess": "2026-11-25T13:00:14.838Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.186Z"
+      "lastSuccess": "2026-11-25T13:00:14.848Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.342Z"
+      "lastSuccess": "2026-11-25T13:00:14.918Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.169Z"
+      "lastSuccess": "2026-11-25T13:00:14.946Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.231Z"
+      "lastSuccess": "2026-11-25T13:00:14.860Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.364Z"
+      "lastSuccess": "2026-11-25T13:00:15.031Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T12:55:07.337Z"
+      "lastErrorAt": "2026-11-25T13:00:14.919Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.081Z"
+      "lastSuccess": "2026-11-25T13:00:15.197Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.316Z"
+      "lastSuccess": "2026-11-25T13:00:14.912Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:07.510Z"
+      "lastSuccess": "2026-11-25T13:00:14.811Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T12:55:08.981Z"
+      "lastSuccess": "2026-11-25T13:00:17.000Z"
     }
   },
   "items": [
@@ -136,6 +137,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_b50c4ef9dbb95818",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Shelter the Livestock, Farmers Were Told. But Where Do You Hide a Herd?",
+      "snippet": "In Mount Pleasant, Iowa, a farmer turned activist spends the evening before a toxic detonation with her cattle.",
+      "link": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-cattle-farmer.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:48:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_cb0e443e985a19f1",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -147,6 +161,58 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_5f29991e3bb7c4cc",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "New Details Emerge on Break-In at William and Kate’s Home",
+      "snippet": "Two men have been charged with burglary and trespassing after a rare and massive security breach at Prince William and Kate Middleton’s Sandringham estate. The couple and their three children were not home at the time. NBC’s Daniele Hamamdj",
+      "link": "https://www.today.com/video/new-details-emerge-on-break-in-at-william-and-kate-s-home-274155589878",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:45:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_ecccfdef4e57d838",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
+      "snippet": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:45:16.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f41cbcdc20ed399c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Trinity Rodman out of USWNT’s World Cup qualifier due to shoulder injury",
+      "snippet": "Star forward Trinity Rodman sustained a minor shoulder injury during Washington Spirit's 2-1 loss to Kansas City.",
+      "link": "https://www.aljazeera.com/sports/2026/11/25/trinity-rodman-out-of-uswnts-world-cup-qualifier-due-to-shoulder-injury?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:43:25.000Z",
+      "tier": "routine",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b47458e2e36167e0",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Bayern Munich’s Musiala checked for neurological symptoms in April 2025",
+      "snippet": "Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.",
+      "link": "https://www.aljazeera.com/sports/2026/11/25/bayern-munichs-musiala-checked-for-neurological-symptoms-in-april-2025?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:42:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_bb0f1178a7786b24",
@@ -355,6 +421,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_6897e9fc36db3021",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Here Are the Worst Times to Drive Over the Thanksgiving Holiday",
+      "snippet": "Millions of Americans are hitting the roads this week for the Thanksgiving holiday. So when is the worst time to travel and where do gas prices stand? NBC’s Erin McLaughlin reports for TODAY.",
+      "link": "https://www.today.com/video/hitting-the-road-for-thanksgiving-how-to-avoid-the-gridlock-274155077594",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:17:52.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_e9ac73674eb5b642",
@@ -2617,84 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_dca406a17140f306",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "snippet": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:06:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a8a8b7584b71967e",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Large bushfire threatens homes and properties on remote island off Tasmania",
-      "snippet": "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikes\nHomes and properties on a picturesque remote island are under threat from an out-of-control bushfire which has sent smoke hundreds of k",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:04:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3a7c30387a783375",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
-      "snippet": "Man United look to bounce back from defeat in Mauricio Pochettino's first game in charge, as they travel to Lisbon.",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:04:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f55f6b5ec4882c41",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Crime - AP News",
-      "snippet": "Crime  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nNV9HSjd2YV9uVDgwYmYzWUZES2p3SGFWeFBQNFlxVEViNHU0MndFbUp3cTR1REJCMS1DT21sVW9sUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:01:33.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_ea9ec3a9a243f3b9",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Rising prices push families to the brink in Yemen’s Hodeidah",
-      "snippet": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
-      "link": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:00:53.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_80cd7abf968d1ca5",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Soccer - AP News",
-      "snippet": "Soccer  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBfZHpFVUZWQUc5bHNGTFMxVF9QSkh2RUlzRVRMMEFSR3diQjdYWjIzMUllOHRFWGJ6SmVNZzNCaWFPUFk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:00:26.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
