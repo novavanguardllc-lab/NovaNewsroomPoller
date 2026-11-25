@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-25T14:15:08.882Z",
+  "updatedAt": "2026-11-25T14:20:09.169Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.920Z"
+      "lastSuccess": "2026-11-25T14:20:09.308Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.926Z"
+      "lastSuccess": "2026-11-25T14:20:09.317Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.934Z"
+      "lastSuccess": "2026-11-25T14:20:09.633Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.943Z"
+      "lastSuccess": "2026-11-25T14:20:09.625Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.958Z"
+      "lastSuccess": "2026-11-25T14:20:09.256Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.976Z"
+      "lastSuccess": "2026-11-25T14:20:09.472Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.979Z"
+      "lastSuccess": "2026-11-25T14:20:09.429Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.985Z"
+      "lastSuccess": "2026-11-25T14:20:09.450Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.988Z"
+      "lastSuccess": "2026-11-25T14:20:09.417Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.994Z"
+      "lastSuccess": "2026-11-25T14:20:09.508Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:08.997Z"
+      "lastSuccess": "2026-11-25T14:20:09.512Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.002Z"
+      "lastSuccess": "2026-11-25T14:20:09.329Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.004Z"
+      "lastSuccess": "2026-11-25T14:20:09.486Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T14:15:09.005Z"
+      "lastErrorAt": "2026-11-25T14:20:09.528Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.020Z"
+      "lastSuccess": "2026-11-25T14:20:09.391Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.031Z"
+      "lastSuccess": "2026-11-25T14:20:09.520Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.070Z"
+      "lastSuccess": "2026-11-25T14:20:09.570Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.086Z"
+      "lastSuccess": "2026-11-25T14:20:09.636Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.091Z"
+      "lastSuccess": "2026-11-25T14:20:09.575Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.115Z"
+      "lastSuccess": "2026-11-25T14:20:09.498Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:09.129Z"
+      "lastSuccess": "2026-11-25T14:20:09.465Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:15:11.059Z"
+      "lastSuccess": "2026-11-25T14:20:09.603Z"
     },
     "NBC News": {
-      "online": false,
-      "lastError": "Request timed out after 10000ms",
-      "lastErrorAt": "2026-11-25T14:15:18.893Z"
+      "online": true,
+      "lastSuccess": "2026-11-25T14:20:09.651Z"
     }
   },
   "items": [
+    {
+      "id": "story_ec6d9c037b4afc9c",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Trump administration rolls out new tariffs on China, EU: Reports",
+      "snippet": "The Trump administration on Wednesday proposed new tariffs on dozens of countries, including China and the European Union, according to multiple reports. The latest levies include 20 percent tariffs on Chinese imports, The New York Times re",
+      "link": "https://thehill.com/homenews/administration/6242105-trump-administration-new-tariffs-china-european-union/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26098079743745-e1795616224782.jpg?w=900",
+      "publishedAt": "2026-11-25T14:17:08.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
     {
       "id": "story_7260092d5edadbd1",
       "source": "Wash Examiner",
@@ -106,6 +118,19 @@
       "link": "https://www.washingtonexaminer.com/news/world/4814888/libyan-army-reprisal-two-officers-killed-ukraine-attack/",
       "imageUrl": null,
       "publishedAt": "2026-11-25T14:14:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_316b1b2ff5f655df",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "How American Thanksgiving took root -- and evolved -- in Liberia",
+      "snippet": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation.",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:14:34.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -137,6 +162,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_af366700169e1688",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Unclassified CIA system breached in cyberattack: Report",
+      "snippet": "A CIA system faced a cyberattack and was breached, according to a new report that comes in the wake of multiple tech failures over the past month. A source close to the matter told The Associated Press that information targeted by the breac",
+      "link": "https://thehill.com/policy/national-security/6242068-cia-cyberattack-breach-report/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/Elsewhere-Mexican-crash_041316_AP_Carolyn-Kaster.jpg?w=900",
+      "publishedAt": "2026-11-25T14:12:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f4f9a84679207be6",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -148,6 +186,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5e39a2162c428407",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Iowa lead detonation: US army to blow up bomb-making chemicals despite concerns - live updates",
+      "snippet": "The army plans to detonate of 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects\n\nSign up for the Breaking News US email\n\nThe US army has released new maps showing the",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:09:10.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
     },
     {
       "id": "story_0c3830a640cdafc9",
@@ -202,6 +253,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_a1a3da7e463cf710",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Jalen Brunson, Trevor Lawrence and more dish out Thanksgiving hot takes to OutKick: 'I hate to even say it'",
+      "snippet": "What hot takes do your favorite athletes have for Thanksgiving this year? OutKick found out during recent interviews, and their answers might cause a stir online.",
+      "link": "https://www.foxnews.com/outkick-sports/jalen-brunson-trevor-lawrence-dish-thanksgiving-hot-takes-outkick-hate-say-it",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:06:21.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_b26e691764ed2b26",
       "source": "France24",
       "sourceColor": "#3E5C8A",
@@ -223,6 +287,19 @@
       "link": "https://abcnews.com/video/138439653/",
       "imageUrl": null,
       "publishedAt": "2026-11-25T14:05:33.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_9d648dc5468e2268",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+      "snippet": "Alain Throo, insurance executive based in London, reportedly gored and later died on hike near Mount Cameroon national park\nA Swiss tourist has been killed and British and American tourists have been injured when a group of hikers encounter",
+      "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:03:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -262,6 +339,32 @@
       "link": "https://www.foxnews.com/food-drink/pizza-becomes-unexpected-go-to-thanksgiving-time-new-report-finds",
       "imageUrl": null,
       "publishedAt": "2026-11-25T14:00:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_576ece26031d029f",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI",
+      "snippet": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all\n\nGet our breaking news email, free app or daily news podcast\n\nWhen Aidan Elwig Pollock signed up for a",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:00:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2154cef2957fddac",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
+      "snippet": "Exclusive: Campaigners say new legislation in England and Wales could infringe on free speech, parenting and religious freedom\n\n‘They wanted me to conform’: people abused over sexuality and gender identity tell their stories\n\nLabour is “com",
+      "link": "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:00:28.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -462,6 +565,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_521d78006e0ae90e",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests",
+      "snippet": "More than 700,000 Russian soldiers have been killed in Ukraine, according to a new projection based on leaked official data, an estimate that sheds new light on the staggering cost of Vladimir Putin’s war.",
+      "link": "https://www.nbcnews.com/world/ukraine/russia-soldiers-killed-ukraine-war-new-estimate-suggests-700000-rcna611048",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T13:54:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a61ab511a42dd98e",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -551,6 +667,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_2711bc02467aa4cc",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners",
+      "snippet": "Trump proposes a new wave of tariffs on China, E.U. and other trade partners",
+      "link": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T13:48:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
     },
     {
       "id": "story_d0a288a54c241f8e",
@@ -1112,6 +1241,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_e246b22fd8846dd6",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Black Friday deals are here, and they’re actually really good — I’m tracking the best ones live",
+      "snippet": "Black Friday officially starts in 48 hours, but deals are already live. Our shopping experts are live tracking what’s worth it at Amazon, Apple, Walmart, Target and more.",
+      "link": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-25-2026-rcna610836",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T13:09:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bb7964ee44a67aa0",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -1372,6 +1514,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_f00e1b23a7d07ab8",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Xi's graft probe of Shanghai rising star upends traditional path to power in China - Reuters",
+      "snippet": "Xi's graft probe of Shanghai rising star upends traditional path to power in China  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFRBRjBBclN4REFaZHc4ZTlnbHJ2ZENzczBjZ1BCTVFOTkJXUlpHTTZoZHpEdVhFc0drVUNfYXUwTFhTbVA4ZC1FM0Vsdl85c2dJcGFaZGdxNDc1YUgxaTNUVlRmSTNNNk8xTHMtQWRyOEFZY3g1YlBJS1BDUUJaajZYSFpTaXVERVVrcU95TS1oMU5KTkZBVmx0V19QTldPS3ZyMHJHSmVYcWNhQnZObmJZWUpoNWRuRDBCeg?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:52:35.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_88b5dca185f0ff31",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1422,6 +1577,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_5f29991e3bb7c4cc",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "New Details Emerge on Break-In at William and Kate’s Home",
+      "snippet": "Two men have been charged with burglary and trespassing after a rare and massive security breach at Prince William and Kate Middleton’s Sandringham estate. The couple and their three children were not home at the time. NBC’s Daniele Hamamdj",
+      "link": "https://www.today.com/video/new-details-emerge-on-break-in-at-william-and-kate-s-home-274155589878",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:45:58.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_ecccfdef4e57d838",
@@ -1801,6 +1969,19 @@
       "corroboratedCount": 3
     },
     {
+      "id": "story_6897e9fc36db3021",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Here Are the Worst Times to Drive Over the Thanksgiving Holiday",
+      "snippet": "Millions of Americans are hitting the roads this week for the Thanksgiving holiday. So when is the worst time to travel and where do gas prices stand? NBC’s Erin McLaughlin reports for TODAY.",
+      "link": "https://www.today.com/video/hitting-the-road-for-thanksgiving-how-to-avoid-the-gridlock-274155077594",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:17:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_a9261864dbe50b1b",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2029,6 +2210,19 @@
       "snippet": "Employers advertised more than 514,000 cyber positions and could find qualified candidates for only about three-quarters of them.",
       "link": "https://thehill.com/opinion/cybersecurity/6239732-defense-agency-college-partnerships/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/GettyImages-2160830106.jpg?w=900",
+      "publishedAt": "2026-11-25T12:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_56ec805ccdddc6a5",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "How are you affording the holidays?",
+      "snippet": "After a year of high gas prices, inflation ticking back up and a lot of Americans feeling pessimistic about the economy, we want to know how people are affording the annual wave of holiday gifts, travel and entertainment costs.",
+      "link": "https://www.nbcnews.com/news/us-news/holidays-affording-presents-spending-rcna610963",
+      "imageUrl": null,
       "publishedAt": "2026-11-25T12:00:00.000Z",
       "tier": "routine",
       "topic": "news",
@@ -2308,6 +2502,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2e68a99f6b66684b",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
+      "snippet": "The Army plans to detonate a stockpile of unstable lead azide explosives in Iowa on Wednesday morning. The toxic dust plume is expected to travel for miles.",
+      "link": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T11:31:21.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_6b95cfc49eaa64e4",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2485,214 +2692,6 @@
       "link": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
       "imageUrl": null,
       "publishedAt": "2026-11-25T11:15:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_364391efd9b2afd1",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
-      "snippet": "North Korea has ordered Switzerland to close its newly reopened diplomatic office. The dispute centers on Swiss sanctions against a camp accused of indoctrinating Ukrainian children from Russian-occupied territories.",
-      "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:12:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1674540c898e3cbb",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "‘People are going hungry’: Guinea’s gold mining crackdown",
-      "snippet": "‘People are going hungry’: Guinea’s gold mining crackdown",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:10:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e3c518c7cc02eddf",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Yemen's Houthis claim attacks on Riyadh financial district, Saudi refinery",
-      "snippet": "Yemen's Houthis on Wednesday claimed attacks targeting the financial district in the Saudi capital and the sprawling Ras Tanura refinery in the kingdom's oil-rich east, in retaliation for strikes on their territory. Houthi military spokesma",
-      "link": "https://www.france24.com/en/video/20261125-yemen-s-houthis-claim-attacks-on-riyadh-financial-district-saudi-refinery",
-      "imageUrl": "https://s.france24.com/media/display/641f92ec-e8b7-11f1-9625-29d00e23de9a/w:1024/p:16x9/EN-20261125-100213-100348-CS.jpg",
-      "publishedAt": "2026-11-25T11:09:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a376682f78c75dd9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Fed policymakers at odds over causes of high inflation - Reuters",
-      "snippet": "Fed policymakers at odds over causes of high inflation  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:02:09.000Z",
-      "tier": "major",
-      "topic": "sports",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8cfe7c56b51275df",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
-      "snippet": "Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league.",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:02:03.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1349564e137f5eb7",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "The cost of Nigeria’s power failures for one small business",
-      "snippet": "Fashion business owner Aderayo Soile says unreliable electricity is holding back her business.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:01:54.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ef344891300181ff",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "China misusing Interpol to target dissidents, says leading UK lawyer",
-      "snippet": "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assembly\nChina is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to ho",
-      "link": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:00:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_788faf87017693ff",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-      "snippet": "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing views\nJames “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:00:46.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44e151fe0915be03",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Marco Rubio's 2028 stock surges among House Republicans as Trump insiders split on Vance",
-      "snippet": "House Republicans are pushing Secretary of State Marco Rubio to launch a 2028 presidential run, calling him the GOP's unifier after midterm losses.",
-      "link": "https://www.foxnews.com/politics/marco-rubios-2028-stock-surges-among-house-republicans-trump-insiders-split-vance",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:00:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0f4627d4879753e4",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Trump's NVIDIA power play opens Pandora's box Democrats could weaponize, analyst warns",
-      "snippet": "Eric Schiffer says Trump's push to reinstate NVIDIA CEO Jensen Huang opens a Pandora's box Democrats may exploit, but national security won.",
-      "link": "https://www.foxnews.com/politics/trumps-nvidia-power-play-opens-pandoras-box-democrats-could-weaponize-analyst-warns",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:00:17.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f99c52c33fdf4511",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing",
-      "snippet": "The post Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/oregon-housing-council-andrea-bell-joshua-crites",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/11/updated-final-michelle-urra_maxHeight_3000_maxWidth_3000.jpg?w=1149",
-      "publishedAt": "2026-11-25T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8de6e921e86c9b78",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Sale of Stefanik family’s D.C. home deemed ‘unusual,’ city records show",
-      "snippet": "A rowhome owned by the outgoing congresswoman’s family was taken off the market after failing to sell for $1.99 million — and then sold in a private transaction for $910,000 more than that.",
-      "link": "https://www.washingtonpost.com/dc-md-va/2026/11/25/sale-stefanik-familys-dc-home-deemed-unusual-city-records-show/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6e318103f04cef64",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-      "snippet": "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow.",
-      "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7ea95576718f6e20",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump puts contractors in the crossfire of coming Democratic probes",
-      "snippet": "The White House is ratcheting up its fight against investigations from Democrats coming into power in January, trying to head off their contact with government contractors who otherwise might cooperate with their probes. In an executive ord",
-      "link": "https://thehill.com/homenews/administration/6241294-trump-executive-order-contractors/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/InvestigationsFight_Beitsch_AP_MarkSchiefelbein.jpg?w=900",
-      "publishedAt": "2026-11-25T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_283dae683851f477",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump’s acting Army secretary quietly eyes permanent role",
-      "snippet": "Acting Army Secretary Adam Telle has kept a low profile since he was picked by President Trump in September as an interim successor to Dan Driscoll, who resigned after months of tensions with Defense Secretary Pete Hegseth. And Telle’s offi",
-      "link": "https://thehill.com/homenews/6241528-adam-telle-army-secretary-nomination/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/GettyImages-2214424791-e1795608411733.jpg?w=900",
-      "publishedAt": "2026-11-25T11:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8a57449923a8dc2f",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump, Newsom find political advantage in their escalating feud",
-      "snippet": "President Trump’s public rebuke of California Gov. Gavin Newsom’s (D) move to commute the sentences of California’s death row inmates is platforming the Golden State governor as a GOP foe while he mulls a presidential bid.  Trump vowed to w",
-      "link": "https://thehill.com/homenews/campaign/6241369-trump-newsom-death-row-clash/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Newsom_Parnes_AP_HeatherDiehl.jpg?w=900",
-      "publishedAt": "2026-11-25T11:00:00.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
