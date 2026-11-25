@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-25T14:35:06.432Z",
+  "updatedAt": "2026-11-25T14:40:08.848Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.512Z"
+      "lastSuccess": "2026-11-25T14:40:09.020Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.473Z"
+      "lastSuccess": "2026-11-25T14:40:08.968Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.784Z"
+      "lastSuccess": "2026-11-25T14:40:09.460Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.850Z"
+      "lastSuccess": "2026-11-25T14:40:09.411Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.571Z"
+      "lastSuccess": "2026-11-25T14:40:08.927Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.735Z"
+      "lastSuccess": "2026-11-25T14:40:09.152Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.669Z"
+      "lastSuccess": "2026-11-25T14:40:09.210Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.745Z"
+      "lastSuccess": "2026-11-25T14:40:09.205Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.623Z"
+      "lastSuccess": "2026-11-25T14:40:09.182Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.663Z"
+      "lastSuccess": "2026-11-25T14:40:09.130Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.607Z"
+      "lastSuccess": "2026-11-25T14:40:09.163Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.629Z"
+      "lastSuccess": "2026-11-25T14:40:08.994Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.768Z"
+      "lastSuccess": "2026-11-25T14:40:09.232Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T14:35:06.754Z"
+      "lastErrorAt": "2026-11-25T14:40:09.233Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.714Z"
+      "lastSuccess": "2026-11-25T14:40:09.079Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.854Z"
+      "lastSuccess": "2026-11-25T14:40:09.243Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.907Z"
+      "lastSuccess": "2026-11-25T14:40:09.324Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.759Z"
+      "lastSuccess": "2026-11-25T14:40:09.188Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.773Z"
+      "lastSuccess": "2026-11-25T14:40:09.256Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.732Z"
+      "lastSuccess": "2026-11-25T14:40:09.114Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.718Z"
+      "lastSuccess": "2026-11-25T14:40:09.082Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:08.583Z"
+      "lastSuccess": "2026-11-25T14:40:11.065Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T14:35:06.791Z"
+      "lastSuccess": "2026-11-25T14:40:09.333Z"
     }
   },
   "items": [
+    {
+      "id": "story_a4a5092eb85d445e",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "6 killed in plane crash off Mississippi coast, officials say",
+      "snippet": "An investigation is underway after a plane crash off the coast of Mississippi killed six people, according to authorities. Jason Allen reports.",
+      "link": "https://www.cbsnews.com/video/6-killed-in-plane-crash-off-mississippi-coast-officials-say/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:34:58.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_344bfaff0aa74402",
       "source": "Wash Examiner",
@@ -108,6 +121,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_1af9217c40ab2dbf",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Travelers battle high gas prices and bad weather ahead of Thanksgiving",
+      "snippet": "Kris Van Cleave has the latest on Thanksgiving travel, including what to know about flight delays, train tickets, traffic and more.",
+      "link": "https://www.cbsnews.com/video/travelers-battle-high-gas-prices-and-bad-weather-ahead-of-thanksgiving/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:31:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_80830de6404b7134",
@@ -131,6 +157,32 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4814866/doj-apologize-judge-ilhan-omar-false-statement/",
       "imageUrl": null,
       "publishedAt": "2026-11-25T14:29:45.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7632bbe82551cfb4",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "The absolute worst call of the college football season happened last night while you were sleeping",
+      "snippet": "Kent State was robbed of a walk-off touchdown in Ypsilanti, Michigan, after refs spent five minutes of instant replay overturning the call.",
+      "link": "https://www.foxnews.com/outkick-sports/absolute-worst-call-college-football-season-happened-last-night-while-you-were-sleeping",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:26:37.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a55acbf54d803c3c",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Musk, Clayton advised Trump before he urged Nvidia to bring Jensen Huang back",
+      "snippet": "Chipmaker Nvidia reinstated Jensen Huang as CEO after stocks dipped and President Trump publicly supported Huang's comeback. CBS News' Olivia Rinaldi reports, and Ann Berry has more on the business impact.",
+      "link": "https://www.cbsnews.com/video/musk-clayton-advised-trump-before-he-urged-nvidia-to-bring-jensen-huang-back/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:26:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1930,6 +1982,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_1cbfcd9aedc74f55",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "How Iowa Residents Are Preparing for Planned Detonation",
+      "snippet": "Nervous residents near an Army ammunition plant in Iowa are preparing for a controlled detonation of nearly 10,000 pounds of potentially toxic chemicals, just one day before Thanksgiving. The state’s National Guard is now on the ground to h",
+      "link": "https://www.today.com/video/how-iowa-residents-are-preparing-for-planned-detonation-274155077704",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:27:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_d156b37e1ab0b9f9",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -2628,71 +2693,6 @@
       "imageUrl": "https://img.semafor.com/e3cc7f0d29e35331661b4eeaaf0818b4cddef801-2048x1366.jpg",
       "publishedAt": "2026-11-25T11:32:21.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1fe7757eb86d7956",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Migrant arrivals in Spain's Canary Islands break single-day record - Reuters",
-      "snippet": "Migrant arrivals in Spain's Canary Islands break single-day record  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSzRDQUNzZ05jRTh0OEM3cm9ubjVRZWE3Nm90dVl0XzVjT242V2xoTXdXRG1Ddzhac1pwVFhBd0tHSGxQTUJ0amlGZXYtbkE0MEFmTGE3OWx3TkhoSGVUYnRvWTJtdmw3aEt4a2dfODVUVkdmY1Q1OVIxTWpBVVY0TjdUVzEwTmNLVzh0WHVMbC0ycHhpM2MtNy1tcm9YM1RKMi1UWWdZVQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:31:47.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_2e68a99f6b66684b",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
-      "snippet": "The Army plans to detonate a stockpile of unstable lead azide explosives in Iowa on Wednesday morning. The toxic dust plume is expected to travel for miles.",
-      "link": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:31:21.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_6b95cfc49eaa64e4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Steelers are benching Aaron Rodgers and Mason Rudolph will start at QB against Broncos - AP News",
-      "snippet": "Steelers are benching Aaron Rodgers and Mason Rudolph will start at QB against Broncos  AP News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzVseGlXdFQyMk5IQTExaWFlRVQwZjhXRUpVQmVrMU96Z0l3MWh4ZlFhTjlLcmZ6VVZJWUMyczJ5THRSZ3dfR2FHQUJhRlZsU01mNjRWUW9rTkhheVJSWkRWWFJNUGhNd1d1N3pEOWtrNjV5dk9FYWUyY0hDaG16Vg?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:31:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6662d8c355ee3f07",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-      "snippet": "Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane.",
-      "link": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:29:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_504411b4585f36f0",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Climate change - AP News",
-      "snippet": "Climate change  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PcnJYZVhLUXZTYVBjZGN6MTJMaWRCSXFaZXFXZEVMckp0VEMySmF5ajJENTNPaXBxRHpxXzV5Vlh1aVc1a21GYkVNdU41QQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T11:28:45.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
