@@ -1,102 +1,114 @@
 {
-  "updatedAt": "2026-11-25T18:00:15.416Z",
+  "updatedAt": "2026-11-25T18:05:07.160Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.469Z"
+      "lastSuccess": "2026-11-25T18:05:07.272Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.525Z"
+      "lastSuccess": "2026-11-25T18:05:07.230Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.895Z"
+      "lastSuccess": "2026-11-25T18:05:07.224Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.972Z"
+      "lastSuccess": "2026-11-25T18:05:07.201Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.548Z"
+      "lastSuccess": "2026-11-25T18:05:07.295Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.560Z"
+      "lastSuccess": "2026-11-25T18:05:07.352Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.584Z"
+      "lastSuccess": "2026-11-25T18:05:07.373Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.588Z"
+      "lastSuccess": "2026-11-25T18:05:07.402Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.486Z"
+      "lastSuccess": "2026-11-25T18:05:07.234Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.532Z"
+      "lastSuccess": "2026-11-25T18:05:07.313Z"
     },
     "France24": {
-      "online": false,
-      "lastError": "Status code 403",
-      "lastErrorAt": "2026-11-25T18:00:15.579Z"
+      "online": true,
+      "lastSuccess": "2026-11-25T18:05:07.383Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.490Z"
+      "lastSuccess": "2026-11-25T18:05:07.238Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.581Z"
+      "lastSuccess": "2026-11-25T18:05:07.371Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T18:00:15.626Z"
+      "lastErrorAt": "2026-11-25T18:05:07.357Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.577Z"
+      "lastSuccess": "2026-11-25T18:05:07.341Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.668Z"
+      "lastSuccess": "2026-11-25T18:05:07.389Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.734Z"
+      "lastSuccess": "2026-11-25T18:05:07.511Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.664Z"
+      "lastSuccess": "2026-11-25T18:05:07.380Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.643Z"
+      "lastSuccess": "2026-11-25T18:05:07.425Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.625Z"
+      "lastSuccess": "2026-11-25T18:05:07.368Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.553Z"
+      "lastSuccess": "2026-11-25T18:05:07.212Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.690Z"
+      "lastSuccess": "2026-11-25T18:05:09.188Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T18:00:15.752Z"
+      "lastSuccess": "2026-11-25T18:05:07.463Z"
     }
   },
   "items": [
+    {
+      "id": "story_69404e610b401226",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Spain: Canary Islands witness 1-day migration record",
+      "snippet": "The arrival of over 2,000 migrants to the islands comes as Spain holds elections this weekend. The president of the Canary Islands said the archipelago is facing \"unprecedented migration pressure.\"",
+      "link": "https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T18:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_3b6333d3d852de6f",
       "source": "The Hill",
@@ -174,6 +186,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_7cd4ff25e7d06fbc",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Ecuador and US review joint military operations, official says",
+      "snippet": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+      "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T17:50:41.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_cc01dbc60c96b3c8",
@@ -2667,32 +2692,6 @@
       "link": "https://www.cbsnews.com/video/breaking-down-the-health-impacts-of-lead-exposure-amid-iowa-detonation/",
       "imageUrl": null,
       "publishedAt": "2026-11-25T14:53:29.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f2a5159acedae92c",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Houthi rebels close in on Aden, Yemeni forces dig in behind fortified line",
-      "snippet": "Iran-backed Houthi rebels have advanced to within about 60 kilometers of the seat of Yemen’s internationally recognized government in the southern city of Aden, but the forces fighting them have set up a fortified line to defend the city, a",
-      "link": "https://www.france24.com/en/video/20261125-houthi-rebels-close-in-on-aden-yemeni-forces-dig-in-behind-fortified-line",
-      "imageUrl": "https://s.france24.com/media/display/9be44c56-e8dd-11f1-ad87-c131ae9bfe9c/w:1024/p:16x9/EN-20261125-150337-150530-CS.jpg",
-      "publishedAt": "2026-11-25T14:52:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_107bc68f64f0d77f",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Moldova issues emergency kit guide, prepares citizens for possible expansion of Ukraine war",
-      "snippet": "As the war in Ukraine has highlighted the importance of civilian preparedness, Moldova has launched its own emergency readiness programme. Medicine, batteries and three days' worth of food are among the essentials citizens are encouraged to",
-      "link": "https://www.france24.com/en/video/20261125-moldova-issues-emergency-kit-guide-prepares-citizens-for-possible-expansion-of-ukraine-war",
-      "imageUrl": "https://s.france24.com/media/display/ca34f4b6-e8dd-11f1-b099-81da3ab2acbb/w:1024/p:16x9/EN-20261125-150631-150816-CS.jpg",
-      "publishedAt": "2026-11-25T14:50:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
