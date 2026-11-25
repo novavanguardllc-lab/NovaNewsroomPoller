@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-25T22:50:09.748Z",
+  "updatedAt": "2026-11-25T22:55:06.311Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.167Z"
+      "lastSuccess": "2026-11-25T22:55:06.362Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:09.978Z"
+      "lastSuccess": "2026-11-25T22:55:06.376Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.239Z"
+      "lastSuccess": "2026-11-25T22:55:06.427Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.326Z"
+      "lastSuccess": "2026-11-25T22:55:06.493Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.397Z"
+      "lastSuccess": "2026-11-25T22:55:06.404Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:09.949Z"
+      "lastSuccess": "2026-11-25T22:55:06.431Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.106Z"
+      "lastSuccess": "2026-11-25T22:55:06.443Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.124Z"
+      "lastSuccess": "2026-11-25T22:55:06.527Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.306Z"
+      "lastSuccess": "2026-11-25T22:55:06.503Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.259Z"
+      "lastSuccess": "2026-11-25T22:55:06.385Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.378Z"
+      "lastSuccess": "2026-11-25T22:55:06.468Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.320Z"
+      "lastSuccess": "2026-11-25T22:55:06.483Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.526Z"
+      "lastSuccess": "2026-11-25T22:55:06.524Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T22:50:10.566Z"
+      "lastErrorAt": "2026-11-25T22:55:06.514Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.544Z"
+      "lastSuccess": "2026-11-25T22:55:06.541Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.460Z"
+      "lastSuccess": "2026-11-25T22:55:06.488Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.605Z"
+      "lastSuccess": "2026-11-25T22:55:06.547Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.465Z"
+      "lastSuccess": "2026-11-25T22:55:06.491Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.444Z"
+      "lastSuccess": "2026-11-25T22:55:06.512Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.020Z"
+      "lastSuccess": "2026-11-25T22:55:06.782Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.507Z"
+      "lastSuccess": "2026-11-25T22:55:06.824Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.896Z"
+      "lastSuccess": "2026-11-25T22:55:06.601Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T22:50:10.647Z"
+      "lastSuccess": "2026-11-25T22:55:06.928Z"
     }
   },
   "items": [
+    {
+      "id": "story_e8102e8ae2dd849e",
+      "source": "DW",
+      "sourceColor": "#B08A3E",
+      "headline": "Duran Duran guitarist Andy Taylor dies at 65",
+      "snippet": "The band had numerous hits in the 1980s including \"Girls on Film\" and \"Hungry Like The Wolf.\"",
+      "link": "https://www.dw.com/en/duran-duran-guitarist-andy-taylor-dies-at-65/a-80055654?maca=en-rss-en-all-1573-rdf",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T22:53:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 4
+    },
+    {
+      "id": "story_d6171d873aaed684",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots to Georgia election board",
+      "snippet": "The judge previously ruled the county had to turn over unredacted digital copies of election materials to the State Election Board, which is run by Trump allies.",
+      "link": "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T22:49:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_a2035610287f0cf0",
       "source": "France24",
@@ -108,6 +134,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_5d39a6b3e37df186",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
+      "snippet": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests\nBrad Pitt and Angelina Jolie have settled a years-long legal battle over their French win",
+      "link": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T22:44:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_9756dbf2f8d728b0",
@@ -704,6 +743,19 @@
       "imageUrl": "https://s.france24.com/media/display/b9494a8c-e917-11f1-a550-1991d4929b54/w:1024/p:16x9/DN00001671-VOD-00013447-01.jpg",
       "publishedAt": "2026-11-25T21:41:01.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_756758b231f271c7",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Vance says Jensen Huang won't need a pardon as scrutiny of Nvidia scandal builds in Washington - AP News",
+      "snippet": "Vance says Jensen Huang won't need a pardon as scrutiny of Nvidia scandal builds in Washington  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXpxVzdFTDlLUzR0Q1I5dzFrMDFIS0VJSUlBMk9qYllCSWNENGFiX2p6N3RzOC1aTjFNT21WdVBnNXFxRUhpMlVYMlZ4alZocS1mVXRHV2lOMTlZMzlHc1BwQ0FxcDAxZnpNdVpHb1pzQlF5MUYwT3VRT0lwb2oxZGpxMkJSS2NVVFgteTlaOFUzcWQ0OENlUFFTWXg3YjJtNVE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T21:40:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2640,58 +2692,6 @@
       "link": "https://www.foxnews.com/outkick-sports/lsu-wins-court-round-sec-nuclear-option-could-carry-1-billion-price-tag-rj-luis-sues-sankey",
       "imageUrl": null,
       "publishedAt": "2026-11-25T19:32:08.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0f5631116687db52",
-      "source": "ProPublica",
-      "sourceColor": "#7A6A4A",
-      "headline": "FDA to Expand Prescription Drug Testing After ProPublica Revealed Safety Concerns",
-      "snippet": "The post FDA to Expand Prescription Drug Testing After ProPublica Revealed Safety Concerns appeared first on ProPublica.",
-      "link": "https://www.propublica.org/article/fda-prescription-generic-medication-testing",
-      "imageUrl": "https://www.propublica.org/wp-content/uploads/2026/11/20261125-Thilesen-FDA-Testing_DSC5742.jpg?w=1149",
-      "publishedAt": "2026-11-25T19:30:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1ff910b378c56d98",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "OutKick's Do's and Do Not Do's to keep the Thanksgiving table conversations chugging along",
-      "snippet": "Thanksgiving dinner conversation tips include wearing a pith helmet and debating \"Grand Theft Auto VI,\" out for a week by the time the feast arrives.",
-      "link": "https://www.foxnews.com/outkick-sports/outkicks-dos-do-nots-keep-thanksgiving-table-conversations-chugging-along",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T19:29:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_534b3555624ea58e",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "In boost for Netanyahu, judges question corruption trial charges",
-      "snippet": "Judges in the long-running corruption trial of Israeli caretaker Prime Minister Benjamin Netanyahu handed his defence a major boost on Wednesday in recommending the prosecution drop one of the cases in which he is accused of bribery. The re",
-      "link": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
-      "imageUrl": "https://s.france24.com/media/display/bc479688-e905-11f1-9b30-29d00e23de9a/w:1024/p:16x9/EN-20261125-201038-201315-CS.jpg",
-      "publishedAt": "2026-11-25T19:28:13.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_51d63bda36c2cc6f",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Bellingham’s wondergoal sparks Zidane comparisons",
-      "snippet": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T19:27:56.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
