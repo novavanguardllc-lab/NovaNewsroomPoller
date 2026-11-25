@@ -1,101 +1,127 @@
 {
-  "updatedAt": "2026-11-25T20:55:06.591Z",
+  "updatedAt": "2026-11-25T21:00:14.030Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.723Z"
+      "lastSuccess": "2026-11-25T21:00:14.111Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.744Z"
+      "lastSuccess": "2026-11-25T21:00:14.167Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.844Z"
+      "lastSuccess": "2026-11-25T21:00:14.162Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.784Z"
+      "lastSuccess": "2026-11-25T21:00:14.478Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.771Z"
+      "lastSuccess": "2026-11-25T21:00:14.150Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.737Z"
+      "lastSuccess": "2026-11-25T21:00:14.193Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.883Z"
+      "lastSuccess": "2026-11-25T21:00:14.202Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.942Z"
+      "lastSuccess": "2026-11-25T21:00:14.223Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.826Z"
+      "lastSuccess": "2026-11-25T21:00:14.424Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.821Z"
+      "lastSuccess": "2026-11-25T21:00:14.183Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.789Z"
+      "lastSuccess": "2026-11-25T21:00:14.208Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.800Z"
+      "lastSuccess": "2026-11-25T21:00:14.170Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.947Z"
+      "lastSuccess": "2026-11-25T21:00:14.219Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T20:55:06.957Z"
+      "lastErrorAt": "2026-11-25T21:00:14.210Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.925Z"
+      "lastSuccess": "2026-11-25T21:00:14.243Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.952Z"
+      "lastSuccess": "2026-11-25T21:00:14.214Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:07.157Z"
+      "lastSuccess": "2026-11-25T21:00:14.391Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.929Z"
+      "lastSuccess": "2026-11-25T21:00:14.285Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.962Z"
+      "lastSuccess": "2026-11-25T21:00:14.229Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.869Z"
+      "lastSuccess": "2026-11-25T21:00:14.253Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.791Z"
+      "lastSuccess": "2026-11-25T21:00:14.115Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:08.800Z"
+      "lastSuccess": "2026-11-25T21:00:14.464Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T20:55:06.990Z"
+      "lastSuccess": "2026-11-25T21:00:14.283Z"
     }
   },
   "items": [
+    {
+      "id": "story_a1d0cb05b1cd08d9",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Macy's Thanksgiving Day Parade postponed due to storm",
+      "snippet": "The 100th annual Macy's Thanksgiving Day Parade is being postponed until Saturday.",
+      "link": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T20:59:14.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_eee1bc3916ce5b30",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "See how the Army detonated tons of lead explosives in Iowa",
+      "snippet": "A look at the ammunition storage bunkers and what the Army did to limit lead fallout.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T20:53:09.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_8c6b08124e34d01d",
       "source": "Wash Examiner",
@@ -105,6 +131,19 @@
       "link": "https://www.washingtonexaminer.com/policy/immigration/4815430/judge-details-abrego-garcia-spain-getaway-attorneys-tease-us-return/",
       "imageUrl": null,
       "publishedAt": "2026-11-25T20:51:54.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_a760985742d5ed7c",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Maddow says Democrats can abolish Electoral College if they 'swing for the fences'",
+      "snippet": "Rachel Maddow says abolishing the Electoral College is \"doable\" if Democrats swing for the fences after they won huge majorities in the 2026 midterms.",
+      "link": "https://www.foxnews.com/media/maddow-says-democrats-can-abolish-electoral-college-swing-fences",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T20:48:20.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -394,6 +433,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_410865767d43294c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+      "snippet": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years.",
+      "link": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T20:19:48.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_12f083eb0b25fe6b",
@@ -691,6 +743,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-25T19:47:39.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_2c23697a949c8e9f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board - AP News",
+      "snippet": "Judge halts order for Georgia's Fulton County to give 2020 election records to state election board  AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFlXbDBBSUtQQ1A0bThPTUJvMEQwQXJScFN3UXRjU1JvUF9mZHF1TEZMVm1PaVZnZm00SFJpS0RueFo5UjdQOE1reVRwTXB5end1RXBaUmx6UkhNYlJYYU9iWGk5aHlpamMxYU1KT1IzbzFpQmltYUZlQzBGME9rSFVHM05Sa090bWg4YTBjOEUwTGZudnN3OGZ2VWc5SXdEZnRVTFR3SEdhRnBMWjhlLTRn?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T19:46:44.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1447,6 +1512,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_e7655255843d1a80",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says - Reuters",
+      "snippet": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQek1Ma05abHVBcXY5WHhUQWpvTUJKZl82T0xDWjVqc2dqdDRvdnMtNFFRLUhHdFgtU3d4eEFnd3UycFdxMTF5d3N2U010UGRuR3NPU2VHQzYzeGd1dndCSlVPWjJkeUZGZUpzcXQyM3h4aXZHRGl4eS1kV3NUVjhfYVYyZExXVnVMQmoxWGV4TUYzRFNCZHQ1YnNWMFJ3QzZweUY0SXFDeko3YnFILURaUmVvNGVqd1RkMFlfZEhB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T18:45:53.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_61d3f0f1f684b366",
@@ -2617,84 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_5b4886940e3cf54b",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Paris takes on masculinist movements",
-      "snippet": "As masculinist movements face their first major trial in Paris, the city has announced several initiatives to combat this ideology. The campaign aims to call attention to the real-world danger posed by misogynist groups online. FRANCE 24's ",
-      "link": "https://www.france24.com/en/video/20261125-paris-takes-on-masculinist-movements",
-      "imageUrl": "https://s.france24.com/media/display/fe093792-e8ed-11f1-9dae-c131ae9bfe9c/w:1024/p:16x9/title-6.jpeg",
-      "publishedAt": "2026-11-25T16:52:22.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_51766fc60976f34b",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Democratic senator demands ‘action plan’ to regain measles elimination status ",
-      "snippet": "Sen. Lisa Blunt Rochester (D-Del.) is demanding the Department of Health and Human Services (HHS) produce an “action plan” to regain measles elimination status in the U.S. after the country lost this longstanding distinction last week.  On ",
-      "link": "https://thehill.com/homenews/senate/6242808-senator-demands-measles-elimination-plan/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/05/bluntrochesterlisa_052026gn01_w.jpg?w=900",
-      "publishedAt": "2026-11-25T16:52:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ba740d77299a786d",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Christians increasingly targeted across Europe as watchdog warns of rising hostility",
-      "snippet": "Anti-Christian hate crimes in Europe rose 44% last year, says the Vienna Observatory, which documented 2,465 incidents in 2025 across the continent.",
-      "link": "https://www.foxnews.com/world/christians-increasingly-targeted-across-europe-watchdog-warns-rising-hostility",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T16:51:21.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b445f98a5b3450d3",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Israeli high court signals that charges against Netanyahu will fail, suggests prosecutors make deals",
-      "snippet": "Israel’s highest court is warning prosecutors that their yearslong campaign to convict Prime Minister Benjamin Netanyahu on bribery charges might be a wasted venture. Justices summoned Attorney General Gali Baharav-Miara to the court on Wed",
-      "link": "https://www.washingtonexaminer.com/news/world/4815056/israel-high-court-charges-netanyahu-fail/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T16:48:18.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d84e49df3ef30525",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Father of teen killed at campsite says it was \"a deliberate act\"",
-      "snippet": "Carey Washington \"Wash\" Vinson, 19, was shot and killed while on an annual camping trip with friends in the Florida Panhandle.",
-      "link": "https://www.cbsnews.com/news/carey-vinson-florida-campsite-fatal-shooting/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T16:45:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_079d3c072cfe5977",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Colombian forces rescue all hostages after supermarket siege",
-      "snippet": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T16:44:22.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
