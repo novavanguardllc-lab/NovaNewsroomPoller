@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-25T17:40:08.810Z",
+  "updatedAt": "2026-11-25T17:45:08.263Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.946Z"
+      "lastSuccess": "2026-11-25T17:45:08.479Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.911Z"
+      "lastSuccess": "2026-11-25T17:45:08.359Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.279Z"
+      "lastSuccess": "2026-11-25T17:45:08.319Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.366Z"
+      "lastSuccess": "2026-11-25T17:45:08.307Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.929Z"
+      "lastSuccess": "2026-11-25T17:45:08.433Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.898Z"
+      "lastSuccess": "2026-11-25T17:45:08.500Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.889Z"
+      "lastSuccess": "2026-11-25T17:45:08.377Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.903Z"
+      "lastSuccess": "2026-11-25T17:45:08.453Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.909Z"
+      "lastSuccess": "2026-11-25T17:45:08.464Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.973Z"
+      "lastSuccess": "2026-11-25T17:45:08.347Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.979Z"
+      "lastSuccess": "2026-11-25T17:45:08.458Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.880Z"
+      "lastSuccess": "2026-11-25T17:45:08.330Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.024Z"
+      "lastSuccess": "2026-11-25T17:45:08.484Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T17:40:09.037Z"
+      "lastErrorAt": "2026-11-25T17:45:08.505Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.966Z"
+      "lastSuccess": "2026-11-25T17:45:08.422Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.731Z"
+      "lastSuccess": "2026-11-25T17:45:08.490Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.082Z"
+      "lastSuccess": "2026-11-25T17:45:08.632Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.977Z"
+      "lastSuccess": "2026-11-25T17:45:08.482Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.090Z"
+      "lastSuccess": "2026-11-25T17:45:08.498Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.990Z"
+      "lastSuccess": "2026-11-25T17:45:08.448Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:08.875Z"
+      "lastSuccess": "2026-11-25T17:45:08.383Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:10.592Z"
+      "lastSuccess": "2026-11-25T17:45:10.134Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T17:40:09.143Z"
+      "lastSuccess": "2026-11-25T17:45:08.548Z"
     }
   },
   "items": [
+    {
+      "id": "story_346cd91493f48c22",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Mississippi plane crash victims were members of a Florida family returning from a fishing trip",
+      "snippet": "A deadly plane crash off the coast of Mississippi claimed the lives of six members of a southwest Florida family who were flying home from Louisiana after a fishing trip, officials confirmed Thursday.",
+      "link": "https://www.nbcnews.com/news/us-news/mississippi-plane-crash-victims-members-prominent-florida-family-rcna611318",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T17:36:43.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c4e2c8a10943661d",
       "source": "Semafor",
@@ -2682,19 +2695,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_344bfaff0aa74402",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "WATCH LIVE: Army set to detonate explosives at Iowa weapons facility holding lead",
-      "snippet": "The Army is preparing to detonate explosives at a weapons storage facility in Iowa on Wednesday at 10 a.m. Eastern as part of an operation to dispose of the materials. The planned explosion comes after days of debate over how to safely addr",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4814919/watch-live-army-detonation-iowa-lead/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T14:32:11.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
     }
   ]
 }
