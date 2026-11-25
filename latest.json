@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-25T13:50:09.057Z",
+  "updatedAt": "2026-11-25T13:55:06.787Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.173Z"
+      "lastSuccess": "2026-11-25T13:55:06.860Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.154Z"
+      "lastSuccess": "2026-11-25T13:55:06.839Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.204Z"
+      "lastSuccess": "2026-11-25T13:55:06.901Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.130Z"
+      "lastSuccess": "2026-11-25T13:55:06.835Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.179Z"
+      "lastSuccess": "2026-11-25T13:55:06.977Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.488Z"
+      "lastSuccess": "2026-11-25T13:55:07.002Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.211Z"
+      "lastSuccess": "2026-11-25T13:55:06.882Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.235Z"
+      "lastSuccess": "2026-11-25T13:55:06.926Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.216Z"
+      "lastSuccess": "2026-11-25T13:55:06.866Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.187Z"
+      "lastSuccess": "2026-11-25T13:55:07.005Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.185Z"
+      "lastSuccess": "2026-11-25T13:55:06.886Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.241Z"
+      "lastSuccess": "2026-11-25T13:55:06.889Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.190Z"
+      "lastSuccess": "2026-11-25T13:55:06.953Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.266Z"
+      "lastSuccess": "2026-11-25T13:55:07.008Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.347Z"
+      "lastSuccess": "2026-11-25T13:55:07.012Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.250Z"
+      "lastSuccess": "2026-11-25T13:55:06.984Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.248Z"
+      "lastSuccess": "2026-11-25T13:55:06.992Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.352Z"
+      "lastSuccess": "2026-11-25T13:55:07.036Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T13:50:09.269Z"
+      "lastErrorAt": "2026-11-25T13:55:07.015Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.506Z"
+      "lastSuccess": "2026-11-25T13:55:06.876Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.337Z"
+      "lastSuccess": "2026-11-25T13:55:07.074Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.521Z"
+      "lastSuccess": "2026-11-25T13:55:07.292Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T13:50:09.364Z"
+      "lastSuccess": "2026-11-25T13:55:09.106Z"
     }
   },
   "items": [
+    {
+      "id": "story_de478ea7a63aa850",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "What to know before using AI agents for Black Friday shopping",
+      "snippet": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T13:51:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_d0a288a54c241f8e",
       "source": "Semafor",
@@ -108,6 +121,19 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 3
+    },
+    {
+      "id": "story_f5b86b00322a6a67",
+      "source": "The Hill",
+      "sourceColor": "#5E7A3E",
+      "headline": "Live updates: Army lead detonation in Iowa set for Wednesday morning",
+      "snippet": "The Army is poised to detonate a degraded stockpile of lead-based munitions in Iowa Wednesday morning, proceeding with the controlled explosion despite the public health fears that initially pushed back the plans. The detonation is schedule",
+      "link": "https://thehill.com/homenews/administration/6241678-live-updates-trump-army-lead-azide-thanksgiving-2026/",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26329016278874-e1795612877975.jpg?w=900",
+      "publishedAt": "2026-11-25T13:45:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_3fcd1b2021876414",
@@ -1133,6 +1159,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-25T12:15:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7887f0428ba52e34",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "State Department reports downplay the dangers in countries that asylum seekers are fleeing - AP News",
+      "snippet": "State Department reports downplay the dangers in countries that asylum seekers are fleeing  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHlxUU0yY0tHdVRGdzZCSW43SGl6UjhlZ2t3VmRrNlVNZ2NDU0VrMTVZSHQ2aEpzcmtabEdDMXJiM3ZGUWJ0djlhYy1Mbzh6eW9lU2RzMXRIQUt1TEl4UXdmbjRpNGVJdWRySk9HTDN0MzV6bE9VTnVCSlVrTVNpVFpXYWNvMDJhSTRrU0hab2x5R3JTdVgzbWh0NkRaVldZRi1qMHctOExMczFTZVFmU3I2bU1Ecml1bEFZ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T12:15:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2656,45 +2695,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_5e34a7a9f855842a",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Losses Mount for Yemeni Government as Houthi Militia Advances",
-      "snippet": "The Iran-backed Houthis in Yemen are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition.",
-      "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T10:04:06.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_16f3378490334f0e",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
-      "snippet": "Long delays have risen to levels not seen in more than 15 years, with no enforcement in sight.",
-      "link": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T10:03:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_4cdbd8c1838ed8d8",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "With Oil Prices Spiking, New Englanders Brace for a Pricey Winter",
-      "snippet": "Demand for fuel assistance programs has risen across the region, as residents dial down thermostats and put on another sweater.",
-      "link": "https://www.nytimes.com/2026/11/25/realestate/new-england-oil-heating-homeowners.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T10:02:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
