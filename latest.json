@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-25T16:35:08.746Z",
+  "updatedAt": "2026-11-25T16:40:09.716Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.857Z"
+      "lastSuccess": "2026-11-25T16:40:10.274Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.935Z"
+      "lastSuccess": "2026-11-25T16:40:09.993Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.954Z"
+      "lastSuccess": "2026-11-25T16:40:09.949Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.977Z"
+      "lastSuccess": "2026-11-25T16:40:10.386Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.819Z"
+      "lastSuccess": "2026-11-25T16:40:10.173Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.072Z"
+      "lastSuccess": "2026-11-25T16:40:09.882Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:10.109Z"
+      "lastSuccess": "2026-11-25T16:40:09.975Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.121Z"
+      "lastSuccess": "2026-11-25T16:40:10.294Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.981Z"
+      "lastSuccess": "2026-11-25T16:40:10.048Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.017Z"
+      "lastSuccess": "2026-11-25T16:40:10.033Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.958Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-25T16:40:09.889Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:08.872Z"
+      "lastSuccess": "2026-11-25T16:40:09.909Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.089Z"
+      "lastSuccess": "2026-11-25T16:40:10.309Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T16:35:09.092Z"
+      "lastErrorAt": "2026-11-25T16:40:10.359Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.058Z"
+      "lastSuccess": "2026-11-25T16:40:10.212Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.081Z"
+      "lastSuccess": "2026-11-25T16:40:10.340Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.353Z"
+      "lastSuccess": "2026-11-25T16:40:10.523Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.086Z"
+      "lastSuccess": "2026-11-25T16:40:10.315Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.103Z"
+      "lastSuccess": "2026-11-25T16:40:10.329Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.142Z"
+      "lastSuccess": "2026-11-25T16:40:10.119Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.032Z"
+      "lastSuccess": "2026-11-25T16:40:09.954Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.166Z"
+      "lastSuccess": "2026-11-25T16:40:10.466Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T16:35:09.171Z"
+      "lastSuccess": "2026-11-25T16:40:10.413Z"
     }
   },
   "items": [
@@ -149,6 +150,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a95240fae8327381",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Claim the Best Sportsbook Promos on Thanksgiving Eve and Get $2000+ in Bonuses",
+      "snippet": "Claim the best sportsbook promos on Thanksgiving Eve, with $2,000+ in bonuses from BetMGM, Fanatics, FanDuel, Hard Rock Bet, bet365, Underdog and Betr for Packers at Rams.",
+      "link": "https://www.foxnews.com/outkick-betting/claim-best-sportsbook-promos-thanksgiving-eve-get-2000-bonuses",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T16:26:57.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_46d5dc297d5df5c4",
       "source": "Fox News",
       "sourceColor": "#B4453F",
@@ -186,6 +200,19 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
+    },
+    {
+      "id": "story_d708fb6de1973e77",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
+      "snippet": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T16:22:04.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 5
     },
     {
       "id": "story_d93784b3d1536e4b",
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-25T13:47:43.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1d17e261acf95eaf",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Country music star Darius Rucker reveals facing racism from Black fans over genre switch",
-      "snippet": "Darius Rucker revealed on \"The BobbyCast\" Tuesday that racism from Black critics, not just White people, has crushed him since his country music switch.",
-      "link": "https://www.foxnews.com/media/country-music-star-darius-rucker-reveals-facing-racism-black-fans-genre-switch",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T13:47:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7c870a5e89174ccd",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "WWE NXT star shaves head in powerful moment as she battles alopecia: 'With or without hair, I’m Thea Hail'",
-      "snippet": "WWE NXT star Thea Hail shaved her head in the ring at the WWE Performance Center after Chantel Monroe mocked her for balding due to alopecia areata.",
-      "link": "https://www.foxnews.com/outkick-sports/wwe-nxt-star-shaves-head-powerful-moment-battles-alopecia-without-hair-thea-hail",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T13:47:11.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
