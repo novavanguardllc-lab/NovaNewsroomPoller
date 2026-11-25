@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-25T01:10:09.186Z",
+  "updatedAt": "2026-11-25T01:15:08.916Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.307Z"
+      "lastSuccess": "2026-11-25T01:15:09.052Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.327Z"
+      "lastSuccess": "2026-11-25T01:15:09.133Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.595Z"
+      "lastSuccess": "2026-11-25T01:15:09.065Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.250Z"
+      "lastSuccess": "2026-11-25T01:15:08.979Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.329Z"
+      "lastSuccess": "2026-11-25T01:15:09.055Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.283Z"
+      "lastSuccess": "2026-11-25T01:15:09.022Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.335Z"
+      "lastSuccess": "2026-11-25T01:15:09.152Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.296Z"
+      "lastSuccess": "2026-11-25T01:15:09.012Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.353Z"
+      "lastSuccess": "2026-11-25T01:15:09.068Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.493Z"
+      "lastSuccess": "2026-11-25T01:15:09.072Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.396Z"
+      "lastSuccess": "2026-11-25T01:15:08.960Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.274Z"
+      "lastSuccess": "2026-11-25T01:15:09.026Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.340Z"
+      "lastSuccess": "2026-11-25T01:15:09.186Z"
     },
     "Politico": {
-      "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.350Z"
+      "online": false,
+      "lastError": "Status code 406",
+      "lastErrorAt": "2026-11-25T01:15:09.027Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.389Z"
+      "lastSuccess": "2026-11-25T01:15:09.112Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.478Z"
+      "lastSuccess": "2026-11-25T01:15:09.040Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.413Z"
+      "lastSuccess": "2026-11-25T01:15:09.163Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-25T01:10:09.484Z"
+      "lastErrorAt": "2026-11-25T01:15:09.152Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.394Z"
+      "lastSuccess": "2026-11-25T01:15:09.157Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.483Z"
+      "lastSuccess": "2026-11-25T01:15:09.222Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.463Z"
+      "lastSuccess": "2026-11-25T01:15:09.291Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.339Z"
+      "lastSuccess": "2026-11-25T01:15:09.175Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-25T01:10:09.684Z"
+      "lastSuccess": "2026-11-25T01:15:10.873Z"
     }
   },
   "items": [
@@ -105,6 +106,45 @@
       "link": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
       "imageUrl": null,
       "publishedAt": "2026-11-25T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_d64c615473d6a9de",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Angola inmates speak out against non-unanimous jury convictions",
+      "snippet": "Reporting from the Louisiana State Penitentiary, 60 Minutes contributor Sebastian Junger interviewed inmates who are still in prison after being convicted by a non-unanimous jury, a practice the U.S. Supreme Court ruled unconstitutional in ",
+      "link": "https://www.cbsnews.com/news/non-unanimous-juries-louisiana-convictions/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T01:10:39.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0bf42e7ccb9f8faf",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Angola inmates convicted by a split jury speak out: \"We're still fighting\"",
+      "snippet": "Reporting from the Louisiana State Penitentiary, 60 Minutes contributor Sebastian Junger interviewed inmates who are still in prison after being convicted by a non-unanimous jury, a practice the U.S. Supreme Court ruled unconstitutional in ",
+      "link": "https://www.cbsnews.com/video/non-unanimous-juries-60-minutes/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T01:10:31.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eac1c378e080f5e5",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Pope Francis' diary reveals he had visions of the devil, saw gates of Hell",
+      "snippet": "The Vatican has released excerpts from Pope Francis' diary, revealing claims that the pontiff had visions of the devil and, at one time, saw the gates of Hell. Candida Moss, a biblical scholar, joins \"The Daily Report\" to discuss.",
+      "link": "https://www.cbsnews.com/video/late-pope-francis-diary-reveals-he-had-visions-of-the-devil/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T01:04:51.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2654,45 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-24T21:07:15.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8288be14a1c00005",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Ellen Nimmons, longtime AP editor committed to quality and far-flung colleagues, dies at 78 - AP News",
-      "snippet": "Ellen Nimmons, longtime AP editor committed to quality and far-flung colleagues, dies at 78  AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVWhnNEpBUFV1TWFId0IwWWgzNzBtRER3MlFwWmI2MlgxN0ZqcEt6SzNtQU8yQkNpeWcwZG5aRmlHTGNQVlVES05tWkJpb2dQU2NQNXVfZVVxLURiRjJCaEFmcGVacC1JREoxMC1GZmRPdlQ3b01DVXlDYVNuemJPTW9yVGZYX3BUZk5HQkgweFlLck93bFp1dkFOQnRwb0hj?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T21:05:44.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_82e4da64b645df28",
-      "source": "Sky News",
-      "sourceColor": "#8A3E5C",
-      "headline": "Huawei guilty of plotting to steal trade secrets and bank fraud ",
-      "snippet": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
-      "link": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
-      "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-huawei-mobile-logo_7415657.jpg?20261124210537",
-      "publishedAt": "2026-11-24T21:05:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c88fba62507e3781",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-      "snippet": "",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T21:04:50.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
