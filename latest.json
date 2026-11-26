@@ -1,102 +1,115 @@
 {
-  "updatedAt": "2026-11-26T12:10:09.886Z",
+  "updatedAt": "2026-11-26T12:15:09.409Z",
   "sourceStatus": {
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.189Z"
+      "lastSuccess": "2026-11-26T12:15:09.724Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:09.979Z"
+      "lastSuccess": "2026-11-26T12:15:09.521Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:09.986Z"
+      "lastSuccess": "2026-11-26T12:15:09.529Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.196Z"
+      "lastSuccess": "2026-11-26T12:15:09.671Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.089Z"
+      "lastSuccess": "2026-11-26T12:15:09.480Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.201Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-26T12:15:09.681Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.103Z"
+      "lastSuccess": "2026-11-26T12:15:09.731Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.067Z"
+      "lastSuccess": "2026-11-26T12:15:09.626Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.191Z"
+      "lastSuccess": "2026-11-26T12:15:09.673Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.212Z"
+      "lastSuccess": "2026-11-26T12:15:09.760Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.230Z"
+      "lastSuccess": "2026-11-26T12:15:09.665Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.053Z"
+      "lastSuccess": "2026-11-26T12:15:09.742Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.061Z"
+      "lastSuccess": "2026-11-26T12:15:09.612Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.235Z"
+      "lastSuccess": "2026-11-26T12:15:09.757Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.281Z"
+      "lastSuccess": "2026-11-26T12:15:09.781Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.209Z"
+      "lastSuccess": "2026-11-26T12:15:09.746Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.182Z"
+      "lastSuccess": "2026-11-26T12:15:09.720Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-26T12:10:10.282Z"
+      "lastErrorAt": "2026-11-26T12:15:09.761Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.309Z"
+      "lastSuccess": "2026-11-26T12:15:09.832Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.372Z"
+      "lastSuccess": "2026-11-26T12:15:09.824Z"
     },
     "Reuters": {
-      "online": false,
-      "lastError": "Status code 429",
-      "lastErrorAt": "2026-11-26T12:10:10.209Z"
+      "online": true,
+      "lastSuccess": "2026-11-26T12:15:09.586Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.121Z"
+      "lastSuccess": "2026-11-26T12:15:09.901Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-26T12:10:10.332Z"
+      "lastSuccess": "2026-11-26T12:15:11.480Z"
     }
   },
   "items": [
+    {
+      "id": "story_e47d5a36d07a4c0c",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+      "snippet": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+      "link": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T12:10:49.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_c273836f14611d0e",
       "source": "NBC News",
@@ -108,6 +121,19 @@
       "publishedAt": "2026-11-26T12:07:29.000Z",
       "tier": "routine",
       "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_7b49d1fc85cd8c1b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Steelers star DK Metcalf has to be 'a lot smarter' after poking opponent in the eye, NFL analyst says",
+      "snippet": "DK Metcalf was ejected after poking Cooper DeJean in the face, his second personal foul, and analyst Matthew Berry said the Pittsburgh Steelers star must be smarter.",
+      "link": "https://www.foxnews.com/outkick-sports/steelers-star-dk-metcalf-lot-smarter-after-poking-opponent-eye-nfl-analyst-says",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T12:05:20.000Z",
+      "tier": "routine",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -249,6 +275,19 @@
       "link": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-26T11:58:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_61461831b970e0c3",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "James ‘Fergie’ Chambers: US trying to cast ‘antiwar ideas as extremist’",
+      "snippet": "Recently bailed activist denies accusations of supporting Hamas, claiming he is being punished for supporting Palestine.",
+      "link": "https://www.aljazeera.com/news/2026/11/26/james-fergie-chambers-us-trying-to-cast-antiwar-ideas-as-extremist?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T11:56:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2657,45 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_acaedfcf25bdc422",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Are they all turncoats?’: Barnaby Joyce says voters are turning to One Nation – and Liberals like Blyth can too",
-      "snippet": "South Australian senator Leah Blyth labels One Nation the ‘only party with the bold ideas needed to turn this country around’\n\nFollow our Australia politics live blog for latest updates\n\nGet our daily political email, free app or daily news",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:55:35.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9f220b1cf9e3a6e9",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Kenya breached constitution in building US-backed Ebola quarantine site, court says - Reuters",
-      "snippet": "Kenya breached constitution in building US-backed Ebola quarantine site, court says  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDBoRkxJaS1TY2lyN3lEMzhtTU84ZFhWN1RMbWQzai0wWTZUVG05Y2MxTFluQmVycnBfdXVRZWhlSzZTTldvcmVySjd3V0lfX3N5MExFSHo3VTQ5WmZrTzRfT1RTNnZjRHVXYzNhMDlTcUNzdVptSVg3cHpQaEpLcFpHblhFU25hVWYxbFlzY1FNU0ZKbC01NXZ6alNmN2pGWkRmblBVZ3JxajNQb2VXSmRTSGluakI1Y1VuUjlzZGp0d1U1bzY4?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:54:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_936733cfe64855c4",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
-      "snippet": "The Trump administration gave Elon Musk's SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a move that has raised skepticism among scientists.",
-      "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:53:09.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
