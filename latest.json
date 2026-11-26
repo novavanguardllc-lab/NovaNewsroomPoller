@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-26T06:00:15.100Z",
+  "updatedAt": "2026-11-26T06:05:06.904Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.145Z"
+      "lastSuccess": "2026-11-26T06:05:06.942Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.163Z"
+      "lastSuccess": "2026-11-26T06:05:06.946Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.192Z"
+      "lastSuccess": "2026-11-26T06:05:06.993Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.182Z"
+      "lastSuccess": "2026-11-26T06:05:06.972Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.197Z"
+      "lastSuccess": "2026-11-26T06:05:06.987Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.160Z"
+      "lastSuccess": "2026-11-26T06:05:07.000Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.156Z"
+      "lastSuccess": "2026-11-26T06:05:06.960Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.233Z"
+      "lastSuccess": "2026-11-26T06:05:07.022Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.269Z"
+      "lastSuccess": "2026-11-26T06:05:07.052Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.170Z"
+      "lastSuccess": "2026-11-26T06:05:06.965Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.229Z"
+      "lastSuccess": "2026-11-26T06:05:07.018Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.235Z"
+      "lastSuccess": "2026-11-26T06:05:06.970Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.253Z"
+      "lastSuccess": "2026-11-26T06:05:07.027Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-26T06:00:15.245Z"
+      "lastErrorAt": "2026-11-26T06:05:07.023Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.257Z"
+      "lastSuccess": "2026-11-26T06:05:07.036Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.239Z"
+      "lastSuccess": "2026-11-26T06:05:07.055Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.328Z"
+      "lastSuccess": "2026-11-26T06:05:07.186Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.260Z"
+      "lastSuccess": "2026-11-26T06:05:06.980Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.210Z"
+      "lastSuccess": "2026-11-26T06:05:06.983Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.587Z"
+      "lastSuccess": "2026-11-26T06:05:07.371Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.177Z"
+      "lastSuccess": "2026-11-26T06:05:07.413Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.320Z"
+      "lastSuccess": "2026-11-26T06:05:07.109Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-26T06:00:15.353Z"
+      "lastSuccess": "2026-11-26T06:05:07.180Z"
     }
   },
   "items": [
+    {
+      "id": "story_72182554e9f64016",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+      "snippet": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+      "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:49:40.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_30240b39b3c81c96",
       "source": "DW",
@@ -2680,19 +2693,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-25T22:56:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_065d1627cdccc0f6",
-      "source": "PBS",
-      "sourceColor": "#4A7A8C",
-      "headline": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
-      "snippet": "A Republican official who oversees Alaska elections said she has ended an agreement under which the state shared its voter registration list with the U.S. Department of Justice and allowed the agency to flag voters for possible removal.",
-      "link": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T22:53:33.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
