@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-26T08:50:09.660Z",
+  "updatedAt": "2026-11-26T08:55:06.962Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.117Z"
+      "lastSuccess": "2026-11-26T08:55:07.078Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:09.817Z"
+      "lastSuccess": "2026-11-26T08:55:07.021Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.158Z"
+      "lastSuccess": "2026-11-26T08:55:07.142Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.184Z"
+      "lastSuccess": "2026-11-26T08:55:07.280Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.164Z"
+      "lastSuccess": "2026-11-26T08:55:07.226Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:09.864Z"
+      "lastSuccess": "2026-11-26T08:55:07.125Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:09.994Z"
+      "lastSuccess": "2026-11-26T08:55:07.117Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.255Z"
+      "lastSuccess": "2026-11-26T08:55:07.242Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.046Z"
+      "lastSuccess": "2026-11-26T08:55:07.277Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.179Z"
+      "lastSuccess": "2026-11-26T08:55:07.219Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.241Z"
+      "lastSuccess": "2026-11-26T08:55:07.216Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.278Z"
+      "lastSuccess": "2026-11-26T08:55:07.178Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.360Z"
+      "lastSuccess": "2026-11-26T08:55:07.237Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-26T08:50:10.396Z"
+      "lastErrorAt": "2026-11-26T08:55:07.298Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.395Z"
+      "lastSuccess": "2026-11-26T08:55:07.305Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.365Z"
+      "lastSuccess": "2026-11-26T08:55:07.293Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.467Z"
+      "lastSuccess": "2026-11-26T08:55:07.456Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.326Z"
+      "lastSuccess": "2026-11-26T08:55:07.175Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.337Z"
+      "lastSuccess": "2026-11-26T08:55:07.286Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:09.901Z"
+      "lastSuccess": "2026-11-26T08:55:07.402Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.077Z"
+      "lastSuccess": "2026-11-26T08:55:07.421Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.620Z"
+      "lastSuccess": "2026-11-26T08:55:07.360Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-26T08:50:10.448Z"
+      "lastSuccess": "2026-11-26T08:55:07.373Z"
     }
   },
   "items": [
+    {
+      "id": "story_d884ab18e27fb19e",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Explosion occurs at oil facility in Thailand’s Bangkok",
+      "snippet": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
+      "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T08:49:20.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
     {
       "id": "story_803a3bad961c75cb",
       "source": "France24",
@@ -105,6 +118,19 @@
       "link": "https://www.france24.com/en/we-are-not-fighting-culture-we-fight-to-end-fgm-it-s-a-human-rights-violation-of-women-and-girls",
       "imageUrl": "https://s.france24.com/media/display/2a34f374-e970-11f1-a19b-174dac1c1bf0/w:1024/p:16x9/EN-20261125-080511-081235-CS.jpg",
       "publishedAt": "2026-11-26T08:39:26.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_73460e6271641673",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+      "snippet": "António Costa says the next long-term budget is ‘the most important’ item on the agenda\nSweden’s Ulf Kristersson suggested the talks could even go beyond December and into 2027, as with the budget kicking in only in 2028, “we aren’t in that",
+      "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T08:39:02.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -214,6 +240,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_a49950ec32c9b23a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+      "snippet": "CMA report highlights inflation-busting annual rises and practices that ‘may not operate in patients’ best interests’\n\nBusiness live – latest updates\n\nThe UK’s competition watchdog has called for a shake-up of the £8bn private dentistry mar",
+      "link": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T08:13:01.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_72987fd13eaa22cf",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -236,6 +275,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T08:01:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_5176a06ebdc29495",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "California U.S. House Election Live Results 2026 - AP News",
+      "snippet": "California U.S. House Election Live Results 2026  AP News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMkIybm5QSXNTdnRac3FBOEVCdUNDc0o1ZVZyd2M3eGg4bTFzbk03bG1OalZBdW05UjE2NG5sejluR1hUdElyOFNIOTRmSk5reGtkZHNmWGNHRi16Ylo4RUNieTVUa0pOd09qXy1iMlhsdUZfMTlHYm5YTQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:56:38.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -732,6 +784,19 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_28bc24488c79f62f",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine - AP News",
+      "snippet": "EU leaders seek to bridge their differences and agree on a budget deal and a new loan for Ukraine  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUt5bnNUdEVaVjhETTRjWFI5cnZYaUtyV0R1VE50ZGFPcnJyVmppY2xxeVFpOEtPWURRSFpKUGFXcDVkZGVtZnF2Ykg5aEk2NXY4VTVBVHZQWEstSk9CRGp6cHZLUWhyQkdDQ2ktQjl6WldZSlFRdzhfVUQ0dGNkNlZJaFZKMkFYeWdFUmNQSXdSTDJscjlEcXBZdVdhZWs?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:00:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_2b4499172568b574",
@@ -2627,71 +2692,6 @@
       "link": "https://www.cbsnews.com/video/tips-baking-best-thanksgiving-bird-butterball-turkey/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T00:29:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b729be2c284f9e55",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "How to handle high costs for family caregiving",
-      "snippet": "As Americans prepare for Thanksgiving, they also may be getting ready for some difficult conversations with their loved ones about care-giving, particularly as their parents get older. Rita Choula, senior director for caregiving at the AARP",
-      "link": "https://www.cbsnews.com/video/how-to-handle-high-costs-for-family-caregiving/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T00:27:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ac45e88df841032d",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "EU ‘strongly rejects’ rationale behind Trump’s tariffs",
-      "snippet": "The European Union on Wednesday pushed back against the Trump administration’s allegations that the bloc’s industrial policies are contributing to a global oversupply of manufactured goods, after the U.S. proposed imposing 15 percent tariff",
-      "link": "https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/08/AP26238752056355-e1787836032947.jpg?w=900",
-      "publishedAt": "2026-11-26T00:24:34.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0ebcfcefdabc5d4f",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "The US pastor who wants to see women's right to vote overturned",
-      "snippet": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T00:24:25.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_18f7881ff12e50ab",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Spanish elections: What you need to know and what's at stake",
-      "snippet": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T00:23:49.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d278f649d28c345d",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "France's political mainstream risks presidential vote debacle with no clear candidate",
-      "snippet": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T00:23:27.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
