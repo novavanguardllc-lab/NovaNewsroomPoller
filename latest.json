@@ -1,110 +1,150 @@
 {
-  "updatedAt": "2026-11-26T10:40:09.518Z",
+  "updatedAt": "2026-11-26T10:45:08.935Z",
   "sourceStatus": {
+    "CBS News": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:08.968Z"
+    },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.635Z"
+      "lastSuccess": "2026-11-26T10:45:08.995Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.591Z"
+      "lastSuccess": "2026-11-26T10:45:08.999Z"
     },
-    "Politico": {
+    "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.695Z"
-    },
-    "CBS News": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.660Z"
-    },
-    "UPI": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.665Z"
-    },
-    "PBS": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.616Z"
+      "lastSuccess": "2026-11-26T10:45:09.014Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.586Z"
+      "lastSuccess": "2026-11-26T10:45:09.031Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.689Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-26T10:45:09.033Z"
     },
-    "DW": {
+    "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.677Z"
+      "lastSuccess": "2026-11-26T10:45:09.039Z"
     },
-    "NPR": {
+    "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.612Z"
-    },
-    "ProPublica": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.714Z"
+      "lastSuccess": "2026-11-26T10:45:09.064Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.652Z"
+      "lastSuccess": "2026-11-26T10:45:09.071Z"
+    },
+    "Washington Post": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.074Z"
+    },
+    "ProPublica": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.093Z"
+    },
+    "Politico": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.099Z"
+    },
+    "NPR": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.104Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.700Z"
+      "lastSuccess": "2026-11-26T10:45:09.108Z"
+    },
+    "ABC News": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.118Z"
+    },
+    "BBC": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.120Z"
+    },
+    "DW": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.130Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-26T10:40:09.716Z"
-    },
-    "ABC News": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.739Z"
-    },
-    "Washington Post": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.716Z"
+      "lastErrorAt": "2026-11-26T10:45:09.131Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.858Z"
-    },
-    "BBC": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.658Z"
-    },
-    "NYT": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.680Z"
-    },
-    "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.624Z"
-    },
-    "Reuters": {
-      "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.999Z"
+      "lastSuccess": "2026-11-26T10:45:09.186Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:09.808Z"
+      "lastSuccess": "2026-11-26T10:45:09.239Z"
+    },
+    "Reuters": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.378Z"
+    },
+    "AP": {
+      "online": true,
+      "lastSuccess": "2026-11-26T10:45:09.441Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-26T10:40:11.531Z"
+      "lastSuccess": "2026-11-26T10:45:10.931Z"
     }
   },
   "items": [
     {
-      "id": "story_38be2d2e678fe651",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "The great Thanksgiving grace dilemma",
-      "snippet": "Ever since I started seminary, I’ve been the designated go-to prayer guy. It doesn’t matter where I am: a dinner party, a birthday lunch, or a holiday table with 14 people and a dog. Right after everyone sits down and right before anyone pi",
-      "link": "https://www.washingtonexaminer.com/premium/4809277/giving-thanks-god-prayer-thanksgiving/",
+      "id": "story_638cbae6abd93436",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " New York declares emergency as Thanksgiving storm threatens East Coast",
+      "snippet": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
+      "link": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T10:30:00.000Z",
+      "publishedAt": "2026-11-26T10:39:33.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_7dbc465151948db0",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "snippet": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:38:35.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_73460e6271641673",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+      "snippet": "António Costa says the next long-term budget is ‘the most important’ item on the agenda\nThe Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current propo",
+      "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:30:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_33a69709df2e9a59",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Iran live updates: IRGC claims 2 oil tankers hit mines in Strait of Hormuz",
+      "snippet": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+      "link": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:30:23.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -116,6 +156,19 @@
       "headline": "Thanksgiving dinner costs rise, putting pressure on US households",
       "snippet": "Turkeys see a 26-percent price rise, forcing families to reconsider hosting and opt for potluck-style celebrations.",
       "link": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:30:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_38be2d2e678fe651",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "The great Thanksgiving grace dilemma",
+      "snippet": "Ever since I started seminary, I’ve been the designated go-to prayer guy. It doesn’t matter where I am: a dinner party, a birthday lunch, or a holiday table with 14 people and a dog. Right after everyone sits down and right before anyone pi",
+      "link": "https://www.washingtonexaminer.com/premium/4809277/giving-thanks-god-prayer-thanksgiving/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:30:00.000Z",
       "tier": "routine",
@@ -149,6 +202,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_9b0b01735e5667e1",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
+      "snippet": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+      "link": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:26:27.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_7435a17464db2156",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
@@ -157,19 +223,6 @@
       "link": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:25:12.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a09d216bba8d2e04",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'Sacré sel': France's love of salt",
-      "snippet": "We take a look at a salt scandal that is rocking the UK, after Maldon sea salt was found to come, in part, from rock salt imported from Germany. We also discuss France's relationship to salt (le sel) and the different kinds in France, from ",
-      "link": "https://www.france24.com/en/tv-shows/entre-nous/20261126-sacr%C3%A9-sel-france-s-love-of-salt",
-      "imageUrl": "https://s.france24.com/media/display/33d1908e-e8e6-11f1-9824-81da3ab2acbb/w:1024/p:16x9/capture-15d580ae.jpg",
-      "publishedAt": "2026-11-26T10:22:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -188,14 +241,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_2cc563961d5838ab",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "Alleged Russian spy goes on trial in Berlin",
-      "snippet": "Prosecutors say the defendant used her political and military contacts to provide information on German defense and aid deliveries to Ukraine. Her arrest in January sparked a diplomatic row between Germany and Russia.",
-      "link": "https://www.dw.com/en/alleged-russian-spy-goes-on-trial-in-berlin/a-80057677?maca=en-rss-en-all-1573-rdf",
+      "id": "story_334f569ddc8a9641",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
+      "snippet": "Net migration fell in the year ending June 2026, according to the Office for National Statistics\nThe Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T10:16:00.000Z",
+      "publishedAt": "2026-11-26T10:19:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -205,7 +258,7 @@
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
-      "snippet": "Norwegian airline says its finances are ‘critical’ and it will file for bankruptcy if it cannot secure short-term backing\nNorse Atlantic Airways has suspended all flights and said it will file for bankruptcy if it cannot secure short-term f",
+      "snippet": "Norwegian airline says its finances are ‘critical’ and it will file for bankruptcy if it cannot secure short-term backing\n\nBusiness live – latest updates\n\nNorse Atlantic Airways has suspended all flights and said it will file for bankruptcy",
       "link": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:15:18.000Z",
@@ -222,6 +275,19 @@
       "link": "https://www.washingtonexaminer.com/premium/4813826/snl-sister-sketch-family-gender-inequality/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:15:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_73f4a76f9c16b665",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Thanksgiving Day store hours: Which stores are open and closed",
+      "snippet": "See which national supermarket chains and stores will be staffed as usual and which ones will close for the Thanksgiving holiday.",
+      "link": "https://abcnews.com/GMA/Food/kroger-foods-stores-stay-open-thanksgiving-chains-close/story?id=138321899",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:10:43.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -344,64 +410,25 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_157abcf7dcbaca41",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "What America has forgotten about Thanksgiving — and why it matters for our future",
-      "snippet": "It might come as a surprise to you, but Thanksgiving, like Christmas, is an inherently religious holiday. Although many Americans now associate Thanksgiving primarily with football, family gatherings, and an abundance of food, the holiday w",
-      "link": "https://www.washingtonexaminer.com/op-eds/4815646/is-thanksgiving-a-religious-holiday-americans-have-forgotten-authority-above-government/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_10112f1481752a8f",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "Rep.-elect Adam Hamawy scheduled to speak for Hamas-linked group facing terrorism lawsuit",
-      "snippet": "Rep.-elect Adam Hamawy (D-NJ) is scheduled to speak at a conference this week for an Islamic group under legal scrutiny for Hamas ties. American Muslims for Palestine names the incoming Muslim congressman at the top of a speaker list for it",
-      "link": "https://www.washingtonexaminer.com/news/investigations/4814074/adam-hamawy-convention-hamas-group-terrorism-lawsuit/",
-      "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/SJPtoolkit.png?w=1020",
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_44687cb703bb35cb",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "President Abraham Lincoln’s Thanksgiving proclamation",
-      "snippet": "The Washington Examiner has made it a tradition to publish President Abraham Lincoln’s proclamation of Oct. 3, 1863, each Thanksgiving Day. Lincoln invited “fellow citizens in every part of the United States, and also those who are at sea a",
-      "link": "https://www.washingtonexaminer.com/opinion/editorials/4813660/abraham-lincoln-thanksgiving-proclamation-2/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_bbee8236c0282b5f",
-      "source": "Wash Examiner",
-      "sourceColor": "#6A5A3E",
-      "headline": "AI is coming to school. Don’t repeat the Chromebook mistake",
-      "snippet": "‘Now, Not Someday’ is an op-ed series in partnership with Independent Women, in which five leading experts discuss how artificial intelligence and data centers are saving lives and helping families in every major industry. Parents wary of a",
-      "link": "https://www.washingtonexaminer.com/op-eds/4810303/ai-in-schools-parents-input/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_26e3b24b2669e4b6",
       "source": "Washington Post",
       "sourceColor": "#5A3E3E",
       "headline": "Powerful Thanksgiving storm threatens East Coast with floods, damaging winds",
       "snippet": "Officials are warning of dangerous travel, widespread power outages and hurricane-force gusts.",
       "link": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:00:00.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_7d63157ba1a50b6b",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
+      "snippet": "The president would have preferred to keep the focus on Hawaiian Charlie.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:00:00.000Z",
       "tier": "routine",
@@ -415,19 +442,6 @@
       "headline": "Tech billionaire takes his case against red tape to the Federal Reserve",
       "snippet": "Marc Andreessen, a Trump ally whose firm has invested heavily in health care, education and housing, says he will use his role on a new Fed task force to argue that regulation is blocking progress in those sectors.",
       "link": "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T10:00:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7d63157ba1a50b6b",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Asked about Iran-contra, Reagan joked about pardoning a turkey. A tradition followed.",
-      "snippet": "The president would have preferred to keep the focus on Hawaiian Charlie.",
-      "link": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:00:00.000Z",
       "tier": "routine",
@@ -500,14 +514,66 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_cc95583fc799d6af",
-      "source": "NBC News",
-      "sourceColor": "#8A5A3E",
-      "headline": "Why more American tech startups are ditching Silicon Valley for China’s Shenzhen",
-      "snippet": "In the intense world of startup technology, several American companies have opted against Silicon Valley and chosen the Chinese megacity of Shenzhen.",
-      "link": "https://www.nbcnews.com/world/asia/silicon-valley-shenzhen-american-startups-are-moving-chinas-tech-capit-rcna610832",
+      "id": "story_157abcf7dcbaca41",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "What America has forgotten about Thanksgiving — and why it matters for our future",
+      "snippet": "It might come as a surprise to you, but Thanksgiving, like Christmas, is an inherently religious holiday. Although many Americans now associate Thanksgiving primarily with football, family gatherings, and an abundance of food, the holiday w",
+      "link": "https://www.washingtonexaminer.com/op-eds/4815646/is-thanksgiving-a-religious-holiday-americans-have-forgotten-authority-above-government/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_10112f1481752a8f",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "Rep.-elect Adam Hamawy scheduled to speak for Hamas-linked group facing terrorism lawsuit",
+      "snippet": "Rep.-elect Adam Hamawy (D-NJ) is scheduled to speak at a conference this week for an Islamic group under legal scrutiny for Hamas ties. American Muslims for Palestine names the incoming Muslim congressman at the top of a speaker list for it",
+      "link": "https://www.washingtonexaminer.com/news/investigations/4814074/adam-hamawy-convention-hamas-group-terrorism-lawsuit/",
+      "imageUrl": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/SJPtoolkit.png?w=1020",
+      "publishedAt": "2026-11-26T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_44687cb703bb35cb",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "President Abraham Lincoln’s Thanksgiving proclamation",
+      "snippet": "The Washington Examiner has made it a tradition to publish President Abraham Lincoln’s proclamation of Oct. 3, 1863, each Thanksgiving Day. Lincoln invited “fellow citizens in every part of the United States, and also those who are at sea a",
+      "link": "https://www.washingtonexaminer.com/opinion/editorials/4813660/abraham-lincoln-thanksgiving-proclamation-2/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_bbee8236c0282b5f",
+      "source": "Wash Examiner",
+      "sourceColor": "#6A5A3E",
+      "headline": "AI is coming to school. Don’t repeat the Chromebook mistake",
+      "snippet": "‘Now, Not Someday’ is an op-ed series in partnership with Independent Women, in which five leading experts discuss how artificial intelligence and data centers are saving lives and helping families in every major industry. Parents wary of a",
+      "link": "https://www.washingtonexaminer.com/op-eds/4810303/ai-in-schools-parents-input/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T10:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b69c72f7a3a1c92e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "New UK-EU treaty has 10-year termination clause",
+      "snippet": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T09:59:14.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -543,11 +609,24 @@
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "Germany news: Final budget debate continues in Bundestag",
-      "snippet": "Spending for federal police and domestic intelligence are high on the agenda for parliamentary debate this Thursday. An alleged spy and suspected terrorists are also making in Germany this Thursday. DW has more.",
+      "snippet": "Spending for federal police and domestic intelligence are high on the agenda for parliamentary debate this Thursday. An alleged spy and suspected terrorists are also making headlines in Germany on Thursday. DW has more.",
       "link": "https://www.dw.com/en/germany-news-final-budget-debate-continues-in-bundestag/live-80056746?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-26T09:49:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_911834a9e6bdd7b9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65 - AP News",
+      "snippet": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65  AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2V2OUxYWk12T2E3d0g5SFVQNDA2LW9qdkNtZDZJdmVtelh4amRUNEtNYXNfN1hraG9KcnhnSFlpbmZ5TXlpSkVrVVgxa3lMaUpydlRyeHVGREN5aGpUN1BDUEJpYnE1dC1lTGh3OHR1UWkzZVJpMkdPaEkzd1padXdRYnNrQXBJYnlaVEc1bVVVUQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T09:47:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -591,19 +670,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_0da4ec10937c0124",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway",
-      "snippet": "Officials say a FedEx airplane has overrun a runway at the Miami International Airport",
-      "link": "https://abcnews.com/US/wireStory/fedex-airplane-overruns-runway-miami-airport-temporarily-closing-138460484",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T09:41:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_b6906def9b2ff8da",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -630,24 +696,11 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_f7ef0ddf3aad30e1",
-      "source": "DW",
-      "sourceColor": "#B08A3E",
-      "headline": "German authorities arrest 2 suspected members of pro-Iran terrorist group over plans to attack Cologne synagogue",
-      "snippet": "Federal prosecutors say they have ordered the arrest of two memebers of a pro-Iranian group on suspicion of planning an attack on a synagogue. They were detained in the cities of Heidelberg and Cologne.",
-      "link": "https://www.dw.com/en/german-authorities-arrest-2-suspected-members-of-pro-iran-terrorist-group-over-plans-to-attack-cologne-synagogue/a-80057715?maca=en-rss-en-all-1573-rdf",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T09:37:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_981f68d6878a94c5",
       "source": "DW",
       "sourceColor": "#B08A3E",
       "headline": "Germany: 2 arrested, suspected of plotting synagogue attack",
-      "snippet": "Federal prosecutors say they have ordered the arrest of two memebers of a pro-Iranian group on suspicion of planning an attack on a synagogue. They were detained in the cities of Heidelberg and Cologne.",
+      "snippet": "Federal prosecutors say they have ordered the arrest of two members of a pro-Iranian group on suspicion of planning an attack on a synagogue. They were detained in the cities of Heidelberg and Cologne.",
       "link": "https://www.dw.com/en/germany-2-arrested-suspected-of-plotting-synagogue-attack/a-80057715?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-26T09:37:00.000Z",
@@ -669,6 +722,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8e9e3b38ddbcc519",
+      "source": "ABC News",
+      "sourceColor": "#3E5A7A",
+      "headline": " Large explosion reported at a major oil facility in the Thai capital",
+      "snippet": "An explosion has occurred at a major oil facility in Bangkok, prompting authorities to tell residents to evacuate",
+      "link": "https://abcnews.com/Business/wireStory/large-explosion-reported-major-oil-facility-thai-capital-138463721",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T09:33:29.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_41b012339c9d79a9",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -677,9 +743,22 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-26T09:30:24.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_27217ba3506ce340",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "snippet": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T09:27:44.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_ea82d1fc4df2e6f4",
@@ -734,24 +813,11 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_334f569ddc8a9641",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "UK-EU deal to confirm ‘Farage penalty’ clause if Britain walks away – UK politics live",
-      "snippet": "The Conservatives say the new deal barely contains savings for UK citizens\nGood morning. On Friday last week Andy Burnham was in Brussels to announce a reset deal with the EU. Today the debate will be revived as we get to read the small pri",
-      "link": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T09:17:00.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_f8da256a6bc9f5d4",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
       "headline": "Details of two treaties at heart of Andy Burnham’s EU reset to be published",
-      "snippet": "Government also to publish bill that will enact EU deals, as Tories and Reform hit out over 10-year termination clause\n\nEurope live – latest updates\n\nBusiness live – latest updates\n\n\nDetails of two treaties at the heart of Andy Burnham’s po",
+      "snippet": "Government also to publish bill that will enact EU deals as Tories and Reform hit out over 10-year termination clause\n\nEurope live – latest updates\n\nBusiness live – latest updates\n\n\nDetails of two treaties at the heart of Andy Burnham’s pos",
       "link": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
       "imageUrl": null,
       "publishedAt": "2026-11-26T09:16:19.000Z",
@@ -760,15 +826,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_89f9eb3a30ab8e9f",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Le Pen's top ally Bardella faces fresh allegations of anti-semitic comments",
-      "snippet": "French investigative outlet Mediapart on Thursday published extracts from private conversations in which far-right leader Jordan Bardella allegedly made anti-semitic remarks as a teenager, prompting fresh accusations that he has denied.",
-      "link": "https://www.france24.com/en/france/20261126-le-pen-top-ally-bardella-faces-renewed-scrutiny-over-alleged-antisemitic-comments",
-      "imageUrl": "https://s.france24.com/media/display/f9b7709e-e962-11f1-b3b0-f9cf020caef6/w:1024/p:16x9/2026-11-17T103628Z-1273852045-RC2MPOA6Q0GC-RTRMADP-3-FRANCE-POLITICS-LEPEN.jpg",
-      "publishedAt": "2026-11-26T09:08:10.000Z",
-      "tier": "routine",
+      "id": "story_ae5d9df3e110ea84",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Airline Norse Atlantic flags bankruptcy risk as flights suspended - Reuters",
+      "snippet": "Airline Norse Atlantic flags bankruptcy risk as flights suspended  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelVSdGZIMFMxelZ3SVpNZHYyYzRTZWN4S010bExkN0lmVVk5eng2VWp0VUszQXhGVDF5TUFxTDQzSXFuNmxHazV3d1VSR1BWMFRIeFBMQzJDeUM0RG5Cazhya0dpdDA2ZzJDSnd0WGVvVGItS0ttemdLUGhUbUwwbjBWbUk2VktZQUxsa0haX290d21lVFg5Ri1UZ0FkcFo1ZUpnSUNTd1ZudHJWYnQ5T0U4X0w2aExZRXBSOE9ETlEwa2ljRmxF?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T09:10:23.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -825,17 +891,30 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_2285ba3a0b22742b",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+      "snippet": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”",
+      "link": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T08:53:13.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
       "id": "story_d884ab18e27fb19e",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
-      "headline": "Explosion occurs at oil facility in Thailand’s Bangkok",
+      "headline": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
       "snippet": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes.",
       "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-26T08:49:20.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
     },
     {
       "id": "story_30ef52d9207d88b7",
@@ -860,58 +939,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T08:45:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_803a3bad961c75cb",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'We are not fighting culture, we fight to end FGM: It's a human rights violation of women and girls'",
-      "snippet": "“We fight to end FGM because it is a human rights violation of women and girls. We are not fighting culture.” Caroline Lagat, Legal Advisor at Equality Now’s Africa office in Nairobi, discusses the challenges of ending female genital mutila",
-      "link": "https://www.france24.com/en/we-are-not-fighting-culture-we-fight-to-end-fgm-it-s-a-human-rights-violation-of-women-and-girls",
-      "imageUrl": "https://s.france24.com/media/display/2a34f374-e970-11f1-a19b-174dac1c1bf0/w:1024/p:16x9/EN-20261125-080511-081235-CS.jpg",
-      "publishedAt": "2026-11-26T08:39:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_73460e6271641673",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
-      "snippet": "António Costa says the next long-term budget is ‘the most important’ item on the agenda\nSweden’s Ulf Kristersson suggested the talks could even go beyond December and into 2027, as with the budget kicking in only in 2028, “we aren’t in that",
-      "link": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T08:39:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ae5d9df3e110ea84",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Airline Norse Atlantic flags bankruptcy risk as flights suspended - Reuters",
-      "snippet": "Airline Norse Atlantic flags bankruptcy risk as flights suspended  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelVSdGZIMFMxelZ3SVpNZHYyYzRTZWN4S010bExkN0lmVVk5eng2VWp0VUszQXhGVDF5TUFxTDQzSXFuNmxHazV3d1VSR1BWMFRIeFBMQzJDeUM0RG5Cazhya0dpdDA2ZzJDSnd0WGVvVGItS0ttemdLUGhUbUwwbjBWbUk2VktZQUxsa0haX290d21lVFg5Ri1UZ0FkcFo1ZUpnSUNTd1ZudHJWYnQ5T0U4X0w2aExZRXBSOE9ETlEwa2ljRmxF?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T08:38:14.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_41177a9e24725cac",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Injury-hit PSG drop first points of Champions League campaign against Roma",
-      "snippet": "After kicking off their title defence with four consecutive wins, Luis Enrique's men were held to a draw at home by the Italian side. Real Madrid are now two points clear at the top of the Champions League standings.",
-      "link": "https://www.france24.com/en/tv-shows/sports/20261126-injury-hit-psg-drop-first-points-of-champions-league-campaign-against-roma",
-      "imageUrl": "https://s.france24.com/media/display/204f7dde-e948-11f1-b29b-81bc2b1dcd65/w:1024/p:16x9/J24-PSG-6.jpg",
-      "publishedAt": "2026-11-26T08:34:00.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -968,19 +995,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_ee1e34064bcbf431",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Huge explosion at oil depot in Bangkok sends fireball into sky",
-      "snippet": "An explosion at an oil depot in Bangkok sent a large fireball and thick black smoke into the sky, journalists said Thursday, as local authorities urged people nearby to evacuate.",
-      "link": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
-      "imageUrl": "https://s.france24.com/media/display/8553b8ac-e971-11f1-8ef4-174dac1c1bf0/w:1024/p:16x9/AP1207040864.jpg",
-      "publishedAt": "2026-11-26T08:27:20.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_44155b5fa112e1cc",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1017,30 +1031,17 @@
       "publishedAt": "2026-11-26T08:19:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
-      "id": "story_a49950ec32c9b23a",
+      "id": "story_3b9953572b833136",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
-      "snippet": "CMA report highlights inflation-busting annual rises and practices that ‘may not operate in patients’ best interests’\n\nBusiness live – latest updates\n\nThe UK’s competition watchdog has called for a shake-up of the £8bn private dentistry mar",
-      "link": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+      "headline": "Coalition to privatise Melbourne sewage plants and sell state land and renewables if it wins election",
+      "snippet": "Liberal and Nationals’ policy costings also reveal ‘air rights’ between Richmond train station and MCG would be sold\n\nVictorian election 2026 guide: what you need to know\n\nConfused about who to vote for? Check the parties’ key promises and ",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T08:13:01.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_72987fd13eaa22cf",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Children’s hospitals close beds to comply with NHS cost-cutting targets",
-      "snippet": "Sheffield children’s hospital, Liverpool’s Alder Hey and London’s Great Ormond Street make cuts amid efforts to major savings\nChildren’s hospitals are closing beds and shedding staff to comply with swingeing cost-cutting targets set by NHS ",
-      "link": "https://www.theguardian.com/society/2026/nov/26/childrens-hospitals-close-beds-to-comply-with-nhs-cost-cutting-targets",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T08:05:47.000Z",
+      "publishedAt": "2026-11-26T08:07:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1055,6 +1056,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T08:01:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_37976c95a3a80423",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Tariffs and global trade - AP News",
+      "snippet": "Tariffs and global trade  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4xaE5zb1c3N0hDYmpHMWNMazZZc2dRREQyQmw3MGROYzNDbUtFbFNVSXNGb0xWSHppYWM0cDZQbUNpZGhB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:56:46.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1081,6 +1095,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T07:49:52.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_39152bcda6af0c8e",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Joe Biden - AP News",
+      "snippet": "Joe Biden  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwUThXYXJHUzBGd0cwbFV6UkZPNWVkOHBwRzRTOFdsTkRBNU5ZbEE2TnE2WUZHX3Rid1I2RjdBNnlDN1VTZmc4?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:45:28.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1137,15 +1164,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b69c72f7a3a1c92e",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "New UK-EU treaty has 10-year termination clause, BBC understands",
-      "snippet": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "id": "story_89589d9954768648",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NVIDIA Corp. - AP News",
+      "snippet": "NVIDIA Corp.  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wd3AyNnpFS1pFNUM1ekdqMFhlZVZoMDg4ZTZUQ19fMENFZWM1bk96TDFoOVZpMDRkNkJWN0dOOE8xWFVNdTI0c3ZB?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T07:40:04.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-26T07:39:12.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1159,6 +1186,45 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T07:38:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_25aa1ae7b6e4ec01",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Donald Trump - AP News",
+      "snippet": "Donald Trump  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:36:05.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_94d2e60bc99c64ce",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "snippet": "The brief stoppage came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:34:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_31fbccc6c1712e8d",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Lukoil's global retreat driven by politics, co-founder says - Reuters",
+      "snippet": "Lukoil's global retreat driven by politics, co-founder says  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmNXS0Y1OVU5UjE3ZnlFSUhmT3dIVlhlM1hxS0NLMnExWmxQaGdRQWpPSmlxdEdUdzRfQzBOX3BpRnNEMjhZRnBoc1pzSnhRQTNVamRZM2Jyd3UxbEw5b3lxcDJwMlVZcjhWa0tvcjVWdHFpczRrNG16N0cwUWZqN1BkUmpxZnpfem1UazZuQXNsMDFVWmhHQ0hONjhDVUtyNW5YVzJrQkR4TFpOMGc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:34:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1202,19 +1268,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_c3e20a1de6ffe4ea",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Aid cuts to Taliban-ruled Afghanistan further curb women's access to healthcare, education and food",
-      "snippet": "Having lived and worked in Afghanistan for seven years, photojournalist Élise Blanchard offers an intimate account of what daily life is like for Afghan women today. Joining Genie Godula on the International Day for the Elimination of Viole",
-      "link": "https://www.france24.com/en/aid-cuts-to-taliban-ruled-afghanistan-further-curb-women-s-access-to-healthcare-education-and-food",
-      "imageUrl": "https://s.france24.com/media/display/3e4d0574-e969-11f1-9df4-f9cf020caef6/w:1024/p:16x9/EN-20261125-131050-131748-CS.jpg",
-      "publishedAt": "2026-11-26T07:28:14.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_ac8c749c46024b5b",
       "source": "BBC",
       "sourceColor": "#6A57B8",
@@ -1228,6 +1281,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_81e25172f6bf1ee1",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "United Kingdom - AP News",
+      "snippet": "United Kingdom  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1S1E0YzFJODBqN1ZPb0tyeFlzUW5JVTBXSHZDMjlBUk1CWlFMYzktUk53YTVVREc5MkxNSVFLcC0yc3JHY19QXzVlTFVNdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:19:03.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_75529b48bd64e84b",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1237,19 +1303,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T07:19:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_822abb447524d690",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'Unacceptable': Major economies push back against new US tariffs",
-      "snippet": "China, the European Union and other major trading partners on Thursday criticised new US tariffs of up to 20 percent proposed by US President Donald Trump after a probe into alleged global overcapacity, raising the prospect of fresh trade t",
-      "link": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs",
-      "imageUrl": "https://s.france24.com/media/display/1b38f54e-e968-11f1-b414-81bc2b1dcd65/w:1024/p:16x9/2026-11-25T135439Z-2052634195-RC21VOAE4UVU-RTRMADP-3-USA-TRUMP-TARIFFS.jpg",
-      "publishedAt": "2026-11-26T07:16:41.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1275,6 +1328,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNjRqS1pLa05MSjdXS19SbC1aQXJWSTB2RXZuSGpHajY2SE5DYkdpNEZ5NE85SDZ2ejZWbkkwZ2g1ZzVQUk12Z1FlQ1g5czY5cU1wbFlhYjBlbmkwUjdXdXZwcklwZGp6U24xUHRHNm1SLVhHMktyemxwWnpmcHBFRkJDaGNGNXZjSi1NcjB2cTVBTEpkSEJUbXdpQl9wRTdPdmJibEpjdE5LQ1Y2MXlOSFB1czNXemxGVXloV2tIdWs0UQ?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T07:14:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e164df9200be66d4",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners - AP News",
+      "snippet": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTZhUFowQURIdVh5VjR6VUFXcW5zM0tZdDBDeU5jQXo2Yld4N1pvcjRKVEI2cmdZOTlOQXhBdTVlaFQxczViV3ZCd19NYkdvNjQwUWRyUHJVZkpTdkVsdk1DbmJrN29JMlQxcGVmMHh2c3BudlJ3N0h3R25zTFNadndRZWVrdUFEY1dPSDU4YVJubk5ZVk1YUTlZYk1JdzI4MlZhRUJudw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:08:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1319,27 +1385,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_7f7a1feffeb2a5cc",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "London commuters braced for disruption as tube strike begins",
-      "snippet": "Industrial action by RMT drivers expected to cause severe disruption on Thursday and Friday\nSevere disruption is expected across the London Underground on Thursday and Friday, when many tube drivers will go on strike.\nDrivers who are part o",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
+      "id": "story_cb2b6fc1e6f6dbfe",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Television News Today | TV Shows News - AP News",
+      "snippet": "Television News Today | TV Shows News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaM3ltTGc0OGtJQVRIZ3gyc29qWko4eU5mWDRSemFGM3NreUs1NUZoR1B0NEZKNWs5WEJMZUNob3FYall3TFk1eg?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T06:56:24.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-26T06:56:33.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_e021d0e4ec559bc6",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "EU leaders face showdown over Ukraine funding as divisions deepen",
-      "snippet": "European Union leaders on Thursday are set to tackle deep divisions as they meet in Brussels to discuss the bloc's long-term budget in Brussels, which includes a proposed €45 billion loan to keep Ukraine funded through 2027.",
-      "link": "https://www.france24.com/en/europe/20261126-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
-      "imageUrl": "https://s.france24.com/media/display/981f9684-e43c-11f1-b116-6b451f569414/w:1024/p:16x9/union-europeenne.jpeg",
-      "publishedAt": "2026-11-26T06:56:20.000Z",
+      "id": "story_acaedfcf25bdc422",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "‘Are they all turncoats?’: Barnaby Joyce says voters are turning to One Nation – and Liberals like Blyth can too",
+      "snippet": "South Australian senator Leah Blyth labels One Nation the ‘only party with the bold ideas needed to turn this country around’\n\nFollow our Australia politics live blog for latest updates\n\nGet our daily political email, free app or daily news",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:55:35.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1348,14 +1414,14 @@
       "id": "story_9f220b1cf9e3a6e9",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Kenya government breached constitution in building US-backed Ebola quarantine site, court says - Reuters",
-      "snippet": "Kenya government breached constitution in building US-backed Ebola quarantine site, court says  Reuters",
+      "headline": "Kenya breached constitution in building US-backed Ebola quarantine site, court says - Reuters",
+      "snippet": "Kenya breached constitution in building US-backed Ebola quarantine site, court says  Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDBoRkxJaS1TY2lyN3lEMzhtTU84ZFhWN1RMbWQzai0wWTZUVG05Y2MxTFluQmVycnBfdXVRZWhlSzZTTldvcmVySjd3V0lfX3N5MExFSHo3VTQ5WmZrTzRfT1RTNnZjRHVXYzNhMDlTcUNzdVptSVg3cHpQaEpLcFpHblhFU25hVWYxbFlzY1FNU0ZKbC01NXZ6alNmN2pGWkRmblBVZ3JxajNQb2VXSmRTSGluakI1Y1VuUjlzZGp0d1U1bzY4?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T06:54:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_936733cfe64855c4",
@@ -1366,8 +1432,21 @@
       "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
       "imageUrl": null,
       "publishedAt": "2026-11-26T06:53:09.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_d17fb8af45bfdca9",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
+      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:53:09.000Z",
+      "tier": "major",
+      "topic": "sports",
       "corroboratedCount": 1
     },
     {
@@ -1380,19 +1459,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T06:53:05.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_89589d9954768648",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NVIDIA Corp. - AP News",
-      "snippet": "NVIDIA Corp.  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wd3AyNnpFS1pFNUM1ekdqMFhlZVZoMDg4ZTZUQ19fMENFZWM1bk96TDFoOVZpMDRkNkJWN0dOOE8xWFVNdTI0c3ZB?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:49:50.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1423,14 +1489,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_457e7f40942d6875",
+      "id": "story_c5c4622c9bda83e3",
       "source": "Guardian",
       "sourceColor": "#3E8A65",
-      "headline": "Thursday briefing: Why young people are having less sex than ever",
-      "snippet": "In today’s newsletter: A new study of sexual trends in Britain has found that one in three under-25s have never had sex, a flashy headline that obscures the real reasons behind a ‘sex recession’ among young people\nGood morning. Let’s talk a",
-      "link": "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
+      "headline": "Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’ – as it happened",
+      "snippet": "Get our breaking news email, free app or daily news podcast\n\nPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.\nBlyth is the second high-profile federal defection from the Coalit",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T06:45:01.000Z",
+      "publishedAt": "2026-11-26T06:36:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1457,9 +1523,9 @@
       "link": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
       "imageUrl": null,
       "publishedAt": "2026-11-26T06:34:20.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_442f6b51bc7d9d87",
@@ -1475,14 +1541,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_b4c89f0c3a1869c9",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Iraqi court to sentence 20 French nationals for IS group membership",
-      "snippet": "An Iraqi court is due to issue verdicts on Thursday for 20 French nationals accused of joining the Islamic State, including a suspect linked to the 2016 Nice attack, as Baghdad steps up prosecutions of thousands of alleged jihadists transfe",
-      "link": "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
-      "imageUrl": "https://s.france24.com/media/display/e60ee952-e960-11f1-829c-174dac1c1bf0/w:1024/p:16x9/AP19153526752150.jpg",
-      "publishedAt": "2026-11-26T06:28:48.000Z",
+      "id": "story_8258ff6effe38d57",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
+      "snippet": "The move capped a chaotic 18 hours in which the team announced it was benching the 42-year-old future Hall of Famer for backup Mason Rudolph ahead of Friday's visit from Denver.",
+      "link": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:26:03.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -1495,21 +1561,8 @@
       "snippet": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says  Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T06:28:14.000Z",
+      "publishedAt": "2026-11-26T06:16:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8258ff6effe38d57",
-      "source": "NPR",
-      "sourceColor": "#8D68B8",
-      "headline": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
-      "snippet": "The move capped a chaotic 18 hours in which the team announced it was benching the 42-year-old future Hall of Famer for backup Mason Rudolph ahead of Friday's visit from Denver.",
-      "link": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:26:03.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1566,6 +1619,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_27d0f525dd6c195a",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "snippet": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’\n\nTrump proposing new tariffs on 14 partners including China and EU\n\nBrazil has said it will not bend to the new ",
+      "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:10:56.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_88717c9322867607",
       "source": "Al Jazeera",
       "sourceColor": "#C99A2E",
@@ -1605,32 +1671,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_add321208a3e4ca2",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Timms review puts rare focus on improving benefits system for disabled claimants",
-      "snippet": "The review tackles some big questions about a flawed system – but leaves other issues in the ‘maybe later’ drawer\nStephen Timms would be forgiven for feeling his thunder has been stolen. The minister for social security has spent the last y",
-      "link": "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:00:47.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0a26a99754e79071",
-      "source": "NYT",
-      "sourceColor": "#3E3E3E",
-      "headline": "The Spanish Bulwark of Progressivism May Be Crumbling",
-      "snippet": "The elections this week in Spain may usher in a new era of right wing governance.",
-      "link": "https://www.nytimes.com/2026/11/26/opinion/spain-elections-vox-sanchez.html",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:00:04.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_28bc24488c79f62f",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -1641,14 +1681,14 @@
       "publishedAt": "2026-11-26T06:00:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_2b4499172568b574",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "India's top court tightens food warning labels in new setback for industry - Reuters",
-      "snippet": "India's top court tightens food warning labels in new setback for industry  Reuters",
+      "headline": "Indian court tightens food labelling proposal, asks global food firms to end 'double standards' - Reuters",
+      "snippet": "Indian court tightens food labelling proposal, asks global food firms to end 'double standards'  Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXlHUEdKdndCTE54MEMyVERBWFVsZXQ4TXZYTmN4SVB1TF80bTVUbExoMEZlMWxKdkJJZUVlVHQzczQ3MnJlZGZ1RnZWZjZJbVBiT1pyX3pyc24xY3dtSkRIUTlpUENzNkJiREJDWnBaU2RINVFkQzU1ckU2ckFEMVhfazJXaW02Ykdra2pwSnlwcWJxY0NhRHFhekhxdHFBVHJVQUJGRk1RbmxXbzl4ZWF3?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T05:59:00.000Z",
@@ -1657,28 +1697,28 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_68eb76bd721aa83d",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "'It’s really outrageous': Women face violence in the streets and 'what we see online is even worse'",
-      "snippet": "On International Day for the Elimination of Violence against Women, FRANCE 24's François Picard is pleased to welcome back Choralyne Dumésnil, an attorney practising in Paris and California, to discuss misogyny, sexual violence, cyberbullyi",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20261126-it-s-really-outrageous-women-face-violence-in-the-streets-and-what-we-see-online-is-even-worse",
-      "imageUrl": "https://s.france24.com/media/display/9dd23b16-e91b-11f1-b396-95e072ff0a91/w:1024/p:16x9/EN-20261125-181554-182305-CS.jpg",
-      "publishedAt": "2026-11-26T05:56:15.000Z",
-      "tier": "routine",
+      "id": "story_a1d0cb05b1cd08d9",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+      "snippet": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+      "link": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:58:39.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
-      "id": "story_72182554e9f64016",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
-      "snippet": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
-      "link": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+      "id": "story_b3fce653b865300a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume - AP News",
+      "snippet": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume  AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZi1lalA4QTR1T3RxVkRDblVuYkY3SDBXV3A3bWhpaWJzN29ZT2xEWTR5b1RDMzZWUWRfdldya2R1ZlZiQ2ptLThvVjMxQmpMWUFKeFVEWnhjOGMzVUcyZDVjb3ZYa1o0RjFiYXVQSUFCczNFelNVYjQ2ZzFiOWxUSmlKdFVXWW8?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T05:49:40.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-26T05:53:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1696,17 +1736,43 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_9950813daa3f3887",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "Live: EU leaders face showdown over Ukraine funding as divisions deepen",
-      "snippet": "European Union leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to keep Ukraine funded through 2027, with Germany pressing all 27 member states to contribute and several countries demanding exemptions. Follo",
-      "link": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
-      "imageUrl": "https://s.france24.com/media/display/981f9684-e43c-11f1-b116-6b451f569414/w:1024/p:16x9/union-europeenne.jpeg",
-      "publishedAt": "2026-11-26T05:44:57.000Z",
-      "tier": "routine",
+      "id": "story_2f09f77481181fd8",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever - AP News",
+      "snippet": "Bad weather postpones Macy’s Thanksgiving Day Parade for first time ever  AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR0xRS3NTalh5TmtXemJCMTB1Y1ZJWXEwQ0JnNU5WOEc0clZQdkJseU90dllkcl9tcllmeGR2TFRXQ1lZc1ZYTEVNTzNJNGx5Mi0tRTVOVXlFUldFSGVtcUhyVEczNkVnbTQ4RGRRWnVJUENZYjUyRVI5ZEh3alRTWG01cE1fX3dORVd3RWlsbTdlVU9xaEdIa0hDdnRCbnp2NjFMSjBR?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:43:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
+    },
+    {
+      "id": "story_2d3f5053dee38c15",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding - AP News",
+      "snippet": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnlsWDNmUjJoejRZUkJsYzktZEkxUW9UOEpyaVNfRUVHQWhtcHo4VVdzcVZ3VmE2eDNVNDZ6SXVEenRDdU1aQVlPMUZyWVlHNTNJckNqWkdGRUg0alIxUHVzOGFZdjhkZjhEOThLMmJGNjBUNTlZZTBmMlMxQVJXTzNQTEpTdmdEMnhCaFFYMDA2VGlmdGc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:38:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_f509c4685a6b6905",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Fires - AP News",
+      "snippet": "Fires  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPaVVjajlCY09pVFY5UWFvaUhMUFlhWEZ4ajJ5MkxmZlhUcGpDMUp6dG15Rk92dWlqXzFHV2lLaGp4Zw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:35:49.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
     },
     {
       "id": "story_dd2ea3a525ea0ca8",
@@ -1748,19 +1814,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_995f948e5f07e137",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Italy - AP News",
-      "snippet": "Italy  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Td1hZN3hJaDVpNzlzZWo5M29pUmZ0T0hSazlGbS1rOVhHeVhhTjhsOGdVd1ZZRG03Y3cya3NWb1VIUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T05:25:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
       "id": "story_e972052d7bfca986",
       "source": "NPR",
       "sourceColor": "#8D68B8",
@@ -1782,9 +1835,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-26T05:19:35.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_9a38e3655c5dfd20",
@@ -1809,19 +1862,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-26T05:13:00.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6cd000eb5d493bfb",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Puerto Rico’s Supreme Court cancels major power contract",
-      "snippet": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
-      "link": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T05:09:55.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -1865,14 +1905,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_403cf1cd7f02d1b5",
+      "id": "story_d1058bf017b73d4c",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist - AP News",
-      "snippet": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist  AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblRsZHVhbWJ3c25FMnRldk9pYnJYV3JkT1dZVTNYTnQ2WVRwdkNFN0NwSXFZZlhCbk9KRUtGejdRbEVYQVFjSEJwbjBJRzU3a2lYRVcwVGVXcFV5VWhfZGpNRVpOaHZuSHVKQTdIR3FpTWgtV3BBSG1BaXBELUNXTVExZzhPZXRwVTNNUG0zcTFNVXY1LWc?oc=5",
+      "headline": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women - AP News",
+      "snippet": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0Nmakk0T1hzUXNtYVJMSXZ3Qk0xa2tWTTZ2UkhveE05eVc0b0l1M1dCLTFMdEJBOWRQTzZLYnBsTS1qT0UyalJ3TjN4QVlUZWFydGZZbjdyZUQ5TktBV01KZ2NQVHdKdjBSYzI3Mk5TYk9RRW1Ndlp5djFQeFY1Z3M2c2R2Y3owSVpieTFnX0tTZHU3Vkp2akUxQjdfRklrOFJxMS1zb0Y?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T05:04:00.000Z",
+      "publishedAt": "2026-11-26T05:05:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1891,6 +1931,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_403cf1cd7f02d1b5",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist - AP News",
+      "snippet": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOblRsZHVhbWJ3c25FMnRldk9pYnJYV3JkT1dZVTNYTnQ2WVRwdkNFN0NwSXFZZlhCbk9KRUtGejdRbEVYQVFjSEJwbjBJRzU3a2lYRVcwVGVXcFV5VWhfZGpNRVpOaHZuSHVKQTdIR3FpTWgtV3BBSG1BaXBELUNXTVExZzhPZXRwVTNNUG0zcTFNVXY1LWc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:04:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bd35290dfc34fece",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -1901,7 +1954,7 @@
       "publishedAt": "2026-11-26T05:03:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_452d63b910386ba2",
@@ -1930,14 +1983,27 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_a89c9ce15260d183",
+      "id": "story_60cf6a71f5811e1f",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending - AP News",
-      "snippet": "Necessities join gifts in Black Friday shopping carts as AI and higher costs steer spending  AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2owWWh6dEFmYm4tT1lvMDBDbkI1dS1rZEoydHEzeHA5cjgwei11aWlyNVFya21QU3V5ZG8zTjNpYld2YWNTdVZabWo2cUsxTmZnQUZGTXozSThuaUpPWDIxRXpKQ1pQN3VSQVFWcnVDekFSb3ZFT2I3UF81NS0yOVpPWGw4ZmptMXRLdGthNlhLTjhPR0QwZ0dPYw?oc=5",
+      "headline": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway - AP News",
+      "snippet": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzdiM2ZiMC00N3dLOHRDSFRRUjRJNEtxbkV4TU44dGJfUFdNZ3FvNFJZSVJWWG1ac0JmRlR2T3ZvNjE0ZnIzNkpkc3RuYXYxblU1NGVITDlGUHU0UXNsejhtRmpQSXR1ajduXzFCWllMR3AzM3BrRlp4RUY0dTRIVnIxcE41Z3VNeTEzX0dMd2RNcHRXNVBBOXcxVmQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T05:01:00.000Z",
+      "publishedAt": "2026-11-26T05:02:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_fd0715c737270d74",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "What to know about Taiwan’s local elections and why they matter to China - AP News",
+      "snippet": "What to know about Taiwan’s local elections and why they matter to China  AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkJtZkJkd3k1QWVRN1AyYU9YZUtNWG4wRndpSThLaHVoUUYyLWYySUVRbXlVTFdNVHZZdkFxNkoyOEhJVWJudHI4Y2FzUVA4b1kwclljQi1CVkFuSUxfaDVCSXoxeXF4YklYTXUtckpSWEFkOTdwM18xdjJNWHFHM0dhRHVBXzRsZElucnRjdWRONkJjcGYyeFFsSGE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T05:02:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -1995,55 +2061,29 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_d1058bf017b73d4c",
+      "id": "story_299badd2207a85a7",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women - AP News",
-      "snippet": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0Nmakk0T1hzUXNtYVJMSXZ3Qk0xa2tWTTZ2UkhveE05eVc0b0l1M1dCLTFMdEJBOWRQTzZLYnBsTS1qT0UyalJ3TjN4QVlUZWFydGZZbjdyZUQ5TktBV01KZ2NQVHdKdjBSYzI3Mk5TYk9RRW1Ndlp5djFQeFY1Z3M2c2R2Y3owSVpieTFnX0tTZHU3Vkp2akUxQjdfRklrOFJxMS1zb0Y?oc=5",
+      "headline": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation - AP News",
+      "snippet": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation  AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNampONlhhaElXUjNVTTNBR0VHQklmOWVmN2VqQWRUaElzNDJvdEVQZEFZTkZycDJVNWo4UGpVMjVqQUZtZUgzUWwtc1lGTTFwWFlOYlFBWk5WWGltTndBTnhWb1RtNlBHRUI0Q2Z1QjFfYkFoaERPQXNoUXZSTVJ5OW1YeThvOUQzanVoOUxxNzVjeDlxYXZ5ZkI0bw?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T05:00:00.000Z",
+      "publishedAt": "2026-11-26T04:44:00.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_ac923b06e75d7950",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Six killed, including children, in plane crash off Mississippi coast",
-      "snippet": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
-      "link": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T04:48:42.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_11839d5f522f2dce",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Brazil blasts ‘unacceptable’ new US tariff proposals",
-      "snippet": "President Lula’s office says Brazil will not yield to threats and aims for a negotiated resolution.",
-      "link": "https://www.aljazeera.com/news/2026/11/26/brazil-blasts-unacceptable-new-us-tariff-proposals?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T04:47:47.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_1b7beba5670f9add",
+      "id": "story_614b6aa1a4069b34",
       "source": "AP",
       "sourceColor": "#2A8F89",
-      "headline": "March Madness | 2026 NCAA Tournament - AP News",
-      "snippet": "March Madness | 2026 NCAA Tournament  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ET1V0NzRXSmNVQXdpWVV1MTJsSWN5SVdsdjJXeVl2X3hNUGJ5eTRTQnEtSFM0XzduZXNIWUtDckVZTFpYc0Z1TmFtTzA?oc=5",
+      "headline": "Food & Recipes - AP News",
+      "snippet": "Food & Recipes  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5CZl9JbEJTV0dQR0pycGJkcmRQTW1HZ0ZtZGR5X0hoOUpoYTFRY25LV3NtTTFJM3dZNk5uTlVnZVJGMXpp?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T04:38:31.000Z",
+      "publishedAt": "2026-11-26T04:36:04.000Z",
       "tier": "major",
-      "topic": "sports",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2055,9 +2095,22 @@
       "link": "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-26T04:36:00.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4146e5997a98e97a",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "MLB | Latest News, Stats, and Scores - AP News",
+      "snippet": "MLB | Latest News, Stats, and Scores  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T04:34:27.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
     },
     {
       "id": "story_ff46fc5cef39fccd",
@@ -2070,27 +2123,14 @@
       "publishedAt": "2026-11-26T04:20:00.000Z",
       "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_f1a2745761fcf347",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Racecourse office blown away in Brazil",
-      "snippet": "A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T04:17:31.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_543cf37bbb82c890",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Musk says every child in the US will get two SpaceX shares - Reuters",
-      "snippet": "Musk says every child in the US will get two SpaceX shares  Reuters",
+      "headline": "Musk pledges two SpaceX shares for every American child - Reuters",
+      "snippet": "Musk pledges two SpaceX shares for every American child  Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T04:15:00.000Z",
@@ -2107,19 +2147,19 @@
       "link": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-26T04:12:00.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
-      "id": "story_6dded9cc66e38f2a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
-      "snippet": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court\n\nGet our breaking news email, free app or daily news podcast\n\nTwo days before a teenager killed a young girl while in the gri",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+      "id": "story_7940036035fa9a8e",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "US announces new tariffs on host of countries including China",
+      "snippet": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T04:11:34.000Z",
+      "publishedAt": "2026-11-26T04:10:58.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2128,7 +2168,7 @@
       "id": "story_0ce71b0f71e770be",
       "source": "Sky News",
       "sourceColor": "#8A3E5C",
-      "headline": "Nasdaq teeters on brink of bear market as tech stocks fall further",
+      "headline": "Major US tech index comes close to crashing into a bear market",
       "snippet": "A tech-heavy index on Wall Street briefly teetered into bear market territory on Wednesday - as AI-exposed stocks continue to face heavy sell-offs.",
       "link": "https://news.sky.com/story/nasdaq-100-teeters-on-brink-of-bear-market-as-wall-street-tech-stocks-fall-further-13616624",
       "imageUrl": "https://e3.365dm.com/26/11/1920x1080/skynews-nasdaq-us-stock-market_7416713.jpg?20261126040530",
@@ -2159,9 +2199,35 @@
       "link": "https://www.foxnews.com/media/federal-judge-blocks-fcc-reviewing-abc-station-licenses-early-agency-spat-network",
       "imageUrl": null,
       "publishedAt": "2026-11-26T04:05:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_41f7e3a0fbc8a787",
+      "source": "BBC",
+      "sourceColor": "#6A57B8",
+      "headline": "Macy's postpones Thanksgiving parade due to severe weather",
+      "snippet": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T04:04:14.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_39280483c5983f1f",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "Macy’s Thanksgiving Day Parade postponed by storm, rescheduled for Saturday",
+      "snippet": "A major storm is expected to hit the East Coast on Thursday.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T04:01:20.000Z",
       "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 2
     },
     {
       "id": "story_2ba973ada14063f6",
@@ -2190,32 +2256,6 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_e164df9200be66d4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners - AP News",
-      "snippet": "A Chinese consumer advocate is stranded in South Korea as a crackdown in China targets campaigners  AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTZhUFowQURIdVh5VjR6VUFXcW5zM0tZdDBDeU5jQXo2Yld4N1pvcjRKVEI2cmdZOTlOQXhBdTVlaFQxczViV3ZCd19NYkdvNjQwUWRyUHJVZkpTdkVsdk1DbmJrN29JMlQxcGVmMHh2c3BudlJ3N0h3R25zTFNadndRZWVrdUFEY1dPSDU4YVJubk5ZVk1YUTlZYk1JdzI4MlZhRUJudw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:56:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_27d0f525dd6c195a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-      "snippet": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’\n\nTrump proposing new tariffs on 14 partners including China and EU\n\nBrazil has said it will not bend to the new ",
-      "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:54:24.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
       "id": "story_32463ea9effdbf7c",
       "source": "AP",
       "sourceColor": "#2A8F89",
@@ -2229,6 +2269,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_525e304aa1c39cf0",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Canada - AP News",
+      "snippet": "Canada  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9vQi1sTVJQRVgxYXRkd1Jwcjk3eGN4TFFkODJ1Ry0zN25QTEx3WnhuLUxCNGZEWUFRMHFGelBja05YSmc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T03:44:59.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 2
+    },
+    {
+      "id": "story_410865767d43294c",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+      "snippet": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years.",
+      "link": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T03:42:51.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_11625b86d5c13ffc",
       "source": "The Hill",
       "sourceColor": "#5E7A3E",
@@ -2237,16 +2303,16 @@
       "link": "https://thehill.com/homenews/state-watch/6244382-hochul-declares-thanksgiving-emergency/",
       "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2025/10/AP25294699189281-e1761676662835.jpg?w=900",
       "publishedAt": "2026-11-26T03:40:32.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_5db14b968866fc02",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Gold steadies after hitting over 1-year low; Fed outlook in focus - Reuters",
-      "snippet": "Gold steadies after hitting over 1-year low; Fed outlook in focus  Reuters",
+      "headline": "Gold drifts lower as Fed rate-hike fears loom - Reuters",
+      "snippet": "Gold drifts lower as Fed rate-hike fears loom  Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNWcXJNQVFwUEZ5UjlTc1o0ZFE5NVFYZzA2eTJURHRsMmRMRmc1LTZ1TWszbFYyN05QRHRiQ1VIb1ZxUE9pTUs5WDVya1M0WFJEQ3lCN3J0T3h4bndfa1NyZFB4VFFaby1NWVdRRlFZeGlKdDNnYkRZN0c0eFZQY3VSWS11NW9SbUdndElMZk9oNk1kd0haVWh0Rl9VcTA1MDg1REE1cHZXWk14Umc?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T03:39:00.000Z",
@@ -2268,6 +2334,32 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_88b5dca185f0ff31",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
+      "snippet": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
+      "link": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T03:31:32.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_42e16bc717fbfc04",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Army detonates toxic explosives at Iowa plant despite concerns",
+      "snippet": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+      "link": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T03:30:47.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_da9f6c35d44bc8f3",
       "source": "Wash Examiner",
       "sourceColor": "#6A5A3E",
@@ -2276,32 +2368,6 @@
       "link": "https://www.washingtonexaminer.com/news/justice/4816073/judge-fcc-review-disney-abc-broadcast-licenses/",
       "imageUrl": null,
       "publishedAt": "2026-11-26T03:29:42.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 3
-    },
-    {
-      "id": "story_94d2e60bc99c64ce",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-      "snippet": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
-      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:27:33.000Z",
-      "tier": "developing",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_fb68ac76532b504e",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Colombian president taunts arrested supermarket hostage-takers",
-      "snippet": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:23:24.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2320,56 +2386,17 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_5cec0d1747ac3814",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
-      "snippet": "Dario Amodei's remarks come amid predictions that AI may soon match or surpass human intelligence.",
-      "link": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+      "id": "story_49155e6c4871b0ea",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Maps show where Thanksgiving storms could disrupt holiday",
+      "snippet": "Rain, snow and powerful winds were forecast to impact large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
+      "link": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T03:20:23.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-26T03:19:00.000Z",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_fd0715c737270d74",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "What to know about Taiwan’s local elections and why they matter to China - AP News",
-      "snippet": "What to know about Taiwan’s local elections and why they matter to China  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkJtZkJkd3k1QWVRN1AyYU9YZUtNWG4wRndpSThLaHVoUUYyLWYySUVRbXlVTFdNVHZZdkFxNkoyOEhJVWJudHI4Y2FzUVA4b1kwclljQi1CVkFuSUxfaDVCSXoxeXF4YklYTXUtckpSWEFkOTdwM18xdjJNWHFHM0dhRHVBXzRsZElucnRjdWRONkJjcGYyeFFsSGE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:18:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_1cf41cada2e581d4",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Rams S Kam Kinchens ejected after hard hit on Packers WR Christian Watson - AP News",
-      "snippet": "Rams S Kam Kinchens ejected after hard hit on Packers WR Christian Watson  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbzBfc0QtdlUxRnBTZTlidUpNbVZuZU9yVzJZSXdZcndrNER3bTNXS05GeEZWWTB1Z3hsSTZmWl9zTDZfVE9wZU4xZ1Z3XzVMZlpxTVZLVnMzYlFybXhoVXVlZnNXaklfQ2JRSEN2LV90ck9SMXFwZFhXbmRIcG9nUEZoZmlsQ0hXTXNhZXlHenM5SEV4TkZUcWhSN3hxYVE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:14:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_60cf6a71f5811e1f",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "FedEx aircraft overruns runway at Miami airport, closing all but 1 runway - AP News",
-      "snippet": "FedEx aircraft overruns runway at Miami airport, closing all but 1 runway  AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzdiM2ZiMC00N3dLOHRDSFRRUjRJNEtxbkV4TU44dGJfUFdNZ3FvNFJZSVJWWG1ac0JmRlR2T3ZvNjE0ZnIzNkpkc3RuYXYxblU1NGVITDlGUHU0UXNsejhtRmpQSXR1ajduXzFCWllMR3AzM3BrRlp4RUY0dTRIVnIxcE41Z3VNeTEzX0dMd2RNcHRXNVBBOXcxVmQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:11:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_2c907c668e1d8eff",
@@ -2388,8 +2415,8 @@
       "id": "story_ba80ab454e68591c",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Oil rises on supply concerns as Iran claims mine strikes on ships - Reuters",
-      "snippet": "Oil rises on supply concerns as Iran claims mine strikes on ships  Reuters",
+      "headline": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships - Reuters",
+      "snippet": "Oil prices fall as supply concerns linger after Iran claims mine strikes on ships  Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWHpfX3p2RFoxU2l0SGZVbVdSejdGYkc0NFpERWlxVEtab0pQbGd1NUtqQ3c0cXprdWItUF9fRmVVVElET3BNbklnbElwaC1UZ0xoNnd4dE9Wb2dFVDFGN2JyQ3YyUVhfTWxsNGFWNFNURG5kX1pMdVBtb2QyLXFMaXZPM0ZPdGdud1hWdHFuTEpNQXBtdUh6RmpWcW1jelhTU0JHdmp3dWphb0hB?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T03:08:00.000Z",
@@ -2398,56 +2425,30 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_be58233bab34a670",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Pacific trade bloc, ASEAN meet in Vietnam as Trump fires new tariff salvo - Reuters",
-      "snippet": "Pacific trade bloc, ASEAN meet in Vietnam as Trump fires new tariff salvo  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdTBpdWE3OHFzWWtzUUpIUHNYdzZVNUtiTjg5SVZndWxPQjE5VjUtUXA0Qk9KbmtFTVBIM2tqcUp5djQxczctUUVvcWFUaGFOYTZjNkZqVzNKcm9YbW1RaTdfc1ZjZDZCSnAzODhwUjRQeUV0eXlJRjAzV1pKb3ExS0dtMzRRRmdnUVVzS2lvcUdSeVZ5dmJoX2NYWnpfczZJN05LcW5ldlFZNEp0SjVqWU1UQkJ0dExPUjFN?oc=5",
+      "id": "story_5a563d737319936c",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Pete Hegseth - AP News",
+      "snippet": "Pete Hegseth  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92Q0x3aDFuUlBUTDE0cWtQUzZhUzVNemxPLXU1WlNjbk15RnEyek5tUTFKY0tzZGVMRVNSYmhENTFTRG9xd2pHQUJNNA?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T03:06:00.000Z",
+      "publishedAt": "2026-11-26T03:04:48.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
     {
-      "id": "story_3d9705e3f8b87afb",
-      "source": "France24",
-      "sourceColor": "#3E5C8A",
-      "headline": "US authorizes SpaceX to launch up to one million satellites for orbital data centers",
-      "snippet": "The US Federal Communications Commission has approved SpaceX's plan to deploy up to one million satellites to build data centers in orbit, giving Elon Musk's company a major foothold in the industry. The authorization runs through 2040, as ",
-      "link": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers",
-      "imageUrl": "https://s.france24.com/media/display/c24be946-bb40-11f1-b551-852b23529bb9/w:1024/p:16x9/2026-09-28T131913Z-1185617274-RC2CSNAEMW2N-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
-      "publishedAt": "2026-11-26T03:02:37.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_01d1960e5891c759",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " Judge blocks latest Trump effort to restrict birthright citizenship",
-      "snippet": "Judge granted request for a preliminary injunction blocking the executive order.",
-      "link": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919",
+      "id": "story_6fa5f2ed0445b689",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "NATO - AP News",
+      "snippet": "NATO  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBMeTlNQ0tzcGhkZ1VsSmlwOXVCTWpZMFhfN2QzU0pNLURZNUpWN1pXdzkyTGFIRGRVc05CNmJEN18?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T03:01:44.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-26T03:04:45.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b5e545dcb65257d5",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "FIFA turns to influencers to promote U17 World Cup",
-      "snippet": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:00:51.000Z",
-      "tier": "routine",
-      "topic": "sports",
-      "corroboratedCount": 1
+      "corroboratedCount": 2
     },
     {
       "id": "story_1866dee8bf471acc",
@@ -2463,41 +2464,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_246d0ada1faffb93",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUk0NXlPQ01pWDU5Rmh3SVNJYW5PS3U1aDMyQkx2VGVVcTcyRkF6SFNrVFdJb1hUVlh5ejJPTm5WY3laLTVyTUtJS0NqRk5Ddk1GMjY3eHBPd1hUVHpxUTdiQ0I0YmJkVFUySk5ocV9OUTFOcVd0MGdUN09vSk9CMjI1LTRHM0NzY2xIMENUYUpUM2VCX0Vmd3RqTGR4dlBQZEhxMVIwUQ?oc=5",
+      "id": "story_6c2d7ac13e92bac5",
+      "source": "CBS News",
+      "sourceColor": "#4A6FA5",
+      "headline": "Judge temporarily blocks FCC from reviewing ABC's licenses",
+      "snippet": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
+      "link": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T02:59:59.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_e52ddf2693c093e2",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXJRRUZralpOZ1gtR3FueDFIVW9FaG11M0JMcVV3STZQODRVYm16aGctYWNDaDNDcXd1a01nSlJLQ01ab3MwdF9WUnJ5ZTBQUTkwaDVOeEt0cTZ3MF94TlNDeTFQZlZsdnQ2aEtMMERkRFVnNXpUZm13SnFVbHBndFBxT2hRSkExcVI3TDFlMjlfX3gyUlItcTBSUVdSQkJ0dWtZYU5WOA?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T02:59:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_e67f280b332364e2",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal - Reuters",
-      "snippet": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T02:58:19.000Z",
-      "tier": "major",
+      "publishedAt": "2026-11-26T03:00:27.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2515,17 +2490,30 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_6c2d7ac13e92bac5",
-      "source": "CBS News",
-      "sourceColor": "#4A6FA5",
-      "headline": "Judge temporarily blocks FCC from reviewing ABC's licenses",
-      "snippet": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
-      "link": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
+      "id": "story_46c47c675cfd0d1b",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda - AP News",
+      "snippet": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda  AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmpQSWtaNjFJVjlEdmpTam82US1hNEZqaGI1VmY0MU1PVmQ2RGRhV3F5VmlzNTVocXlUTklodHBZellLMm9QeUNEYkdQTEMxVWhYM01KZ0N4N2ZMLUpmNGZzRkJaN3RCTmV3SHlYV3c1WmlCeXdqZC14S2YtS25VaWViVlNCc0R1V2VZVy1MbHVRRmx0N0Jv?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T02:53:50.000Z",
-      "tier": "developing",
+      "publishedAt": "2026-11-26T02:55:00.000Z",
+      "tier": "major",
       "topic": "news",
-      "corroboratedCount": 3
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_eee1bc3916ce5b30",
+      "source": "Washington Post",
+      "sourceColor": "#5A3E3E",
+      "headline": "See how the Army detonated tons of lead explosives in Iowa",
+      "snippet": "A look at the ammunition storage bunkers and what the Army did to limit lead fallout.",
+      "link": "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T02:52:52.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
     },
     {
       "id": "story_619d3fe5594add3a",
@@ -2549,9 +2537,9 @@
       "link": "https://www.foxnews.com/us/fedex-cargo-jet-overshoots-runway-miami-international-airport-stops-just-short-busy-road",
       "imageUrl": null,
       "publishedAt": "2026-11-26T02:46:04.000Z",
-      "tier": "developing",
+      "tier": "routine",
       "topic": "news",
-      "corroboratedCount": 2
+      "corroboratedCount": 1
     },
     {
       "id": "story_555f52168722e4ea",
@@ -2562,21 +2550,21 @@
       "link": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
       "imageUrl": null,
       "publishedAt": "2026-11-26T02:45:29.000Z",
-      "tier": "routine",
+      "tier": "developing",
       "topic": "news",
-      "corroboratedCount": 1
+      "corroboratedCount": 3
     },
     {
-      "id": "story_d17fb8af45bfdca9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "NHL Scores, News & Stats | Latest NHL News - AP News",
-      "snippet": "NHL Scores, News & Stats | Latest NHL News  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5",
+      "id": "story_b2c4d163bc0be1c4",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Veruschka, One of the World’s First Supermodels, Has Died",
+      "snippet": "She rocketed to fame in Vogue and other magazines during the Swinging Sixties and had a memorable cameo in Antonioni’s hit film “Blow-Up.” She was 87.",
+      "link": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T02:44:25.000Z",
-      "tier": "major",
-      "topic": "sports",
+      "publishedAt": "2026-11-26T02:45:27.000Z",
+      "tier": "routine",
+      "topic": "news",
       "corroboratedCount": 1
     },
     {
@@ -2593,15 +2581,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_654363e78bcb0adb",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "USC suspends entire marching band from UCLA game over crude sign prank on Bruins campus",
-      "snippet": "The USC Trojan Marching Band is barred from the Rose Bowl rivalry game after students allegedly vandalized UCLA's Wasserman Football Center sign overnight.",
-      "link": "https://www.foxnews.com/outkick-sports/usc-suspends-marching-band-ucla-game-crude-sign-prank-bruins-campus",
+      "id": "story_72b5aec8d6406847",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture - AP News",
+      "snippet": "North Korea’s Kim vows to build more nuclear weapons after ignoring Trump’s overture  AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjR1N2UyTm5TeG50ZVdtSHRYd1NuZ2lfeWxNQWluM182WUtVUHpGbGRSN05QdkQ2Ti00ZUZzeFFxTE9yMU1SbEVYMlM5RHRicmtoT1R2QTlJUjQ5VFp3Y0RwQmFGRzJpd3lYWmUzUjBFQThMTkhYbGs1TnZSTEF3RnotdE5QVWhaaG54dm9UYW0xQUNJeTg1YXRHZ1JvQQ?oc=5",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T02:41:31.000Z",
-      "tier": "routine",
+      "publishedAt": "2026-11-26T02:43:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2622,8 +2610,8 @@
       "id": "story_ad94e3c0e9133a03",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Indian shares open higher on strong foreign flows; US tariffs in focus - Reuters",
-      "snippet": "Indian shares open higher on strong foreign flows; US tariffs in focus  Reuters",
+      "headline": "Indian shares inch higher as markets on track for best month in over six years - Reuters",
+      "snippet": "Indian shares inch higher as markets on track for best month in over six years  Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1dVNjE1VmF6TUZ4WkxrMEg4SFJFZE1uOEVGV0xHUi14S2U4M1hPUjFCQlhRNVNORkRaODZmUEl6YzFPNFRIMWNxNDFDUGQyeWFnSnA3SGIzX3NMakcyWE44ZlJmN0pJNFZVSy1idThrNk5FTnJQeUtKMHVKN2VvQkpKR1pTWWJFNHExRUhiRndROVlLUXRWWTVGaFhGUFVIN2NsLTI1akRuNEgzNjkwWll5STlpQ3c?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T02:41:00.000Z",
@@ -2632,11 +2620,24 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_45c874ef0f724aed",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Pakistan - AP News",
+      "snippet": "Pakistan  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02TXFaNnp3NUxYdzNVamtWZlk3Y05uQng1ZHZDYldaTno1enBqY0hVN18zZ3BtUGx1LWhaU3NiSnByRGZVZEE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T02:37:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
       "id": "story_4a82856e1c512b93",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
-      "headline": "Indonesian rescuers resume search for 13 people trapped inside illegal mine after 13 confirmed dead - Reuters",
-      "snippet": "Indonesian rescuers resume search for 13 people trapped inside illegal mine after 13 confirmed dead  Reuters",
+      "headline": "Heavy rain hampers Indonesian rescue of 13 people trapped inside illegal mine, agency says - Reuters",
+      "snippet": "Heavy rain hampers Indonesian rescue of 13 people trapped inside illegal mine, agency says  Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLW1ZVElueVNoRkw0NVNoNUFNV0VsMHpqamI1Q2NjWEE2UHFLd1hMa09hNlhVTHA5d3UzNXhFVzBwMzhJY1I3VC00REw1R3AwckhtSmZLV2NYYXBHZWNLX2REQnFHdWZJS0s0a0Vtek9PeUtfVVNmN1VHNzVLTU1LbzBvcUhPNWVDVTV3UUVwbFZYQ1JIZU5XNFZhVVZhOHdVRjl5NWdfamhlSmp6NnRKV2ZxdHBZaEFyRUZSalNuNzBQbXpUeG5GVEJ2eGtRajhK?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-26T02:37:00.000Z",
@@ -2645,14 +2646,14 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_3b9953572b833136",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
-      "snippet": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold \nA Victorian Coalition government would privatise two sewage plants and sell off state-owned land, re",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+      "id": "story_ea89c638211fc419",
+      "source": "NYT",
+      "sourceColor": "#3E3E3E",
+      "headline": "Veruschka Was a Supermodel Before the Term Was Invented",
+      "snippet": "Her look made her a celebrity before models were known as celebrities.",
+      "link": "https://www.nytimes.com/2026/11/25/style/veruschka-supermodel-obituary.html",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T02:35:09.000Z",
+      "publishedAt": "2026-11-26T02:36:37.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2684,15 +2685,15 @@
       "corroboratedCount": 1
     },
     {
-      "id": "story_ef4b7c7915eb3aa9",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": " - AP News",
-      "snippet": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcmZrWVZ0dkV4V0ZnYVpnVFlQQXdJR2JPaE5aM0lnY3poWE1GOXNDWktJVzc0WHZjd0kwdEVKS29sR2NHUkdrVkI4amJMTTEzQmdRYTNmOHItQWRVdjlERkNjVWQ3NXlwcVA1MHppSHA4RWFKaHU3blR2bXlFclQtaDdBTU8zS3Z4aTNaNmJxVllXaEQ3TUJtSFV6bEFQdlBCTEFsU3lJUQ?oc=5",
+      "id": "story_01f779c381afdeba",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
+      "snippet": "Israeli Prime Minister Benjamin Netanyahu declared his corruption trial \"fell apart\" as judges urged prosecutors to rethink the bribery and fraud cases.",
+      "link": "https://www.foxnews.com/world/netanyahu-declares-corruption-trial-fallen-apart-judges-question-key-charges",
       "imageUrl": null,
-      "publishedAt": "2026-11-26T02:28:36.000Z",
-      "tier": "major",
+      "publishedAt": "2026-11-26T02:26:48.000Z",
+      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
