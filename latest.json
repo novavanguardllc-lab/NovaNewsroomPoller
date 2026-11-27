@@ -1,101 +1,114 @@
 {
-  "updatedAt": "2026-11-27T09:45:08.248Z",
+  "updatedAt": "2026-11-27T09:50:08.820Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.396Z"
+      "lastSuccess": "2026-11-27T09:50:08.877Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.711Z"
+      "lastSuccess": "2026-11-27T09:50:09.184Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.301Z"
+      "lastSuccess": "2026-11-27T09:50:08.922Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.370Z"
+      "lastSuccess": "2026-11-27T09:50:08.960Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.381Z"
+      "lastSuccess": "2026-11-27T09:50:08.943Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.386Z"
+      "lastSuccess": "2026-11-27T09:50:08.973Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.373Z"
+      "lastSuccess": "2026-11-27T09:50:08.967Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.416Z"
+      "lastSuccess": "2026-11-27T09:50:08.992Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.375Z"
+      "lastSuccess": "2026-11-27T09:50:08.924Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.361Z"
+      "lastSuccess": "2026-11-27T09:50:08.952Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.354Z"
+      "lastSuccess": "2026-11-27T09:50:08.947Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.359Z"
+      "lastSuccess": "2026-11-27T09:50:08.962Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.475Z"
+      "lastSuccess": "2026-11-27T09:50:09.008Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.297Z"
+      "lastSuccess": "2026-11-27T09:50:08.920Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.364Z"
+      "lastSuccess": "2026-11-27T09:50:08.955Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.399Z"
+      "lastSuccess": "2026-11-27T09:50:08.995Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T09:45:08.452Z"
+      "lastErrorAt": "2026-11-27T09:50:09.047Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.383Z"
+      "lastSuccess": "2026-11-27T09:50:08.975Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.456Z"
+      "lastSuccess": "2026-11-27T09:50:09.054Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.496Z"
+      "lastSuccess": "2026-11-27T09:50:09.115Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.450Z"
+      "lastSuccess": "2026-11-27T09:50:09.042Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:10.254Z"
+      "lastSuccess": "2026-11-27T09:50:09.109Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:45:08.658Z"
+      "lastSuccess": "2026-11-27T09:50:09.164Z"
     }
   },
   "items": [
+    {
+      "id": "story_1e735d8fc85a474b",
+      "source": "NPR",
+      "sourceColor": "#8D68B8",
+      "headline": "Morning news brief",
+      "snippet": "Thanksgiving storm pummels the East Coast, Americans expected to spend record amount on Black Friday, Israeli rival factions consider deals in race to form a new government.",
+      "link": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T09:47:08.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 10
+    },
     {
       "id": "story_88e6a915ef87430c",
       "source": "France24",
@@ -2682,19 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 4
-    },
-    {
-      "id": "story_a5d81d8ed670113e",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Nevada - AP News",
-      "snippet": "Nevada  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5wVVFia2pKcU15MFRWOGR2ZXgyVko2WWxDUTUxaTI4aVlNWWFjdDBjdGhDaGhjSUJCXzFfdkkwdmhuNlE?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T00:42:40.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
