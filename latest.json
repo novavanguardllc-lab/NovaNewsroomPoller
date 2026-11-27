@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-27T16:35:07.234Z",
+  "updatedAt": "2026-11-27T16:40:08.948Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.276Z"
+      "lastSuccess": "2026-11-27T16:40:08.990Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.341Z"
+      "lastSuccess": "2026-11-27T16:40:09.012Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.405Z"
+      "lastSuccess": "2026-11-27T16:40:09.001Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.314Z"
+      "lastSuccess": "2026-11-27T16:40:09.393Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.300Z"
+      "lastSuccess": "2026-11-27T16:40:09.418Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.538Z"
+      "lastSuccess": "2026-11-27T16:40:08.994Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.329Z"
+      "lastSuccess": "2026-11-27T16:40:09.077Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.352Z"
+      "lastSuccess": "2026-11-27T16:40:09.016Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.409Z"
+      "lastSuccess": "2026-11-27T16:40:09.065Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.346Z"
+      "lastSuccess": "2026-11-27T16:40:09.044Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.354Z"
+      "lastSuccess": "2026-11-27T16:40:09.089Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.360Z"
+      "lastSuccess": "2026-11-27T16:40:09.199Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.396Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-27T16:40:09.053Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.392Z"
+      "lastSuccess": "2026-11-27T16:40:09.037Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.412Z"
+      "lastSuccess": "2026-11-27T16:40:09.151Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.421Z"
+      "lastSuccess": "2026-11-27T16:40:09.074Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.423Z"
+      "lastSuccess": "2026-11-27T16:40:09.108Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T16:35:07.428Z"
+      "lastErrorAt": "2026-11-27T16:40:09.112Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.493Z"
+      "lastSuccess": "2026-11-27T16:40:09.062Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.376Z"
+      "lastSuccess": "2026-11-27T16:40:09.087Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.470Z"
+      "lastSuccess": "2026-11-27T16:40:09.190Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.696Z"
+      "lastSuccess": "2026-11-27T16:40:09.195Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T16:35:07.600Z"
+      "lastSuccess": "2026-11-27T16:40:09.229Z"
     }
   },
   "items": [
@@ -118,6 +119,19 @@
       "link": "https://www.washingtonexaminer.com/news/4816469/storms-continue-thanksgiving-week-flooding/",
       "imageUrl": null,
       "publishedAt": "2026-11-27T16:34:10.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_b49358eefd93a06b",
+      "source": "Fox News",
+      "sourceColor": "#B4453F",
+      "headline": "Murdered college student's parents fume over accused killer's request for 'special pillow' in jail",
+      "snippet": "Sheridan Gorman's parents blast the accused killer's jail request for a special pillow, as Venezuelan illegal immigrant faces murder charges in Chicago.",
+      "link": "https://www.foxnews.com/us/murdered-college-student-parents-fume-accused-killer-request-special-pillow-jail",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T16:28:11.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2680,19 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T12:00:50.000Z",
       "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_0cb348757302608e",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "Thanksgiving scraps reinvented by top chefs for delicious, easy-to-make meals",
-      "snippet": "Turkey pot pie and a turkey potato hash lead a slew of creative Thanksgiving leftovers recipes, from hearty turkey soup to crispy croquettes.",
-      "link": "https://www.foxnews.com/food-drink/thanksgiving-scraps-reinvented-top-chefs-delicious-easy-to-make-meals",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T12:00:41.000Z",
-      "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
     }
