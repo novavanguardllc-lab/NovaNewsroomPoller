@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-27T17:55:06.654Z",
+  "updatedAt": "2026-11-27T18:00:15.551Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.703Z"
+      "lastSuccess": "2026-11-27T18:00:15.587Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.736Z"
+      "lastSuccess": "2026-11-27T18:00:15.600Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.835Z"
+      "lastSuccess": "2026-11-27T18:00:15.616Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.773Z"
+      "lastSuccess": "2026-11-27T18:00:15.636Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.719Z"
+      "lastSuccess": "2026-11-27T18:00:15.627Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.827Z"
+      "lastSuccess": "2026-11-27T18:00:15.601Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.854Z"
+      "lastSuccess": "2026-11-27T18:00:15.711Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.838Z"
+      "lastSuccess": "2026-11-27T18:00:15.667Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.753Z"
+      "lastSuccess": "2026-11-27T18:00:15.644Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.842Z"
+      "lastSuccess": "2026-11-27T18:00:15.673Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.750Z"
+      "lastSuccess": "2026-11-27T18:00:15.619Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.848Z"
+      "lastSuccess": "2026-11-27T18:00:15.650Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.995Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-27T18:00:15.641Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.869Z"
+      "lastSuccess": "2026-11-27T18:00:15.707Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.873Z"
+      "lastSuccess": "2026-11-27T18:00:15.757Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.879Z"
+      "lastSuccess": "2026-11-27T18:00:15.719Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.917Z"
+      "lastSuccess": "2026-11-27T18:00:15.722Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T17:55:06.880Z"
+      "lastErrorAt": "2026-11-27T18:00:15.763Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.886Z"
+      "lastSuccess": "2026-11-27T18:00:15.762Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.799Z"
+      "lastSuccess": "2026-11-27T18:00:15.753Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:07.035Z"
+      "lastSuccess": "2026-11-27T18:00:15.806Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.971Z"
+      "lastSuccess": "2026-11-27T18:00:15.972Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T17:55:06.991Z"
+      "lastSuccess": "2026-11-27T18:00:15.917Z"
     }
   },
   "items": [
@@ -444,6 +445,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T16:53:00.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_03cca8c280529720",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "2026 California Proposition 40 Election Live Results - AP News",
+      "snippet": "2026 California Proposition 40 Election Live Results  AP News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEJZZUk2dUlPbXRtZGxoQVdhZlBuTzMwYmZRamNvU0hLWFd6Z3k0eUtvRTBYWFU1RDVjU2dBNHdYS240T0p4MjZnNXNVSmNjNmVCS2wzQkw2MjBUMGNfSWU3aDZlUHN0cGhXSVpqM2doRTVLMUdpdkV5WlRvSEZ0M05OVQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T16:52:37.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2682,19 +2696,6 @@
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
-    },
-    {
-      "id": "story_3e6739becc067037",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump backs Iraqi leader's efforts to assert more state authority - Reuters",
-      "snippet": "Trump backs Iraqi leader's efforts to assert more state authority  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE9aRmVNN0dTb3V4aExjamVrY0F0X3hVb3g5ZWZZY1B1bVNzb2wwQkFXdi1ka3d2RFk1M1FDVGdUSXkwLTlRU3p0Q0RsRHM4cUsxcm5JOVFUN1U5bF9hYWtBVzZRYmhSVHEyaW8tZExhLVhfZmhZWHRXZzRTTXlONm9wTjRwNkxfY2MxVjZUUExpTGdqMU1jSDVxNXRNclIxa1hsRXcxTzhycGcxbW9vRDV0czJ4dw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T13:11:44.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
     }
   ]
 }
