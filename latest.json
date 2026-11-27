@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-27T10:20:08.999Z",
+  "updatedAt": "2026-11-27T10:25:06.244Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.076Z"
+      "lastSuccess": "2026-11-27T10:25:06.304Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.469Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-27T10:25:06.729Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.065Z"
+      "lastSuccess": "2026-11-27T10:25:06.280Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.105Z"
+      "lastSuccess": "2026-11-27T10:25:06.309Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.119Z"
+      "lastSuccess": "2026-11-27T10:25:06.324Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.143Z"
+      "lastSuccess": "2026-11-27T10:25:06.334Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.156Z"
+      "lastSuccess": "2026-11-27T10:25:06.327Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.190Z"
+      "lastSuccess": "2026-11-27T10:25:06.349Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.198Z"
+      "lastSuccess": "2026-11-27T10:25:06.353Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.098Z"
+      "lastSuccess": "2026-11-27T10:25:06.374Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.193Z"
+      "lastSuccess": "2026-11-27T10:25:06.365Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.097Z"
+      "lastSuccess": "2026-11-27T10:25:06.329Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.212Z"
+      "lastSuccess": "2026-11-27T10:25:06.398Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.061Z"
+      "lastSuccess": "2026-11-27T10:25:06.292Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.215Z"
+      "lastSuccess": "2026-11-27T10:25:06.376Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.226Z"
+      "lastSuccess": "2026-11-27T10:25:06.381Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T10:20:09.218Z"
+      "lastErrorAt": "2026-11-27T10:25:06.401Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.199Z"
+      "lastSuccess": "2026-11-27T10:25:06.503Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.222Z"
+      "lastSuccess": "2026-11-27T10:25:06.419Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.293Z"
+      "lastSuccess": "2026-11-27T10:25:06.545Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.262Z"
+      "lastSuccess": "2026-11-27T10:25:06.481Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.303Z"
+      "lastSuccess": "2026-11-27T10:25:08.140Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T10:20:09.448Z"
+      "lastSuccess": "2026-11-27T10:25:06.318Z"
     }
   },
   "items": [
+    {
+      "id": "story_c877411ed27526d9",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+      "snippet": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly\nThe government is to back legislation aimed at preventing wealthy and powerful individuals using the courts to silence critics ",
+      "link": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T10:14:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_4103f055433dddca",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Home Depot’s Black Friday sale has already started: 18+ deals you can shop now",
+      "snippet": "Home Depot’s Black Friday sale includes deals on power tools, holiday decorations, appliances, storage and more. Find discounts on brands like Milwaukee, Ring and LG.",
+      "link": "https://www.nbcnews.com/select/shopping/home-depot-black-friday-sale-2026-rcna611447",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T10:10:03.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_7423d11bf8f21dd3",
       "source": "DW",
@@ -118,6 +145,19 @@
       "link": "https://www.washingtonexaminer.com/premium/4813384/actor-stacy-keach-obituary/",
       "imageUrl": null,
       "publishedAt": "2026-11-27T10:05:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_c8e08cb777df9ef2",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "These editor-loved Ugg booties are at their lowest price ever for Black Friday",
+      "snippet": "The Ugg Classic Micro boots, loved by our editors, are at their lowest price ever for Black Friday. Snag the deal now.",
+      "link": "https://www.nbcnews.com/select/shopping/ugg-mini-boots-black-friday-deal-2026-rcna610911",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T10:03:55.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -782,6 +822,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T08:39:50.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_39b3820677c47f4c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Spain election: what the main parties are proposing - Reuters",
+      "snippet": "Spain election: what the main parties are proposing  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWRyM0NQRDdFNTJsMVZKTzVoMEd3UXpzOWZQYjZSejZXc29xbVA3emVPcC1XV0lSMnRXWWhObmJ6cDJrMTdzV005ZVJlT3Z2UGJLWTBNeDE1T0hsOUtXNkp4T3VtV0VJeE83SkFUTjZlTkxRYUI5NTNPdTVsek5RNWdaSXM0Q3FCM1JRM2x1UlhaSzk0bWxkWFdHdw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T08:39:43.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2640,58 +2693,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-27T01:45:30.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_656a441bf1487ebf",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Trump says the US has ‘close to 50%’ of world’s oil",
-      "snippet": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T01:44:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_7dd74dcc94e969b2",
-      "source": "Fox News",
-      "sourceColor": "#B4453F",
-      "headline": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
-      "snippet": "Turning Point USA's student program is mourning Hunter Stokes, 16, who led its Fort Myers chapter, after the Cessna 210 he rode in crashed off Horn Island, Mississippi.",
-      "link": "https://www.foxnews.com/us/tpusa-mourns-florida-high-school-chapter-president-killed-family-devastating-plane-crash",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T01:42:11.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_da0ee2bb9387cfb4",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "New Zealand election: final results show ruling coalition needs minor party to govern",
-      "snippet": "Incumbent prime minister Christopher Luxon needs support of Opportunity party to remain in power or country faces another election\nThe final results of New Zealand’s general election show the incumbent rightwing coalition will need the supp",
-      "link": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T01:41:50.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_d54dbc7e09178c9a",
-      "source": "The Hill",
-      "sourceColor": "#5E7A3E",
-      "headline": "Trump: Iran war will be over ‘sort of whenever I want it to be’",
-      "snippet": "President Trump said the Iran war would be over “sort of whenever I want it to be” as the conflict nears its ninth month and pushback against it grows.  The president called soldiers at Mar-a-Lago on Thursday alongside first lady Melania Tr",
-      "link": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/",
-      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26328698501477-e1795706481395.jpg?w=900",
-      "publishedAt": "2026-11-27T01:41:40.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
