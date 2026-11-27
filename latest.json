@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-27T09:10:09.103Z",
+  "updatedAt": "2026-11-27T09:15:08.510Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.213Z"
+      "lastSuccess": "2026-11-27T09:15:08.707Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.329Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-27T09:15:08.773Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.219Z"
+      "lastSuccess": "2026-11-27T09:15:08.628Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.370Z"
+      "lastSuccess": "2026-11-27T09:15:08.674Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.306Z"
+      "lastSuccess": "2026-11-27T09:15:08.717Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.250Z"
+      "lastSuccess": "2026-11-27T09:15:08.812Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.381Z"
+      "lastSuccess": "2026-11-27T09:15:08.816Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.408Z"
+      "lastSuccess": "2026-11-27T09:15:08.751Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.309Z"
+      "lastSuccess": "2026-11-27T09:15:08.632Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.352Z"
+      "lastSuccess": "2026-11-27T09:15:08.791Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.389Z"
+      "lastSuccess": "2026-11-27T09:15:08.789Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.383Z"
+      "lastSuccess": "2026-11-27T09:15:08.837Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.431Z"
+      "lastSuccess": "2026-11-27T09:15:08.856Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.277Z"
+      "lastSuccess": "2026-11-27T09:15:08.611Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.355Z"
+      "lastSuccess": "2026-11-27T09:15:08.828Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.377Z"
+      "lastSuccess": "2026-11-27T09:15:08.845Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T09:10:09.414Z"
+      "lastErrorAt": "2026-11-27T09:15:08.861Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.412Z"
+      "lastSuccess": "2026-11-27T09:15:08.878Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.440Z"
+      "lastSuccess": "2026-11-27T09:15:08.868Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.550Z"
+      "lastSuccess": "2026-11-27T09:15:09.010Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.544Z"
+      "lastSuccess": "2026-11-27T09:15:08.938Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.478Z"
+      "lastSuccess": "2026-11-27T09:15:08.979Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T09:10:09.296Z"
+      "lastSuccess": "2026-11-27T09:15:08.968Z"
     }
   },
   "items": [
@@ -613,6 +614,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T07:45:26.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_13276cb9fc4aed99",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Norse Atlantic lessors demand jets back as airline seeks urgent funding - Reuters",
+      "snippet": "Norse Atlantic lessors demand jets back as airline seeks urgent funding  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFZ5amdzZG00RTRadGk1NlNDb0JFeTNseGJid3dwNWtNTFBvaVQ1LVdnSUs1Rkk3Uy1tTlNDVVBmMkRkV1QxU3lGcHR2ZzU0bG9PMlM4OXphZHpVVVBXNS14WnRNX2xsWEZrSXV4TjRHUlZFWUlEYldEY1NFZlRqa2xjNUE2T0l5cWJ3MTU4aGo3Qk91WVcwdHdtZWdkTEZ2bWdnUGxrVHdOYmZ4ZDVMOGtWc2U5S2ZuM1FjRQ?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T07:39:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2528,6 +2542,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8cf786cb57d2901c",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Japan Tobacco shares surge on talk it may acquire part of Imperial - Reuters",
+      "snippet": "Japan Tobacco shares surge on talk it may acquire part of Imperial  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSm1oeUhYUWItMFM0aFNieVpQSFV6Q29IX0tvWFJyOVk0c1FPNTdvLUZueEtBRGozWThaMHdqbWxlVjNQNHNzMk1NcFZqSDZjcDFueGlybVA3RkJTQWxLVERHalU3Nzl4ZnF0cm8tQk9FeDV6N3pfd3hjeWliZkNJZmNMZGNaVTF3MFNUdjQxeXFZOFQ3TGdRX1k3WTlBTkVa?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T00:40:00.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_03ecb57d2e4596df",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -2667,32 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T00:27:05.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_45872f34eefae125",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered - Reuters",
-      "snippet": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T00:25:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_ebe5161bb2f42101",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Chicago Bears - AP News",
-      "snippet": "Chicago Bears  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TQXJ4TXBndldXTnVpTmdqWmpING5za3hxNEZkMWZ0RDZ5QVF0cko4djRUaEhvRmlYQzRkSl9CUVo2djNPMDQ5a0RPSjc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T00:20:24.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
