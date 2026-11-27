@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-27T15:30:13.677Z",
+  "updatedAt": "2026-11-27T15:35:06.157Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.716Z"
+      "lastSuccess": "2026-11-27T15:35:06.277Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.759Z"
+      "lastSuccess": "2026-11-27T15:35:06.320Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.820Z"
+      "lastSuccess": "2026-11-27T15:35:06.339Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.738Z"
+      "lastSuccess": "2026-11-27T15:35:06.355Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.768Z"
+      "lastSuccess": "2026-11-27T15:35:06.573Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.822Z"
+      "lastSuccess": "2026-11-27T15:35:06.219Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.854Z"
+      "lastSuccess": "2026-11-27T15:35:06.359Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.830Z"
+      "lastSuccess": "2026-11-27T15:35:06.293Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.788Z"
+      "lastSuccess": "2026-11-27T15:35:06.401Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.785Z"
+      "lastSuccess": "2026-11-27T15:35:06.398Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.790Z"
+      "lastSuccess": "2026-11-27T15:35:06.377Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.858Z"
+      "lastSuccess": "2026-11-27T15:35:06.384Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.825Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-27T15:35:06.394Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.847Z"
+      "lastSuccess": "2026-11-27T15:35:06.475Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.865Z"
+      "lastSuccess": "2026-11-27T15:35:06.422Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.850Z"
+      "lastSuccess": "2026-11-27T15:35:06.419Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:14.545Z"
+      "lastSuccess": "2026-11-27T15:35:06.478Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T15:30:13.862Z"
+      "lastErrorAt": "2026-11-27T15:35:06.516Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.912Z"
+      "lastSuccess": "2026-11-27T15:35:06.502Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.801Z"
+      "lastSuccess": "2026-11-27T15:35:06.514Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.900Z"
+      "lastSuccess": "2026-11-27T15:35:06.619Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:13.953Z"
+      "lastSuccess": "2026-11-27T15:35:06.542Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T15:30:14.019Z"
+      "lastSuccess": "2026-11-27T15:35:06.558Z"
     }
   },
   "items": [
@@ -105,6 +106,45 @@
       "link": "https://www.cbsnews.com/video/112726-48-hours-case-by-case-episode-32/",
       "imageUrl": null,
       "publishedAt": "2026-11-28T00:00:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_74829c53aa141262",
+      "source": "PBS",
+      "sourceColor": "#4A7A8C",
+      "headline": "Zelenskyy urges the U.S. to pressure Putin, calling Trump's 'my friend' remark strange",
+      "snippet": "\"He can't be a friend,\" Zelenskyy told the BBC in Kyiv, likening it to someone calling Adolf Hitler a friend during World War II.",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T15:31:42.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_0bba560ddfdca7b4",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Hackers attack and penetrate Air Force’s computing platform",
+      "snippet": "Hackers penetrated the Air Force’s cloud computing platform in a breach that could have exposed sensitive military information, a U.S. official said Friday.",
+      "link": "https://www.nbcnews.com/news/us-news/hackers-attack-penetrate-air-forces-computing-platform-rcna611559",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T15:28:41.000Z",
+      "tier": "developing",
+      "topic": "news",
+      "corroboratedCount": 3
+    },
+    {
+      "id": "story_8e9687feaa1328bc",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Serbia’s student-led movement nominates chemistry professor for presidency",
+      "snippet": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement.",
+      "link": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T15:26:50.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -157,6 +197,19 @@
       "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "imageUrl": null,
       "publishedAt": "2026-11-27T15:15:19.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_218dadbbc17c1dda",
+      "source": "NBC News",
+      "sourceColor": "#8A5A3E",
+      "headline": "Small Business Saturday is the most important day of the year for these companies — here’s how to support them",
+      "snippet": "American Express hosts Small Business Saturday every year. Here’s what to know about the holiday, how to show support year-round and how to find small businesses.",
+      "link": "https://www.nbcnews.com/select/shopping/small-business-saturday-2026-rcna611554",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T15:15:18.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -825,6 +878,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_d38f186cbdf153fd",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "ANTHONY IZAGUIRRE - AP News",
+      "snippet": "ANTHONY IZAGUIRRE  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VMWZCZmwzcFFQTjdBem4xaS1CbHRlR3ljOTFEbFhqZHBhMGg1V2cxdnkzRjdRdGRERWJVeXVGU1hJdDJhc1UzODJHd3VMY05SN0FmX1NB?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T14:09:15.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_bf2b98b86359d959",
       "source": "CBS News",
       "sourceColor": "#4A6FA5",
@@ -1449,6 +1515,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_c2308daa596ed138",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Buffalo Bills - AP News",
+      "snippet": "Buffalo Bills  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mYmwxMHpiQ1NZNmdFb3pHUE81NTBGU3JYWENWbUhldEg5d1Y5MWNSSmhtR3lneFhXTENUM2U1LXU1MzBMNjBHRWpJX0w?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T12:52:47.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_e039124fd339a55f",
       "source": "DW",
       "sourceColor": "#B08A3E",
@@ -1639,6 +1718,19 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTzVseGlXdFQyMk5IQTExaWFlRVQwZjhXRUpVQmVrMU96Z0l3MWh4ZlFhTjlLcmZ6VVZJWUMyczJ5THRSZ3dfR2FHQUJhRlZsU01mNjRWUW9rTkhheVJSWkRWWFJNUGhNd1d1N3pEOWtrNjV5dk9FYWUyY0hDaG16Vg?oc=5",
       "imageUrl": null,
       "publishedAt": "2026-11-27T12:26:36.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_de7d96ded3e54b2a",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Global diesel market to run into deficit in second quarter of 2027 - Reuters",
+      "snippet": "Global diesel market to run into deficit in second quarter of 2027  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUh5OURIMC1MRmNIM3pMa2ZMUnBhZjl4TjRVUWl6QTg4Mk9FdXluQWVubzNSOUNMUmROMGdnWGp2Wlp3Y1NxdFdaQ0tubFFoZTVlS3hydlBkcDJUWURvLVZKamppQTlvSm8yYkV0NE5rRlp6TVUtSzNsOUtGYUJtR1pWMl94TjA5UFRta3lPVldBaGtxQm95Wng2UVlwckszVVhaTHFYQ044cjNPQUE?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T12:25:44.000Z",
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
@@ -2602,97 +2694,6 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T11:28:04.000Z",
       "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_e7ce9a024e3944e6",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Minnesota Vikings - AP News",
-      "snippet": "Minnesota Vikings  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GRWpaUEU1TEx2bGluUkZkQUxtcVBsalRtekJJTDdmWlVSeXN6ZzlJT2V2bE5LLTJpR05qaU9JQkFJV1E0akZ1bFVXNVhhQk1Wa0E?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:27:24.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_8228e5c4302e1ab6",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Los Angeles Rams - AP News",
-      "snippet": "Los Angeles Rams  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mRVVLMUc5TzVoaTgydlU1bTVQV1lVUW0xaFk3N2E5N0lnX2VhbmhQVmtpaXNqdmE4d0gtWDFRWWZ2TkI0LTFKMS04WlBDaXVk?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:25:57.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_c59a5b232017f58a",
-      "source": "ABC News",
-      "sourceColor": "#3E5A7A",
-      "headline": " UN warns hunger will deepen in the Middle East",
-      "snippet": "Hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen among five nations at the highest level of concern, the U.N.’s food agencies warned Friday",
-      "link": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:24:09.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_462e342b1c08307e",
-      "source": "BBC",
-      "sourceColor": "#6A57B8",
-      "headline": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-      "snippet": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
-      "link": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:22:02.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_a7df677691a6b525",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Zelenskyy urges the US to pressure Putin, calling Trump’s ‘my friend’ remark strange - AP News",
-      "snippet": "Zelenskyy urges the US to pressure Putin, calling Trump’s ‘my friend’ remark strange  AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHZncjd6TjJOQy1tZVlWUVowZ0hBY2NWMjN2d1k3WXdzUlB4VUdlbl9kMDdLTnZ2bzY5eGlZUGFNSEQxYVNCaVNRYWlBTkZneUxoZm5ub1Q2MVd3QjFza1BJWWhiWEQ2Tk1aUE1jVlByV0h6NldmUC1NOUQ5WW5ka3pqdUFwaXI1SEd4VzNzUGNoZ2c5WG5Yd3dFeWpyY0taN3c?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:22:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 2
-    },
-    {
-      "id": "story_6e9202116d522cb8",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "End of an era as Marquez announces shock retirement after eighth MotoGP title - Reuters",
-      "snippet": "End of an era as Marquez announces shock retirement after eighth MotoGP title  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQi1LclRONjUyZXFIckxacGFscWNHTng2ZmUtTjM3eE1OV1V6anlZWDU4M3lJMHJGUlZlbkFuRmxNRWNMVTdsTjJ2RDNmYTJ6ZWlidThLYjdkUUFWMUpHMUdCTXBaaV9qMjgtVDFIOWtobUd3UHZJSlBqTVBJS1B6bzlqenB6SzBMWVVnZVY5LTl0TnAxSWc?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:20:49.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_6a185ef4ffa2e88d",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "Armed group kills 13 soldiers in western Niger attack, defense ministry says - AP News",
-      "snippet": "Armed group kills 13 soldiers in western Niger attack, defense ministry says  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX09kRWFacG5teU43bTdiNXNueFVzaFRva2hNUFFwMVlOeDZ2TFdKTkljV0hRQ0VpTkRWZnRvSmZRTUJpYXVacy02RUlUZGQ3NVJhS2JuelFjbTE5ZkY1Sm82Nk1FQTZZMFpfSW5NN1UzcF9hQ0hma0hKWE54dzducUMzQU9iUkFxSUo5YnE3NTBudw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T11:19:00.000Z",
-      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     }
