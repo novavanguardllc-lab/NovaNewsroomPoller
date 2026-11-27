@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-27T07:10:09.753Z",
+  "updatedAt": "2026-11-27T07:15:08.810Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.151Z"
+      "lastSuccess": "2026-11-27T07:15:08.923Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.011Z"
+      "lastSuccess": "2026-11-27T07:15:09.062Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:09.911Z"
+      "lastSuccess": "2026-11-27T07:15:09.005Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.368Z"
+      "lastSuccess": "2026-11-27T07:15:08.976Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.234Z"
+      "lastSuccess": "2026-11-27T07:15:09.001Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:09.954Z"
+      "lastSuccess": "2026-11-27T07:15:09.020Z"
     },
     "France24": {
-      "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.166Z"
+      "online": false,
+      "lastError": "Status code 403",
+      "lastErrorAt": "2026-11-27T07:15:09.173Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.349Z"
+      "lastSuccess": "2026-11-27T07:15:09.089Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:09.970Z"
+      "lastSuccess": "2026-11-27T07:15:09.098Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.446Z"
+      "lastSuccess": "2026-11-27T07:15:09.122Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.396Z"
+      "lastSuccess": "2026-11-27T07:15:09.144Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.171Z"
+      "lastSuccess": "2026-11-27T07:15:09.158Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.286Z"
+      "lastSuccess": "2026-11-27T07:15:09.171Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.091Z"
+      "lastSuccess": "2026-11-27T07:15:08.958Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.388Z"
+      "lastSuccess": "2026-11-27T07:15:09.125Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.411Z"
+      "lastSuccess": "2026-11-27T07:15:09.139Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T07:10:10.453Z"
+      "lastErrorAt": "2026-11-27T07:15:09.159Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.607Z"
+      "lastSuccess": "2026-11-27T07:15:09.179Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.458Z"
+      "lastSuccess": "2026-11-27T07:15:09.206Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.600Z"
+      "lastSuccess": "2026-11-27T07:15:09.248Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.543Z"
+      "lastSuccess": "2026-11-27T07:15:09.329Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.582Z"
+      "lastSuccess": "2026-11-27T07:15:09.243Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T07:10:10.052Z"
+      "lastSuccess": "2026-11-27T07:15:09.040Z"
     }
   },
   "items": [
@@ -535,6 +536,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-27T05:00:39.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_205d1987ef57da56",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Here are the main issues driving Spain’s national election and why they matter for Europe - AP News",
+      "snippet": "Here are the main issues driving Spain’s national election and why they matter for Europe  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpPaFdxTUpHbXNSemNIelRrb2xZQm5jZTBvT2VncV9EbWdWdjd3ZWdaUVVWSkl0dGpQaFRIcGFicTBKZDlFeG1lMHlyNTV2aHAtYXR6eFM2N2RwTDZyeS10VWtWNjhUcUtoamd3R3IzSzBaXzFDNl9KeXZUZlFRYXhhUUlzcF96OXJmZFpKTXN0ZDNERUY2b1RsYkhvbklYNXpTeW1na3Y?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T05:00:00.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2554,6 +2568,19 @@
       "corroboratedCount": 2
     },
     {
+      "id": "story_bb4405b640b785ac",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Russia-Ukraine | Breaking News & Live Updates - AP News",
+      "snippet": "Russia-Ukraine | Breaking News & Live Updates  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05dU5fdEx0UThlV1ZJRHRsY2dpalBXU0lPdkdndHY3QXBvUUhoWDhabS1PNzlOelV1UWhjdkNTZ19EWnVjcndORXl1WlFVZw?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T22:27:11.000Z",
+      "tier": "major",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_85178ceea81313b4",
       "source": "Semafor",
       "sourceColor": "#4A6A8A",
@@ -2666,32 +2693,6 @@
       "link": "https://www.france24.com/en/citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
       "imageUrl": "https://s.france24.com/media/display/014bc8ea-e9e6-11f1-adcd-81bc2b1dcd65/w:1024/p:16x9/EN-20261126-223107-224319-CS.jpg",
       "publishedAt": "2026-11-26T22:15:38.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_b241efd65803a36b",
-      "source": "Semafor",
-      "sourceColor": "#4A6A8A",
-      "headline": "Nvidia halts chip shipments to Southeast Asian countries",
-      "snippet": "Orders have been frozen for buyers in Malaysia, Singapore, Thailand, and Indonesia.",
-      "link": "https://www.semafor.com/article/11/26/2026/nvidia-halts-chip-shipments-to-southeast-asian-countries",
-      "imageUrl": "https://img.semafor.com/f32deb27b276f34d13fe91c9ded034369172cf60-4500x3001.jpg",
-      "publishedAt": "2026-11-26T22:15:23.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_096656e3f3e57561",
-      "source": "Washington Post",
-      "sourceColor": "#5A3E3E",
-      "headline": "Anita DeFrantz, 'outstanding advocate for Olympic values,' dies at 74",
-      "snippet": "A bronze medalist in rowing, she was the first woman and first African American elected to the International Olympic Committee.",
-      "link": "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T22:11:09.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
