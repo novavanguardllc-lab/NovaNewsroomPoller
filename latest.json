@@ -1,101 +1,128 @@
 {
-  "updatedAt": "2026-11-27T05:00:15.219Z",
+  "updatedAt": "2026-11-27T05:05:06.711Z",
   "sourceStatus": {
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.363Z"
+      "lastSuccess": "2026-11-27T05:05:06.905Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.660Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-27T05:05:06.992Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.446Z"
+      "lastSuccess": "2026-11-27T05:05:06.913Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.451Z"
+      "lastSuccess": "2026-11-27T05:05:06.952Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.387Z"
+      "lastSuccess": "2026-11-27T05:05:06.978Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.455Z"
+      "lastSuccess": "2026-11-27T05:05:06.932Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.478Z"
+      "lastSuccess": "2026-11-27T05:05:07.010Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.517Z"
+      "lastSuccess": "2026-11-27T05:05:07.106Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.272Z"
+      "lastSuccess": "2026-11-27T05:05:06.989Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.473Z"
+      "lastSuccess": "2026-11-27T05:05:07.016Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.470Z"
+      "lastSuccess": "2026-11-27T05:05:07.030Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.496Z"
+      "lastSuccess": "2026-11-27T05:05:07.013Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.577Z"
+      "lastSuccess": "2026-11-27T05:05:07.131Z"
     },
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.423Z"
+      "lastSuccess": "2026-11-27T05:05:06.848Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.482Z"
+      "lastSuccess": "2026-11-27T05:05:07.054Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.489Z"
+      "lastSuccess": "2026-11-27T05:05:07.045Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-27T05:00:15.496Z"
+      "lastErrorAt": "2026-11-27T05:05:07.145Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.485Z"
+      "lastSuccess": "2026-11-27T05:05:07.048Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.527Z"
+      "lastSuccess": "2026-11-27T05:05:07.165Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.590Z"
+      "lastSuccess": "2026-11-27T05:05:07.266Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.564Z"
+      "lastSuccess": "2026-11-27T05:05:07.231Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.697Z"
+      "lastSuccess": "2026-11-27T05:05:07.292Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-27T05:00:15.436Z"
+      "lastSuccess": "2026-11-27T05:05:07.246Z"
     }
   },
   "items": [
+    {
+      "id": "story_c371a00524c568a9",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "New Zealand’s Opportunity Party poised to become election kingmaker",
+      "snippet": "The newly-elected Opportunity party is now in a position to swing New Zealand’s next parliament to the left or right.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/new-zealands-opportunity-party-poised-to-become-election-kingmaker?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T04:59:53.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_da37ed39bbda643e",
+      "source": "Al Jazeera",
+      "sourceColor": "#C99A2E",
+      "headline": "Estonia closing land borders with Russia to keep out spies",
+      "snippet": "Estonia is set to close its land border crossings to Russia by December 1.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T04:46:15.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
     {
       "id": "story_791eae3da18d74eb",
       "source": "Al Jazeera",
@@ -2281,6 +2308,19 @@
       "corroboratedCount": 1
     },
     {
+      "id": "story_8bfa80dbf131a3dc",
+      "source": "Reuters",
+      "sourceColor": "#3E76AD",
+      "headline": "Steelers owner backs head coach McCarthy after Rodgers' accusations - Reuters",
+      "snippet": "Steelers owner backs head coach McCarthy after Rodgers' accusations  Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmtySENIbHdmT3J3VGNhd3k4V3hmSzQ1dXEtb0czRFdLNW1RQUFYWEZtakItMWt4UDhDQTB6SlFFdUotbDAtcnAzenpqeVI4S19abkdIWHJsVGJtbmZGNGhxaV8yMjR2MXhxdXRRVTNuM0M1SnZfeDgwWm8zc2hvVUt6amQyeV9EMzVHZzUwQzlfVDhHSFk2ZjBJdnVzdElRZURxZFpyWG9tRjBIZ2c?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T21:30:40.000Z",
+      "tier": "major",
+      "topic": "sports",
+      "corroboratedCount": 1
+    },
+    {
       "id": "story_f0812ba346940655",
       "source": "Reuters",
       "sourceColor": "#3E76AD",
@@ -2656,45 +2696,6 @@
       "tier": "developing",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_c6adc1595901df8b",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-      "snippet": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’\n\nGet our breaking news email, free app or daily news podcast\n\nYears-old recommendatio",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T20:33:26.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_9fc728089f567d8a",
-      "source": "Guardian",
-      "sourceColor": "#3E8A65",
-      "headline": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-      "snippet": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City\nIsraeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face int",
-      "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T20:33:07.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
-    },
-    {
-      "id": "story_3d45579759ee1294",
-      "source": "Al Jazeera",
-      "sourceColor": "#C99A2E",
-      "headline": "Indian politician facing murder charges hosts 400,000-guest wedding",
-      "snippet": "An estimated 400,000 people attended politician Anant Singh’s daughter’s lavish wedding in Bihar, India’s poorest state.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_indian-politician-facing-murder-charges-wedding-261126?traffic_source=rss",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T20:32:43.000Z",
-      "tier": "routine",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
