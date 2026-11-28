@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-11-28T03:10:08.808Z",
+  "updatedAt": "2026-11-28T03:15:08.629Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:08.923Z"
+      "lastSuccess": "2026-11-28T03:15:08.938Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:08.972Z"
+      "lastSuccess": "2026-11-28T03:15:08.823Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:08.959Z"
+      "lastSuccess": "2026-11-28T03:15:08.740Z"
     },
     "AP": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:08.882Z"
+      "lastSuccess": "2026-11-28T03:15:08.840Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:08.941Z"
+      "lastSuccess": "2026-11-28T03:15:08.859Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:08.991Z"
+      "lastSuccess": "2026-11-28T03:15:08.800Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.033Z"
+      "lastSuccess": "2026-11-28T03:15:08.912Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.311Z"
+      "lastSuccess": "2026-11-28T03:15:08.955Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-28T03:10:09.240Z"
+      "lastErrorAt": "2026-11-28T03:15:08.988Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.151Z"
+      "lastSuccess": "2026-11-28T03:15:08.971Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.143Z"
+      "lastSuccess": "2026-11-28T03:15:09.027Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.136Z"
+      "lastSuccess": "2026-11-28T03:15:09.064Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.157Z"
+      "lastSuccess": "2026-11-28T03:15:08.993Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.197Z"
+      "lastSuccess": "2026-11-28T03:15:08.719Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.099Z"
+      "lastSuccess": "2026-11-28T03:15:08.891Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.223Z"
+      "lastSuccess": "2026-11-28T03:15:08.988Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.245Z"
+      "lastSuccess": "2026-11-28T03:15:09.002Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.159Z"
+      "lastSuccess": "2026-11-28T03:15:09.014Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.359Z"
+      "lastSuccess": "2026-11-28T03:15:09.017Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.328Z"
+      "lastSuccess": "2026-11-28T03:15:09.078Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.220Z"
+      "lastSuccess": "2026-11-28T03:15:08.968Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.420Z"
+      "lastSuccess": "2026-11-28T03:15:09.234Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-28T03:10:09.277Z"
+      "lastSuccess": "2026-11-28T03:15:09.177Z"
     }
   },
   "items": [
@@ -236,6 +236,19 @@
       "imageUrl": null,
       "publishedAt": "2026-11-28T02:05:27.000Z",
       "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_24d9676c63156218",
+      "source": "AP",
+      "sourceColor": "#2A8F89",
+      "headline": "Kentucky - AP News",
+      "snippet": "Kentucky  AP News",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15QS1obUtTbmJ4UlFxSTdHdkg3U0R0SlhxcWJ4VjRsZTAtZlRvOWFpNG5wTGZYTHVSbmVWZkZrbkxKR2ZkRXc?oc=5",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:03:55.000Z",
+      "tier": "major",
       "topic": "news",
       "corroboratedCount": 1
     },
@@ -2682,19 +2695,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_a2d4ca981a971eec",
-      "source": "Reuters",
-      "sourceColor": "#3E76AD",
-      "headline": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief - Reuters",
-      "snippet": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief  Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFRwQWxfcmJJYjdURlh4dEJ6bHRBMXdvZUt3Ry0wMGRmMDduc2N0NXVleHBaSWtFbENkbzVkSjRCMDNrUlp5LTdtdHd1WHBfZ044QllESlc1eTdRLTZCQ1NOTHo0aDVJX2xoeDRxOVZPSGxhdVYyOEZPT2w1eDBkZ0RlWUowdC1DWW52Wl85eEYtTHhNb1ZkMENTVmdzdHRTcEluMTZnSU9QSFF2c19rQ3Z0QXBoS3RoS3AtYy0yUQ?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-27T21:10:41.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
