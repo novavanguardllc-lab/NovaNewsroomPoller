@@ -1,98 +1,99 @@
 {
-  "updatedAt": "2026-11-28T14:20:09.310Z",
+  "updatedAt": "2026-11-28T14:25:06.944Z",
   "sourceStatus": {
     "Fox News": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.419Z"
+      "lastSuccess": "2026-11-28T14:25:06.983Z"
     },
     "NPR": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.427Z"
+      "lastSuccess": "2026-11-28T14:25:07.023Z"
     },
     "Al Jazeera": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.378Z"
+      "lastSuccess": "2026-11-28T14:25:06.994Z"
     },
     "AP": {
-      "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.777Z"
+      "online": false,
+      "lastError": "Status code 429",
+      "lastErrorAt": "2026-11-28T14:25:07.295Z"
     },
     "Reuters": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.435Z"
+      "lastSuccess": "2026-11-28T14:25:07.473Z"
     },
     "PBS": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.425Z"
+      "lastSuccess": "2026-11-28T14:25:07.000Z"
     },
     "Politico": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.512Z"
+      "lastSuccess": "2026-11-28T14:25:07.038Z"
     },
     "UPI": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.466Z"
+      "lastSuccess": "2026-11-28T14:25:07.124Z"
     },
     "USA Today": {
       "online": false,
       "lastError": "Status code 402",
-      "lastErrorAt": "2026-11-28T14:20:09.567Z"
+      "lastErrorAt": "2026-11-28T14:25:07.184Z"
     },
     "Sky News": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.460Z"
+      "lastSuccess": "2026-11-28T14:25:07.115Z"
     },
     "NYT": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.476Z"
+      "lastSuccess": "2026-11-28T14:25:07.091Z"
     },
     "CBS News": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.516Z"
+      "lastSuccess": "2026-11-28T14:25:07.095Z"
     },
     "Wash Examiner": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.542Z"
+      "lastSuccess": "2026-11-28T14:25:07.130Z"
     },
     "Guardian": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.398Z"
+      "lastSuccess": "2026-11-28T14:25:07.017Z"
     },
     "ProPublica": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.456Z"
+      "lastSuccess": "2026-11-28T14:25:07.077Z"
     },
     "Washington Post": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.559Z"
+      "lastSuccess": "2026-11-28T14:25:07.186Z"
     },
     "ABC News": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.566Z"
+      "lastSuccess": "2026-11-28T14:25:07.148Z"
     },
     "BBC": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.561Z"
+      "lastSuccess": "2026-11-28T14:25:07.120Z"
     },
     "France24": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.521Z"
+      "lastSuccess": "2026-11-28T14:25:07.052Z"
     },
     "NBC News": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.679Z"
+      "lastSuccess": "2026-11-28T14:25:07.206Z"
     },
     "DW": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.556Z"
+      "lastSuccess": "2026-11-28T14:25:07.140Z"
     },
     "The Hill": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:11.352Z"
+      "lastSuccess": "2026-11-28T14:25:08.812Z"
     },
     "Semafor": {
       "online": true,
-      "lastSuccess": "2026-11-28T14:20:09.629Z"
+      "lastSuccess": "2026-11-28T14:25:07.182Z"
     }
   },
   "items": [
@@ -118,6 +119,19 @@
       "link": "https://www.dw.com/en/ai-generated-lawsuits-flood-german-courts/a-80076247?maca=en-rss-en-all-1573-rdf",
       "imageUrl": null,
       "publishedAt": "2026-11-28T14:13:00.000Z",
+      "tier": "routine",
+      "topic": "news",
+      "corroboratedCount": 1
+    },
+    {
+      "id": "story_e789aa2de0348686",
+      "source": "Guardian",
+      "sourceColor": "#3E8A65",
+      "headline": "Costa Rica bars UN rapporteur on Palestinian territories from entering the country",
+      "snippet": "Francesca Albanese, leading critic of Israeli abuses in Gaza and West Bank, barred on ‘national security grounds’\nCosta Rica barred entry to the UN special rapporteur on the Israel-occupied Palestinian territories, Francesca Albanese, earni",
+      "link": "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T14:11:53.000Z",
       "tier": "routine",
       "topic": "news",
       "corroboratedCount": 1
@@ -2682,19 +2696,6 @@
       "tier": "major",
       "topic": "news",
       "corroboratedCount": 2
-    },
-    {
-      "id": "story_97ad4b39e376be29",
-      "source": "AP",
-      "sourceColor": "#2A8F89",
-      "headline": "An explosion at a middle school in eastern Afghanistan kills or wounds several students - AP News",
-      "snippet": "An explosion at a middle school in eastern Afghanistan kills or wounds several students  AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzQwcm1zRUVmQVB2b3E5X1Q4RHZxbWRGY1ctOFQwZ1otcC11UUJHM2wyZVBhUGhlTTgxYmt1SFc0N0k1aGlnQmxwVUI4S0dXX3NpdzhXYVg2UTdQc3R2bGNrZFJMempoZ3FTZzFhamFPWGt6TDc4NG5BTElMS3JqSmM4OUVlcFBod09hZnIzcVBwdw?oc=5",
-      "imageUrl": null,
-      "publishedAt": "2026-11-28T07:51:00.000Z",
-      "tier": "major",
-      "topic": "news",
-      "corroboratedCount": 1
     }
   ]
 }
